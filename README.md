@@ -62,10 +62,10 @@ Official Website > GitHub > GitLab > BitBucket > SpigotMC > Bukkit > PaperMC
         "numberOfVotes": 500, // optional for other than spigot
       }],
       "cid": "777AAA", // optional for meta-packages (like EssentialsX)
-      "supportedApis": ["spigot", "paper", "glowkit"],
-      "dependencies": ["essentialsx-core"],
-      "optionalDependencies": [], // dependencies that are recommended for use with certain package
-      "supportedVersions": ["1.19"] // supported Minecraft versions
+      "supportedApis": ["spigot", "paper", "glowkit"], // optional
+      "dependencies": ["essentialsx-core"], // optional
+      "optionalDependencies": [], // optional, dependencies that are recommended for use with certain package
+      "supportedVersions": ["1.19"] // optional, supported Minecraft versions
     }
   }
 ```
