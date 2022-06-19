@@ -42,7 +42,7 @@
 
 `versions.json`
 ```jsonc
-  2137: [
+  "2137": {
     "2.1.3.7": {
       "about": [{
         "type": "github",
@@ -60,7 +60,7 @@
       "supportedApis": ["spigot", "paper", "glowkit"],
       "dependencies": ["essentialsx-core"]
     }
-  ]
+  }
 ```
 
 ## Contributing
