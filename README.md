@@ -62,3 +62,9 @@
     }
   ]
 ```
+
+## Contributing
+
+Contributors are welcome, please fork and send pull requests! If you find a bug
+or have any ideas on how to improve this project please submit an issue.
+
