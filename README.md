@@ -1,6 +1,11 @@
 # repository
 
-### Design (DB structure)
+## Source of truth
+
+When downloading file, or taking data, you / script should source data in the following order:
+Official Website > GitHub > GitLab > BitBucket > SpigotMC > Bukkit > PaperMC
+
+## Design (DB structure)
 `name.json`
 ```jsonc
   "name_of_plugin": 2137 // name: pgid
