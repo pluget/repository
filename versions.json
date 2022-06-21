@@ -38,27 +38,27 @@
     "2.0.1-b319": {
       "supportedApis": ["bukkit", "spigot", "paper"],
       "dependencies": ["essentialsx-core@2.0.1-b319"],
-      "supportedVersions": ["1.8.1"]
+      "supportedVersions": ["1.9"]
     },
     "2.0.1-b330": {
       "supportedApis": ["bukkit", "spigot", "paper"],
       "dependencies": ["essentialsx-core@2.0.1-b330"],
-      "supportedVersions": ["1.8.1"]
+      "supportedVersions": ["1.9"]
     },
     "2.0.1-b354": {
       "supportedApis": ["bukkit", "spigot", "paper"],
       "dependencies": ["essentialsx-core@2.0.1-b354"],
-      "supportedVersions": ["1.8.1"]
+      "supportedVersions": ["1.10"]
     },
     "2.0.1-b370": {
       "supportedApis": ["bukkit", "spigot", "paper"],
       "dependencies": ["essentialsx-core@2.0.1-b370"],
-      "supportedVersions": ["1.8.1"]
+      "supportedVersions": ["1.10"]
     },
     "2.0.1-b488": {
       "supportedApis": ["bukkit", "spigot", "paper"],
       "dependencies": ["essentialsx-core@2.0.1-b488"],
-      "supportedVersions": ["1.8.1"]
+      "supportedVersions": ["1.10", "1.11", "1.12"]
     },
     "2.15.0.1": {
       "supportedApis": ["bukkit", "spigot", "paper"],
