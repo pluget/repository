@@ -44,7 +44,7 @@ Official Website > GitHub > GitLab > BitBucket > SpigotMC > Bukkit > PaperMC
 `versions.json`
 ```jsonc
      {
-      "about": [{
+        "about": [{
         "type": "github",
         "sourceUrl": "https://github.com/mbledkowski/name_of_plugin/releases/2137",
         "downloadUrl": "https://github.com/mbledkowski/name_of_plugin/releases/2137/plugin.jar",
