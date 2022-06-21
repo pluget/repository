@@ -61,7 +61,7 @@ Official Website > GitHub > GitLab > BitBucket > SpigotMC > Bukkit > PaperMC
    "dependencies": ["essentialsx-core"], // optional
    "optionalDependencies": [], // optional, dependencies that are recommended for use with certain package
    "supportedVersions": ["1.19"] // optional, supported Minecraft versions
- }
+  }
 ```
 
 ## Contributing
