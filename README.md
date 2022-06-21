@@ -6,14 +6,10 @@ When downloading file, or taking data, you / script should source data in the fo
 Official Website > GitHub > GitLab > BitBucket > SpigotMC > Bukkit > PaperMC
 
 ## Design (DB structure)
-`name.json`
-```jsonc
-  "name_of_plugin": 2137 // name: pgid
-```
 
 `data.json`
 ```jsonc
-  2137: {
+  {
     "name": "Full name of plugin",
     "icon": "99999AF", // icon: cid
     "license": "GPL-3.0-or-later", // license: spdx
@@ -47,8 +43,7 @@ Official Website > GitHub > GitLab > BitBucket > SpigotMC > Bukkit > PaperMC
 
 `versions.json`
 ```jsonc
-  "2137": {
-    "2.1.3.7": {
+     {
       "about": [{
         "type": "github",
         "sourceUrl": "https://github.com/mbledkowski/name_of_plugin/releases/2137",
@@ -67,7 +62,6 @@ Official Website > GitHub > GitLab > BitBucket > SpigotMC > Bukkit > PaperMC
       "optionalDependencies": [], // optional, dependencies that are recommended for use with certain package
       "supportedVersions": ["1.19"] // optional, supported Minecraft versions
     }
-  }
 ```
 
 ## Contributing
