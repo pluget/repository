@@ -6,6 +6,7 @@ When downloading file, or taking data, you / script should source data in the fo
 Official Website > GitHub > GitLab > BitBucket > SpigotMC > Bukkit > PaperMC
 
 ## Design (DB structure)
+first_letter > full_name > data.json / version.json
 
 `data.json`
 ```jsonc
@@ -41,7 +42,7 @@ Official Website > GitHub > GitLab > BitBucket > SpigotMC > Bukkit > PaperMC
   }
 ```
 
-`versions.json`
+`version.json`
 ```jsonc
   {
      "about": [{
