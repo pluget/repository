@@ -1,0 +1,5 @@
+{
+  "supportedApis": ["bukkit", "spigot", "paper"],
+  "dependencies": ["essentialsx-core@2.0.1"],
+  "supportedVersions": ["1.8.1"]
+}

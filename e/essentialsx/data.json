@@ -1,0 +1,93 @@
+{
+  "name": "EssentialsX",
+  "icon": "bafkreibmriksowgihknfmttp6gvrnywvqjlecn227mik2j2ijrudzly4ey",
+  "license": "GPL-3.0-only",
+  "archived": false,
+  "gitUrl": "https://github.com/EssentialsX/Essentials.git",
+  "description": "The modern Essentials suite for Spigot and Paper.",
+  "data": [
+    {
+      "id": 9089,
+      "type": "spigot",
+      "url": "https://www.spigotmc.org/resources/essentialsx.9089/",
+      "name": "EssentialsX",
+      "description": "The modern Essentials suite for Spigot and Paper.",
+      "archived": false,
+      "authors": ["md678685"],
+      "icon": "bafkreiaesu4tu2deet2fmamuweekrlq2dydcac6buymhyeoxpqxxugpuw4",
+      "iconUrl": "https://www.spigotmc.org/data/resource_icons/9/9089.jpg",
+      "numberOfDownloads": 4531079,
+      "rating": 9.2,
+      "numberOfVotes": 545,
+      "releasesPageUrl": "https://www.spigotmc.org/resources/essentialsx.9089/history"
+    },
+    {
+      "id": 93271,
+      "type": "bukkit",
+      "url": "https://dev.bukkit.org/projects/essentialsx",
+      "name": "EssentialsX",
+      "description": "The modern Essentials suite for Spigot and Paper.",
+      "archived": false,
+      "authors": ["drtshock", "Forge_User_43862580", "m_baxter", "mdcfe"],
+      "icon": "bafkreibmriksowgihknfmttp6gvrnywvqjlecn227mik2j2ijrudzly4ey",
+      "iconUrl": "https://media.forgecdn.net/avatars/216/177/637001113046356796.png",
+      "numberOfDownloads": 1454185,
+      "releasesPageUrl": "https://dev.bukkit.org/projects/essentialsx/files"
+    },
+    {
+      "type": "papermc",
+      "url": "https://forums.papermc.io/threads/essentialsx-2-19-4-the-essential-plugin-suite-for-paper-servers.8/",
+      "name": "EssentialsX 2.19.4: the essential plugin suite for Paper servers",
+      "authors": ["mdcfe"]
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/EssentialsX/Essentials",
+      "archived": false,
+      "authors": [
+        "khobbits",
+        "snowleo",
+        "mdcfe",
+        "ElgarL",
+        "JRoy",
+        "necrodoom",
+        "SupaHam",
+        "Iaccidentally",
+        "vemacs",
+        "drtshock",
+        "ementalo",
+        "chrisgward",
+        "pop4959",
+        "md-5",
+        "GunfighterJ",
+        "triagonal",
+        "okamosy",
+        "delbertina",
+        "LCookman",
+        "montlikadani",
+        "khyperia",
+        "Ichbinjoe",
+        "darbyjack",
+        "Flask-Bot",
+        "evonuts",
+        "Skylexia",
+        "JasonHorkles",
+        "caojohnny",
+        "kukelekuuk",
+        "LaxWasHere"
+      ],
+      "numberOfStars": 1390,
+      "releasesPageUrl": "https://github.com/EssentialsX/Essentials/releases"
+    },
+    {
+      "type": "jenkins",
+      "url": "https://ci.ender.zone/job/EssentialsX/",
+      "releasesPageUrl": "https://ci.ender.zone/job/EssentialsX/"
+    },
+    {
+      "type": "website",
+      "url": "https://essentialsx.net/",
+      "releasesPageUrl": "https://essentialsx.net/downloads.html"
+    }
+  ]
+}
