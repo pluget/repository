@@ -43,25 +43,25 @@ Official Website > GitHub > GitLab > BitBucket > SpigotMC > Bukkit > PaperMC
 
 `versions.json`
 ```jsonc
-   {
-      "about": [{
-      "type": "github",
-      "sourceUrl": "https://github.com/mbledkowski/name_of_plugin/releases/2137",
-      "downloadUrl": "https://github.com/mbledkowski/name_of_plugin/releases/2137/plugin.jar",
-    }, {
-      "type": "spigot",
-      "sourceUrl": "https://spigotmc.org/resources/213769/releases/2137",
-      "downloadUrl": "https://spigotmc.org/resources/213769/releases/2137/plugin.jar",
-      "numberOfDownloads": 5000,
-      "rating": 2, // scale 0-10, optional for other than spigot
-      "numberOfVotes": 500, // optional for other than spigot
-    }],
-    "cid": "777AAA", // optional for meta-packages (like EssentialsX)
-    "supportedApis": ["spigot", "paper", "glowkit"], // optional
-    "dependencies": ["essentialsx-core"], // optional
-    "optionalDependencies": [], // optional, dependencies that are recommended for use with certain package
-    "supportedVersions": ["1.19"] // optional, supported Minecraft versions
-  }
+  {
+     "about": [{
+     "type": "github",
+     "sourceUrl": "https://github.com/mbledkowski/name_of_plugin/releases/2137",
+     "downloadUrl": "https://github.com/mbledkowski/name_of_plugin/releases/2137/plugin.jar",
+   }, {
+     "type": "spigot",
+     "sourceUrl": "https://spigotmc.org/resources/213769/releases/2137",
+     "downloadUrl": "https://spigotmc.org/resources/213769/releases/2137/plugin.jar",
+     "numberOfDownloads": 5000,
+     "rating": 2, // scale 0-10, optional for other than spigot
+     "numberOfVotes": 500, // optional for other than spigot
+   }],
+   "cid": "777AAA", // optional for meta-packages (like EssentialsX)
+   "supportedApis": ["spigot", "paper", "glowkit"], // optional
+   "dependencies": ["essentialsx-core"], // optional
+   "optionalDependencies": [], // optional, dependencies that are recommended for use with certain package
+   "supportedVersions": ["1.19"] // optional, supported Minecraft versions
+ }
 ```
 
 ## Contributing
