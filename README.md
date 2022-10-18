@@ -56,8 +56,10 @@ first_letter > full_name > data.json / version.json
      "numberOfDownloads": 5000,
      "rating": 2, // scale 0-10, optional for other than spigot
      "numberOfVotes": 500, // optional for other than spigot
+     "releaseDate": 1364392800
    }],
    "cid": "777AAA", // optional for meta-packages (like EssentialsX)
+   "releaseDate": 1364392800, // earliest date of release
    "supportedApis": ["spigot", "paper", "glowkit"], // optional
    "dependencies": ["essentialsx-core"], // optional
    "optionalDependencies": [], // optional, dependencies that are recommended for use with certain package
