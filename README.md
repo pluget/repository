@@ -17,6 +17,8 @@ first_letter > full_name > data.json / version.json
     "archived": false,
     "gitUrl": "https://github.com/mbledkowski/name_of_plugin.git",
     "description": "The best plugin in the entire world", // description: short description
+    "releaseDate": 1364368440, // optional for meta-packages
+    "updateDate": 1515903349, // optional for meta-packages
     "data": [{
       "id": 213769, // if other than spigot/bukkit then optional
       "type": "spigot",
