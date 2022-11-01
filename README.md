@@ -25,7 +25,7 @@ first_letter > full_name > data.json / version.json
       "url": "https://spigotmc.org/resources/213769",
       "name": "Full name of plugin - The best plugin in the fing world", // optional
       "description": "The best plugin in the world. Download right now.", // optional
-      "archived": false, // optional for custom websites
+      "archived": false, // optional for custom websites and spigot
       "authors": ["Slayer420"], // optional for custom websites
       "icon": "666FFF", // optional, icon: cid
       "iconUrl": "https://www.spigotmc.org/data/resource_icons/9/9089.jpg" // optional
