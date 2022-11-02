@@ -2,7 +2,7 @@
 
 ## Source of truth
 
-When downloading file, or manually putting data, you/script should source the data in the following order:
+When downloading file or fetching data, you/your script should source the data in the following order:
 
 Official Website > GitHub > GitLab > BitBucket > SpigotMC > Bukkit > PaperMC
 
