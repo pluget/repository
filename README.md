@@ -6,7 +6,7 @@ When downloading file or fetching data, you/your script should source the data i
 
 Official Website > GitHub > GitLab > BitBucket > SpigotMC > Bukkit > PaperMC
 
-Although this order can be ignored if the data is more accurate/in higher quality in certain source.
+Although this order can be ignored if the data is more accurate/in higher quality in a certain place.
 
 ## Database structure
 
