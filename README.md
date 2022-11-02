@@ -75,12 +75,12 @@ Although this order can be ignored if the data is more accurate/in higher qualit
 `versions/*/data.json` (e.g. `versions/2.0.1/data.json`)
 ```jsonc
   {
-   "cid": "777AAA", // optional if meta-package (like EssentialsX)
-   "supportedApis": ["spigot", "paper", "glowkit"], // optional
-   "dependencies": ["essentialsx-core"], // optional
-   "optionalDependencies": [], // optional, dependencies that are recommended for use with certain package
-   "releaseDate": 1364392800, // earliest date of release
-   "supportedVersions": ["1.19"] // optional, supported Minecraft versions
+    "cid": "777AAA", // optional if meta-package (like EssentialsX)
+    "supportedApis": ["spigot", "paper", "glowkit"], // optional
+    "dependencies": ["essentialsx-core"], // optional
+    "optionalDependencies": [], // optional, dependencies that are recommended for use with certain package
+    "releaseDate": 1364392800, // earliest date of release
+    "supportedVersions": ["1.19"] // optional, supported Minecraft versions
   }
 ```
 
