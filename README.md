@@ -1,12 +1,25 @@
-# repository
+# pluget repository
 
 ## Source of truth
 
-When downloading file, or taking data, you / script should source data in the following order:
+When downloading file, or manually putting data, you/script should source the data in the following order:
+
 Official Website > GitHub > GitLab > BitBucket > SpigotMC > Bukkit > PaperMC
 
-## Design (DB structure)
-first_letter > full_name > data.json / version.json
+Although if this order can be ignored if the data is more accurate/in higher quality in certain source.
+
+## Database structure
+
+- `f` (first letter)
+  - `full-name`
+    - `data.json`
+    - `spigot.json`
+    - `versions`
+      - `2.0.1` (version)
+        - `data.json`
+        - `spigot.json`
+
+## Files and their structure
 
 `data.json`
 ```jsonc
@@ -17,60 +30,79 @@ first_letter > full_name > data.json / version.json
     "archived": false,
     "gitUrl": "https://github.com/mbledkowski/name_of_plugin.git",
     "description": "The best plugin in the entire world", // description: short description
-    "releaseDate": 1364368440, // optional for meta-packages
-    "updateDate": 1515903349, // optional for meta-packages
-    "data": [{
-      "id": 213769, // if other than spigot/bukkit then optional
-      "type": "spigot",
-      "url": "https://spigotmc.org/resources/213769",
-      "name": "Full name of plugin - The best plugin in the fing world", // optional
-      "description": "The best plugin in the world. Download right now.", // optional
-      "archived": false, // optional for custom websites and spigot
-      "authors": ["Slayer420"], // optional for custom websites
-      "icon": "666FFF", // optional, icon: cid
-      "iconUrl": "https://www.spigotmc.org/data/resource_icons/9/9089.jpg" // optional
-      "numberOfDownloads": 2115, // optional for other than spigot/bukkit
-      "rating": 2, // scale 0-10; optional for other than spigot
-      "numberOfVotes": 500, // optional for other than spigot
-      "releasesPageUrl": "https://spigotmc.org/resources/213769/releases" // optional for custom
-    }, {
-      "type": "github",
-      "url": "https://github.com/mbledkowski/name_of_plugin",
-      "archived" false,
-      "authors": ["mbledkowski"],
-      "numberOfStars": 1400, //optional for other than github/gitlab
-      "releasesPageUrl": "https://github.com/mbledkowski/name_of_plugin/releases"
-    }]
+    "releaseDate": 1364368440, // optional if meta-package
+    "updateDate": 1515903349 // optional if meta-package
   }
 ```
 
-`version.json`
+`readme.*` (e.g. `readme.md`, `readme.txt`)
+```txt
+  README file of the plugin.
+```
+
+`*.json` (e.g. `spigot.json`, `bukkit.json`, `github.json`)
 ```jsonc
   {
-   "about": [{
-     "type": "github",
-     "sourceUrl": "https://github.com/mbledkowski/name_of_plugin/releases/2137",
-     "downloadUrl": "https://github.com/mbledkowski/name_of_plugin/releases/2137/plugin.jar",
-   }, {
-     "type": "spigot",
-     "sourceUrl": "https://spigotmc.org/resources/213769/releases/2137",
-     "downloadUrl": "https://spigotmc.org/resources/213769/releases/2137/plugin.jar",
-     "numberOfDownloads": 5000,
-     "rating": 2, // scale 0-10, optional for other than spigot
-     "numberOfVotes": 500, // optional for other than spigot
-     "releaseDate": 1364392800
-   }],
-   "cid": "777AAA", // optional for meta-packages (like EssentialsX)
-   "releaseDate": 1364392800, // earliest date of release
+    "id": 213769, // optional if other than spigot/bukkit
+    "url": "https://spigotmc.org/resources/213769",
+    "name": "Full name of plugin - The best plugin in the fing world", // optional if other than spigot/bukkit 
+    "description": "The best plugin in the world. Download right now.", // optional if other than spigot/bukkit
+    "archived": false, // optional if custom website/spigot
+    "authors": ["Slayer420"], // optional if custom website
+    "icon": "666FFF", // optional if no icon, icon: cid
+    "iconUrl": "https://www.spigotmc.org/data/resource_icons/9/9089.jpg", // optional if no icon
+    "numberOfDownloads": 2115, // optional if other than spigot/bukkit
+    "rating": 2, // scale 0-10; optional if other than spigot
+    "numberOfVotes": 500, // optional if other than spigot
+    "releasesPageUrl": "https://spigotmc.org/resources/213769/releases", // optional if custom
+    "gitUrl": "https://github.com/mbledkowski/name_of_plugin/releases", // optional
+    "donationUrl": "https://paypal.me/ineedmoney", // optional
+    "releaseDate": 2137, // optional if other than spigot
+    "updateDate": 2137, // optional if other than spigot
+    "versions": ["1.18", "1.19"] // optional
+  }
+```
+```jsonc
+  {
+    "url": "https://github.com/mbledkowski/name_of_plugin",
+    "archived" false,
+    "authors": ["mbledkowski"],
+    "numberOfStars": 1400, //optional if other than github/gitlab
+    "releasesPageUrl": "https://github.com/mbledkowski/name_of_plugin/releases"
+  }]
+```
+
+`versions/*/data.json` (e.g. `versions/2.0.1/data.json`)
+```jsonc
+   "cid": "777AAA", // optional if meta-package (like EssentialsX)
    "supportedApis": ["spigot", "paper", "glowkit"], // optional
    "dependencies": ["essentialsx-core"], // optional
    "optionalDependencies": [], // optional, dependencies that are recommended for use with certain package
+   "releaseDate": 1364392800, // earliest date of release
    "supportedVersions": ["1.19"] // optional, supported Minecraft versions
+  }
+```
+
+`versions/*/*.json` (e.g. `versions/2.0.1/spigot.json`, `versions/2.0.1/github.json`)
+```jsonc
+  {
+    "sourceUrl": "https://spigotmc.org/resources/213769/releases/2137",
+    "downloadUrl": "https://spigotmc.org/resources/213769/releases/2137/plugin.jar",
+    "numberOfDownloads": 5000,
+    "rating": 2, // scale 0-10, float, optional if other than spigot
+    "numberOfVotes": 500, // optional if other than spigot
+    "releaseDate": 1364392800 // optional
+  }
+```
+```jsonc
+  {
+    "sourceUrl": "https://github.com/mbledkowski/name_of_plugin/releases/2137",
+    "downloadUrl": "https://github.com/mbledkowski/name_of_plugin/releases/2137/plugin.jar"
   }
 ```
 
 ## Contributing
 
-Contributors are welcome, please fork and send pull requests! If you find a bug
-or have any ideas on how to improve this project please submit an issue.
+Contributors are welcome, please fork and send pull requests!
+If you found an error or have any ideas on how to improve this project please submit an issue.
 
