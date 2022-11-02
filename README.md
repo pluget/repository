@@ -69,7 +69,7 @@ Although this order can be ignored if the data is more accurate/in higher qualit
     "authors": ["mbledkowski"],
     "numberOfStars": 1400, //optional if other than github/gitlab
     "releasesPageUrl": "https://github.com/mbledkowski/name_of_plugin/releases"
-  }]
+  }
 ```
 
 `versions/*/data.json` (e.g. `versions/2.0.1/data.json`)
