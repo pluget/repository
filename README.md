@@ -74,6 +74,7 @@ Although this order can be ignored if the data is more accurate/in higher qualit
 
 `versions/*/data.json` (e.g. `versions/2.0.1/data.json`)
 ```jsonc
+  {
    "cid": "777AAA", // optional if meta-package (like EssentialsX)
    "supportedApis": ["spigot", "paper", "glowkit"], // optional
    "dependencies": ["essentialsx-core"], // optional
