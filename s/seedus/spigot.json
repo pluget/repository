@@ -1,0 +1,21 @@
+{
+  "id": 88200,
+  "url": "https://www.spigotmc.org/resources/seedus.88200/",
+  "name": "Seedus",
+  "description": "Automate your farms",
+  "authors": [
+    "SecretX"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88200.jpg?1611419482",
+  "iconCid": "bafkreifpwy6lnmy2ie2fsvou3wfrzuit5len36gi3gyabujyjg6y42t2mm",
+  "numberOfDownloads": 129,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/seedus.88200/history",
+  "gitUrl": "https://github.com/SecretX33/Seedus",
+  "releaseDate": 1611415860000,
+  "updateDate": 1658068560000,
+  "versions": [
+    "1.16"
+  ]
+}

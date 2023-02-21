@@ -1,0 +1,26 @@
+{
+  "id": 69537,
+  "url": "https://www.spigotmc.org/resources/tamable-foxes-1-14-x-1-19-2.69537/",
+  "name": "Tamable Foxes [1.14.X-1.19.2]",
+  "description": "Ever wanted to tame foxes? Now you can!",
+  "authors": [
+    "SeanOMik"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/69/69537.jpg?1579145768",
+  "iconCid": "bafkreihtdnwdplz2tpawsutyjaidtr2e4dngrm2jhwigxo3vjwgo5fbldu",
+  "numberOfDownloads": 22289,
+  "rating": 4.4,
+  "numberOfVotes": 55,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tamable-foxes-1-14-x-1-19-2.69537/history",
+  "gitUrl": "https://github.com/SeanOMik/TamableFoxes",
+  "releaseDate": 1563648120000,
+  "updateDate": 1662839280000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 102591,
+  "url": "https://www.spigotmc.org/resources/wg-piston-fixer.102591/",
+  "name": "WG Piston Fixer",
+  "description": "Allow pistons extend/retract anyway!",
+  "authors": [
+    "beloiswhite"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102591.jpg?1658245185",
+  "iconCid": "bafkreigzbbgorhuq6zdjf2s7sat3y5qr7gzxxo7eksdzehlwvrpab5br2e",
+  "numberOfDownloads": 87,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/wg-piston-fixer.102591/history",
+  "releaseDate": 1655122020000,
+  "updateDate": 1657813920000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

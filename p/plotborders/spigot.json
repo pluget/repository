@@ -1,0 +1,23 @@
+{
+  "id": 101978,
+  "url": "https://www.spigotmc.org/resources/plotborders-change-plot-border-and-plot-wall-for-plotsquared-v6.101978/",
+  "name": "PlotBorders - Change Plot Border and Plot Wall for PlotSquared v6",
+  "description": "A plot border and plot wall plugin for plotsquared v6, supporting worldedit patterns.",
+  "authors": [
+    "CubeCrafters"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101978.jpg?1652455725",
+  "iconCid": "bafkreid3dbdmt37titqbhruydpv2usmdiquogw7ehhl743h7mjgvp6inhy",
+  "numberOfDownloads": 241,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/plotborders-change-plot-border-and-plot-wall-for-plotsquared-v6.101978/history",
+  "gitUrl": "https://github.com/CubBossa/PlotBorders",
+  "releaseDate": 1652452080000,
+  "updateDate": 1664697120000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

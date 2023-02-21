@@ -1,0 +1,33 @@
+{
+  "id": 29495,
+  "url": "https://www.spigotmc.org/resources/interact-all-extension-for-party-and-friends.29495/",
+  "name": "Interact all extension for Party and Friends",
+  "description": "Adds the commands /friend acceptall and /friend denyall to Party and Friends",
+  "authors": [
+    "simonsator"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/29/29495.jpg?1497975861",
+  "iconCid": "bafkreigq4y4jqwhqvret65f2zqpshw4gtl6sasphymklbh6czhbkyq37v4",
+  "numberOfDownloads": 1560,
+  "rating": 4.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/interact-all-extension-for-party-and-friends.29495/history",
+  "gitUrl": "https://github.com/Simonsator/Interact-all-extension-for-Party-and-Friends",
+  "releaseDate": 1474232220000,
+  "updateDate": 1661267400000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

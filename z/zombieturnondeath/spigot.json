@@ -1,0 +1,21 @@
+{
+  "id": 103563,
+  "url": "https://www.spigotmc.org/resources/zombieturnondeath.103563/",
+  "name": "ZombieTurnOnDeath",
+  "description": "Player turns to Zombie on death, Zombie will keep the players inventory",
+  "authors": [
+    "DelDos"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103563.jpg?1658416716",
+  "iconCid": "bafkreiblae25nmfjokpfnbcsyzf7n6lgymeiserdnyn7rrl4z6oteglt5u",
+  "numberOfDownloads": 39,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/zombieturnondeath.103563/history",
+  "gitUrl": "https://github.com/Stefan7400/ZombieTurnerOnDeath",
+  "releaseDate": 1658413080000,
+  "updateDate": 1658414760000,
+  "versions": [
+    "1.19"
+  ]
+}

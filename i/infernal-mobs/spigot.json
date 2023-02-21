@@ -1,0 +1,27 @@
+{
+  "id": 2156,
+  "url": "https://www.spigotmc.org/resources/infernal-mobs.2156/",
+  "name": "Infernal Mobs",
+  "description": "Mobs can become Infernal boss mobs and drop cool loot!",
+  "authors": [
+    "Eliminator"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/2/2156.jpg?1417570309",
+  "iconCid": "bafkreiatq7sxdwzhklecdlfyddpmegkrr2llzyilhcridj3xtiplbbqqle",
+  "numberOfDownloads": 115358,
+  "rating": 4.3,
+  "numberOfVotes": 105,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/infernal-mobs.2156/history",
+  "gitUrl": "https://bitbucket.org/Eliminator/infernalmobs/overview",
+  "releaseDate": 1417566660000,
+  "updateDate": 1665694680000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

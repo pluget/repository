@@ -1,0 +1,19 @@
+{
+  "id": 105273,
+  "url": "https://www.spigotmc.org/resources/scccpdebris.105273/",
+  "name": "scccpdebris",
+  "description": "The aim is to fix flawed part of the Minecraft multiplayer protocol",
+  "authors": [
+    "Dmitri233"
+  ],
+  "numberOfDownloads": 27,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/scccpdebris.105273/history",
+  "gitUrl": "https://github.com/EpsilonNetWorkGroup/scccpdebris",
+  "releaseDate": 1663138500000,
+  "updateDate": 1671545340000,
+  "versions": [
+    "1.19"
+  ]
+}

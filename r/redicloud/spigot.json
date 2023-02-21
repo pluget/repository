@@ -1,0 +1,32 @@
+{
+  "id": 104084,
+  "url": "https://www.spigotmc.org/resources/redicloud.104084/",
+  "name": "RediCloud",
+  "description": "A redis based cluster cloud system for minecraft",
+  "authors": [
+    "Suqatri"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104084.jpg?1659661500",
+  "iconCid": "bafkreic7wqpzo2c4m7nczvymzau55ljjbr7g5ywm3cwtcilj7nxqcxmswm",
+  "numberOfDownloads": 268,
+  "rating": 4.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/redicloud.104084/history",
+  "gitUrl": "https://github.com/RediCloud/cloud/",
+  "releaseDate": 1660466520000,
+  "updateDate": 1668687480000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

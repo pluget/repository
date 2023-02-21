@@ -1,0 +1,21 @@
+{
+  "id": 106922,
+  "url": "https://www.spigotmc.org/resources/realclock.106922/",
+  "name": "RealClock",
+  "description": "Allows you to see the world time when right clicking with a clock",
+  "authors": [
+    "Nick_the_block"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106922.jpg?1671827124",
+  "iconCid": "bafkreibtqsb2hhz7la2kn5h3smhqbntsamvyem6yy7jxrdfteyri7pwxlq",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/realclock.106922/history",
+  "gitUrl": "https://github.com/NickAwrist/RealClock",
+  "releaseDate": 1671823500000,
+  "updateDate": 1671823500000,
+  "versions": [
+    "1.19"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 91749,
+  "url": "https://www.spigotmc.org/resources/getsupport.91749/",
+  "name": "GetSupport",
+  "description": "Provide Support to your InGame Players",
+  "authors": [
+    "pr11dev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91749.jpg?1619447261",
+  "iconCid": "bafkreiejyuwvwr4eq3u5g64zdcjvp2d2paechgn43zxpjy6qkf65aw3akq",
+  "numberOfDownloads": 169,
+  "rating": 3.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/getsupport.91749/history",
+  "gitUrl": "https://github.com/project11dev/getsupport",
+  "releaseDate": 1619441940000,
+  "updateDate": 1669466100000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

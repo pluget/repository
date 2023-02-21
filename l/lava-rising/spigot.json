@@ -1,0 +1,27 @@
+{
+  "id": 93552,
+  "url": "https://www.spigotmc.org/resources/lava-rising.93552/",
+  "name": "Lava Rising",
+  "description": "another average gamemode plugin",
+  "authors": [
+    "DiffuseHyperion"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93552.jpg?1624433036",
+  "iconCid": "bafkreido5t5hwkqtxnlzod4zizz434xcxhz3ma3ffw4zoxswaflw7lant4",
+  "numberOfDownloads": 1237,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lava-rising.93552/history",
+  "gitUrl": "https://github.com/DiffuseHyperion/LavaRising",
+  "releaseDate": 1624429320000,
+  "updateDate": 1673070360000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

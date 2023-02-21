@@ -1,0 +1,27 @@
+{
+  "id": 31861,
+  "url": "https://www.spigotmc.org/resources/anvillogin.31861/",
+  "name": "AnvilLogin",
+  "description": "Login to your server using an Anvil GUI! Now with AuthMe & FastLogin support!",
+  "authors": [
+    "SamB440"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/31/31861.jpg?1479324535",
+  "iconCid": "bafkreieejb3khoe2fvrynx7piy2l6a5nrxo7h37xkoem64rherx4wewnoa",
+  "numberOfDownloads": 188383,
+  "rating": 4.7,
+  "numberOfVotes": 20,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anvillogin.31861/history",
+  "gitUrl": "https://gitlab.com/SamB440/AnvilLogin",
+  "releaseDate": 1479320880000,
+  "updateDate": 1661510040000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 107958,
+  "url": "https://www.spigotmc.org/resources/surwer.107958/",
+  "name": "surwer",
+  "description": "A plugin for transferring player data using MySQL",
+  "authors": [
+    "Steen0301"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107958.jpg?1676153027",
+  "iconCid": "bafkreicej2dufxx2juregm7rz7cqx4wx7jxgut3z4soq73qg6g54zzuynq",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/surwer.107958/history",
+  "gitUrl": "https://github.com/dovoloo/surwer",
+  "releaseDate": 1676149380000,
+  "updateDate": 1676149380000,
+  "versions": [
+    "1.19"
+  ]
+}

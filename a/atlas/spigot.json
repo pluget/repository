@@ -1,0 +1,25 @@
+{
+  "id": 107696,
+  "url": "https://www.spigotmc.org/resources/atlas.107696/",
+  "name": "Atlas",
+  "description": "A totally unique plugin for minecraft's servers for creating territories and markers.",
+  "authors": [
+    "NightMirror"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107696.jpg?1675028410",
+  "iconCid": "bafkreiftfnvjutz2b7ubjzhc2xy3jro6zm27c5mjmgxbsmmsvacqnv4i54",
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/atlas.107696/history",
+  "gitUrl": "https://github.com/NightMirror21/Atlas",
+  "releaseDate": 1675024740000,
+  "updateDate": 1675024740000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

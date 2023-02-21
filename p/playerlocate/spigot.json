@@ -1,0 +1,25 @@
+{
+  "id": 106231,
+  "url": "https://www.spigotmc.org/resources/playerlocate.106231/",
+  "name": "PlayerLocate",
+  "description": "Locate players and their logout spots!",
+  "authors": [
+    "xXGaming123"
+  ],
+  "numberOfDownloads": 57,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playerlocate.106231/history",
+  "gitUrl": "https://github.com/xXTeraXx/playerLocate",
+  "releaseDate": 1668309240000,
+  "updateDate": 1668310320000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

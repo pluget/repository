@@ -1,0 +1,32 @@
+{
+  "id": 53295,
+  "url": "https://www.spigotmc.org/resources/enhanced-glist-bungeecord-velocity.53295/",
+  "name": "Enhanced /glist (BungeeCord & Velocity)",
+  "description": "A high-configurable plugin that enhances the /glist command.",
+  "authors": [
+    "Wirlie"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/53/53295.jpg?1664001436",
+  "iconCid": "bafkreieblhhpbf6ejfyratgnltzkbvom2sta72d3e7wncl3gnhsbaem5qe",
+  "numberOfDownloads": 1830,
+  "rating": 4.7,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/enhanced-glist-bungeecord-velocity.53295/history",
+  "gitUrl": "https://github.com/Wirlie/Enhanced-Glist",
+  "releaseDate": 1518595080000,
+  "updateDate": 1665620580000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

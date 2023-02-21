@@ -1,0 +1,30 @@
+{
+  "id": 70439,
+  "url": "https://www.spigotmc.org/resources/dynmap-simpleclans.70439/",
+  "name": "Dynmap-SimpleClans",
+  "description": "SimpleClans addon for Dynmap",
+  "authors": [
+    "RoinujNosde"
+  ],
+  "numberOfDownloads": 1488,
+  "rating": 4.3,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dynmap-simpleclans.70439/history",
+  "gitUrl": "https://github.com/RoinujNosde/Dynmap-SimpleClans",
+  "releaseDate": 1565977620000,
+  "updateDate": 1662293940000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

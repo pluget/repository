@@ -1,0 +1,33 @@
+{
+  "id": 21927,
+  "url": "https://www.spigotmc.org/resources/banmanager.21927/",
+  "name": "BanManager",
+  "description": "Cross-server banning, mutes, warnings and much more!",
+  "authors": [
+    "confuser"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/21/21927.jpg?1460895695",
+  "iconCid": "bafkreian43g2f7c4je322acokyi3pknna4ykp7rpgk7i3j46ktydt6zml4",
+  "numberOfDownloads": 14841,
+  "rating": 3.9,
+  "numberOfVotes": 20,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/banmanager.21927/history",
+  "gitUrl": "https://github.com/BanManagement/BanManager",
+  "releaseDate": 1460891940000,
+  "updateDate": 1663579080000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

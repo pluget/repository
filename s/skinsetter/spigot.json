@@ -1,0 +1,32 @@
+{
+  "id": 73359,
+  "url": "https://www.spigotmc.org/resources/skinsetter.73359/",
+  "name": "SkinSetter",
+  "description": "Change people's skins",
+  "authors": [
+    "M1dnight_Ninja"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/73/73359.jpg?1576120523",
+  "iconCid": "bafkreieko43fbsod7szmsm3psv2tzrkai76nqxt2tdrl5tfv4py7jm4mn4",
+  "numberOfDownloads": 14934,
+  "rating": 4.8,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skinsetter.73359/history",
+  "gitUrl": "https://github.com/M1dnightNinja/SkinSetter",
+  "releaseDate": 1576116900000,
+  "updateDate": 1663203720000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

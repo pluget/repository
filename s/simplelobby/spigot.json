@@ -1,0 +1,32 @@
+{
+  "id": 105614,
+  "url": "https://www.spigotmc.org/resources/simplelobby-1-8-1-19-2.105614/",
+  "name": "SimpleLobby - [1.8 - 1.19.2]",
+  "description": "A simple lobby plugin with custom scoreboard, bossbar, lobby command and much more...",
+  "authors": [
+    "MaximDe"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105614.jpg?1664881457",
+  "iconCid": "bafkreie5or223y3fjz2npudxpuwspy6jt2isy4hon6x4xbdhdi5ukbq4um",
+  "numberOfDownloads": 517,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplelobby-1-8-1-19-2.105614/history",
+  "gitUrl": "https://github.com/JavaDevMC/SimpleLobby/",
+  "releaseDate": 1664874780000,
+  "updateDate": 1666423140000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

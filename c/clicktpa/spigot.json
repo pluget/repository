@@ -1,0 +1,28 @@
+{
+  "id": 62596,
+  "url": "https://www.spigotmc.org/resources/clicktpa.62596/",
+  "name": "ClickTpa",
+  "description": "Clicking chat to accept a teleport request!",
+  "authors": [
+    "humonga"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/62/62596.jpg?1542783800",
+  "iconCid": "bafkreihffsj67p435gh55c64dk2s2ibielyawxzs524ivx24i4ydgzvmma",
+  "numberOfDownloads": 249733,
+  "rating": 4.6,
+  "numberOfVotes": 26,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/clicktpa.62596/history",
+  "gitUrl": "https://github.com/jklmao/ClickTpa.git",
+  "releaseDate": 1542780180000,
+  "updateDate": 1674393840000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

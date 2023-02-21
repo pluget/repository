@@ -1,0 +1,23 @@
+{
+  "id": 106230,
+  "url": "https://www.spigotmc.org/resources/duperlist.106230/",
+  "name": "DuperList",
+  "description": "The best dupe skript with blacklist, help, and /dupe <integer>",
+  "authors": [
+    "imnotfirefox"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106230.jpg?1668291401",
+  "iconCid": "bafkreief6meqxb7ltydcyctouwsxmkxz6wnvubdabxxcuujjakm6imdhta",
+  "numberOfDownloads": 100,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/duperlist.106230/history",
+  "gitUrl": "https://github.com/imnotfirefoxx/duperlist/releases/tag/skript",
+  "releaseDate": 1668287760000,
+  "updateDate": 1669248300000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

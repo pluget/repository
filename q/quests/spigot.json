@@ -1,0 +1,32 @@
+{
+  "id": 23696,
+  "url": "https://www.spigotmc.org/resources/quests-1-8-1-19-set-up-goals-for-players.23696/",
+  "name": "Quests [1.8-1.19] | Set up goals for players",
+  "description": "Allow your players to do quests in return for rewards",
+  "authors": [
+    "LMBishop"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/23/23696.jpg?1622840162",
+  "iconCid": "bafkreib7eybquu44i6xsikjzr2iplktkjksyo4xxqjb4wmhwhxi42cjd6a",
+  "numberOfDownloads": 55415,
+  "rating": 4.2,
+  "numberOfVotes": 198,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/quests-1-8-1-19-set-up-goals-for-players.23696/history",
+  "gitUrl": "https://github.com/LMBishop/Quests",
+  "releaseDate": 1676566800000,
+  "updateDate": 1676566800000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

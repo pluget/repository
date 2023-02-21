@@ -1,0 +1,24 @@
+{
+  "id": 107046,
+  "url": "https://www.spigotmc.org/resources/lodestone-teleport-1-16-2-1-19-1.107046/",
+  "name": "Lodestone Teleport [1.16.2 - 1.19.1+]",
+  "description": "Right-click with a lodestone compass to teleport to the linked lodestone",
+  "authors": [
+    "Percyqaz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107046.jpg?1672354629",
+  "iconCid": "bafkreihfn5adcyqqpqlq7nbgs56v4u6fxhr4t566ebrt2276oolzi6lhwu",
+  "numberOfDownloads": 107,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lodestone-teleport-1-16-2-1-19-1.107046/history",
+  "gitUrl": "https://github.com/percyqaz/LodestoneTeleport",
+  "releaseDate": 1672350660000,
+  "updateDate": 1672579560000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 107012,
+  "url": "https://www.spigotmc.org/resources/paytime.107012/",
+  "name": "PayTime",
+  "description": "A Plugin for Changing Time & Weather with In-Game Currency",
+  "authors": [
+    "TwistedActual"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107012.jpg?1672201190",
+  "iconCid": "bafkreiggehn2a4hxksqaijaq2gtbxkka7g25l3rizmmfjk7y35pfbbpaq4",
+  "numberOfDownloads": 56,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/paytime.107012/history",
+  "gitUrl": "https://github.com/R3DActual/PayTime",
+  "releaseDate": 1672197540000,
+  "updateDate": 1672462260000,
+  "versions": [
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 106179,
+  "url": "https://www.spigotmc.org/resources/headsitemmetafix-himf.106179/",
+  "name": "HeadsItemMetaFix (HIMF)",
+  "description": "Fix of ItemMeta disappearing when the block breaks",
+  "authors": [
+    "neverlessy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106179.jpg?1667992165",
+  "iconCid": "bafkreie4nqpazj46jof34g3ppnel6ztrhpzimsdapnyuw4v3jo6laq254q",
+  "numberOfDownloads": 62,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/headsitemmetafix-himf.106179/history",
+  "gitUrl": "https://github.com/neverlessy/himf",
+  "releaseDate": 1667988540000,
+  "updateDate": 1669027020000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

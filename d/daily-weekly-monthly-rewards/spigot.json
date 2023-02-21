@@ -1,0 +1,32 @@
+{
+  "id": 81780,
+  "url": "https://www.spigotmc.org/resources/%E2%9A%A1-daily-weekly-monthly-rewards-mysql-oraxen-itemsadder-support-1-8-8-1-19-3.81780/",
+  "name": "⚡ DAILY, WEEKLY & MONTHLY REWARDS | MYSQL & ORAXEN, ITEMSADDER SUPPORT [1.8.8 - 1.19.3]",
+  "description": "100% custom GUI & messages, cooldowns, join reminder",
+  "authors": [
+    "Revivalo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81780.jpg?1675448529",
+  "iconCid": "bafkreiam2xl6axhfkhnd5uii6nplfrqzzti4soxjnwsl2u4pukcbnt7s3y",
+  "numberOfDownloads": 13743,
+  "rating": 4.4,
+  "numberOfVotes": 39,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9A%A1-daily-weekly-monthly-rewards-mysql-oraxen-itemsadder-support-1-8-8-1-19-3.81780/history",
+  "gitUrl": "https://github.com/Revivalo/DailyRewards",
+  "releaseDate": 1595349300000,
+  "updateDate": 1675193940000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

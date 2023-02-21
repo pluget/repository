@@ -1,0 +1,25 @@
+{
+  "id": 62575,
+  "url": "https://www.spigotmc.org/resources/quickshop-reremake-1-19-ready-multi-currency.62575/",
+  "name": "QuickShop Reremake - 1.19 Ready - Multi Currency",
+  "description": "A shop plugin that allows players to easily sell/buy any items from a chest without any commands.",
+  "authors": [
+    "sandtechnology"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/62/62575.jpg?1542722479",
+  "iconCid": "bafkreid7hv43thmdxq35zrmggvn6ahcg76gtq5lnbmrclixnlsykdsxjfu",
+  "numberOfDownloads": 178755,
+  "rating": 4.6,
+  "numberOfVotes": 200,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/quickshop-reremake-1-19-ready-multi-currency.62575/history",
+  "gitUrl": "https://github.com/PotatoCraft-Studio/QuickShop-Reremake",
+  "releaseDate": 1676800080000,
+  "updateDate": 1676800080000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

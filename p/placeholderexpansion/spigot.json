@@ -1,0 +1,33 @@
+{
+  "id": 69357,
+  "url": "https://www.spigotmc.org/resources/placeholderexpansion-quests.69357/",
+  "name": "PlaceholderExpansion-Quests",
+  "description": "Provides quest variables for PAPI usage",
+  "authors": [
+    "PikaMug"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/69/69357.jpg?1615884133",
+  "iconCid": "bafkreiafw3iuaxa6roei5266g37flcbfyfmvyc4hewycqct4n2hejzjxe4",
+  "numberOfDownloads": 1859,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/placeholderexpansion-quests.69357/history",
+  "gitUrl": "https://github.com/PikaMug/PlaceholderExpansion-Quests",
+  "releaseDate": 1563158700000,
+  "updateDate": 1657935600000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

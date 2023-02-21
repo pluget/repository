@@ -1,0 +1,23 @@
+{
+  "id": 95800,
+  "url": "https://www.spigotmc.org/resources/wild-pets.95800/",
+  "name": "Wild Pets",
+  "description": "Allows players to tame any entity and keep them as a pet.",
+  "authors": [
+    "DanTheTechMan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95800.jpg?1630298560",
+  "iconCid": "bafkreiczwgkhbf2jpsqkp2apxagwyc3znalhlowq4iyy4ikjglscdcqkpq",
+  "numberOfDownloads": 1010,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/wild-pets.95800/history",
+  "gitUrl": "https://github.com/dmccoystephenson/Wild-Pets",
+  "releaseDate": 1630217220000,
+  "updateDate": 1673315520000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

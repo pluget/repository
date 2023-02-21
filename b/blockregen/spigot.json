@@ -1,0 +1,32 @@
+{
+  "id": 9885,
+  "url": "https://www.spigotmc.org/resources/blockregen.9885/",
+  "name": "BlockRegen",
+  "description": "Great for Prison, RPG and many more servers!",
+  "authors": [
+    "Aurorion"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/9/9885.jpg?1437569501",
+  "iconCid": "bafkreigfo7hg33npyhwqb2t6ptnfdqsztcmeey4cqtmvd6cjati6pxuvhm",
+  "numberOfDownloads": 25599,
+  "rating": 4.5,
+  "numberOfVotes": 91,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blockregen.9885/history",
+  "gitUrl": "https://github.com/Wertik/BlockRegen",
+  "releaseDate": 1437565860000,
+  "updateDate": 1674030660000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 80548,
+  "url": "https://www.spigotmc.org/resources/challenges-plugin.80548/",
+  "name": "Challenges Plugin",
+  "description": "Challenges: Randomizer, Floor is Lava, All Items and more",
+  "authors": [
+    "KxmischesDomi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80548.jpg?1647192247",
+  "iconCid": "bafkreih3od77525e6hpefs54dh436ortom7khjsqdbr6xtgmfafadhyedm",
+  "numberOfDownloads": 53774,
+  "rating": 4.8,
+  "numberOfVotes": 42,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/challenges-plugin.80548/history",
+  "gitUrl": "https://github.com/anweisen/Challenges",
+  "releaseDate": 1592860320000,
+  "updateDate": 1675002900000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 105926,
+  "url": "https://www.spigotmc.org/resources/portalblocker.105926/",
+  "name": "PortalBlocker",
+  "description": "Blocks creation of nether portal by players and entities",
+  "authors": [
+    "Elmah"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105926.jpg?1666733127",
+  "iconCid": "bafkreiczzrvkavbwne3dg6vsazf4dzlyvrl7bjd3fagdn6hiu2ibh2wtsy",
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/portalblocker.105926/history",
+  "gitUrl": "https://github.com/Elmah55/PortalBlocker",
+  "releaseDate": 1666729500000,
+  "updateDate": 1666729500000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

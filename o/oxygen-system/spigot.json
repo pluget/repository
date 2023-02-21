@@ -1,0 +1,23 @@
+{
+  "id": 104610,
+  "url": "https://www.spigotmc.org/resources/oxygen-system.104610/",
+  "name": "Oxygen System",
+  "description": "Add oxygen system to your Minecraft with automatic hermetic cabin.",
+  "authors": [
+    "GoldenPotato137"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104610.jpg?1660708481",
+  "iconCid": "bafkreicohircqe5wukjm3d6joviegd2t7ruyuszndmvw7x2ju5bpmpqsby",
+  "numberOfDownloads": 119,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/oxygen-system.104610/history",
+  "gitUrl": "https://github.com/GoldenPotato137/OxygenSystem",
+  "releaseDate": 1660704780000,
+  "updateDate": 1661072100000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

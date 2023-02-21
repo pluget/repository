@@ -1,0 +1,27 @@
+{
+  "id": 64542,
+  "url": "https://www.spigotmc.org/resources/pwarp-playerwarps-gui-easy-set-up-player-warps.64542/",
+  "name": "[PWarp] PlayerWarps! |GUI|EASY SET-UP|Player Warps|",
+  "description": "Makes you charge players for setting a warp.",
+  "authors": [
+    "The_King_Senne"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/64/64542.jpg?1606750007",
+  "iconCid": "bafkreih7j25cjasnnjeo5ylkpxnrcqxgilohn4dwqzeqzh2yv3ofpaee4a",
+  "numberOfDownloads": 19170,
+  "rating": 4.7,
+  "numberOfVotes": 37,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pwarp-playerwarps-gui-easy-set-up-player-warps.64542/history",
+  "gitUrl": "https://github.com/TheKingSenne/Player-Warps",
+  "releaseDate": 1676579460000,
+  "updateDate": 1676579460000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

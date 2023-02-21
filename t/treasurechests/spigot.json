@@ -1,0 +1,21 @@
+{
+  "id": 101974,
+  "url": "https://www.spigotmc.org/resources/treasurechests.101974/",
+  "name": "TreasureChests",
+  "description": "Create chests that will refill on a certain delay, drop chances and individual player loot.",
+  "authors": [
+    "jorisguffens"
+  ],
+  "numberOfDownloads": 167,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/treasurechests.101974/history",
+  "gitUrl": "https://github.com/GufliMC/TreasureChests",
+  "releaseDate": 1652427720000,
+  "updateDate": 1675631160000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

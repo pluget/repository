@@ -1,0 +1,24 @@
+{
+  "id": 94540,
+  "url": "https://www.spigotmc.org/resources/anticombatlog.94540/",
+  "name": "AntiCombatLog",
+  "description": "A highly customizable combat logout plugin made for 1.13+",
+  "authors": [
+    "Badbird5907"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94540.jpg?1642989038",
+  "iconCid": "bafkreictb3b2wvq7eludtbph4k3obaxbdwiy32a6wfympbtn4kna62lm5q",
+  "numberOfDownloads": 3510,
+  "rating": 5,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anticombatlog.94540/history",
+  "gitUrl": "https://github.com/Badbird5907/AntiCombatLog/",
+  "releaseDate": 1626919260000,
+  "updateDate": 1659112320000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

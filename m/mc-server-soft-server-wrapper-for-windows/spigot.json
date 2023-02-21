@@ -1,0 +1,32 @@
+{
+  "id": 19261,
+  "url": "https://www.spigotmc.org/resources/mc-server-soft-server-wrapper-for-windows.19261/",
+  "name": "MC Server Soft // Server Wrapper for Windows",
+  "description": "The oldest maintained Minecraft Server Wrapper for Windows.",
+  "authors": [
+    "Fireblade115"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/19/19261.jpg?1659464184",
+  "iconCid": "bafkreieyw7onqmfvsstxhi6d4ncz5fj7kkkdy22jszs7gvi5cchvzufgba",
+  "numberOfDownloads": 25350,
+  "rating": 4.7,
+  "numberOfVotes": 76,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mc-server-soft-server-wrapper-for-windows.19261/history",
+  "releaseDate": 1457245320000,
+  "updateDate": 1659556800000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

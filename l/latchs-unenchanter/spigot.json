@@ -1,0 +1,21 @@
+{
+  "id": 85851,
+  "url": "https://www.spigotmc.org/resources/latchs-unenchanter.85851/",
+  "name": "Latch's Unenchanter",
+  "description": "Unenchant items and reward players with an enchanted book",
+  "authors": [
+    "Latch93"
+  ],
+  "numberOfDownloads": 210,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/latchs-unenchanter.85851/history",
+  "gitUrl": "https://github.com/lakeboy93/UnenchanterRedux",
+  "releaseDate": 1605554580000,
+  "updateDate": 1666226460000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

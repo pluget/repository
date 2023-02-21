@@ -1,0 +1,33 @@
+{
+  "id": 19286,
+  "url": "https://www.spigotmc.org/resources/minepacks-backpack-plugin-mc-1-7-1-19.19286/",
+  "name": "Minepacks (Backpack Plugin) (MC 1.7-1.19)",
+  "description": "Free and reliable backpack plugin with different backpack sizes, multilanguage and MySQL storage.",
+  "authors": [
+    "GeorgH93"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/19/19286.jpg?1457625917",
+  "iconCid": "bafkreigd2m2o3ydzmdxgjkhkat4hhpewvcg4kct52qzsxmvohj2wpvqd7u",
+  "numberOfDownloads": 156018,
+  "rating": 4.8,
+  "numberOfVotes": 102,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minepacks-backpack-plugin-mc-1-7-1-19.19286/history",
+  "gitUrl": "https://github.com/GeorgH93/Minepacks",
+  "releaseDate": 1456827300000,
+  "updateDate": 1673630400000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 107391,
+  "url": "https://www.spigotmc.org/resources/iteminventory.107391/",
+  "name": "ItemInventory",
+  "description": "check item inventory",
+  "authors": [
+    "daubuoi"
+  ],
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/iteminventory.107391/history",
+  "gitUrl": "https://github.com/kimpro12/ItemInventory",
+  "releaseDate": 1673747280000,
+  "updateDate": 1673758140000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

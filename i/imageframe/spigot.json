@@ -1,0 +1,24 @@
+{
+  "id": 106031,
+  "url": "https://www.spigotmc.org/resources/imageframe-load-images-on-maps-item-frames-support-gifs-map-markers-survival-friendly.106031/",
+  "name": "ImageFrame | Load Images on Maps & Item Frames! | Support GIFs! | Map Markers! | Survival Friendly",
+  "description": "Put images on maps and walls!",
+  "authors": [
+    "LOOHP"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106031.jpg?1667318841",
+  "iconCid": "bafkreiflsuurwkoyhkhxognryi3kb2lyuingkwnl63m4vclsuigdhi4mxy",
+  "numberOfDownloads": 3444,
+  "rating": 5,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/imageframe-load-images-on-maps-item-frames-support-gifs-map-markers-survival-friendly.106031/history",
+  "gitUrl": "https://github.com/LOOHP/ImageFrame",
+  "releaseDate": 1676586120000,
+  "updateDate": 1676586120000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

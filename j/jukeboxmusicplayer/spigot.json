@@ -1,0 +1,25 @@
+{
+  "id": 78352,
+  "url": "https://www.spigotmc.org/resources/jukeboxmusicplayer-play-music-discs-without-a-jukebox.78352/",
+  "name": "JukeboxMusicPlayer | Play music disc's without a jukebox",
+  "description": "Play music disc's with commands or gui's",
+  "authors": [
+    "avatarmomo2002"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/78/78352.jpg?1647912030",
+  "iconCid": "bafkreielx55lnzkohucw32laeqee6r6kvt2bvojctf56ekstt5hm7dckge",
+  "numberOfDownloads": 293,
+  "rating": 4,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/jukeboxmusicplayer-play-music-discs-without-a-jukebox.78352/history",
+  "gitUrl": "https://github.com/LucasHuls",
+  "releaseDate": 1588620120000,
+  "updateDate": 1671468360000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

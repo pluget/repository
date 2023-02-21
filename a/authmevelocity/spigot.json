@@ -1,0 +1,33 @@
+{
+  "id": 107349,
+  "url": "https://www.spigotmc.org/resources/authmevelocity.107349/",
+  "name": "AuthMeVelocity",
+  "description": "AuthMeReloaded support for Velocity",
+  "authors": [
+    "adrianed04"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107349.jpg?1673539309",
+  "iconCid": "bafkreibgvtevq6ythbrh4oy2366qye4nz2exdir5dszidl2nkglqq64fqe",
+  "numberOfDownloads": 81,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/authmevelocity.107349/history",
+  "gitUrl": "https://github.com/4drian3d/AuthMeVelocity/",
+  "releaseDate": 1673535180000,
+  "updateDate": 1675894080000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

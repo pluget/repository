@@ -1,0 +1,21 @@
+{
+  "id": 88444,
+  "url": "https://www.spigotmc.org/resources/limitedcreative.88444/",
+  "name": "LimitedCreative",
+  "description": "A lightweight and configurable tool for limiting creative mode.",
+  "authors": [
+    "Adelemphii"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88444.jpg?1614294557",
+  "iconCid": "bafkreib3yyvpef7fo6pdcdayxsraazy6jjg5whvie2iaslpu5pogxqbsyy",
+  "numberOfDownloads": 450,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/limitedcreative.88444/history",
+  "gitUrl": "https://github.com/Adelemphii/LimitedCreative/tree/master",
+  "releaseDate": 1611955920000,
+  "updateDate": 1669757580000,
+  "versions": [
+    "1.16"
+  ]
+}

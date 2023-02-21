@@ -1,0 +1,25 @@
+{
+  "id": 22928,
+  "url": "https://www.spigotmc.org/resources/realscoreboard-1-13-to-1-19-3.22928/",
+  "name": "RealScoreboard (1.13 to 1.19.3)",
+  "description": "Lightweight and efficient scoreboard manager.",
+  "authors": [
+    "JoseGamer_PT"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/22/22928.jpg?1464289142",
+  "iconCid": "bafkreicykqyrb2ppm4seusgsvqjdk5e6uvevpaerykwuxwc2qqwu5bujrm",
+  "numberOfDownloads": 165606,
+  "rating": 4.3,
+  "numberOfVotes": 142,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/realscoreboard-1-13-to-1-19-3.22928/history",
+  "gitUrl": "https://github.com/joserodpt/RealScoreboard",
+  "releaseDate": 1462622940000,
+  "updateDate": 1671571260000,
+  "versions": [
+    "1.13",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

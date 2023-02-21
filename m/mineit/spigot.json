@@ -1,0 +1,32 @@
+{
+  "id": 69161,
+  "url": "https://www.spigotmc.org/resources/mineit-1-8-1-19.69161/",
+  "name": "MineIt [1.8 - 1.19]",
+  "description": "Create mines that they will get regenerated.",
+  "authors": [
+    "rogermiranda1000"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/69/69161.jpg?1562677286",
+  "iconCid": "bafkreiheac5steimt4c2hxp4djmstn5owehysqdbvq6bdcfzhngtfmwnhu",
+  "numberOfDownloads": 12072,
+  "rating": 4.7,
+  "numberOfVotes": 15,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mineit-1-8-1-19.69161/history",
+  "gitUrl": "https://github.com/rogermiranda1000/MineIt",
+  "releaseDate": 1676835600000,
+  "updateDate": 1676835600000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

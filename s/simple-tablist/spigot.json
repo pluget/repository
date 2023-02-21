@@ -1,0 +1,28 @@
+{
+  "id": 101989,
+  "url": "https://www.spigotmc.org/resources/simple-tablist-1-12-x-1-19-x.101989/",
+  "name": "Simple TabList [1.12.x - 1.19.x]",
+  "description": "Full LuckPerms Support! Thank you for 10k+ Downloads!",
+  "authors": [
+    "SESOSAS"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101989.jpg?1653223518",
+  "iconCid": "bafkreia5glrcmu3rbadcbkszs273gagdhqxpzl3ihtvs5rokaatqijdmr4",
+  "numberOfDownloads": 11237,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-tablist-1-12-x-1-19-x.101989/history",
+  "gitUrl": "https://github.com/TheYIMIR/SimpleTabList",
+  "releaseDate": 1652519520000,
+  "updateDate": 1676365560000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

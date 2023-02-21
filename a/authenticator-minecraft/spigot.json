@@ -1,0 +1,32 @@
+{
+  "id": 103098,
+  "url": "https://www.spigotmc.org/resources/authenticator-minecraft.103098/",
+  "name": "Authenticator Minecraft",
+  "description": "Minecraft authentication plugin",
+  "authors": [
+    "Aiwoz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103098.jpg?1656923718",
+  "iconCid": "bafkreigjr2qpwxvm3yjul4af646mmkmvhirsghxh4soowkybfhjulcksby",
+  "numberOfDownloads": 210,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/authenticator-minecraft.103098/history",
+  "releaseDate": 1656920040000,
+  "updateDate": 1672689180000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

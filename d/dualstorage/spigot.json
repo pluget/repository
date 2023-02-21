@@ -1,0 +1,24 @@
+{
+  "id": 105525,
+  "url": "https://www.spigotmc.org/resources/dualstorage.105525/",
+  "name": "DualStorage",
+  "description": "Creates another storage with the same size as the original chest storage",
+  "authors": [
+    "McDoJr"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105525.jpg?1664494494",
+  "iconCid": "bafkreietmirmi73rebw3t22263mxsjiktzeuhfozflswfteaetmtqvuwcy",
+  "numberOfDownloads": 50,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dualstorage.105525/history",
+  "releaseDate": 1664490840000,
+  "updateDate": 1664868060000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

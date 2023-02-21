@@ -1,0 +1,23 @@
+{
+  "id": 80401,
+  "url": "https://www.spigotmc.org/resources/triviatreasure-a-quiz-plugin-to-bring-fun-to-your-chat-%C2%BB-custom-rewards-%C2%BB-menus-more.80401/",
+  "name": "TriviaTreasure! A Quiz Plugin to Bring Fun to Your Chat » Custom Rewards » Menus & More!",
+  "description": "Put your players to the test with trivia! Create your custom trivia questions and answers!",
+  "authors": [
+    "MarCarrot"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80401.jpg?1624579127",
+  "iconCid": "bafkreigmv5p5bgskeng42ejxgynkp7rnlvss7k7itbn54fg7moyoanpi7u",
+  "numberOfDownloads": 2075,
+  "rating": 5,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/triviatreasure-a-quiz-plugin-to-bring-fun-to-your-chat-%C2%BB-custom-rewards-%C2%BB-menus-more.80401/history",
+  "gitUrl": "https://github.com/asiddiqi18/Trivia-Plugin",
+  "releaseDate": 1592599380000,
+  "updateDate": 1659210720000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

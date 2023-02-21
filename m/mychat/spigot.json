@@ -1,0 +1,31 @@
+{
+  "id": 107443,
+  "url": "https://www.spigotmc.org/resources/mychat.107443/",
+  "name": "MyChat",
+  "description": "Moderate the chat!",
+  "authors": [
+    "ItsOkami_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107443.jpg?1673981227",
+  "iconCid": "bafkreiacceqzyzvf56egofr6eotvfqopghuvq3b33jj2fc2i3233jmlusu",
+  "numberOfDownloads": 57,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mychat.107443/history",
+  "releaseDate": 1676424600000,
+  "updateDate": 1676424600000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

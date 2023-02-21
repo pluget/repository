@@ -1,0 +1,21 @@
+{
+  "id": 103993,
+  "url": "https://www.spigotmc.org/resources/captcha.103993/",
+  "name": "Captcha",
+  "description": "Captcha with bungeecord support. Say no to bot attacks!",
+  "authors": [
+    "reidj"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103993.jpg?1659450213",
+  "iconCid": "bafkreib6xrajvksg6qys2jyij4pzywj2jbmurhdwsrjst2lcidtgiizvai",
+  "numberOfDownloads": 98,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/captcha.103993/history",
+  "gitUrl": "https://github.com/reidjJava/Captcha",
+  "releaseDate": 1659445680000,
+  "updateDate": 1659445680000,
+  "versions": [
+    "1.16"
+  ]
+}

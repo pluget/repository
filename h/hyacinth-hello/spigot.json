@@ -1,0 +1,21 @@
+{
+  "id": 104434,
+  "url": "https://www.spigotmc.org/resources/hyacinth-hello.104434/",
+  "name": "Hyacinth Hello",
+  "description": "Normal join messages are boring, spruce up your server with per-user join messages!",
+  "authors": [
+    "blueb"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104434.jpg?1660610292",
+  "iconCid": "bafkreievdjkh7v4uqoquisdg6ol7pkj2eokknlj3jzqjxnyl5gj2fnchj4",
+  "numberOfDownloads": 282,
+  "rating": 4.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hyacinth-hello.104434/history",
+  "gitUrl": "https://github.com/livelaughlemon/hyacinthhello",
+  "releaseDate": 1660139340000,
+  "updateDate": 1675282020000,
+  "versions": [
+    "1.19"
+  ]
+}

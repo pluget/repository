@@ -1,0 +1,27 @@
+{
+  "id": 90179,
+  "url": "https://www.spigotmc.org/resources/timebar.90179/",
+  "name": "TimeBar",
+  "description": "See the world's time as a bossbar.",
+  "authors": [
+    "hyperdefined"
+  ],
+  "numberOfDownloads": 965,
+  "rating": 4.2,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/timebar.90179/history",
+  "gitUrl": "https://github.com/hyperdefined/TimeBar",
+  "releaseDate": 1615839300000,
+  "updateDate": 1674756060000,
+  "versions": [
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

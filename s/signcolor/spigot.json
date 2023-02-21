@@ -1,0 +1,24 @@
+{
+  "id": 45638,
+  "url": "https://www.spigotmc.org/resources/signcolor.45638/",
+  "name": "SignColor",
+  "description": "Konvertiert Farb- und Formatierungscodes zu ihren entsprechenden Farben und Formatierungen!",
+  "authors": [
+    "dagobertdu94"
+  ],
+  "numberOfDownloads": 555,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/signcolor.45638/history",
+  "releaseDate": 1502636580000,
+  "updateDate": 1661892960000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 91926,
+  "url": "https://www.spigotmc.org/resources/mcstatistics.91926/",
+  "name": "MCStatistics",
+  "description": "The ultimate server staff tool to monitor how players are playing your server.",
+  "authors": [
+    "Partydragen"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91926.jpg?1631990221",
+  "iconCid": "bafkreihnfl73ovt6qnol3m3ncg2bf6u6ftswswi5o5migqrj4o7ajjl33a",
+  "numberOfDownloads": 1025,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mcstatistics.91926/history",
+  "releaseDate": 1619900160000,
+  "updateDate": 1673714700000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

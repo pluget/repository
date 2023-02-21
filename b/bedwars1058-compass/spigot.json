@@ -1,0 +1,32 @@
+{
+  "id": 91537,
+  "url": "https://www.spigotmc.org/resources/addon-bedwars1058-compass-team-tracker-quick-communications-multi-language-support.91537/",
+  "name": "[Addon] BedWars1058 - Compass (Team Tracker, Quick Communications, Multi-language support)",
+  "description": "BedWars1058 compass add-on that allows players to use team tracker and quick communications",
+  "authors": [
+    "Mher"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91537.jpg?1635946731",
+  "iconCid": "bafkreicxpdu45gkw5pf3wy4jaq3mlw5a4cxpjoz2at7k7zftq7b63umrjq",
+  "numberOfDownloads": 10226,
+  "rating": 5,
+  "numberOfVotes": 16,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/addon-bedwars1058-compass-team-tracker-quick-communications-multi-language-support.91537/history",
+  "gitUrl": "https://github.com/MherZaqaryan/Bedwars1058-Compass",
+  "releaseDate": 1618925220000,
+  "updateDate": 1660300860000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

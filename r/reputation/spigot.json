@@ -1,0 +1,21 @@
+{
+  "id": 66141,
+  "url": "https://www.spigotmc.org/resources/reputation.66141/",
+  "name": "Reputation",
+  "description": "Player rating, monitor player reputation and giving rewards or punishments",
+  "authors": [
+    "Peace2016"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/66/66141.jpg?1671887331",
+  "iconCid": "bafkreibkzg46gciqf6lagsudtgckx4tmbbbvexl62f4xygm55q26imfxg4",
+  "numberOfDownloads": 347,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/reputation.66141/history",
+  "releaseDate": 1554176100000,
+  "updateDate": 1671883500000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

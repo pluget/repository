@@ -1,0 +1,31 @@
+{
+  "id": 45604,
+  "url": "https://www.spigotmc.org/resources/interactivebooks.45604/",
+  "name": "InteractiveBooks",
+  "description": "Easily create interactive books with placeholders!",
+  "authors": [
+    "Leonardo_DGS"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/45/45604.jpg?1502595151",
+  "iconCid": "bafkreiazuujjmnktnwyu7d6bgsgopfinrjnvuq6aacexb67smxxmtbay3m",
+  "numberOfDownloads": 12826,
+  "rating": 4.6,
+  "numberOfVotes": 71,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/interactivebooks.45604/history",
+  "gitUrl": "https://github.com/Leonardo-DGS/InteractiveBooks",
+  "releaseDate": 1502591520000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

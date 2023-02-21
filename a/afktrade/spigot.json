@@ -1,0 +1,29 @@
+{
+  "id": 106424,
+  "url": "https://www.spigotmc.org/resources/afk-trade-1-9-1-19-2.106424/",
+  "name": "AFK-Trade [1.9 - 1.19.2]",
+  "description": "AFK Trade for your server",
+  "authors": [
+    "TheSwell"
+  ],
+  "numberOfDownloads": 82,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/afk-trade-1-9-1-19-2.106424/history",
+  "gitUrl": "https://github.com/TheSwell/Trade",
+  "releaseDate": 1669324500000,
+  "updateDate": 1670299560000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

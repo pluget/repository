@@ -1,0 +1,32 @@
+{
+  "id": 51060,
+  "url": "https://www.spigotmc.org/resources/teleport-jump-extension-for-party-and-friends-extended-edition-for-bungeecord-velocity.51060/",
+  "name": "Teleport Jump Extension For Party and Friends Extended Edition for BungeeCord/Velocity",
+  "description": "If a player executes /friend jump he will be teleported to the location of the player",
+  "authors": [
+    "simonsator"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/51/51060.jpg?1513970727",
+  "iconCid": "bafkreieujxqokmfwnddclqx5h6istl3o67g4776knn7alorwz6gihym4o4",
+  "numberOfDownloads": 369,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/teleport-jump-extension-for-party-and-friends-extended-edition-for-bungeecord-velocity.51060/history",
+  "gitUrl": "https://github.com/Simonsator/Teleport-To-Friend-Addon",
+  "releaseDate": 1513967100000,
+  "updateDate": 1661070540000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

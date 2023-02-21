@@ -1,0 +1,33 @@
+{
+  "id": 106495,
+  "url": "https://www.spigotmc.org/resources/bbrains-multirandomspawns.106495/",
+  "name": "[BBrains] MultiRandomSpawns",
+  "description": "A small plugin that allows you to set spawn points on your server",
+  "authors": [
+    "dayd21"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106495.jpg?1669726051",
+  "iconCid": "bafkreic7hj7baidkpimmpypnf6obqmgbu6u5rb5oibhva2vc5iiy3r437a",
+  "numberOfDownloads": 49,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bbrains-multirandomspawns.106495/history",
+  "gitUrl": "https://www.curseforge.com/minecraft/bukkit-plugins/bbrains-chatmanager",
+  "releaseDate": 1669722420000,
+  "updateDate": 1671202680000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

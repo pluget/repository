@@ -1,0 +1,22 @@
+{
+  "id": 103371,
+  "url": "https://www.spigotmc.org/resources/x11bazary.103371/",
+  "name": "X11Bazary",
+  "description": "trading, bazar",
+  "authors": [
+    "jdPajor"
+  ],
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/x11bazary.103371/history",
+  "gitUrl": "https://github.com/jdPajor/X11Bazary",
+  "releaseDate": 1657821600000,
+  "updateDate": 1657821600000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

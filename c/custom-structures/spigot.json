@@ -1,0 +1,27 @@
+{
+  "id": 38249,
+  "url": "https://www.spigotmc.org/resources/custom-structures.38249/",
+  "name": "Custom Structures",
+  "description": "Generate Structures from schematics. [1.13.2-1.19]",
+  "authors": [
+    "ryandw11"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/38/38249.jpg?1490068980",
+  "iconCid": "bafkreibyqwcksogqa4c56bz7t5cn7slaufjflg5ncuoyodciy5g2m4plvu",
+  "numberOfDownloads": 38051,
+  "rating": 4.5,
+  "numberOfVotes": 66,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/custom-structures.38249/history",
+  "gitUrl": "https://github.com/ryandw11/CustomStructures",
+  "releaseDate": 1676860680000,
+  "updateDate": 1676860680000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

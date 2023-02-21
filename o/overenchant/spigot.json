@@ -1,0 +1,24 @@
+{
+  "id": 105034,
+  "url": "https://www.spigotmc.org/resources/overenchant.105034/",
+  "name": "OverEnchant",
+  "description": "A Plugin that overrides the maximum enchantment level",
+  "authors": [
+    "rcv4"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105034.jpg?1662202039",
+  "iconCid": "bafkreibxqtf7xty37m2pjfrlin6bf3tddw6s2fnxipqna3mvwpeq4bqzou",
+  "numberOfDownloads": 195,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/overenchant.105034/history",
+  "gitUrl": "https://github.com/rcv4/OverEnchant",
+  "releaseDate": 1662196080000,
+  "updateDate": 1662196080000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.13",
+    "1.19"
+  ]
+}

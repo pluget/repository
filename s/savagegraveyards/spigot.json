@@ -1,0 +1,22 @@
+{
+  "id": 63050,
+  "url": "https://www.spigotmc.org/resources/savagegraveyards.63050/",
+  "name": "SavageGraveyards",
+  "description": "A plugin that provides discoverable graveyards",
+  "authors": [
+    "timsavage"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/63/63050.jpg?1544337900",
+  "iconCid": "bafkreihcuzjws5znk3howf2cus3jqoe67gg6kn7zpq6o3qslrymflegj2e",
+  "numberOfDownloads": 789,
+  "rating": 4.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/savagegraveyards.63050/history",
+  "gitUrl": "https://github.com/tim-savage/SavageGraveyards",
+  "releaseDate": 1544334120000,
+  "updateDate": 1662431700000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

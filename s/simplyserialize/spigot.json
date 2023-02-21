@@ -1,0 +1,21 @@
+{
+  "id": 104433,
+  "url": "https://www.spigotmc.org/resources/simplyserialize.104433/",
+  "name": "SimplySerialize",
+  "description": "A utility API for adding serializers for non-serializable objects! It never been this easy before!",
+  "authors": [
+    "_ODINN"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104433.jpg?1660140173",
+  "iconCid": "bafkreifcgpdowopflkvgpod5r3vkoly47ehj3e6nqjswcitj7n6gux4hae",
+  "numberOfDownloads": 13,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplyserialize.104433/history",
+  "gitUrl": "https://github.com/ODINN555/SimplySerialize",
+  "releaseDate": 1660136520000,
+  "updateDate": 1660136520000,
+  "versions": [
+    "1.19"
+  ]
+}

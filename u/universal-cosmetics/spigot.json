@@ -1,0 +1,27 @@
+{
+  "id": 103902,
+  "url": "https://www.spigotmc.org/resources/universal-cosmetics.103902/",
+  "name": "Universal Cosmetics",
+  "description": "The cosmetics you request are an order my friend!",
+  "authors": [
+    "iUseRod"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103902.jpg?1659288496",
+  "iconCid": "bafkreihqsd7di4ilvgnzwmdpojb3g3e62dpy6fwsji2c4vywlcdfsjjige",
+  "numberOfDownloads": 62,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/universal-cosmetics.103902/history",
+  "gitUrl": "https://github.com/iInvisibilities/UniveraslCosmetics",
+  "releaseDate": 1659283740000,
+  "updateDate": 1659440400000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

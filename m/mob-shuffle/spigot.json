@@ -1,0 +1,20 @@
+{
+  "id": 105495,
+  "url": "https://www.spigotmc.org/resources/mob-shuffle.105495/",
+  "name": "Mob Shuffle",
+  "description": "A fun minigame where you have to kill a random amount of mobs of a random type within a time limit!",
+  "authors": [
+    "RowanTjeNL"
+  ],
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mob-shuffle.105495/history",
+  "gitUrl": "https://github.com/RowwYourBoat/MobShuffle",
+  "releaseDate": 1664305440000,
+  "updateDate": 1664305440000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

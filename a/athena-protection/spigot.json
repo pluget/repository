@@ -1,0 +1,19 @@
+{
+  "id": 102957,
+  "url": "https://www.spigotmc.org/resources/athena-protection.102957/",
+  "name": "Athena Protection",
+  "description": "Simple version of 2FA to avoid griefing.",
+  "authors": [
+    "Flyment"
+  ],
+  "numberOfDownloads": 42,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/athena-protection.102957/history",
+  "releaseDate": 1656395820000,
+  "updateDate": 1659269460000,
+  "versions": [
+    "1.16",
+    "1.17"
+  ]
+}

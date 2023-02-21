@@ -1,0 +1,21 @@
+{
+  "id": 107350,
+  "url": "https://www.spigotmc.org/resources/stonedamager-stonecutter-functionality-everyone-wants.107350/",
+  "name": "StoneDamager | Stonecutter functionality everyone wants.",
+  "description": "A plugin to simply make it so that stonecutters damage entities.",
+  "authors": [
+    "NitrateOrigins"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107350.jpg?1673545046",
+  "iconCid": "bafkreieh2bjp3p6zuazfblhm7lv5zu77whjxobzsw6ux2jksto7izumhze",
+  "numberOfDownloads": 97,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/stonedamager-stonecutter-functionality-everyone-wants.107350/history",
+  "gitUrl": "https://github.com/Server-Utilities/StoneDamager",
+  "releaseDate": 1673541420000,
+  "updateDate": 1673563440000,
+  "versions": [
+    "1.19"
+  ]
+}

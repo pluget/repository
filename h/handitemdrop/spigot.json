@@ -1,0 +1,32 @@
+{
+  "id": 104936,
+  "url": "https://www.spigotmc.org/resources/handitemdrop.104936/",
+  "name": "HandItemDrop",
+  "description": "Drop the item that you were holding in your hand when you died.",
+  "authors": [
+    "p1xEL_mc"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104936.jpg?1661861834",
+  "iconCid": "bafkreidrngrlud6hhrkknuqskqeng5pe6bzwdzzexjarbhsvqzd7gwaf3a",
+  "numberOfDownloads": 208,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/handitemdrop.104936/history",
+  "gitUrl": "https://github.com/Ez4p1xEL/HandItemDrop",
+  "releaseDate": 1661858220000,
+  "updateDate": 1661858220000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

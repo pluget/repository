@@ -1,0 +1,25 @@
+{
+  "id": 83283,
+  "url": "https://www.spigotmc.org/resources/antiraidfarm-block-cheaty-infinite-raid-farms.83283/",
+  "name": "AntiRaidFarm - Block cheaty infinite raid farms",
+  "description": "Configure a cooldown on raids to break farms that abuse infinite bad omen loops",
+  "authors": [
+    "jmp"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83283.jpg?1598661152",
+  "iconCid": "bafkreicpmrlc637osompgbmjr6y2jduk66thhe6i2f3363ixkxplwsuxaa",
+  "numberOfDownloads": 836,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antiraidfarm-block-cheaty-infinite-raid-farms.83283/history",
+  "gitUrl": "https://github.com/jpenilla/AntiRaidFarm",
+  "releaseDate": 1598657520000,
+  "updateDate": 1672798260000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

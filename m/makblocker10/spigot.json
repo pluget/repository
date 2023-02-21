@@ -1,0 +1,22 @@
+{
+  "id": 107070,
+  "url": "https://www.spigotmc.org/resources/makblocker-1-0.107070/",
+  "name": "MakBlocker-1.0",
+  "description": "Plugin to ban symbols, words.",
+  "authors": [
+    "MakMain"
+  ],
+  "numberOfDownloads": 36,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/makblocker-1-0.107070/history",
+  "releaseDate": 1672452360000,
+  "updateDate": 1672452360000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

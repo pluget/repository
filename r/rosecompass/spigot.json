@@ -1,0 +1,23 @@
+{
+  "id": 107592,
+  "url": "https://www.spigotmc.org/resources/rosecompass.107592/",
+  "name": "RoseCompass",
+  "description": "Adds compass to your server. Like in FPS games",
+  "authors": [
+    "Vlad54"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107592.jpg?1674585975",
+  "iconCid": "bafkreibefl4qpkcccvd3q4ho27b7z6wrtaqg6nj4pz2mtrc2o6ymj7tg5m",
+  "numberOfDownloads": 48,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rosecompass.107592/history",
+  "gitUrl": "https://github.com/EmSockz/RoseCompass",
+  "releaseDate": 1674582360000,
+  "updateDate": 1674671040000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

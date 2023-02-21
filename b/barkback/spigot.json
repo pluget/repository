@@ -1,0 +1,21 @@
+{
+  "id": 105835,
+  "url": "https://www.spigotmc.org/resources/barkback.105835/",
+  "name": "BarkBack",
+  "description": "Allows you to return the bark to an accidentally stripped log",
+  "authors": [
+    "Velvi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105835.jpg?1666124842",
+  "iconCid": "bafkreicc2kxlxc7aizmgphla5znd3fxnhm6fbyutjoaw3fvyzx2viwz4bq",
+  "numberOfDownloads": 74,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/barkback.105835/history",
+  "gitUrl": "https://github.com/Velvi42/BarkBack",
+  "releaseDate": 1666121220000,
+  "updateDate": 1666121220000,
+  "versions": [
+    "1.19"
+  ]
+}

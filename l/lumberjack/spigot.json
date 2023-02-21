@@ -1,0 +1,24 @@
+{
+  "id": 60306,
+  "url": "https://www.spigotmc.org/resources/lumberjack-tree-gravity-leaf-decay-custom-tree-drops.60306/",
+  "name": "LumberJack | Tree Gravity & Leaf Decay & Custom Tree Drops",
+  "description": "Toggle tree gravity + configurable faster leaves decay. Prevents torch exploit + auto config updater",
+  "authors": [
+    "mfnalex"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/60/60306.jpg?1628154685",
+  "iconCid": "bafkreigkmcas4odnu3qsmshysbdvhhxo3t6s66liufqfm5n3fbz5k3l43y",
+  "numberOfDownloads": 52593,
+  "rating": 4.9,
+  "numberOfVotes": 39,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lumberjack-tree-gravity-leaf-decay-custom-tree-drops.60306/history",
+  "gitUrl": "https://github.com/JEFF-Media-GbR/Spigot-LumberJack",
+  "releaseDate": 1535361240000,
+  "updateDate": 1660303440000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

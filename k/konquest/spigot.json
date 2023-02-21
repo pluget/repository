@@ -1,0 +1,23 @@
+{
+  "id": 92220,
+  "url": "https://www.spigotmc.org/resources/konquest.92220/",
+  "name": "Konquest",
+  "description": "Town claiming and capturing with global kingdoms, resident management and stats/titles",
+  "authors": [
+    "Rumsfield"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92220.jpg?1620606639",
+  "iconCid": "bafkreifhycgka76tahreheo7qwqdsbklglofa5jqeyebkbnp4om2e76dwy",
+  "numberOfDownloads": 8095,
+  "rating": 4.9,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/konquest.92220/history",
+  "releaseDate": 1620603000000,
+  "updateDate": 1664047440000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

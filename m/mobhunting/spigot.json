@@ -1,0 +1,32 @@
+{
+  "id": 3582,
+  "url": "https://www.spigotmc.org/resources/mobhunting.3582/",
+  "name": "MobHunting",
+  "description": "Earn Money and get Skulls by killing Mobs and Players",
+  "authors": [
+    "Rocologo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/3/3582.jpg?1480701745",
+  "iconCid": "bafkreibcqoxlr66e6ogilqgpgq53xkue6pthekavt3kr2n6epmz6jomy54",
+  "numberOfDownloads": 76804,
+  "rating": 4.6,
+  "numberOfVotes": 141,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mobhunting.3582/history",
+  "gitUrl": "https://github.com/Rocologo/MobHunting",
+  "releaseDate": 1422640440000,
+  "updateDate": 1669576080000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

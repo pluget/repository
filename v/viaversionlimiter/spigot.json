@@ -1,0 +1,19 @@
+{
+  "id": 106900,
+  "url": "https://www.spigotmc.org/resources/viaversionlimiter.106900/",
+  "name": "ViaVersionLimiter",
+  "description": "Discourage your players from using old versions!",
+  "authors": [
+    "Blockhost"
+  ],
+  "numberOfDownloads": 76,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/viaversionlimiter.106900/history",
+  "gitUrl": "https://github.com/BlockhostOfficial/ViaVersionLimiter",
+  "releaseDate": 1671782520000,
+  "updateDate": 1675087680000,
+  "versions": [
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 70359,
+  "url": "https://www.spigotmc.org/resources/prefix-custom-tag-manager-1-8-1-19-3.70359/",
+  "name": "PrefiX - Custom Tag Manager [1.8 - 1.19.3]",
+  "description": "User friendly tag manager for LuckPerms",
+  "authors": [
+    "martijnpu"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/70/70359.jpg?1588752286",
+  "iconCid": "bafkreifcstyw6yh7uupsglneewdnifha2qepw6uudzormg47324737llfm",
+  "numberOfDownloads": 76831,
+  "rating": 3.9,
+  "numberOfVotes": 17,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/prefix-custom-tag-manager-1-8-1-19-3.70359/history",
+  "gitUrl": "https://gitlab.com/martijnpu/prefix",
+  "releaseDate": 1565776680000,
+  "updateDate": 1674156120000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

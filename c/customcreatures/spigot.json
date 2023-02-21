@@ -1,0 +1,21 @@
+{
+  "id": 68711,
+  "url": "https://www.spigotmc.org/resources/customcreatures.68711/",
+  "name": "CustomCreatures",
+  "description": "Allows you to control entities' spawn.",
+  "authors": [
+    "Rial"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/68/68711.jpg?1561414106",
+  "iconCid": "bafkreiavzbqmgtnjiul57qcuot5dnuiqjeuwpweypengcsdtt4ynkdgxa4",
+  "numberOfDownloads": 716,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/customcreatures.68711/history",
+  "gitUrl": "https://github.com/uprial/customcreatures",
+  "releaseDate": 1561410480000,
+  "updateDate": 1669498260000,
+  "versions": [
+    "1.19"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 82715,
+  "url": "https://www.spigotmc.org/resources/chunks.82715/",
+  "name": "Chunks",
+  "description": "Skyblock with a whole chunk!",
+  "authors": [
+    "CraftCreeper6"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82715.jpg?1597337379",
+  "iconCid": "bafkreibx4zhieierurrpbvzc7j4q2f7ok6rd4td64fc2bbpdulojrgdsty",
+  "numberOfDownloads": 227,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chunks.82715/history",
+  "gitUrl": "https://github.com/jordandalby/Chunks",
+  "releaseDate": 1597333740000,
+  "updateDate": 1668692460000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

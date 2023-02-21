@@ -1,0 +1,21 @@
+{
+  "id": 108097,
+  "url": "https://www.spigotmc.org/resources/conditioncontrolsystem.108097/",
+  "name": "ConditionControlSystem",
+  "description": "Central handling of all conditions for text-based queries!",
+  "authors": [
+    "Avankziar"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108097.jpg?1676781479",
+  "iconCid": "bafkreibabvto6krz3o64xsnusz2pu3mcq2hvp45zxg3kvkp4frnxdct7zi",
+  "numberOfDownloads": 7,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/conditioncontrolsystem.108097/history",
+  "gitUrl": "https://github.com/Avankziar/ConditionControlSystem",
+  "releaseDate": 1676777820000,
+  "updateDate": 1676777820000,
+  "versions": [
+    "1.19"
+  ]
+}

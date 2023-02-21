@@ -1,0 +1,31 @@
+{
+  "id": 104787,
+  "url": "https://www.spigotmc.org/resources/toolkit.104787/",
+  "name": "ToolKit",
+  "description": "Helps admins and developers who want to set up the server only on certain clients",
+  "authors": [
+    "ItzOwny"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104787.jpg?1661321902",
+  "iconCid": "bafkreiekgxshv5iutz5q6p6gjjgqqjlbkycvcivti3gbbp6kmwb2ozoppe",
+  "numberOfDownloads": 38,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/toolkit.104787/history",
+  "releaseDate": 1661317680000,
+  "updateDate": 1661318160000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

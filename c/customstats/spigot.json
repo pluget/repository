@@ -1,0 +1,28 @@
+{
+  "id": 88300,
+  "url": "https://www.spigotmc.org/resources/customstats.88300/",
+  "name": "CustomStats",
+  "description": "CustomStats - An anarchy server oriented plugin that adds /stats.",
+  "authors": [
+    "7man7LMYT"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88300.jpg?1611616929",
+  "iconCid": "bafkreibjhwbn5kbvzp75slgddhxtkv44taow5fqrkpnak2uf7rfbywcg2m",
+  "numberOfDownloads": 135,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/customstats.88300/history",
+  "gitUrl": "https://github.com/7man7LMYT/CustomStats",
+  "releaseDate": 1611613320000,
+  "updateDate": 1659235320000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

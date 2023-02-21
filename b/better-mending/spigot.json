@@ -1,0 +1,21 @@
+{
+  "id": 107270,
+  "url": "https://www.spigotmc.org/resources/better-mending.107270/",
+  "name": "Better Mending",
+  "description": "A plugin that allows players to repair their items with experience points or a specified item, with",
+  "authors": [
+    "live_laika"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107270.jpg?1673123923",
+  "iconCid": "bafkreih7ec42rozvktzk5g7zsjb5og7vqjqwoqa75cylaoy2zl7hvpl3am",
+  "numberOfDownloads": 91,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/better-mending.107270/history",
+  "gitUrl": "https://github.com/laika-murasaki/bettermending",
+  "releaseDate": 1673120280000,
+  "updateDate": 1673628480000,
+  "versions": [
+    "1.19"
+  ]
+}

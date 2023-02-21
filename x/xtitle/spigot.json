@@ -1,0 +1,32 @@
+{
+  "id": 106860,
+  "url": "https://www.spigotmc.org/resources/xtitle-fast-lightweight-packet-based-library.106860/",
+  "name": "XTitle - Fast & Lightweight | Packet-Based Library",
+  "description": "An NMS packet-based library for Bukkit for send Titles/ActionBars and more Cross-Versions support.",
+  "authors": [
+    "InitSync"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106860.jpg?1671576576",
+  "iconCid": "bafkreibr7c45kwrrburqc3vmph7prxju6bcqdhhkc2tkziklslx7n2fgqm",
+  "numberOfDownloads": 55,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/xtitle-fast-lightweight-packet-based-library.106860/history",
+  "gitUrl": "https://github.com/InitSync/XTitle",
+  "releaseDate": 1671572880000,
+  "updateDate": 1673363520000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

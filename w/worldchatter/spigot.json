@@ -1,0 +1,32 @@
+{
+  "id": 101226,
+  "url": "https://www.spigotmc.org/resources/worldchatter-discontinued.101226/",
+  "name": "WorldChatter [DISCONTINUED]",
+  "description": "Every world deserves its own conversation.",
+  "authors": [
+    "OmarOmar93"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101226.jpg?1649540452",
+  "iconCid": "bafkreieqolregvke2c7qayrmthpblwpu7kw2qt6uhcsmchsu5ysygxuiei",
+  "numberOfDownloads": 202,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/worldchatter-discontinued.101226/history",
+  "gitUrl": "https://github.com/OmarOmar93/WorldChatter",
+  "releaseDate": 1649422560000,
+  "updateDate": 1658181240000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

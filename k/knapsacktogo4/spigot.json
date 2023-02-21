@@ -1,0 +1,28 @@
+{
+  "id": 103685,
+  "url": "https://www.spigotmc.org/resources/knapsacktogo4-inventory-sync.103685/",
+  "name": "KnapsackToGo4 : inventory sync",
+  "description": "Easily complete data synchronization between multiple servers",
+  "authors": [
+    "jianjianai"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103685.jpg?1658761409",
+  "iconCid": "bafkreibvh5mk73o2ottiqekh33n4ceyzrorftjsjwjtxc44uuuuxogyxgq",
+  "numberOfDownloads": 49,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/knapsacktogo4-inventory-sync.103685/history",
+  "gitUrl": "https://gitee.com/jja8/KnapsackToGo4",
+  "releaseDate": 1658757780000,
+  "updateDate": 1659324900000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

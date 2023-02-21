@@ -1,0 +1,27 @@
+{
+  "id": 103307,
+  "url": "https://www.spigotmc.org/resources/autocraft-1-13-x-1-19-x.103307/",
+  "name": "AutoCraft | 1.13.X - 1.19.X",
+  "description": "Allows you to craft Items automaticly",
+  "authors": [
+    "keksexception"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103307.jpg?1657622987",
+  "iconCid": "bafkreiadesc6q7gkoca6dinmazzkefyzubwqbbt3wxu2hbnylviish2biq",
+  "numberOfDownloads": 873,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/autocraft-1-13-x-1-19-x.103307/history",
+  "gitUrl": "https://github.com/keksexception/AutoCraftNewMinecraft/tree/master/AutoCraft%201.19/src",
+  "releaseDate": 1676715600000,
+  "updateDate": 1676715600000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

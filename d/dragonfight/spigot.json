@@ -1,0 +1,22 @@
+{
+  "id": 94048,
+  "url": "https://www.spigotmc.org/resources/dragonfight.94048/",
+  "name": "DragonFight",
+  "description": "BentoBox addon that enables per island ender dragon fight",
+  "authors": [
+    "BONNe_LV"
+  ],
+  "numberOfDownloads": 508,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dragonfight.94048/history",
+  "gitUrl": "https://github.com/BONNePlayground/DragonFights",
+  "releaseDate": 1625745420000,
+  "updateDate": 1671793440000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

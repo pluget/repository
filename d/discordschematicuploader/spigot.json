@@ -1,0 +1,22 @@
+{
+  "id": 93925,
+  "url": "https://www.spigotmc.org/resources/discordschematicuploader.93925/",
+  "name": "DiscordSchematicUploader",
+  "description": "Upload and download WorldEdit schematics from the comfort of your Discord server",
+  "authors": [
+    "DB888"
+  ],
+  "numberOfDownloads": 368,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discordschematicuploader.93925/history",
+  "gitUrl": "https://github.com/Dinty1/DiscordSchematicUploader",
+  "releaseDate": 1625478300000,
+  "updateDate": 1674392100000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

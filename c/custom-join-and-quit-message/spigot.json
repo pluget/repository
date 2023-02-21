@@ -1,0 +1,32 @@
+{
+  "id": 57006,
+  "url": "https://www.spigotmc.org/resources/custom-join-and-quit-message-1-8-x-1-19-x.57006/",
+  "name": "Custom Join and Quit Message [1.8.x-1.19.x]",
+  "description": "It allows you to customize the input and output messages but also has some extra options",
+  "authors": [
+    "jonagamerpro1234"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/57/57006.jpg?1642043368",
+  "iconCid": "bafkreihe7slwtljwo7xrybv2ke6btrg3paw5oj2rwp7uozdrdeeb44unqe",
+  "numberOfDownloads": 7737,
+  "rating": 3.5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/custom-join-and-quit-message-1-8-x-1-19-x.57006/history",
+  "gitUrl": "https://github.com/jonagamerpro1234/CustomJoinAndQuitMessages",
+  "releaseDate": 1676855940000,
+  "updateDate": 1676855940000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

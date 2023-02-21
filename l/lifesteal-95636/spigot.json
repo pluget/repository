@@ -1,0 +1,22 @@
+{
+  "id": 95636,
+  "url": "https://www.spigotmc.org/resources/lifesteal-skript-configurable-in-gui.95636/",
+  "name": "LifeSteal (Skript) [Configurable in gui]",
+  "description": "Kill players to steal their hearts! Configurable in a nice gui",
+  "authors": [
+    "ErnBob"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95636.jpg?1639777093",
+  "iconCid": "bafkreiepmutb7625mpw4c3kxlxfo3smohkbbtiywv3yre57udxetjtctuy",
+  "numberOfDownloads": 5571,
+  "rating": 3.8,
+  "numberOfVotes": 17,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lifesteal-skript-configurable-in-gui.95636/history",
+  "releaseDate": 1629811020000,
+  "updateDate": 1659909120000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

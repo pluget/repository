@@ -1,0 +1,26 @@
+{
+  "id": 99902,
+  "url": "https://www.spigotmc.org/resources/missile-warfare.99902/",
+  "name": "Missile Warfare",
+  "description": "Slimefun addon that introduces Missiles, Radars and more!",
+  "authors": [
+    "ColonelKai"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99902.jpg?1644846816",
+  "iconCid": "bafkreigwlicvy3crelrw5uppphum2no33dpznprmnwlamx7pctgu5akunq",
+  "numberOfDownloads": 401,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/missile-warfare.99902/history",
+  "gitUrl": "https://github.com/koiboi-dev/MissileWarfare",
+  "releaseDate": 1644478140000,
+  "updateDate": 1659131340000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

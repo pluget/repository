@@ -1,0 +1,27 @@
+{
+  "id": 71483,
+  "url": "https://www.spigotmc.org/resources/1-13-1-19-augmentedhardcore-enhance-your-hardcore-server-to-the-fullest.71483/",
+  "name": "[1.13-1.19] ~ AugmentedHardcore | Enhance your hardcore server to the fullest",
+  "description": "A very customizable and performant plugin that allow to enhance your hardcore server to the fullest",
+  "authors": [
+    "nathanisme"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/71/71483.jpg?1619535733",
+  "iconCid": "bafkreigi73y2k3nxowlvggt3iwp5ufjvegamtecn32hlr4hevpvdaias2i",
+  "numberOfDownloads": 8262,
+  "rating": 4.8,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/1-13-1-19-augmentedhardcore-enhance-your-hardcore-server-to-the-fullest.71483/history",
+  "gitUrl": "https://github.com/NathanCollaert/AugmentedHardcore",
+  "releaseDate": 1676731380000,
+  "updateDate": 1676731380000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

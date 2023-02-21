@@ -1,0 +1,19 @@
+{
+  "id": 104300,
+  "url": "https://www.spigotmc.org/resources/shoutcast-plugin.104300/",
+  "name": "Shoutcast Plugin",
+  "description": "Broadcast the song currently playing on your Shoutcast stream",
+  "authors": [
+    "Darkmantle"
+  ],
+  "numberOfDownloads": 31,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/shoutcast-plugin.104300/history",
+  "gitUrl": "https://github.com/darkmantle/shoutcast-plugin",
+  "releaseDate": 1659867780000,
+  "updateDate": 1659867900000,
+  "versions": [
+    "1.19"
+  ]
+}

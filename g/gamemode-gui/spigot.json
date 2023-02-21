@@ -1,0 +1,30 @@
+{
+  "id": 93686,
+  "url": "https://www.spigotmc.org/resources/gamemode-gui.93686/",
+  "name": "GameMode GUI",
+  "description": "GameMode, GUI, GameMode Change",
+  "authors": [
+    "jaimyjackson"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93686.jpg?1624818361",
+  "iconCid": "bafkreib27nlugzaq5tluus6leq2vzk4hfkvxbhkuspdinkumhpd3u47n7u",
+  "numberOfDownloads": 272,
+  "rating": 3.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gamemode-gui.93686/history",
+  "releaseDate": 1624814700000,
+  "updateDate": 1660480800000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

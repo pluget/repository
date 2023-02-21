@@ -1,0 +1,21 @@
+{
+  "id": 107375,
+  "url": "https://www.spigotmc.org/resources/chatbot-fully-configurable.107375/",
+  "name": "ChatBot {Fully Configurable}",
+  "description": "Automate Chat Responses to Players",
+  "authors": [
+    "jacobcodes"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107375.jpg?1673731684",
+  "iconCid": "bafkreigqbiy6rvuudaiorpo2cfbay3j3pdqljrrhvrp7kwnwu4wbtnxsg4",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatbot-fully-configurable.107375/history",
+  "gitUrl": "https://github.com/thedevjacob/ChatBot",
+  "releaseDate": 1673645400000,
+  "updateDate": 1674420600000,
+  "versions": [
+    "1.19"
+  ]
+}

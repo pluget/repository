@@ -1,0 +1,24 @@
+{
+  "id": 104718,
+  "url": "https://www.spigotmc.org/resources/block-break-reward-simple-customizable-and-optimize-mysql-support-actionbar-leaderboard.104718/",
+  "name": "BLOCK BREAK REWARD | Simple, Customizable and Optimize! | MySQL Support, Actionbar, Leaderboard,...",
+  "description": "A plugin to reward all hard-working players with commands",
+  "authors": [
+    "TrongThang"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104718.jpg?1661709714",
+  "iconCid": "bafkreieurdi7yr74lziuxbbltmsxv53meyucwwms2v43zp3s3agya3n2by",
+  "numberOfDownloads": 859,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/block-break-reward-simple-customizable-and-optimize-mysql-support-actionbar-leaderboard.104718/history",
+  "gitUrl": "https://github.com/CaoTrongThang/BlockBreakReward",
+  "releaseDate": 1661079960000,
+  "updateDate": 1665200940000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

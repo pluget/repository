@@ -1,0 +1,27 @@
+{
+  "id": 101227,
+  "url": "https://www.spigotmc.org/resources/xcatch-anti-xray-1-13-1-19.101227/",
+  "name": "XCatch | Anti-Xray 1.13-1.19",
+  "description": "Efficient yet effective plugin to catch X-rayers for 1.13-1.19.",
+  "authors": [
+    "DeDiamondPro"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101227.jpg?1649427635",
+  "iconCid": "bafkreigy3xwexjmc4cm75itxwavjrwru5il7tsgtmatfh6zbayirf6dyp4",
+  "numberOfDownloads": 22496,
+  "rating": 4.5,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/xcatch-anti-xray-1-13-1-19.101227/history",
+  "gitUrl": "https://github.com/DeDiamondPro/XCatch",
+  "releaseDate": 1649424000000,
+  "updateDate": 1671537420000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

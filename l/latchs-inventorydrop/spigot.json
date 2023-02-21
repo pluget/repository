@@ -1,0 +1,23 @@
+{
+  "id": 105870,
+  "url": "https://www.spigotmc.org/resources/latchs-inventorydrop.105870/",
+  "name": "Latch's InventoryDrop",
+  "description": "Keeps items in player inventories set by server owner.",
+  "authors": [
+    "Latch93"
+  ],
+  "numberOfDownloads": 26,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/latchs-inventorydrop.105870/history",
+  "releaseDate": 1666395660000,
+  "updateDate": 1666459860000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

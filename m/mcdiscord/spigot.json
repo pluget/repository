@@ -1,0 +1,27 @@
+{
+  "id": 106245,
+  "url": "https://www.spigotmc.org/resources/mcdiscord.106245/",
+  "name": "MCDiscord",
+  "description": "Link your Discord & Minecraft server",
+  "authors": [
+    "Nesanco-Dev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106245.jpg?1668358838",
+  "iconCid": "bafkreiecvag67zpuke5ivxzgrpqiufcdltslxtahdbr2bub7lean5chvjm",
+  "numberOfDownloads": 108,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mcdiscord.106245/history",
+  "releaseDate": 1668355200000,
+  "updateDate": 1670203620000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

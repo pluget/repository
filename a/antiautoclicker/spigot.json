@@ -1,0 +1,32 @@
+{
+  "id": 74933,
+  "url": "https://www.spigotmc.org/resources/anti-autoclicker.74933/",
+  "name": "Anti-AutoClicker",
+  "description": "Reduces the use of Auto Clicker",
+  "authors": [
+    "GodCipher"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/74/74933.jpg?1580846051",
+  "iconCid": "bafkreicorcyqjvsucnfrkqilkeatdcma7ad6jtcy4dgh4367spzxmedwdi",
+  "numberOfDownloads": 15197,
+  "rating": 4.6,
+  "numberOfVotes": 20,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anti-autoclicker.74933/history",
+  "gitUrl": "https://github.com/Luziferium/Anti-Auto-Clicker/",
+  "releaseDate": 1580837940000,
+  "updateDate": 1667754480000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

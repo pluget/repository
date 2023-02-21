@@ -1,0 +1,27 @@
+{
+  "id": 105138,
+  "url": "https://www.spigotmc.org/resources/editor.105138/",
+  "name": "Editor",
+  "description": "API",
+  "authors": [
+    "Kassadin_Zed"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105138.jpg?1662968439",
+  "iconCid": "bafkreia7hjdvp6xweypyc34ttn2syt4ehjfwgbj3xbupboccw5467pszoy",
+  "numberOfDownloads": 17,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/editor.105138/history",
+  "releaseDate": 1662593520000,
+  "updateDate": 1662593520000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15"
+  ]
+}

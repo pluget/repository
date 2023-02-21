@@ -1,0 +1,24 @@
+{
+  "id": 107427,
+  "url": "https://www.spigotmc.org/resources/pvp-toggle-reloaded.107427/",
+  "name": "PVP Toggle Reloaded",
+  "description": "Allow your members to decide when they want to be able to fight others",
+  "authors": [
+    "CoolDCB"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107427.jpg?1673925650",
+  "iconCid": "bafkreidbpgxxp7f64t3trruh4bbu6li7kerakws2thi7rox6ig2shkb2uu",
+  "numberOfDownloads": 123,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pvp-toggle-reloaded.107427/history",
+  "gitUrl": "https://github.com/CoolDCB/PVPToggle",
+  "releaseDate": 1673922000000,
+  "updateDate": 1676146140000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

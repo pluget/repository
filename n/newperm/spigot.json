@@ -1,0 +1,32 @@
+{
+  "id": 104005,
+  "url": "https://www.spigotmc.org/resources/newperm-with-mysql-support.104005/",
+  "name": "NewPerm [with MySQL Support]",
+  "description": "A GUI based Permission and Role plugin.",
+  "authors": [
+    "NewDavis"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104005.jpg?1659479111",
+  "iconCid": "bafkreib3vp2gnxhrtjtjfoy2ad22ccvqro7hrmukcpgwr2ryensf5fdiuy",
+  "numberOfDownloads": 126,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/newperm-with-mysql-support.104005/history",
+  "releaseDate": 1659475500000,
+  "updateDate": 1669045500000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

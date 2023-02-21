@@ -1,0 +1,33 @@
+{
+  "id": 34161,
+  "url": "https://www.spigotmc.org/resources/warp.34161/",
+  "name": "Warp",
+  "description": "A simple warp plugin, which teleports you to your selected location!",
+  "authors": [
+    "Cuuky"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/34/34161.jpg?1483372240",
+  "iconCid": "bafkreify2b7t7q3ezpu7etj3cje65xy2gvfg3z2hteofbv77ygsth3ax3u",
+  "numberOfDownloads": 10614,
+  "rating": 4.2,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/warp.34161/history",
+  "gitUrl": "https://github.com/CuukyOfficial/Warp",
+  "releaseDate": 1483368600000,
+  "updateDate": 1665481140000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

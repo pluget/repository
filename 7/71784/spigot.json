@@ -1,0 +1,32 @@
+{
+  "id": 71784,
+  "url": "https://www.spigotmc.org/resources/1-8-1-19-rewardslite-customizable-rewards-with-ease.71784/",
+  "name": "[1.8-1.19] ~ RewardsLite | Customizable rewards with ease",
+  "description": "A very customizable and lightweight plugin that gives rewards to players based on playtime.",
+  "authors": [
+    "nathanisme"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/71/71784.jpg?1596296991",
+  "iconCid": "bafkreieeix3f73rghtahx6ga3jjsv3zqfqr5tyqgjpx3y7m5uafwktrn4i",
+  "numberOfDownloads": 10602,
+  "rating": 4.8,
+  "numberOfVotes": 31,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/1-8-1-19-rewardslite-customizable-rewards-with-ease.71784/history",
+  "gitUrl": "https://github.com/NathanCollaert/RewardsLite",
+  "releaseDate": 1570117800000,
+  "updateDate": 1675360680000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

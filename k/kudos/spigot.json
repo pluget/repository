@@ -1,0 +1,21 @@
+{
+  "id": 106036,
+  "url": "https://www.spigotmc.org/resources/kudos-1-19-papi-gui-open-source-mysql.106036/",
+  "name": "Kudos | 1.19 | PAPI | GUI | Open Source | MySQL",
+  "description": "The plugin allows to give someone a kudo (recognition/praise)",
+  "authors": [
+    "Urbance"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106036.jpg?1667329115",
+  "iconCid": "bafkreibp4nqwaxndm5cdh7zftrpgmzzvmz63taqkeqbiq5mzjfay4ny6cm",
+  "numberOfDownloads": 767,
+  "rating": 4.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kudos-1-19-papi-gui-open-source-mysql.106036/history",
+  "gitUrl": "https://github.com/Urbance/Kudos",
+  "releaseDate": 1667325360000,
+  "updateDate": 1676067480000,
+  "versions": [
+    "1.19"
+  ]
+}

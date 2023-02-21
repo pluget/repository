@@ -1,0 +1,24 @@
+{
+  "id": 91883,
+  "url": "https://www.spigotmc.org/resources/simplestaffchat-1-16-1-19.91883/",
+  "name": "SimpleStaffChat | 1.16 - 1.19",
+  "description": "A lightweight staffchat plugin for Proxies and Backend servers.",
+  "authors": [
+    "Refrac"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91883.jpg?1619832205",
+  "iconCid": "bafkreigxiz7ayky2a2bmlzwtxgizixwvsrspr6mtsqbcherjrbrqm4mcuy",
+  "numberOfDownloads": 3678,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplestaffchat-1-16-1-19.91883/history",
+  "gitUrl": "https://github.com/RefracDevelopment/SimpleStaffChat2",
+  "releaseDate": 1619809620000,
+  "updateDate": 1660855980000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

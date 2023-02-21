@@ -1,0 +1,27 @@
+{
+  "id": 89910,
+  "url": "https://www.spigotmc.org/resources/worldwidechat.89910/",
+  "name": "WorldwideChat",
+  "description": "Break the blocky language barrier!",
+  "authors": [
+    "BadSkater0729"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89910.jpg?1615315494",
+  "iconCid": "bafkreifud4y7svqjinef3hcgk2to36mp2depo7ftpjr7uoa2a42krfgbh4",
+  "numberOfDownloads": 888,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/worldwidechat.89910/history",
+  "gitUrl": "https://github.com/BadSkater0729/WorldwideChat/",
+  "releaseDate": 1615311840000,
+  "updateDate": 1668237360000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

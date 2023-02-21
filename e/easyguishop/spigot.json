@@ -1,0 +1,32 @@
+{
+  "id": 100881,
+  "url": "https://www.spigotmc.org/resources/easyguishop.100881/",
+  "name": "EasyGuiShop",
+  "description": "A Gui shop plugin for player",
+  "authors": [
+    "zhangyang0204"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100881.jpg?1648993048",
+  "iconCid": "bafkreihqw2lszef7ve2447bb6snm32kccqye2vmiy6wrpl3ffl3l6go6ma",
+  "numberOfDownloads": 16743,
+  "rating": 5,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/easyguishop.100881/history",
+  "gitUrl": "https://github.com/ZhangYang0204/easy-gui-shop",
+  "releaseDate": 1647933900000,
+  "updateDate": 1662124800000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

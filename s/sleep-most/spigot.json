@@ -1,0 +1,32 @@
+{
+  "id": 60623,
+  "url": "https://www.spigotmc.org/resources/sleep-most-1-8-1-19-the-most-advanced-sleep-plugin-available-percentage-animations.60623/",
+  "name": "Sleep most [1.8 > 1.19] The most advanced sleep plugin available (percentage, animations, ..)",
+  "description": "Control the amount of percentage of sleeping players required to make it day",
+  "authors": [
+    "MrGeneralQ"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/60/60623.jpg?1584649638",
+  "iconCid": "bafkreicf662baukrj567tjh4zpkl2f2hfs2zg7ikkfgyfttslojuqdzije",
+  "numberOfDownloads": 176533,
+  "rating": 4.9,
+  "numberOfVotes": 86,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sleep-most-1-8-1-19-the-most-advanced-sleep-plugin-available-percentage-animations.60623/history",
+  "gitUrl": "https://github.com/mrgeneralq/sleep-most",
+  "releaseDate": 1676481900000,
+  "updateDate": 1676481900000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

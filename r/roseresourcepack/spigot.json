@@ -1,0 +1,23 @@
+{
+  "id": 107483,
+  "url": "https://www.spigotmc.org/resources/roseresourcepack-hosting-resourcepack.107483/",
+  "name": "RoseResourcepack | Hosting resourcepack",
+  "description": "Hosting and packaging of the resource pack in the plugin",
+  "authors": [
+    "Vlad54"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107483.jpg?1674152223",
+  "iconCid": "bafkreifuxlgqdl7kxapz4kd7pmnerpelze3bot6arwtfbva47msjhkwbaq",
+  "numberOfDownloads": 120,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/roseresourcepack-hosting-resourcepack.107483/history",
+  "gitUrl": "https://github.com/EmSockz/RoseResourcepack",
+  "releaseDate": 1674148560000,
+  "updateDate": 1676287920000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

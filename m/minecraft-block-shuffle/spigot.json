@@ -1,0 +1,23 @@
+{
+  "id": 95458,
+  "url": "https://www.spigotmc.org/resources/minecraft-block-shuffle.95458/",
+  "name": "Minecraft Block Shuffle",
+  "description": "A simple Block Shuffle minigame for Minecraft",
+  "authors": [
+    "Reisu1337"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95458.jpg?1629316940",
+  "iconCid": "bafkreidiwavaqnajcktv2fgj5fmmvxgh6kqlzxd4z5pif7jqqxddym465u",
+  "numberOfDownloads": 1552,
+  "rating": 4.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minecraft-block-shuffle.95458/history",
+  "gitUrl": "https://github.com/reisu1337/BlockShuffle",
+  "releaseDate": 1629312420000,
+  "updateDate": 1671308160000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

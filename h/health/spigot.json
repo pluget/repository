@@ -1,0 +1,21 @@
+{
+  "id": 105252,
+  "url": "https://www.spigotmc.org/resources/health-plugin.105252/",
+  "name": "Health plugin",
+  "description": "comando /salud para regenerar toda tu vida",
+  "authors": [
+    "alfonso12342y"
+  ],
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/health-plugin.105252/history",
+  "releaseDate": 1663024560000,
+  "updateDate": 1663024560000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

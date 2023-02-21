@@ -1,0 +1,22 @@
+{
+  "id": 101255,
+  "url": "https://www.spigotmc.org/resources/tasker.101255/",
+  "name": "Tasker",
+  "description": "Cron task scheduler",
+  "authors": [
+    "tsukinoko"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101255.jpg?1649532201",
+  "iconCid": "bafkreihu5vthwlelny6eqvicy5v6dcoaods7mdc4z2vkshjrxvaoem5vzi",
+  "numberOfDownloads": 65,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tasker.101255/history",
+  "gitUrl": "https://github.com/Frank-Mayer/minecraft-tasker",
+  "releaseDate": 1649527320000,
+  "updateDate": 1658054160000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

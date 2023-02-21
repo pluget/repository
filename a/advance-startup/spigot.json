@@ -1,0 +1,33 @@
+{
+  "id": 98420,
+  "url": "https://www.spigotmc.org/resources/advance-startup-for-windows-mc-startup.98420/",
+  "name": "Advance Startup for windows -MC-Startup",
+  "description": "Fully Customizable Bat file to Start Minecraft with single click. Auto restart Support and more.",
+  "authors": [
+    "Krak8"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98420.jpg?1639652782",
+  "iconCid": "bafkreigtalfegey7qj4rizjlxxqyeqdlmg374e3bmzvp2th3vnxvd7mv2i",
+  "numberOfDownloads": 221,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advance-startup-for-windows-mc-startup.98420/history",
+  "gitUrl": "https://github.com/Krak8/MC-Startup",
+  "releaseDate": 1639787280000,
+  "updateDate": 1673640120000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 102669,
+  "url": "https://www.spigotmc.org/resources/ezredislib.102669/",
+  "name": "EzRedisLib",
+  "description": "Simple library based on Jedis. you do not need to shade Jedis in your plugin!",
+  "authors": [
+    "Emibergo02"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102669.jpg?1667400490",
+  "iconCid": "bafkreigroj2tk42blbq6wvrad2lu2cmlgnv6pwwz6zrsq5s2rr2s642yfu",
+  "numberOfDownloads": 47,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ezredislib.102669/history",
+  "gitUrl": "https://github.com/Emibergo02/EzRedisLib",
+  "releaseDate": 1655420880000,
+  "updateDate": 1666974900000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

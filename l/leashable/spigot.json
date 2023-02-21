@@ -1,0 +1,31 @@
+{
+  "id": 100675,
+  "url": "https://www.spigotmc.org/resources/leashable.100675/",
+  "name": "Leashable",
+  "description": "Leash all entities such as villagers, spiders, creepers, zombies.",
+  "authors": [
+    "Ranull"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100675.jpg?1647186611",
+  "iconCid": "bafkreigr5h4qqc5pzzv5qofxlq66kpvh7li7744xskuqf5eo6eullfc6um",
+  "numberOfDownloads": 1849,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/leashable.100675/history",
+  "gitUrl": "https://gitlab.com/ranull/minecraft/leashable",
+  "releaseDate": 1647182940000,
+  "updateDate": 1670846640000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 107944,
+  "url": "https://www.spigotmc.org/resources/discordbot.107944/",
+  "name": "DiscordBot",
+  "description": "한국어, Discord",
+  "authors": [
+    "WaMel_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107944.jpg?1676112383",
+  "iconCid": "bafkreiddmmdc6bz6gvacwd6yd5e4nxjw4ojoryq3cv6g4oq6fqvxnzxvhu",
+  "numberOfDownloads": 52,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discordbot.107944/history",
+  "releaseDate": 1676108760000,
+  "updateDate": 1676108760000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

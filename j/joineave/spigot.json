@@ -1,0 +1,31 @@
+{
+  "id": 103136,
+  "url": "https://www.spigotmc.org/resources/joineave.103136/",
+  "name": "Joineave",
+  "description": "A basic plugin for making join and leave messages",
+  "authors": [
+    "d1axowy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103136.jpg?1657041763",
+  "iconCid": "bafkreibcuaixwt4ygntgahsu4lkginxnkmeosdhlgshojv3hyzwhxecqg4",
+  "numberOfDownloads": 124,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/joineave.103136/history",
+  "releaseDate": 1657038000000,
+  "updateDate": 1658231940000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

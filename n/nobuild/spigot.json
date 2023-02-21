@@ -1,0 +1,22 @@
+{
+  "id": 107058,
+  "url": "https://www.spigotmc.org/resources/nobuild-skript.107058/",
+  "name": "NoBuild [Skript]",
+  "description": "Make players not build with 1 command.",
+  "authors": [
+    "CafeKitten"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107058.jpg?1672445762",
+  "iconCid": "bafkreieu4io3jllathm2cdigrzgkx53eucyviu7fgz6q2i3qbkslcsxk4q",
+  "numberOfDownloads": 87,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nobuild-skript.107058/history",
+  "releaseDate": 1672419180000,
+  "updateDate": 1672602420000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 101072,
+  "url": "https://www.spigotmc.org/resources/basicqueue.101072/",
+  "name": "BasicQueue",
+  "description": "Adds a queue to full servers (not Bungee)",
+  "authors": [
+    "Muriplz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101072.jpg?1648692006",
+  "iconCid": "bafkreifrkbzvnrd4kh4qrxtzm37lnmtqyujk7ewvbqt66nnnn4rwakqjfe",
+  "numberOfDownloads": 458,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/basicqueue.101072/history",
+  "gitUrl": "https://github.com/muriplz/BasicQueue",
+  "releaseDate": 1648687860000,
+  "updateDate": 1670746320000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 107318,
+  "url": "https://www.spigotmc.org/resources/bewareliquids.107318/",
+  "name": "BewareLiquids",
+  "description": "Teleports player to secure place when he falls to lava (or water).",
+  "authors": [
+    "qurao"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107318.jpg?1673351790",
+  "iconCid": "bafkreibbx5xvwx45cbm6s6ddebck7krqqvl3lsqkfydznul6nxaycjcetq",
+  "numberOfDownloads": 8,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bewareliquids.107318/history",
+  "gitUrl": "https://github.com/KalbinVV/BewareLiquids",
+  "releaseDate": 1673348160000,
+  "updateDate": 1673348160000,
+  "versions": [
+    "1.19"
+  ]
+}

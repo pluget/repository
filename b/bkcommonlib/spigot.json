@@ -1,0 +1,32 @@
+{
+  "id": 39590,
+  "url": "https://www.spigotmc.org/resources/bkcommonlib.39590/",
+  "name": "BKCommonLib",
+  "description": "Common utility library adding unique new features and API's",
+  "authors": [
+    "TeamBergerhealer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/39/39590.jpg?1500733825",
+  "iconCid": "bafkreibxxsrj7ugg6n6qms7vtjeddjskggngn2krj27ubyhjhrhp4hm4iu",
+  "numberOfDownloads": 140702,
+  "rating": 4.4,
+  "numberOfVotes": 45,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bkcommonlib.39590/history",
+  "gitUrl": "https://github.com/bergerhealer/BKCommonLib",
+  "releaseDate": 1492381680000,
+  "updateDate": 1672079700000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

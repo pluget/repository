@@ -1,0 +1,24 @@
+{
+  "id": 97435,
+  "url": "https://www.spigotmc.org/resources/bannerboard-compatibility-for-interactiveboard-1-17-1-1-19-3.97435/",
+  "name": "BannerBoard compatibility for InteractiveBoard [1.17.1 - 1.19.3]",
+  "description": "Load BannerBoard board configurations through InteractiveBoard [1.17 - 1.19.3]",
+  "authors": [
+    "Joiubaxas"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97435.jpg?1636224846",
+  "iconCid": "bafkreigdkgsztvdwvlsevciswy2dhiocq7krnqmmv4pjxwaf3lkrm2aa3e",
+  "numberOfDownloads": 1509,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bannerboard-compatibility-for-interactiveboard-1-17-1-1-19-3.97435/history",
+  "gitUrl": "https://github.com/InteractiveBoard/BannerBoard",
+  "releaseDate": 1676839500000,
+  "updateDate": 1676839500000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

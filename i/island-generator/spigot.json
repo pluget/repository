@@ -1,0 +1,23 @@
+{
+  "id": 92194,
+  "url": "https://www.spigotmc.org/resources/island-generator.92194/",
+  "name": "Island Generator",
+  "description": "Customizable Island Generator for you Minecraft-World.",
+  "authors": [
+    "Mixin"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92194.jpg?1626292468",
+  "iconCid": "bafkreigwfxdk7dxhddgtjyelt35lbbubizcz734gnxx342fsys7pfsxqji",
+  "numberOfDownloads": 1065,
+  "rating": 3.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/island-generator.92194/history",
+  "releaseDate": 1620562680000,
+  "updateDate": 1673096760000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

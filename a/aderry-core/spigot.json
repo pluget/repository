@@ -1,0 +1,31 @@
+{
+  "id": 103380,
+  "url": "https://www.spigotmc.org/resources/aderry-core.103380/",
+  "name": "Aderry Core",
+  "description": "aderry core",
+  "authors": [
+    "Aderry"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103380.jpg?1657855786",
+  "iconCid": "bafkreigwmibn2gwcuyr3es5kqag5s6gy3vtibekf43v7m2ndzahjq6rbnq",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/aderry-core.103380/history",
+  "releaseDate": 1657852140000,
+  "updateDate": 1657852140000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

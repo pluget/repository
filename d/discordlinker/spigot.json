@@ -1,0 +1,27 @@
+{
+  "id": 98749,
+  "url": "https://www.spigotmc.org/resources/discord-linker.98749/",
+  "name": "Discord-Linker",
+  "description": "View minecraft inventories inside Discord, execute commands, add a chat-bridge and more!",
+  "authors": [
+    "Lianecx"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98749.jpg?1675529273",
+  "iconCid": "bafkreiei6ptvmt3ls4w7nh365cvb6rdnpbtmxhbmwd5lcosw3wngobvvha",
+  "numberOfDownloads": 1507,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discord-linker.98749/history",
+  "gitUrl": "https://github.com/MC-Linker/Discord-Linker",
+  "releaseDate": 1640702460000,
+  "updateDate": 1676059020000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

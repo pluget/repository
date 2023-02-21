@@ -1,0 +1,32 @@
+{
+  "id": 103287,
+  "url": "https://www.spigotmc.org/resources/spectate-addon-for-mbedwars.103287/",
+  "name": "Spectate Addon for MBedwars",
+  "description": "Spectate players if playing a game!",
+  "authors": [
+    "dejwideek"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103287.jpg?1657566071",
+  "iconCid": "bafkreidmzk3gw22umvakkacxejd62jbtlc3efwtbj5gfz7epkao2dfun2u",
+  "numberOfDownloads": 149,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/spectate-addon-for-mbedwars.103287/history",
+  "gitUrl": "https://github.com/dejwideek-dev/MBedwarsSpectateAddon",
+  "releaseDate": 1657558680000,
+  "updateDate": 1672312860000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

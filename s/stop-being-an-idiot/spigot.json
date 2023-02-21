@@ -1,0 +1,29 @@
+{
+  "id": 107313,
+  "url": "https://www.spigotmc.org/resources/stop-being-an-idiot.107313/",
+  "name": "Stop Being An Idiot!",
+  "description": "When one person dies, everyone dies",
+  "authors": [
+    "srnyx"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107313.jpg?1673311260",
+  "iconCid": "bafkreifzjqbcwbgxbv67qmsfuuto6rir4hyq5k2hytdh2fyt2gxafgoswq",
+  "numberOfDownloads": 34,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/stop-being-an-idiot.107313/history",
+  "gitUrl": "https://github.com/srnyx/stop-being-an-idiot",
+  "releaseDate": 1673306700000,
+  "updateDate": 1673306700000,
+  "versions": [
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

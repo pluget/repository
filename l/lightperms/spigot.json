@@ -1,0 +1,32 @@
+{
+  "id": 62447,
+  "url": "https://www.spigotmc.org/resources/lightperms.62447/",
+  "name": "LightPerms",
+  "description": "Most basic permissions plugin ever!",
+  "authors": [
+    "mfnalex"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/62/62447.jpg?1542370710",
+  "iconCid": "bafkreicmtwpbcy3irfl3ebpnetc3wpehvzh2wdhmsroncsf4oxkqspho4i",
+  "numberOfDownloads": 16547,
+  "rating": 4.7,
+  "numberOfVotes": 26,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lightperms.62447/history",
+  "gitUrl": "https://github.com/JEFF-Media-GbR/Spigot-LightPerms",
+  "releaseDate": 1542367080000,
+  "updateDate": 1661328480000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

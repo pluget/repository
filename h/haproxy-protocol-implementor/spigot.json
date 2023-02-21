@@ -1,0 +1,32 @@
+{
+  "id": 103193,
+  "url": "https://www.spigotmc.org/resources/haproxy-protocol-implementor.103193/",
+  "name": "HAProxy Protocol Implementor",
+  "description": "Allows HAProxy Protocol to be decoded and used on spigot servers",
+  "authors": [
+    "ytendx"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103193.jpg?1657222204",
+  "iconCid": "bafkreidhypc2x6nteudztnctlmd5bks3hfrbub2yxgvgo2ncwsso5i6n6y",
+  "numberOfDownloads": 106,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/haproxy-protocol-implementor.103193/history",
+  "gitUrl": "https://github.com/ytendx/HAProxyProtocolImplementor",
+  "releaseDate": 1657218540000,
+  "updateDate": 1670259420000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

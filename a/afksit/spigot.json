@@ -1,0 +1,33 @@
+{
+  "id": 107266,
+  "url": "https://www.spigotmc.org/resources/afksit.107266/",
+  "name": "AFKSit",
+  "description": "Essentials / CMI / AFK+ sit on going AFK plugin.",
+  "authors": [
+    "Ranull"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107266.jpg?1674492456",
+  "iconCid": "bafkreic4qfdlccyh3vqcxe5kv6wbvalq76qj3sw6cq5htm67ad6ajqrdla",
+  "numberOfDownloads": 206,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/afksit.107266/history",
+  "gitUrl": "https://gitlab.com/ranull/minecraft/afksit",
+  "releaseDate": 1673112960000,
+  "updateDate": 1675334700000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

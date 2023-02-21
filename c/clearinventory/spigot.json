@@ -1,0 +1,31 @@
+{
+  "id": 106151,
+  "url": "https://www.spigotmc.org/resources/clearinventory.106151/",
+  "name": "ClearInventory",
+  "description": "Plugin Clear All Inventory Player",
+  "authors": [
+    "QuocNguyenDoge"
+  ],
+  "numberOfDownloads": 64,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/clearinventory.106151/history",
+  "gitUrl": "https://github.com/quocn9043/Simple-Plugin-ClearInventory",
+  "releaseDate": 1667815140000,
+  "updateDate": 1668308340000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

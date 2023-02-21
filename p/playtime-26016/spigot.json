@@ -1,0 +1,33 @@
+{
+  "id": 26016,
+  "url": "https://www.spigotmc.org/resources/playtime.26016/",
+  "name": "PlayTime",
+  "description": "Allows users to view a players playtime.",
+  "authors": [
+    "F64_Rx"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/26/26016.jpg?1467992234",
+  "iconCid": "bafkreiepskcqxjcwpv3gju25xfqhkv5kn6yrg4j35x2zntwpkwmftjsd7u",
+  "numberOfDownloads": 76688,
+  "rating": 4.4,
+  "numberOfVotes": 107,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playtime.26016/history",
+  "gitUrl": "https://github.com/Twi5TeD/PlayTime",
+  "releaseDate": 1676545740000,
+  "updateDate": 1676545740000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

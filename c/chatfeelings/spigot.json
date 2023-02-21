@@ -1,0 +1,27 @@
+{
+  "id": 12987,
+  "url": "https://www.spigotmc.org/resources/chatfeelings.12987/",
+  "name": "ChatFeelings",
+  "description": "The Original Minecraft Emote & Feeling Plugin! Extremely Customizable & Easy to Use.",
+  "authors": [
+    "zach_attack"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/12/12987.jpg?1567991214",
+  "iconCid": "bafkreidpvay5lsghrbu4azaq75o3q25vay26micmcqpkwmpalw5ockdvva",
+  "numberOfDownloads": 99192,
+  "rating": 4.7,
+  "numberOfVotes": 37,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatfeelings.12987/history",
+  "gitUrl": "https://github.com/zachduda/ChatFeelings/",
+  "releaseDate": 1443985980000,
+  "updateDate": 1672858260000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

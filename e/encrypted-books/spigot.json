@@ -1,0 +1,21 @@
+{
+  "id": 106852,
+  "url": "https://www.spigotmc.org/resources/encrypted-books.106852/",
+  "name": "Encrypted Books",
+  "description": "Allows players to encrypt and decrypt books using the AES encryption algorithm.",
+  "authors": [
+    "CraniX"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106852.jpg?1671560146",
+  "iconCid": "bafkreigivm6m6so2xoehedpffedbxxv7vqifzcteplsemp734wnuydotha",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/encrypted-books.106852/history",
+  "gitUrl": "https://drive.google.com/file/d/10FaiVvntDS8ZXo6ivcCZC-qNs4B2qAJB/view?usp=share_link",
+  "releaseDate": 1671556500000,
+  "updateDate": 1671556500000,
+  "versions": [
+    "1.19"
+  ]
+}

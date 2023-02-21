@@ -1,0 +1,33 @@
+{
+  "id": 85958,
+  "url": "https://www.spigotmc.org/resources/discordsrvutils.85958/",
+  "name": "DiscordSRVUtils",
+  "description": "The improved version of DiscordSRV bot",
+  "authors": [
+    "Blue_Tree"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85958.jpg?1607177410",
+  "iconCid": "bafkreidytiglhoot6nqlygqguqehncxi6u66cceuihfkef62chnncf5ebu",
+  "numberOfDownloads": 7863,
+  "rating": 4.4,
+  "numberOfVotes": 34,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discordsrvutils.85958/history",
+  "gitUrl": "https://github.com/BlueDevelopersInc/DiscordSRVUtils",
+  "releaseDate": 1605898500000,
+  "updateDate": 1671651900000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

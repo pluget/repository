@@ -1,0 +1,22 @@
+{
+  "id": 105301,
+  "url": "https://www.spigotmc.org/resources/antihc.105301/",
+  "name": "AntiHC",
+  "description": "Anti Hacked Client - Minimise hackers on your server",
+  "authors": [
+    "KiloCodes"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105301.jpg?1663263202",
+  "iconCid": "bafkreia5g4rel7qhlrqqbifi3idds7u52lg5jsccwqlnvymbtrqdqtgcqi",
+  "numberOfDownloads": 104,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antihc.105301/history",
+  "releaseDate": 1663259580000,
+  "updateDate": 1664540580000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

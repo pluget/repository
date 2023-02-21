@@ -1,0 +1,23 @@
+{
+  "id": 101457,
+  "url": "https://www.spigotmc.org/resources/links-plugin.101457/",
+  "name": "Links plugin",
+  "description": "gives you the links of your social media",
+  "authors": [
+    "sagu"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101457.jpg?1650270104",
+  "iconCid": "bafkreidgr6mkonp6fdmv5vyoo57d5b7fyeztyfr3k7ufmwmb6c3t4k4ibm",
+  "numberOfDownloads": 139,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/links-plugin.101457/history",
+  "gitUrl": "https://github.com/TheIceNinja/Links",
+  "releaseDate": 1650266460000,
+  "updateDate": 1658998080000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

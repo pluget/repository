@@ -1,0 +1,33 @@
+{
+  "id": 3789,
+  "url": "https://www.spigotmc.org/resources/deathmessages.3789/",
+  "name": "DeathMessages",
+  "description": "Allows the formatting of all death messages",
+  "authors": [
+    "MrShawn"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/3/3789.jpg?1611714723",
+  "iconCid": "bafkreiadkfrfrtwo5makzxrpjvui3ivoz6h7flimydtmz5cksc4ra3f7lq",
+  "numberOfDownloads": 84910,
+  "rating": 4.7,
+  "numberOfVotes": 138,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/deathmessages.3789/history",
+  "gitUrl": "https://github.com/Shawn11564/DeathMessages",
+  "releaseDate": 1676922720000,
+  "updateDate": 1676922720000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

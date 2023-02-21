@@ -1,0 +1,26 @@
+{
+  "id": 12141,
+  "url": "https://www.spigotmc.org/resources/markitem.12141/",
+  "name": "MarkItem",
+  "description": "Save your rare loot using marks",
+  "authors": [
+    "OsipXD"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/12/12141.jpg?1442059043",
+  "iconCid": "bafkreifzvb62ad5uhsjln4du3cevtjxmdvaaoxqrast7lcs223jjsj24su",
+  "numberOfDownloads": 897,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/markitem.12141/history",
+  "gitUrl": "https://github.com/EndlessCodeGroup/MarkItem",
+  "releaseDate": 1442055420000,
+  "updateDate": 1661585280000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

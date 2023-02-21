@@ -1,0 +1,28 @@
+{
+  "id": 88180,
+  "url": "https://www.spigotmc.org/resources/knokkos-custom-item-editor.88180/",
+  "name": "Knokko's Custom Item Editor",
+  "description": "The graphical configuration tool for my custom items plug-in",
+  "authors": [
+    "knokko"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88180.jpg?1611392462",
+  "iconCid": "bafkreidb4pwz5vjbcyokd4s2c6bf77pn24k7n7ohllf6ecrg2eid3evstu",
+  "numberOfDownloads": 4262,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/knokkos-custom-item-editor.88180/history",
+  "gitUrl": "https://github.com/knokko/custom-items-gradle",
+  "releaseDate": 1611617040000,
+  "updateDate": 1675349400000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

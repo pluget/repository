@@ -1,0 +1,24 @@
+{
+  "id": 91310,
+  "url": "https://www.spigotmc.org/resources/evenmorefish-%E2%96%AA-extensive-fishing-plugin-%E2%96%AA.91310/",
+  "name": "EvenMoreFish ▪ Extensive fishing plugin ▪",
+  "description": "A fishing extension bringing an exciting new experience to fishing.",
+  "authors": [
+    "Oheers"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91310.jpg?1640710419",
+  "iconCid": "bafkreig4arqqu6ch44ythu7saxymxsny2kbmnf3zu7wqfzhlw53ruwcyt4",
+  "numberOfDownloads": 12989,
+  "rating": 4.8,
+  "numberOfVotes": 79,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/evenmorefish-%E2%96%AA-extensive-fishing-plugin-%E2%96%AA.91310/history",
+  "gitUrl": "https://github.com/Oheers/EvenMoreFish",
+  "releaseDate": 1676634120000,
+  "updateDate": 1676634120000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

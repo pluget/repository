@@ -1,0 +1,28 @@
+{
+  "id": 96495,
+  "url": "https://www.spigotmc.org/resources/quicktax.96495/",
+  "name": "QuickTax",
+  "description": "Schedule tax collections and protect your economy with the most powerful and flexible tax plugin!",
+  "authors": [
+    "tjtanjin"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96495.jpg?1632839743",
+  "iconCid": "bafkreifl3hxawx6kay3rculvugfdxnu3gnrxyoclq5trrsczcsyc6exmdu",
+  "numberOfDownloads": 946,
+  "rating": 5,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/quicktax.96495/history",
+  "releaseDate": 1632758520000,
+  "updateDate": 1669003500000,
+  "versions": [
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

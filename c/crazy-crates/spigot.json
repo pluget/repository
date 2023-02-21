@@ -1,0 +1,23 @@
+{
+  "id": 17599,
+  "url": "https://www.spigotmc.org/resources/crazy-crates.17599/",
+  "name": "Crazy Crates",
+  "description": "Add unlimited crates to your server with 10 different crate types to choose from!",
+  "authors": [
+    "BadBones69"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/17/17599.jpg?1670988322",
+  "iconCid": "bafkreibwgxdwk55i473w6qypatjcxrytws57uadygbgh2yc63s64nmpwma",
+  "numberOfDownloads": 243375,
+  "rating": 4.4,
+  "numberOfVotes": 506,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/crazy-crates.17599/history",
+  "gitUrl": "https://github.com/Crazy-Crew/CrazyCrates",
+  "releaseDate": 1453877400000,
+  "updateDate": 1674017220000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

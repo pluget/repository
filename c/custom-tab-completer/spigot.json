@@ -1,0 +1,26 @@
+{
+  "id": 96184,
+  "url": "https://www.spigotmc.org/resources/custom-tab-completer.96184/",
+  "name": "Custom Tab Completer",
+  "description": "Customize tab completition for your players!",
+  "authors": [
+    "_GoldenO"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96184.jpg?1631482662",
+  "iconCid": "bafkreiarv5njnkl7wsapfisvmuxg3tr4kt3ffj6onqznggpplup4hsecau",
+  "numberOfDownloads": 335,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/custom-tab-completer.96184/history",
+  "gitUrl": "https://github.com/xGoldenK/CustomTabCompleter",
+  "releaseDate": 1631478840000,
+  "updateDate": 1662937320000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

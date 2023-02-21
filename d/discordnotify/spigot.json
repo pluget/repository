@@ -1,0 +1,24 @@
+{
+  "id": 94230,
+  "url": "https://www.spigotmc.org/resources/bungeecord-velocity-bukkit-discordnotify-notifications-and-utils-for-discord.94230/",
+  "name": "[Bungeecord/Velocity/Bukkit] DiscordNotify - Notifications and Utils for Discord!",
+  "description": "Information and Utils for your Discord Server!",
+  "authors": [
+    "TrueMB"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94230.jpg?1627381874",
+  "iconCid": "bafkreie4zhqoyjtqpswbero6oh7zipfe2o52o3xg3gy3l7a6j7uinmlnie",
+  "numberOfDownloads": 1136,
+  "rating": 3.5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bungeecord-velocity-bukkit-discordnotify-notifications-and-utils-for-discord.94230/history",
+  "gitUrl": "https://github.com/TrueMB/DiscordNotify",
+  "releaseDate": 1626199080000,
+  "updateDate": 1657571580000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

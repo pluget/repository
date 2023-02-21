@@ -1,0 +1,26 @@
+{
+  "id": 103328,
+  "url": "https://www.spigotmc.org/resources/indoors-core-check-if-players-are-in-a-sealed-spaces-or-airtight-rooms.103328/",
+  "name": "Indoors Core | Check if players are in a sealed spaces or airtight rooms!",
+  "description": "Check if a player is in an enclosed space with just a command",
+  "authors": [
+    "Overqualified"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103328.jpg?1657706564",
+  "iconCid": "bafkreidy7fbxkst22ewguoor5q3zftqwn7vdj4q7ikdntl57pm42iksyd4",
+  "numberOfDownloads": 29,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/indoors-core-check-if-players-are-in-a-sealed-spaces-or-airtight-rooms.103328/history",
+  "releaseDate": 1657702380000,
+  "updateDate": 1658301840000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

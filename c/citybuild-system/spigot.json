@@ -1,0 +1,23 @@
+{
+  "id": 88621,
+  "url": "https://www.spigotmc.org/resources/citybuild-system-1-16-4-1-19-x.88621/",
+  "name": "CityBuild System [1.16.4 - 1.19.x]",
+  "description": "Like some other CityBuild Servers",
+  "authors": [
+    "JustinSGD"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88621.jpg?1612360377",
+  "iconCid": "bafkreifg43ind3w56rovdrcrt2wyro2ai2i27iu3evhukcu65arxum454e",
+  "numberOfDownloads": 7496,
+  "rating": 3.9,
+  "numberOfVotes": 17,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/citybuild-system-1-16-4-1-19-x.88621/history",
+  "gitUrl": "https://github.com/JuByteCOM/CityBuildV2",
+  "releaseDate": 1612356720000,
+  "updateDate": 1671880800000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

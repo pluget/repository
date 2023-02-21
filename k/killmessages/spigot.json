@@ -1,0 +1,19 @@
+{
+  "id": 106307,
+  "url": "https://www.spigotmc.org/resources/killmessages.106307/",
+  "name": "KillMessages",
+  "description": "Simple plugin to change player death messages.",
+  "authors": [
+    "kisr"
+  ],
+  "numberOfDownloads": 74,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/killmessages.106307/history",
+  "releaseDate": 1668751140000,
+  "updateDate": 1668751140000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

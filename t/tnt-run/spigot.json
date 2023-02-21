@@ -1,0 +1,31 @@
+{
+  "id": 83196,
+  "url": "https://www.spigotmc.org/resources/tnt-run-1-9-1-19.83196/",
+  "name": "TNT Run [1.9 - 1.19]",
+  "description": "Big networks ready | MySQL/YAML | BungeeCord/Multi Arena | Placeholders | Many Languages",
+  "authors": [
+    "Despical"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83196.jpg?1598530640",
+  "iconCid": "bafkreif7u2e7usqcswdspvldrl6vawcp4z7eaotnj2el7vkmxg3dixw4fq",
+  "numberOfDownloads": 3852,
+  "rating": 3.7,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tnt-run-1-9-1-19.83196/history",
+  "gitUrl": "https://github.com/Despical/TNTRun",
+  "releaseDate": 1598527020000,
+  "updateDate": 1673016480000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

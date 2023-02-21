@@ -1,0 +1,25 @@
+{
+  "id": 82775,
+  "url": "https://www.spigotmc.org/resources/essentialsmini.82775/",
+  "name": "EssentialsMini",
+  "description": "Add useful Commands to your Server",
+  "authors": [
+    "Darryl00"
+  ],
+  "numberOfDownloads": 2522,
+  "rating": 4.3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/essentialsmini.82775/history",
+  "gitUrl": "https://framedev.ch/sites/downloads/essentialsmini",
+  "releaseDate": 1597494540000,
+  "updateDate": 1672226820000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

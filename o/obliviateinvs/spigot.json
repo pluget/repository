@@ -1,0 +1,23 @@
+{
+  "id": 103572,
+  "url": "https://www.spigotmc.org/resources/obliviateinvs-%E2%80%94-highly-efficient-modular-gui-library.103572/",
+  "name": "ObliviateInvs — Highly efficient modular GUI library",
+  "description": "highly efficient, object-oriented, modular inventory library",
+  "authors": [
+    "_Obliviate_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103572.jpg?1658437606",
+  "iconCid": "bafkreidalytq3cnsj3f3ke2u7oldqzsl27xpm3zxz7avrjdtwhvopopx7a",
+  "numberOfDownloads": 286,
+  "rating": 5,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/obliviateinvs-%E2%80%94-highly-efficient-modular-gui-library.103572/history",
+  "gitUrl": "https://github.com/hamza-cskn/obliviate-invs",
+  "releaseDate": 1658433840000,
+  "updateDate": 1672519140000,
+  "versions": [
+    "1.8",
+    "1.16",
+    "1.19"
+  ]
+}

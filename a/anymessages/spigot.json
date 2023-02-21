@@ -1,0 +1,21 @@
+{
+  "id": 104831,
+  "url": "https://www.spigotmc.org/resources/anymessages-join-leave-and-others-messages.104831/",
+  "name": "AnyMessages [JOIN, LEAVE AND OTHERS MESSAGES]",
+  "description": "JOIN, LEAVE AND OTHERS MESSAGES",
+  "authors": [
+    "Anytown"
+  ],
+  "numberOfDownloads": 59,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anymessages-join-leave-and-others-messages.104831/history",
+  "gitUrl": "https://github.com/Anytown/AnyMessages/",
+  "releaseDate": 1661486160000,
+  "updateDate": 1662084540000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

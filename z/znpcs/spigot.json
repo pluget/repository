@@ -1,0 +1,32 @@
+{
+  "id": 80940,
+  "url": "https://www.spigotmc.org/resources/znpcs.80940/",
+  "name": "ZNPCs",
+  "description": "Let your players connect to the servers through NPCs",
+  "authors": [
+    "ZNetwork"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80940.jpg?1636091021",
+  "iconCid": "bafkreig25yld3g6e4jm4xzl6sbpamio4tukenloxoowuz5ghpgs4o7reyi",
+  "numberOfDownloads": 523620,
+  "rating": 4.1,
+  "numberOfVotes": 201,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/znpcs.80940/history",
+  "gitUrl": "https://github.com/gonalez/znpcs",
+  "releaseDate": 1593641160000,
+  "updateDate": 1671417180000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

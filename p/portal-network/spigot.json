@@ -1,0 +1,25 @@
+{
+  "id": 78053,
+  "url": "https://www.spigotmc.org/resources/portal-network.78053/",
+  "name": "Portal Network",
+  "description": "Player controlled portal system",
+  "authors": [
+    "Bundabrg"
+  ],
+  "numberOfDownloads": 332,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/portal-network.78053/history",
+  "gitUrl": "https://github.com/bundabrg/PortalNetwork",
+  "releaseDate": 1588059180000,
+  "updateDate": 1662208320000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

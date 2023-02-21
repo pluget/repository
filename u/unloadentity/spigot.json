@@ -1,0 +1,21 @@
+{
+  "id": 106119,
+  "url": "https://www.spigotmc.org/resources/unloadentity.106119/",
+  "name": "unloadEntity",
+  "description": "If the specified entity exists when the chunk is unloaded, delete the entity",
+  "authors": [
+    "Marumasa"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106119.jpg?1667711365",
+  "iconCid": "bafkreiacgobcwhvmfz2bsmizp6k2bqjjxiregcz6c2vn6abjctpfxwv6mu",
+  "numberOfDownloads": 13,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/unloadentity.106119/history",
+  "gitUrl": "https://github.com/malken21/Minecraft_unloadEntity_Spigot",
+  "releaseDate": 1667707680000,
+  "updateDate": 1667707680000,
+  "versions": [
+    "1.19"
+  ]
+}

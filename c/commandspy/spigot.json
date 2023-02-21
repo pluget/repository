@@ -1,0 +1,22 @@
+{
+  "id": 106857,
+  "url": "https://www.spigotmc.org/resources/commandspy.106857/",
+  "name": "CommandSpy",
+  "description": "Minecraft Spigot/Bukkit plugin made for servers staff, to know what commands are players executing.",
+  "authors": [
+    "Anonymous0123"
+  ],
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/commandspy.106857/history",
+  "gitUrl": "https://github.com/Sincrono01/CommandSpy",
+  "releaseDate": 1671563460000,
+  "updateDate": 1671563460000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

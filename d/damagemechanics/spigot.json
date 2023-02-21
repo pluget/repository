@@ -1,0 +1,21 @@
+{
+  "id": 104514,
+  "url": "https://www.spigotmc.org/resources/damagemechanics.104514/",
+  "name": "DamageMechanics",
+  "description": "Multiply damage depending on the cause",
+  "authors": [
+    "CJCrafter1"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104514.jpg?1660351771",
+  "iconCid": "bafkreihmajjqj5fhzxiqenciep6detcqg7fltw4grjmfan23vmmugtyk5e",
+  "numberOfDownloads": 94,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/damagemechanics.104514/history",
+  "gitUrl": "https://github.com/WeaponMechanics/DamageMechanics",
+  "releaseDate": 1660348140000,
+  "updateDate": 1660350540000,
+  "versions": [
+    "1.19"
+  ]
+}

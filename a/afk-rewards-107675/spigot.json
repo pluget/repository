@@ -1,0 +1,23 @@
+{
+  "id": 107675,
+  "url": "https://www.spigotmc.org/resources/afk-rewards.107675/",
+  "name": "AFK Rewards",
+  "description": "Give your players rewards for being afk in a worldguard region!",
+  "authors": [
+    "Incbom"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107675.jpg?1674963536",
+  "iconCid": "bafkreifuxb6wzcon4lqzlt5rg2ut7z3olnt5nizxvsxun2pzgxljrnhtwy",
+  "numberOfDownloads": 182,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/afk-rewards.107675/history",
+  "releaseDate": 1674959880000,
+  "updateDate": 1675808580000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

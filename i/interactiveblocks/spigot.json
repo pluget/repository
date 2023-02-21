@@ -1,0 +1,23 @@
+{
+  "id": 98094,
+  "url": "https://www.spigotmc.org/resources/interactiveblocks.98094/",
+  "name": "InteractiveBlocks",
+  "description": "Customize a block interact behavioir.",
+  "authors": [
+    "StivenFocs"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98094.jpg?1638556382",
+  "iconCid": "bafkreigjht27ipyko5oktwrgaxmy24xmfk2npqz6bb5xtrqyq67pxlxrnm",
+  "numberOfDownloads": 111,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/interactiveblocks.98094/history",
+  "gitUrl": "https://github.com/StivenFocs/InteractiveBlocksPlugin",
+  "releaseDate": 1638552540000,
+  "updateDate": 1663666440000,
+  "versions": [
+    "1.8",
+    "1.17",
+    "1.18"
+  ]
+}

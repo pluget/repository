@@ -1,0 +1,20 @@
+{
+  "id": 101603,
+  "url": "https://www.spigotmc.org/resources/simplecl.101603/",
+  "name": "SimpleCL",
+  "description": "A fan made recreation of the Combat Log plugin used in the Lifesteal SMP season 2.",
+  "authors": [
+    "thesnipe12"
+  ],
+  "numberOfDownloads": 943,
+  "rating": 4.8,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplecl.101603/history",
+  "gitUrl": "https://github.com/thesnipe12/SimpleCL",
+  "releaseDate": 1650739260000,
+  "updateDate": 1667500680000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

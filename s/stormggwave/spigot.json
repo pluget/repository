@@ -1,0 +1,29 @@
+{
+  "id": 98150,
+  "url": "https://www.spigotmc.org/resources/stormggwave-activate-gg-waves-open-source.98150/",
+  "name": "StormGGWave | Activate GG Waves | OPEN SOURCE",
+  "description": "Activate GG Waves on your server with a simple command!",
+  "authors": [
+    "Frosxt_ed"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98150.jpg?1638745236",
+  "iconCid": "bafkreiarswdvywda2m2d5x24xww4xeth56l3xk36xk7eo4vgs3h2fw6rle",
+  "numberOfDownloads": 165,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/stormggwave-activate-gg-waves-open-source.98150/history",
+  "gitUrl": "https://github.com/frosxt/StormGGWave",
+  "releaseDate": 1638741600000,
+  "updateDate": 1660575000000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

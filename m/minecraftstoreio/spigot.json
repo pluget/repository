@@ -1,0 +1,27 @@
+{
+  "id": 106030,
+  "url": "https://www.spigotmc.org/resources/minecraftstore-io.106030/",
+  "name": "Minecraftstore.io",
+  "description": "The best way to monetize your Minecraft server.",
+  "authors": [
+    "Minecraftstore"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106030.jpg?1667316520",
+  "iconCid": "bafkreieuptsqgcqg35g256y2yi2h2yxbtz5ybt457ul6qybefjijivyh4a",
+  "numberOfDownloads": 41,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minecraftstore-io.106030/history",
+  "releaseDate": 1667312760000,
+  "updateDate": 1669570680000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

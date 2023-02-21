@@ -1,0 +1,25 @@
+{
+  "id": 62738,
+  "url": "https://www.spigotmc.org/resources/unstriplog-1-13-x-1-19-x.62738/",
+  "name": "UnstripLog [1.13.X- 1.19.X]",
+  "description": "Unstrip accidentally stripped log/grass_path",
+  "authors": [
+    "Alex_qp"
+  ],
+  "numberOfDownloads": 1271,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/unstriplog-1-13-x-1-19-x.62738/history",
+  "gitUrl": "https://github.com/Alex39099/UnstripLog",
+  "releaseDate": 1543248120000,
+  "updateDate": 1672754040000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

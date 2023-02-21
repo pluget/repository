@@ -1,0 +1,27 @@
+{
+  "id": 74596,
+  "url": "https://www.spigotmc.org/resources/playerguiadvanced-1-19-support.74596/",
+  "name": "PlayerGUIAdvanced | 1.19 SUPPORT! |",
+  "description": "A simple GUI that shows admins information about all the players on the server.",
+  "authors": [
+    "Loving11ish"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/74/74596.jpg?1640169069",
+  "iconCid": "bafkreie5vcgr5pyrv7xkb24g7ce25ddxev6qqizwbs7pi3wecmn7fuitye",
+  "numberOfDownloads": 5464,
+  "rating": 4.7,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playerguiadvanced-1-19-support.74596/history",
+  "gitUrl": "https://github.com/Loving11ish/PlayerGUIAdvanced/tree/master",
+  "releaseDate": 1579876020000,
+  "updateDate": 1672236720000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 88709,
+  "url": "https://www.spigotmc.org/resources/yamipa.88709/",
+  "name": "Yamipa",
+  "description": "Yet Another Minecraft Image Placing Addon",
+  "authors": [
+    "josemmo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88709.jpg?1612546444",
+  "iconCid": "bafkreigjkcdbb43pll6ver7nazu2smosnt5zazvhdcwstmhjzvwkuxrqbm",
+  "numberOfDownloads": 5661,
+  "rating": 4.9,
+  "numberOfVotes": 18,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/yamipa.88709/history",
+  "gitUrl": "https://github.com/josemmo/yamipa",
+  "releaseDate": 1612542660000,
+  "updateDate": 1675360080000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

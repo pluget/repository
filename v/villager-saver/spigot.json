@@ -1,0 +1,27 @@
+{
+  "id": 84738,
+  "url": "https://www.spigotmc.org/resources/villager-saver-1-19.84738/",
+  "name": "Villager Saver (1.19)",
+  "description": "Prevents the death of villagers from zombies, they will be always converted to zombie villagers.",
+  "authors": [
+    "MarioFinale"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84738.jpg?1602591420",
+  "iconCid": "bafkreickaagobqryynvoevi6po6neapvrxf5qpulg5nggm5ccmsqywrosq",
+  "numberOfDownloads": 2845,
+  "rating": 4,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/villager-saver-1-19.84738/history",
+  "gitUrl": "https://github.com/MarioFinale/VillagerSaver",
+  "releaseDate": 1602587760000,
+  "updateDate": 1657594020000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

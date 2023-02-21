@@ -1,0 +1,28 @@
+{
+  "id": 103806,
+  "url": "https://www.spigotmc.org/resources/hanarenaapi-minigame-api.103806/",
+  "name": "HanArenaAPI | Minigame API",
+  "description": "Resetting the world is simpler!",
+  "authors": [
+    "bingulhanyt"
+  ],
+  "numberOfDownloads": 36,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hanarenaapi-minigame-api.103806/history",
+  "gitUrl": "https://github.com/BingulHan/HanArenaAPI",
+  "releaseDate": 1659184020000,
+  "updateDate": 1659191460000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

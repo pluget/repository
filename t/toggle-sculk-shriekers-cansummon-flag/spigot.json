@@ -1,0 +1,21 @@
+{
+  "id": 107216,
+  "url": "https://www.spigotmc.org/resources/toggle-sculk-shriekers-can_summon-flag.107216/",
+  "name": "Toggle Sculk Shriekers 'can_summon' flag",
+  "description": "Type /warden summon while looking at a Sculk Shrieker to either disable or enable its 'can_summon'",
+  "authors": [
+    "Jsinco"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107216.jpg?1672908354",
+  "iconCid": "bafkreidn6xfhbwfm2tzprcgde5x3icrd47z4oecr7yojconagkp32tzmxa",
+  "numberOfDownloads": 14,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/toggle-sculk-shriekers-can_summon-flag.107216/history",
+  "gitUrl": "https://github.com/Jsinco/SculkShriekertoggle-cansummon",
+  "releaseDate": 1672904640000,
+  "updateDate": 1672904640000,
+  "versions": [
+    "1.19"
+  ]
+}

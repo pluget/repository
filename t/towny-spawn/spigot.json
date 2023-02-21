@@ -1,0 +1,21 @@
+{
+  "id": 105225,
+  "url": "https://www.spigotmc.org/resources/towny-spawn-ui.105225/",
+  "name": "Towny Spawn UI",
+  "description": "A menu to teleport to all Towny towns on your server",
+  "authors": [
+    "Cocolennon"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105225.jpg?1662915960",
+  "iconCid": "bafkreiglxtjygxhioe2yanukzx247gpspcub3pjw4ucnigc7ftamtck2cu",
+  "numberOfDownloads": 256,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/towny-spawn-ui.105225/history",
+  "gitUrl": "https://github.com/Senkoco/TownySpawnUI",
+  "releaseDate": 1662912300000,
+  "updateDate": 1671047460000,
+  "versions": [
+    "1.19"
+  ]
+}

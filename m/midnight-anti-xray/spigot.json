@@ -1,0 +1,21 @@
+{
+  "id": 99767,
+  "url": "https://www.spigotmc.org/resources/midnight-anti-xray.99767/",
+  "name": "Midnight Anti Xray",
+  "description": "Anti Xray, Addon, Skript",
+  "authors": [
+    "bradleyw8_"
+  ],
+  "numberOfDownloads": 852,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/midnight-anti-xray.99767/history",
+  "gitUrl": "https://github.com/Diplodocolus/MidnightCore/blob/main/Midnight%20AntiXray.sk",
+  "releaseDate": 1644008040000,
+  "updateDate": 1669922820000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

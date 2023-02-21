@@ -1,0 +1,25 @@
+{
+  "id": 99922,
+  "url": "https://www.spigotmc.org/resources/hajime-the-ultimate-startup-script.99922/",
+  "name": "Hajime: The Ultimate Startup Script",
+  "description": "The script with the best of everything else",
+  "authors": [
+    "TheBigBlah"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99922.jpg?1644549776",
+  "iconCid": "bafkreia3z5fs76tiuykakmcpwjszh24avqmw4426frzqtoc3y3wkwypnau",
+  "numberOfDownloads": 303,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hajime-the-ultimate-startup-script.99922/history",
+  "gitUrl": "https://github.com/Slackadays/Hajime",
+  "releaseDate": 1644609180000,
+  "updateDate": 1670681520000,
+  "versions": [
+    "1.8",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

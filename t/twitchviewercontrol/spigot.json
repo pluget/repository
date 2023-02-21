@@ -1,0 +1,24 @@
+{
+  "id": 100882,
+  "url": "https://www.spigotmc.org/resources/twitchviewercontrol.100882/",
+  "name": "TwitchViewerControl",
+  "description": "Let your Twitch Viewers Control your Minecraft!",
+  "authors": [
+    "TrueMB"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100882.jpg?1647951350",
+  "iconCid": "bafkreic7vnn5u2jn77jztylqtxq73axiw4fog47hjaubw5bs25zyt2ec74",
+  "numberOfDownloads": 222,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/twitchviewercontrol.100882/history",
+  "gitUrl": "https://github.com/TrueMB/TwitchViewerControl",
+  "releaseDate": 1647944820000,
+  "updateDate": 1660476540000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

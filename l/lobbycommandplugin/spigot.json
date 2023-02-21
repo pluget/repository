@@ -1,0 +1,21 @@
+{
+  "id": 106688,
+  "url": "https://www.spigotmc.org/resources/lobbycommandplugin.106688/",
+  "name": "LobbyCommandPlugin",
+  "description": "Simple plugin to send the player to a random lobby server when running /lobby.",
+  "authors": [
+    "Felipe12132"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106688.jpg?1670774905",
+  "iconCid": "bafkreib5w6u5j3z4t6i4ok63vrbax5ucfmox3fnwsgqzartu3tveei3joi",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lobbycommandplugin.106688/history",
+  "gitUrl": "https://github.com/thelipe7/LobbyCommandPlugin",
+  "releaseDate": 1670771280000,
+  "updateDate": 1670771280000,
+  "versions": [
+    "1.8"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 36081,
+  "url": "https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/",
+  "name": "BetterRTP | Random Wild Teleport",
+  "description": "A random teleport plugin for staying between the WorldBorder! Custom restrictions and more",
+  "authors": [
+    "RonanCraft"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/36/36081.jpg?1597898258",
+  "iconCid": "bafkreighek7i5rtifzzdtkuip7b3r6as3oaw3oyynp42bewotairglwu24",
+  "numberOfDownloads": 302589,
+  "rating": 4.2,
+  "numberOfVotes": 179,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/history",
+  "gitUrl": "https://github.com/SuperRonanCraft/BetterRTP",
+  "releaseDate": 1486700040000,
+  "updateDate": 1668174240000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

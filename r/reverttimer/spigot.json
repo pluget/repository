@@ -1,0 +1,26 @@
+{
+  "id": 102113,
+  "url": "https://www.spigotmc.org/resources/reverttimer.102113/",
+  "name": "RevertTimer",
+  "description": "reverts blocks placed back after a certain amount of time",
+  "authors": [
+    "JohnHeikens"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102113.jpg?1653119216",
+  "iconCid": "bafkreih4qwvs7zg473erx6gf6w3wjanjofrfgrdeluxdsnmyycoh7fd3ju",
+  "numberOfDownloads": 58,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/reverttimer.102113/history",
+  "releaseDate": 1653115080000,
+  "updateDate": 1664202180000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 104722,
+  "url": "https://www.spigotmc.org/resources/craftgui.104722/",
+  "name": "CraftGUI",
+  "description": "Frame of Minecraft Server GUI",
+  "authors": [
+    "Fireflyest"
+  ],
+  "numberOfDownloads": 486,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/craftgui.104722/history",
+  "gitUrl": "https://github.com/Fireflyest/CraftGUI",
+  "releaseDate": 1661093940000,
+  "updateDate": 1662216900000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 81574,
+  "url": "https://www.spigotmc.org/resources/movecraft-combat.81574/",
+  "name": "Movecraft-Combat",
+  "description": "Movecraft Combat Addon",
+  "authors": [
+    "TylerS1066"
+  ],
+  "numberOfDownloads": 1064,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/movecraft-combat.81574/history",
+  "gitUrl": "https://github.com/TylerS1066/Movecraft-Combat",
+  "releaseDate": 1594941360000,
+  "updateDate": 1672272120000,
+  "versions": [
+    "1.14",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

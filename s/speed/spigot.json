@@ -1,0 +1,31 @@
+{
+  "id": 104392,
+  "url": "https://www.spigotmc.org/resources/speed.104392/",
+  "name": "Speed",
+  "description": "A Speed plugin",
+  "authors": [
+    "einkaktuslol"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104392.jpg?1660040772",
+  "iconCid": "bafkreidmff7ox2x4n5vejbmyv4y56vdr22i4gmj4i44g2kkoum7x4ts6wy",
+  "numberOfDownloads": 43,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/speed.104392/history",
+  "releaseDate": 1660037160000,
+  "updateDate": 1660037160000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

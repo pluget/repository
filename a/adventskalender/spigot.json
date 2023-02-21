@@ -1,0 +1,21 @@
+{
+  "id": 97821,
+  "url": "https://www.spigotmc.org/resources/adventskalender.97821/",
+  "name": "Adventskalender",
+  "description": "A german culture christmas calendar",
+  "authors": [
+    "Kirastur"
+  ],
+  "numberOfDownloads": 160,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/adventskalender.97821/history",
+  "gitUrl": "https://github.com/Kirastur/Adventskalender",
+  "releaseDate": 1637611020000,
+  "updateDate": 1669144500000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

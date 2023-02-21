@@ -1,0 +1,24 @@
+{
+  "id": 87226,
+  "url": "https://www.spigotmc.org/resources/%E2%9C%85-infinite-parkour-%E2%96%B6-randomly-generating-parkour-rewards-mysql-leaderboard-spectate-others.87226/",
+  "name": "✅ Infinite Parkour ▶ Randomly Generating Parkour | Rewards | MySQL | Leaderboard | Spectate others",
+  "description": "⚡ Put a spin on parkour: automatically generating random parkour minigame -- perfect for any server⚡",
+  "authors": [
+    "Efnilite"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87226.jpg?1657652394",
+  "iconCid": "bafkreibdomscolsctla4oy6blhmloczamoxroopuyznvptkfuljvkvplhy",
+  "numberOfDownloads": 14248,
+  "rating": 5,
+  "numberOfVotes": 54,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9C%85-infinite-parkour-%E2%96%B6-randomly-generating-parkour-rewards-mysql-leaderboard-spectate-others.87226/history",
+  "gitUrl": "https://github.com/Efnilite/Walk-in-the-Park",
+  "releaseDate": 1609286580000,
+  "updateDate": 1672351920000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 105566,
+  "url": "https://www.spigotmc.org/resources/playit-gg.105566/",
+  "name": "playit-gg",
+  "description": "Make your server public without port forwarding with a static IP",
+  "authors": [
+    "patrick_playit"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105566.jpg?1664672688",
+  "iconCid": "bafkreibpsnurp4u4n4jz54ioawzczrjlb3lyq5jfibehlerx626izzwhhq",
+  "numberOfDownloads": 6572,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playit-gg.105566/history",
+  "gitUrl": "https://github.com/playit-cloud/playit-minecraft-plugin",
+  "releaseDate": 1664648280000,
+  "updateDate": 1665072900000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 99596,
+  "url": "https://www.spigotmc.org/resources/synccommands-1-8-1-19-%E2%9C%A8-redis-socket-rabbitmq.99596/",
+  "name": "SyncCommands | 1.8 - 1.19 | ✨ Redis & Socket & RabbitMQ",
+  "description": "Sync commands across servers. 1.8 - 1.19. Redis & Socket & RabbitMQ",
+  "authors": [
+    "hyperion_efe"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99596.jpg?1643463106",
+  "iconCid": "bafkreig7vblqkqubwiqvot3piyitfcxns7axcbgzm7asy5j7hjsvs7db7y",
+  "numberOfDownloads": 445,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/synccommands-1-8-1-19-%E2%9C%A8-redis-socket-rabbitmq.99596/history",
+  "gitUrl": "https://github.com/efekurbann/sync-commands",
+  "releaseDate": 1676681160000,
+  "updateDate": 1676681160000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

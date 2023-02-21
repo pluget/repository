@@ -1,0 +1,33 @@
+{
+  "id": 106116,
+  "url": "https://www.spigotmc.org/resources/deltamanagerbungee-management-tool.106116/",
+  "name": "DeltaManagerBungee - Management tool",
+  "description": "Multi-function management tool for BungeeCord",
+  "authors": [
+    "Baba1408"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106116.jpg?1667705612",
+  "iconCid": "bafkreidi3bugr3wmzpt74cqodu5kkpdib57mvydyu3nmtvphq6k3kvpy2i",
+  "numberOfDownloads": 88,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/deltamanagerbungee-management-tool.106116/history",
+  "gitUrl": "https://github.com/Baba1408/DeltaManagerBungee",
+  "releaseDate": 1667701260000,
+  "updateDate": 1670074980000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

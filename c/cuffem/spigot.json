@@ -1,0 +1,28 @@
+{
+  "id": 61773,
+  "url": "https://www.spigotmc.org/resources/cuffem.61773/",
+  "name": "CuffEm",
+  "description": "Cuff a prisoner",
+  "authors": [
+    "drives_a_ford"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/61/61773.jpg?1540185787",
+  "iconCid": "bafkreihry2rw7fqzwbjmhb2f2l54llfcmnvflvwf5ohd5u2mtdgfz3mlsq",
+  "numberOfDownloads": 8236,
+  "rating": 4.7,
+  "numberOfVotes": 20,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cuffem.61773/history",
+  "gitUrl": "https://bitbucket.org/wcmcdevteam/cuffemplugin/src/",
+  "releaseDate": 1676472420000,
+  "updateDate": 1676472420000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

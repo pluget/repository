@@ -1,0 +1,26 @@
+{
+  "id": 87210,
+  "url": "https://www.spigotmc.org/resources/vtl-villagertradelimiter-1-14-1-1-19-3.87210/",
+  "name": "VTL ~ VillagerTradeLimiter [1.14.1 - 1.19.3]",
+  "description": "~ Fix those pesky OP villager discounts! ~",
+  "authors": [
+    "PretzelJohn"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87210.jpg?1609257571",
+  "iconCid": "bafkreiftod2brw2i2h7d47f3wzutwdzmdzuigux4b672wswzw75bvyqxke",
+  "numberOfDownloads": 5707,
+  "rating": 5,
+  "numberOfVotes": 19,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/vtl-villagertradelimiter-1-14-1-1-19-3.87210/history",
+  "gitUrl": "https://github.com/PretzelJohn/VillagerTradeLimiter",
+  "releaseDate": 1676733120000,
+  "updateDate": 1676733120000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

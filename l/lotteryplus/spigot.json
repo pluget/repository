@@ -1,0 +1,21 @@
+{
+  "id": 107528,
+  "url": "https://www.spigotmc.org/resources/lotteryplus.107528/",
+  "name": "LotteryPlus",
+  "description": "Lottery, Reloaded. Adding /chance and /donate.",
+  "authors": [
+    "Asoxus"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107528.jpg?1674407072",
+  "iconCid": "bafkreibn6ubcu7q7wz772sdgxqzwg4roxjzsj6fr242nfkqmnxqz44fuvq",
+  "numberOfDownloads": 198,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lotteryplus.107528/history",
+  "gitUrl": "https://github.com/kylemarham/LotteryPlus",
+  "releaseDate": 1674350820000,
+  "updateDate": 1676323080000,
+  "versions": [
+    "1.19"
+  ]
+}

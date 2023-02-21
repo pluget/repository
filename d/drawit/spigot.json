@@ -1,0 +1,30 @@
+{
+  "id": 91425,
+  "url": "https://www.spigotmc.org/resources/drawit-the-most-modern-drawit-plugin-mysql-database-support-fully-customizable.91425/",
+  "name": "DrawIt - The Most Modern DrawIt Plugin [MySQL Database Support, Fully Customizable]",
+  "description": "The most modern drawit plugin to play and have fun with friends",
+  "authors": [
+    "Mher"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91425.jpg?1618684826",
+  "iconCid": "bafkreidjfvburxwcmfcejrvhl4k3uqyrfyulskb7akag3o6az2x6hytpjq",
+  "numberOfDownloads": 341,
+  "rating": 4.2,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/drawit-the-most-modern-drawit-plugin-mysql-database-support-fully-customizable.91425/history",
+  "gitUrl": "https://github.com/MherZaqaryan/DrawIt",
+  "releaseDate": 1618681200000,
+  "updateDate": 1660303500000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

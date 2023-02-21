@@ -1,0 +1,27 @@
+{
+  "id": 104794,
+  "url": "https://www.spigotmc.org/resources/cosmicspawners-silk-touch-spawners-%E2%9C%851-13-1-19.104794/",
+  "name": "CosmicSpawners | Silk Touch Spawners | ✅1.13 - 1.19",
+  "description": "A plugin that allows you to break spawners in Minecraft",
+  "authors": [
+    "WonkyPigs"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104794.jpg?1671212524",
+  "iconCid": "bafkreibpqwcdmj7ak7455e2fb2qswbhagwr34ctvtfjcfktkydivvea6ge",
+  "numberOfDownloads": 206,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cosmicspawners-silk-touch-spawners-%E2%9C%851-13-1-19.104794/history",
+  "gitUrl": "https://github.com/WonkyPigs/CosmicSpawners",
+  "releaseDate": 1661336460000,
+  "updateDate": 1671637260000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

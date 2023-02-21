@@ -1,0 +1,31 @@
+{
+  "id": 65746,
+  "url": "https://www.spigotmc.org/resources/ultracore-core-api.65746/",
+  "name": "UltraCore Core - API",
+  "description": "UltraCore API for Spigot Plugins.",
+  "authors": [
+    "Seba4316"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/65/65746.jpg?1552934471",
+  "iconCid": "bafkreifssl3sp6um5b46r2dw44k644fen3derkxvark7dpz36yuxhal5ii",
+  "numberOfDownloads": 1181,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ultracore-core-api.65746/history",
+  "releaseDate": 1676756220000,
+  "updateDate": 1676756220000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

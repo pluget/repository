@@ -1,0 +1,22 @@
+{
+  "id": 100045,
+  "url": "https://www.spigotmc.org/resources/spawnstar.100045/",
+  "name": "SpawnStar",
+  "description": "A configurable item that serves as a physical replacement for the /spawn command.",
+  "authors": [
+    "timsavage"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100045.jpg?1644998223",
+  "iconCid": "bafkreif6kgca3765dz53ingk54ljp7n4lfmrq4zdxaissyjbmeemlds36u",
+  "numberOfDownloads": 71,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/spawnstar.100045/history",
+  "gitUrl": "https://github.com/tim-savage/SpawnStar",
+  "releaseDate": 1644994560000,
+  "updateDate": 1662430680000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

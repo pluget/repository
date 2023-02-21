@@ -1,0 +1,23 @@
+{
+  "id": 85028,
+  "url": "https://www.spigotmc.org/resources/goldenchallenges-under-rework.85028/",
+  "name": "GoldenChallenges [ UNDER REWORK ]",
+  "description": "Generate Daily, Weekly and Monthly challenges for each player!",
+  "authors": [
+    "NightExpress"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85028.jpg?1605220162",
+  "iconCid": "bafkreiayuszx3won5mhchl3w5bpbp76jttvclvopyghgfh6fjsajasolua",
+  "numberOfDownloads": 7015,
+  "rating": 3.7,
+  "numberOfVotes": 29,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/goldenchallenges-under-rework.85028/history",
+  "gitUrl": "https://github.com/nulli0n/GoldenChallenges",
+  "releaseDate": 1603267380000,
+  "updateDate": 1660055640000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

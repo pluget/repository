@@ -1,0 +1,32 @@
+{
+  "id": 66019,
+  "url": "https://www.spigotmc.org/resources/signutils.66019/",
+  "name": "SignUtils",
+  "description": "Create custom utility signs.",
+  "authors": [
+    "RockinChaos"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/66/66019.jpg?1596583702",
+  "iconCid": "bafkreig64qf6uos2p24ykphktt4gydnr7mrtbes6lws67b6lukfwdx6pti",
+  "numberOfDownloads": 506,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/signutils.66019/history",
+  "releaseDate": 1553834040000,
+  "updateDate": 1658786340000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 104650,
+  "url": "https://www.spigotmc.org/resources/no-creeper-craters.104650/",
+  "name": "No Creeper Craters",
+  "description": "Prevents Creeper explosions from destroying blocks.",
+  "authors": [
+    "Stonley890"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104650.jpg?1660843647",
+  "iconCid": "bafkreidmigeozipyu5aqsg22a5lrgf2eug4hfayhurpr5ktg7t4rlmsdaa",
+  "numberOfDownloads": 100,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/no-creeper-craters.104650/history",
+  "gitUrl": "https://github.com/Stonley890/NoCreeperCraters",
+  "releaseDate": 1660840020000,
+  "updateDate": 1660840020000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

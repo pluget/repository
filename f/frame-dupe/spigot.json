@@ -1,0 +1,32 @@
+{
+  "id": 102974,
+  "url": "https://www.spigotmc.org/resources/frame-dupe.102974/",
+  "name": "Frame Dupe",
+  "description": "Dupe for servers",
+  "authors": [
+    "Mrrafter_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102974.jpg?1656468097",
+  "iconCid": "bafkreiejhwh3samu7odgjmaulhxw7x2dd3trmtbiz2gslurqysh7wa52ma",
+  "numberOfDownloads": 2570,
+  "rating": 4.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/frame-dupe.102974/history",
+  "gitUrl": "https://github.com/MrRafter/FrameDupe",
+  "releaseDate": 1656464460000,
+  "updateDate": 1674869580000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

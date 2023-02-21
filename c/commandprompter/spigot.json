@@ -1,0 +1,26 @@
+{
+  "id": 47772,
+  "url": "https://www.spigotmc.org/resources/commandprompter.47772/",
+  "name": "CommandPrompter",
+  "description": "Great Plugin Companion for DeluxeMenus, ChestCommand, or Any Menu Plugins",
+  "authors": [
+    "CyR1en"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/47/47772.jpg?1506763424",
+  "iconCid": "bafkreifsn56pfk2dlig5ikqpcun2oy5z2yebzk6pxg56cc3iudtvtui6wm",
+  "numberOfDownloads": 20846,
+  "rating": 4.5,
+  "numberOfVotes": 36,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/commandprompter.47772/history",
+  "gitUrl": "https://github.com/CyR1en/CommandPrompter",
+  "releaseDate": 1506759780000,
+  "updateDate": 1675545300000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

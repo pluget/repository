@@ -1,0 +1,33 @@
+{
+  "id": 12597,
+  "url": "https://www.spigotmc.org/resources/spigot-friend-api-for-party-and-friends-for-bungeecord-velocity.12597/",
+  "name": "Spigot Friend API for Party and Friends for Bungeecord/Velocity",
+  "description": "The Friend API for Spigot servers for the Party and Friends for Bungeecord/Velocity plugin",
+  "authors": [
+    "simonsator"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/12/12597.jpg?1497975985",
+  "iconCid": "bafkreigq4y4jqwhqvret65f2zqpshw4gtl6sasphymklbh6czhbkyq37v4",
+  "numberOfDownloads": 3831,
+  "rating": 4.9,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/spigot-friend-api-for-party-and-friends-for-bungeecord-velocity.12597/history",
+  "gitUrl": "https://github.com/Simonsator/Friends-API-For-Spigot-For-PAF-Proxy",
+  "releaseDate": 1443203040000,
+  "updateDate": 1674207120000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

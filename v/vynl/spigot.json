@@ -1,0 +1,20 @@
+{
+  "id": 107221,
+  "url": "https://www.spigotmc.org/resources/vynl-permissionsystem.107221/",
+  "name": "Vynl - PermissionSystem",
+  "description": "permission, permissions, spigot, mysql, sql, config",
+  "authors": [
+    "1Chickxn"
+  ],
+  "numberOfDownloads": 67,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/vynl-permissionsystem.107221/history",
+  "gitUrl": "https://github.com/1Chickxn/Vynl",
+  "releaseDate": 1672930560000,
+  "updateDate": 1674297060000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

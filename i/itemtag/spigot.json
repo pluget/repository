@@ -1,0 +1,32 @@
+{
+  "id": 89634,
+  "url": "https://www.spigotmc.org/resources/itemtag-1-8-x-1-19-x.89634/",
+  "name": "ItemTag [1.8.x-1.19.x]",
+  "description": "Permanent potion effects, Conditional commands on items, Custom items, ItemEdit addon",
+  "authors": [
+    "emanon"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89634.jpg?1614564169",
+  "iconCid": "bafkreiht5bjk4osxpfswvuay7wncpwmx26ifqaq4roanah6yxvhueywdrm",
+  "numberOfDownloads": 39472,
+  "rating": 5,
+  "numberOfVotes": 15,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/itemtag-1-8-x-1-19-x.89634/history",
+  "gitUrl": "https://github.com/emanondev/ItemTag",
+  "releaseDate": 1676460540000,
+  "updateDate": 1676460540000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

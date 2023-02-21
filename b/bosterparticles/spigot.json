@@ -1,0 +1,32 @@
+{
+  "id": 100933,
+  "url": "https://www.spigotmc.org/resources/bosterparticles.100933/",
+  "name": "BosterParticles",
+  "description": "Awesome projectile trails and more..!",
+  "authors": [
+    "Bosternik"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100933.jpg?1652733832",
+  "iconCid": "bafkreicr5vdv2kyo2v2gjl4keooq3scnqcomccinaxvizjt6wqu7zbd6qq",
+  "numberOfDownloads": 363,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bosterparticles.100933/history",
+  "gitUrl": "https://github.com/Bosternike/BosterParticles",
+  "releaseDate": 1648138560000,
+  "updateDate": 1672416360000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

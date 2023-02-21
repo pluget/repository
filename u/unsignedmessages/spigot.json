@@ -1,0 +1,21 @@
+{
+  "id": 103746,
+  "url": "https://www.spigotmc.org/resources/unsignedmessages-disable-chat-reporting.103746/",
+  "name": "UnsignedMessages - Disable Chat Reporting",
+  "description": "This plugin disables chat reporting. Optionally, you can also change the format of chat messages.",
+  "authors": [
+    "Erdi__"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103746.jpg?1658955752",
+  "iconCid": "bafkreialz32gorg4rftd4lgwhnmkremnbomwxujnwvc6dejo5dp45amg2i",
+  "numberOfDownloads": 1526,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/unsignedmessages-disable-chat-reporting.103746/history",
+  "gitUrl": "https://github.com/Erdi-GitHub/Bukkit-UnsignedMessages",
+  "releaseDate": 1658952120000,
+  "updateDate": 1658952120000,
+  "versions": [
+    "1.19"
+  ]
+}

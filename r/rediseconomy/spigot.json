@@ -1,0 +1,24 @@
+{
+  "id": 105965,
+  "url": "https://www.spigotmc.org/resources/rediseconomy%E2%9A%A1-unlimited-currencies-cross-server-open-source.105965/",
+  "name": "RedisEconomy⚡| UNLIMITED-CURRENCIES | CROSS-SERVER | OPEN-SOURCE",
+  "description": "Unlimited currencies, the fastest economy solution on the market, proxy-wide economy",
+  "authors": [
+    "Emibergo02"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105965.jpg?1666986214",
+  "iconCid": "bafkreifnxqkcvoqf7jk5bkmjjdsli7myydteym6sqgt7n5kvbyhpg5pkpa",
+  "numberOfDownloads": 873,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rediseconomy%E2%9A%A1-unlimited-currencies-cross-server-open-source.105965/history",
+  "gitUrl": "https://github.com/Emibergo02/RedisEconomy",
+  "releaseDate": 1666976520000,
+  "updateDate": 1676124300000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

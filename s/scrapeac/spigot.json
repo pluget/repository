@@ -1,0 +1,19 @@
+{
+  "id": 106193,
+  "url": "https://www.spigotmc.org/resources/scrapeac.106193/",
+  "name": "ScrapeAC",
+  "description": "Provides anticheat checks that other anticheats do not, allowing good anticheat merging.",
+  "authors": [
+    "cornholio"
+  ],
+  "numberOfDownloads": 38,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/scrapeac.106193/history",
+  "gitUrl": "https://github.com/Cornholio111/scrapeac",
+  "releaseDate": 1668052020000,
+  "updateDate": 1668382740000,
+  "versions": [
+    "1.19"
+  ]
+}

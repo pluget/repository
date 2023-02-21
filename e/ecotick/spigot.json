@@ -1,0 +1,19 @@
+{
+  "id": 107938,
+  "url": "https://www.spigotmc.org/resources/ecotick.107938/",
+  "name": "EcoTick",
+  "description": "Reduce CPU usage when no players are online",
+  "authors": [
+    "lorenzo42p"
+  ],
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ecotick.107938/history",
+  "gitUrl": "https://github.com/PoiXson/EcoTick-mirror",
+  "releaseDate": 1676069820000,
+  "updateDate": 1676071440000,
+  "versions": [
+    "1.19"
+  ]
+}

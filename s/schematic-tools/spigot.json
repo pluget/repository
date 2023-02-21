@@ -1,0 +1,26 @@
+{
+  "id": 103776,
+  "url": "https://www.spigotmc.org/resources/schematic-tools-schematic-brush-reborn-2-add-on.103776/",
+  "name": "Schematic Tools - Schematic Brush Reborn 2 Add-on",
+  "description": "Bind a Schematic Brush on a Tool. Allows to give tools to players. Supports usage limit and more.",
+  "authors": [
+    "Eldoria"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103776.jpg?1659092460",
+  "iconCid": "bafkreifoh3jceobunsdqysysrywmf4a3poc2q2ojt2sssfxsjqqbb3aznq",
+  "numberOfDownloads": 78,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/schematic-tools-schematic-brush-reborn-2-add-on.103776/history",
+  "gitUrl": "https://github.com/eldoriarpg/schematic-tools",
+  "releaseDate": 1659088800000,
+  "updateDate": 1676270040000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 105888,
+  "url": "https://www.spigotmc.org/resources/permanenthealth.105888/",
+  "name": "PermanentHealth",
+  "description": "maximum health is set to 12 and player will loose one heart by dying permanent",
+  "authors": [
+    "kalle2000"
+  ],
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/permanenthealth.105888/history",
+  "gitUrl": "https://github.com/kfc-manager/PermanentHealth",
+  "releaseDate": 1666536600000,
+  "updateDate": 1666536600000,
+  "versions": [
+    "1.19"
+  ]
+}

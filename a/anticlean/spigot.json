@@ -1,0 +1,31 @@
+{
+  "id": 87996,
+  "url": "https://www.spigotmc.org/resources/anticlean-1-8-x-1-18-x-healing-on-kill-system.87996/",
+  "name": "AntiClean [1.8.x - 1.18.x] (Healing on Kill System)",
+  "description": "The best system for player don't cleaned other players in PVP Games",
+  "authors": [
+    "BrunoAvixdubSB"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87996.jpg?1610940862",
+  "iconCid": "bafkreid34dsf57il7iusujhncp3dgqkwea3lxtz2qktio5bsyijimdlhkq",
+  "numberOfDownloads": 532,
+  "rating": 4.6,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anticlean-1-8-x-1-18-x-healing-on-kill-system.87996/history",
+  "gitUrl": "https://github.com/UnDeadlyDev/UAntiClean",
+  "releaseDate": 1610937240000,
+  "updateDate": 1668287640000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

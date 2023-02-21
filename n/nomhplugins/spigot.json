@@ -1,0 +1,23 @@
+{
+  "id": 106681,
+  "url": "https://www.spigotmc.org/resources/nomhplugins.106681/",
+  "name": "NoMHPlugins",
+  "description": "Disable Minehut's Pre-installed Plugins!",
+  "authors": [
+    "Cartyoo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106681.jpg?1670807286",
+  "iconCid": "bafkreibozjozbeh5btttiklkmqcuwhuqf2jygbtgo6fw7g55wia4awtmpm",
+  "numberOfDownloads": 125,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nomhplugins.106681/history",
+  "gitUrl": "https://github.com/Cartyoo/NoMHPlugins",
+  "releaseDate": 1670728920000,
+  "updateDate": 1674277380000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

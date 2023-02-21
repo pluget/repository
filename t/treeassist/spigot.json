@@ -1,0 +1,25 @@
+{
+  "id": 67436,
+  "url": "https://www.spigotmc.org/resources/treeassist.67436/",
+  "name": "TreeAssist",
+  "description": "Auto Destroy, Auto Replant and more!",
+  "authors": [
+    "SLiPCoR"
+  ],
+  "numberOfDownloads": 404642,
+  "rating": 4.8,
+  "numberOfVotes": 34,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/treeassist.67436/history",
+  "gitUrl": "https://github.com/slipcor/TreeAssist",
+  "releaseDate": 1558047000000,
+  "updateDate": 1672481520000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

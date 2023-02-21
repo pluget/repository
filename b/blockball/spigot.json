@@ -1,0 +1,32 @@
+{
+  "id": 15320,
+  "url": "https://www.spigotmc.org/resources/blockball-minigame-bungeecord-soccer-football-1-8-1-19.15320/",
+  "name": "BlockBall [Minigame|BungeeCord|Soccer/Football|1.8-1.19]",
+  "description": "BlockBall is a spigot plugin to play soccer games in Minecraft. [Free]",
+  "authors": [
+    "Shynixn"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/15/15320.jpg?1449415965",
+  "iconCid": "bafkreig5qwnpaxkzb562dgmqs5slomrqiy46sw75lece5kuskdqraeyeu4",
+  "numberOfDownloads": 45028,
+  "rating": 4.6,
+  "numberOfVotes": 79,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blockball-minigame-bungeecord-soccer-football-1-8-1-19.15320/history",
+  "gitUrl": "https://github.com/Shynixn/BlockBall",
+  "releaseDate": 1676527080000,
+  "updateDate": 1676527080000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

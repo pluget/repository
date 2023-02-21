@@ -1,0 +1,32 @@
+{
+  "id": 73996,
+  "url": "https://www.spigotmc.org/resources/simple-police.73996/",
+  "name": "Simple Police",
+  "description": "All in one police plugin!",
+  "authors": [
+    "fierceeo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/73/73996.jpg?1578040869",
+  "iconCid": "bafkreihqqcuasujalng7jjq57qjz4pnvz3dprk4ng2p5dvpj6sh6sxfxuq",
+  "numberOfDownloads": 12770,
+  "rating": 4.7,
+  "numberOfVotes": 16,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-police.73996/history",
+  "gitUrl": "https://github.com/fierceeo/SimplePolice",
+  "releaseDate": 1578037200000,
+  "updateDate": 1657748100000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

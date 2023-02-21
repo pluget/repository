@@ -1,0 +1,27 @@
+{
+  "id": 81534,
+  "url": "https://www.spigotmc.org/resources/chunky.81534/",
+  "name": "Chunky",
+  "description": "Pre-generates chunks, quickly, efficiently, and safely",
+  "authors": [
+    "pop4959"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81534.jpg?1612919814",
+  "iconCid": "bafkreifhsfijw6ygyhff6qooe6hcaur7npoat6a7jtuxvmtxkyvch74yeq",
+  "numberOfDownloads": 205938,
+  "rating": 5,
+  "numberOfVotes": 140,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chunky.81534/history",
+  "gitUrl": "https://github.com/pop4959/Chunky",
+  "releaseDate": 1676796720000,
+  "updateDate": 1676796720000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 85640,
+  "url": "https://www.spigotmc.org/resources/webplugin-official-php-support-1-13-1-19.85640/",
+  "name": "WebPlugin | official php support | [ 1.13 - 1.19 ]",
+  "description": "Get a Website running on your already running minecraft server! ** Now official php support **",
+  "authors": [
+    "humpjump"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85640.jpg?1663971087",
+  "iconCid": "bafkreih4s23x7yg6vsxxcnbzy7ell3a3toxsge2sv3yzfajgubrwdew35m",
+  "numberOfDownloads": 886,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/webplugin-official-php-support-1-13-1-19.85640/history",
+  "gitUrl": "https://github.com/hypersmc/WebPluginV2",
+  "releaseDate": 1604949300000,
+  "updateDate": 1663966860000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

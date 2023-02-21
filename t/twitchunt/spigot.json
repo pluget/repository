@@ -1,0 +1,23 @@
+{
+  "id": 93123,
+  "url": "https://www.spigotmc.org/resources/twitchunt-manhunt-with-twitch-viewers.93123/",
+  "name": "Twitchunt - Manhunt with twitch viewers",
+  "description": "twitch, manhunt",
+  "authors": [
+    "Galajus"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93123.jpg?1623193336",
+  "iconCid": "bafkreibquss23oyqvotnieaf7rgzlhaiql3sm2vsd24ufaeipqipdaddqi",
+  "numberOfDownloads": 696,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/twitchunt-manhunt-with-twitch-viewers.93123/history",
+  "gitUrl": "https://github.com/Galajus/Twitchunt",
+  "releaseDate": 1623189720000,
+  "updateDate": 1672357740000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

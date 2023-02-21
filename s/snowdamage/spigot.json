@@ -1,0 +1,24 @@
+{
+  "id": 106582,
+  "url": "https://www.spigotmc.org/resources/lolcatz-snowdamage.106582/",
+  "name": "LOLCATZ SnowDamage",
+  "description": "A plugin allowing you to make snowballs hurt.",
+  "authors": [
+    "Junior_Feuerwolf"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106582.jpg?1670186441",
+  "iconCid": "bafkreifmu2xcptlggyd57j3ygjv2ikzskwhd5y6dqzz44im57tjpfpnn7u",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lolcatz-snowdamage.106582/history",
+  "releaseDate": 1670182800000,
+  "updateDate": 1670188500000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

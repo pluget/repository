@@ -1,0 +1,23 @@
+{
+  "id": 22023,
+  "url": "https://www.spigotmc.org/resources/slot-machine.22023/",
+  "name": "Slot Machine",
+  "description": "Make GUI Slot Machines with deep customization and support",
+  "authors": [
+    "Klemms"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/22/22023.jpg?1461033546",
+  "iconCid": "bafkreic47xp63l6ae4igbzyyrf7ui27ciffgcat75otnreq3f4u367aq2y",
+  "numberOfDownloads": 19900,
+  "rating": 4.3,
+  "numberOfVotes": 65,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/slot-machine.22023/history",
+  "releaseDate": 1461029880000,
+  "updateDate": 1674414180000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

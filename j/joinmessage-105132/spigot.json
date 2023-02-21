@@ -1,0 +1,27 @@
+{
+  "id": 105132,
+  "url": "https://www.spigotmc.org/resources/joinmessage.105132/",
+  "name": "JoinMessage",
+  "description": "Custom join messages for your Minecraft server.",
+  "authors": [
+    "antonitoo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105132.jpg?1662645608",
+  "iconCid": "bafkreigibkexd6gso4zuqrugg2gxli4skufm2efhtazfremo2km7tn5jhe",
+  "numberOfDownloads": 89,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/joinmessage.105132/history",
+  "releaseDate": 1662570420000,
+  "updateDate": 1662570420000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

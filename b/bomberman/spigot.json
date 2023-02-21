@@ -1,0 +1,27 @@
+{
+  "id": 77616,
+  "url": "https://www.spigotmc.org/resources/bomberman.77616/",
+  "name": "Bomberman",
+  "description": "Classic Bomberman - in Minecraft!!",
+  "authors": [
+    "mdsimmo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/77/77616.jpg?1587315825",
+  "iconCid": "bafkreih2ai3hvfzlmqsmyn7ug2lo3nprdmpcgyhesxel3zrmoxlgrow47u",
+  "numberOfDownloads": 1486,
+  "rating": 4.7,
+  "numberOfVotes": 14,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bomberman.77616/history",
+  "gitUrl": "https://github.com/mdsimmo/Bomberman",
+  "releaseDate": 1587290400000,
+  "updateDate": 1670922900000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 103412,
+  "url": "https://www.spigotmc.org/resources/locationqwq.103412/",
+  "name": "LocationQWQ",
+  "description": "The plugin for find player's position and spawnpoint",
+  "authors": [
+    "SaltDirt"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103412.jpg?1657971742",
+  "iconCid": "bafkreicc6jxsvafmt3okju5r44tgkhar3cf4pqgnbwz5dnjr4aw24lhmjq",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/locationqwq.103412/history",
+  "gitUrl": "https://github.com/SaltDirt/Location_QWQ",
+  "releaseDate": 1657968120000,
+  "updateDate": 1657968120000,
+  "versions": [
+    "1.7",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

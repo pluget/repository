@@ -1,0 +1,30 @@
+{
+  "id": 97312,
+  "url": "https://www.spigotmc.org/resources/player-info.97312/",
+  "name": "Player Info",
+  "description": "A light weight plugin that shows info about a player",
+  "authors": [
+    "Tiskua"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97312.jpg?1655915738",
+  "iconCid": "bafkreifadsfrm6yp4tt6nlf5gcozbuecotp3e3sawb3qkqgqsgdj3bblky",
+  "numberOfDownloads": 455,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/player-info.97312/history",
+  "releaseDate": 1635709200000,
+  "updateDate": 1660767240000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

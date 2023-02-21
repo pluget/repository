@@ -1,0 +1,33 @@
+{
+  "id": 76480,
+  "url": "https://www.spigotmc.org/resources/particlenativeapi-1-7.76480/",
+  "name": "ParticleNativeAPI [1.7+]",
+  "description": "A fast cross-version particle API for Spigot and Bukkit server.",
+  "authors": [
+    "Fierioziy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/76/76480.jpg?1585129467",
+  "iconCid": "bafkreic2gafdyzvilb6pe6n757zj4xjiw7k3c54f5y5iin2epk2f4j5j2m",
+  "numberOfDownloads": 1455,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/particlenativeapi-1-7.76480/history",
+  "gitUrl": "https://github.com/Fierioziy/ParticleNativeAPI",
+  "releaseDate": 1585125660000,
+  "updateDate": 1672345980000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

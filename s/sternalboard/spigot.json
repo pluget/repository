@@ -1,0 +1,33 @@
+{
+  "id": 89245,
+  "url": "https://www.spigotmc.org/resources/sternalboard-lightweight-animated-scoreboard.89245/",
+  "name": "SternalBoard | Lightweight & Animated Scoreboard |",
+  "description": "#Scoreboard designed for large networks & ease usage",
+  "authors": [
+    "xIsm4PvP"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89245.jpg?1631785320",
+  "iconCid": "bafkreiheqa5meokg3hu5snszx4aatodotigs22bxjsretmkb7bzhsmkqka",
+  "numberOfDownloads": 35394,
+  "rating": 4.7,
+  "numberOfVotes": 48,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sternalboard-lightweight-animated-scoreboard.89245/history",
+  "gitUrl": "https://github.com/ShieldCommunity/SternalBoard",
+  "releaseDate": 1613754720000,
+  "updateDate": 1669456560000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 99866,
+  "url": "https://www.spigotmc.org/resources/beaconwaypoints.99866/",
+  "name": "BeaconWaypoints",
+  "description": "Use beacons as fast travel points",
+  "authors": [
+    "energy_sync"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99866.jpg?1644302335",
+  "iconCid": "bafkreighjlqsrbcgh3pfbbybp6zp2wa6fqaey4ggzflss5ylpv42u4o6xq",
+  "numberOfDownloads": 2893,
+  "rating": 4.9,
+  "numberOfVotes": 15,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/beaconwaypoints.99866/history",
+  "gitUrl": "https://github.com/dawson-vilamaa/BeaconWaypoints",
+  "releaseDate": 1644298680000,
+  "updateDate": 1673038320000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

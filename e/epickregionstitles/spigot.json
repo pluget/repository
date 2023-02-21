@@ -1,0 +1,22 @@
+{
+  "id": 103583,
+  "url": "https://www.spigotmc.org/resources/epickregionstitles-for-worldguard-1-12-2-1-16-5.103583/",
+  "name": "EpickRegionsTitles for WorldGuard [1.12.2/1.16.5]",
+  "description": "It's a plugin to announce the return of the player to a new region.",
+  "authors": [
+    "Tit0un3"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103583.jpg?1658483500",
+  "iconCid": "bafkreif2ew7peljmufidrelpa5oi3kblufxpkcgsvoujphmoy7r7mygekm",
+  "numberOfDownloads": 186,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/epickregionstitles-for-worldguard-1-12-2-1-16-5.103583/history",
+  "gitUrl": "https://github.com/Titouan-Schotte/World-Guard-Region-Titles",
+  "releaseDate": 1658479860000,
+  "updateDate": 1658699760000,
+  "versions": [
+    "1.12",
+    "1.16"
+  ]
+}

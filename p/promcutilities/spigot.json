@@ -1,0 +1,24 @@
+{
+  "id": 95230,
+  "url": "https://www.spigotmc.org/resources/promcutilities-voucher-plugin.95230/",
+  "name": "Promcutilities (Voucher Plugin)",
+  "description": "Voucher plugin with dupe protection features.",
+  "authors": [
+    "goflish"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95230.jpg?1628706775",
+  "iconCid": "bafkreidm4fvh6wc55zw2hznvuikxrklna2umlbual6egjrsmedgufwtkba",
+  "numberOfDownloads": 833,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/promcutilities-voucher-plugin.95230/history",
+  "gitUrl": "https://github.com/promcteam/promcutilities",
+  "releaseDate": 1628703120000,
+  "updateDate": 1663087920000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

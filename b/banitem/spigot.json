@@ -1,0 +1,33 @@
+{
+  "id": 67701,
+  "url": "https://www.spigotmc.org/resources/banitem-1-7-1-19.67701/",
+  "name": "BanItem [1.7-1.19+]",
+  "description": "Lightweight, powerful & configurable per world ban item plugin",
+  "authors": [
+    "Andross"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/67/67701.jpg?1558818520",
+  "iconCid": "bafkreig7ipw4n5r45itaq4lnzbcwfqslixpvvbdfxs4uwhpkanbn2u76wq",
+  "numberOfDownloads": 47513,
+  "rating": 4.8,
+  "numberOfVotes": 101,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/banitem-1-7-1-19.67701/history",
+  "gitUrl": "https://github.com/Andross96/BanItem",
+  "releaseDate": 1558814460000,
+  "updateDate": 1657735740000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 105505,
+  "url": "https://www.spigotmc.org/resources/nomutebypass.105505/",
+  "name": "NoMuteBypass",
+  "description": "NoMuteBypass supports most punishment systems.",
+  "authors": [
+    "Xemu"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105505.jpg?1664375383",
+  "iconCid": "bafkreichwaqfifdirxmmiobmid2boui6psbpqumrru5p3witboz77pwkzi",
+  "numberOfDownloads": 223,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nomutebypass.105505/history",
+  "gitUrl": "https://github.com/codebyxemu/NoMuteBypass/",
+  "releaseDate": 1664371680000,
+  "updateDate": 1665556440000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

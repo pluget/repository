@@ -1,0 +1,22 @@
+{
+  "id": 103241,
+  "url": "https://www.spigotmc.org/resources/betterstructures.103241/",
+  "name": "BetterStructures",
+  "description": "Minecraft structures for any world generation!",
+  "authors": [
+    "MagmaGuy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103241.jpg?1657421800",
+  "iconCid": "bafkreihx7v5chtgl2roimzks7jmf575vwa55ek67uoxgnf7ei5nqsfbfmi",
+  "numberOfDownloads": 10130,
+  "rating": 4.8,
+  "numberOfVotes": 24,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterstructures.103241/history",
+  "gitUrl": "https://github.com/MagmaGuy/BetterStructures/",
+  "releaseDate": 1676500020000,
+  "updateDate": 1676500020000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 96273,
+  "url": "https://www.spigotmc.org/resources/custom-ores%E2%9B%8F%EF%B8%8F.96273/",
+  "name": "Custom Ores⛏️",
+  "description": "Create your own ores to generate on your server!",
+  "authors": [
+    "Hello1231"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96273.jpg?1631838880",
+  "iconCid": "bafkreibavq7cp3pq3cyj7wo2e2xbzbmxpnrmjtkqabhuwrkpfrzm5pp6ri",
+  "numberOfDownloads": 950,
+  "rating": 4.8,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/custom-ores%E2%9B%8F%EF%B8%8F.96273/history",
+  "gitUrl": "https://github.com/FlyFunMan/custom-ores",
+  "releaseDate": 1631835240000,
+  "updateDate": 1674946680000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

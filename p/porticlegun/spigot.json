@@ -1,0 +1,21 @@
+{
+  "id": 107796,
+  "url": "https://www.spigotmc.org/resources/porticlegun-item-to-create-linked-portals.107796/",
+  "name": "PorticleGun - Item to create linked portals",
+  "description": "Adds an item to place individual colored portals represented by circling particles.",
+  "authors": [
+    "nurkert"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107796.jpg?1676229856",
+  "iconCid": "bafkreidhqlmv7jyaouxwfta4pn6ftpockxvccc7ptbzlgr3sajvxllbpfq",
+  "numberOfDownloads": 79,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/porticlegun-item-to-create-linked-portals.107796/history",
+  "gitUrl": "https://github.com/nurkert/PorticleGun",
+  "releaseDate": 1675422060000,
+  "updateDate": 1675520520000,
+  "versions": [
+    "1.19"
+  ]
+}

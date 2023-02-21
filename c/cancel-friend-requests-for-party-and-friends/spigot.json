@@ -1,0 +1,32 @@
+{
+  "id": 34567,
+  "url": "https://www.spigotmc.org/resources/cancel-friend-requests-for-party-and-friends.34567/",
+  "name": "Cancel Friend Requests For Party And Friends",
+  "description": "Adds the command /fried cancel to take back a friend request",
+  "authors": [
+    "simonsator"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/34/34567.jpg?1497976087",
+  "iconCid": "bafkreigq4y4jqwhqvret65f2zqpshw4gtl6sasphymklbh6czhbkyq37v4",
+  "numberOfDownloads": 1106,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cancel-friend-requests-for-party-and-friends.34567/history",
+  "gitUrl": "https://github.com/Simonsator/CancelFriendRequest",
+  "releaseDate": 1483978920000,
+  "updateDate": 1662729000000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 108015,
+  "url": "https://www.spigotmc.org/resources/kasterborous-uhc.108015/",
+  "name": "Kasterborous UHC",
+  "description": "Une API pour créer des modes de jeux UHC.",
+  "authors": [
+    "Kasterborous"
+  ],
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kasterborous-uhc.108015/history",
+  "gitUrl": "https://github.com/KasterborousConstellation/KasterbourousUHCAPI.git",
+  "releaseDate": 1676467680000,
+  "updateDate": 1676467680000,
+  "versions": [
+    "1.8"
+  ]
+}

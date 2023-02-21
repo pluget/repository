@@ -1,0 +1,27 @@
+{
+  "id": 89505,
+  "url": "https://www.spigotmc.org/resources/mt-tier.89505/",
+  "name": "MT-Tier",
+  "description": "Met deze plugin voeg je tiers toe aan jouw Minetopia server.",
+  "authors": [
+    "Jazzkuh"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89505.jpg?1614278962",
+  "iconCid": "bafkreiaihv4p46vntombjnes7e7zs6tibt6lujr5pdyzabyg333giggt2i",
+  "numberOfDownloads": 342,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mt-tier.89505/history",
+  "gitUrl": "https://github.com/Jazzkuh/MT-Tier",
+  "releaseDate": 1614258000000,
+  "updateDate": 1664807880000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

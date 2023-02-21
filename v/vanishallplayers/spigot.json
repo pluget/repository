@@ -1,0 +1,25 @@
+{
+  "id": 79206,
+  "url": "https://www.spigotmc.org/resources/vanishallplayers-designed-for-hub-lobby-servers.79206/",
+  "name": "VanishAllPlayers | Designed for Hub / Lobby Servers",
+  "description": "Automatically vanish all players that join! Lightweight vanishing plugin for hub / lobby servers",
+  "authors": [
+    "iCodinqs"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79206.jpg?1590276405",
+  "iconCid": "bafkreiglasyhpl2csyw5xsnsnsyk4nzpceniigyp2a7xsy5efsy2jm3vhu",
+  "numberOfDownloads": 269,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/vanishallplayers-designed-for-hub-lobby-servers.79206/history",
+  "gitUrl": "https://github.com/ShayPunter/VanishAllPlayers",
+  "releaseDate": 1590272760000,
+  "updateDate": 1661103060000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

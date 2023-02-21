@@ -1,0 +1,33 @@
+{
+  "id": 14363,
+  "url": "https://www.spigotmc.org/resources/customcommands-new-1-19-tab-completion-in-game-configs-edition.14363/",
+  "name": "CustomCommands - NEW: 1.19 + Tab-completion, in-game configs edition!",
+  "description": "Create unlimited custom commands with actual registration and tab completion! [1.7-latest]",
+  "authors": [
+    "GuillaumeVDN"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/14/14363.jpg?1446991656",
+  "iconCid": "bafkreifgs5ciidvq5rptnelylw7tjmauu5fdfjxv24ybesuphge5gtyhvi",
+  "numberOfDownloads": 85684,
+  "rating": 4,
+  "numberOfVotes": 78,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/customcommands-new-1-19-tab-completion-in-game-configs-edition.14363/history",
+  "gitUrl": "https://gitlab.com/GuillaumeVDN/CustomCommands",
+  "releaseDate": 1446988020000,
+  "updateDate": 1670775900000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

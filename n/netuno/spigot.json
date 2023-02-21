@@ -1,0 +1,23 @@
+{
+  "id": 94864,
+  "url": "https://www.spigotmc.org/resources/netuno.94864/",
+  "name": "Netuno",
+  "description": "Well done punishment plugin",
+  "authors": [
+    "cyberryan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94864.jpg?1627786878",
+  "iconCid": "bafkreievwrxxbxbrppqunkcxnydljlvjc75i5jvwakgdib4mueqbf6plhy",
+  "numberOfDownloads": 455,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/netuno.94864/history",
+  "gitUrl": "https://github.com/CyberRyan1/Netuno/tree/master",
+  "releaseDate": 1627783200000,
+  "updateDate": 1658633880000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

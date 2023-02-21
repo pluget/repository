@@ -1,0 +1,21 @@
+{
+  "id": 105534,
+  "url": "https://www.spigotmc.org/resources/onlineplayers.105534/",
+  "name": "OnlinePlayers",
+  "description": "Player list in GUI",
+  "authors": [
+    "IndianPL"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105534.jpg?1664554455",
+  "iconCid": "bafkreiesqjxlvbh7ef5n6yzp2ctvgs3twdydw5ny23cgcrboq5rjatht24",
+  "numberOfDownloads": 286,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/onlineplayers.105534/history",
+  "gitUrl": "https://github.com/IndianBartonka/OnlinePlayers",
+  "releaseDate": 1664550840000,
+  "updateDate": 1672358460000,
+  "versions": [
+    "1.19"
+  ]
+}

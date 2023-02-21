@@ -1,0 +1,30 @@
+{
+  "id": 104607,
+  "url": "https://www.spigotmc.org/resources/benchmark.104607/",
+  "name": "Benchmark",
+  "description": "A CPU benchmark that runs through Minecraft.",
+  "authors": [
+    "Spiriten"
+  ],
+  "numberOfDownloads": 283,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/benchmark.104607/history",
+  "gitUrl": "https://github.com/amnoah/Minecraft-Server-Benchmark/",
+  "releaseDate": 1660686900000,
+  "updateDate": 1661467860000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

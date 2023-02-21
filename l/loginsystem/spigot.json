@@ -1,0 +1,27 @@
+{
+  "id": 104726,
+  "url": "https://www.spigotmc.org/resources/loginsystem-player-password-system-%E2%9C%851-13-1-19.104726/",
+  "name": "LoginSystem | PLAYER PASSWORD SYSTEM | ✅1.13 - 1.19",
+  "description": "A plugin that allows players to set login passwords",
+  "authors": [
+    "WonkyPigs"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104726.jpg?1671212513",
+  "iconCid": "bafkreibtxch7d4ppchn4xlt57jsnfpc72r4ue4kppl5lirhq64wfcsvm64",
+  "numberOfDownloads": 298,
+  "rating": 3,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/loginsystem-player-password-system-%E2%9C%851-13-1-19.104726/history",
+  "gitUrl": "https://github.com/WonkyPigs/LoginSystem",
+  "releaseDate": 1661096760000,
+  "updateDate": 1675533480000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

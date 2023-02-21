@@ -1,0 +1,20 @@
+{
+  "id": 103581,
+  "url": "https://www.spigotmc.org/resources/minibossbar.103581/",
+  "name": "MiniBossBar",
+  "description": "A light weight bossbar sender plugin for servers with resource packs",
+  "authors": [
+    "XiaoMoMi"
+  ],
+  "numberOfDownloads": 51,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minibossbar.103581/history",
+  "releaseDate": 1658473620000,
+  "updateDate": 1658473620000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

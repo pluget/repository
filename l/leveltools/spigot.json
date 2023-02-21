@@ -1,0 +1,32 @@
+{
+  "id": 97516,
+  "url": "https://www.spigotmc.org/resources/leveltools-rpg-item-leveling.97516/",
+  "name": "LevelTools - RPG Item Leveling",
+  "description": "A plugin that adds a leveling system to tools, swords, and bows.",
+  "authors": [
+    "byteful"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97516.jpg?1663799589",
+  "iconCid": "bafkreifzhunfp63cnya3aaetnndz5yswsu5mdh7ufky2vgzmxcvqkfwrty",
+  "numberOfDownloads": 11531,
+  "rating": 4.9,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/leveltools-rpg-item-leveling.97516/history",
+  "gitUrl": "https://github.com/byteful/LevelTools",
+  "releaseDate": 1636505100000,
+  "updateDate": 1670298660000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

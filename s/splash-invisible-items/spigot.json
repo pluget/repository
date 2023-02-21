@@ -1,0 +1,22 @@
+{
+  "id": 104548,
+  "url": "https://www.spigotmc.org/resources/splash-invisible-items.104548/",
+  "name": "Splash Invisible Items",
+  "description": "splash potions make item frames and armor stands invisible",
+  "authors": [
+    "SmytheSoft"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104548.jpg?1661616963",
+  "iconCid": "bafkreiaa2bjlrzp7srtfo5ki6g7yeurc2sq4aixw5623mkorz4ctubbway",
+  "numberOfDownloads": 55,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/splash-invisible-items.104548/history",
+  "gitUrl": "https://github.com/smytheagain/splash_invis_frames",
+  "releaseDate": 1660488780000,
+  "updateDate": 1661605740000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

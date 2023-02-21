@@ -1,0 +1,32 @@
+{
+  "id": 100505,
+  "url": "https://www.spigotmc.org/resources/staffchatlight-1-8-1-19-simple-staffchat.100505/",
+  "name": "StaffChatLight [1.8 - 1.19] SIMPLE STAFFCHAT",
+  "description": "Light-weight & optimalized staff chat plugin",
+  "authors": [
+    "ForestTech"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100505.jpg?1658138931",
+  "iconCid": "bafkreihljlth2nt5jq2jww6zpoqrreg3htarxisfnw72i5fddsyhp5pjbe",
+  "numberOfDownloads": 155,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/staffchatlight-1-8-1-19-simple-staffchat.100505/history",
+  "gitUrl": "https://foresttech.gitbook.io/staffchatlight/",
+  "releaseDate": 1646533680000,
+  "updateDate": 1658423700000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

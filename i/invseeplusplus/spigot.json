@@ -1,0 +1,27 @@
+{
+  "id": 82342,
+  "url": "https://www.spigotmc.org/resources/invsee.82342/",
+  "name": "InvSee++",
+  "description": "View and edit inventories of your players! Works for offline players! Now with give/clear commands!",
+  "authors": [
+    "Jannyboy11"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82342.jpg?1617559554",
+  "iconCid": "bafkreiafrzlsume5g6uuk7iv6nijklpplavv5qcyy72c4kvxf7loapmcfm",
+  "numberOfDownloads": 257901,
+  "rating": 4.7,
+  "numberOfVotes": 46,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/invsee.82342/history",
+  "gitUrl": "https://github.com/Jannyboy11/InvSee-plus-plus",
+  "releaseDate": 1596557280000,
+  "updateDate": 1675809180000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

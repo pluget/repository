@@ -1,0 +1,23 @@
+{
+  "id": 107591,
+  "url": "https://www.spigotmc.org/resources/disablemobspawners.107591/",
+  "name": "DisableMobSpawners",
+  "description": "The plugin disables spawners on your server",
+  "authors": [
+    "Vlad54"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107591.jpg?1674583731",
+  "iconCid": "bafkreiessy4t3sjadjgbabw6wipoekkechezj4ndwkhgjev3x4ntrhyce4",
+  "numberOfDownloads": 13,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/disablemobspawners.107591/history",
+  "gitUrl": "https://github.com/EmSockz/DisableMobSpawners",
+  "releaseDate": 1674580080000,
+  "updateDate": 1674580080000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

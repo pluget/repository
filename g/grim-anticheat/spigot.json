@@ -1,0 +1,26 @@
+{
+  "id": 99923,
+  "url": "https://www.spigotmc.org/resources/grim-anticheat.99923/",
+  "name": "Grim Anticheat",
+  "description": "1.8-1.19.3 support | 0.001% speed | 3.01 reach | 99.99% antikb | Open Source | 1.19 native",
+  "authors": [
+    "DefineOutside"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99923.jpg?1644640240",
+  "iconCid": "bafkreia2p37tmlhbgvryq4pvskajtujjhtium6z6stonhcrkg4t5k7ed4i",
+  "numberOfDownloads": 47748,
+  "rating": 4.7,
+  "numberOfVotes": 101,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/grim-anticheat.99923/history",
+  "gitUrl": "https://github.com/MWHunter/Grim",
+  "releaseDate": 1676460240000,
+  "updateDate": 1676460240000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

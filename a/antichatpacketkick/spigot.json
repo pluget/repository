@@ -1,0 +1,19 @@
+{
+  "id": 105341,
+  "url": "https://www.spigotmc.org/resources/anti-chatpacketkick.105341/",
+  "name": "Anti-ChatPacketKick",
+  "description": "Get rid of Out-of-order chat packet kick",
+  "authors": [
+    "ChrisLewis"
+  ],
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anti-chatpacketkick.105341/history",
+  "gitUrl": "https://github.com/Pixelated-Studios/Anti-ChatKick/",
+  "releaseDate": 1663455360000,
+  "updateDate": 1663455360000,
+  "versions": [
+    "1.19"
+  ]
+}

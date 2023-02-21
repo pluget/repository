@@ -1,0 +1,28 @@
+{
+  "id": 99229,
+  "url": "https://www.spigotmc.org/resources/disableadchievements.99229/",
+  "name": "DisableAdchievements",
+  "description": "Stop spamming your chat with adchievement messages.",
+  "authors": [
+    "jurian32e"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99229.jpg?1642267263",
+  "iconCid": "bafkreibqbmleof7amlhegny6qop2audyvzpc2z7svo3uv3y3slrtjsoshm",
+  "numberOfDownloads": 168,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/disableadchievements.99229/history",
+  "gitUrl": "https://github.com/jurian112211/DisableAdchievements",
+  "releaseDate": 1642263300000,
+  "updateDate": 1676114820000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

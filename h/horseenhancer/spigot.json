@@ -1,0 +1,26 @@
+{
+  "id": 75692,
+  "url": "https://www.spigotmc.org/resources/horseenhancer-2-0-mc-1-18.75692/",
+  "name": "HorseEnhancer 2.0 [MC 1.18+]",
+  "description": "Horse genders, better breeding, inspect stats, lineage tracking, and powerful commands!",
+  "authors": [
+    "Nevakanezah"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75692.jpg?1669165220",
+  "iconCid": "bafkreihtzvtbohxz5rnnan6vuhx5zm4wcs6qb36log3f35lymh5fsc2tlu",
+  "numberOfDownloads": 352,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/horseenhancer-2-0-mc-1-18.75692/history",
+  "gitUrl": "https://github.com/Nevakanezah/HorseEnhancer",
+  "releaseDate": 1676784120000,
+  "updateDate": 1676784120000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

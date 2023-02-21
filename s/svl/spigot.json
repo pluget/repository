@@ -1,0 +1,25 @@
+{
+  "id": 97730,
+  "url": "https://www.spigotmc.org/resources/svl-simple-vote-listner.97730/",
+  "name": "SVL - Simple Vote Listner",
+  "description": "SVL - Simple Vote Listner Runs one command on vote for those of you that want a simple affair",
+  "authors": [
+    "zax71"
+  ],
+  "numberOfDownloads": 116,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/svl-simple-vote-listner.97730/history",
+  "gitUrl": "https://github.com/zax71/SVL",
+  "releaseDate": 1637340060000,
+  "updateDate": 1657995000000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

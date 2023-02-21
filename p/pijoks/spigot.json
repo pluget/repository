@@ -1,0 +1,31 @@
+{
+  "id": 98930,
+  "url": "https://www.spigotmc.org/resources/pijoks-new-autosell.98930/",
+  "name": "Pijok's New AutoSell",
+  "description": "Completely new free AutoSell plugin!",
+  "authors": [
+    "Pijok"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98930.jpg?1641243982",
+  "iconCid": "bafkreibg53ew7mwgutjxrm6ilwkklrf3d6x5o4n33qp3x5kunujklditqy",
+  "numberOfDownloads": 348,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pijoks-new-autosell.98930/history",
+  "gitUrl": "https://github.com/Pijook/NewAutoSell",
+  "releaseDate": 1641240360000,
+  "updateDate": 1657804080000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

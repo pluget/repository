@@ -1,0 +1,33 @@
+{
+  "id": 107907,
+  "url": "https://www.spigotmc.org/resources/mckotlin.107907/",
+  "name": "MCKotlin",
+  "description": "Get the ability to run and develop Kotlin plugins on your Minecraft server or proxy",
+  "authors": [
+    "adrianed04"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107907.jpg?1675900035",
+  "iconCid": "bafkreicn3j4jbjsnu4d5er75hzcuud7sugfpffzuihmfhn27qzgctd4hcu",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mckotlin.107907/history",
+  "gitUrl": "https://github.com/4drian3d/MCKotlin",
+  "releaseDate": 1675896420000,
+  "updateDate": 1675896600000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

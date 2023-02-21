@@ -1,0 +1,32 @@
+{
+  "id": 91088,
+  "url": "https://www.spigotmc.org/resources/discord-integration-allow-minecraft-and-discord-users-to-talk-show-activity-on-discord-1-8-1-19.91088/",
+  "name": "Discord Integration - Allow Minecraft and Discord users to talk, show activity on Discord [1.8-1.19]",
+  "description": "Spigot plugin that allows to sync messages in a Discord server and Minecraft chat",
+  "authors": [
+    "dominik-korsa"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91088.jpg?1644071990",
+  "iconCid": "bafkreihfv6rzh6g7vlm36yfagouhnhjmx47yenejn4abrqjcu7wieu5vya",
+  "numberOfDownloads": 2521,
+  "rating": 4.7,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discord-integration-allow-minecraft-and-discord-users-to-talk-show-activity-on-discord-1-8-1-19.91088/history",
+  "gitUrl": "https://github.com/dominik-korsa/discord-integration",
+  "releaseDate": 1617906240000,
+  "updateDate": 1660642740000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

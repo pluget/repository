@@ -1,0 +1,19 @@
+{
+  "id": 101103,
+  "url": "https://www.spigotmc.org/resources/twitchirc.101103/",
+  "name": "TwitchIRC",
+  "description": "Connect your Twitch-Chat to your server",
+  "authors": [
+    "z0ckyZockt"
+  ],
+  "numberOfDownloads": 90,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/twitchirc.101103/history",
+  "releaseDate": 1648814700000,
+  "updateDate": 1661175360000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

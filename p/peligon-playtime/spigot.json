@@ -1,0 +1,27 @@
+{
+  "id": 101707,
+  "url": "https://www.spigotmc.org/resources/peligon-playtime.101707/",
+  "name": "Peligon Playtime",
+  "description": "Allow players to earn rewards for playing on the server",
+  "authors": [
+    "Peligon"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101707.jpg?1651156867",
+  "iconCid": "bafkreigqd7qsq6yfbgir2remqjcg5iiljdpoolormcgytuqmkdr5vxe7fm",
+  "numberOfDownloads": 220,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/peligon-playtime.101707/history",
+  "gitUrl": "https://github.com/Darkw1nged/Peligon-Plugins/",
+  "releaseDate": 1651153200000,
+  "updateDate": 1666798740000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

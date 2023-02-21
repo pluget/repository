@@ -1,0 +1,23 @@
+{
+  "id": 96562,
+  "url": "https://www.spigotmc.org/resources/logoutlives.96562/",
+  "name": "LogoutLives",
+  "description": "A plugin to make players have their NPC-Clone in the world after leaving",
+  "authors": [
+    "SandAx3r"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96562.jpg?1633021499",
+  "iconCid": "bafkreidk3vyl3emxgkiehvbqixthl7nyiigavtbd74pbwjudmcuj5lsd6a",
+  "numberOfDownloads": 276,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/logoutlives.96562/history",
+  "gitUrl": "https://github.com/SandAx3r/LogoutLives_RS",
+  "releaseDate": 1633017840000,
+  "updateDate": 1673532600000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

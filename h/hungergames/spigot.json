@@ -1,0 +1,26 @@
+{
+  "id": 65942,
+  "url": "https://www.spigotmc.org/resources/hungergames.65942/",
+  "name": "HungerGames",
+  "description": "Lightweight HungerGames plugin that supports Multiple Arenas, Kits, & Teams.",
+  "authors": [
+    "JT122406"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/65/65942.jpg?1553596887",
+  "iconCid": "bafkreihym4osz2zxusvynvag37jvms42owzlahrjnhppegd36bes546l7m",
+  "numberOfDownloads": 47606,
+  "rating": 4.6,
+  "numberOfVotes": 96,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hungergames.65942/history",
+  "gitUrl": "https://github.com/JT122406/HungerGames",
+  "releaseDate": 1676597880000,
+  "updateDate": 1676597880000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

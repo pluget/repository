@@ -1,0 +1,22 @@
+{
+  "id": 106276,
+  "url": "https://www.spigotmc.org/resources/robotcrackedblock-configurable-block-durability-to-explosions.106276/",
+  "name": "RobotCrackedBlock - configurable block durability to explosions",
+  "description": "Easily change the number of explosions needed for a block to be destroyed.",
+  "authors": [
+    "Robotv2"
+  ],
+  "numberOfDownloads": 13,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/robotcrackedblock-configurable-block-durability-to-explosions.106276/history",
+  "gitUrl": "https://github.com/Robotv2/RobotCrackedBlocks",
+  "releaseDate": 1668503460000,
+  "updateDate": 1668503460000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

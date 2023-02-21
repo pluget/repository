@@ -1,0 +1,24 @@
+{
+  "id": 104520,
+  "url": "https://www.spigotmc.org/resources/bedwars1058-levelbar-addon.104520/",
+  "name": "Bedwars1058 - LevelBar Addon",
+  "description": "A simple plugin that show your bedwars level and experience in your xp bar.",
+  "authors": [
+    "Shanvir"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104520.jpg?1660389850",
+  "iconCid": "bafkreidbefyfo34osrkdyktkeu7ogetzptnpqerxdm4aliiih4xgi2nloe",
+  "numberOfDownloads": 167,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bedwars1058-levelbar-addon.104520/history",
+  "releaseDate": 1660386180000,
+  "updateDate": 1660386180000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12"
+  ]
+}

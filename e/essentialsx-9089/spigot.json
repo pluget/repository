@@ -1,0 +1,32 @@
+{
+  "id": 9089,
+  "url": "https://www.spigotmc.org/resources/essentialsx.9089/",
+  "name": "EssentialsX",
+  "description": "The modern Essentials suite for Spigot and Paper.",
+  "authors": [
+    "md678685"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/9/9089.jpg?1564514296",
+  "iconCid": "bafkreiaesu4tu2deet2fmamuweekrlq2dydcac6buymhyeoxpqxxugpuw4",
+  "numberOfDownloads": 4724098,
+  "rating": 4.5,
+  "numberOfVotes": 568,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/essentialsx.9089/history",
+  "gitUrl": "https://github.com/EssentialsX/Essentials",
+  "releaseDate": 1436209920000,
+  "updateDate": 1661174460000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

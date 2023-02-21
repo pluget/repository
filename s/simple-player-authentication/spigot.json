@@ -1,0 +1,22 @@
+{
+  "id": 106304,
+  "url": "https://www.spigotmc.org/resources/simple-player-authentication.106304/",
+  "name": "Simple Player Authentication",
+  "description": "Simple plugin that enables an extra authentication layer within the Minecraft server.",
+  "authors": [
+    "Skywalx"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106304.jpg?1668706066",
+  "iconCid": "bafkreiht66zfjj5tu453aktqprypvgnhtqtbmepxhyhqnbsoorh44gu33i",
+  "numberOfDownloads": 65,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-player-authentication.106304/history",
+  "gitUrl": "https://github.com/Skywalx/simple-player-authentication",
+  "releaseDate": 1668702420000,
+  "updateDate": 1670353560000,
+  "versions": [
+    "1.17",
+    "1.19"
+  ]
+}

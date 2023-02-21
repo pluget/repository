@@ -1,0 +1,31 @@
+{
+  "id": 107034,
+  "url": "https://www.spigotmc.org/resources/stylestaff.107034/",
+  "name": "StyleStaff",
+  "description": "Plugin de moderación",
+  "authors": [
+    "FelixJS"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107034.jpg?1672338806",
+  "iconCid": "bafkreibkzxtnrunkt6wkxofuqm55i4rlatjrwenp5qcaoj2mpdulsnys2y",
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/stylestaff.107034/history",
+  "releaseDate": 1672335180000,
+  "updateDate": 1672335180000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

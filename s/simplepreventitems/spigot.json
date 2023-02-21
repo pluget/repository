@@ -1,0 +1,30 @@
+{
+  "id": 107323,
+  "url": "https://www.spigotmc.org/resources/simplepreventitems-1-9.107323/",
+  "name": "SimplePreventItems [1.9+]",
+  "description": "Prevent specific items from being used in your server by players.",
+  "authors": [
+    "Miau_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107323.jpg?1673370714",
+  "iconCid": "bafkreicd6swhevgorzc4yqs6pw25x6zfih7hs73jbkhdmhltkoetmirn3u",
+  "numberOfDownloads": 45,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplepreventitems-1-9.107323/history",
+  "releaseDate": 1673367060000,
+  "updateDate": 1673471400000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 106369,
+  "url": "https://www.spigotmc.org/resources/skript-skycore.106369/",
+  "name": "[Skript] Skycore",
+  "description": "Simplified Survival Script for your server",
+  "authors": [
+    "SkyHq"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106369.jpg?1669039159",
+  "iconCid": "bafkreibpitrgzm4ijdturwkpuelysbbrui7fo7dqcwuwei4k3pvj7g4xmq",
+  "numberOfDownloads": 67,
+  "rating": 4,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skript-skycore.106369/history",
+  "gitUrl": "https://github.com/SkyHP/Skycore",
+  "releaseDate": 1669035540000,
+  "updateDate": 1669125240000,
+  "versions": [
+    "1.16",
+    "1.17"
+  ]
+}

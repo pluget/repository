@@ -1,0 +1,22 @@
+{
+  "id": 100047,
+  "url": "https://www.spigotmc.org/resources/lodestar.100047/",
+  "name": "LodeStar",
+  "description": "A configurable item that serves as a physical replacement for the /warp command.",
+  "authors": [
+    "timsavage"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100047.jpg?1644999976",
+  "iconCid": "bafkreif6kgca3765dz53ingk54ljp7n4lfmrq4zdxaissyjbmeemlds36u",
+  "numberOfDownloads": 63,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lodestar.100047/history",
+  "gitUrl": "https://github.com/tim-savage/LodeStar",
+  "releaseDate": 1644996300000,
+  "updateDate": 1662430320000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

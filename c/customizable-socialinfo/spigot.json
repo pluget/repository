@@ -1,0 +1,20 @@
+{
+  "id": 106432,
+  "url": "https://www.spigotmc.org/resources/customizable-socialinfo.106432/",
+  "name": "Customizable SocialInfo",
+  "description": "Its a customizable SocialInfo Plugin for your server. It offers commands like /discord.",
+  "authors": [
+    "leStreamer"
+  ],
+  "numberOfDownloads": 25,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/customizable-socialinfo.106432/history",
+  "releaseDate": 1669392120000,
+  "updateDate": 1669468920000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.19"
+  ]
+}

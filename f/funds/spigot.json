@@ -1,0 +1,24 @@
+{
+  "id": 101670,
+  "url": "https://www.spigotmc.org/resources/funds-custom-currencies-made-easy.101670/",
+  "name": "Funds - Custom Currencies Made Easy",
+  "description": "Create unlimited custom currencies, Vault Support, Withdraw / Pay / and Physical Currency",
+  "authors": [
+    "KiranHart"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101670.jpg?1650997022",
+  "iconCid": "bafkreiducofgfq4bttgmk6sa44auzvrs4ellekcg77d2qwzlpaqovlceee",
+  "numberOfDownloads": 476,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/funds-custom-currencies-made-easy.101670/history",
+  "gitUrl": "https://github.com/Tweetzy/Funds",
+  "releaseDate": 1650993360000,
+  "updateDate": 1671217020000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

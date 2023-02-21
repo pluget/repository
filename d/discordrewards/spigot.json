@@ -1,0 +1,29 @@
+{
+  "id": 72399,
+  "url": "https://www.spigotmc.org/resources/discordrewards.72399/",
+  "name": "DiscordRewards",
+  "description": "Don't let your Discord Server die! Reward your players for sending messages!",
+  "authors": [
+    "Sheidy"
+  ],
+  "numberOfDownloads": 1193,
+  "rating": 5,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discordrewards.72399/history",
+  "gitUrl": "https://github.com/Spicord/DiscordRewards",
+  "releaseDate": 1676475060000,
+  "updateDate": 1676475060000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

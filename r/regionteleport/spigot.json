@@ -1,0 +1,23 @@
+{
+  "id": 84705,
+  "url": "https://www.spigotmc.org/resources/regionteleport.84705/",
+  "name": "RegionTeleport",
+  "description": "RegionTeleport allows you to teleport all players within a WG region to a specified location.",
+  "authors": [
+    "DrakePork"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84705.jpg?1674138559",
+  "iconCid": "bafkreifi73z6m4vqxnvkdm37ajp6264ggwpwcahmdjot3jrg3kpm54ogsi",
+  "numberOfDownloads": 540,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/regionteleport.84705/history",
+  "gitUrl": "https://github.com/DrakePork/RegionTeleport",
+  "releaseDate": 1676920200000,
+  "updateDate": 1676920200000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

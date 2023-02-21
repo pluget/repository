@@ -1,0 +1,23 @@
+{
+  "id": 27316,
+  "url": "https://www.spigotmc.org/resources/commandminerewards.27316/",
+  "name": "CommandMineRewards",
+  "description": "Runs commands when players break certain blocks.",
+  "authors": [
+    "Datatags"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/27/27316.jpg?1553795022",
+  "iconCid": "bafkreie2ssehramuopjv75emf6ir66nysfoebmc4ynsj6aahgtlpqfxrfu",
+  "numberOfDownloads": 3707,
+  "rating": 4.4,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/commandminerewards.27316/history",
+  "gitUrl": "https://github.com/datatags/CommandMineRewards",
+  "releaseDate": 1470102360000,
+  "updateDate": 1669180740000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.19"
+  ]
+}

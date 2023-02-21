@@ -1,0 +1,26 @@
+{
+  "id": 70157,
+  "url": "https://www.spigotmc.org/resources/autopickup-1-19-support.70157/",
+  "name": "AutoPickup [+ 1.19 Support]",
+  "description": "Automatically pickup blocks that you mine! If a block drops XP you get that too!",
+  "authors": [
+    "MrButtersDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/70/70157.jpg?1565240069",
+  "iconCid": "bafkreiepjy3nbnvcejmpa3crd2tjjlmej3xpphfecbyys3hcu3cwujrpx4",
+  "numberOfDownloads": 17033,
+  "rating": 4.6,
+  "numberOfVotes": 26,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/autopickup-1-19-support.70157/history",
+  "gitUrl": "https://github.com/MrButtersDEV/AutoPickup",
+  "releaseDate": 1676592600000,
+  "updateDate": 1676592600000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

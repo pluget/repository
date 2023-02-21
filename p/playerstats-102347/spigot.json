@@ -1,0 +1,24 @@
+{
+  "id": 102347,
+  "url": "https://www.spigotmc.org/resources/playerstats.102347/",
+  "name": "PlayerStats",
+  "description": "See how your statistics compare with others on your server!",
+  "authors": [
+    "Artemis_the_gr8"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102347.jpg?1655210651",
+  "iconCid": "bafkreigxaww3f6toqfotuvw34v2mz2kepuwt4stylufe3asmjgshaehj3a",
+  "numberOfDownloads": 1965,
+  "rating": 5,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playerstats.102347/history",
+  "gitUrl": "https://github.com/itHotL/PlayerStats",
+  "releaseDate": 1676928960000,
+  "updateDate": 1676928960000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

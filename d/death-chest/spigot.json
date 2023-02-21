@@ -1,0 +1,23 @@
+{
+  "id": 101066,
+  "url": "https://www.spigotmc.org/resources/death-chest.101066/",
+  "name": "Death Chest",
+  "description": "Spawns a chest when the player dies in buildable regions",
+  "authors": [
+    "DevCyntrix"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101066.jpg?1648671973",
+  "iconCid": "bafkreiawssoalyja5pczpggwbyydfjecdxhx3clg73bk6yz35riicqaf2q",
+  "numberOfDownloads": 19804,
+  "rating": 4.9,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/death-chest.101066/history",
+  "gitUrl": "https://github.com/DevCyntrix/death-chest",
+  "releaseDate": 1676572500000,
+  "updateDate": 1676572500000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

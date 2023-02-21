@@ -1,0 +1,27 @@
+{
+  "id": 70897,
+  "url": "https://www.spigotmc.org/resources/banfromclaim.70897/",
+  "name": "BanFromClaim",
+  "description": "Add-on for GriefPrevention that let you banish players from your claim",
+  "authors": [
+    "Baktus79"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/70/70897.jpg?1567191858",
+  "iconCid": "bafkreifc34yegvvukcg6s3iwpbveoosfm6ioulskr324vrjsckfz5zxcpy",
+  "numberOfDownloads": 3359,
+  "rating": 4.8,
+  "numberOfVotes": 15,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/banfromclaim.70897/history",
+  "gitUrl": "https://github.com/Baktus79/BanFromClaim",
+  "releaseDate": 1567188240000,
+  "updateDate": 1667237520000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

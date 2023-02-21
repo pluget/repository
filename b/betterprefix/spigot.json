@@ -1,0 +1,25 @@
+{
+  "id": 18096,
+  "url": "https://www.spigotmc.org/resources/betterprefix-placeholderapi-luckperms-vault.18096/",
+  "name": "BetterPrefix | PlaceholderAPI | LuckPerms | Vault",
+  "description": "Get Prefixes to display in multiple places automatically!",
+  "authors": [
+    "tomisanhues2"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/18/18096.jpg?1676634742",
+  "iconCid": "bafkreibjalvm6c3da4k7lzx2ps4na2f6gxfqkpcmu3hougbg525jifkcfa",
+  "numberOfDownloads": 35571,
+  "rating": 4.7,
+  "numberOfVotes": 16,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterprefix-placeholderapi-luckperms-vault.18096/history",
+  "releaseDate": 1676813640000,
+  "updateDate": 1676813640000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 102058,
+  "url": "https://www.spigotmc.org/resources/bromine-essentials.102058/",
+  "name": "Bromine Essentials",
+  "description": "This plugin has a few features useful for development servers.",
+  "authors": [
+    "srnyx"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102058.jpg?1653930388",
+  "iconCid": "bafkreicaijlink25ecwmpjxpyawqvx4t7ihjk5g5fydiedlqb67wc3i46y",
+  "numberOfDownloads": 77,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bromine-essentials.102058/history",
+  "gitUrl": "https://github.com/Venox-Network/bromine",
+  "releaseDate": 1652839440000,
+  "updateDate": 1666479120000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

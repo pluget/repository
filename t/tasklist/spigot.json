@@ -1,0 +1,27 @@
+{
+  "id": 103488,
+  "url": "https://www.spigotmc.org/resources/tasklist.103488/",
+  "name": "TaskList",
+  "description": "TaskList is your all in one task handling plugin with simple to use commands to add, complete, and r",
+  "authors": [
+    "UpFault"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103488.jpg?1658182707",
+  "iconCid": "bafkreie4ik6edzqtuihwapf7sxfrj5prhkl4pencu7vf5lwalj7h5p5j4e",
+  "numberOfDownloads": 60,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tasklist.103488/history",
+  "gitUrl": "https://github.com/UpFault/TaskList",
+  "releaseDate": 1658178960000,
+  "updateDate": 1658229540000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

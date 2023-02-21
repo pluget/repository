@@ -1,0 +1,24 @@
+{
+  "id": 106418,
+  "url": "https://www.spigotmc.org/resources/hmcleaves.106418/",
+  "name": "HMCLeaves",
+  "description": "Custom leaves plugin, compatible with ItemsAdder and Oraxen.",
+  "authors": [
+    "HeroBrineGoat"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106418.jpg?1669311967",
+  "iconCid": "bafkreicfld44yxtrg6gu4uhuloa2vdmn6jxzayeahbk4t4khqh7uvzeaxi",
+  "numberOfDownloads": 259,
+  "rating": 4.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hmcleaves.106418/history",
+  "gitUrl": "https://github.com/HibiscusMC/HMCLeaves",
+  "releaseDate": 1669308240000,
+  "updateDate": 1670275560000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 104589,
+  "url": "https://www.spigotmc.org/resources/easycustomitem.104589/",
+  "name": "EasyCustomItem",
+  "description": "A simple item editor plugin",
+  "authors": [
+    "zhangyang0204"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104589.jpg?1660641253",
+  "iconCid": "bafkreidbzncdudkib6ncezl6wnswru3pxwrkrfjpqlqyftfbsu2zdvxkpe",
+  "numberOfDownloads": 386,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/easycustomitem.104589/history",
+  "gitUrl": "https://github.com/ZhangYang0204/easy-custom-item",
+  "releaseDate": 1660637580000,
+  "updateDate": 1661484420000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

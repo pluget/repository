@@ -1,0 +1,31 @@
+{
+  "id": 106184,
+  "url": "https://www.spigotmc.org/resources/eventban-block-events-on-players-and-server.106184/",
+  "name": "EventBan - Block events on players and server !",
+  "description": "The EventBan add-on supports you to prevent some events with its beta version.",
+  "authors": [
+    "ThemisH"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106184.jpg?1668014626",
+  "iconCid": "bafkreifxarwcexvytnm36ruzjfeba77sg7jctfwkhv3eusffz2yfizroyu",
+  "numberOfDownloads": 43,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/eventban-block-events-on-players-and-server.106184/history",
+  "releaseDate": 1668010920000,
+  "updateDate": 1668099420000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

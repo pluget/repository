@@ -1,0 +1,27 @@
+{
+  "id": 106561,
+  "url": "https://www.spigotmc.org/resources/sxsnow-mysql-sqlite-support.106561/",
+  "name": "SXSnow | MySQL & SQLite Support",
+  "description": "This plugin adds artificial snow for every player.",
+  "authors": [
+    "xSandl3x"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106561.jpg?1670053710",
+  "iconCid": "bafkreieir3axsgrax62s77tspq3jdgiqvqhux6nu2522gmglb2kayo47ni",
+  "numberOfDownloads": 105,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sxsnow-mysql-sqlite-support.106561/history",
+  "releaseDate": 1670050080000,
+  "updateDate": 1670792580000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

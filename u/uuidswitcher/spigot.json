@@ -1,0 +1,32 @@
+{
+  "id": 102647,
+  "url": "https://www.spigotmc.org/resources/uuidswitcher.102647/",
+  "name": "UUIDSwitcher",
+  "description": "A powerful API allowing you to connect with different UUIDs and names, like a whole new player!",
+  "authors": [
+    "BeefDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102647.jpg?1655304602",
+  "iconCid": "bafkreihzgxf7f3hsltmhssj4qparhbx75mjmpw3jpqflipr7ru64fp72ii",
+  "numberOfDownloads": 143,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/uuidswitcher.102647/history",
+  "gitUrl": "https://github.com/BeefDev/UUIDSwitcher",
+  "releaseDate": 1655300940000,
+  "updateDate": 1658766420000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

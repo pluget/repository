@@ -1,0 +1,32 @@
+{
+  "id": 97679,
+  "url": "https://www.spigotmc.org/resources/labyrinth.97679/",
+  "name": "Labyrinth",
+  "description": "A spigot development tool meant to make your life easier.",
+  "authors": [
+    "SanctumTeam"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97679.jpg?1665115539",
+  "iconCid": "bafkreifi3kmx7fm6fwmhdpdmk2v4wic4bbostzsh3w5y3bvqbgwc3crs5m",
+  "numberOfDownloads": 644,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/labyrinth.97679/history",
+  "gitUrl": "https://github.com/the-h-team/Labyrinth",
+  "releaseDate": 1637139780000,
+  "updateDate": 1664953320000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

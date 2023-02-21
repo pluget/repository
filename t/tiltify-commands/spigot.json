@@ -1,0 +1,21 @@
+{
+  "id": 105640,
+  "url": "https://www.spigotmc.org/resources/tiltify-commands.105640/",
+  "name": "Tiltify Commands",
+  "description": "Automate Minecraft commands with Tiltify donations.",
+  "authors": [
+    "Leialoha"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105640.jpg?1665033090",
+  "iconCid": "bafkreia5uobonvnq2xxfr3lfxmfuxupgzkqhvh4uoimiatyjooc6lvjnmm",
+  "numberOfDownloads": 16,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tiltify-commands.105640/history",
+  "gitUrl": "https://github.com/Leialoha/tiltify-commands/",
+  "releaseDate": 1665029460000,
+  "updateDate": 1665029460000,
+  "versions": [
+    "1.19"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 82861,
+  "url": "https://www.spigotmc.org/resources/skoice-proximity-voice-chat.82861/",
+  "name": "Skoice: Proximity Voice Chat",
+  "description": "Proximity Voice Chat in Minecraft using Discord",
+  "authors": [
+    "_CarloDrift"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82861.jpg?1597701409",
+  "iconCid": "bafkreigqhj73lzrv2ugwrtxheiif5hf7kay7ki344lkhaze65e4ph7ploi",
+  "numberOfDownloads": 151206,
+  "rating": 4.6,
+  "numberOfVotes": 53,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skoice-proximity-voice-chat.82861/history",
+  "gitUrl": "https://github.com/Skoice/skoice",
+  "releaseDate": 1597697760000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

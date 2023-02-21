@@ -1,0 +1,26 @@
+{
+  "id": 103436,
+  "url": "https://www.spigotmc.org/resources/infrared-vision-see-people-hiding-behind-walls.103436/",
+  "name": "Infrared Vision | See people hiding behind walls!",
+  "description": "Lightweight plugin that allows you to see mobs and players through walls",
+  "authors": [
+    "Overqualified"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103436.jpg?1658045780",
+  "iconCid": "bafkreihmvx7khxolmrjkztqt7pbqusi6baendrnpz55wjnpxjqjkkbigq4",
+  "numberOfDownloads": 94,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/infrared-vision-see-people-hiding-behind-walls.103436/history",
+  "releaseDate": 1658041620000,
+  "updateDate": 1658553180000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

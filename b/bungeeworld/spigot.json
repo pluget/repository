@@ -1,0 +1,33 @@
+{
+  "id": 103314,
+  "url": "https://www.spigotmc.org/resources/%E2%99%BB%EF%B8%8F-bungeeworld-multiple-servers-in-a-single-server.103314/",
+  "name": "♻️ BungeeWorld | Multiple Servers, in a Single Server!",
+  "description": "Allows you to separate statistics and chat between worlds + Many more features!",
+  "authors": [
+    "Pulsi_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103314.jpg?1657638941",
+  "iconCid": "bafkreibmwuakvaumgpz6ezx3k6y34lzg6jlrsmlnqml2ychsq7m7a43x3m",
+  "numberOfDownloads": 137,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%99%BB%EF%B8%8F-bungeeworld-multiple-servers-in-a-single-server.103314/history",
+  "gitUrl": "https://github.com/Pulsih/BungeeWorld",
+  "releaseDate": 1657633200000,
+  "updateDate": 1657901640000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

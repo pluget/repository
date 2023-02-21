@@ -1,0 +1,28 @@
+{
+  "id": 103033,
+  "url": "https://www.spigotmc.org/resources/player-logger-1-12-1-19-mysql-ip-logging-join-location-and-many-more.103033/",
+  "name": "Player Logger | [1.12-1.19] MySQL, IP Logging, Join Location and Many More",
+  "description": "Log information on players joining the server.",
+  "authors": [
+    "COMPHACK"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103033.jpg?1663332849",
+  "iconCid": "bafkreig7aatpn7rkystnq4cgkuumlurzkpucjr4ri2pjqnymju3dzmrvxe",
+  "numberOfDownloads": 313,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/player-logger-1-12-1-19-mysql-ip-logging-join-location-and-many-more.103033/history",
+  "gitUrl": "https://github.com/COMP-HACK/PlayerLogger",
+  "releaseDate": 1656674820000,
+  "updateDate": 1663691160000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

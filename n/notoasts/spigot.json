@@ -1,0 +1,19 @@
+{
+  "id": 103795,
+  "url": "https://www.spigotmc.org/resources/notoasts.103795/",
+  "name": "NoToasts",
+  "description": "Disables those annoying warning toasts for everyone on the server.",
+  "authors": [
+    "Tis_awesomeness"
+  ],
+  "numberOfDownloads": 36,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/notoasts.103795/history",
+  "gitUrl": "https://github.com/Tisawesomeness/NoToasts",
+  "releaseDate": 1659144660000,
+  "updateDate": 1659144660000,
+  "versions": [
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 96560,
+  "url": "https://www.spigotmc.org/resources/end-crystal-damage-nerf.96560/",
+  "name": "End Crystal Damage Nerf",
+  "description": "Easily reduce damage taken from end crystals",
+  "authors": [
+    "opd02"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96560.jpg?1638225157",
+  "iconCid": "bafkreien64ntbeeiyj3tk6xjqrywx22ahev2pvgtzbka4c3caditdwceji",
+  "numberOfDownloads": 606,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/end-crystal-damage-nerf.96560/history",
+  "gitUrl": "https://github.com/opd02/EndCrystalNerf",
+  "releaseDate": 1633012620000,
+  "updateDate": 1667439960000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

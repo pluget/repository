@@ -1,0 +1,19 @@
+{
+  "id": 107988,
+  "url": "https://www.spigotmc.org/resources/factionrenamecancel.107988/",
+  "name": "FactionRenameCancel",
+  "description": "Prevent player from renaming their faction name / tag. (FactionsUUID, MassiveFaction, SaberFac",
+  "authors": [
+    "Steelfri"
+  ],
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/factionrenamecancel.107988/history",
+  "gitUrl": "https://github.com/Steelfri/FactionRenameCancel",
+  "releaseDate": 1676334360000,
+  "updateDate": 1676334360000,
+  "versions": [
+    "1.19"
+  ]
+}

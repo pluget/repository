@@ -1,0 +1,19 @@
+{
+  "id": 107267,
+  "url": "https://www.spigotmc.org/resources/password-plugin.107267/",
+  "name": "Password Plugin",
+  "description": "Prevent players from playing on your server without a password.",
+  "authors": [
+    "DevMuffin"
+  ],
+  "numberOfDownloads": 47,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/password-plugin.107267/history",
+  "gitUrl": "https://github.com/DevMuffin/password-plugin",
+  "releaseDate": 1673115540000,
+  "updateDate": 1673115540000,
+  "versions": [
+    "1.19"
+  ]
+}

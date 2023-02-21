@@ -1,0 +1,22 @@
+{
+  "id": 102944,
+  "url": "https://www.spigotmc.org/resources/safetyblanket.102944/",
+  "name": "SafetyBlanket",
+  "description": "This plugin helps people get used to your server by giving them various temporary bonuses.",
+  "authors": [
+    "HiddenKnowledge"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102944.jpg?1656341872",
+  "iconCid": "bafkreia4h5ptu2qzo7fa4hwihkogrxaiaankm6xlamneujqj2d3uzaeeze",
+  "numberOfDownloads": 81,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/safetyblanket.102944/history",
+  "gitUrl": "https://github.com/AliceDTRH/safetyblanket",
+  "releaseDate": 1656337440000,
+  "updateDate": 1657669440000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

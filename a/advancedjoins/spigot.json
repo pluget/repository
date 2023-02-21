@@ -1,0 +1,22 @@
+{
+  "id": 105000,
+  "url": "https://www.spigotmc.org/resources/advancedjoins.105000/",
+  "name": "AdvancedJoins",
+  "description": "This plugin is just a welcome & goodbye plugin. It supports HEX color codes.",
+  "authors": [
+    "Carpodi"
+  ],
+  "numberOfDownloads": 30,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advancedjoins.105000/history",
+  "gitUrl": "https://github.com/Carpodi/AdvancedJoins",
+  "releaseDate": 1662066840000,
+  "updateDate": 1662066840000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 107149,
+  "url": "https://www.spigotmc.org/resources/datapackloader.107149/",
+  "name": "DatapackLoader",
+  "description": "Automatically add datapacks to your server.",
+  "authors": [
+    "Omnatth"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107149.jpg?1672813397",
+  "iconCid": "bafkreidep7isprefeqkw7oi7r3ut5joe7ama4gke6vdu6diouvrgpfca2a",
+  "numberOfDownloads": 398,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/datapackloader.107149/history",
+  "gitUrl": "https://github.com/lichenaut/DatapackLoader",
+  "releaseDate": 1672698300000,
+  "updateDate": 1673456580000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

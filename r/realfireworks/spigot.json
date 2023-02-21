@@ -1,0 +1,22 @@
+{
+  "id": 105555,
+  "url": "https://www.spigotmc.org/resources/realfireworks.105555/",
+  "name": "RealFireworks",
+  "description": "Fireworks",
+  "authors": [
+    "kinghugo1"
+  ],
+  "numberOfDownloads": 43,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/realfireworks.105555/history",
+  "gitUrl": "https://github.com/GameHugo/RealFireworks",
+  "releaseDate": 1664634000000,
+  "updateDate": 1664654280000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

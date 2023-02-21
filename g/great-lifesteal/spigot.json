@@ -1,0 +1,32 @@
+{
+  "id": 102206,
+  "url": "https://www.spigotmc.org/resources/great-lifesteal-life-steal-system-for-smp-servers.102206/",
+  "name": "Great LifeSteal - Life steal system for SMP servers",
+  "description": "A recently popular plugin for life stealing system on SMP servers.",
+  "authors": [
+    "zrdzn"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102206.jpg?1656862783",
+  "iconCid": "bafkreia7jq3bw5vlxpp7tcawgkjomfb6k4vphtw5suqtfnsk6weihqccsa",
+  "numberOfDownloads": 25665,
+  "rating": 4.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/great-lifesteal-life-steal-system-for-smp-servers.102206/history",
+  "gitUrl": "https://github.com/zrdzn/GreatLifeSteal",
+  "releaseDate": 1653409920000,
+  "updateDate": 1671389220000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

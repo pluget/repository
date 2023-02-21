@@ -1,0 +1,33 @@
+{
+  "id": 46812,
+  "url": "https://www.spigotmc.org/resources/pixelstacker-photo-realistic-pixel-art-generator.46812/",
+  "name": "PixelStacker - photo realistic pixel art generator",
+  "description": "A PixelArt Mosaic Generator that builds photo realistic art in Minecraft.",
+  "authors": [
+    "Pangamma"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/46/46812.jpg?1504675100",
+  "iconCid": "bafkreidiuqgy4q32n266qp6qypbzjfws5qr3ju4gn4hyfcmaayw6uz6wqe",
+  "numberOfDownloads": 37817,
+  "rating": 4.7,
+  "numberOfVotes": 21,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pixelstacker-photo-realistic-pixel-art-generator.46812/history",
+  "gitUrl": "https://github.com/Pangamma/PixelStacker",
+  "releaseDate": 1504822140000,
+  "updateDate": 1659819660000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

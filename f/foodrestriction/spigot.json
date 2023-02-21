@@ -1,0 +1,25 @@
+{
+  "id": 107745,
+  "url": "https://www.spigotmc.org/resources/foodrestriction.107745/",
+  "name": "FoodRestriction",
+  "description": "You can restrict the player eat only vegan, carnivorous or your custom foods.",
+  "authors": [
+    "Pecolata"
+  ],
+  "numberOfDownloads": 54,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/foodrestriction.107745/history",
+  "gitUrl": "https://github.com/mohsumzadah/FoodRestriction",
+  "releaseDate": 1675240320000,
+  "updateDate": 1675361940000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

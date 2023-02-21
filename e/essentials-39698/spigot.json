@@ -1,0 +1,27 @@
+{
+  "id": 39698,
+  "url": "https://www.spigotmc.org/resources/essentials-skript-1-13-2-1-19-3.39698/",
+  "name": "Essentials (Skript) [1.13.2-1.19.3]",
+  "description": "Essentials in Skript",
+  "authors": [
+    "alexisl315"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/39/39698.jpg?1673961663",
+  "iconCid": "bafkreigmku35upr737hu3sj5owuh4g243h3cunvzxqn72iwwv2mo7hz5vq",
+  "numberOfDownloads": 181977,
+  "rating": 2.5,
+  "numberOfVotes": 201,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/essentials-skript-1-13-2-1-19-3.39698/history",
+  "gitUrl": "https://github.com/Lennord/Essentials",
+  "releaseDate": 1492532520000,
+  "updateDate": 1676114820000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

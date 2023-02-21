@@ -1,0 +1,23 @@
+{
+  "id": 106435,
+  "url": "https://www.spigotmc.org/resources/kimivanish.106435/",
+  "name": "KimiVanish",
+  "description": "Superior multi-layer vanishing",
+  "authors": [
+    "KimiNoUso"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106435.jpg?1671565841",
+  "iconCid": "bafkreih5wlk32i6t4bdjqdp3rho53w4radumwvucrc4txm2rg3rmkxlwza",
+  "numberOfDownloads": 31,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kimivanish.106435/history",
+  "gitUrl": "https://github.com/TheKimiNoUso/KimiVanish",
+  "releaseDate": 1669399260000,
+  "updateDate": 1669697700000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

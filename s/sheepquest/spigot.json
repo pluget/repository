@@ -1,0 +1,32 @@
+{
+  "id": 83005,
+  "url": "https://www.spigotmc.org/resources/sheepquest-minigame-1-8-1-19-bungee-multiworld.83005/",
+  "name": "SheepQuest | [MINIGAME] [1.8-1.19] [Bungee/Multiworld]",
+  "description": "Dynamic and fast game excellent for your minigame server!",
+  "authors": [
+    "Cubixor"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83005.jpg?1598042444",
+  "iconCid": "bafkreig2p5d3dwhmyj4obkyh64kz6dqikdhq5ezmawlcgctmowvalu4frq",
+  "numberOfDownloads": 2627,
+  "rating": 4.3,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sheepquest-minigame-1-8-1-19-bungee-multiworld.83005/history",
+  "gitUrl": "https://github.com/Cubixor/SheepQuest",
+  "releaseDate": 1598038800000,
+  "updateDate": 1672335120000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

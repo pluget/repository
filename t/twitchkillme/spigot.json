@@ -1,0 +1,21 @@
+{
+  "id": 107399,
+  "url": "https://www.spigotmc.org/resources/twitchkillme.107399/",
+  "name": "TwitchKillMe",
+  "description": "A free and best plugin for Chat vs Streamer event",
+  "authors": [
+    "LuisBazan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107399.jpg?1673800619",
+  "iconCid": "bafkreicqlaxfjguhdfdn6wjhkh3doonhguyb72adehpul5wywrfpdiweq4",
+  "numberOfDownloads": 107,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/twitchkillme.107399/history",
+  "gitUrl": "https://github.com/luisBazanDev/TwitchKillMe",
+  "releaseDate": 1673795340000,
+  "updateDate": 1675998360000,
+  "versions": [
+    "1.19"
+  ]
+}

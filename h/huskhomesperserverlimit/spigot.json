@@ -1,0 +1,25 @@
+{
+  "id": 103931,
+  "url": "https://www.spigotmc.org/resources/huskhomesperserverlimit.103931/",
+  "name": "HuskHomesPerServerLimit",
+  "description": "Limit player homes on single server (for HuskHomes).",
+  "authors": [
+    "Ghost_chu"
+  ],
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/huskhomesperserverlimit.103931/history",
+  "gitUrl": "https://github.com/Ghost-chu/HuskHomesPerServerLimit",
+  "releaseDate": 1659343800000,
+  "updateDate": 1674500040000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

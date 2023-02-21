@@ -1,0 +1,27 @@
+{
+  "id": 85170,
+  "url": "https://www.spigotmc.org/resources/shopguiplus-sellgui.85170/",
+  "name": "ShopGUIPlus SellGUI",
+  "description": "Sell items in bulk with ease",
+  "authors": [
+    "MackenzieMolloy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85170.jpg?1603664061",
+  "iconCid": "bafkreidghhgym3z6tvflf5kmkhctoa3tim2s2z6diflmne7rsr2goptvca",
+  "numberOfDownloads": 21132,
+  "rating": 5,
+  "numberOfVotes": 33,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/shopguiplus-sellgui.85170/history",
+  "gitUrl": "https://github.com/MackenzieMolloy/ShopGUIPlus-SellGUI",
+  "releaseDate": 1603660320000,
+  "updateDate": 1658961600000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

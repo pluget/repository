@@ -1,0 +1,27 @@
+{
+  "id": 107038,
+  "url": "https://www.spigotmc.org/resources/randomcart.107038/",
+  "name": "RandomCart",
+  "description": "Add a surprise element to mining on your Minecraft server.",
+  "authors": [
+    "Triassic"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107038.jpg?1672342997",
+  "iconCid": "bafkreibruxfs5thqtkrtaii4ttaodkaopamboy5tzinhm7afbo6owxvedu",
+  "numberOfDownloads": 52,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/randomcart.107038/history",
+  "gitUrl": "https://github.com/RealTriassic/RandomCart",
+  "releaseDate": 1672339380000,
+  "updateDate": 1672427940000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

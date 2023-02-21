@@ -1,0 +1,26 @@
+{
+  "id": 29805,
+  "url": "https://www.spigotmc.org/resources/customcrates-fully-customizable-in-game-configuration.29805/",
+  "name": "CustomCrates | Fully Customizable | In-Game Configuration",
+  "description": "A fully customizable crates plugin",
+  "authors": [
+    "MCPro_247"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/29/29805.jpg?1660002472",
+  "iconCid": "bafkreifvkrmkziwk6yulen2g4zboc76wr3p6yhttzarjcidt23migzrrgq",
+  "numberOfDownloads": 124373,
+  "rating": 3.8,
+  "numberOfVotes": 33,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/customcrates-fully-customizable-in-game-configuration.29805/history",
+  "gitUrl": "https://github.com/ProFewGames/CustomCrates",
+  "releaseDate": 1474924800000,
+  "updateDate": 1672328100000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

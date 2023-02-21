@@ -1,0 +1,21 @@
+{
+  "id": 103719,
+  "url": "https://www.spigotmc.org/resources/smptweaks-custompotions.103719/",
+  "name": "SMPTweaks & CustomPotions",
+  "description": "Chunk loader, no arrow infinity bow, custom potions, auto craft, auto trade",
+  "authors": [
+    "WobbyChip"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103719.jpg?1658866823",
+  "iconCid": "bafkreih4bxajlmr4ynogi4f3mswwltjy6ybwilxe5e3bn6i3viat5qtzqe",
+  "numberOfDownloads": 411,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/smptweaks-custompotions.103719/history",
+  "gitUrl": "https://github.com/WobbyChip/Minecraft-Plugins/tree/master/SMPTweaks",
+  "releaseDate": 1658863200000,
+  "updateDate": 1671891360000,
+  "versions": [
+    "1.19"
+  ]
+}

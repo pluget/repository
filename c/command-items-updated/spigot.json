@@ -1,0 +1,22 @@
+{
+  "id": 98317,
+  "url": "https://www.spigotmc.org/resources/command-items-updated-1-18.98317/",
+  "name": "Command Items Updated [1.18+]",
+  "description": "Create consumable items that trigger commands",
+  "authors": [
+    "MelonHell"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98317.jpg?1639329154",
+  "iconCid": "bafkreihqhescclzym3i2nyx7yvskblw3lt7lzyzb3dhbuyz3ioretd42pe",
+  "numberOfDownloads": 775,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/command-items-updated-1-18.98317/history",
+  "gitUrl": "https://github.com/MelonHell/CommandItems",
+  "releaseDate": 1639314660000,
+  "updateDate": 1660852380000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

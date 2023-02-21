@@ -1,0 +1,32 @@
+{
+  "id": 84187,
+  "url": "https://www.spigotmc.org/resources/minions-miner.84187/",
+  "name": "Minions-Miner",
+  "description": "Minions-Revamped Required - Mines blocks continuously. (Unless dead.)",
+  "authors": [
+    "TheCrappiest"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84187.jpg?1639157636",
+  "iconCid": "bafkreia5s5htblsfgzmf2m2gczqa5ydhifvqnteckawyaoulvg7iyq5xse",
+  "numberOfDownloads": 792,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minions-miner.84187/history",
+  "gitUrl": "https://github.com/TheCrappiest/Minions-Miner",
+  "releaseDate": 1601011620000,
+  "updateDate": 1670848320000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

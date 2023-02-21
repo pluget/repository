@@ -1,0 +1,21 @@
+{
+  "id": 107153,
+  "url": "https://www.spigotmc.org/resources/bitcoin-plugin.107153/",
+  "name": "Bitcoin Plugin",
+  "description": "With this plugin, players can buy, sell, and give Bitcoin using the Vault plugin.",
+  "authors": [
+    "CraniX"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107153.jpg?1672712936",
+  "iconCid": "bafkreifdcu7ockmh346efqnfxnjz6k2yty4lt2tbouh6iilmgx5oymfypq",
+  "numberOfDownloads": 43,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bitcoin-plugin.107153/history",
+  "gitUrl": "https://drive.google.com/file/d/1IjdAZnPyQRBijOrFqkuAihTQj2U0pYMl/view?usp=share_link",
+  "releaseDate": 1672709280000,
+  "updateDate": 1672709280000,
+  "versions": [
+    "1.19"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 84278,
+  "url": "https://www.spigotmc.org/resources/chunkyborder.84278/",
+  "name": "ChunkyBorder",
+  "description": "An add-on for Chunky which lets you create and manage world borders",
+  "authors": [
+    "pop4959"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84278.jpg?1612919089",
+  "iconCid": "bafkreic5tvwzfdtxggscox3tpky7d7ilbyi5gjybuijgk4s4d2yf77gley",
+  "numberOfDownloads": 18883,
+  "rating": 5,
+  "numberOfVotes": 14,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chunkyborder.84278/history",
+  "gitUrl": "https://github.com/pop4959/ChunkyBorder",
+  "releaseDate": 1601235000000,
+  "updateDate": 1671096000000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

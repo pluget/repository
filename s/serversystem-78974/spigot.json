@@ -1,0 +1,32 @@
+{
+  "id": 78974,
+  "url": "https://www.spigotmc.org/resources/serversystem.78974/",
+  "name": "ServerSystem",
+  "description": "An essentials alternative! Eine Essentials Alternative!",
+  "authors": [
+    "realEntity303"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/78/78974.jpg?1671383604",
+  "iconCid": "bafkreid5k774m2kecdl3ixhqabu7ndcbygub7wprekphxxhoangz4rwqxm",
+  "numberOfDownloads": 14202,
+  "rating": 5,
+  "numberOfVotes": 35,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/serversystem.78974/history",
+  "gitUrl": "https://github.com/TheBlackEntity/ServerSystem",
+  "releaseDate": 1589809920000,
+  "updateDate": 1671379740000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

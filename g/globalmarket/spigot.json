@@ -1,0 +1,28 @@
+{
+  "id": 103933,
+  "url": "https://www.spigotmc.org/resources/globalmarket-auction-house-free-trade-market-and-personal-shop.103933/",
+  "name": "GlobalMarket - Auction House, Free Trade Market and Personal Shop",
+  "description": "A market plugin for Spigot server. Trade your item on GUI base on inventory.",
+  "authors": [
+    "Fireflyest"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103933.jpg?1660182583",
+  "iconCid": "bafkreiar3iifezrknazzp5ts5hhfv6ami26rqa6ivzqixagcry56jzyigi",
+  "numberOfDownloads": 1496,
+  "rating": 3.4,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/globalmarket-auction-house-free-trade-market-and-personal-shop.103933/history",
+  "gitUrl": "https://github.com/Fireflyest/GlobalMarket",
+  "releaseDate": 1676574360000,
+  "updateDate": 1676574360000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

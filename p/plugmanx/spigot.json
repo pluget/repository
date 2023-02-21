@@ -1,0 +1,31 @@
+{
+  "id": 88135,
+  "url": "https://www.spigotmc.org/resources/plugmanx.88135/",
+  "name": "PlugManX",
+  "description": "PlugMan is a simple, easy to use plugin that lets server admins manage plugins without restarting.",
+  "authors": [
+    "realEntity303"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88135.jpg?1611278148",
+  "iconCid": "bafkreigvoawheestnot2okdoxqdxdfpqugqgd6jdlm5h2ragz2joi52hy4",
+  "numberOfDownloads": 68418,
+  "rating": 4.7,
+  "numberOfVotes": 29,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/plugmanx.88135/history",
+  "gitUrl": "https://github.com/TheBlackEntity/PlugMan/",
+  "releaseDate": 1611274500000,
+  "updateDate": 1674997500000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

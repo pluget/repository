@@ -1,0 +1,21 @@
+{
+  "id": 101148,
+  "url": "https://www.spigotmc.org/resources/chat-channels.101148/",
+  "name": "Chat Channels",
+  "description": "Create different channels for your server to talk in!",
+  "authors": [
+    "LightFury102"
+  ],
+  "numberOfDownloads": 121,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chat-channels.101148/history",
+  "gitUrl": "https://github.com/vlink102/ChatChannels",
+  "releaseDate": 1649004600000,
+  "updateDate": 1667242380000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

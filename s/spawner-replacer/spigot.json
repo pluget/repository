@@ -1,0 +1,21 @@
+{
+  "id": 106097,
+  "url": "https://www.spigotmc.org/resources/spawner-replacer.106097/",
+  "name": "Spawner Replacer",
+  "description": "Disables mob spawners by replacing the block",
+  "authors": [
+    "CarsonDDD"
+  ],
+  "numberOfDownloads": 22,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/spawner-replacer.106097/history",
+  "releaseDate": 1667606700000,
+  "updateDate": 1667606700000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

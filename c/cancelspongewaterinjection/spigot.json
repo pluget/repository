@@ -1,0 +1,23 @@
+{
+  "id": 104863,
+  "url": "https://www.spigotmc.org/resources/cancelspongewaterinjection.104863/",
+  "name": "CancelSpongeWaterInjection",
+  "description": "plugin that cancels the water absorption of the sponges in versions before 1.13.",
+  "authors": [
+    "Unlegit_Denis"
+  ],
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cancelspongewaterinjection.104863/history",
+  "gitUrl": "https://github.com/unldenis/CancelSpongeWaterInjection",
+  "releaseDate": 1661595360000,
+  "updateDate": 1661595360000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12"
+  ]
+}

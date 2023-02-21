@@ -1,0 +1,24 @@
+{
+  "id": 64346,
+  "url": "https://www.spigotmc.org/resources/thizzyz-tree-feller.64346/",
+  "name": "Thizzy'z Tree Feller",
+  "description": "The most customizable tree feller ever made.",
+  "authors": [
+    "Thiz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/64/64346.jpg?1548535937",
+  "iconCid": "bafkreiaoeqfk54uhamxrsnxvwxxn6fesye6bs7vq5wztak7s376ibqunbe",
+  "numberOfDownloads": 19692,
+  "rating": 4.9,
+  "numberOfVotes": 37,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/thizzyz-tree-feller.64346/history",
+  "gitUrl": "https://github.com/ThizThizzyDizzy/tree-feller",
+  "releaseDate": 1548531240000,
+  "updateDate": 1672675560000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

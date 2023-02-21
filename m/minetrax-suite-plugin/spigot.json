@@ -1,0 +1,24 @@
+{
+  "id": 102635,
+  "url": "https://www.spigotmc.org/resources/minetrax-suite-plugin.102635/",
+  "name": "MineTrax Suite Plugin",
+  "description": "Plugin for MineTrax Suite - Free Websuite & Analytics for minecraft servers.",
+  "authors": [
+    "Xinecraft"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102635.jpg?1655259133",
+  "iconCid": "bafkreiabi6voei54otwu7xlaelm6eruses5wepq2seqixepce4eo2ivmuy",
+  "numberOfDownloads": 201,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minetrax-suite-plugin.102635/history",
+  "gitUrl": "https://github.com/MineTrax/plugin",
+  "releaseDate": 1676805240000,
+  "updateDate": 1676805240000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

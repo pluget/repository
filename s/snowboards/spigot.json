@@ -1,0 +1,32 @@
+{
+  "id": 83114,
+  "url": "https://www.spigotmc.org/resources/snowboards.83114/",
+  "name": "SnowBoards",
+  "description": "Simple to use scoreboards. HEX-SUPPORT + PAPI-SUPPORT",
+  "authors": [
+    "AquaticLabs"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83114.jpg?1626937856",
+  "iconCid": "bafkreifygqzmyisc6hn36v54q7tswrx7zi3utttbfp2awi65ilsngyxfa4",
+  "numberOfDownloads": 621,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/snowboards.83114/history",
+  "gitUrl": "https://github.com/AquaticLabs/Snowboards",
+  "releaseDate": 1598308620000,
+  "updateDate": 1662258540000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

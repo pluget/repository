@@ -1,0 +1,32 @@
+{
+  "id": 105294,
+  "url": "https://www.spigotmc.org/resources/maehantibot-smart-antibot-detection-for-minecraft-server.105294/",
+  "name": "MaehAntiBot - Smart AntiBot Detection for Minecraft Server",
+  "description": "antibot,antiproxy,antivpn,botdetection,detection,analyzer",
+  "authors": [
+    "Maehdakvan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105294.jpg?1663384249",
+  "iconCid": "bafkreiftysft5w3we4fd5qrzflzoiihqpwbpbnyybc5usymmdroarevivm",
+  "numberOfDownloads": 4099,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/maehantibot-smart-antibot-detection-for-minecraft-server.105294/history",
+  "gitUrl": "https://github.com/DedInc/MaehAntiBot",
+  "releaseDate": 1663214340000,
+  "updateDate": 1663321320000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

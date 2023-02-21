@@ -1,0 +1,19 @@
+{
+  "id": 107784,
+  "url": "https://www.spigotmc.org/resources/twitch-live-announcer.107784/",
+  "name": "Twitch Live Announcer",
+  "description": "A Spigot plugin that broadcasts a message when a Twitch streamer goes live or offline.",
+  "authors": [
+    "ax3lt"
+  ],
+  "numberOfDownloads": 54,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/twitch-live-announcer.107784/history",
+  "gitUrl": "https://github.com/ax3lt/Twitch-Live-Announcer",
+  "releaseDate": 1675366620000,
+  "updateDate": 1675366620000,
+  "versions": [
+    "1.19"
+  ]
+}

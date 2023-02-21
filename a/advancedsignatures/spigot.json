@@ -1,0 +1,29 @@
+{
+  "id": 107870,
+  "url": "https://www.spigotmc.org/resources/advancedsignatures.107870/",
+  "name": "AdvancedSignatures",
+  "description": "A plugin that allows to create your signatures with a single command.",
+  "authors": [
+    "Vitus27"
+  ],
+  "numberOfDownloads": 17,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advancedsignatures.107870/history",
+  "gitUrl": "https://github.com/Vitus27/AdvancedSignatures",
+  "releaseDate": 1675704960000,
+  "updateDate": 1675707000000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

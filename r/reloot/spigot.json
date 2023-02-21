@@ -1,0 +1,21 @@
+{
+  "id": 96349,
+  "url": "https://www.spigotmc.org/resources/reloot.96349/",
+  "name": "ReLoot",
+  "description": "Regenerating treasures for each unique player",
+  "authors": [
+    "TEXHIK"
+  ],
+  "numberOfDownloads": 113,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/reloot.96349/history",
+  "gitUrl": "https://github.com/TEXHIK/ReLoot",
+  "releaseDate": 1632076200000,
+  "updateDate": 1662973140000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 105475,
+  "url": "https://www.spigotmc.org/resources/%E2%9C%A8-cleanping-%E2%80%A2-dynamic-ping-plugin-spigot-bungeecord-velocity-and-redisbungee-support.105475/",
+  "name": "✨ CleanPing • Dynamic Ping plugin (Spigot, BungeeCord, Velocity and RedisBungee support)",
+  "description": "CleanPing is an advanced /ping plugin, compatible with BungeeCord, Spigot and Velocity.",
+  "authors": [
+    "frafol"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105475.jpg?1664188292",
+  "iconCid": "bafkreicyhgippk4ghdyjkpsmvaqbw6qaolw73jty4fwhrliy3qi6fdbvb4",
+  "numberOfDownloads": 374,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9C%A8-cleanping-%E2%80%A2-dynamic-ping-plugin-spigot-bungeecord-velocity-and-redisbungee-support.105475/history",
+  "gitUrl": "https://github.com/frafol/CleanPing/",
+  "releaseDate": 1664184660000,
+  "updateDate": 1674906240000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

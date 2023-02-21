@@ -1,0 +1,32 @@
+{
+  "id": 96388,
+  "url": "https://www.spigotmc.org/resources/t2codelib.96388/",
+  "name": "T2CodeLib",
+  "description": "T2CodeLib is a library for the plugins of T2Code.",
+  "authors": [
+    "JaTiTV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96388.jpg?1632281073",
+  "iconCid": "bafkreieiyzcwjaiq5l57pdvse6hrln24eozexct4fx36swtapuucihvf2y",
+  "numberOfDownloads": 2167,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/t2codelib.96388/history",
+  "gitUrl": "https://git.t2code.net/JaTiTV/T2CodeLib",
+  "releaseDate": 1632277440000,
+  "updateDate": 1674647760000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

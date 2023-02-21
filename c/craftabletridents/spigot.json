@@ -1,0 +1,27 @@
+{
+  "id": 95032,
+  "url": "https://www.spigotmc.org/resources/craftabletridents-1-19-support.95032/",
+  "name": "CraftableTridents | 1.19 SUPPORT! |",
+  "description": "Add custom recipes to your server to craft tridents, elytra's & god apples.",
+  "authors": [
+    "Loving11ish"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95032.jpg?1640169086",
+  "iconCid": "bafkreie32xya7riaj2gnp4rgamtotgvz75j3cfmi5aaucvbcioyxf2romm",
+  "numberOfDownloads": 1006,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/craftabletridents-1-19-support.95032/history",
+  "gitUrl": "https://github.com/Loving11ish/CraftableTridents",
+  "releaseDate": 1628201040000,
+  "updateDate": 1672158660000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

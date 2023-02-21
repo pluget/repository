@@ -1,0 +1,31 @@
+{
+  "id": 104542,
+  "url": "https://www.spigotmc.org/resources/pluginkeys.104542/",
+  "name": "PluginKeys",
+  "description": "Store plugin messages into placeholders!",
+  "authors": [
+    "Obviouslee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104542.jpg?1660461786",
+  "iconCid": "bafkreihujsf35si5pdjq7f3s2tsesoqbkwzvguiq6j5trlfcefleyqrg7q",
+  "numberOfDownloads": 91,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pluginkeys.104542/history",
+  "releaseDate": 1660458000000,
+  "updateDate": 1661036640000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

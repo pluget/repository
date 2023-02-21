@@ -1,0 +1,27 @@
+{
+  "id": 106381,
+  "url": "https://www.spigotmc.org/resources/personal-phantoms.106381/",
+  "name": "Personal Phantoms",
+  "description": "Plugin used for per-player phantom spawning/control",
+  "authors": [
+    "srnyx"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106381.jpg?1669085045",
+  "iconCid": "bafkreib7jolkqwmquob26qb265pffchrt34x52mhtdkqylmduifhej6r2m",
+  "numberOfDownloads": 115,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/personal-phantoms.106381/history",
+  "gitUrl": "https://github.com/srnyx/personal-phantoms",
+  "releaseDate": 1669081320000,
+  "updateDate": 1669847340000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 106638,
+  "url": "https://www.spigotmc.org/resources/talerapi-coinsapi-vault-mysql-placeholderapi.106638/",
+  "name": "TalerAPI (COINSAPI) | Vault / MySQL / PlaceholderAPI",
+  "description": "Eine TalerAPI am besten für Echtgeldwährung. // Mit Discord Webhook",
+  "authors": [
+    "Florian1"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106638.jpg?1670556389",
+  "iconCid": "bafkreieomhgj2ne7quh56owf4bq3lkhpa6csivg4zzqo4f73o6iordb3de",
+  "numberOfDownloads": 14,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/talerapi-coinsapi-vault-mysql-placeholderapi.106638/history",
+  "releaseDate": 1670552760000,
+  "updateDate": 1670552760000,
+  "versions": [
+    "1.19"
+  ]
+}

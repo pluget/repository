@@ -1,0 +1,32 @@
+{
+  "id": 845,
+  "url": "https://www.spigotmc.org/resources/pvpmanager-lite.845/",
+  "name": "PvPManager Lite",
+  "description": "Stop Combat Log, Toggle PvP, No Kill Abuse, Newbie protection, Stop region border hopping",
+  "authors": [
+    "ChanceSD"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/0/845.jpg?1406997097",
+  "iconCid": "bafkreihf7g6sz66r7wilpqf3xs7vmlivxkllnkppmyyyala56e6ugdn5vq",
+  "numberOfDownloads": 75721,
+  "rating": 4.4,
+  "numberOfVotes": 76,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pvpmanager-lite.845/history",
+  "gitUrl": "https://github.com/ChanceSD/PvPManager",
+  "releaseDate": 1406993400000,
+  "updateDate": 1663088580000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

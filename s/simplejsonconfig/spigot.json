@@ -1,0 +1,33 @@
+{
+  "id": 88844,
+  "url": "https://www.spigotmc.org/resources/2devsstudio-simplejsonconfig.88844/",
+  "name": "[2DevsStudio] - SimpleJsonConfig",
+  "description": "serialization, configuration, library, gson, json",
+  "authors": [
+    "2DevsStudio"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88844.jpg?1673270668",
+  "iconCid": "bafkreifeo6qx2xw4qh2ut2z4jhvczeqvyfnqfo4s5elmq3osnvnvzfkvle",
+  "numberOfDownloads": 58,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/2devsstudio-simplejsonconfig.88844/history",
+  "gitUrl": "https://github.com/2DevsStudio/SimpleJSONConfig",
+  "releaseDate": 1612885860000,
+  "updateDate": 1673266980000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

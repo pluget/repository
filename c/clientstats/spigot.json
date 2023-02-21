@@ -1,0 +1,33 @@
+{
+  "id": 27919,
+  "url": "https://www.spigotmc.org/resources/clientstats-bungee.27919/",
+  "name": "ClientStats [Bungee]",
+  "description": "Track how many players joined and their versions",
+  "authors": [
+    "MTC"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/27/27919.jpg?1471282754",
+  "iconCid": "bafkreicrsaum3zqqocfe2xgx4xrgthzlvfd3cwcgrxau2a7nnw5oxfj3ni",
+  "numberOfDownloads": 3708,
+  "rating": 4.9,
+  "numberOfVotes": 16,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/clientstats-bungee.27919/history",
+  "gitUrl": "https://github.com/MineTheCube/ClientStats",
+  "releaseDate": 1471279080000,
+  "updateDate": 1670882160000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

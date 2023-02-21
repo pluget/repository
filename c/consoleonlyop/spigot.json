@@ -1,0 +1,21 @@
+{
+  "id": 106791,
+  "url": "https://www.spigotmc.org/resources/consoleonlyop.106791/",
+  "name": "ConsoleOnlyOP",
+  "description": "Limit the /op command to the console only, no more malicious players insiding your server!",
+  "authors": [
+    "Gemesil"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106791.jpg?1671308381",
+  "iconCid": "bafkreihs4322gojxhivujv4vlpfydh6qridwlfyfe57jc433e3ixcy7uba",
+  "numberOfDownloads": 37,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/consoleonlyop.106791/history",
+  "gitUrl": "https://github.com/Gemesil/ConsoleOnlyOP",
+  "releaseDate": 1671304740000,
+  "updateDate": 1671304740000,
+  "versions": [
+    "1.19"
+  ]
+}

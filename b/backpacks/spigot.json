@@ -1,0 +1,27 @@
+{
+  "id": 99840,
+  "url": "https://www.spigotmc.org/resources/backpacks.99840/",
+  "name": "Backpacks",
+  "description": "Adds backpacks with commands",
+  "authors": [
+    "IBM_ESP"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99840.jpg?1655161570",
+  "iconCid": "bafkreicem3f7o4ildltp4vhgcepfes6ydueagazler5cti6iywjvakopsi",
+  "numberOfDownloads": 76298,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/backpacks.99840/history",
+  "gitUrl": "https://github.com/IBMESP/Backpacks",
+  "releaseDate": 1644179040000,
+  "updateDate": 1666204200000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

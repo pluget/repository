@@ -1,0 +1,19 @@
+{
+  "id": 105144,
+  "url": "https://www.spigotmc.org/resources/instant-kill-attribute-modifier.105144/",
+  "name": "Instant Kill Attribute Modifier",
+  "description": "adds a instant kill attribute to any item with one comand",
+  "authors": [
+    "TorbenK"
+  ],
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/instant-kill-attribute-modifier.105144/history",
+  "gitUrl": "https://github.com/Torben0612/TestPlugin/archive/refs/tags/v0.0.2.zip",
+  "releaseDate": 1662650820000,
+  "updateDate": 1662650820000,
+  "versions": [
+    "1.16"
+  ]
+}

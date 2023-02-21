@@ -1,0 +1,33 @@
+{
+  "id": 28140,
+  "url": "https://www.spigotmc.org/resources/luckperms.28140/",
+  "name": "LuckPerms",
+  "description": "A permissions plugin for Minecraft servers (Bukkit/Spigot, BungeeCord & more)",
+  "authors": [
+    "Luck"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/28/28140.jpg?1490821714",
+  "iconCid": "bafkreihd2o7ixbruuftphjkugja6gvc5jmmg3ijesh7l5njirgmvwbms2a",
+  "numberOfDownloads": 4166581,
+  "rating": 4.7,
+  "numberOfVotes": 925,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/luckperms.28140/history",
+  "gitUrl": "https://github.com/lucko/LuckPerms",
+  "releaseDate": 1676923800000,
+  "updateDate": 1676923800000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

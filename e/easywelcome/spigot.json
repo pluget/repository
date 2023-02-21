@@ -1,0 +1,32 @@
+{
+  "id": 101265,
+  "url": "https://www.spigotmc.org/resources/easywelcome-1-8-1-19.101265/",
+  "name": "EasyWelcome [1.8-1.19]",
+  "description": "Simple Plugin To Receive Players to Your Server!",
+  "authors": [
+    "ACityOnSMC"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101265.jpg?1649558875",
+  "iconCid": "bafkreiaed3hno54vi5hdzkmpz4vvjo2ulhr2eaydbblf6x2xwl4mgp5uku",
+  "numberOfDownloads": 128,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/easywelcome-1-8-1-19.101265/history",
+  "gitUrl": "https://github.com/ACityOnGitHub/EasyWelcome",
+  "releaseDate": 1649554980000,
+  "updateDate": 1658956440000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

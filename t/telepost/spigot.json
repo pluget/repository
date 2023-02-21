@@ -1,0 +1,24 @@
+{
+  "id": 91988,
+  "url": "https://www.spigotmc.org/resources/telepost.91988/",
+  "name": "Telepost",
+  "description": "Posts to keep people conected.️️ (Teleport plugin)",
+  "authors": [
+    "Muriplz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91988.jpg?1626373006",
+  "iconCid": "bafkreif2bel32yfikl6eeqouqr5hz4ljt23npnbz2zqejy5oyftl4cl3ei",
+  "numberOfDownloads": 2605,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/telepost.91988/history",
+  "gitUrl": "https://github.com/muriplz/Telepost",
+  "releaseDate": 1620041640000,
+  "updateDate": 1670802360000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

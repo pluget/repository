@@ -1,0 +1,27 @@
+{
+  "id": 103497,
+  "url": "https://www.spigotmc.org/resources/%E2%9A%A1mysocialnetworks%E2%9A%A1plugin-to-share-your-social-networks.103497/",
+  "name": "⚡MySocialNetworks⚡Plugin to share your social networks",
+  "description": "MySocialNetworks add commands to share your social networks and configure in-game",
+  "authors": [
+    "le_gabi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103497.jpg?1658235910",
+  "iconCid": "bafkreihfk3ij6si2lwa6kyyt4mjvubh77iw2fqyfpbyh3rs3avvukl52bi",
+  "numberOfDownloads": 88,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9A%A1mysocialnetworks%E2%9A%A1plugin-to-share-your-social-networks.103497/history",
+  "gitUrl": "https://github.com/legabi/MySocialNetworks",
+  "releaseDate": 1658232240000,
+  "updateDate": 1660454040000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.16",
+    "1.18"
+  ]
+}

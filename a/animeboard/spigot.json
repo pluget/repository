@@ -1,0 +1,23 @@
+{
+  "id": 87050,
+  "url": "https://www.spigotmc.org/resources/animeboard.87050/",
+  "name": "AnimeBoard",
+  "description": "A brand new scoreboard plugin!",
+  "authors": [
+    "TheDoominator"
+  ],
+  "numberOfDownloads": 682,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/animeboard.87050/history",
+  "gitUrl": "https://github.com/JustDoom/AnimeBoard",
+  "releaseDate": 1608842700000,
+  "updateDate": 1661152560000,
+  "versions": [
+    "1.12",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

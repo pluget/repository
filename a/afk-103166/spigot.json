@@ -1,0 +1,24 @@
+{
+  "id": 103166,
+  "url": "https://www.spigotmc.org/resources/afk.103166/",
+  "name": "AFK",
+  "description": "This plugin prompts AFK players with a title and gives them the blindness effect!",
+  "authors": [
+    "Shalev0034"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103166.jpg?1657139519",
+  "iconCid": "bafkreidfda67ynwfw7by2rthvb47hydhb22ts2i7xnfn7q6btdz6eq4rei",
+  "numberOfDownloads": 482,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/afk.103166/history",
+  "gitUrl": "https://github.com/ShalevDev/AFK",
+  "releaseDate": 1657130940000,
+  "updateDate": 1660283340000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

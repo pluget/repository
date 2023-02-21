@@ -1,0 +1,24 @@
+{
+  "id": 81702,
+  "url": "https://www.spigotmc.org/resources/usurvivalgames.81702/",
+  "name": "uSurvivalGames",
+  "description": "SurvivalGames, HungerGames, PVP, [Mc 1.16-1.19.2]",
+  "authors": [
+    "jerzean"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81702.jpg?1595188400",
+  "iconCid": "bafkreidhhritfmet2wfngax5zaf6vfrrjspnklmfgjseqrpksj7ihtntly",
+  "numberOfDownloads": 1082,
+  "rating": 4.3,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/usurvivalgames.81702/history",
+  "gitUrl": "https://github.com/jerzean/UltimateSurvivalGames",
+  "releaseDate": 1676704560000,
+  "updateDate": 1676704560000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 104457,
+  "url": "https://www.spigotmc.org/resources/novoidtrades.104457/",
+  "name": "NoVoidTrades",
+  "description": "Plugin that prevents bypassing trade restrictions with villagers",
+  "authors": [
+    "HIlight3R"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104457.jpg?1660232905",
+  "iconCid": "bafkreibet2bgxcqx2ampnh3h3cctzpk3y5axdgph65mwg3gzybnjdza5y4",
+  "numberOfDownloads": 32,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/novoidtrades.104457/history",
+  "gitUrl": "https://github.com/HIlight3R/NoVoidTrades",
+  "releaseDate": 1660228800000,
+  "updateDate": 1660228800000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

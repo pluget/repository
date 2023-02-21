@@ -1,0 +1,27 @@
+{
+  "id": 102406,
+  "url": "https://www.spigotmc.org/resources/sleeper.102406/",
+  "name": "Sleeper",
+  "description": "Skip the night with a percentage of players or vote and an animation.",
+  "authors": [
+    "Hraponssi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102406.jpg?1654285802",
+  "iconCid": "bafkreifg6mgibu5ntbkxscjdp42csolvko5teaivgbgmfblgag3fzi2xte",
+  "numberOfDownloads": 670,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sleeper.102406/history",
+  "gitUrl": "https://github.com/hraponssi/Sleeper",
+  "releaseDate": 1676762040000,
+  "updateDate": 1676762040000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

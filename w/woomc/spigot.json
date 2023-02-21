@@ -1,0 +1,27 @@
+{
+  "id": 107868,
+  "url": "https://www.spigotmc.org/resources/woomc-free-donation-plugin.107868/",
+  "name": "WooMC - Free Donation Plugin",
+  "description": "A Free Minecraft Donations Plugin which leverages WordPress and WooCommerce",
+  "authors": [
+    "jerzean"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107868.jpg?1675705514",
+  "iconCid": "bafkreiahddqja33wc2wkipsopmoj4xc6rwjwrforrfebx2biw32psnnymy",
+  "numberOfDownloads": 17,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/woomc-free-donation-plugin.107868/history",
+  "gitUrl": "https://github.com/jerzean/WooMinecraft",
+  "releaseDate": 1675701840000,
+  "updateDate": 1675701840000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

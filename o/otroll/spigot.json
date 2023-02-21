@@ -1,0 +1,24 @@
+{
+  "id": 88813,
+  "url": "https://www.spigotmc.org/resources/otroll.88813/",
+  "name": "OTroll",
+  "description": "Modern GUI, included Vanish, many happy users",
+  "authors": [
+    "Jupiter79"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88813.jpg?1612823255",
+  "iconCid": "bafkreiemf5m73xewnillczqbtvu5cudis5yxyqowzvcolsvg4o4uijwhnu",
+  "numberOfDownloads": 2781,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/otroll.88813/history",
+  "gitUrl": "https://github.com/Jupiter79/OTroll",
+  "releaseDate": 1612819620000,
+  "updateDate": 1657735320000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

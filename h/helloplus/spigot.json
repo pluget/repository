@@ -1,0 +1,30 @@
+{
+  "id": 105782,
+  "url": "https://www.spigotmc.org/resources/helloplus.105782/",
+  "name": "HelloPlus",
+  "description": "Customize a player's entry and exit message",
+  "authors": [
+    "SmoNazi"
+  ],
+  "numberOfDownloads": 15,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/helloplus.105782/history",
+  "gitUrl": "https://github.com/Lory9098/HelloPlus",
+  "releaseDate": 1665832260000,
+  "updateDate": 1665832260000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

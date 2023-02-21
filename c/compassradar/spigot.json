@@ -1,0 +1,23 @@
+{
+  "id": 34888,
+  "url": "https://www.spigotmc.org/resources/compassradar-plugin-to-track-nearest-players-and-locations.34888/",
+  "name": "CompassRadar - Plugin to track nearest players and locations",
+  "description": "Trace players and locations with compass",
+  "authors": [
+    "xX_andrescol_Xx"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/34/34888.jpg?1484596722",
+  "iconCid": "bafkreienipakknim464a5qmfqtgsrjsg7a7wylm3l4jsox3xqyb4rfbedi",
+  "numberOfDownloads": 274,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/compassradar-plugin-to-track-nearest-players-and-locations.34888/history",
+  "gitUrl": "https://github.com/andrescol24/CompassRadar",
+  "releaseDate": 1484593080000,
+  "updateDate": 1663636140000,
+  "versions": [
+    "1.10",
+    "1.11",
+    "1.19"
+  ]
+}

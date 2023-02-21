@@ -1,0 +1,25 @@
+{
+  "id": 89376,
+  "url": "https://www.spigotmc.org/resources/preventstabby-toggle-pvp.89376/",
+  "name": "PreventStabby (Toggle PvP)",
+  "description": "Modern, performant PvP toggle with pet and mount protection",
+  "authors": [
+    "YouHaveTrouble"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89376.jpg?1660476306",
+  "iconCid": "bafkreihjxz5bvqtljksxtx2wu253pkcns5gjbmiqjnbcsjit3paslsk4wi",
+  "numberOfDownloads": 462,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/preventstabby-toggle-pvp.89376/history",
+  "gitUrl": "https://github.com/YouHaveTrouble/PreventStabby",
+  "releaseDate": 1614001260000,
+  "updateDate": 1670185980000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

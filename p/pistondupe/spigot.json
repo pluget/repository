@@ -1,0 +1,30 @@
+{
+  "id": 107721,
+  "url": "https://www.spigotmc.org/resources/pistondupe.107721/",
+  "name": "PistonDupe",
+  "description": "Dupe for servers",
+  "authors": [
+    "Mrrafter_"
+  ],
+  "numberOfDownloads": 14,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pistondupe.107721/history",
+  "gitUrl": "https://github.com/MrRafter/PistonDupe",
+  "releaseDate": 1675114980000,
+  "updateDate": 1675114980000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

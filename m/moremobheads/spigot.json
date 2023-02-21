@@ -1,0 +1,32 @@
+{
+  "id": 73997,
+  "url": "https://www.spigotmc.org/resources/moremobheads.73997/",
+  "name": "MoreMobHeads",
+  "description": "Adds all of the mob heads as chance drops.",
+  "authors": [
+    "JoelYahwehOfWar"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/73/73997.jpg?1578041887",
+  "iconCid": "bafkreid7eoexaqbyfkqv4ygz3mkkhyhqwzc7nzeem4u75tekw4hcasyumq",
+  "numberOfDownloads": 71667,
+  "rating": 4.9,
+  "numberOfVotes": 13,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/moremobheads.73997/history",
+  "gitUrl": "https://github.com/JoelGodOfwar/MoreMobHeads",
+  "releaseDate": 1578038160000,
+  "updateDate": 1675456260000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

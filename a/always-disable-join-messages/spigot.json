@@ -1,0 +1,31 @@
+{
+  "id": 92115,
+  "url": "https://www.spigotmc.org/resources/adjm-always-disable-join-messages.92115/",
+  "name": "[ADJM] Always Disable Join Messages",
+  "description": "A simple way to disable all join & leave messages on your server.",
+  "authors": [
+    "Blacky62"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92115.jpg?1620401025",
+  "iconCid": "bafkreig77tx4fjqw4ax5o2vuhxdq7z64i2g6mctjtim543hoxcuwuezlwa",
+  "numberOfDownloads": 53,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/adjm-always-disable-join-messages.92115/history",
+  "releaseDate": 1620392040000,
+  "updateDate": 1676230140000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

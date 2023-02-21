@@ -1,0 +1,22 @@
+{
+  "id": 103918,
+  "url": "https://www.spigotmc.org/resources/simplefly.103918/",
+  "name": "SimpleFly",
+  "description": "Use the /fly command for your users.",
+  "authors": [
+    "EclipsesMC"
+  ],
+  "numberOfDownloads": 64,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplefly.103918/history",
+  "releaseDate": 1659307860000,
+  "updateDate": 1659321300000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12"
+  ]
+}

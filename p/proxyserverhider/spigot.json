@@ -1,0 +1,25 @@
+{
+  "id": 107404,
+  "url": "https://www.spigotmc.org/resources/proxyserverhider.107404/",
+  "name": "ProxyServerHider",
+  "description": "A Plugin To Hide Server From Port Scanners Without Using Firewalls!",
+  "authors": [
+    "Afif87123"
+  ],
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/proxyserverhider.107404/history",
+  "gitUrl": "https://github.com/Brad1944/ProxyServerHider/",
+  "releaseDate": 1673836680000,
+  "updateDate": 1673846460000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

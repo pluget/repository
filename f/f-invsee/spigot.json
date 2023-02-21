@@ -1,0 +1,31 @@
+{
+  "id": 102781,
+  "url": "https://www.spigotmc.org/resources/f-invsee.102781/",
+  "name": "F Invsee",
+  "description": "Inspect a player's inventory/armour/off-hand and ender chest with a custom gui / Finvsee",
+  "authors": [
+    "balustrada"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102781.jpg?1655813169",
+  "iconCid": "bafkreihctc466ktf2ef37ospi36o6gn2jmnho3loipjwqz4ppakfx6wx4e",
+  "numberOfDownloads": 355,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/f-invsee.102781/history",
+  "releaseDate": 1655809560000,
+  "updateDate": 1670267100000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

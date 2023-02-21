@@ -1,0 +1,32 @@
+{
+  "id": 102177,
+  "url": "https://www.spigotmc.org/resources/nyctophobia.102177/",
+  "name": "Nyctophobia",
+  "description": "Make players feel scared!",
+  "authors": [
+    "TimeCode"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102177.jpg?1653408622",
+  "iconCid": "bafkreicgkt2z5xrh77leb3s23qfx5bsxp7t5yycor6amxnc6fv3ufyi37e",
+  "numberOfDownloads": 272,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nyctophobia.102177/history",
+  "gitUrl": "https://github.com/TimeCodings/Nyctophobia",
+  "releaseDate": 1653324360000,
+  "updateDate": 1659617580000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

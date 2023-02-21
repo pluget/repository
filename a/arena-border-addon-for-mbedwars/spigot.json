@@ -1,0 +1,32 @@
+{
+  "id": 106051,
+  "url": "https://www.spigotmc.org/resources/arena-border-addon-for-mbedwars.106051/",
+  "name": "Arena Border Addon for MBedwars",
+  "description": "Add border on arena!",
+  "authors": [
+    "dejwideek"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106051.jpg?1667402117",
+  "iconCid": "bafkreibwoaer3hqaglcneb2tgpl7ympujutty6f4kj6zkx2rs36tgmhvti",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/arena-border-addon-for-mbedwars.106051/history",
+  "gitUrl": "https://github.com/dejwideek-dev/MBedwarsArenaBorderAddon",
+  "releaseDate": 1667398320000,
+  "updateDate": 1672322160000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

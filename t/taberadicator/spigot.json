@@ -1,0 +1,23 @@
+{
+  "id": 105880,
+  "url": "https://www.spigotmc.org/resources/taberadicator-customize-the-tab-completition-full-regex-match-custom-deny-message.105880/",
+  "name": "TabEradicator | Customize the Tab Completition | Full Regex Match | Custom deny message",
+  "description": "Block undesired tab-completion with this plugin",
+  "authors": [
+    "Plug_And_Cree"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105880.jpg?1666537505",
+  "iconCid": "bafkreib5ftn2exw54ik76y5rl6c4bqxtc66tiiepklwofwkmffl2b7by2u",
+  "numberOfDownloads": 60,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/taberadicator-customize-the-tab-completition-full-regex-match-custom-deny-message.105880/history",
+  "releaseDate": 1666463940000,
+  "updateDate": 1666464540000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

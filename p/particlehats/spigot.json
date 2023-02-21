@@ -1,0 +1,32 @@
+{
+  "id": 1007,
+  "url": "https://www.spigotmc.org/resources/particlehats.1007/",
+  "name": "ParticleHats",
+  "description": "1.8 - 1.19 | A highly customizable particle plugin",
+  "authors": [
+    "MediusEcho"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/1/1007.jpg?1418432151",
+  "iconCid": "bafkreiejsqrohd4p4nxxg5htxtryqa26hfrwhpkco3dfx4qowsflnrt6ca",
+  "numberOfDownloads": 38010,
+  "rating": 4.7,
+  "numberOfVotes": 81,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/particlehats.1007/history",
+  "gitUrl": "https://github.com/MediusEcho/ParticleHats",
+  "releaseDate": 1409195100000,
+  "updateDate": 1675720680000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

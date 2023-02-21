@@ -1,0 +1,20 @@
+{
+  "id": 106605,
+  "url": "https://www.spigotmc.org/resources/customitems.106605/",
+  "name": "CustomItems",
+  "description": "Create custom items and skulls for your server",
+  "authors": [
+    "GavvyDizzle"
+  ],
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/customitems.106605/history",
+  "gitUrl": "https://github.com/GavvyDizzle/CustomItems",
+  "releaseDate": 1670294820000,
+  "updateDate": 1670294820000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

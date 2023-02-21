@@ -1,0 +1,33 @@
+{
+  "id": 68965,
+  "url": "https://www.spigotmc.org/resources/lpc-chat-formatter-1-7-10-1-19.68965/",
+  "name": "LPC - Chat Formatter [1.7.10 - 1.19]",
+  "description": "A chat formatting plugin for LuckPerms.",
+  "authors": [
+    "wikmor"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/68/68965.jpg?1589997047",
+  "iconCid": "bafkreibtsdsxvl3f5ir6myv3ww26xx23xmnwhjh4nfajw6iuiygfrezr2i",
+  "numberOfDownloads": 147496,
+  "rating": 4.7,
+  "numberOfVotes": 97,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lpc-chat-formatter-1-7-10-1-19.68965/history",
+  "gitUrl": "https://github.com/wikmor/LPC",
+  "releaseDate": 1562161500000,
+  "updateDate": 1657566360000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

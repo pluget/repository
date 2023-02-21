@@ -1,0 +1,31 @@
+{
+  "id": 1056,
+  "url": "https://www.spigotmc.org/resources/magic.1056/",
+  "name": "Magic",
+  "description": "Add fully customizable magic wands, items, spells, mobs and more to your server!",
+  "authors": [
+    "NathanWolf"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/1/1056.jpg?1458670918",
+  "iconCid": "bafkreigjdnpuoanrq2fby5q6di4sdrghlbdmofq4au3mwdviuc27jrw6iq",
+  "numberOfDownloads": 199335,
+  "rating": 4.9,
+  "numberOfVotes": 265,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/magic.1056/history",
+  "gitUrl": "https://github.com/elBukkit/MagicPlugin",
+  "releaseDate": 1676417760000,
+  "updateDate": 1676417760000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

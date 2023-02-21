@@ -1,0 +1,21 @@
+{
+  "id": 108054,
+  "url": "https://www.spigotmc.org/resources/anti-admin.108054/",
+  "name": "Anti-Admin",
+  "description": "\"AntiAdmin\" is a Minecraft plugin designed to publicize admin abuse.",
+  "authors": [
+    "Mitlit"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108054.jpg?1676630651",
+  "iconCid": "bafkreihbgjuaua43uzqqp2pn3xb55jg7eipnodgjksbjthwav7bohr2fxu",
+  "numberOfDownloads": 9,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anti-admin.108054/history",
+  "gitUrl": "https://github.com/ThatAlbaPerson/AntiAdmin",
+  "releaseDate": 1676715120000,
+  "updateDate": 1676715120000,
+  "versions": [
+    "1.19"
+  ]
+}

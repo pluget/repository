@@ -1,0 +1,21 @@
+{
+  "id": 106712,
+  "url": "https://www.spigotmc.org/resources/cinematics.106712/",
+  "name": "Cinematics",
+  "description": "Provide support on Spigot servers to Cinematics mod.",
+  "authors": [
+    "TheJokerDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106712.jpg?1670908235",
+  "iconCid": "bafkreibn4ghvq5lilexuguzkgxzm65jkmeeeao6m65y4tyuw6gj2xeydde",
+  "numberOfDownloads": 41,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cinematics.106712/history",
+  "gitUrl": "https://github.com/TheJokerDev/Cinematics-SPIGOT",
+  "releaseDate": 1670903760000,
+  "updateDate": 1670904720000,
+  "versions": [
+    "1.19"
+  ]
+}

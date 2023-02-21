@@ -1,0 +1,21 @@
+{
+  "id": 56489,
+  "url": "https://www.spigotmc.org/resources/insights-super-configurable-region-limits-asynchronous-scans-1-19-2.56489/",
+  "name": "Insights - Super configurable (region) Limits + Asynchronous Scans [1.19.2]",
+  "description": "Create group limits | Permission based | Extremely fast region scans | Many region addon support!",
+  "authors": [
+    "FrankHeijden"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/56/56489.jpg?1589045370",
+  "iconCid": "bafkreidcyxhbd3o64gbevyljbfmlg3enmf5jov3kpi6vgat5shb25t3mvy",
+  "numberOfDownloads": 27567,
+  "rating": 5,
+  "numberOfVotes": 42,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/insights-super-configurable-region-limits-asynchronous-scans-1-19-2.56489/history",
+  "gitUrl": "https://github.com/InsightsPlugin/Insights",
+  "releaseDate": 1525633500000,
+  "updateDate": 1665064800000,
+  "versions": [
+    "1.19"
+  ]
+}

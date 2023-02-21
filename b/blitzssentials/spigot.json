@@ -1,0 +1,23 @@
+{
+  "id": 96327,
+  "url": "https://www.spigotmc.org/resources/blitzssentials.96327/",
+  "name": "BlitzSsentials",
+  "description": "The BlitzSsentials you need!",
+  "authors": [
+    "BlitzTDM"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96327.jpg?1632968856",
+  "iconCid": "bafkreiek6rssctp24y5m3omy6s7o6z4kbvwpewlqmlnqwtndcjamxxjo74",
+  "numberOfDownloads": 366,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blitzssentials.96327/history",
+  "gitUrl": "https://github.com/BlitzTDM/Blitz-ssentials/",
+  "releaseDate": 1632007440000,
+  "updateDate": 1659409800000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

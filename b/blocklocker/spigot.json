@@ -1,0 +1,26 @@
+{
+  "id": 3268,
+  "url": "https://www.spigotmc.org/resources/blocklocker.3268/",
+  "name": "BlockLocker",
+  "description": "Protect chests, doors, etc. using signs. UUID compatible.",
+  "authors": [
+    "rutgerkok"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/3/3268.jpg?1421609642",
+  "iconCid": "bafkreidxu67m2urjl4n4ssbf3likugrmumqgyzl5kl22atflz3klybel2m",
+  "numberOfDownloads": 225330,
+  "rating": 4.7,
+  "numberOfVotes": 64,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blocklocker.3268/history",
+  "gitUrl": "https://github.com/rutgerkok/BlockLocker",
+  "releaseDate": 1421605980000,
+  "updateDate": 1659113280000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

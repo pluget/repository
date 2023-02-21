@@ -1,0 +1,21 @@
+{
+  "id": 105770,
+  "url": "https://www.spigotmc.org/resources/playerplot-updated.105770/",
+  "name": "PlayerPlot [UPDATED]",
+  "description": "Allows players to claim plots in vanilla worlds.",
+  "authors": [
+    "Whitescan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105770.jpg?1665776677",
+  "iconCid": "bafkreibvfvhwyxf4xhj6d2weos32mi5mlzls5y4nht77mlxbwsc32p76ve",
+  "numberOfDownloads": 313,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playerplot-updated.105770/history",
+  "gitUrl": "https://github.com/Whitescan/PlayerPlot",
+  "releaseDate": 1676907960000,
+  "updateDate": 1676907960000,
+  "versions": [
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 86155,
+  "url": "https://www.spigotmc.org/resources/npunish.86155/",
+  "name": "nPunish",
+  "description": "A simple lightweight punishment system",
+  "authors": [
+    "TheNatrix01"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/86/86155.jpg?1606435411",
+  "iconCid": "bafkreibdyvwnthxcseuhuniv3egayh2nuxi6w2bivye6uriaprjvmxtphq",
+  "numberOfDownloads": 349,
+  "rating": 3.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/npunish.86155/history",
+  "releaseDate": 1606431420000,
+  "updateDate": 1658182260000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

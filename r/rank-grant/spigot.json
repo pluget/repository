@@ -1,0 +1,30 @@
+{
+  "id": 97146,
+  "url": "https://www.spigotmc.org/resources/rank-grant.97146/",
+  "name": "Rank Grant",
+  "description": "A plugin that can grant players ranks or permissions with an easy to use GUI",
+  "authors": [
+    "Tiskua"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97146.jpg?1649544223",
+  "iconCid": "bafkreick7sil6t6lv3z2avlw7xma2uel5cxcrfb36whewohflllo5oovdi",
+  "numberOfDownloads": 606,
+  "rating": 4.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rank-grant.97146/history",
+  "releaseDate": 1635204660000,
+  "updateDate": 1659733980000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

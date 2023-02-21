@@ -1,0 +1,27 @@
+{
+  "id": 99737,
+  "url": "https://www.spigotmc.org/resources/pronounmc.99737/",
+  "name": "PronounMC",
+  "description": "A Minecraft plugin for sharing pronouns.",
+  "authors": [
+    "AceKiron"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99737.jpg?1660417480",
+  "iconCid": "bafkreicmmghkzxd52jfopsijn3dnb7xj3t6hilv75uesyq3gq2faxmmtwa",
+  "numberOfDownloads": 332,
+  "rating": 3.8,
+  "numberOfVotes": 17,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pronounmc.99737/history",
+  "gitUrl": "https://github.com/AceKiron/pronounmc",
+  "releaseDate": 1643912160000,
+  "updateDate": 1667579280000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

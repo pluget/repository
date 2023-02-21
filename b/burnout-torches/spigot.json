@@ -1,0 +1,21 @@
+{
+  "id": 77125,
+  "url": "https://www.spigotmc.org/resources/burnout-torches.77125/",
+  "name": "Burnout Torches",
+  "description": "Have torches burn out and disappear after a set time!",
+  "authors": [
+    "BananaFalls"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/77/77125.jpg?1643572109",
+  "iconCid": "bafkreifelh43ogze7zpbagl6ov5hglsyhhv32dhnevnhfoxryohe4qapwq",
+  "numberOfDownloads": 309,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/burnout-torches.77125/history",
+  "gitUrl": "https://github.com/maxwellward/BurnoutTorches",
+  "releaseDate": 1586298900000,
+  "updateDate": 1670616600000,
+  "versions": [
+    "1.19"
+  ]
+}

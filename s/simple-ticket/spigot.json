@@ -1,0 +1,23 @@
+{
+  "id": 98347,
+  "url": "https://www.spigotmc.org/resources/simple-ticket.98347/",
+  "name": "Simple Ticket",
+  "description": "Making Ticketing Easy!",
+  "authors": [
+    "BDX_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98347.jpg?1639347209",
+  "iconCid": "bafkreifa2jgc4taw5ou4sjthjowujnqvlkwlfydw4zgdyd4vcirxl5hvpe",
+  "numberOfDownloads": 299,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-ticket.98347/history",
+  "gitUrl": "https://github.com/BDXGaming/Simple-Ticket-Plugin",
+  "releaseDate": 1639342440000,
+  "updateDate": 1659792900000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

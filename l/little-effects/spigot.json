@@ -1,0 +1,31 @@
+{
+  "id": 58049,
+  "url": "https://www.spigotmc.org/resources/little-effects.58049/",
+  "name": "Little Effects",
+  "description": "Short duration potion effects when walking near blocks!",
+  "authors": [
+    "AuroraLS3"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/58/58049.jpg?1578326308",
+  "iconCid": "bafkreicmezvakbapapdx5ezzbaslgn4dmtptiprggydfvrqjsb7nxppug4",
+  "numberOfDownloads": 352,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/little-effects.58049/history",
+  "gitUrl": "https://github.com/AuroraLS3/Little-Things",
+  "releaseDate": 1529782140000,
+  "updateDate": 1662109680000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.19"
+  ]
+}

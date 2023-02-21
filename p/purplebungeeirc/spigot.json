@@ -1,0 +1,18 @@
+{
+  "id": 3017,
+  "url": "https://www.spigotmc.org/resources/purplebungeeirc.3017/",
+  "name": "PurpleBungeeIRC",
+  "description": "Based on PurpleIRC. Provides IRC chat relay for BungeeCord proxies.",
+  "authors": [
+    "cnaude"
+  ],
+  "numberOfDownloads": 1437,
+  "rating": 4.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/purplebungeeirc.3017/history",
+  "releaseDate": 1420773480000,
+  "updateDate": 1674490260000,
+  "versions": [
+    "1.16"
+  ]
+}

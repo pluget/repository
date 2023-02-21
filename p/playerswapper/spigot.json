@@ -1,0 +1,24 @@
+{
+  "id": 105196,
+  "url": "https://www.spigotmc.org/resources/playerswapper-switch-positions-with-your-enemy.105196/",
+  "name": "PlayerSwapper - Switch positions with your enemy!",
+  "description": "PlayerSwitch, PlayerSwapper, Switch positions, kitpvp, pvp, factions",
+  "authors": [
+    "iVirus"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105196.jpg?1662822157",
+  "iconCid": "bafkreibam2jwgt7vqfazll676gr2qeplbgvea6pqpoe7lrwwgomuveb5ha",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playerswapper-switch-positions-with-your-enemy.105196/history",
+  "gitUrl": "https://github.com/HighVirus/PlayerSwapper",
+  "releaseDate": 1662818520000,
+  "updateDate": 1662818520000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

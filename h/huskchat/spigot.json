@@ -1,0 +1,24 @@
+{
+  "id": 94496,
+  "url": "https://www.spigotmc.org/resources/huskchat.94496/",
+  "name": "HuskChat",
+  "description": "A simple & customizable no-frills Minecraft proxy chat system",
+  "authors": [
+    "William27528"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94496.jpg?1674425968",
+  "iconCid": "bafkreiclmpzfkv5qwe2fbtwolu4g2n5qtuybu7zfo4pkqt2lkezitpwubm",
+  "numberOfDownloads": 983,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/huskchat.94496/history",
+  "gitUrl": "https://github.com/WiIIiam278/HuskChat/",
+  "releaseDate": 1626793980000,
+  "updateDate": 1675277580000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

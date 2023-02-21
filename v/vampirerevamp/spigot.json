@@ -1,0 +1,25 @@
+{
+  "id": 75479,
+  "url": "https://www.spigotmc.org/resources/vampirerevamp.75479/",
+  "name": "VampireRevamp",
+  "description": "Continuation of Vampire plugin with some new features.",
+  "authors": [
+    "Mowstyl"
+  ],
+  "numberOfDownloads": 4024,
+  "rating": 4.8,
+  "numberOfVotes": 35,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/vampirerevamp.75479/history",
+  "gitUrl": "https://github.com/Mowstyl/Vampire",
+  "releaseDate": 1582507740000,
+  "updateDate": 1661977020000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

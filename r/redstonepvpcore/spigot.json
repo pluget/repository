@@ -1,0 +1,32 @@
+{
+  "id": 59657,
+  "url": "https://www.spigotmc.org/resources/redstonepvpcore.59657/",
+  "name": "RedstonePvPCore",
+  "description": "Arabic based redstone pvp core",
+  "authors": [
+    "Sandwicha"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/59/59657.jpg?1660292795",
+  "iconCid": "bafkreidheiikyui763joq72udnzopwqtmqzbdzshsl3swrwvgxda5o6kt4",
+  "numberOfDownloads": 3101,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/redstonepvpcore.59657/history",
+  "gitUrl": "https://github.com/TheGaming999/RedstonePvPCore",
+  "releaseDate": 1533822060000,
+  "updateDate": 1660139160000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

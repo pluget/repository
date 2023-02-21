@@ -1,0 +1,28 @@
+{
+  "id": 81,
+  "url": "https://www.spigotmc.org/resources/libs-disguises-free.81/",
+  "name": "Lib's Disguises [Free]",
+  "description": "Lib's Disguises, the premier disguise plugin",
+  "authors": [
+    "libraryaddict"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/0/81.jpg?1587350427",
+  "iconCid": "bafkreicmr6v5ew3jn7xyaid3upeuzo3lvdr74xkg7hz53pxy7sbohxjqe4",
+  "numberOfDownloads": 624004,
+  "rating": 4.3,
+  "numberOfVotes": 228,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/libs-disguises-free.81/history",
+  "gitUrl": "https://github.com/libraryaddict/LibsDisguises/",
+  "releaseDate": 1368821940000,
+  "updateDate": 1675462500000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

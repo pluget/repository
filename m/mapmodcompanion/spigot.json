@@ -1,0 +1,32 @@
+{
+  "id": 105128,
+  "url": "https://www.spigotmc.org/resources/mapmodcompanion.105128/",
+  "name": "MapModCompanion",
+  "description": "Fixes Multi-world detection by simulating mod presence on the server side",
+  "authors": [
+    "turikhay"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105128.jpg?1662892117",
+  "iconCid": "bafkreifeihvolcznbmd5z6asg25nvdjeavmi37yel3vp6jfzrbowxai2pa",
+  "numberOfDownloads": 294,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mapmodcompanion.105128/history",
+  "gitUrl": "https://github.com/turikhay/MapModCompanion",
+  "releaseDate": 1662551580000,
+  "updateDate": 1663588200000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

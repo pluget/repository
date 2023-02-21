@@ -1,0 +1,26 @@
+{
+  "id": 101057,
+  "url": "https://www.spigotmc.org/resources/essentialsx-selectors-a-p-r-addon.101057/",
+  "name": "EssentialsX Selectors: @a, @p, @r (Addon)",
+  "description": "This minecraft plugin adds @a, @p, and @r to EssentialsX Commands! Also adds \"@a[thing=value]\"!",
+  "authors": [
+    "DogLoverPink"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101057.jpg?1648657343",
+  "iconCid": "bafkreifurhk4lhweo3kk25vxhqqocmbfnh2ukitlfur4uudo2ujwla6tmm",
+  "numberOfDownloads": 1116,
+  "rating": 4.4,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/essentialsx-selectors-a-p-r-addon.101057/history",
+  "gitUrl": "https://github.com/DogLoverPink/EssentialsX-Target-Selectors",
+  "releaseDate": 1648653720000,
+  "updateDate": 1673551320000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.13",
+    "1.16",
+    "1.18",
+    "1.19"
+  ]
+}

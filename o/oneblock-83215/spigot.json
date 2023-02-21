@@ -1,0 +1,32 @@
+{
+  "id": 83215,
+  "url": "https://www.spigotmc.org/resources/oneblock.83215/",
+  "name": "OneBlock",
+  "description": "An attempt to recreate the OneBlock minigame.",
+  "authors": [
+    "MrMarL"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83215.jpg?1598549617",
+  "iconCid": "bafkreieqlb5vrrwcex5e3ulemp2svuq3fxnigdusw3sbkrj4sqkadqfzgq",
+  "numberOfDownloads": 214985,
+  "rating": 4.1,
+  "numberOfVotes": 36,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/oneblock.83215/history",
+  "gitUrl": "https://github.com/MrMarL/Oneblock",
+  "releaseDate": 1598545980000,
+  "updateDate": 1668088320000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

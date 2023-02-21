@@ -1,0 +1,27 @@
+{
+  "id": 64064,
+  "url": "https://www.spigotmc.org/resources/farmassistreboot-1-13-1-19-3.64064/",
+  "name": "FarmAssistReboot [1.13-1.19.3]",
+  "description": "AutoReplant crops",
+  "authors": [
+    "sarhatabaot"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/64/64064.jpg?1547663969",
+  "iconCid": "bafkreidetdxe6eyrkonzxplh6acgczyvucsw2gadhh2vuptz6iazqviksa",
+  "numberOfDownloads": 6885,
+  "rating": 4.2,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/farmassistreboot-1-13-1-19-3.64064/history",
+  "gitUrl": "https://github.com/sarhatabaot/FarmAssistReboot",
+  "releaseDate": 1547660340000,
+  "updateDate": 1676186400000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

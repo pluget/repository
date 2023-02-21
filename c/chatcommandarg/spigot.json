@@ -1,0 +1,27 @@
+{
+  "id": 98135,
+  "url": "https://www.spigotmc.org/resources/chatcommandarg-expand-your-no-menu-plugin-1-12-1-19.98135/",
+  "name": "ChatCommandArg | Expand your no-menu plugin | 1.12-1.19",
+  "description": "Allow your player send command arg in chat without complete the command.",
+  "authors": [
+    "PQguanfang"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98135.jpg?1638705805",
+  "iconCid": "bafkreie4h5b3rk2d6ypzzc4bgtztxqwsvdij7kbneaq2hvovekmeaz26re",
+  "numberOfDownloads": 109,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatcommandarg-expand-your-no-menu-plugin-1-12-1-19.98135/history",
+  "releaseDate": 1638700080000,
+  "updateDate": 1665662340000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 100458,
+  "url": "https://www.spigotmc.org/resources/1-16-1-19-3-leashplayers.100458/",
+  "name": "[1.16 - 1.19.3] LeashPlayers",
+  "description": "Allow to use lead on players!",
+  "authors": [
+    "WMGameLive"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100458.jpg?1646382841",
+  "iconCid": "bafkreicyvzhdkduyjwgvt54dffx2qyj7cgkbp6zmme664lyboho73cewke",
+  "numberOfDownloads": 993,
+  "rating": 4,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/1-16-1-19-3-leashplayers.100458/history",
+  "gitUrl": "https://github.com/WMGameLive/LeashPlayers",
+  "releaseDate": 1646379180000,
+  "updateDate": 1670968920000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

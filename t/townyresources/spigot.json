@@ -1,0 +1,24 @@
+{
+  "id": 107468,
+  "url": "https://www.spigotmc.org/resources/townyresources.107468/",
+  "name": "TownyResources",
+  "description": "TownyResources adds resources mechanics not unlike Civilization Games.",
+  "authors": [
+    "LlmDl"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107468.jpg?1674084569",
+  "iconCid": "bafkreieglw5vc4ae52ek72bbou74d45gtcoekmfzeer4noptx4txiymsnu",
+  "numberOfDownloads": 112,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/townyresources.107468/history",
+  "gitUrl": "https://github.com/TownyAdvanced/TownyResources",
+  "releaseDate": 1674080880000,
+  "updateDate": 1675287180000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

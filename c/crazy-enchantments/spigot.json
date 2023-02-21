@@ -1,0 +1,23 @@
+{
+  "id": 16470,
+  "url": "https://www.spigotmc.org/resources/crazy-enchantments.16470/",
+  "name": "Crazy Enchantments",
+  "description": "An enchantments plugin that adds 80+ enchantments and cool features to your server.",
+  "authors": [
+    "BadBones69"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/16/16470.jpg?1670988367",
+  "iconCid": "bafkreiapc5ipal2urxlqecayrro5j4xrpiwfu3gbyk5cstgcq7hxpd6wsu",
+  "numberOfDownloads": 240606,
+  "rating": 4.6,
+  "numberOfVotes": 521,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/crazy-enchantments.16470/history",
+  "gitUrl": "https://github.com/Crazy-Crew/Crazy-Enchantments/",
+  "releaseDate": 1451657220000,
+  "updateDate": 1676162460000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

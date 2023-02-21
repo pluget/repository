@@ -1,0 +1,23 @@
+{
+  "id": 104404,
+  "url": "https://www.spigotmc.org/resources/gencore.104404/",
+  "name": "GenCore+",
+  "description": "This plugin adds infinite possibilities while creating your generator server!",
+  "authors": [
+    "FireDrxgon_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104404.jpg?1660113921",
+  "iconCid": "bafkreiglqwb3wfppztpecsawepme2doqiv76g2zh4ljnv3cehchaocm64m",
+  "numberOfDownloads": 231,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gencore.104404/history",
+  "gitUrl": "https://github.com/oShadxw/GenCorePlus",
+  "releaseDate": 1660079640000,
+  "updateDate": 1660280220000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

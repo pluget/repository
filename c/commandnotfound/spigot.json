@@ -1,0 +1,19 @@
+{
+  "id": 105627,
+  "url": "https://www.spigotmc.org/resources/commandnotfound.105627/",
+  "name": "CommandNotFound",
+  "description": "A simple customisable \"Command not found\" plugin",
+  "authors": [
+    "mmboy"
+  ],
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/commandnotfound.105627/history",
+  "gitUrl": "https://github.com/Meindo/CommandNotFound",
+  "releaseDate": 1664957940000,
+  "updateDate": 1664957940000,
+  "versions": [
+    "1.19"
+  ]
+}

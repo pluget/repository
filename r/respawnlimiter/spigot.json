@@ -1,0 +1,21 @@
+{
+  "id": 106469,
+  "url": "https://www.spigotmc.org/resources/respawnlimiter.106469/",
+  "name": "RespawnLimiter",
+  "description": "limits gameplay strategies based on easy player respawn",
+  "authors": [
+    "Rial"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106469.jpg?1669575626",
+  "iconCid": "bafkreigj2fhetjy3vy4tcf35y2y5udj6qncs5qxlbv6wtljhtlcwnfpzu4",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/respawnlimiter.106469/history",
+  "gitUrl": "https://github.com/uprial/respawnlimiter",
+  "releaseDate": 1669571940000,
+  "updateDate": 1669571940000,
+  "versions": [
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 100504,
+  "url": "https://www.spigotmc.org/resources/savagedeathban.100504/",
+  "name": "SavageDeathBan",
+  "description": "Temporarily Ban Players on Death",
+  "authors": [
+    "timsavage"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100504.jpg?1646536044",
+  "iconCid": "bafkreia5wq2ge5qfll2cgic2iud6hlnfqx27ftxpuqppoebxkzsbgjkic4",
+  "numberOfDownloads": 140,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/savagedeathban.100504/history",
+  "gitUrl": "https://github.com/tim-savage/SavageDeathBan",
+  "releaseDate": 1646531940000,
+  "updateDate": 1662427020000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

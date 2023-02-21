@@ -1,0 +1,27 @@
+{
+  "id": 103179,
+  "url": "https://www.spigotmc.org/resources/armormechanics-custom-armor-for-your-guns.103179/",
+  "name": "ArmorMechanics | Custom Armor for your Guns",
+  "description": "Simple custom armor addon for WeaponMechanics",
+  "authors": [
+    "CJCrafter1"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103179.jpg?1657168530",
+  "iconCid": "bafkreibf2oj6rjd7w76nmfctunr2v4rffgnaahagwh6z3sfze4mw4q5lz4",
+  "numberOfDownloads": 606,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/armormechanics-custom-armor-for-your-guns.103179/history",
+  "gitUrl": "https://github.com/WeaponMechanics/ArmorMechanics",
+  "releaseDate": 1657164900000,
+  "updateDate": 1676244840000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

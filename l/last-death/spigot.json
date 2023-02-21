@@ -1,0 +1,21 @@
+{
+  "id": 107732,
+  "url": "https://www.spigotmc.org/resources/last-death.107732/",
+  "name": "Last Death",
+  "description": "A Minecraft plugin that displays the player's last death location in chat and through a command.",
+  "authors": [
+    "TerroFlys"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107732.jpg?1675169882",
+  "iconCid": "bafkreiahpib5tihd2ryaycbs35vhdunh2vob5ktzbi7xdf5maiaocftpo4",
+  "numberOfDownloads": 69,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/last-death.107732/history",
+  "gitUrl": "https://github.com/TerroFlys/LastDeathPluginSpigot",
+  "releaseDate": 1675166040000,
+  "updateDate": 1675166040000,
+  "versions": [
+    "1.19"
+  ]
+}

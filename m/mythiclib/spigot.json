@@ -1,0 +1,25 @@
+{
+  "id": 90306,
+  "url": "https://www.spigotmc.org/resources/mythiclib.90306/",
+  "name": "MythicLib",
+  "description": "Dependency for MMOItems and MMOCore",
+  "authors": [
+    "Indyuce"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90306.jpg?1673205175",
+  "iconCid": "bafkreiev6ictzsvmpyh6vqrimmofkca3rzqyhz43t3gourxwlniso3mncu",
+  "numberOfDownloads": 19662,
+  "rating": 3.1,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mythiclib.90306/history",
+  "releaseDate": 1616084820000,
+  "updateDate": 1671812340000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 108085,
+  "url": "https://www.spigotmc.org/resources/simplepets-vault-addon.108085/",
+  "name": "[SimplePets] Vault Addon",
+  "description": "[SimplePetsAddon] Hooks into the Vault plugin To make it possible to buy pets with in-game money",
+  "authors": [
+    "brainsynder"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108085.jpg?1676738582",
+  "iconCid": "bafkreie6e53w3z3ysztkn353uyrckeibjs3nlfgntwtwpg4zmcnxcuxgfi",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplepets-vault-addon.108085/history",
+  "gitUrl": "https://github.com/BSDevelopers/VaultAddon",
+  "releaseDate": 1676734920000,
+  "updateDate": 1676734920000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

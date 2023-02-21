@@ -1,0 +1,31 @@
+{
+  "id": 97522,
+  "url": "https://www.spigotmc.org/resources/lemoncommonlib-1-7-1-19-2.97522/",
+  "name": "LemonCommonLib | [1.7-1.19.2]",
+  "description": "A collection of libraries.",
+  "authors": [
+    "LemonyPancakes"
+  ],
+  "numberOfDownloads": 7351,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lemoncommonlib-1-7-1-19-2.97522/history",
+  "gitUrl": "https://github.com/LemonyPancakes/LemonCommonLib",
+  "releaseDate": 1636535460000,
+  "updateDate": 1660216200000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

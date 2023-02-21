@@ -1,0 +1,32 @@
+{
+  "id": 94870,
+  "url": "https://www.spigotmc.org/resources/mc-auth-with-social-link.94870/",
+  "name": "MC-Auth with Social Link",
+  "description": "Fork of MC-Auth with social link support",
+  "authors": [
+    "Gdame"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94870.jpg?1650713170",
+  "iconCid": "bafkreierf6xbyrgeg2w4qt72wcsefo5ltkuwihtj2to2p4c4zgrnuawa6e",
+  "numberOfDownloads": 7160,
+  "rating": 4.8,
+  "numberOfVotes": 29,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mc-auth-with-social-link.94870/history",
+  "gitUrl": "https://github.com/bivashy/MC-Auth-with-Link/",
+  "releaseDate": 1627810260000,
+  "updateDate": 1658494680000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

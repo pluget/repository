@@ -1,0 +1,32 @@
+{
+  "id": 103942,
+  "url": "https://www.spigotmc.org/resources/disguiseapi.103942/",
+  "name": "DisguiseAPI",
+  "description": "A library for changing skins easily.",
+  "authors": [
+    "itspinger"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103942.jpg?1659384117",
+  "iconCid": "bafkreidxxw4asitp5lcbr7km7qbr2drghyntafptfk5gbcatcn473vruqy",
+  "numberOfDownloads": 408,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/disguiseapi.103942/history",
+  "gitUrl": "https://github.com/itspinger/DisguiseAPI",
+  "releaseDate": 1659380460000,
+  "updateDate": 1665415800000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

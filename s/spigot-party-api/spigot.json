@@ -1,0 +1,33 @@
+{
+  "id": 39751,
+  "url": "https://www.spigotmc.org/resources/spigot-party-api-for-party-and-friends.39751/",
+  "name": "Spigot Party API for Party and Friends",
+  "description": "Provides an API for spigot plugins to access informations about Parties",
+  "authors": [
+    "simonsator"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/39/39751.jpg?1497973317",
+  "iconCid": "bafkreieujxqokmfwnddclqx5h6istl3o67g4776knn7alorwz6gihym4o4",
+  "numberOfDownloads": 848,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/spigot-party-api-for-party-and-friends.39751/history",
+  "gitUrl": "https://github.com/Simonsator/Party-API-For-Spigot",
+  "releaseDate": 1492621320000,
+  "updateDate": 1661707140000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

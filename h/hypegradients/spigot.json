@@ -1,0 +1,24 @@
+{
+  "id": 99423,
+  "url": "https://www.spigotmc.org/resources/hypegradients-make-your-server-more-colorful.99423/",
+  "name": "HypeGradients - Make your server more colorful",
+  "description": "Use gradients everywhere, fast and easy",
+  "authors": [
+    "PINGUINULROMANAS"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99423.jpg?1642889018",
+  "iconCid": "bafkreidsvlvrcvqihbwmfayk2ayp2jvarsu73afcln4pv2qojpzbu52hvm",
+  "numberOfDownloads": 86,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hypegradients-make-your-server-more-colorful.99423/history",
+  "gitUrl": "https://github.com/zippo-store/HypeGradients",
+  "releaseDate": 1642885380000,
+  "updateDate": 1664626680000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

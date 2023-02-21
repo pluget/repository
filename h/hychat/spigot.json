@@ -1,0 +1,21 @@
+{
+  "id": 106591,
+  "url": "https://www.spigotmc.org/resources/hychat.106591/",
+  "name": "HyChat",
+  "description": "HyChat, a lightweight chat formatting paper plugin.",
+  "authors": [
+    "xHyroM"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106591.jpg?1670254544",
+  "iconCid": "bafkreifpyxljk6izcle5alyp7jdyevqldrumls7eiwhkxefeza7v7ojjxu",
+  "numberOfDownloads": 49,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hychat.106591/history",
+  "gitUrl": "https://github.com/xHyroM/HyChat",
+  "releaseDate": 1670250900000,
+  "updateDate": 1670250900000,
+  "versions": [
+    "1.19"
+  ]
+}

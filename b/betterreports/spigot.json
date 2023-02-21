@@ -1,0 +1,24 @@
+{
+  "id": 83689,
+  "url": "https://www.spigotmc.org/resources/betterreports-discord-support.83689/",
+  "name": "BetterReports | Discord Support",
+  "description": "Simple reporting plugin with Discord webhook customisation!",
+  "authors": [
+    "Austech"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83689.jpg?1599903211",
+  "iconCid": "bafkreiarmu5g3dbvekqlycmowxqtk7wqb2ibc63gk5udwweqf43fe3oygu",
+  "numberOfDownloads": 4534,
+  "rating": 4.7,
+  "numberOfVotes": 25,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterreports-discord-support.83689/history",
+  "gitUrl": "https://github.com/AusTechDev/BetterReports",
+  "releaseDate": 1599566040000,
+  "updateDate": 1671587340000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.18",
+    "1.19"
+  ]
+}

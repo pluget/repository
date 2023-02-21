@@ -1,0 +1,32 @@
+{
+  "id": 106309,
+  "url": "https://www.spigotmc.org/resources/random-server-motd-1-8-1-19.106309/",
+  "name": "Random Server MOTD [1.8 - 1.19]",
+  "description": "This plugin changes the server modt every time you refresh it! (100% Customizable)",
+  "authors": [
+    "MaximDe"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106309.jpg?1668763627",
+  "iconCid": "bafkreifylt4itlzvoelnxegobndy6ok3rk756yyzf5iltu63impux2faoi",
+  "numberOfDownloads": 93,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/random-server-motd-1-8-1-19.106309/history",
+  "gitUrl": "https://github.com/JavaDevMC/RandomMOTD",
+  "releaseDate": 1668758340000,
+  "updateDate": 1668846840000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

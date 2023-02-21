@@ -1,0 +1,32 @@
+{
+  "id": 85332,
+  "url": "https://www.spigotmc.org/resources/ultracolor-end-of-life.85332/",
+  "name": "UltraColor [END OF LIFE]",
+  "description": "Chat and name color plugin with hex color and format support!",
+  "authors": [
+    "UltimateGamer200"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85332.jpg?1604114690",
+  "iconCid": "bafkreiccjonm5yesyi7gpgl7lahj7seu2fu3fqit4qe3ofmkpozkujo2e4",
+  "numberOfDownloads": 6236,
+  "rating": 5,
+  "numberOfVotes": 17,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ultracolor-end-of-life.85332/history",
+  "gitUrl": "https://github.com/UltimateGamer200/UltraColor",
+  "releaseDate": 1604102340000,
+  "updateDate": 1671845700000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

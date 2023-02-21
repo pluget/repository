@@ -1,0 +1,33 @@
+{
+  "id": 19064,
+  "url": "https://www.spigotmc.org/resources/chatitem-display-items-in-chat.19064/",
+  "name": "ChatItem - Display items in chat!",
+  "description": "Display items in chat! Hover over them to see info and name. Supports ALL chat formatting plugins.",
+  "authors": [
+    "Elikill58"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/19/19064.jpg?1456494875",
+  "iconCid": "bafkreihcfsu2l6rvljf6lawdhpbfkvdace5alebbg77liv6fafqthjjzuq",
+  "numberOfDownloads": 58348,
+  "rating": 4.6,
+  "numberOfVotes": 127,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatitem-display-items-in-chat.19064/history",
+  "gitUrl": "https://github.com/dadus33-plugins/ChatItem",
+  "releaseDate": 1456491240000,
+  "updateDate": 1666111320000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

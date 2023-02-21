@@ -1,0 +1,20 @@
+{
+  "id": 103667,
+  "url": "https://www.spigotmc.org/resources/bloblib.103667/",
+  "name": "BlobLib",
+  "description": "Blob's library collection.",
+  "authors": [
+    "anjoismysign"
+  ],
+  "numberOfDownloads": 86,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bloblib.103667/history",
+  "gitUrl": "https://github.com/anjoismysign/BlobLib",
+  "releaseDate": 1658700000000,
+  "updateDate": 1669167240000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

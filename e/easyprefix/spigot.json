@@ -1,0 +1,32 @@
+{
+  "id": 44580,
+  "url": "https://www.spigotmc.org/resources/easyprefix-gui-custom-prefixes-sql-support.44580/",
+  "name": "EasyPrefix | GUI, Custom Prefixes, SQL support",
+  "description": "Manage your Chat easily with EasyPrefix. SQL Support",
+  "authors": [
+    "Christian34"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/44/44580.jpg?1607506865",
+  "iconCid": "bafkreibnvjzlmwje6fjyhrr6kwqpph4vyif2jsyjxkjwtfkv2lgt4e5bkq",
+  "numberOfDownloads": 65166,
+  "rating": 4.1,
+  "numberOfVotes": 49,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/easyprefix-gui-custom-prefixes-sql-support.44580/history",
+  "gitUrl": "https://github.com/chris3105x/EasyPrefix",
+  "releaseDate": 1501105500000,
+  "updateDate": 1664390760000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

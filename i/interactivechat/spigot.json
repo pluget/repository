@@ -1,0 +1,32 @@
+{
+  "id": 75870,
+  "url": "https://www.spigotmc.org/resources/interactivechat-show-items-inventory-in-chat-custom-chat-keywords-bungee-velocity-support.75870/",
+  "name": "InteractiveChat | Show Items / Inventory in Chat | Custom Chat Keywords | Bungee & Velocity Support",
+  "description": "A plugin to work on top of your chat formatting plugins through modifying packets!",
+  "authors": [
+    "LOOHP"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75870.jpg?1586871227",
+  "iconCid": "bafkreicdhqdxdhc3agt7n6rhxpca6pveslpkhgexg45ffr473l7lmeogli",
+  "numberOfDownloads": 40065,
+  "rating": 4.6,
+  "numberOfVotes": 129,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/interactivechat-show-items-inventory-in-chat-custom-chat-keywords-bungee-velocity-support.75870/history",
+  "gitUrl": "https://github.com/LOOHP/InteractiveChat",
+  "releaseDate": 1676458860000,
+  "updateDate": 1676458860000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

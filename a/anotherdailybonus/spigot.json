@@ -1,0 +1,23 @@
+{
+  "id": 79674,
+  "url": "https://www.spigotmc.org/resources/anotherdailybonus-under-rework.79674/",
+  "name": "AnotherDailyBonus [ UNDER REWORK ]",
+  "description": "Another daily bonus plugin with Daily, Weekly and Monthly rewards! [1.17 - 1.19]",
+  "authors": [
+    "NightExpress"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79674.jpg?1637840060",
+  "iconCid": "bafkreifhr3nfmux3cx5umhkqovifaxes6asnrrjog3odl5ribzaff52jsy",
+  "numberOfDownloads": 8325,
+  "rating": 3.3,
+  "numberOfVotes": 30,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anotherdailybonus-under-rework.79674/history",
+  "gitUrl": "https://github.com/nulli0n/AnotherDailyBonus-spigot",
+  "releaseDate": 1591261320000,
+  "updateDate": 1664867820000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

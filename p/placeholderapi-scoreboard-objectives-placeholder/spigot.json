@@ -1,0 +1,27 @@
+{
+  "id": 48236,
+  "url": "https://www.spigotmc.org/resources/placeholderapi-scoreboard-objectives-placeholder.48236/",
+  "name": "PlaceholderAPI Scoreboard Objectives Placeholder",
+  "description": "Retrieve name & scores for scoreboard objectives using placeholders!",
+  "authors": [
+    "EvModder"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/48/48236.jpg?1507664295",
+  "iconCid": "bafkreibyszsbudabu2z6rdeiqgn75fpny3ai3ax2yvdbel2wojzsng4wpe",
+  "numberOfDownloads": 6512,
+  "rating": 4.6,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/placeholderapi-scoreboard-objectives-placeholder.48236/history",
+  "gitUrl": "https://github.com/EvModder/EvStats/blob/main/src/net/evmodder/EvStats/ObjectivesExpansion.java",
+  "releaseDate": 1507660620000,
+  "updateDate": 1674885720000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

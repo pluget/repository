@@ -1,0 +1,24 @@
+{
+  "id": 96768,
+  "url": "https://www.spigotmc.org/resources/lovelazuli-protect-your-builds-with-blocks.96768/",
+  "name": "LoveLazuli | Protect your builds with blocks",
+  "description": "LoveLazuli, a simple region-protection system with blocks (World Guard Extension)",
+  "authors": [
+    "MrNadix"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96768.jpg?1633976526",
+  "iconCid": "bafkreie5azafnyfuohvg5xw5jyew3c7abbdfmzwjxjsanku5yampm63kqe",
+  "numberOfDownloads": 176,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lovelazuli-protect-your-builds-with-blocks.96768/history",
+  "gitUrl": "https://gitlab.com/MrNadix/lovelazuli",
+  "releaseDate": 1633972680000,
+  "updateDate": 1664052000000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

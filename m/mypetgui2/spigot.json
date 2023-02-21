@@ -1,0 +1,23 @@
+{
+  "id": 107286,
+  "url": "https://www.spigotmc.org/resources/mypetgui2-updated.107286/",
+  "name": "MyPetGUI2 - Updated",
+  "description": "GUI menu for MyPet plugin",
+  "authors": [
+    "Cobrex"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107286.jpg?1673197407",
+  "iconCid": "bafkreigwty2xnbaxtvjlb6gqvsnp6ryespva6gzulnkku65kz7cy3bbuuy",
+  "numberOfDownloads": 60,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mypetgui2-updated.107286/history",
+  "gitUrl": "https://github.com/cobrex1/MyPetGUI2",
+  "releaseDate": 1673193720000,
+  "updateDate": 1673193720000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

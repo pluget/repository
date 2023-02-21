@@ -1,0 +1,27 @@
+{
+  "id": 87038,
+  "url": "https://www.spigotmc.org/resources/cartographer2-addon-lands.87038/",
+  "name": "[Cartographer2] [Addon] Lands",
+  "description": "Adds Lands support for Cartographer2",
+  "authors": [
+    "BananaPuncher714"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87038.jpg?1608821841",
+  "iconCid": "bafkreielykroemtjmhaegfomy22xesjatc4iivwhovnpaajjb6cqwrqp2a",
+  "numberOfDownloads": 353,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cartographer2-addon-lands.87038/history",
+  "gitUrl": "https://github.com/BananaPuncher714/Cartographer2/tree/master/Cartographer2_ModuleLands",
+  "releaseDate": 1608818160000,
+  "updateDate": 1671904560000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

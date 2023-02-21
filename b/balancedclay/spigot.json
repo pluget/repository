@@ -1,0 +1,24 @@
+{
+  "id": 104586,
+  "url": "https://www.spigotmc.org/resources/balancedclay.104586/",
+  "name": "BalancedClay",
+  "description": "Makes clay balanced. (adds recipes to turn clay into any item)",
+  "authors": [
+    "MelnCat"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104586.jpg?1660623323",
+  "iconCid": "bafkreigxov45b2bugaxy7c5balbrgs5wvulgzvc2yiqgvhker35ntpliwu",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/balancedclay.104586/history",
+  "gitUrl": "https://github.com/MelnCat/BalancedClay",
+  "releaseDate": 1660619700000,
+  "updateDate": 1660619700000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

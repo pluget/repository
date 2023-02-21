@@ -1,0 +1,24 @@
+{
+  "id": 103363,
+  "url": "https://www.spigotmc.org/resources/mikchan%E3%81%AEfood.103363/",
+  "name": "MikChanのFood",
+  "description": "A plugin that gives an ability to modify how food behaves.",
+  "authors": [
+    "MikChan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103363.jpg?1657815308",
+  "iconCid": "bafkreiaf6gpw5awj3jte6uue24x7w7wjkz3ex7gsn32k47mzsnxvqx54v4",
+  "numberOfDownloads": 55,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mikchan%E3%81%AEfood.103363/history",
+  "gitUrl": "https://github.com/MikChanNoPlugins/Food",
+  "releaseDate": 1657803960000,
+  "updateDate": 1658173020000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

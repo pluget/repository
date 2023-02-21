@@ -1,0 +1,31 @@
+{
+  "id": 106478,
+  "url": "https://www.spigotmc.org/resources/orientation.106478/",
+  "name": "Orientation",
+  "description": "This plugin adds the ability to choose your orientation. You can also create and edit orientations.",
+  "authors": [
+    "MaxMeitnerFur"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106478.jpg?1669647181",
+  "iconCid": "bafkreihr74eds4p3gzrshbskcvmw7gccttx242vrelb5v65isbyzedorpy",
+  "numberOfDownloads": 40,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/orientation.106478/history",
+  "releaseDate": 1669643520000,
+  "updateDate": 1669687620000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

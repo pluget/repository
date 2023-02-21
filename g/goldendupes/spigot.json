@@ -1,0 +1,25 @@
+{
+  "id": 91474,
+  "url": "https://www.spigotmc.org/resources/%E2%98%80-goldendupes-%E2%98%80.91474/",
+  "name": "☀ GoldenDupes ☀",
+  "description": "A plugin that recreates dupes from the golden days of Minecraft!",
+  "authors": [
+    "Ivan8or"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91474.jpg?1618803754",
+  "iconCid": "bafkreifhanrn6aahcmlkdzkddhlzrlzotfurzslo3xvbs7m6xesblf5q64",
+  "numberOfDownloads": 3863,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%98%80-goldendupes-%E2%98%80.91474/history",
+  "gitUrl": "https://github.com/Ivan8or/GoldenDupes",
+  "releaseDate": 1618800120000,
+  "updateDate": 1675666560000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

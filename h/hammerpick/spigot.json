@@ -1,0 +1,21 @@
+{
+  "id": 101806,
+  "url": "https://www.spigotmc.org/resources/hammerpick-3x3-hammer.101806/",
+  "name": "HammerPick - 3x3 Hammer",
+  "description": "Plugin that adds a Hammer function to your Pickaxe to mine 3x3",
+  "authors": [
+    "Treble_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101806.jpg?1651594211",
+  "iconCid": "bafkreihv75hy2lbllq6uwzbxy3pauid7np567op57hpvymar44pica5wfu",
+  "numberOfDownloads": 600,
+  "rating": 4.3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hammerpick-3x3-hammer.101806/history",
+  "releaseDate": 1651590600000,
+  "updateDate": 1673889960000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

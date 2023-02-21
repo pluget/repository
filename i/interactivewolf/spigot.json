@@ -1,0 +1,24 @@
+{
+  "id": 107924,
+  "url": "https://www.spigotmc.org/resources/interactivewolf.107924/",
+  "name": "InteractiveWolf",
+  "description": "Start interacting with your lovely wolfy :)",
+  "authors": [
+    "MoTy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107924.jpg?1676020603",
+  "iconCid": "bafkreici7dvbpdxdpdq3372564we6td6vito4qvn6xtmhzvtqcd4pgphny",
+  "numberOfDownloads": 89,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/interactivewolf.107924/history",
+  "gitUrl": "https://github.com/xMoTy/InteractiveWolf",
+  "releaseDate": 1676623260000,
+  "updateDate": 1676623260000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

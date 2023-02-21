@@ -1,0 +1,33 @@
+{
+  "id": 73064,
+  "url": "https://www.spigotmc.org/resources/proxychatbridge.73064/",
+  "name": "ProxyChatBridge",
+  "description": "Simple network chat bridge, drag and drop.",
+  "authors": [
+    "Ranull"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/73/73064.jpg?1675358770",
+  "iconCid": "bafkreicjqexigngflsbq7ugqpiqkctyqbr45okmpplne3uxwszwc2zso7i",
+  "numberOfDownloads": 649,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/proxychatbridge.73064/history",
+  "gitUrl": "https://gitlab.com/ranull/minecraft/proxychatbridge",
+  "releaseDate": 1574918580000,
+  "updateDate": 1675248780000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

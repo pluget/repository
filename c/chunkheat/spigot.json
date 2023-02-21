@@ -1,0 +1,27 @@
+{
+  "id": 99993,
+  "url": "https://www.spigotmc.org/resources/chunkheat.99993/",
+  "name": "ChunkHeat",
+  "description": "A simple broad spectrum monster farm limiter.",
+  "authors": [
+    "Ghost_chu"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99993.jpg?1669213816",
+  "iconCid": "bafkreiffch47x2255inwl6psrur4by2udzvzekzuqjl3esd7w72dje2p6m",
+  "numberOfDownloads": 76,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chunkheat.99993/history",
+  "gitUrl": "https://github.com/Ghost-chu/ChunkHeat",
+  "releaseDate": 1644831720000,
+  "updateDate": 1669241640000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

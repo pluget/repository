@@ -1,0 +1,32 @@
+{
+  "id": 83894,
+  "url": "https://www.spigotmc.org/resources/tablocation.83894/",
+  "name": "TabLocation",
+  "description": "Adds the players location to their tab name, so you can see where they are by pressing tab any time",
+  "authors": [
+    "jamesgrasso"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83894.jpg?1600168965",
+  "iconCid": "bafkreihkxgofzmmlj6b5jkkdaduk6zz7aeyis44pt35t75iro6kiq7ojbu",
+  "numberOfDownloads": 3988,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tablocation.83894/history",
+  "gitUrl": "https://github.com/jewlexx/TabLocation",
+  "releaseDate": 1600165320000,
+  "updateDate": 1675487880000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

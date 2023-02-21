@@ -1,0 +1,32 @@
+{
+  "id": 95321,
+  "url": "https://www.spigotmc.org/resources/addon-bedwars1058-1-8-8-1-19-golden-gg.95321/",
+  "name": "[Addon] BedWars1058 - [1.8.8-1.19] - Golden GG",
+  "description": "Add a color when a player writes gg when winning a game of bedwars",
+  "authors": [
+    "STN-Studios"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95321.jpg?1628958133",
+  "iconCid": "bafkreidssqpk7ruzly7ibazlmaowhj3tifygokqzs45f2zgdmapq4p3bqu",
+  "numberOfDownloads": 2232,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/addon-bedwars1058-1-8-8-1-19-golden-gg.95321/history",
+  "gitUrl": "https://github.com/RubenArtz/GoldenGG",
+  "releaseDate": 1628954460000,
+  "updateDate": 1658278740000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

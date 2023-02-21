@@ -1,0 +1,26 @@
+{
+  "id": 68712,
+  "url": "https://www.spigotmc.org/resources/customdamage.68712/",
+  "name": "CustomDamage",
+  "description": "Allows you to control damage taken by entities.",
+  "authors": [
+    "Rial"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/68/68712.jpg?1561414279",
+  "iconCid": "bafkreifxyvr47ttcdj4aqohtppvlkfzpharqtghof4tjjpvobume574tme",
+  "numberOfDownloads": 191,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/customdamage.68712/history",
+  "gitUrl": "https://github.com/uprial/customdamage",
+  "releaseDate": 1561410660000,
+  "updateDate": 1658410320000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

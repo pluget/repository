@@ -1,0 +1,32 @@
+{
+  "id": 61054,
+  "url": "https://www.spigotmc.org/resources/fakeplayers-1-8-1-19-fully-customizable.61054/",
+  "name": "FakePlayers | 1.8 - 1.19 | Fully Customizable",
+  "description": "Simulate the amount of online players in your Serverlist without blocking your real players!",
+  "authors": [
+    "herby2212"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/61/61054.jpg?1537695216",
+  "iconCid": "bafkreigztnp7sbwqqepwxcvxggc4os5pljrkylyxq4i7osudshxw2lwxv4",
+  "numberOfDownloads": 16822,
+  "rating": 3.2,
+  "numberOfVotes": 26,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fakeplayers-1-8-1-19-fully-customizable.61054/history",
+  "gitUrl": "https://github.com/herby2212/FakePlayers",
+  "releaseDate": 1676492580000,
+  "updateDate": 1676492580000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

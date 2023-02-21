@@ -1,0 +1,28 @@
+{
+  "id": 64357,
+  "url": "https://www.spigotmc.org/resources/reducesneakdamage.64357/",
+  "name": "ReduceSneakDamage",
+  "description": "An extremely lightweight plugin that allows you to subtract dmg from falling by a certain precent.",
+  "authors": [
+    "zach_attack"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/64/64357.jpg?1563592786",
+  "iconCid": "bafkreighf6a5qs4h4r2uoek7f3awqc5lp4owzelwll453o7aworqkhdt2u",
+  "numberOfDownloads": 762,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/reducesneakdamage.64357/history",
+  "gitUrl": "https://github.com/zachduda/ReduceSneakDamage",
+  "releaseDate": 1548555600000,
+  "updateDate": 1668473940000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 105595,
+  "url": "https://www.spigotmc.org/resources/simpledeathswap.105595/",
+  "name": "SimpleDeathSwap",
+  "description": "Famous game where 2 players challenge each other until one of them dies",
+  "authors": [
+    "EscanorTargaryen"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105595.jpg?1664751989",
+  "iconCid": "bafkreigdzrnlxqokcmpbpixslit76bbvuzc34mmbqufabhzmtbq6cnbsou",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simpledeathswap.105595/history",
+  "gitUrl": "https://github.com/EscanorTargaryen/SimpleDeathSwap",
+  "releaseDate": 1664748360000,
+  "updateDate": 1664748360000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

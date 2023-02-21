@@ -1,0 +1,23 @@
+{
+  "id": 96724,
+  "url": "https://www.spigotmc.org/resources/activity-tracker.96724/",
+  "name": "Activity Tracker",
+  "description": "Tracks the activity of players.",
+  "authors": [
+    "DanTheTechMan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96724.jpg?1633740885",
+  "iconCid": "bafkreiams4zniymdjnsorq6rm75rd2ctrfzonka4uagz7htemgivq2oetq",
+  "numberOfDownloads": 191,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/activity-tracker.96724/history",
+  "gitUrl": "https://github.com/dmccoystephenson/Activity-Tracker",
+  "releaseDate": 1633737180000,
+  "updateDate": 1667709420000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

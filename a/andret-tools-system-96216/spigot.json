@@ -1,0 +1,23 @@
+{
+  "id": 96216,
+  "url": "https://www.spigotmc.org/resources/ats-andret-tools-system-block-generator-craft-infinite-block-generator.96216/",
+  "name": "[ATS] Andret Tools System | Block Generator | Craft infinite block generator",
+  "description": "The plugin that allows crafting infinite blocks generators",
+  "authors": [
+    "Andret2344"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96216.jpg?1643147809",
+  "iconCid": "bafkreigdntdyctr477cdwtsrqp6wumdwd44xbs6mmrx2fiqh7kbakkauh4",
+  "numberOfDownloads": 85,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ats-andret-tools-system-block-generator-craft-infinite-block-generator.96216/history",
+  "gitUrl": "https://gitlab.com/andret-tools-system/spigot/ats-block-generator",
+  "releaseDate": 1631608860000,
+  "updateDate": 1661187600000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

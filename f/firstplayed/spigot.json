@@ -1,0 +1,21 @@
+{
+  "id": 104595,
+  "url": "https://www.spigotmc.org/resources/firstplayed-og.104595/",
+  "name": "FirstPlayed-OG",
+  "description": "A Spigot plugin that allows you to easily determine when exactly you or others first joined",
+  "authors": [
+    "NotAlexNoyle"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104595.jpg?1660650541",
+  "iconCid": "bafkreie3jqcyjz75xd3hmkgznywa5ky7nxlwmvjf3ktoztx2pdaavudlfa",
+  "numberOfDownloads": 37,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/firstplayed-og.104595/history",
+  "gitUrl": "https://github.com/NotAlexNoyle/FirstPlayed-OG/",
+  "releaseDate": 1660646880000,
+  "updateDate": 1660646880000,
+  "versions": [
+    "1.18"
+  ]
+}

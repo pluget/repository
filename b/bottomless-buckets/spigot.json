@@ -1,0 +1,25 @@
+{
+  "id": 98706,
+  "url": "https://www.spigotmc.org/resources/bottomless-buckets-increased-bucket-capacity-stacked-buckets.98706/",
+  "name": "Bottomless Buckets - Increased Bucket Capacity/Stacked Buckets",
+  "description": "A lightweight plugin for creating customised buckets that can hold more than one water or lava.",
+  "authors": [
+    "d1m0a1n"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98706.jpg?1640572078",
+  "iconCid": "bafkreibhew34ajziyaj7elue6fwiypxlpv4najq7yi424wb5begvdi2yye",
+  "numberOfDownloads": 105,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bottomless-buckets-increased-bucket-capacity-stacked-buckets.98706/history",
+  "gitUrl": "https://github.com/Dakotaa/BottomlessBuckets",
+  "releaseDate": 1640568420000,
+  "updateDate": 1666571940000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

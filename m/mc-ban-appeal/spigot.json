@@ -1,0 +1,30 @@
+{
+  "id": 101511,
+  "url": "https://www.spigotmc.org/resources/mc-ban-appeal-plugin-fixed-check-url-http-https.101511/",
+  "name": "MC Ban Appeal | Plugin FIXED check url \"http\" & \"https\"",
+  "description": "Plugin fixed URL checking.",
+  "authors": [
+    "lRusian"
+  ],
+  "numberOfDownloads": 99,
+  "rating": 3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mc-ban-appeal-plugin-fixed-check-url-http-https.101511/history",
+  "gitUrl": "https://github.com/lRusian/mcbanappeal",
+  "releaseDate": 1650452040000,
+  "updateDate": 1664035920000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 104363,
+  "url": "https://www.spigotmc.org/resources/loseallitems.104363/",
+  "name": "LoseAllItems",
+  "description": "A plugin that causes you to drop your ender chest items on death in addition to your inventory.",
+  "authors": [
+    "Madamadam"
+  ],
+  "numberOfDownloads": 14,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/loseallitems.104363/history",
+  "gitUrl": "https://github.com/eyalmen/LoseAllItems",
+  "releaseDate": 1659962460000,
+  "updateDate": 1659962460000,
+  "versions": [
+    "1.19"
+  ]
+}

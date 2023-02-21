@@ -1,0 +1,23 @@
+{
+  "id": 99909,
+  "url": "https://www.spigotmc.org/resources/advancementworldborder.99909/",
+  "name": "AdvancementWorldBorder",
+  "description": "Worlboarder will expand if player gathered advancement",
+  "authors": [
+    "BoBkiNN_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99909.jpg?1644499884",
+  "iconCid": "bafkreie3i5q4rjp67ohwahl2u5ndyqqohgul257a6mhzu5zxjexhmj7vn4",
+  "numberOfDownloads": 117,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advancementworldborder.99909/history",
+  "gitUrl": "https://github.com/BoBkiNN/AdvancementWorldBorder",
+  "releaseDate": 1644493200000,
+  "updateDate": 1660465320000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

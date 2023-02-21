@@ -1,0 +1,31 @@
+{
+  "id": 104977,
+  "url": "https://www.spigotmc.org/resources/light.104977/",
+  "name": "Light",
+  "description": "Use the night vision in dark places",
+  "authors": [
+    "GFelberg"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104977.jpg?1661971440",
+  "iconCid": "bafkreiflwufpwl4mp5r7t5ppxh7nmmscjuiwmcwbqvq7qxfgkszbbrm4x4",
+  "numberOfDownloads": 39,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/light.104977/history",
+  "releaseDate": 1661967780000,
+  "updateDate": 1661967780000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

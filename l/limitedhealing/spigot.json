@@ -1,0 +1,21 @@
+{
+  "id": 105143,
+  "url": "https://www.spigotmc.org/resources/limitedhealing-makes-heal-and-feed-less-overpowered.105143/",
+  "name": "LimitedHealing | Makes /heal and /feed less overpowered.",
+  "description": "Allow your users to heal and feed but at a set rate.",
+  "authors": [
+    "ArdskyDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105143.jpg?1662651876",
+  "iconCid": "bafkreidzfxj7f2np55ugfrvhuvjevjtr3lpjqqkv7ksqpvljahpozvjrre",
+  "numberOfDownloads": 20,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/limitedhealing-makes-heal-and-feed-less-overpowered.105143/history",
+  "releaseDate": 1662648240000,
+  "updateDate": 1662656760000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

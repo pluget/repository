@@ -1,0 +1,24 @@
+{
+  "id": 104811,
+  "url": "https://www.spigotmc.org/resources/swapper.104811/",
+  "name": "Swapper",
+  "description": "Gamemode permissions system.",
+  "authors": [
+    "Plexiate"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104811.jpg?1661416105",
+  "iconCid": "bafkreibf6n2oybm3xjqodhxozjpvdepi42pfej52zkgkvobx7mzlzuxnwe",
+  "numberOfDownloads": 38,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/swapper.104811/history",
+  "gitUrl": "https://github.com/Plexiate/swapper",
+  "releaseDate": 1661406180000,
+  "updateDate": 1661411340000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

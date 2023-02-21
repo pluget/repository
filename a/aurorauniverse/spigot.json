@@ -1,0 +1,23 @@
+{
+  "id": 97429,
+  "url": "https://www.spigotmc.org/resources/aurorauniverse.97429/",
+  "name": "AuroraUniverse",
+  "description": "New towns game-mode plugin",
+  "authors": [
+    "russian_adm"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97429.jpg?1636213700",
+  "iconCid": "bafkreifrjlq33o7b3m3jacuyrgl3npnk76bgtfipponb3jj6tp5bu3gm7q",
+  "numberOfDownloads": 544,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/aurorauniverse.97429/history",
+  "gitUrl": "https://github.com/AuroraUniverse/AuroraUniverse",
+  "releaseDate": 1636209960000,
+  "updateDate": 1667771940000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

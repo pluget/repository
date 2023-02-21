@@ -1,0 +1,23 @@
+{
+  "id": 84121,
+  "url": "https://www.spigotmc.org/resources/gamepoints-custom-coins-points-plugin.84121/",
+  "name": "GamePoints - Custom coins/points plugin!",
+  "description": "Additional custom currency for your server with built-in shop! [1.17 - 1.19]",
+  "authors": [
+    "NightExpress"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84121.jpg?1633704016",
+  "iconCid": "bafkreiel5jhczbzwdzk5ilu3nfyzg3mdilifg3ivj6kvvkfo2okkaehczy",
+  "numberOfDownloads": 6280,
+  "rating": 4.7,
+  "numberOfVotes": 21,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gamepoints-custom-coins-points-plugin.84121/history",
+  "gitUrl": "https://github.com/nulli0n/GamePoints-spigot",
+  "releaseDate": 1600853940000,
+  "updateDate": 1672061760000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

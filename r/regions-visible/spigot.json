@@ -1,0 +1,22 @@
+{
+  "id": 104294,
+  "url": "https://www.spigotmc.org/resources/regions-visible.104294/",
+  "name": "Regions Visible",
+  "description": "See your, custom and another region in the action bar.",
+  "authors": [
+    "Meekle"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104294.jpg?1659923846",
+  "iconCid": "bafkreiaqo6dqq45prartvxmgvbpygsq4fymkq7y2wehotpdq3f36yhsrmm",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/regions-visible.104294/history",
+  "gitUrl": "https://github.com/Meekl-e/RegionsVisible",
+  "releaseDate": 1659851340000,
+  "updateDate": 1659851340000,
+  "versions": [
+    "1.11",
+    "1.12"
+  ]
+}

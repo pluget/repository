@@ -1,0 +1,32 @@
+{
+  "id": 66831,
+  "url": "https://www.spigotmc.org/resources/onjoininv.66831/",
+  "name": "OnJoinINV",
+  "description": "Easy bot protection plugin.",
+  "authors": [
+    "BGHDDevelopment"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/66/66831.jpg?1556158924",
+  "iconCid": "bafkreih5ha6rxbcjkdt3mmlvmzmny4f7h5kxem4s2nlif43p44y3qdxfsu",
+  "numberOfDownloads": 343,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/onjoininv.66831/history",
+  "gitUrl": "https://github.com/BGHDDevelopment/OnJoinINV",
+  "releaseDate": 1556155260000,
+  "updateDate": 1672328280000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

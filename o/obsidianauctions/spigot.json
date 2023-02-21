@@ -1,0 +1,28 @@
+{
+  "id": 5595,
+  "url": "https://www.spigotmc.org/resources/obsidianauctions-1-12-1-19.5595/",
+  "name": "ObsidianAuctions [1.12-1.19]",
+  "description": "A chat based auction plugin for 1.12+",
+  "authors": [
+    "VirusTotal"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/5/5595.jpg?1428177994",
+  "iconCid": "bafkreihldmcw7z26yxhasl7h32wpwinsvdgsoo3gmmgq3bz7sd4zsnulmm",
+  "numberOfDownloads": 20577,
+  "rating": 4.4,
+  "numberOfVotes": 42,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/obsidianauctions-1-12-1-19.5595/history",
+  "gitUrl": "https://github.com/virustotalop/ObsidianAuctions/",
+  "releaseDate": 1428122700000,
+  "updateDate": 1672490880000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 98408,
+  "url": "https://www.spigotmc.org/resources/guibuilder.98408/",
+  "name": "GuiBuilder",
+  "description": "Making your own GUI's has never been easier!",
+  "authors": [
+    "Michielo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98408.jpg?1639597662",
+  "iconCid": "bafkreibcsnkgrhmuwzbhhwd4pclfkoyalg3z25oyinoatqw6zxkv323yku",
+  "numberOfDownloads": 146,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/guibuilder.98408/history",
+  "gitUrl": "https://github.com/Michielo1/GuiBuilder",
+  "releaseDate": 1639593960000,
+  "updateDate": 1675341840000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

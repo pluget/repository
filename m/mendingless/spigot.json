@@ -1,0 +1,25 @@
+{
+  "id": 102980,
+  "url": "https://www.spigotmc.org/resources/mendingless.102980/",
+  "name": "Mendingless",
+  "description": "Remove mending from villager trading",
+  "authors": [
+    "caveboy36"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102980.jpg?1656497660",
+  "iconCid": "bafkreiag4vgaxmgzvt4javrfnhi4jgzcvrvahpghwujq6b3gtdumk5ersa",
+  "numberOfDownloads": 85,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mendingless.102980/history",
+  "releaseDate": 1656494040000,
+  "updateDate": 1659998280000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

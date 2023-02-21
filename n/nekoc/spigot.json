@@ -1,0 +1,27 @@
+{
+  "id": 75431,
+  "url": "https://www.spigotmc.org/resources/nekoc.75431/",
+  "name": "NekoC",
+  "description": "Become the Neko you always wanted to be!",
+  "authors": [
+    "Kurumi78"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75431.jpg?1584288589",
+  "iconCid": "bafkreicz4cf4dwp4r3ooxyz7iurtkcs2d26zu4mfdmiwzrnxmniu2r4sum",
+  "numberOfDownloads": 2109,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nekoc.75431/history",
+  "gitUrl": "https://github.com/Kurumi78/NekoC",
+  "releaseDate": 1582397280000,
+  "updateDate": 1671340680000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 103226,
+  "url": "https://www.spigotmc.org/resources/extraordinarygifts-1-16-1-19.103226/",
+  "name": "ExtraordinaryGifts [1.16 - 1.19]",
+  "description": "Plugin that implements creation of gifts. It has built-in GUI and more extended configuration than o",
+  "authors": [
+    "H7KZ"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103226.jpg?1657384961",
+  "iconCid": "bafkreigvovb7cp4pa5q2p5nl2lvjhpglcdzfitvglervou7odui4yoxuxa",
+  "numberOfDownloads": 69,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/extraordinarygifts-1-16-1-19.103226/history",
+  "gitUrl": "https://github.com/H7KZ/ExtraordinaryGifts",
+  "releaseDate": 1657380900000,
+  "updateDate": 1657803000000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 105119,
+  "url": "https://www.spigotmc.org/resources/streamer-vs-chat-1-13-1-19.105119/",
+  "name": "Streamer VS Chat(1.13-1.19)",
+  "description": "Battle against your viewers!",
+  "authors": [
+    "CorwinLOL"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105119.jpg?1662529739",
+  "iconCid": "bafkreided2avvgiprdo6ritxloaazjp7oze4js4kdwhekwpqxuuvchb2mq",
+  "numberOfDownloads": 188,
+  "rating": 4.6,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/streamer-vs-chat-1-13-1-19.105119/history",
+  "gitUrl": "https://github.com/CorwinDev/StreamerVSChat",
+  "releaseDate": 1662526080000,
+  "updateDate": 1665229680000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 98798,
+  "url": "https://www.spigotmc.org/resources/prototype-rtp-blazing-fast-rtp.98798/",
+  "name": "Prototype RTP | Blazing fast RTP",
+  "description": "Simple RTP plugin",
+  "authors": [
+    "Distemi"
+  ],
+  "numberOfDownloads": 179,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/prototype-rtp-blazing-fast-rtp.98798/history",
+  "gitUrl": "https://github.com/Distemi/PRTP",
+  "releaseDate": 1640876160000,
+  "updateDate": 1664814540000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

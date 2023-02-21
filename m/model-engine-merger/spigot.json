@@ -1,0 +1,24 @@
+{
+  "id": 107246,
+  "url": "https://www.spigotmc.org/resources/model-engine-merger-model-engine-itemsadder-bridge.107246/",
+  "name": "Model Engine Merger: Model Engine & ItemsAdder Bridge",
+  "description": "Easily merge ModelEngine packs to ItemsAdder resource packs!",
+  "authors": [
+    "darknessNBK"
+  ],
+  "numberOfDownloads": 338,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/model-engine-merger-model-engine-itemsadder-bridge.107246/history",
+  "gitUrl": "https://github.com/darknessNBK/ModelEngineMerger",
+  "releaseDate": 1673030100000,
+  "updateDate": 1673030100000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 105374,
+  "url": "https://www.spigotmc.org/resources/antiadminabuse.105374/",
+  "name": "AntiAdminAbuse",
+  "description": "Prevent and Monitor Staff Abuse on Your Server",
+  "authors": [
+    "0xLake"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105374.jpg?1663646142",
+  "iconCid": "bafkreiczxejr5vhzjk63r54f4tokrz5pjpapyys6dk7hgygdtmkghrjxey",
+  "numberOfDownloads": 120,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antiadminabuse.105374/history",
+  "releaseDate": 1663642380000,
+  "updateDate": 1663642380000,
+  "versions": [
+    "1.8",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

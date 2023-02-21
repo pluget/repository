@@ -1,0 +1,24 @@
+{
+  "id": 99359,
+  "url": "https://www.spigotmc.org/resources/rift-world-manager.99359/",
+  "name": "Rift World Manager",
+  "description": "Extremely Simple & Reliable World Manager",
+  "authors": [
+    "VolmitSoftware"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99359.jpg?1642693389",
+  "iconCid": "bafkreib4hhavqw5y2lnfxrzwcrbyt6whmjieodioyuzzqc3gwwvjbgrma4",
+  "numberOfDownloads": 1123,
+  "rating": 4.7,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rift-world-manager.99359/history",
+  "gitUrl": "https://github.com/VolmitSoftware/Rift",
+  "releaseDate": 1642689660000,
+  "updateDate": 1659130200000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

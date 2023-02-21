@@ -1,0 +1,24 @@
+{
+  "id": 103060,
+  "url": "https://www.spigotmc.org/resources/autosellchests.103060/",
+  "name": "AutoSellChests",
+  "description": "Provide your server with automatically selling chests",
+  "authors": [
+    "Gypopo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103060.jpg?1656785165",
+  "iconCid": "bafkreid3wut4qunnt4hsi2oozcfkeko2zvixb2v3aosxyvmvzjie2vhtha",
+  "numberOfDownloads": 813,
+  "rating": 4.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/autosellchests.103060/history",
+  "gitUrl": "https://github.com/Gypopo/AutoSellChests",
+  "releaseDate": 1656781500000,
+  "updateDate": 1676070780000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

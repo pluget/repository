@@ -1,0 +1,32 @@
+{
+  "id": 39592,
+  "url": "https://www.spigotmc.org/resources/traincarts.39592/",
+  "name": "TrainCarts",
+  "description": "Minecarts redefined",
+  "authors": [
+    "TeamBergerhealer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/39/39592.jpg?1501015979",
+  "iconCid": "bafkreifvcythte2fxy5wsyvubemi2t6q4ryqwusdc7n6rjbzl7cbt3g33e",
+  "numberOfDownloads": 94051,
+  "rating": 4.6,
+  "numberOfVotes": 104,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/traincarts.39592/history",
+  "gitUrl": "https://github.com/bergerhealer/TrainCarts",
+  "releaseDate": 1676889060000,
+  "updateDate": 1676889060000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

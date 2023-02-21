@@ -1,0 +1,32 @@
+{
+  "id": 87610,
+  "url": "https://www.spigotmc.org/resources/cmilib.87610/",
+  "name": "CMILib",
+  "description": "Library",
+  "authors": [
+    "Zrips"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87610.jpg?1610118841",
+  "iconCid": "bafkreidoopdcwcp2gmohwkb4bww7n2mdxhi74kgqhvilwblcsp4enfikm4",
+  "numberOfDownloads": 130734,
+  "rating": 4.8,
+  "numberOfVotes": 16,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cmilib.87610/history",
+  "releaseDate": 1610115180000,
+  "updateDate": 1675432620000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

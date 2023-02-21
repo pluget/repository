@@ -1,0 +1,22 @@
+{
+  "id": 107874,
+  "url": "https://www.spigotmc.org/resources/rcore-core-plugin-spawn-set-spawn-god-feed-heal-join-leave-message.107874/",
+  "name": "RCore - Core plugin (SPAWN - SET SPAWN- GOD - FEED - HEAL - JOIN/LEAVE MESSAGE)",
+  "description": "Useful commands for minigames or survival.",
+  "authors": [
+    "RConfig-Dev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107874.jpg?1675713709",
+  "iconCid": "bafkreie2ctx4hgzyxsdwp4m3pkclf7wjsccgt62wncsfszuiwzcsxylgae",
+  "numberOfDownloads": 19,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rcore-core-plugin-spawn-set-spawn-god-feed-heal-join-leave-message.107874/history",
+  "releaseDate": 1676462640000,
+  "updateDate": 1676462640000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.12"
+  ]
+}

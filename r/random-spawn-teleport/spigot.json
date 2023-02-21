@@ -1,0 +1,25 @@
+{
+  "id": 107285,
+  "url": "https://www.spigotmc.org/resources/random-spawn-teleport.107285/",
+  "name": "Random Spawn Teleport",
+  "description": "Will randomly respawn a player with a command",
+  "authors": [
+    "denireilly"
+  ],
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/random-spawn-teleport.107285/history",
+  "releaseDate": 1673191080000,
+  "updateDate": 1673191080000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

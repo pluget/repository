@@ -1,0 +1,31 @@
+{
+  "id": 92193,
+  "url": "https://www.spigotmc.org/resources/emoteschat.92193/",
+  "name": "EmotesChat",
+  "description": "Add emotes to your chat",
+  "authors": [
+    "Slaim36"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92193.jpg?1670785072",
+  "iconCid": "bafkreiazglb7nko6ter3cck6voh26hexj4jqvsxk6qzdqvvrt4sguxuzr4",
+  "numberOfDownloads": 134,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/emoteschat.92193/history",
+  "releaseDate": 1620560760000,
+  "updateDate": 1670781360000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

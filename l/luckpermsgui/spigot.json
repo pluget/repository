@@ -1,0 +1,32 @@
+{
+  "id": 53460,
+  "url": "https://www.spigotmc.org/resources/luckpermsgui.53460/",
+  "name": "LuckPermsGUI",
+  "description": "Manage LuckPerms groups and users in GUI",
+  "authors": [
+    "BGHDDevelopment"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/53/53460.jpg?1540402906",
+  "iconCid": "bafkreifob3m3c5rdw2jhmttezatojjgjbapxru3xiw5arjjjm34a5x7iwe",
+  "numberOfDownloads": 91025,
+  "rating": 4.4,
+  "numberOfVotes": 56,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/luckpermsgui.53460/history",
+  "gitUrl": "https://github.com/BGHDDevelopment/LuckPermsGUI/",
+  "releaseDate": 1518893400000,
+  "updateDate": 1672336920000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

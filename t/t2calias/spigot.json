@@ -1,0 +1,32 @@
+{
+  "id": 96389,
+  "url": "https://www.spigotmc.org/resources/t2c-alias-alias-plugin-for-spigot-bungee-commands-1-8-x-1-19-x.96389/",
+  "name": "T2C-Alias | Alias Plugin for Spigot & Bungee Commands [1.8.x-1.19.x]",
+  "description": "T2C-Alias is an alias plugin that works for servers but also for bungee commands.",
+  "authors": [
+    "JaTiTV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96389.jpg?1632281321",
+  "iconCid": "bafkreiejiu7w42h5rxzy23mzjbk5ynvha47mr4hunaytvpu3aohhnpbhci",
+  "numberOfDownloads": 1057,
+  "rating": 3.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/t2c-alias-alias-plugin-for-spigot-bungee-commands-1-8-x-1-19-x.96389/history",
+  "gitUrl": "https://git.t2code.net/JaTiTV/T2Code-Alias",
+  "releaseDate": 1632277680000,
+  "updateDate": 1672940160000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

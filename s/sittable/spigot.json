@@ -1,0 +1,32 @@
+{
+  "id": 107244,
+  "url": "https://www.spigotmc.org/resources/sittable.107244/",
+  "name": "Sittable",
+  "description": "A sitting / chair plugin designed around simplicity, with the essential features, no extra frills.",
+  "authors": [
+    "Ranull"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107244.jpg?1673027791",
+  "iconCid": "bafkreigtqas3v5i7b5ujxw3dragkysv7trh3ei7cbslj3vvezs3n235gwe",
+  "numberOfDownloads": 217,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sittable.107244/history",
+  "gitUrl": "https://gitlab.com/ranull/minecraft/sittable",
+  "releaseDate": 1673024160000,
+  "updateDate": 1673275200000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

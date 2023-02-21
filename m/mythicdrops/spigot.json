@@ -1,0 +1,21 @@
+{
+  "id": 6114,
+  "url": "https://www.spigotmc.org/resources/mythicdrops.6114/",
+  "name": "MythicDrops",
+  "description": "Adding RPG-styled drops to your Minecraft server.",
+  "authors": [
+    "ToppleTheNun"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/6/6114.jpg?1429513696",
+  "iconCid": "bafkreicdg4xlbpp73f4iakmnpkjm6ipuysi7olxjnczmhkgsf3h2v7zepa",
+  "numberOfDownloads": 29046,
+  "rating": 4.6,
+  "numberOfVotes": 51,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mythicdrops.6114/history",
+  "gitUrl": "https://github.com/MythicDrops/MythicDrops",
+  "releaseDate": 1429216680000,
+  "updateDate": 1672517760000,
+  "versions": [
+    "1.19"
+  ]
+}

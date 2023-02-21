@@ -1,0 +1,32 @@
+{
+  "id": 105994,
+  "url": "https://www.spigotmc.org/resources/kconomy.105994/",
+  "name": "KConomy",
+  "description": "An Economy Plugin",
+  "authors": [
+    "kingOf0"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105994.jpg?1667122577",
+  "iconCid": "bafkreiayiipkmr4faa6lpbkqalgqpm27vybnjs3yco7wadfwiwib4gjwhm",
+  "numberOfDownloads": 100,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kconomy.105994/history",
+  "releaseDate": 1667118900000,
+  "updateDate": 1667118900000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

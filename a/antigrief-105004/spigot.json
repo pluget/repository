@@ -1,0 +1,30 @@
+{
+  "id": 105004,
+  "url": "https://www.spigotmc.org/resources/antigrief-anti-forceop-plugin.105004/",
+  "name": "AntiGrief [ANTI FORCEOP PLUGIN]",
+  "description": "No one hacker will get permissions on your network",
+  "authors": [
+    "Anytown"
+  ],
+  "numberOfDownloads": 27,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antigrief-anti-forceop-plugin.105004/history",
+  "gitUrl": "https://github.com/Anytown/AntiGrief",
+  "releaseDate": 1662093360000,
+  "updateDate": 1662093360000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

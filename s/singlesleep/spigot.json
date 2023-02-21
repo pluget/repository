@@ -1,0 +1,30 @@
+{
+  "id": 106462,
+  "url": "https://www.spigotmc.org/resources/singlesleep.106462/",
+  "name": "SingleSleep",
+  "description": "With SingleSleep it's possible to skip the night with only one player in it's bed",
+  "authors": [
+    "ToujoursTitou"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106462.jpg?1669555932",
+  "iconCid": "bafkreic2sgfrrcb667f24icc3ststyymqbbv2nkiro3kc2v2m2ujdqlwx4",
+  "numberOfDownloads": 78,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/singlesleep.106462/history",
+  "gitUrl": "https://github.com/PasToujoursTitou/SingleSleep",
+  "releaseDate": 1669552260000,
+  "updateDate": 1669552260000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

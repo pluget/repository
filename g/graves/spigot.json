@@ -1,0 +1,33 @@
+{
+  "id": 74208,
+  "url": "https://www.spigotmc.org/resources/graves.74208/",
+  "name": "Graves",
+  "description": "The definitive death chest plugin.",
+  "authors": [
+    "Ranull"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/74/74208.jpg?1596200834",
+  "iconCid": "bafkreib6sl4l23mgtb4tvaoeu6bhjf6vxhf3c7lajgj33euh7j7vkybygq",
+  "numberOfDownloads": 262595,
+  "rating": 4.6,
+  "numberOfVotes": 92,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/graves.74208/history",
+  "gitUrl": "https://gitlab.com/ranull/minecraft/graves",
+  "releaseDate": 1676864520000,
+  "updateDate": 1676864520000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

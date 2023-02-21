@@ -1,0 +1,31 @@
+{
+  "id": 106080,
+  "url": "https://www.spigotmc.org/resources/simple-calc.106080/",
+  "name": "Simple Calc",
+  "description": "spigot calculator for minecraft with commands",
+  "authors": [
+    "Revo_Dev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106080.jpg?1667546233",
+  "iconCid": "bafkreidaspnlgrd5q463rmxpdbjnguzeil4bsqso56ptw6ievnqgag3ody",
+  "numberOfDownloads": 30,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-calc.106080/history",
+  "releaseDate": 1667542620000,
+  "updateDate": 1667600640000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

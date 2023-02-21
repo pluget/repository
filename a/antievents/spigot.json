@@ -1,0 +1,31 @@
+{
+  "id": 107071,
+  "url": "https://www.spigotmc.org/resources/antievents.107071/",
+  "name": "AntiEvents",
+  "description": "delete the explosions rain and nether all optional",
+  "authors": [
+    "Thedogsito"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107071.jpg?1672456158",
+  "iconCid": "bafkreigt6wmregahiwfddk5tqfrybre3fchldxaekrzuxuuzpgjbnjj6fq",
+  "numberOfDownloads": 14,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antievents.107071/history",
+  "releaseDate": 1672452540000,
+  "updateDate": 1672452780000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

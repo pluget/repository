@@ -1,0 +1,31 @@
+{
+  "id": 105667,
+  "url": "https://www.spigotmc.org/resources/flyui.105667/",
+  "name": "FlyUI",
+  "description": "The fly command on an inventory.",
+  "authors": [
+    "antonitoo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105667.jpg?1665153215",
+  "iconCid": "bafkreieurx3quwwm54adj2r2iljiml5kocon7pzijxgudm6e7lee422ulu",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/flyui.105667/history",
+  "releaseDate": 1665149520000,
+  "updateDate": 1665149520000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

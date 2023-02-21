@@ -1,0 +1,32 @@
+{
+  "id": 99482,
+  "url": "https://www.spigotmc.org/resources/corpse-lightweight-asynchronous-1-8-1-19.99482/",
+  "name": "Corpse | Lightweight & Asynchronous | 1.8-1.19",
+  "description": "dead bodies in minecraft for 1.8-1.19 servers.",
+  "authors": [
+    "Unlegit_Denis"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99482.jpg?1643043522",
+  "iconCid": "bafkreifqit2iqliro27qgsnwuaf34f5kf7iyuiyuvwrybwbt2ry2si22ai",
+  "numberOfDownloads": 685,
+  "rating": 4.8,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/corpse-lightweight-asynchronous-1-8-1-19.99482/history",
+  "gitUrl": "https://github.com/unldenis/Corpse",
+  "releaseDate": 1643039880000,
+  "updateDate": 1661374680000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

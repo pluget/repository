@@ -1,0 +1,25 @@
+{
+  "id": 106473,
+  "url": "https://www.spigotmc.org/resources/lmke-warps.106473/",
+  "name": "lmke warps",
+  "description": "A highly customizable minecraft spigot warp plugin with economy support and map integrations",
+  "authors": [
+    "Feuerhamster"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106473.jpg?1669585506",
+  "iconCid": "bafkreigkjexk74szvswqn7yk3nelunrem4kdimgshokvt5xe6qrvggbvma",
+  "numberOfDownloads": 34,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lmke-warps.106473/history",
+  "gitUrl": "https://github.com/Feuerhamster/lmke-warp-plugin",
+  "releaseDate": 1669581840000,
+  "updateDate": 1669581840000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

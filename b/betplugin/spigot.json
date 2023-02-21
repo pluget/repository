@@ -1,0 +1,19 @@
+{
+  "id": 107789,
+  "url": "https://www.spigotmc.org/resources/betplugin.107789/",
+  "name": "BetPlugin",
+  "description": "BetPlugin adds the command /bet, which consists in duplicate tha amount of your item, or lose it.",
+  "authors": [
+    "nazabucciarelli"
+  ],
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betplugin.107789/history",
+  "gitUrl": "https://github.com/nazabucciarelli/BetPlugin",
+  "releaseDate": 1675386900000,
+  "updateDate": 1675386900000,
+  "versions": [
+    "1.19"
+  ]
+}

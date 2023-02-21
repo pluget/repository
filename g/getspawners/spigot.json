@@ -1,0 +1,26 @@
+{
+  "id": 103578,
+  "url": "https://www.spigotmc.org/resources/getspawners.103578/",
+  "name": "GetSpawners",
+  "description": "Simple, and the most well-programmed and clean spawner plugin",
+  "authors": [
+    "Fabio_Santos"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103578.jpg?1658464227",
+  "iconCid": "bafkreihanwddc4kiglszc7u7ey5xr23ibb4o4m772xs2bfzqdums22nsji",
+  "numberOfDownloads": 90,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/getspawners.103578/history",
+  "releaseDate": 1658460540000,
+  "updateDate": 1658460540000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

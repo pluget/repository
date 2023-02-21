@@ -1,0 +1,22 @@
+{
+  "id": 92702,
+  "url": "https://www.spigotmc.org/resources/mixed-catastrophes.92702/",
+  "name": "Mixed Catastrophes",
+  "description": "Contains distorting time, freezing cold, radiant sky, curses, rites, and much more.",
+  "authors": [
+    "Mixin"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92702.jpg?1622322496",
+  "iconCid": "bafkreig4i4itmo32jtzo5jvkixhpaq7guw276qfaasvbga3fc3duecerny",
+  "numberOfDownloads": 803,
+  "rating": 4.6,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mixed-catastrophes.92702/history",
+  "gitUrl": "https://github.com/Mixin-ch/MixedCatastrophes",
+  "releaseDate": 1621969020000,
+  "updateDate": 1665232920000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

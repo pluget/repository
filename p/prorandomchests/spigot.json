@@ -1,0 +1,23 @@
+{
+  "id": 101636,
+  "url": "https://www.spigotmc.org/resources/prorandomchests-generate-random-chests-in-your-worlds.101636/",
+  "name": "Prorandomchests - Generate random chests in your worlds",
+  "description": "Spawns random chests in your worlds that give rewards.",
+  "authors": [
+    "goflish"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101636.jpg?1650839489",
+  "iconCid": "bafkreidm4fvh6wc55zw2hznvuikxrklna2umlbual6egjrsmedgufwtkba",
+  "numberOfDownloads": 246,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/prorandomchests-generate-random-chests-in-your-worlds.101636/history",
+  "gitUrl": "https://github.com/promcteam/prorandomchests",
+  "releaseDate": 1650835860000,
+  "updateDate": 1668110100000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

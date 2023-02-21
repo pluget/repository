@@ -1,0 +1,21 @@
+{
+  "id": 104553,
+  "url": "https://www.spigotmc.org/resources/random-item-vault.104553/",
+  "name": "Random Item Vault",
+  "description": "Equip the player with a randomly generated, periodically changing, vault-like inventory.",
+  "authors": [
+    "Xwordman7"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104553.jpg?1660500809",
+  "iconCid": "bafkreigibdhwnqoyhwbk2534bzdj7grop5wyrlt3cfvcymu2hetn4g25vm",
+  "numberOfDownloads": 84,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/random-item-vault.104553/history",
+  "gitUrl": "https://github.com/wordmann/RandomItemVault",
+  "releaseDate": 1660497180000,
+  "updateDate": 1661895600000,
+  "versions": [
+    "1.19"
+  ]
+}

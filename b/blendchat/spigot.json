@@ -1,0 +1,23 @@
+{
+  "id": 105382,
+  "url": "https://www.spigotmc.org/resources/blendchat.105382/",
+  "name": "BlendChat",
+  "description": "Allows players to chat with custom multicolor gradients.",
+  "authors": [
+    "Pibby"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105382.jpg?1663692476",
+  "iconCid": "bafkreiavljoemgvffk5mr2va57ywhvsqardyyyuuzttv5kqo2wmdsav6sm",
+  "numberOfDownloads": 110,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blendchat.105382/history",
+  "releaseDate": 1663688760000,
+  "updateDate": 1664240820000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

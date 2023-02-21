@@ -1,0 +1,32 @@
+{
+  "id": 88191,
+  "url": "https://www.spigotmc.org/resources/thimble.88191/",
+  "name": "Thimble",
+  "description": "Dé à coudre: jump into a water pool and avoid blocks.",
+  "authors": [
+    "syldium"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88191.jpg?1660814205",
+  "iconCid": "bafkreibcnfb5s3mmp4iuuldcwdsfml3lolv5g3kqangn4g7cyqnnommeua",
+  "numberOfDownloads": 499,
+  "rating": 4.8,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/thimble.88191/history",
+  "gitUrl": "https://github.com/syldium/Thimble",
+  "releaseDate": 1611408840000,
+  "updateDate": 1672066860000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

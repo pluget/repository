@@ -1,0 +1,32 @@
+{
+  "id": 96573,
+  "url": "https://www.spigotmc.org/resources/protocolstringreplacer-efficient-message-editor-1-8-1-19-3.96573/",
+  "name": "ProtocolStringReplacer - Efficient message editor[1.8-1.19.3]",
+  "description": "Also Parse Placeholder everywhere | 1.19 Chat reports perfect killer",
+  "authors": [
+    "Rothes"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96573.jpg?1641109708",
+  "iconCid": "bafkreigz5ut6qy5jmjzkmj6yhkyjkhuezuyjepo2nw262gbeoaxkwgulra",
+  "numberOfDownloads": 2213,
+  "rating": 5,
+  "numberOfVotes": 19,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/protocolstringreplacer-efficient-message-editor-1-8-1-19-3.96573/history",
+  "gitUrl": "https://github.com/Rothes/ProtocolStringReplacer",
+  "releaseDate": 1676418960000,
+  "updateDate": 1676418960000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

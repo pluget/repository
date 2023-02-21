@@ -1,0 +1,24 @@
+{
+  "id": 82729,
+  "url": "https://www.spigotmc.org/resources/rosestacker.82729/",
+  "name": "RoseStacker",
+  "description": "A mob, item, spawner, and block stacking plugin that is built for functionality and performance.",
+  "authors": [
+    "Esophose"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82729.jpg?1597366638",
+  "iconCid": "bafkreih5kc5lhjsus6bd4egk3tapsm5co3xizb24ktjzoaxeqnvyv3mu3q",
+  "numberOfDownloads": 20086,
+  "rating": 4.8,
+  "numberOfVotes": 70,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rosestacker.82729/history",
+  "gitUrl": "https://github.com/Rosewood-Development/RoseStacker",
+  "releaseDate": 1676575740000,
+  "updateDate": 1676575740000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

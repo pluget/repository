@@ -1,0 +1,31 @@
+{
+  "id": 100666,
+  "url": "https://www.spigotmc.org/resources/cleargrounditems.100666/",
+  "name": "ClearGroundItems",
+  "description": "Simple plugin to automatically clear dropped items with warnings.",
+  "authors": [
+    "LOl4ik"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100666.jpg?1647151436",
+  "iconCid": "bafkreierxgm2y4acd4wuex5epxlrmba6lzpmwhlhjwgegbzd33qthyvkya",
+  "numberOfDownloads": 287,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cleargrounditems.100666/history",
+  "releaseDate": 1647147780000,
+  "updateDate": 1662179520000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

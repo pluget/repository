@@ -1,0 +1,31 @@
+{
+  "id": 103679,
+  "url": "https://www.spigotmc.org/resources/multiperms.103679/",
+  "name": "MultiPerms",
+  "description": "a plugin that makes editing permissions on multiple ranks way easier",
+  "authors": [
+    "canable"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103679.jpg?1658746821",
+  "iconCid": "bafkreigs4rrsdouwclpohmje7qfn55egofktcj7bi7floyl5wylqu3qqxa",
+  "numberOfDownloads": 37,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/multiperms.103679/history",
+  "releaseDate": 1658743200000,
+  "updateDate": 1658743200000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

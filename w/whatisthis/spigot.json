@@ -1,0 +1,27 @@
+{
+  "id": 65050,
+  "url": "https://www.spigotmc.org/resources/whatisthis-identify-the-block-or-entity-being-looked-at-1-13-1-19-multi-language-support.65050/",
+  "name": "WhatIsThis - Identify the block or entity being looked at | 1.13 - 1.19 | Multi-Language support |",
+  "description": "Displays in local language: supports Slimefun4, Nova, Craftory, Oraxen, ItemsAdder & MythicMobs",
+  "authors": [
+    "steve4744"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/65/65050.jpg?1550667522",
+  "iconCid": "bafkreifvhp67qjjabn6nfjvefimkn2xapsj7qaaytdq7nqlu4ooqua3j3y",
+  "numberOfDownloads": 14126,
+  "rating": 5,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/whatisthis-identify-the-block-or-entity-being-looked-at-1-13-1-19-multi-language-support.65050/history",
+  "gitUrl": "https://github.com/steve4744/WhatIsThis",
+  "releaseDate": 1550663880000,
+  "updateDate": 1669999380000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

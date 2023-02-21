@@ -1,0 +1,24 @@
+{
+  "id": 95934,
+  "url": "https://www.spigotmc.org/resources/betterlogs.95934/",
+  "name": "BetterLogs",
+  "description": "Adds more info into Minecraft's log files",
+  "authors": [
+    "AutismFather"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95934.jpg?1630677236",
+  "iconCid": "bafkreigrv6sjq63z3d2zrlhaf2e4zroy73egnmcwt57w7v2rcjfgggca74",
+  "numberOfDownloads": 180,
+  "rating": 4.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterlogs.95934/history",
+  "gitUrl": "https://github.com/AutismFather/BetterLogs",
+  "releaseDate": 1630673580000,
+  "updateDate": 1663120620000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

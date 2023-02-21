@@ -1,0 +1,23 @@
+{
+  "id": 102133,
+  "url": "https://www.spigotmc.org/resources/authenticator-lightweight-2fa.102133/",
+  "name": "Authenticator | Lightweight 2FA",
+  "description": "A simple authentication plugin that offers TOTP with a QR scanner.",
+  "authors": [
+    "HuskyDreaming"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102133.jpg?1653162117",
+  "iconCid": "bafkreidoy7bhrjbh7ac4zmptnmsgd3bqrsrzkehkkf5vir3e44vs5ks2dm",
+  "numberOfDownloads": 132,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/authenticator-lightweight-2fa.102133/history",
+  "gitUrl": "https://github.com/HuskyDreaming/Authenticator",
+  "releaseDate": 1653158460000,
+  "updateDate": 1660596480000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

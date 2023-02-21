@@ -1,0 +1,21 @@
+{
+  "id": 104611,
+  "url": "https://www.spigotmc.org/resources/disablepluginscommand.104611/",
+  "name": "DisablePluginsCommand",
+  "description": "Disable commands like /plugin, /version, etc.",
+  "authors": [
+    "Artichoked"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104611.jpg?1660721447",
+  "iconCid": "bafkreie4ghmkecpvpfr2bqynlas5yyu5y6sa24yh53us4cgu2v457cthqy",
+  "numberOfDownloads": 157,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/disablepluginscommand.104611/history",
+  "gitUrl": "https://github.com/Smartich0ke/DisablePluginsCommand",
+  "releaseDate": 1660717800000,
+  "updateDate": 1660906020000,
+  "versions": [
+    "1.19"
+  ]
+}

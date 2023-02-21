@@ -1,0 +1,32 @@
+{
+  "id": 78713,
+  "url": "https://www.spigotmc.org/resources/redlib.78713/",
+  "name": "RedLib",
+  "description": "A powerful, well-documented, and open-source library to make Spigot plugin development easier",
+  "authors": [
+    "Redempt"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/78/78713.jpg?1621910001",
+  "iconCid": "bafkreibcm6r333ajhi3ztqlmahvakbvqlg2ckeojx6jknwyl3tkubyad5u",
+  "numberOfDownloads": 6156,
+  "rating": 5,
+  "numberOfVotes": 18,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/redlib.78713/history",
+  "gitUrl": "https://github.com/Redempt/RedLib",
+  "releaseDate": 1589242980000,
+  "updateDate": 1664064300000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

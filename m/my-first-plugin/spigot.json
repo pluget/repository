@@ -1,0 +1,21 @@
+{
+  "id": 78773,
+  "url": "https://www.spigotmc.org/resources/my-first-plugin.78773/",
+  "name": "My first plugin!",
+  "description": "meow",
+  "authors": [
+    "Porkchop"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/78/78773.jpg?1665206369",
+  "iconCid": "bafkreicrftw2hld7uf5a3ysitjnivbjooxxv5e36pdwp5l7xnbrtdqf3lq",
+  "numberOfDownloads": 112,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/my-first-plugin.78773/history",
+  "releaseDate": 1589364180000,
+  "updateDate": 1665202140000,
+  "versions": [
+    "1.15",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 93473,
+  "url": "https://www.spigotmc.org/resources/frozenjoin.93473/",
+  "name": "FrozenJoin",
+  "description": "FrozenJoin offers incredible customization of join/quit messages alongside JSON-formatted messages.",
+  "authors": [
+    "BlitzGamer88"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93473.jpg?1624167990",
+  "iconCid": "bafkreibchf7e6obqja42pi2nzhmaw54e4fuzl5kwslegg4doa7gufva6eq",
+  "numberOfDownloads": 355,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/frozenjoin.93473/history",
+  "gitUrl": "https://github.com/BlitzOffline/FrozenJoin",
+  "releaseDate": 1624164360000,
+  "updateDate": 1661100780000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 107502,
+  "url": "https://www.spigotmc.org/resources/adminchat.107502/",
+  "name": "AdminChat",
+  "description": "Manage your Minecraft chat with new features",
+  "authors": [
+    "Cuz_Im_Lel"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107502.jpg?1674239221",
+  "iconCid": "bafkreieo7yxsqf6ualkfif6355rcnou2o6abtrk7cdxiyupotvntyniz24",
+  "numberOfDownloads": 43,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/adminchat.107502/history",
+  "gitUrl": "https://github.com/CuzImLel/PluginAdminchat",
+  "releaseDate": 1674235560000,
+  "updateDate": 1674235560000,
+  "versions": [
+    "1.19"
+  ]
+}

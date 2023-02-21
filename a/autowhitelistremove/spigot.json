@@ -1,0 +1,30 @@
+{
+  "id": 93326,
+  "url": "https://www.spigotmc.org/resources/autowhitelistremove.93326/",
+  "name": "AutoWhitelistRemove",
+  "description": "Automatically remove inactive players from your whitelist!",
+  "authors": [
+    "hyperdefined"
+  ],
+  "numberOfDownloads": 628,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/autowhitelistremove.93326/history",
+  "gitUrl": "https://github.com/hyperdefined/AutoWhitelistRemove",
+  "releaseDate": 1623689580000,
+  "updateDate": 1660574100000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

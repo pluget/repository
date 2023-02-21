@@ -1,0 +1,26 @@
+{
+  "id": 96641,
+  "url": "https://www.spigotmc.org/resources/portal-gun.96641/",
+  "name": "Portal Gun",
+  "description": "Use Portal Guns to teleport around your world!",
+  "authors": [
+    "Fentis"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96641.jpg?1640050933",
+  "iconCid": "bafkreiea5pq3kqqxrgc5ibusjpoaenr3wwy6b3mvf7kf65zutegjhexxxa",
+  "numberOfDownloads": 896,
+  "rating": 4.7,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/portal-gun.96641/history",
+  "gitUrl": "https://github.com/FentisDev/PortalGun",
+  "releaseDate": 1633378860000,
+  "updateDate": 1675709520000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

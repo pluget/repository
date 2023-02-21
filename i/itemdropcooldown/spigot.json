@@ -1,0 +1,21 @@
+{
+  "id": 106416,
+  "url": "https://www.spigotmc.org/resources/itemdropcooldown.106416/",
+  "name": "ItemDropCooldown",
+  "description": "Limit player item drops.",
+  "authors": [
+    "Marumasa"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106416.jpg?1669288705",
+  "iconCid": "bafkreigbnphs4gcqtfjqxopf43hlbkqdljt5pmyw4akzcgpp63wmzxnkm4",
+  "numberOfDownloads": 9,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/itemdropcooldown.106416/history",
+  "gitUrl": "https://github.com/malken21/Minecraft_ItemDropCooldown_Spigot",
+  "releaseDate": 1669285080000,
+  "updateDate": 1669285080000,
+  "versions": [
+    "1.19"
+  ]
+}

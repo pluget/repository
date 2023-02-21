@@ -1,0 +1,29 @@
+{
+  "id": 80867,
+  "url": "https://www.spigotmc.org/resources/mp-auto-pickup.80867/",
+  "name": "MP Auto Pickup",
+  "description": "*Best* free AutoPickup/AutoSmelt solution on the market! [1.8 - 1.16.x]",
+  "authors": [
+    "lelesape"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80867.jpg?1593479377",
+  "iconCid": "bafkreifhwl5cl4tyzwrzwm5xt2zydtzjgpv7hvzbn45bu5u77qwhdtjsmi",
+  "numberOfDownloads": 2519,
+  "rating": 4.1,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mp-auto-pickup.80867/history",
+  "gitUrl": "https://github.com/alfonsoLeandro/MPAutoPickup",
+  "releaseDate": 1593475740000,
+  "updateDate": 1658627100000,
+  "versions": [
+    "1.8",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

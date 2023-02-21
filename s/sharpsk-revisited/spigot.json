@@ -1,0 +1,32 @@
+{
+  "id": 105720,
+  "url": "https://www.spigotmc.org/resources/sharpsk-revisited-authmereloaded-compatible.105720/",
+  "name": "SharpSK Revisited (AuthMeReloaded Compatible)",
+  "description": "Compatibility for the latest AuthMeReloaded Plugin",
+  "authors": [
+    "Peezzied"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105720.jpg?1665411354",
+  "iconCid": "bafkreih5nuqqqfintvm4cgmlnfxfulruyxawhnycwwheobydwr75wlkbiq",
+  "numberOfDownloads": 140,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sharpsk-revisited-authmereloaded-compatible.105720/history",
+  "gitUrl": "https://github.com/Peezzied/SharpSK",
+  "releaseDate": 1665407700000,
+  "updateDate": 1665407700000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

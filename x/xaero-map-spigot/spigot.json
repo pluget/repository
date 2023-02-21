@@ -1,0 +1,21 @@
+{
+  "id": 105695,
+  "url": "https://www.spigotmc.org/resources/xaero-map-spigot.105695/",
+  "name": "Xaero Map Spigot",
+  "description": "Adds server side support for Xaero's World Map and Minimap to your spigot server!",
+  "authors": [
+    "chaws"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105695.jpg?1666035344",
+  "iconCid": "bafkreiffh6jmf5zd33ga7izppw7j76tyvpxrt5mw4jnhbabv27ieq373oi",
+  "numberOfDownloads": 583,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/xaero-map-spigot.105695/history",
+  "gitUrl": "https://github.com/ChristopherHaws/mc-xaero-map-spigot",
+  "releaseDate": 1665268560000,
+  "updateDate": 1665268560000,
+  "versions": [
+    "1.19"
+  ]
+}

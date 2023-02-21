@@ -1,0 +1,22 @@
+{
+  "id": 107908,
+  "url": "https://www.spigotmc.org/resources/virtrualspawners.107908/",
+  "name": "VirtrualSpawners",
+  "description": "Add a virtual spawner bank! Store spawners in your bank for easy access and upgrades!",
+  "authors": [
+    "xbunnies"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107908.jpg?1675908929",
+  "iconCid": "bafkreicbr22xbpaos5palqy4yybonfqpliprvvpc423qha7lnlp75whs4q",
+  "numberOfDownloads": 224,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/virtrualspawners.107908/history",
+  "gitUrl": "https://xbunnies.gitbook.io/virtualspawners/overview/home",
+  "releaseDate": 1676850840000,
+  "updateDate": 1676850840000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

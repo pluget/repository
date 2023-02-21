@@ -1,0 +1,31 @@
+{
+  "id": 107121,
+  "url": "https://www.spigotmc.org/resources/respawn-mechanics.107121/",
+  "name": "Respawn Mechanics",
+  "description": "Auto respawn, respawn title and subtitle",
+  "authors": [
+    "iChocoMC_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107121.jpg?1672620102",
+  "iconCid": "bafkreiajby5usqfvn45y6go435dplawnu74bjie54ocubdum4zrx3avp2u",
+  "numberOfDownloads": 80,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/respawn-mechanics.107121/history",
+  "releaseDate": 1672616460000,
+  "updateDate": 1672618860000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 105716,
+  "url": "https://www.spigotmc.org/resources/rechant.105716/",
+  "name": "Rechant",
+  "description": "A plugin which allows you to take off enchantments and put them onto books.",
+  "authors": [
+    "beabyte"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105716.jpg?1665345738",
+  "iconCid": "bafkreicih4nr7ingr6nbqnxjwrrlrmsenrn7otpscvi2cw3gvjsymn4ysu",
+  "numberOfDownloads": 131,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rechant.105716/history",
+  "gitUrl": "https://github.com/beailotus/rechant",
+  "releaseDate": 1665342120000,
+  "updateDate": 1665387780000,
+  "versions": [
+    "1.19"
+  ]
+}

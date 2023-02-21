@@ -1,0 +1,33 @@
+{
+  "id": 97003,
+  "url": "https://www.spigotmc.org/resources/perworldcommands.97003/",
+  "name": "PerWorldCommands",
+  "description": "Put a command for a world.",
+  "authors": [
+    "Tonimatas"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97003.jpg?1634846702",
+  "iconCid": "bafkreifayyc2flfo53iufxo6y4em5c7hjgpzmwfc7idxf6b2ccry25gjua",
+  "numberOfDownloads": 554,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/perworldcommands.97003/history",
+  "gitUrl": "https://github.com/TonimatasDEV/PerWorldCommands",
+  "releaseDate": 1634843040000,
+  "updateDate": 1671289020000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

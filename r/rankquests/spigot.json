@@ -1,0 +1,30 @@
+{
+  "id": 26072,
+  "url": "https://www.spigotmc.org/resources/rankquests-extremely-configurable.26072/",
+  "name": "RankQuests - Extremely Configurable!",
+  "description": "A plugin that adds timed quests for players to complete before giving them one time use items.",
+  "authors": [
+    "xu_yukun"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/26/26072.jpg?1468041539",
+  "iconCid": "bafkreig66tquvfpjkkmwqaueccmjzpbzovemuk2wrolosiwvweqgclffwm",
+  "numberOfDownloads": 9122,
+  "rating": 4.5,
+  "numberOfVotes": 52,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rankquests-extremely-configurable.26072/history",
+  "gitUrl": "https://github.com/Yukun99/RankQuestsX",
+  "releaseDate": 1468037880000,
+  "updateDate": 1671334860000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

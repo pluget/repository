@@ -1,0 +1,30 @@
+{
+  "id": 102995,
+  "url": "https://www.spigotmc.org/resources/actionbarapi-1-8-1-19-3.102995/",
+  "name": "ActionBarAPI | [1.8-1.19.3]",
+  "description": "Action bar API for bukkit and forks of bukkit.",
+  "authors": [
+    "LemonyPancakes"
+  ],
+  "numberOfDownloads": 252,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/actionbarapi-1-8-1-19-3.102995/history",
+  "gitUrl": "https://github.com/LemonyPancakes/ActionBarAPI",
+  "releaseDate": 1656560160000,
+  "updateDate": 1672390080000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

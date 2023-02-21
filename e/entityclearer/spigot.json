@@ -1,0 +1,23 @@
+{
+  "id": 90802,
+  "url": "https://www.spigotmc.org/resources/entityclearer.90802/",
+  "name": "EntityClearer",
+  "description": "Remove certain entities every x minutes with extreme customization!",
+  "authors": [
+    "JasonHorkles"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90802.jpg?1617514710",
+  "iconCid": "bafkreihjtmjsauvfhade3o7tobimhm6m27fjw4fgjeajpsqahhnavhangi",
+  "numberOfDownloads": 5613,
+  "rating": 5,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/entityclearer.90802/history",
+  "gitUrl": "https://github.com/SilverstoneMC/EntityClearer",
+  "releaseDate": 1617243660000,
+  "updateDate": 1674677280000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

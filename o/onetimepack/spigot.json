@@ -1,0 +1,32 @@
+{
+  "id": 106749,
+  "url": "https://www.spigotmc.org/resources/onetimepack-avoid-double-sending-the-same-pack-bungeecord-velocity.106749/",
+  "name": "OneTimePack | Avoid double sending the same pack [Bungeecord & Velocity]",
+  "description": "Send the same resource pack only one time",
+  "authors": [
+    "Rubenicos"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106749.jpg?1671122853",
+  "iconCid": "bafkreigekipxdqzm6gnv6y2cljpy7xb6bk3e7oqh2navbicpnknfrbyuba",
+  "numberOfDownloads": 68,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/onetimepack-avoid-double-sending-the-same-pack-bungeecord-velocity.106749/history",
+  "gitUrl": "https://github.com/saicone/OneTimePack",
+  "releaseDate": 1671119220000,
+  "updateDate": 1671295800000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

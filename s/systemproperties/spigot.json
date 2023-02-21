@@ -1,0 +1,19 @@
+{
+  "id": 66958,
+  "url": "https://www.spigotmc.org/resources/systemproperties.66958/",
+  "name": "SystemProperties",
+  "description": "Writes Java system properties to log file",
+  "authors": [
+    "Bobcat00"
+  ],
+  "numberOfDownloads": 457,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/systemproperties.66958/history",
+  "gitUrl": "https://github.com/Bobcat00/SystemProperties",
+  "releaseDate": 1556531400000,
+  "updateDate": 1668179760000,
+  "versions": [
+    "1.19"
+  ]
+}

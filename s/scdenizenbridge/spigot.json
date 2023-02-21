@@ -1,0 +1,23 @@
+{
+  "id": 105250,
+  "url": "https://www.spigotmc.org/resources/scdenizenbridge.105250/",
+  "name": "SCDenizenBridge",
+  "description": "A bridge between Denizen and SimpleClans.",
+  "authors": [
+    "Minat0_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105250.jpg?1663023521",
+  "iconCid": "bafkreihqwmioz7c7gzypse3275djihlg5awwka52yotppblnmwomwaszem",
+  "numberOfDownloads": 34,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/scdenizenbridge.105250/history",
+  "gitUrl": "https://github.com/Tomut0/SCDenizenBridge",
+  "releaseDate": 1663019340000,
+  "updateDate": 1670440080000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

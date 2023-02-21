@@ -1,0 +1,19 @@
+{
+  "id": 104418,
+  "url": "https://www.spigotmc.org/resources/togglelogstripping.104418/",
+  "name": "ToggleLogStripping",
+  "description": "Prevent accidentally stripping your logs",
+  "authors": [
+    "arrivals"
+  ],
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/togglelogstripping.104418/history",
+  "gitUrl": "https://github.com/arr1vals/ToggleLogStripping",
+  "releaseDate": 1660086660000,
+  "updateDate": 1660086660000,
+  "versions": [
+    "1.19"
+  ]
+}

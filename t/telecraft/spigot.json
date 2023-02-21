@@ -1,0 +1,25 @@
+{
+  "id": 75751,
+  "url": "https://www.spigotmc.org/resources/telecraft.75751/",
+  "name": "Telecraft",
+  "description": "Teleport players and mobs by crafting news items like Strangeblocs, arrows, potions, etc...",
+  "authors": [
+    "fonkfader"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75751.jpg?1583398109",
+  "iconCid": "bafkreidwxodz2py4uizd2lrg6ulqd5k6ku2gu336db6kb4pcu2nalnv3h4",
+  "numberOfDownloads": 5168,
+  "rating": 4.5,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/telecraft.75751/history",
+  "gitUrl": "https://github.com/fonkfader/Telecraft",
+  "releaseDate": 1583394480000,
+  "updateDate": 1670575860000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

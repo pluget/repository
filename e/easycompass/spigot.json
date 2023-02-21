@@ -1,0 +1,26 @@
+{
+  "id": 100645,
+  "url": "https://www.spigotmc.org/resources/easy-compass.100645/",
+  "name": "Easy-Compass",
+  "description": "Navigate your server with ease using the customizable compass plugin",
+  "authors": [
+    "rik02"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100645.jpg?1647098611",
+  "iconCid": "bafkreidurerytrfcvmlhdd3al4cfsu2cs3inymvet4epakfim2zzh5vwl4",
+  "numberOfDownloads": 79,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/easy-compass.100645/history",
+  "releaseDate": 1647094920000,
+  "updateDate": 1664113260000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

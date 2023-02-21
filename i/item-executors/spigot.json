@@ -1,0 +1,19 @@
+{
+  "id": 107015,
+  "url": "https://www.spigotmc.org/resources/item-executors.107015/",
+  "name": "Item Executors",
+  "description": "This plugin has executing items, so if you right click on them it runs a certain command from server",
+  "authors": [
+    "Forlander123"
+  ],
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/item-executors.107015/history",
+  "releaseDate": 1672228500000,
+  "updateDate": 1672228500000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

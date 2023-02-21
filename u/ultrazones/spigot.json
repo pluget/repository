@@ -1,0 +1,24 @@
+{
+  "id": 103295,
+  "url": "https://www.spigotmc.org/resources/ultrazones.103295/",
+  "name": "UltraZones",
+  "description": "A plugin that will take care of executing actions in a WorldGuard region!",
+  "authors": [
+    "velociXD"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103295.jpg?1657589258",
+  "iconCid": "bafkreifrqbb3tpxy7jkd2lobwzbyvf3kdyk2czallwjzpmjtftx5qy3a4q",
+  "numberOfDownloads": 85,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ultrazones.103295/history",
+  "gitUrl": "https://github.com/bixgamer707/UltraZones",
+  "releaseDate": 1657585620000,
+  "updateDate": 1658333460000,
+  "versions": [
+    "1.13",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

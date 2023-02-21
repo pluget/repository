@@ -1,0 +1,20 @@
+{
+  "id": 106968,
+  "url": "https://www.spigotmc.org/resources/simplevote.106968/",
+  "name": "SimpleVote",
+  "description": "A simple plugin for voting for players, in-game",
+  "authors": [
+    "maartin0"
+  ],
+  "numberOfDownloads": 13,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplevote.106968/history",
+  "gitUrl": "https://github.com/maartin0/SpigotSimpleVote",
+  "releaseDate": 1672014600000,
+  "updateDate": 1672014600000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

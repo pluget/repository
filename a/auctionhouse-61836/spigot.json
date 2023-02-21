@@ -1,0 +1,21 @@
+{
+  "id": 61836,
+  "url": "https://www.spigotmc.org/resources/auctionhouse.61836/",
+  "name": "AuctionHouse",
+  "description": "An AuctionHouse plugin for 1.18.2 with a familiar interface.",
+  "authors": [
+    "klugemonkey"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/61/61836.jpg?1540423495",
+  "iconCid": "bafkreicllwzrmfhbt2ctlo6wib2cap6ft763wtwliintzdgbyfuq2gfkba",
+  "numberOfDownloads": 276638,
+  "rating": 3.9,
+  "numberOfVotes": 248,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/auctionhouse.61836/history",
+  "releaseDate": 1676671200000,
+  "updateDate": 1676671200000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

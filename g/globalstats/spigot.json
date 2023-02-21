@@ -1,0 +1,31 @@
+{
+  "id": 103445,
+  "url": "https://www.spigotmc.org/resources/globalstats-minecraft-leaderboards-with-offline-external-plugin-support.103445/",
+  "name": "GlobalStats - Minecraft leaderboards with offline & external plugin support",
+  "description": "Generate top lists via PlaceholderAPI | over 38.800 placeholders per player | External Support",
+  "authors": [
+    "Morelaid"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103445.jpg?1658055038",
+  "iconCid": "bafkreihksgqjc5a6sa2sfy7nfzlerwtik6s2zru6s6ljyanz5wurfa3bmi",
+  "numberOfDownloads": 908,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/globalstats-minecraft-leaderboards-with-offline-external-plugin-support.103445/history",
+  "releaseDate": 1658051400000,
+  "updateDate": 1676012580000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

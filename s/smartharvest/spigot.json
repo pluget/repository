@@ -1,0 +1,28 @@
+{
+  "id": 90768,
+  "url": "https://www.spigotmc.org/resources/smartharvest.90768/",
+  "name": "SmartHarvest",
+  "description": "Right-click crops to harvest & replant them",
+  "authors": [
+    "Plug_And_Cree"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90768.jpg?1619988682",
+  "iconCid": "bafkreiek4hajz4jjkqiwkyir6tqelkacx7hwigc6zwzkojrwryp3xhedrq",
+  "numberOfDownloads": 582,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/smartharvest.90768/history",
+  "gitUrl": "https://github.com/PlugAndCree/SmartHarvest",
+  "releaseDate": 1617191700000,
+  "updateDate": 1658241420000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

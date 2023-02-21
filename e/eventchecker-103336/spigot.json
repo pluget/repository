@@ -1,0 +1,20 @@
+{
+  "id": 103336,
+  "url": "https://www.spigotmc.org/resources/eventchecker.103336/",
+  "name": "EventChecker",
+  "description": "Check Events that are fired by your Server",
+  "authors": [
+    "thelooter"
+  ],
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/eventchecker.103336/history",
+  "gitUrl": "https://github.com/thelooter/EventChecker",
+  "releaseDate": 1657719360000,
+  "updateDate": 1657719360000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

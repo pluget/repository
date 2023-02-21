@@ -1,0 +1,32 @@
+{
+  "id": 67835,
+  "url": "https://www.spigotmc.org/resources/gps-quests.67835/",
+  "name": "GPS-Quests",
+  "description": "Navigate Quests objectives using GPS arrows",
+  "authors": [
+    "PikaMug"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/67/67835.jpg?1615880769",
+  "iconCid": "bafkreiagvc5o5olsmlj2y4axzrx5td3mufwnyonvlfylclbmymrqft7ade",
+  "numberOfDownloads": 1747,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gps-quests.67835/history",
+  "gitUrl": "https://github.com/PikaMug/GPS-Quests",
+  "releaseDate": 1559161260000,
+  "updateDate": 1663186800000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

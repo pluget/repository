@@ -1,0 +1,22 @@
+{
+  "id": 105927,
+  "url": "https://www.spigotmc.org/resources/iodeathseeker.105927/",
+  "name": "IODeathSeeker",
+  "description": "Collect as many unique death messages as possible!",
+  "authors": [
+    "Doctacosa"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105927.jpg?1666738488",
+  "iconCid": "bafkreigqhwneeb5gb7mjbckx2paupyyh4xb75bvoc7zlpon5tnphm5mteu",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/iodeathseeker.105927/history",
+  "gitUrl": "https://github.com/Doctacosa/IODeathSeeker",
+  "releaseDate": 1666734840000,
+  "updateDate": 1666734840000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

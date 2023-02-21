@@ -1,0 +1,25 @@
+{
+  "id": 78194,
+  "url": "https://www.spigotmc.org/resources/troll-plugin-gui-anything-is-configurable.78194/",
+  "name": "Troll plugin (GUI, Anything is Configurable)",
+  "description": "My first to be released spigot plugin featuring many troll features and a GUI!",
+  "authors": [
+    "Xapu1337"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/78/78194.jpg?1588317908",
+  "iconCid": "bafkreiauxmnsxzyikwxu5ms5j7gcot3a4sjdx6l5lzh4f5pisa3cywjyqm",
+  "numberOfDownloads": 9285,
+  "rating": 4.5,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/troll-plugin-gui-anything-is-configurable.78194/history",
+  "gitUrl": "https://github.com/Xapu1337/TrollGUI",
+  "releaseDate": 1588288860000,
+  "updateDate": 1658097840000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

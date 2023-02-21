@@ -1,0 +1,27 @@
+{
+  "id": 107931,
+  "url": "https://www.spigotmc.org/resources/customjoinmessage.107931/",
+  "name": "CustomJoinMessage",
+  "description": "Plugin for Customize your Join Message.",
+  "authors": [
+    "Xullz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107931.jpg?1676211599",
+  "iconCid": "bafkreifjuf5in4sphkrhbddks5kwdevxqhh42bukcsw52ozdqdpwhsgev4",
+  "numberOfDownloads": 53,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/customjoinmessage.107931/history",
+  "releaseDate": 1676041740000,
+  "updateDate": 1676156100000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

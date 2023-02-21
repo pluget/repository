@@ -1,0 +1,25 @@
+{
+  "id": 100088,
+  "url": "https://www.spigotmc.org/resources/totemplay.100088/",
+  "name": "TotemPlay",
+  "description": "Add cool looking messages on your screen",
+  "authors": [
+    "darktube"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100088.jpg?1645104686",
+  "iconCid": "bafkreigdgl2t7p5iryk2p5peyjt7u73tvhv5vhmls4zxdzwoytadoawfhq",
+  "numberOfDownloads": 310,
+  "rating": 4.5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/totemplay.100088/history",
+  "releaseDate": 1645101060000,
+  "updateDate": 1660394040000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

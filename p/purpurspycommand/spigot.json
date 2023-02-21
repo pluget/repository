@@ -1,0 +1,25 @@
+{
+  "id": 103869,
+  "url": "https://www.spigotmc.org/resources/purpurspy%E3%80%90command-spy-sign-spy-book-spy-anvil-spy%E3%80%91.103869/",
+  "name": "PurpurSpy【Command spy, Sign spy, Book spy, Anvil spy】",
+  "description": "Plugin for spying on players.",
+  "authors": [
+    "Purpur97"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103869.jpg?1659246562",
+  "iconCid": "bafkreieyt2ycy4f5pluuhei3cmjeqj54b3ttpu4sfe7znjxdrbp5q4rbyq",
+  "numberOfDownloads": 87,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/purpurspy%E3%80%90command-spy-sign-spy-book-spy-anvil-spy%E3%80%91.103869/history",
+  "gitUrl": "https://github.com/Xann97/purpur-spy",
+  "releaseDate": 1659242940000,
+  "updateDate": 1673553000000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

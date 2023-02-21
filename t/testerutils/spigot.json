@@ -1,0 +1,19 @@
+{
+  "id": 105305,
+  "url": "https://www.spigotmc.org/resources/testerutils.105305/",
+  "name": "TesterUtils",
+  "description": "An open-source 1.19.2 plugin designed to make testing generally easier on dev servers.",
+  "authors": [
+    "MasterBroNetwork"
+  ],
+  "numberOfDownloads": 13,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/testerutils.105305/history",
+  "gitUrl": "https://github.com/MasterBroNetwork/TesterUtils",
+  "releaseDate": 1663305240000,
+  "updateDate": 1663305240000,
+  "versions": [
+    "1.19"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 59124,
+  "url": "https://www.spigotmc.org/resources/pvp-stats.59124/",
+  "name": "PVP Stats",
+  "description": "Keep track of your users' PVP Actions - MySQL or SQLite recommended!",
+  "authors": [
+    "SLiPCoR"
+  ],
+  "numberOfDownloads": 19379,
+  "rating": 4.6,
+  "numberOfVotes": 34,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pvp-stats.59124/history",
+  "gitUrl": "https://github.com/slipcor/PVPStats",
+  "releaseDate": 1532630640000,
+  "updateDate": 1672481940000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 106696,
+  "url": "https://www.spigotmc.org/resources/bbrains-infocollector.106696/",
+  "name": "[BBrains] InfoCollector",
+  "description": "More useful information for your server",
+  "authors": [
+    "dayd21"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106696.jpg?1670850829",
+  "iconCid": "bafkreig7e442abtsga6t4qzir7bhhfmzp2ipswdoebp5v2odv5di7py24u",
+  "numberOfDownloads": 42,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bbrains-infocollector.106696/history",
+  "gitUrl": "https://www.curseforge.com/minecraft/bukkit-plugins/bbrains-infocollector",
+  "releaseDate": 1670847180000,
+  "updateDate": 1671202560000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

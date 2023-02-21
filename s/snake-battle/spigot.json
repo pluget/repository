@@ -1,0 +1,20 @@
+{
+  "id": 103741,
+  "url": "https://www.spigotmc.org/resources/snake-battle.103741/",
+  "name": "Snake Battle",
+  "description": "A plugin that supports multiple teams controlling multiple snakes to compete on the same stage",
+  "authors": [
+    "GoldenPotato137"
+  ],
+  "numberOfDownloads": 31,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/snake-battle.103741/history",
+  "gitUrl": "https://github.com/GoldenPotato137/Snake",
+  "releaseDate": 1658928720000,
+  "updateDate": 1658928720000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

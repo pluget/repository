@@ -1,0 +1,32 @@
+{
+  "id": 107463,
+  "url": "https://www.spigotmc.org/resources/functionalservercontrol-v1-09-3-replacing-everything-with-one-1-8-1-19-3.107463/",
+  "name": "FunctionalServerControl v1.09.3 - Replacing everything with one [1.8 - 1.19.3]",
+  "description": "Great functionality for player/server control",
+  "authors": [
+    "RelogGG"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107463.jpg?1674067769",
+  "iconCid": "bafkreihbhasxspztvaaobp3ygyxlunt5rvst3zqqr3czajpelb4bgoin4y",
+  "numberOfDownloads": 115,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/functionalservercontrol-v1-09-3-replacing-everything-with-one-1-8-1-19-3.107463/history",
+  "gitUrl": "https://github.com/ItsALisName/FunctionalServerControl",
+  "releaseDate": 1674064140000,
+  "updateDate": 1674407640000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

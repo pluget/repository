@@ -1,0 +1,27 @@
+{
+  "id": 106792,
+  "url": "https://www.spigotmc.org/resources/yaghgp-yet-another-generic-hunger-games-plugin.106792/",
+  "name": "YAGHGP - Yet Another Generic Hunger Games Plugin",
+  "description": "A modern & highly customizable Hunger Games (also known as Survival Games) plugin.",
+  "authors": [
+    "TheRealDGrew"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106792.jpg?1671308791",
+  "iconCid": "bafkreiadxrwu2lgpoifz7a7e5lhdwcz3muk4dascwdly2bfkuknheiwla4",
+  "numberOfDownloads": 69,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/yaghgp-yet-another-generic-hunger-games-plugin.106792/history",
+  "gitUrl": "https://github.com/therealdgrew/YAGHGP",
+  "releaseDate": 1671305160000,
+  "updateDate": 1673017740000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

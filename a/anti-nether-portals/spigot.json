@@ -1,0 +1,32 @@
+{
+  "id": 55452,
+  "url": "https://www.spigotmc.org/resources/anti-nether-portals.55452/",
+  "name": "Anti Nether Portals",
+  "description": "Simple Anti Nether Portals",
+  "authors": [
+    "BGHDDevelopment"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/55/55452.jpg?1523125626",
+  "iconCid": "bafkreibobo4l7ielevqzrihexlvvmpwicffsg5sd53glcrptbvkr7nyibq",
+  "numberOfDownloads": 1072,
+  "rating": 4.5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anti-nether-portals.55452/history",
+  "gitUrl": "https://github.com/BGHDDevelopment/AntiNetherPortals",
+  "releaseDate": 1676568420000,
+  "updateDate": 1676568420000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

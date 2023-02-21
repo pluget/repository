@@ -1,0 +1,32 @@
+{
+  "id": 87159,
+  "url": "https://www.spigotmc.org/resources/proton-cross-server-plugin-messaging.87159/",
+  "name": "Proton - Cross-Server Plugin Messaging",
+  "description": "Simple realtime cross-server plugin messaging via Redis and RabbitMQ",
+  "authors": [
+    "Drepic"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87159.jpg?1611614879",
+  "iconCid": "bafkreialbh7w4p2mahauqgv5tuhn4uwdotphcsae5smohtbzwn7n5eenf4",
+  "numberOfDownloads": 834,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/proton-cross-server-plugin-messaging.87159/history",
+  "gitUrl": "https://github.com/mcgrizzz/Proton",
+  "releaseDate": 1609105560000,
+  "updateDate": 1657743000000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

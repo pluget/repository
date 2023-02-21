@@ -1,0 +1,23 @@
+{
+  "id": 100004,
+  "url": "https://www.spigotmc.org/resources/%EF%B8%8F-authy-%EF%B8%8F%E2%9C%94-simple-plugin-for-player-login-%E2%9C%94-pin-password-autologin-mysql-support.100004/",
+  "name": "️ Authy ️✔ Simple plugin for player login! ✔ [PIN+PASSWORD+AUTOLOGIN] MYSQL SUPPORT!",
+  "description": "A simple authentication plugin for Minecraft 1.17+!",
+  "authors": [
+    "Lukiqq"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100004.jpg?1674693772",
+  "iconCid": "bafkreicpotthpcagttewpzxu4rtdeetyzxriekokid4yq3aiuiu7zf4hf4",
+  "numberOfDownloads": 21346,
+  "rating": 4.4,
+  "numberOfVotes": 23,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%EF%B8%8F-authy-%EF%B8%8F%E2%9C%94-simple-plugin-for-player-login-%E2%9C%94-pin-password-autologin-mysql-support.100004/history",
+  "gitUrl": "https://github.com/Iru21/Authy/",
+  "releaseDate": 1676817960000,
+  "updateDate": 1676817960000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

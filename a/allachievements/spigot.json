@@ -1,0 +1,28 @@
+{
+  "id": 107293,
+  "url": "https://www.spigotmc.org/resources/allachievements.107293/",
+  "name": "AllAchievements",
+  "description": "Try to get all achievements with this cooperative challenge plugin!",
+  "authors": [
+    "Hexle"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107293.jpg?1674307774",
+  "iconCid": "bafkreieauh7htkd3fwn3hwk6dji5mvkwaukrwyuonbuy2j3wxf6svpci5q",
+  "numberOfDownloads": 17,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/allachievements.107293/history",
+  "gitUrl": "https://github.com/hexle-at/AllAchievements",
+  "releaseDate": 1673210820000,
+  "updateDate": 1673210820000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

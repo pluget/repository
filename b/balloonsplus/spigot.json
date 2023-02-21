@@ -1,0 +1,27 @@
+{
+  "id": 101083,
+  "url": "https://www.spigotmc.org/resources/balloons.101083/",
+  "name": "Balloons+",
+  "description": "Add a balloons to your server !",
+  "authors": [
+    "shark_zekrom"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101083.jpg?1648919252",
+  "iconCid": "bafkreifaerezqgkrpisagk7z6hvsibkpj3bruikaksb3ion55akusoo4zq",
+  "numberOfDownloads": 1716,
+  "rating": 4.7,
+  "numberOfVotes": 15,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/balloons.101083/history",
+  "gitUrl": "https://github.com/SharkZekrom/BallonsPlus",
+  "releaseDate": 1648738380000,
+  "updateDate": 1664461140000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

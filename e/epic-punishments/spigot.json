@@ -1,0 +1,26 @@
+{
+  "id": 98340,
+  "url": "https://www.spigotmc.org/resources/epic-punishments.98340/",
+  "name": "Epic Punishments",
+  "description": "Punish hackers or other rule breakers through an easy-to-use GUI",
+  "authors": [
+    "Markiesch"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98340.jpg?1669726961",
+  "iconCid": "bafkreiheairtmckfb7fws4vynag7jeb4ynpawananppt77r64kw2jp5s44",
+  "numberOfDownloads": 425,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/epic-punishments.98340/history",
+  "gitUrl": "https://github.com/Markiesch/EpicPunishments",
+  "releaseDate": 1639335960000,
+  "updateDate": 1674058800000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

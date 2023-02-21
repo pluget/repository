@@ -1,0 +1,32 @@
+{
+  "id": 79320,
+  "url": "https://www.spigotmc.org/resources/server-backup-ingame-dropbox-ftp-backup-1-8-1-19-multithreaded.79320/",
+  "name": "Server Backup / Ingame / Dropbox / FTP Backup 1.8-1.19 [Multithreaded]",
+  "description": "Back up your worlds / server files without affecting your server performance!",
+  "authors": [
+    "SebliYT"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79320.jpg?1611573413",
+  "iconCid": "bafkreia3hgivd6i4rzr536wqchyxxtcfyywi3dpvbzfmy56ocfxoqpaokq",
+  "numberOfDownloads": 21761,
+  "rating": 4.9,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/server-backup-ingame-dropbox-ftp-backup-1-8-1-19-multithreaded.79320/history",
+  "gitUrl": "https://github.com/SebliYT/ServerBackup",
+  "releaseDate": 1676751600000,
+  "updateDate": 1676751600000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

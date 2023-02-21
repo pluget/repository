@@ -1,0 +1,23 @@
+{
+  "id": 104668,
+  "url": "https://www.spigotmc.org/resources/endlessdispense.104668/",
+  "name": "EndlessDispense",
+  "description": "Infinite dispensers and droppers via supply signs",
+  "authors": [
+    "minoneer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104668.jpg?1660913112",
+  "iconCid": "bafkreigjfyk6i4ukuflv2tcw5asvoifl5cdjs2j5jq72kj7fj3bmvzjfb4",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/endlessdispense.104668/history",
+  "gitUrl": "https://github.com/minoneer/EndlessDispense",
+  "releaseDate": 1660909500000,
+  "updateDate": 1660909500000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

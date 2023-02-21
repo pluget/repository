@@ -1,0 +1,21 @@
+{
+  "id": 105157,
+  "url": "https://www.spigotmc.org/resources/antiupperlava.105157/",
+  "name": "AntiUpperLava",
+  "description": "Disallow pouring lava higher than the specified height",
+  "authors": [
+    "CYKABLY9T"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105157.jpg?1662712110",
+  "iconCid": "bafkreigbccwg6mwgs3i3yfbpvpnbwnpopgytxohyddd6phpe3j3sgrychq",
+  "numberOfDownloads": 13,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antiupperlava.105157/history",
+  "gitUrl": "https://github.com/mcchickenstudio/antiupperlava",
+  "releaseDate": 1662708420000,
+  "updateDate": 1662708420000,
+  "versions": [
+    "1.12"
+  ]
+}

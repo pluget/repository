@@ -1,0 +1,23 @@
+{
+  "id": 104920,
+  "url": "https://www.spigotmc.org/resources/kaboomreloaded.104920/",
+  "name": "KaboomReloaded",
+  "description": "A command that sends players in the air.",
+  "authors": [
+    "PillowMan67"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104920.jpg?1661799729",
+  "iconCid": "bafkreibnzkqjuogguli5752o2vs3myamto443ipn53vclz3bvuapl3bkly",
+  "numberOfDownloads": 56,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kaboomreloaded.104920/history",
+  "releaseDate": 1661796060000,
+  "updateDate": 1662203220000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

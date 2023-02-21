@@ -1,0 +1,24 @@
+{
+  "id": 65603,
+  "url": "https://www.spigotmc.org/resources/dynamicshop-3-1-16-5-1-19-3.65603/",
+  "name": "DynamicShop 3 [1.16.5 ~ 1.19.3]",
+  "description": "Full GUI Server Shop, Supply & Demand, Dynamic pricing.",
+  "authors": [
+    "eftc91c"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/65/65603.jpg?1553105309",
+  "iconCid": "bafkreifaxszezsgkd4vlgxzqaxhowacgznrrb6jk4jaixmf37dahtxptxu",
+  "numberOfDownloads": 29591,
+  "rating": 4.9,
+  "numberOfVotes": 82,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dynamicshop-3-1-16-5-1-19-3.65603/history",
+  "gitUrl": "https://github.com/7sat/DShop3",
+  "releaseDate": 1676894760000,
+  "updateDate": 1676894760000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

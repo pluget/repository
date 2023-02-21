@@ -1,0 +1,32 @@
+{
+  "id": 47145,
+  "url": "https://www.spigotmc.org/resources/titansbattle.47145/",
+  "name": "TitansBattle",
+  "description": "Battle game with different modes! Free for all, Team vs Team. Kits too!",
+  "authors": [
+    "RoinujNosde"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/47/47145.jpg?1645999696",
+  "iconCid": "bafkreig37dz3jufzqkzcrgkoh5h3ks4gegrccr42dytw7b2xjv2tgpiy3e",
+  "numberOfDownloads": 1930,
+  "rating": 4.6,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/titansbattle.47145/history",
+  "gitUrl": "https://github.com/RoinujNosde/TitansBattle",
+  "releaseDate": 1505355000000,
+  "updateDate": 1660135380000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

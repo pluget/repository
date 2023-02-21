@@ -1,0 +1,32 @@
+{
+  "id": 98166,
+  "url": "https://www.spigotmc.org/resources/ramlimitrestart-%E2%9C%A8async-checks-%E2%9C%A8-works-with-pterodactyl-free-dev-api.98166/",
+  "name": "RamLimitRestart ✨Async Checks ✨ Works with Pterodactyl FREE DEV API",
+  "description": "Restart your server when RamLimit reaches the limit.",
+  "authors": [
+    "angelillo1508"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98166.jpg?1641242589",
+  "iconCid": "bafkreihnq5lkpl7xh6hxqtzckdfuimxu3pzgbybegzggtli5nl2lzmmltq",
+  "numberOfDownloads": 339,
+  "rating": 5,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ramlimitrestart-%E2%9C%A8async-checks-%E2%9C%A8-works-with-pterodactyl-free-dev-api.98166/history",
+  "gitUrl": "https://github.com/Angelillo15/RamLimitRestart",
+  "releaseDate": 1638807720000,
+  "updateDate": 1666445880000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

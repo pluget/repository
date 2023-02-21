@@ -1,0 +1,25 @@
+{
+  "id": 107937,
+  "url": "https://www.spigotmc.org/resources/customkeepinventory-customize-keep-inventory.107937/",
+  "name": "CustomKeepInventory || Customize Keep Inventory",
+  "description": "Change if player should keep his inventory or not based on death cause.",
+  "authors": [
+    "efeniktr19"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107937.jpg?1676067365",
+  "iconCid": "bafkreihb43qt3izvpo5tgwfqgm5q3fhihemztar3dyeuwcvu2mweuhu3eu",
+  "numberOfDownloads": 66,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/customkeepinventory-customize-keep-inventory.107937/history",
+  "releaseDate": 1676557680000,
+  "updateDate": 1676557680000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

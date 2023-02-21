@@ -1,0 +1,33 @@
+{
+  "id": 27021,
+  "url": "https://www.spigotmc.org/resources/clicksort.27021/",
+  "name": "ClickSort",
+  "description": "Sort your inventory and chests in a single click!",
+  "authors": [
+    "ChengZi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/27/27021.jpg?1629518174",
+  "iconCid": "bafkreihhmwr7rfcmqjkmcwdk3csrl4umhj36vfa66xereye6krdoqarjom",
+  "numberOfDownloads": 10571,
+  "rating": 4,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/clicksort.27021/history",
+  "gitUrl": "https://github.com/NewbieOrange/clicksort",
+  "releaseDate": 1469586360000,
+  "updateDate": 1660492020000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 103291,
+  "url": "https://www.spigotmc.org/resources/glowing-punishment.103291/",
+  "name": "Glowing Punishment",
+  "description": "The killer of a player will get the glowing effect for a configurable amount of time",
+  "authors": [
+    "aphom"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103291.jpg?1657565155",
+  "iconCid": "bafkreiefktfd6dizesqwy4wkdf4ig6537i5ig6x3wjwdacz457lg7gvx7a",
+  "numberOfDownloads": 131,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/glowing-punishment.103291/history",
+  "releaseDate": 1657560900000,
+  "updateDate": 1657737000000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

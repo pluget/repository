@@ -1,0 +1,28 @@
+{
+  "id": 93682,
+  "url": "https://www.spigotmc.org/resources/t-vouchers.93682/",
+  "name": "T-Vouchers",
+  "description": "Plugin to create custom vouchers",
+  "authors": [
+    "TimS12"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93682.jpg?1642107439",
+  "iconCid": "bafkreigrtd26zbieovij7bkom3ovpvb7bwfhabmo6xr6cl5nb6elccxvfm",
+  "numberOfDownloads": 517,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/t-vouchers.93682/history",
+  "gitUrl": "https://github.com/timsixth/T-Vouchers",
+  "releaseDate": 1624810920000,
+  "updateDate": 1672687980000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

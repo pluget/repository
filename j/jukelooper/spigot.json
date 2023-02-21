@@ -1,0 +1,27 @@
+{
+  "id": 72895,
+  "url": "https://www.spigotmc.org/resources/jukelooper.72895/",
+  "name": "JukeLooper",
+  "description": "Looping shuffeled jukebox playlists with redstone and hopper support.",
+  "authors": [
+    "Ranull"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/72/72895.jpg?1596201260",
+  "iconCid": "bafkreidbuan5glnr6ddpyom55wnxnf6wncrg4uqdx6yqpnvsvnwhgolv2a",
+  "numberOfDownloads": 5216,
+  "rating": 4.9,
+  "numberOfVotes": 21,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/jukelooper.72895/history",
+  "gitUrl": "https://gitlab.com/ranull/minecraft/jukelooper",
+  "releaseDate": 1574345520000,
+  "updateDate": 1672790220000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

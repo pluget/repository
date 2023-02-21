@@ -1,0 +1,26 @@
+{
+  "id": 104973,
+  "url": "https://www.spigotmc.org/resources/rmotd-server-list-customisation-plugin.104973/",
+  "name": "rMotd | server list customisation plugin",
+  "description": "Set the look of your server in the serverlist (motd)",
+  "authors": [
+    "rtz981"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104973.jpg?1661966489",
+  "iconCid": "bafkreibmyqg5jet3skgmmwx3zhrhmuusqrcyykmfe6imt3brbud5zpqu4q",
+  "numberOfDownloads": 60,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rmotd-server-list-customisation-plugin.104973/history",
+  "releaseDate": 1661962860000,
+  "updateDate": 1661962860000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

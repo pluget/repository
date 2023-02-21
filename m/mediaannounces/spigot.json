@@ -1,0 +1,29 @@
+{
+  "id": 107790,
+  "url": "https://www.spigotmc.org/resources/mediaannounces.107790/",
+  "name": "MediaAnnounces",
+  "description": "Publish your videos or streams in the chat",
+  "authors": [
+    "ItzValen01"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107790.jpg?1675411184",
+  "iconCid": "bafkreidtds5dlhq4tmofomz4mtju4r5eg6ca4dqtvvpav3wgxnu4acvowu",
+  "numberOfDownloads": 55,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mediaannounces.107790/history",
+  "releaseDate": 1676653620000,
+  "updateDate": 1676653620000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

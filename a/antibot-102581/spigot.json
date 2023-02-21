@@ -1,0 +1,21 @@
+{
+  "id": 102581,
+  "url": "https://www.spigotmc.org/resources/antibot.102581/",
+  "name": "AntiBot",
+  "description": "Protect your Server from being Botted!",
+  "authors": [
+    "Flintoes"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102581.jpg?1655599180",
+  "iconCid": "bafkreigd3lfdf7jcxkthcz64qltmm6isdy557vfzgli3fie2lawyzivute",
+  "numberOfDownloads": 137,
+  "rating": 4.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antibot.102581/history",
+  "gitUrl": "https://github.com/Flintoes/AntiBot",
+  "releaseDate": 1655076180000,
+  "updateDate": 1657639560000,
+  "versions": [
+    "1.8"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 59284,
+  "url": "https://www.spigotmc.org/resources/tangled-maze-maze-generator.59284/",
+  "name": "Tangled Maze | Maze Generator",
+  "description": "THE maze generator",
+  "authors": [
+    "MightyOne"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/59/59284.jpg?1582489846",
+  "iconCid": "bafkreif6wve4jfpr2epcel34b3hrslyr7iupopr7eh4q4rfqokxorh22mu",
+  "numberOfDownloads": 6117,
+  "rating": 4.7,
+  "numberOfVotes": 23,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tangled-maze-maze-generator.59284/history",
+  "gitUrl": "https://github.com/GorgeousOne/Tangled-Maze-2",
+  "releaseDate": 1532992320000,
+  "updateDate": 1670104560000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

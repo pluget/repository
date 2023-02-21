@@ -1,0 +1,22 @@
+{
+  "id": 99604,
+  "url": "https://www.spigotmc.org/resources/sharedstats-shared-health-hunger-and-more.99604/",
+  "name": "SharedStats [Shared Health, Hunger, and More!]",
+  "description": "All players share health, hunger, and more!",
+  "authors": [
+    "im4ever12c"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99604.jpg?1643478786",
+  "iconCid": "bafkreicrbo7bek3vgbsxstht6sq2svdh2ng323meu5jb2e5bgucwmikkfy",
+  "numberOfDownloads": 100,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sharedstats-shared-health-hunger-and-more.99604/history",
+  "releaseDate": 1643475120000,
+  "updateDate": 1659642120000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

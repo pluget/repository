@@ -1,0 +1,26 @@
+{
+  "id": 104971,
+  "url": "https://www.spigotmc.org/resources/rdiscordlink-set-discord-command.104971/",
+  "name": "rDiscordLink | set /discord command",
+  "description": "Set the discord link in the config.yml, and the players can use /discord",
+  "authors": [
+    "rtz981"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104971.jpg?1661965532",
+  "iconCid": "bafkreicrti5awlly5mzjmnlbohk5mkzwxcwdievpctoscphcvsviv73p44",
+  "numberOfDownloads": 100,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rdiscordlink-set-discord-command.104971/history",
+  "releaseDate": 1661961900000,
+  "updateDate": 1661961900000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

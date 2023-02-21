@@ -1,0 +1,21 @@
+{
+  "id": 103924,
+  "url": "https://www.spigotmc.org/resources/commandblockfinder.103924/",
+  "name": "CommandBlockFinder",
+  "description": "Finds and logs all active command blocks on the server.",
+  "authors": [
+    "Meeples10"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103924.jpg?1659470446",
+  "iconCid": "bafkreieghrrcj72nh7xkeunlcpcfc46lwbapq25nijewstaqqvv5mry5lq",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/commandblockfinder.103924/history",
+  "gitUrl": "https://github.com/Meeples10/CommandBlockFinder",
+  "releaseDate": 1659320280000,
+  "updateDate": 1659320280000,
+  "versions": [
+    "1.19"
+  ]
+}

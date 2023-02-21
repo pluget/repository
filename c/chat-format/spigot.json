@@ -1,0 +1,30 @@
+{
+  "id": 104343,
+  "url": "https://www.spigotmc.org/resources/chat-format-placeholderapi-per-group-support.104343/",
+  "name": "Chat Format - PlaceholderAPI & Per Group Support",
+  "description": "A nice, optimized and easy chat format plugin for every version",
+  "authors": [
+    "ThelegendofTR"
+  ],
+  "numberOfDownloads": 68,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chat-format-placeholderapi-per-group-support.104343/history",
+  "gitUrl": "https://github.com/zorbeytorunoglu/chatformat",
+  "releaseDate": 1659899640000,
+  "updateDate": 1659899640000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

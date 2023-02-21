@@ -1,0 +1,22 @@
+{
+  "id": 104225,
+  "url": "https://www.spigotmc.org/resources/reportking.104225/",
+  "name": "ReportKing",
+  "description": "Interactive report management system",
+  "authors": [
+    "cardiza"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104225.jpg?1659825435",
+  "iconCid": "bafkreib5lhprvsi7zr7fqlh3wnkkz72t5zxu5vgilez3crtnzxkjzopbsq",
+  "numberOfDownloads": 64,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/reportking.104225/history",
+  "gitUrl": "https://github.com/cardizaDEV/ReportKing",
+  "releaseDate": 1659821760000,
+  "updateDate": 1661523720000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

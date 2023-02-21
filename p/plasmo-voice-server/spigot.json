@@ -1,0 +1,24 @@
+{
+  "id": 91064,
+  "url": "https://www.spigotmc.org/resources/plasmo-voice-server.91064/",
+  "name": "Plasmo Voice Server",
+  "description": "Proximity voice сhat mod for Spigot Minecraft servers",
+  "authors": [
+    "KPidS"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91064.jpg?1617870596",
+  "iconCid": "bafkreidffuh7mnlw4y7qc4e7rrkinqtdel5vpga7iapdoeuv2rbnpjzf4u",
+  "numberOfDownloads": 176214,
+  "rating": 4.3,
+  "numberOfVotes": 28,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/plasmo-voice-server.91064/history",
+  "gitUrl": "https://github.com/plasmoapp/plasmo-voice",
+  "releaseDate": 1676564520000,
+  "updateDate": 1676564520000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

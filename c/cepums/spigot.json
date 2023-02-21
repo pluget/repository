@@ -1,0 +1,22 @@
+{
+  "id": 107315,
+  "url": "https://www.spigotmc.org/resources/cepums.107315/",
+  "name": "Cepums",
+  "description": "Cookie",
+  "authors": [
+    "NotArvis"
+  ],
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cepums.107315/history",
+  "gitUrl": "https://github.com/ArvisCe/CepumsPlugins",
+  "releaseDate": 1673316480000,
+  "updateDate": 1673316480000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

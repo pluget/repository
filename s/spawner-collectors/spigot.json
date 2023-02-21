@@ -1,0 +1,31 @@
+{
+  "id": 85852,
+  "url": "https://www.spigotmc.org/resources/spawner-collectors-no-spawner-lag-mysql.85852/",
+  "name": "Spawner Collectors | No spawner lag | MySQL",
+  "description": "Store your spawners in a simple \"cloud GUI\" and withdraw and sell you collected mobs!",
+  "authors": [
+    "Bestem0r"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85852.jpg?1605561000",
+  "iconCid": "bafkreidltimp7g42uqqsjykaphfg4rwbtkl2hlxmfaszt4vnmu2dakku4q",
+  "numberOfDownloads": 1165,
+  "rating": 5,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/spawner-collectors-no-spawner-lag-mysql.85852/history",
+  "gitUrl": "https://github.com/Bestem0r/SpawnerCollectors",
+  "releaseDate": 1605557340000,
+  "updateDate": 1673851500000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

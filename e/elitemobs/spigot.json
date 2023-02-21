@@ -1,0 +1,24 @@
+{
+  "id": 40090,
+  "url": "https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/",
+  "name": "⚔EliteMobs⚔",
+  "description": "Minidungeons, Arenas, Bosses, Custom Loot, Quests, MMORPG progression & more!",
+  "authors": [
+    "MagmaGuy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/40/40090.jpg?1519940291",
+  "iconCid": "bafkreibn2ebxg7ohlyo5b7p5diurkacvzdlw2772nojrlav4rg6t6n2y2m",
+  "numberOfDownloads": 117399,
+  "rating": 4.8,
+  "numberOfVotes": 200,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/history",
+  "gitUrl": "https://github.com/MagmaGuy/EliteMobs",
+  "releaseDate": 1676817540000,
+  "updateDate": 1676817540000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

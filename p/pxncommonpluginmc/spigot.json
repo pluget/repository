@@ -1,0 +1,19 @@
+{
+  "id": 107049,
+  "url": "https://www.spigotmc.org/resources/pxncommonpluginmc.107049/",
+  "name": "pxnCommonPluginMC",
+  "description": "Dependency for PoiXson plugins",
+  "authors": [
+    "lorenzo42p"
+  ],
+  "numberOfDownloads": 50,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pxncommonpluginmc.107049/history",
+  "gitUrl": "https://github.com/PoiXson/pxnCommonPluginMC-mirror",
+  "releaseDate": 1672368540000,
+  "updateDate": 1676075280000,
+  "versions": [
+    "1.19"
+  ]
+}

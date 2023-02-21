@@ -1,0 +1,24 @@
+{
+  "id": 91178,
+  "url": "https://www.spigotmc.org/resources/ticketmanager-advanced-ticket-plugin.91178/",
+  "name": "TicketManager - Advanced Ticket Plugin",
+  "description": "Advanced Ticket Creation and Management tool",
+  "authors": [
+    "HoshiKurama"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91178.jpg?1623276923",
+  "iconCid": "bafkreihulsjlqnxet7mi4uh3mal3ho2hv2jfgnr4ukzatjrfu3mns3ywv4",
+  "numberOfDownloads": 2727,
+  "rating": 4.9,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ticketmanager-advanced-ticket-plugin.91178/history",
+  "gitUrl": "https://github.com/HoshiKurama/TicketManager",
+  "releaseDate": 1618094580000,
+  "updateDate": 1676160540000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

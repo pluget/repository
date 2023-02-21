@@ -1,0 +1,29 @@
+{
+  "id": 58669,
+  "url": "https://www.spigotmc.org/resources/big-doors.58669/",
+  "name": "Big Doors",
+  "description": "Big, ANIMATED doors, drawbridges, portcullises, and more!",
+  "authors": [
+    "pim16aap2"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/58/58669.jpg?1531398465",
+  "iconCid": "bafkreihm3n3ff5jrk2hit2ngzhaylq2mynttpq5bxb7d3ohoj6ak6zlujy",
+  "numberOfDownloads": 82179,
+  "rating": 4.8,
+  "numberOfVotes": 128,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/big-doors.58669/history",
+  "gitUrl": "https://github.com/PimvanderLoos/BigDoors/tree/v1",
+  "releaseDate": 1531394820000,
+  "updateDate": 1672685820000,
+  "versions": [
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

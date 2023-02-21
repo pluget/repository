@@ -1,0 +1,30 @@
+{
+  "id": 44411,
+  "url": "https://www.spigotmc.org/resources/dupe-fixes-illegal-stack-remover.44411/",
+  "name": "Dupe Fixes / Illegal Stack Remover",
+  "description": "Provided fixes for several vanilla bugs that allow players to dupe on your server.",
+  "authors": [
+    "dNiym"
+  ],
+  "numberOfDownloads": 71901,
+  "rating": 4.7,
+  "numberOfVotes": 198,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dupe-fixes-illegal-stack-remover.44411/history",
+  "gitUrl": "https://github.com/dniym/IllegalStack",
+  "releaseDate": 1500863640000,
+  "updateDate": 1662346440000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

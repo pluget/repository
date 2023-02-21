@@ -1,0 +1,21 @@
+{
+  "id": 107983,
+  "url": "https://www.spigotmc.org/resources/block-guard.107983/",
+  "name": "Block Guard",
+  "description": "Provides tools to protect blocks",
+  "authors": [
+    "Salatosik"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107983.jpg?1676313839",
+  "iconCid": "bafkreihgw2lvax4zz5spmr4z3i2x44rnxnto4buv3chvmfzpyy3usuitcy",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/block-guard.107983/history",
+  "gitUrl": "https://github.com/Vitalij3/block-guard-plugin",
+  "releaseDate": 1676655600000,
+  "updateDate": 1676655600000,
+  "versions": [
+    "1.12"
+  ]
+}

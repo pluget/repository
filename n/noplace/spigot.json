@@ -1,0 +1,21 @@
+{
+  "id": 103053,
+  "url": "https://www.spigotmc.org/resources/noplace.103053/",
+  "name": "Noplace",
+  "description": "A plugin to disable placing of specific blocks",
+  "authors": [
+    "Prankster2"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103053.jpg?1656777360",
+  "iconCid": "bafkreic2xvs3sr7i4atoi2hxlvkmuxbnsh4jqv36x3d4bahqv2xhfex2pi",
+  "numberOfDownloads": 147,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/noplace.103053/history",
+  "releaseDate": 1656762600000,
+  "updateDate": 1659893940000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

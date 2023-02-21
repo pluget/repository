@@ -1,0 +1,21 @@
+{
+  "id": 108067,
+  "url": "https://www.spigotmc.org/resources/simpletools.108067/",
+  "name": "SimpleTools",
+  "description": "Simple tools for the server. My first plugin.",
+  "authors": [
+    "yoshibv"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108067.jpg?1676665769",
+  "iconCid": "bafkreibap2qnpga3glvkitjxnl5potgus5tbg4mfonaoeho2a4xkgmo5ym",
+  "numberOfDownloads": 9,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simpletools.108067/history",
+  "gitUrl": "https://github.com/yoshibv/SimpleTools",
+  "releaseDate": 1676662320000,
+  "updateDate": 1676662320000,
+  "versions": [
+    "1.18"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 100831,
+  "url": "https://www.spigotmc.org/resources/smart-item-sort.100831/",
+  "name": "Smart Item Sort",
+  "description": "Simple, efficient item sorting without redstone",
+  "authors": [
+    "BornToCode"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100831.jpg?1651153602",
+  "iconCid": "bafkreibgorpltdwwng7fenc3y54emi3ozuc2svb33bvqiqvnriejuiuiwu",
+  "numberOfDownloads": 3001,
+  "rating": 5,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/smart-item-sort.100831/history",
+  "releaseDate": 1647736140000,
+  "updateDate": 1664032920000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

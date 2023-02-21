@@ -1,0 +1,27 @@
+{
+  "id": 107200,
+  "url": "https://www.spigotmc.org/resources/chatleaderboard.107200/",
+  "name": "ChatLeaderBoard",
+  "description": "A simple, lightweight skript for Leaderboards (in Chat)!",
+  "authors": [
+    "ahmadstoryus"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107200.jpg?1672862782",
+  "iconCid": "bafkreidy7r4ynoownac6q76shulaupdb7brmlryo3sm4fnopv35o5sqkqm",
+  "numberOfDownloads": 36,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatleaderboard.107200/history",
+  "releaseDate": 1672859160000,
+  "updateDate": 1672859160000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

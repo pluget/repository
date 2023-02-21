@@ -1,0 +1,20 @@
+{
+  "id": 100640,
+  "url": "https://www.spigotmc.org/resources/farmingworld.100640/",
+  "name": "FarmingWorld",
+  "description": "Create automated farmworlds with many features.",
+  "authors": [
+    "SrSyntaxAT"
+  ],
+  "numberOfDownloads": 298,
+  "rating": 4.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/farmingworld.100640/history",
+  "gitUrl": "https://github.com/SrSyntaxAT/FarmingWorld",
+  "releaseDate": 1647087240000,
+  "updateDate": 1664114520000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

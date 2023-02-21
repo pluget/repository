@@ -1,0 +1,32 @@
+{
+  "id": 52849,
+  "url": "https://www.spigotmc.org/resources/advancedreplay-1-8-1-19.52849/",
+  "name": "AdvancedReplay 1.8 - 1.19",
+  "description": "Record, Replay, Repeat",
+  "authors": [
+    "Jumper251"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/52/52849.jpg?1546026787",
+  "iconCid": "bafkreigldp2usro2pybg6ommpocb7sei6a6jl2mhzp2wrhbhrocrj743my",
+  "numberOfDownloads": 38239,
+  "rating": 4.1,
+  "numberOfVotes": 80,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advancedreplay-1-8-1-19.52849/history",
+  "gitUrl": "https://github.com/Jumper251/AdvancedReplay",
+  "releaseDate": 1676720580000,
+  "updateDate": 1676720580000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

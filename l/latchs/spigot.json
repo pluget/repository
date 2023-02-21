@@ -1,0 +1,29 @@
+{
+  "id": 85373,
+  "url": "https://www.spigotmc.org/resources/latchs-money-for-mobs.85373/",
+  "name": "Latch's Money for Mobs",
+  "description": "Give money to players, set custom drops and custom messages when killing mobs and using commands",
+  "authors": [
+    "Latch93"
+  ],
+  "numberOfDownloads": 8416,
+  "rating": 5,
+  "numberOfVotes": 29,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/latchs-money-for-mobs.85373/history",
+  "gitUrl": "https://github.com/lakeboy93/Money4Mobs",
+  "releaseDate": 1604202000000,
+  "updateDate": 1666933320000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 91167,
+  "url": "https://www.spigotmc.org/resources/custom-advancements.91167/",
+  "name": "Custom Advancements",
+  "description": "Easily to configure plugin to create your own custom advancements in your minecraft server!",
+  "authors": [
+    "Tippie_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91167.jpg?1618081596",
+  "iconCid": "bafkreigidydwyojoddognoligos2qoicldcwtpvzjla37nymhwldulwltq",
+  "numberOfDownloads": 2113,
+  "rating": 4.7,
+  "numberOfVotes": 22,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/custom-advancements.91167/history",
+  "gitUrl": "https://github.com/rowan-vr/CustomAdvancements",
+  "releaseDate": 1676469780000,
+  "updateDate": 1676469780000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

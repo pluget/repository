@@ -1,0 +1,21 @@
+{
+  "id": 63639,
+  "url": "https://www.spigotmc.org/resources/dynwarp.63639/",
+  "name": "DynWarp",
+  "description": "Minecraft plugin that allows players to warp to Dynmap Markers.",
+  "authors": [
+    "cnaude"
+  ],
+  "numberOfDownloads": 474,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dynwarp.63639/history",
+  "gitUrl": "https://github.com/cnaude/DynWarp",
+  "releaseDate": 1546192500000,
+  "updateDate": 1666641000000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.19"
+  ]
+}

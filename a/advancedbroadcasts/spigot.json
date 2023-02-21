@@ -1,0 +1,32 @@
+{
+  "id": 104385,
+  "url": "https://www.spigotmc.org/resources/advancedbroadcasts-send-custom-announcements.104385/",
+  "name": "AdvancedBroadcasts | Send custom announcements!",
+  "description": "This plugins helps you to make announcements (Broadcasts) for your server/network!",
+  "authors": [
+    "Carpodi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104385.jpg?1663982382",
+  "iconCid": "bafkreifamc4pzzzsm3sd6khfhrsq7mjk765usb2jf2d2yr3sowupdj37c4",
+  "numberOfDownloads": 112,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advancedbroadcasts-send-custom-announcements.104385/history",
+  "gitUrl": "https://github.com/Carpodi/AdvancedBroadcasts/",
+  "releaseDate": 1660021680000,
+  "updateDate": 1663978440000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

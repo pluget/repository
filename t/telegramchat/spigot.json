@@ -1,0 +1,33 @@
+{
+  "id": 16576,
+  "url": "https://www.spigotmc.org/resources/telegramchat.16576/",
+  "name": "TelegramChat",
+  "description": "Brings the ingame chat to Telegram!",
+  "authors": [
+    "MasterCake"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/16/16576.jpg?1476392100",
+  "iconCid": "bafkreigq2eq7jpy6wvindesbnizfjn73ahir3x3oew65fx6ln7cv3us6zu",
+  "numberOfDownloads": 4433,
+  "rating": 4.6,
+  "numberOfVotes": 42,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/telegramchat.16576/history",
+  "gitUrl": "https://github.com/mastercake10/TelegramChat",
+  "releaseDate": 1451851500000,
+  "updateDate": 1671038340000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

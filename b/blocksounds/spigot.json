@@ -1,0 +1,23 @@
+{
+  "id": 106241,
+  "url": "https://www.spigotmc.org/resources/blocksounds-itemsadder.106241/",
+  "name": "BlockSounds - ItemsAdder",
+  "description": "Adds more custom block sounds to ItemsAdder",
+  "authors": [
+    "MineInAbyss"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106241.jpg?1668350490",
+  "iconCid": "bafkreiawthvhmyivxip64ap34qd4wtvqs6ilpcuu5jrz24wwlsdrohhuea",
+  "numberOfDownloads": 310,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blocksounds-itemsadder.106241/history",
+  "gitUrl": "https://github.com/Boy0000/BlockSounds-ItemsAdder",
+  "releaseDate": 1668346860000,
+  "updateDate": 1676061240000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

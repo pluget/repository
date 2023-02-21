@@ -1,0 +1,32 @@
+{
+  "id": 86876,
+  "url": "https://www.spigotmc.org/resources/discord-integration-project.86876/",
+  "name": "Discord Integration Project",
+  "description": "Integrate your server with Discord",
+  "authors": [
+    "Alhxe"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/86/86876.jpg?1608399460",
+  "iconCid": "bafkreienugpsx7yog7uun7wpinbotxri6xw6hmqi32mherzkgjlxo6zriu",
+  "numberOfDownloads": 1384,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discord-integration-project.86876/history",
+  "gitUrl": "https://github.com/Alhxe/Discord-Integration",
+  "releaseDate": 1608395640000,
+  "updateDate": 1673288280000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

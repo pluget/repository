@@ -1,0 +1,27 @@
+{
+  "id": 98707,
+  "url": "https://www.spigotmc.org/resources/enchantment-disabler-gui-based-customizable.98707/",
+  "name": "Enchantment Disabler - GUI Based - Customizable",
+  "description": "Easily disable selected enchantments server-wide with a simple click",
+  "authors": [
+    "opd02"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98707.jpg?1640579338",
+  "iconCid": "bafkreihi6iaptcv3xqu46oq3rjyrjlwgcez5eayfdoxhbd4ocqxwua4v2y",
+  "numberOfDownloads": 424,
+  "rating": 3.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/enchantment-disabler-gui-based-customizable.98707/history",
+  "gitUrl": "https://github.com/opd02/EnchantmentDisabler",
+  "releaseDate": 1640575680000,
+  "updateDate": 1675364580000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

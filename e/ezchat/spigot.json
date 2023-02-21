@@ -1,0 +1,26 @@
+{
+  "id": 75048,
+  "url": "https://www.spigotmc.org/resources/ezchat-next-generation-chat.75048/",
+  "name": "EzChat - Next Generation Chat",
+  "description": "An easy and free alternative for other JSON chat plugins!",
+  "authors": [
+    "Ggamer55"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75048.jpg?1586474689",
+  "iconCid": "bafkreiba7oixxlpd2xrpx2bdrx7be53tfh6efretpvx25q72ij47npgrci",
+  "numberOfDownloads": 4140,
+  "rating": 5,
+  "numberOfVotes": 25,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ezchat-next-generation-chat.75048/history",
+  "gitUrl": "https://github.com/unnamed/EzChat",
+  "releaseDate": 1581215940000,
+  "updateDate": 1675214040000,
+  "versions": [
+    "1.8",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

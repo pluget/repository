@@ -1,0 +1,23 @@
+{
+  "id": 98044,
+  "url": "https://www.spigotmc.org/resources/cybersleep.98044/",
+  "name": "CyberSleep",
+  "description": "Cyber Sleep is a plugin for minecraft. It is needed to skip boring nights.",
+  "authors": [
+    "denis_indenbom"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98044.jpg?1638555114",
+  "iconCid": "bafkreifqf6uqk634d7j6jhyvbt3pzwciam7gn5reyevhfdxxhj7kvb5p4m",
+  "numberOfDownloads": 704,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cybersleep.98044/history",
+  "gitUrl": "https://github.com/DenisIndenbom/CyberSleep",
+  "releaseDate": 1638356520000,
+  "updateDate": 1669140060000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

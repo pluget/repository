@@ -1,0 +1,27 @@
+{
+  "id": 54173,
+  "url": "https://www.spigotmc.org/resources/tabuucore.54173/",
+  "name": "TabuuCore",
+  "description": "The core plugin for easy Spigot plugin creation.",
+  "authors": [
+    "Tabuu"
+  ],
+  "numberOfDownloads": 4399,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tabuucore.54173/history",
+  "gitUrl": "https://github.com/Tabuu/TabuuCore",
+  "releaseDate": 1520365320000,
+  "updateDate": 1660584900000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

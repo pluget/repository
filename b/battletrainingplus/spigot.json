@@ -1,0 +1,27 @@
+{
+  "id": 104873,
+  "url": "https://www.spigotmc.org/resources/battletraining.104873/",
+  "name": "BattleTraining+",
+  "description": "Add punchingball to your server",
+  "authors": [
+    "shark_zekrom"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104873.jpg?1661638391",
+  "iconCid": "bafkreidbwujdbzna5kd25fxoe5crxlwxn5npesgswnmstd5qtcd76dxttq",
+  "numberOfDownloads": 39,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/battletraining.104873/history",
+  "gitUrl": "https://github.com/SharkZekrom/BattleTrainingPlus",
+  "releaseDate": 1661627580000,
+  "updateDate": 1661627580000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

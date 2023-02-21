@@ -1,0 +1,22 @@
+{
+  "id": 106277,
+  "url": "https://www.spigotmc.org/resources/broadcastdisplay.106277/",
+  "name": "BroadcastDisplay",
+  "description": "BroadcastDisplay is a broadcast message plugin",
+  "authors": [
+    "ToujoursTitou"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106277.jpg?1668515534",
+  "iconCid": "bafkreidwsnpvshqpndxqedaqkyaectqqxnsmsf2ytdd4c2x3bakioieufu",
+  "numberOfDownloads": 25,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/broadcastdisplay.106277/history",
+  "gitUrl": "https://github.com/PasToujoursTitou/BroadcastDisplay.git",
+  "releaseDate": 1668511920000,
+  "updateDate": 1668527340000,
+  "versions": [
+    "1.8",
+    "1.14"
+  ]
+}

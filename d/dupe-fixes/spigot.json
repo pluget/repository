@@ -1,0 +1,27 @@
+{
+  "id": 105158,
+  "url": "https://www.spigotmc.org/resources/dupe-fixes-wwedupe.105158/",
+  "name": "Dupe fixes (WWEDupe)",
+  "description": "Antidupe for Anarchy servers",
+  "authors": [
+    "JekoTC"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105158.jpg?1662725629",
+  "iconCid": "bafkreieotcuu5jmqcjzx7bhxysfvkpmumvsckgiqhi7ugtpzevy7azuabu",
+  "numberOfDownloads": 22,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dupe-fixes-wwedupe.105158/history",
+  "releaseDate": 1662721980000,
+  "updateDate": 1662721980000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

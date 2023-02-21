@@ -1,0 +1,21 @@
+{
+  "id": 104940,
+  "url": "https://www.spigotmc.org/resources/lilys-permissions.104940/",
+  "name": "Lily's Permissions",
+  "description": "A simple permissions and chat formatting system.",
+  "authors": [
+    "DelilahEve"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104940.jpg?1661879218",
+  "iconCid": "bafkreifaf4gudqxj5ihrqickd3bitlznl6bbvqb3trbrjx6j547hnvxf7m",
+  "numberOfDownloads": 80,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lilys-permissions.104940/history",
+  "gitUrl": "https://github.com/DelilahEve/LilysPermissions",
+  "releaseDate": 1661867640000,
+  "updateDate": 1662410040000,
+  "versions": [
+    "1.18"
+  ]
+}

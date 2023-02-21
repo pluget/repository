@@ -1,0 +1,21 @@
+{
+  "id": 107141,
+  "url": "https://www.spigotmc.org/resources/blockreward.107141/",
+  "name": "BlockReward",
+  "description": "Allows players to earn in-game currency when they break blocks in the game.",
+  "authors": [
+    "CraniX"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107141.jpg?1672688091",
+  "iconCid": "bafkreidcihfxfwi6lurxt4hvzisz6z54y2pbzghkteb2ymsexnn7tsxsbi",
+  "numberOfDownloads": 66,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blockreward.107141/history",
+  "gitUrl": "https://drive.google.com/file/d/1imRtC825r-3ZJ2bTC355pSR1TYKbVgNB/view?usp=share_link",
+  "releaseDate": 1672684440000,
+  "updateDate": 1674529620000,
+  "versions": [
+    "1.19"
+  ]
+}

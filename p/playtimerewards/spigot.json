@@ -1,0 +1,23 @@
+{
+  "id": 100231,
+  "url": "https://www.spigotmc.org/resources/1-17-playtimerewards.100231/",
+  "name": "[1.17] PlaytimeRewards",
+  "description": "Reward your Players for their Playtime!",
+  "authors": [
+    "ExoBiTe"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100231.jpg?1645547913",
+  "iconCid": "bafkreignaelyuz3xo67czumwfij4ohgn5f7x4d5cqlxiklth4grc4lpo2i",
+  "numberOfDownloads": 828,
+  "rating": 4.7,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/1-17-playtimerewards.100231/history",
+  "gitUrl": "https://github.com/ExoBiTe/PlaytimeRewardsRewrite",
+  "releaseDate": 1645544280000,
+  "updateDate": 1673769720000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

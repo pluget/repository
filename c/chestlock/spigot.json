@@ -1,0 +1,21 @@
+{
+  "id": 81204,
+  "url": "https://www.spigotmc.org/resources/chestlock.81204/",
+  "name": "ChestLock",
+  "description": "Give players the ability to lock their chests",
+  "authors": [
+    "DaytonJWatson"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81204.jpg?1668637033",
+  "iconCid": "bafkreicsi4siuazceaajsbdkjvlhgf7i5osluz2bf4otqqc5zskdedw2ye",
+  "numberOfDownloads": 35021,
+  "rating": 3.2,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chestlock.81204/history",
+  "releaseDate": 1594168260000,
+  "updateDate": 1668632940000,
+  "versions": [
+    "1.15",
+    "1.16"
+  ]
+}

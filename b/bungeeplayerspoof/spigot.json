@@ -1,0 +1,29 @@
+{
+  "id": 102353,
+  "url": "https://www.spigotmc.org/resources/bungeeplayerspoof.102353/",
+  "name": "BungeePlayerSpoof",
+  "description": "A Bungeecord-Based Realistic Player Spoofer",
+  "authors": [
+    "Sebasorova"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102353.jpg?1654057581",
+  "iconCid": "bafkreiatyrjnnans22tncobg34dppr3ag4ji2hkcpyrkaw46ueoslhffj4",
+  "numberOfDownloads": 105,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bungeeplayerspoof.102353/history",
+  "gitUrl": "https://github.com/SebastianSoftware/BungeePlayerSpoof",
+  "releaseDate": 1654053480000,
+  "updateDate": 1658726880000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

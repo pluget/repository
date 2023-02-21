@@ -1,0 +1,28 @@
+{
+  "id": 86901,
+  "url": "https://www.spigotmc.org/resources/enchantments.86901/",
+  "name": "Enchantments+-",
+  "description": "Custom enchants for Prison, Factions, Skyblock and Survival servers",
+  "authors": [
+    "TreuGames"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/86/86901.jpg?1608452904",
+  "iconCid": "bafkreichg2d4swwjdxmu4ro7an75aquxulii7i4zx4omjyy6byr5uuudeu",
+  "numberOfDownloads": 15831,
+  "rating": 3.8,
+  "numberOfVotes": 20,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/enchantments.86901/history",
+  "gitUrl": "https://github.com/dsdd/EnchantmentsPlusMinus",
+  "releaseDate": 1608449280000,
+  "updateDate": 1669051560000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

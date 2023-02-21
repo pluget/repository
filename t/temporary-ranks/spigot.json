@@ -1,0 +1,33 @@
+{
+  "id": 107474,
+  "url": "https://www.spigotmc.org/resources/temporary-ranks.107474/",
+  "name": "Temporary Ranks",
+  "description": "w/ this plugin you can give your players ranks like \"VIP\" or \"Donor\" or any other group temporarily",
+  "authors": [
+    "ThelegendofTR"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107474.jpg?1674102413",
+  "iconCid": "bafkreihga7a5t2k573eu5da6quti5tbh75ajkt2w576r6uwi2w2ynsjxbq",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/temporary-ranks.107474/history",
+  "gitUrl": "https://github.com/zorbeytorunoglu/temporaryRanks",
+  "releaseDate": 1674098760000,
+  "updateDate": 1674098760000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

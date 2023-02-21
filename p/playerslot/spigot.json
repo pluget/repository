@@ -1,0 +1,24 @@
+{
+  "id": 107227,
+  "url": "https://www.spigotmc.org/resources/playerslot-1-8x-1-12x.107227/",
+  "name": "PlayerSlot [1.8x - 1.12x]",
+  "description": "Switch the selected item in the hotbar to the player who joined a server",
+  "authors": [
+    "MissingDrift"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107227.jpg?1672944327",
+  "iconCid": "bafkreifhylq75zpgkqrje7p2tdfpavus5u7ux5qr77honw3i5l3jk4jtuy",
+  "numberOfDownloads": 224,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playerslot-1-8x-1-12x.107227/history",
+  "releaseDate": 1672936440000,
+  "updateDate": 1672936440000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12"
+  ]
+}

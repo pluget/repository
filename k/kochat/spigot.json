@@ -1,0 +1,21 @@
+{
+  "id": 107564,
+  "url": "https://www.spigotmc.org/resources/kochat.107564/",
+  "name": "KoChat",
+  "description": "A plugin to enhance your chatting experience on Minecraft.",
+  "authors": [
+    "Akkih"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107564.jpg?1674486001",
+  "iconCid": "bafkreicgbpsp75ioji5jfaawelp4e2czecohhddfpm3u3wpn4m4neaeedi",
+  "numberOfDownloads": 84,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kochat.107564/history",
+  "gitUrl": "https://github.com/KoPlugins/KoChat/",
+  "releaseDate": 1674482340000,
+  "updateDate": 1675189140000,
+  "versions": [
+    "1.19"
+  ]
+}

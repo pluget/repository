@@ -1,0 +1,30 @@
+{
+  "id": 104466,
+  "url": "https://www.spigotmc.org/resources/bowbombpatch.104466/",
+  "name": "BowBombPatch",
+  "description": "Fixes instant killing of a player with an arrow",
+  "authors": [
+    "CowDupeFix"
+  ],
+  "numberOfDownloads": 36,
+  "rating": 3.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bowbombpatch.104466/history",
+  "releaseDate": 1660241820000,
+  "updateDate": 1660241820000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

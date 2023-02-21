@@ -1,0 +1,33 @@
+{
+  "id": 98995,
+  "url": "https://www.spigotmc.org/resources/grakkit.98995/",
+  "name": "Grakkit",
+  "description": "A modern JavaScript development environment for Minecraft.",
+  "authors": [
+    "BrayjaminCrafted"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98995.jpg?1641440919",
+  "iconCid": "bafkreig3zsj552gq4ucyjxifp4po7kouiyqqpcv6b4yfesudqcnuoqo22q",
+  "numberOfDownloads": 202,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/grakkit.98995/history",
+  "gitUrl": "https://github.com/grakkit/grakkit",
+  "releaseDate": 1641437280000,
+  "updateDate": 1660842480000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

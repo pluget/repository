@@ -1,0 +1,23 @@
+{
+  "id": 97849,
+  "url": "https://www.spigotmc.org/resources/adventurecalendar.97849/",
+  "name": "AdventureCalendar",
+  "description": "Simple, straightforward advent calendar plugin",
+  "authors": [
+    "gecko10000"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97849.jpg?1637743559",
+  "iconCid": "bafkreicwjvvpk3sczbpjwyehcypriv3neweigqkbcembmwqv3u5xw5lb74",
+  "numberOfDownloads": 304,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/adventurecalendar.97849/history",
+  "gitUrl": "https://github.com/gecko10000/AdventureCalendar",
+  "releaseDate": 1637739900000,
+  "updateDate": 1669316400000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

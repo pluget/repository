@@ -1,0 +1,23 @@
+{
+  "id": 103606,
+  "url": "https://www.spigotmc.org/resources/paintball-skript.103606/",
+  "name": "Paintball Skript",
+  "description": "Simple Paintball Skript",
+  "authors": [
+    "TestHSAHSJAWIAS"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103606.jpg?1658532547",
+  "iconCid": "bafkreidl662dxr4yo3qrm27nvix5earuasflmsn6yp3cvezcaqjpcszp3y",
+  "numberOfDownloads": 66,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/paintball-skript.103606/history",
+  "gitUrl": "https://github.com/SonderZeichen/SonderZeichen/blob/main/paintball",
+  "releaseDate": 1658524380000,
+  "updateDate": 1658528340000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 108078,
+  "url": "https://www.spigotmc.org/resources/player-limit-time-by-hypnostudios.108078/",
+  "name": "Player Limit Time by HypnoStudios",
+  "description": "this is a skript which allows the player to set a time limit to the players who play on their server",
+  "authors": [
+    "HypnoStudios"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108078.jpg?1676722580",
+  "iconCid": "bafkreiartmzdavxizcreot3vhfz3xz27ifnxpiwfjcgxosjqbivaiywgym",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/player-limit-time-by-hypnostudios.108078/history",
+  "gitUrl": "https://forums.skunity.com/resources/player-limit-time-by-hypnostudios.1534/history",
+  "releaseDate": 1676719020000,
+  "updateDate": 1676719020000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 89864,
+  "url": "https://www.spigotmc.org/resources/vouchers-the-ultimate-voucher-plugin.89864/",
+  "name": "Vouchers - The Ultimate Voucher Plugin",
+  "description": "An easy to use voucher plugin, completely GUI based.",
+  "authors": [
+    "KiranHart"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89864.jpg?1650988156",
+  "iconCid": "bafkreig6ifici73vzbfjeyb2hp34veudj7dy46x6w7x2aqqqrhhaz7nat4",
+  "numberOfDownloads": 9666,
+  "rating": 4.4,
+  "numberOfVotes": 33,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/vouchers-the-ultimate-voucher-plugin.89864/history",
+  "gitUrl": "https://github.com/Tweetzy/Vouchers",
+  "releaseDate": 1615168920000,
+  "updateDate": 1676042400000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

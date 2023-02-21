@@ -1,0 +1,32 @@
+{
+  "id": 94568,
+  "url": "https://www.spigotmc.org/resources/kachat-chat-manager.94568/",
+  "name": "KAChat Chat Manager",
+  "description": "A chat manager with highly scalable channels system with security and full access API.",
+  "authors": [
+    "Kakumi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94568.jpg?1628618276",
+  "iconCid": "bafkreieh55stgi6xlxao5zrnjvnhq2dutnzjz3oxgxip5ahdaqhljk6zjy",
+  "numberOfDownloads": 269,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kachat-chat-manager.94568/history",
+  "gitUrl": "https://github.com/Kakumi/KAChat",
+  "releaseDate": 1626981120000,
+  "updateDate": 1665148140000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 104961,
+  "url": "https://www.spigotmc.org/resources/gps-pathfinder-minecraft-pathfinding-tool.104961/",
+  "name": "GPS - Pathfinder! Minecraft Pathfinding Tool",
+  "description": "A GPS tool to create a roadmap and find shortest paths to your target locations",
+  "authors": [
+    "CubeCrafters"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104961.jpg?1662295592",
+  "iconCid": "bafkreihrysolf4fn6jzghx4a2abf33wgmvsjr2b6l3lmmkfc4raevmahou",
+  "numberOfDownloads": 432,
+  "rating": 4.3,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gps-pathfinder-minecraft-pathfinding-tool.104961/history",
+  "gitUrl": "https://github.com/CubBossa/PathFinder",
+  "releaseDate": 1661937480000,
+  "updateDate": 1674895260000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

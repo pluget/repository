@@ -1,0 +1,22 @@
+{
+  "id": 46953,
+  "url": "https://www.spigotmc.org/resources/theclock.46953/",
+  "name": "TheClock",
+  "description": "Execute task or maintenance at different times (real or tick) or replace a commandBlock.",
+  "authors": [
+    "Patfreeze"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/46/46953.jpg?1504981087",
+  "iconCid": "bafkreifvsvdkogcvgc457rjrbij4nzwv665ez5h4raj7rr5oafhthatgu4",
+  "numberOfDownloads": 4440,
+  "rating": 4.6,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/theclock.46953/history",
+  "releaseDate": 1504977420000,
+  "updateDate": 1674310500000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

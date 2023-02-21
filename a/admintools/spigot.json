@@ -1,0 +1,25 @@
+{
+  "id": 100683,
+  "url": "https://www.spigotmc.org/resources/admintools-1-19.100683/",
+  "name": "AdminTools 1.19",
+  "description": "All essential commands in one GUI!",
+  "authors": [
+    "SemBL1"
+  ],
+  "numberOfDownloads": 650,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/admintools-1-19.100683/history",
+  "gitUrl": "https://github.com/SemBL06/AdminTools",
+  "releaseDate": 1647191160000,
+  "updateDate": 1657993080000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 94736,
+  "url": "https://www.spigotmc.org/resources/fancycore.94736/",
+  "name": "FancyCore",
+  "description": "Fancy series front plugin",
+  "authors": [
+    "s99889989"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94736.jpg?1627442114",
+  "iconCid": "bafkreifmvg2hlckrhe77uvhp3hp4767ubu3hfunegsb2ty5lifjvrcs2za",
+  "numberOfDownloads": 759,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fancycore.94736/history",
+  "gitUrl": "https://github.com/s99889989/FancyCore",
+  "releaseDate": 1627438080000,
+  "updateDate": 1671781260000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

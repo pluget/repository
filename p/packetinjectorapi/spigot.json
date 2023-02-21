@@ -1,0 +1,32 @@
+{
+  "id": 57931,
+  "url": "https://www.spigotmc.org/resources/packetinjectorapi-1-8-1-19-2-manage-packets-easily.57931/",
+  "name": "PacketInjectorAPI [1.8-1.19.2] - Manage packets easily",
+  "description": "Simple API for managing packets. Powered by LightInjector!",
+  "authors": [
+    "fren_gor"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/57/57931.jpg?1529513829",
+  "iconCid": "bafkreihb5i44gkx3pordq4i7xbahtfmhxudd2ogm6kqxac4usa5c3t5z2m",
+  "numberOfDownloads": 2954,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/packetinjectorapi-1-8-1-19-2-manage-packets-easily.57931/history",
+  "gitUrl": "https://github.com/frengor/PacketInjectorAPI",
+  "releaseDate": 1529510160000,
+  "updateDate": 1669237380000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

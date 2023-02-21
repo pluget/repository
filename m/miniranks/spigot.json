@@ -1,0 +1,24 @@
+{
+  "id": 104772,
+  "url": "https://www.spigotmc.org/resources/miniranks.104772/",
+  "name": "MiniRanks",
+  "description": "A simple but good rank system",
+  "authors": [
+    "Games_ofthegalax"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104772.jpg?1661261938",
+  "iconCid": "bafkreifvtculxplylqvqy2f3mdhrv7l3yncivwkt2lz72hfheuzy566ldm",
+  "numberOfDownloads": 78,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/miniranks.104772/history",
+  "gitUrl": "https://github.com/ZeroBytee/Miniranks",
+  "releaseDate": 1661258280000,
+  "updateDate": 1661709780000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 87945,
+  "url": "https://www.spigotmc.org/resources/structure-void-viewer.87945/",
+  "name": "Structure Void Viewer",
+  "description": "Adds a particle to nearby Structure void blocks when holding the structure void item.",
+  "authors": [
+    "CoolDCB"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87945.jpg?1610847907",
+  "iconCid": "bafkreihzjxreyne2dpehztz4iw63y3rxhokj44ld3y4nplnd6r5hqikdi4",
+  "numberOfDownloads": 131,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/structure-void-viewer.87945/history",
+  "releaseDate": 1676862060000,
+  "updateDate": 1676862060000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

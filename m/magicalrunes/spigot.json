@@ -1,0 +1,26 @@
+{
+  "id": 101998,
+  "url": "https://www.spigotmc.org/resources/magicalrunes-create-your-own-magical-items.101998/",
+  "name": "MagicalRunes - Create your own Magical Items",
+  "description": "Create your own Magical Items to improve your survival server",
+  "authors": [
+    "StivenFocs"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101998.jpg?1652544613",
+  "iconCid": "bafkreiau6kolzhv7lezfrblth43rv2hbm7yfbbaralmr3src5yvmi7iby4",
+  "numberOfDownloads": 137,
+  "rating": 3,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/magicalrunes-create-your-own-magical-items.101998/history",
+  "gitUrl": "https://github.com/StivenFocs/SpigotPlugin-MagicalRunes",
+  "releaseDate": 1652540880000,
+  "updateDate": 1665587880000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

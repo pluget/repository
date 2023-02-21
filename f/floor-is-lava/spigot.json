@@ -1,0 +1,23 @@
+{
+  "id": 92533,
+  "url": "https://www.spigotmc.org/resources/floor-is-lava.92533/",
+  "name": "Floor Is Lava",
+  "description": "Lava rises from the ground. Who will be the last one standing?",
+  "authors": [
+    "cablemp5"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92533.jpg?1621482291",
+  "iconCid": "bafkreibsuidvntnzdi72n6cdy7fxpihmr7rrigbupb4lcis3bswrvwtt4q",
+  "numberOfDownloads": 1935,
+  "rating": 4.5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/floor-is-lava.92533/history",
+  "gitUrl": "https://github.com/cablemp5/floor-is-lava",
+  "releaseDate": 1621477140000,
+  "updateDate": 1660106580000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

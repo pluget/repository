@@ -1,0 +1,24 @@
+{
+  "id": 98464,
+  "url": "https://www.spigotmc.org/resources/l-clearlag.98464/",
+  "name": "L-Clearlag",
+  "description": "Complete lag resolution in servers!",
+  "authors": [
+    "MiniLuca"
+  ],
+  "numberOfDownloads": 3354,
+  "rating": 3.6,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/l-clearlag.98464/history",
+  "gitUrl": "https://github.com/TheMiniLuca/Clearlag",
+  "releaseDate": 1639797780000,
+  "updateDate": 1668162600000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 95159,
+  "url": "https://www.spigotmc.org/resources/banswebhook-supports-litebans-advancedban.95159/",
+  "name": "BansWebhook (Supports Litebans & AdvancedBan)",
+  "description": "Sends punishment info to a discord webhook!",
+  "authors": [
+    "PmzHeroV2"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95159.jpg?1628872496",
+  "iconCid": "bafkreih3dly7aypnnwmb2i2pldacfvno6oveoxq2lonck3266qumqu64wm",
+  "numberOfDownloads": 2259,
+  "rating": 4.7,
+  "numberOfVotes": 15,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/banswebhook-supports-litebans-advancedban.95159/history",
+  "gitUrl": "https://github.com/PmzHeroV69/BansWebhook",
+  "releaseDate": 1628508300000,
+  "updateDate": 1661501040000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

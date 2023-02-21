@@ -1,0 +1,22 @@
+{
+  "id": 105210,
+  "url": "https://www.spigotmc.org/resources/bossshoppro-remake.105210/",
+  "name": "BossShopPro Remake",
+  "description": "BossShopPro reset version",
+  "authors": [
+    "Lijinhong"
+  ],
+  "numberOfDownloads": 231,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bossshoppro-remake.105210/history",
+  "gitUrl": "https://github.com/lijinhong11/BossShopPro/",
+  "releaseDate": 1662872520000,
+  "updateDate": 1669777320000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

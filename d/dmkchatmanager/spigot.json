@@ -1,0 +1,21 @@
+{
+  "id": 107584,
+  "url": "https://www.spigotmc.org/resources/dmkchatmanager.107584/",
+  "name": "dmkChatManager",
+  "description": "is a simple chat manager for your server",
+  "authors": [
+    "DMK0001"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107584.jpg?1674562222",
+  "iconCid": "bafkreibr7kmpbbar2rxnq4yq6wqvauer4tdlnolgmr2f6fh7zbrjulgrhm",
+  "numberOfDownloads": 44,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dmkchatmanager.107584/history",
+  "gitUrl": "https://github.com/DMK0001/dmkChatManager",
+  "releaseDate": 1674558600000,
+  "updateDate": 1674831480000,
+  "versions": [
+    "1.19"
+  ]
+}

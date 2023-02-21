@@ -1,0 +1,31 @@
+{
+  "id": 102640,
+  "url": "https://www.spigotmc.org/resources/whitelistremastered.102640/",
+  "name": "WhitelistRemastered",
+  "description": "This plugin allows you to manage your whitelist in a completely new way.",
+  "authors": [
+    "Ammissione"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102640.jpg?1655283870",
+  "iconCid": "bafkreif7luuwktbmmyve5flffyfwaytw4hvrn3kuaeucqldaszdyq5ckri",
+  "numberOfDownloads": 120,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/whitelistremastered.102640/history",
+  "releaseDate": 1655280240000,
+  "updateDate": 1664610480000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

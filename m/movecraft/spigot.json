@@ -1,0 +1,25 @@
+{
+  "id": 31321,
+  "url": "https://www.spigotmc.org/resources/movecraft.31321/",
+  "name": "Movecraft",
+  "description": "Design, construct, battle, and conquer using crafts composed of Minecraft blocks",
+  "authors": [
+    "TylerS1066"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/31/31321.jpg?1478375782",
+  "iconCid": "bafkreiga7yaj3os6auw46dpif6vxr7hebdtllhzwmakzs4flfcqa6ssgnu",
+  "numberOfDownloads": 22752,
+  "rating": 4.4,
+  "numberOfVotes": 26,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/movecraft.31321/history",
+  "gitUrl": "https://github.com/APDevTeam/Movecraft",
+  "releaseDate": 1478304000000,
+  "updateDate": 1672271700000,
+  "versions": [
+    "1.14",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 103763,
+  "url": "https://www.spigotmc.org/resources/disablewriting.103763/",
+  "name": "DisableWriting",
+  "description": "Adds options for disabling the use of written language on a server.",
+  "authors": [
+    "Meeples10"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103763.jpg?1659083210",
+  "iconCid": "bafkreidbm2p62armujtnnqmbyy6mxxbcnl3jmuviz4pvm6c7r3tt3ty6rq",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/disablewriting.103763/history",
+  "gitUrl": "https://github.com/Meeples10/DisableWriting",
+  "releaseDate": 1659019080000,
+  "updateDate": 1659019080000,
+  "versions": [
+    "1.19"
+  ]
+}

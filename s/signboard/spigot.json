@@ -1,0 +1,31 @@
+{
+  "id": 29024,
+  "url": "https://www.spigotmc.org/resources/signboard.29024/",
+  "name": "SignBoard",
+  "description": "Attach unlimited lines of text to signs and living entities and run commands when they're clicked!",
+  "authors": [
+    "Ebaldino"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/29/29024.jpg?1473191877",
+  "iconCid": "bafkreibxvhddemw4fgioziymv273tnugcawus3ux2d5qh2r4ux5v3ettou",
+  "numberOfDownloads": 11257,
+  "rating": 5,
+  "numberOfVotes": 27,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/signboard.29024/history",
+  "releaseDate": 1473188220000,
+  "updateDate": 1668421260000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 77050,
+  "url": "https://www.spigotmc.org/resources/interactionvisualizer-visualize-function-blocks-entities-like-crafting-tables-with-animations.77050/",
+  "name": "InteractionVisualizer | Visualize Function Blocks & Entities like Crafting Tables with Animations !",
+  "description": "Visualize Crafting Tables, Furnaces, Enchantment Tables and more with animations through packets!",
+  "authors": [
+    "LOOHP"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/77/77050.jpg?1586357716",
+  "iconCid": "bafkreiaf6b7qmey3aje4ozabsenmfzgp2spw32hhq2cqtx4ksh2opmpkee",
+  "numberOfDownloads": 32136,
+  "rating": 4.6,
+  "numberOfVotes": 99,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/interactionvisualizer-visualize-function-blocks-entities-like-crafting-tables-with-animations.77050/history",
+  "gitUrl": "https://github.com/LOOHP/InteractionVisualizer",
+  "releaseDate": 1586177220000,
+  "updateDate": 1671184980000,
+  "versions": [
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

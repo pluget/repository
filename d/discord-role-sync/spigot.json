@@ -1,0 +1,27 @@
+{
+  "id": 78829,
+  "url": "https://www.spigotmc.org/resources/discord-role-sync.78829/",
+  "name": "Discord Role Sync",
+  "description": "Sync Discord roles with the server's whitelist and permission plugins",
+  "authors": [
+    "NichoGX"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/78/78829.jpg?1589927266",
+  "iconCid": "bafkreigzmpurj5wqwbq5eahce3p7hnpuf5zsdpcgbr7ee7rhhrbm5rgb7m",
+  "numberOfDownloads": 2770,
+  "rating": 4.7,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discord-role-sync.78829/history",
+  "releaseDate": 1589484240000,
+  "updateDate": 1670294640000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

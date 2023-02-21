@@ -1,0 +1,22 @@
+{
+  "id": 99835,
+  "url": "https://www.spigotmc.org/resources/titan-teleport-pads.99835/",
+  "name": "Titan Teleport Pads",
+  "description": "Teleporter pads that you can place around your server, and players can teleport!",
+  "authors": [
+    "freethemice"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99835.jpg?1645488961",
+  "iconCid": "bafkreigy2lvr5trxmuvjc4y7r25wlkyi2wo6tuedhhh5cm2bnedp3tvsl4",
+  "numberOfDownloads": 368,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/titan-teleport-pads.99835/history",
+  "gitUrl": "https://github.com/freethemice/TitanTelePads",
+  "releaseDate": 1644164340000,
+  "updateDate": 1671645780000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

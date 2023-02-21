@@ -1,0 +1,22 @@
+{
+  "id": 106064,
+  "url": "https://www.spigotmc.org/resources/restless.106064/",
+  "name": "Restless",
+  "description": "Control sleeping",
+  "authors": [
+    "bradbot_1"
+  ],
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/restless.106064/history",
+  "gitUrl": "https://github.com/BradBot1/Restless",
+  "releaseDate": 1667425440000,
+  "updateDate": 1667425440000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

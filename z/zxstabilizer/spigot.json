@@ -1,0 +1,19 @@
+{
+  "id": 106979,
+  "url": "https://www.spigotmc.org/resources/zxstabilizer.106979/",
+  "name": "ZXStabilizer",
+  "description": "Restarts server on overload.",
+  "authors": [
+    "EvanMclever"
+  ],
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/zxstabilizer.106979/history",
+  "gitUrl": "https://github.com/TonyFalk/ZXStab",
+  "releaseDate": 1672059180000,
+  "updateDate": 1672287480000,
+  "versions": [
+    "1.19"
+  ]
+}

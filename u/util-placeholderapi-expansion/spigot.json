@@ -1,0 +1,23 @@
+{
+  "id": 107975,
+  "url": "https://www.spigotmc.org/resources/util-placeholderapi-expansion.107975/",
+  "name": "Util PlaceholderAPI Expansion",
+  "description": "The best utilities-based PlaceholderAPI expansion!",
+  "authors": [
+    "Cartyoo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107975.jpg?1676238877",
+  "iconCid": "bafkreid6vpir5gmlj2cfei3s6upbzlxm7fiowq5u5tm4ae4jd2mdl3vt3e",
+  "numberOfDownloads": 13,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/util-placeholderapi-expansion.107975/history",
+  "gitUrl": "https://github.com/Cartyoo/util",
+  "releaseDate": 1676235240000,
+  "updateDate": 1676235240000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 107271,
+  "url": "https://www.spigotmc.org/resources/creeperlogger.107271/",
+  "name": "CreeperLogger",
+  "description": "Log when a player spawns a creeper egg",
+  "authors": [
+    "dynamicpvp"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107271.jpg?1673128630",
+  "iconCid": "bafkreidj57mtzqauqiyfe7wp5xyq6uehynn243rhzwtn5eyuafhkqy3yau",
+  "numberOfDownloads": 33,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/creeperlogger.107271/history",
+  "gitUrl": "https://github.com/gerardo-j/logger-plugin",
+  "releaseDate": 1673125020000,
+  "updateDate": 1673457120000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

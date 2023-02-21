@@ -1,0 +1,26 @@
+{
+  "id": 99456,
+  "url": "https://www.spigotmc.org/resources/betterlogstrip.99456/",
+  "name": "BetterLogStrip",
+  "description": "Prevents accidental log stripping + adds new wood recipes!",
+  "authors": [
+    "mfnalex"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99456.jpg?1642964985",
+  "iconCid": "bafkreid4gie5pvctsxmox4qwap7nnmcb7miksujnk26tlbwrl757y3lnsy",
+  "numberOfDownloads": 465,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterlogstrip.99456/history",
+  "gitUrl": "https://github.com/JEFF-Media-GbR/BetterLogStrip",
+  "releaseDate": 1642961340000,
+  "updateDate": 1658732160000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

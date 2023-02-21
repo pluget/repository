@@ -1,0 +1,23 @@
+{
+  "id": 97176,
+  "url": "https://www.spigotmc.org/resources/mineblocks.97176/",
+  "name": "MineBlocks",
+  "description": "Easy to use plugin, that allows you to create \"Mine blocks\" on your server",
+  "authors": [
+    "raixocz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97176.jpg?1635345629",
+  "iconCid": "bafkreias6ik6qhlxjg3adxfh7iuhzxw76ijsideqpednxyeanijxanrwrm",
+  "numberOfDownloads": 1117,
+  "rating": 4.7,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mineblocks.97176/history",
+  "gitUrl": "https://github.com/RAIXOCZ/MineBlocks",
+  "releaseDate": 1676753940000,
+  "updateDate": 1676753940000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

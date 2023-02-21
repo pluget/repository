@@ -1,0 +1,22 @@
+{
+  "id": 100046,
+  "url": "https://www.spigotmc.org/resources/homestar.100046/",
+  "name": "HomeStar",
+  "description": "A configurable item that serves as a physical replacement for the /home command.",
+  "authors": [
+    "timsavage"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100046.jpg?1644998980",
+  "iconCid": "bafkreif6kgca3765dz53ingk54ljp7n4lfmrq4zdxaissyjbmeemlds36u",
+  "numberOfDownloads": 86,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/homestar.100046/history",
+  "gitUrl": "https://github.com/tim-savage/HomeStar",
+  "releaseDate": 1644995340000,
+  "updateDate": 1662427980000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

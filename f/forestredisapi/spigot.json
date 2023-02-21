@@ -1,0 +1,21 @@
+{
+  "id": 104098,
+  "url": "https://www.spigotmc.org/resources/forestredisapi-1-8-1-19-easy-redis-communication.104098/",
+  "name": "ForestRedisAPI [1.8 - 1.19] EASY REDIS COMMUNICATION",
+  "description": "Don't let the word \"Redis\" scare you!",
+  "authors": [
+    "ForestTech"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104098.jpg?1659714493",
+  "iconCid": "bafkreicw2e6czxfmupje6igguyegryfolbtqrzmiqmo4sae4iqzpjgn6hi",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/forestredisapi-1-8-1-19-easy-redis-communication.104098/history",
+  "gitUrl": "https://github.com/ForestTechMC/ForestRedisAPI",
+  "releaseDate": 1659710880000,
+  "updateDate": 1659710880000,
+  "versions": [
+    "1.19"
+  ]
+}

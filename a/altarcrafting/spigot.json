@@ -1,0 +1,20 @@
+{
+  "id": 107980,
+  "url": "https://www.spigotmc.org/resources/altarcrafting.107980/",
+  "name": "AltarCrafting",
+  "description": "Allows crafting trough the use of custom altar-structures (up to 8 slots), as well as custom recipes",
+  "authors": [
+    "raffel080108"
+  ],
+  "numberOfDownloads": 51,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/altarcrafting.107980/history",
+  "gitUrl": "https://github.com/raffel080108/AltarCrafting",
+  "releaseDate": 1676417580000,
+  "updateDate": 1676417580000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

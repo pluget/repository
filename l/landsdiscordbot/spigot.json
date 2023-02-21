@@ -1,0 +1,24 @@
+{
+  "id": 74047,
+  "url": "https://www.spigotmc.org/resources/landsdiscordbot-discord-bot-for-lands.74047/",
+  "name": "LandsDiscordBot - Discord Bot for Lands",
+  "description": "Create a channel for your land and nation, view top lands, view your land inbox and more to come",
+  "authors": [
+    "Angeschossen"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/74/74047.jpg?1603635320",
+  "iconCid": "bafkreieoi6qf3eilcdx3wkxt4hnx7se5spdbbhwvyfwozmx64erdj77wia",
+  "numberOfDownloads": 3744,
+  "rating": 4.8,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/landsdiscordbot-discord-bot-for-lands.74047/history",
+  "releaseDate": 1578171780000,
+  "updateDate": 1673719860000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

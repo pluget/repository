@@ -1,0 +1,27 @@
+{
+  "id": 102779,
+  "url": "https://www.spigotmc.org/resources/jobsreborn-patchplacebreak-addon.102779/",
+  "name": "JobsReborn-PatchPlaceBreak [Addon]",
+  "description": "A place-and-break patch extension of JobsReborn",
+  "authors": [
+    "Djaytan"
+  ],
+  "numberOfDownloads": 229,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/jobsreborn-patchplacebreak-addon.102779/history",
+  "gitUrl": "https://github.com/Djaytan/mc-jobs-reborn-patch-place-break",
+  "releaseDate": 1655799360000,
+  "updateDate": 1676412840000,
+  "versions": [
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

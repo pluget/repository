@@ -1,0 +1,31 @@
+{
+  "id": 107096,
+  "url": "https://www.spigotmc.org/resources/team-splitter.107096/",
+  "name": "Team Splitter",
+  "description": "Divides servers online players in half, adding them to different teams with a coloured hat.",
+  "authors": [
+    "sharkdudefin"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107096.jpg?1672583187",
+  "iconCid": "bafkreid3kqxgm5fjm447pqwpyk2ajteb3utzi2bht5qs6suxn4ni2e47uy",
+  "numberOfDownloads": 47,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/team-splitter.107096/history",
+  "releaseDate": 1672578900000,
+  "updateDate": 1672659480000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

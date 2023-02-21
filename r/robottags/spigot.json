@@ -1,0 +1,24 @@
+{
+  "id": 91885,
+  "url": "https://www.spigotmc.org/resources/robottags-hex-color-support-mysql-cross-server-and-gui-system.91885/",
+  "name": "RobotTags - HEX COLOR SUPPORT, MYSQL (CROSS-SERVER) and GUI SYSTEM",
+  "description": "Create unique tags for your players !",
+  "authors": [
+    "Robotv2"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91885.jpg?1619817997",
+  "iconCid": "bafkreifamlmnk4zoullturksdwkhjt2joxn6mzoskj3r5bpsmcjypzy26a",
+  "numberOfDownloads": 863,
+  "rating": 4,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/robottags-hex-color-support-mysql-cross-server-and-gui-system.91885/history",
+  "gitUrl": "https://github.com/Robotv2/RobotTags-Reborn",
+  "releaseDate": 1619813640000,
+  "updateDate": 1668448920000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

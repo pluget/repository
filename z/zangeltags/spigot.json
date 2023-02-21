@@ -1,0 +1,32 @@
+{
+  "id": 102952,
+  "url": "https://www.spigotmc.org/resources/zangeltags-mysql-mariadb-and-sqlite-support-%E2%9C%85-multi-server.102952/",
+  "name": "zAngelTags | MySQL, MariaDB and SQLite support ✅ | Multi Server",
+  "description": "A fully customizable tags system compatible with multiple database types.",
+  "authors": [
+    "angelillo1508"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102952.jpg?1656370991",
+  "iconCid": "bafkreib5anc5vuy62an6bf23pprthen5yzk74jw35jmfbildamgo4ztuoy",
+  "numberOfDownloads": 685,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/zangeltags-mysql-mariadb-and-sqlite-support-%E2%9C%85-multi-server.102952/history",
+  "gitUrl": "https://github.com/Angelillo15/zAngelTags/",
+  "releaseDate": 1656367320000,
+  "updateDate": 1659953280000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

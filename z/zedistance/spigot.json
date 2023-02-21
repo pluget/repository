@@ -1,0 +1,23 @@
+{
+  "id": 74453,
+  "url": "https://www.spigotmc.org/resources/zedistance-hit-distance-checker-anti-reach-1-17-x-1-19-x.74453/",
+  "name": "ZeDistance | Hit Distance Checker (Anti-Reach) [1.17.x - 1.19.x]",
+  "description": "A lightweight and powerful hit distance checker to know if a player uses reach",
+  "authors": [
+    "ZeTioZ"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/74/74453.jpg?1579471823",
+  "iconCid": "bafkreigk2zfm6mdbpmn5xntzdkt7cc5ob2f3yfnv5fcr7776xg54y23n5e",
+  "numberOfDownloads": 650,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/zedistance-hit-distance-checker-anti-reach-1-17-x-1-19-x.74453/history",
+  "gitUrl": "https://github.com/ZeTioZ/ZeDistance",
+  "releaseDate": 1579468140000,
+  "updateDate": 1674786900000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

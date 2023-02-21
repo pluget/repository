@@ -1,0 +1,25 @@
+{
+  "id": 105453,
+  "url": "https://www.spigotmc.org/resources/kuffle-1-15-1-19.105453/",
+  "name": "Kuffle (1.15 - 1.19)",
+  "description": "Game plugin",
+  "authors": [
+    "KosmosUniverse"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105453.jpg?1664105858",
+  "iconCid": "bafkreifqfy7tpu67xcckr3iv7rhuofusv2oduf4vlntqpfanbluxp5ds3q",
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kuffle-1-15-1-19.105453/history",
+  "gitUrl": "https://github.com/KosmosUniverse/Kuffle",
+  "releaseDate": 1664102160000,
+  "updateDate": 1665435840000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

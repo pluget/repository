@@ -1,0 +1,27 @@
+{
+  "id": 105037,
+  "url": "https://www.spigotmc.org/resources/custom-command-aliases.105037/",
+  "name": "Custom Command Aliases",
+  "description": "Create aliases for any commands with fancy placeholders",
+  "authors": [
+    "Tobero"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105037.jpg?1662206682",
+  "iconCid": "bafkreibbsu62nf5duansova557fhllcgxi4r4jluyyzns5ohjqpikyf444",
+  "numberOfDownloads": 97,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/custom-command-aliases.105037/history",
+  "gitUrl": "https://github.com/ToberoCat/CustomCommandAliases",
+  "releaseDate": 1662201840000,
+  "updateDate": 1674332760000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

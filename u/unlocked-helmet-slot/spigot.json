@@ -1,0 +1,22 @@
+{
+  "id": 81782,
+  "url": "https://www.spigotmc.org/resources/unlocked-helmet-slot-better-hat.81782/",
+  "name": "Unlocked Helmet Slot (Better Hat)",
+  "description": "This plugin allows players to put any items/blocks on their head (Helmet slot)",
+  "authors": [
+    "PolishKrowa"
+  ],
+  "numberOfDownloads": 247,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/unlocked-helmet-slot-better-hat.81782/history",
+  "gitUrl": "https://github.com/Mrredstone5230/BetterHat",
+  "releaseDate": 1595353260000,
+  "updateDate": 1668350220000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

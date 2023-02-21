@@ -1,0 +1,30 @@
+{
+  "id": 102147,
+  "url": "https://www.spigotmc.org/resources/bosteritemspawner.102147/",
+  "name": "BosterItemSpawner",
+  "description": "Very simple item spawners plugin.",
+  "authors": [
+    "Bosternik"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102147.jpg?1653249468",
+  "iconCid": "bafkreid7sq7hwvqarsercpme7kmmvnpaxwlof325z47sq5p4m5a6rxtufq",
+  "numberOfDownloads": 86,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bosteritemspawner.102147/history",
+  "gitUrl": "https://github.com/Bosternike/BosterItemSpawner",
+  "releaseDate": 1653232440000,
+  "updateDate": 1658135040000,
+  "versions": [
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

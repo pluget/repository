@@ -1,0 +1,26 @@
+{
+  "id": 107425,
+  "url": "https://www.spigotmc.org/resources/wbfillpause.107425/",
+  "name": "WBFillpause",
+  "description": "Automatically continue WorldBorder when no one is online.",
+  "authors": [
+    "The_Duke_Mini"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107425.jpg?1673916389",
+  "iconCid": "bafkreid3bu4lggdqogc5bpskou6s7nx2zcc45t43jwjtbivteg4m4obp2q",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/wbfillpause.107425/history",
+  "releaseDate": 1673912760000,
+  "updateDate": 1673913000000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

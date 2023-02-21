@@ -1,0 +1,25 @@
+{
+  "id": 94197,
+  "url": "https://www.spigotmc.org/resources/bottlexp.94197/",
+  "name": "BottleXP",
+  "description": "Completely customisable plugin to store experience in bottles",
+  "authors": [
+    "mgmgmg"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94197.jpg?1626111123",
+  "iconCid": "bafkreigqlrltkqnghqnsrslenj6lxag5hrlto25daohklfg7bmzqaorapa",
+  "numberOfDownloads": 503,
+  "rating": 3.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bottlexp.94197/history",
+  "releaseDate": 1626107460000,
+  "updateDate": 1670008380000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

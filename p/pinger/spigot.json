@@ -1,0 +1,20 @@
+{
+  "id": 108041,
+  "url": "https://www.spigotmc.org/resources/pinger.108041/",
+  "name": "Pinger",
+  "description": "Simple command to check the player latency to the server",
+  "authors": [
+    "Hades48980"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108041.jpg?1676576702",
+  "iconCid": "bafkreia6oqkvagyswf22pyiriemyhjf7qt25xib67744cixdihywyiulre",
+  "numberOfDownloads": 44,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pinger.108041/history",
+  "releaseDate": 1676790780000,
+  "updateDate": 1676790780000,
+  "versions": [
+    "1.19"
+  ]
+}

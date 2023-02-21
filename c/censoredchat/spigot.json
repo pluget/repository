@@ -1,0 +1,24 @@
+{
+  "id": 107451,
+  "url": "https://www.spigotmc.org/resources/censoredchat.107451/",
+  "name": "CensoredChat",
+  "description": "Replaces explicit words with words of your choosing",
+  "authors": [
+    "FtJace"
+  ],
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/censoredchat.107451/history",
+  "gitUrl": "https://github.com/jaceg18/CensoredChat",
+  "releaseDate": 1673992620000,
+  "updateDate": 1674062340000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

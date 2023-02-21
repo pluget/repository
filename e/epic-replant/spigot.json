@@ -1,0 +1,26 @@
+{
+  "id": 95096,
+  "url": "https://www.spigotmc.org/resources/epic-replant.95096/",
+  "name": "Epic Replant",
+  "description": "A lightweight auto replanting plugin.",
+  "authors": [
+    "Markiesch"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95096.jpg?1628369174",
+  "iconCid": "bafkreifcuqii33paxofzxsqqxbra4xij7626ao4zfaew7zxqr7ywwcgwtm",
+  "numberOfDownloads": 1237,
+  "rating": 4.3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/epic-replant.95096/history",
+  "gitUrl": "https://github.com/Markiesch/EpicReplant",
+  "releaseDate": 1628365560000,
+  "updateDate": 1670879520000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

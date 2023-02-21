@@ -1,0 +1,24 @@
+{
+  "id": 107415,
+  "url": "https://www.spigotmc.org/resources/stickprotections.107415/",
+  "name": "StickProtections",
+  "description": "protege zonas tan solo con un palo",
+  "authors": [
+    "Enttbot"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107415.jpg?1674265820",
+  "iconCid": "bafkreihteqsmsr26nusllvrg77lbxitdyupgkjqlgpqo7grlav336dcv2a",
+  "numberOfDownloads": 63,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/stickprotections.107415/history",
+  "gitUrl": "https://github.com/EnttbotXd/StickProtection",
+  "releaseDate": 1673893800000,
+  "updateDate": 1675984500000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

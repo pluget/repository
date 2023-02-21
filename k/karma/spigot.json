@@ -1,0 +1,28 @@
+{
+  "id": 76077,
+  "url": "https://www.spigotmc.org/resources/karma.76077/",
+  "name": "Karma",
+  "description": "All-kind Reputation plugin",
+  "authors": [
+    "Rosstail"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/76/76077.jpg?1584293124",
+  "iconCid": "bafkreicvbahwpa24rzdqzqizlj3mwodocdx7i3uifddam6hg62xunhvazq",
+  "numberOfDownloads": 2787,
+  "rating": 4.9,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/karma.76077/history",
+  "gitUrl": "https://github.com/Rosstail/Karma",
+  "releaseDate": 1584289320000,
+  "updateDate": 1675277160000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

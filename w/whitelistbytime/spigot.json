@@ -1,0 +1,28 @@
+{
+  "id": 98946,
+  "url": "https://www.spigotmc.org/resources/whitelistbytime-1-12-2-1-19.98946/",
+  "name": "WhitelistByTime [1.12.2 - 1.19]",
+  "description": "Add players to the whitelist for a while or forever!",
+  "authors": [
+    "NightMirror"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98946.jpg?1641293377",
+  "iconCid": "bafkreiejjlz5svwoovcjcqbnbvprujyypdkjnrzzobtrs2klf3yxbcxts4",
+  "numberOfDownloads": 753,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/whitelistbytime-1-12-2-1-19.98946/history",
+  "gitUrl": "https://github.com/NightMirror21/WhitelistByTime",
+  "releaseDate": 1641289740000,
+  "updateDate": 1673076720000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

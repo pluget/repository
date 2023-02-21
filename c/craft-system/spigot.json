@@ -1,0 +1,31 @@
+{
+  "id": 104406,
+  "url": "https://www.spigotmc.org/resources/craft-system.104406/",
+  "name": "Craft System",
+  "description": "a simple craft system",
+  "authors": [
+    "einkaktuslol"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104406.jpg?1660083464",
+  "iconCid": "bafkreic3vwkzx3bjmnv46licelnmg3abj7cpnpwkmax4ijff5cnda26jwa",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/craft-system.104406/history",
+  "releaseDate": 1660079820000,
+  "updateDate": 1660079820000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

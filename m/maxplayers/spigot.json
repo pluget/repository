@@ -1,0 +1,21 @@
+{
+  "id": 104877,
+  "url": "https://www.spigotmc.org/resources/maxplayers.104877/",
+  "name": "MaxPlayers",
+  "description": "maxplayers plugin",
+  "authors": [
+    "sagu"
+  ],
+  "numberOfDownloads": 62,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/maxplayers.104877/history",
+  "gitUrl": "https://github.com/TheIceNinja/AMaxPlayers",
+  "releaseDate": 1661639880000,
+  "updateDate": 1663439040000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

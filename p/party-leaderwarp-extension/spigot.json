@@ -1,0 +1,32 @@
+{
+  "id": 70835,
+  "url": "https://www.spigotmc.org/resources/party-leaderwarp-extension-for-party-and-friends.70835/",
+  "name": "Party LeaderWarp Extension for Party and Friends",
+  "description": "Adds the command /party leaderwarp to Party and Friends",
+  "authors": [
+    "simonsator"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/70/70835.jpg?1566997082",
+  "iconCid": "bafkreigq4y4jqwhqvret65f2zqpshw4gtl6sasphymklbh6czhbkyq37v4",
+  "numberOfDownloads": 752,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/party-leaderwarp-extension-for-party-and-friends.70835/history",
+  "gitUrl": "https://github.com/Simonsator/PAFWarpToLeaderExtension",
+  "releaseDate": 1566993420000,
+  "updateDate": 1666299420000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

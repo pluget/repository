@@ -1,0 +1,33 @@
+{
+  "id": 105248,
+  "url": "https://www.spigotmc.org/resources/chat.105248/",
+  "name": "Chat",
+  "description": "Prevent bad words, antispam, join/leave - for your Spigot/Paper server.",
+  "authors": [
+    "F3F5PL"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105248.jpg?1663684381",
+  "iconCid": "bafkreibcfdypqtzulpt4vhxsa3duybom3ermiefurs5ktg3nuagddvd34u",
+  "numberOfDownloads": 102,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chat.105248/history",
+  "gitUrl": "https://github.com/F3F5/Chat",
+  "releaseDate": 1663012680000,
+  "updateDate": 1663679820000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

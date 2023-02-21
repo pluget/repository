@@ -1,0 +1,22 @@
+{
+  "id": 101481,
+  "url": "https://www.spigotmc.org/resources/rplace-the-minecraft-equivalent-of-r-place-reddits-april-fools-experiment.101481/",
+  "name": "RPlace - The Minecraft Equivalent of r/place! Reddit's April Fools Experiment",
+  "description": "The Minecraft Equivalent of r/place! Reddit's April Fools Experiment",
+  "authors": [
+    "EvilTerabyte"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101481.jpg?1650335580",
+  "iconCid": "bafkreifec2xg3qddvlly543telp65g5houthm3zyga2hnmhulv47bnrtnq",
+  "numberOfDownloads": 329,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rplace-the-minecraft-equivalent-of-r-place-reddits-april-fools-experiment.101481/history",
+  "gitUrl": "https://github.com/evilterabite/RPlaceSpigot",
+  "releaseDate": 1650331920000,
+  "updateDate": 1672690140000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

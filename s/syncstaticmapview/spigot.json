@@ -1,0 +1,23 @@
+{
+  "id": 96333,
+  "url": "https://www.spigotmc.org/resources/syncstaticmapview.96333/",
+  "name": "SyncStaticMapView",
+  "description": "Synchronize static map across servers | Async | Permission control display | Upload image",
+  "authors": [
+    "XUAN_Cat"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96333.jpg?1632038615",
+  "iconCid": "bafkreifusgmkm6sojzsgfhubc6n7ttxtmeuxf5kqqr4crpnvmamw6gmwfi",
+  "numberOfDownloads": 1405,
+  "rating": 4.5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/syncstaticmapview.96333/history",
+  "gitUrl": "https://github.com/SpigotPlugins-xuancat0208/SyncStaticMapView",
+  "releaseDate": 1632034980000,
+  "updateDate": 1670871480000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

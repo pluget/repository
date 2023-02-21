@@ -1,0 +1,31 @@
+{
+  "id": 106934,
+  "url": "https://www.spigotmc.org/resources/bountyevent.106934/",
+  "name": "BountyEvent",
+  "description": "A plugin that allows you to give more importance to a player and set rewards for the one who kills",
+  "authors": [
+    "camilerohd"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106934.jpg?1671856487",
+  "iconCid": "bafkreidfsnybrzo4wstnvvv2kpqfg63tbwo2a73kjhjqjrvznuukvqec7u",
+  "numberOfDownloads": 44,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bountyevent.106934/history",
+  "releaseDate": 1671852360000,
+  "updateDate": 1671853140000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

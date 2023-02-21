@@ -1,0 +1,21 @@
+{
+  "id": 105217,
+  "url": "https://www.spigotmc.org/resources/discordsrv-addon-slashverify.105217/",
+  "name": "[DiscordSRV addon] SlashVerify",
+  "description": "Add a slash command to link DiscordSRV",
+  "authors": [
+    "SenPr"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105217.jpg?1662888712",
+  "iconCid": "bafkreiheqlxezqfgpb77hhbr73nafyh7slaqzsdpqckmqjuailnl5qqon4",
+  "numberOfDownloads": 134,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discordsrv-addon-slashverify.105217/history",
+  "gitUrl": "https://github.com/SenPr/SlashVerify",
+  "releaseDate": 1662885060000,
+  "updateDate": 1663032960000,
+  "versions": [
+    "1.19"
+  ]
+}

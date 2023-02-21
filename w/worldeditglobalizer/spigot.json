@@ -1,0 +1,32 @@
+{
+  "id": 51527,
+  "url": "https://www.spigotmc.org/resources/worldeditglobalizer.51527/",
+  "name": "WorldEditGlobalizer",
+  "description": "You want to share your clipboard over servers? This is the right tool to do that!",
+  "authors": [
+    "IllgiLP"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/51/51527.jpg?1514847492",
+  "iconCid": "bafkreigks5otmbe6cayfc272nrf26bt2g57wfairvdh64gq4njt76n5wze",
+  "numberOfDownloads": 32065,
+  "rating": 5,
+  "numberOfVotes": 15,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/worldeditglobalizer.51527/history",
+  "gitUrl": "https://github.com/IllgiLP/WorldEditGlobalizer",
+  "releaseDate": 1514843880000,
+  "updateDate": 1671834180000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

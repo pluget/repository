@@ -1,0 +1,33 @@
+{
+  "id": 59411,
+  "url": "https://www.spigotmc.org/resources/chatty-lightweight-universal-bukkit-chat-system-solution-1-7-10-1-19.59411/",
+  "name": "Chatty - Lightweight universal Bukkit chat-system solution [1.7.10 - 1.19]",
+  "description": "Universal chat-system solution with much wonderful features",
+  "authors": [
+    "MrBrikster"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/59/59411.jpg?1533288557",
+  "iconCid": "bafkreigmjd3hjsw3h6kl6a4wg5dwprbxjucsolhotwkfg5tye3gwqfopge",
+  "numberOfDownloads": 91854,
+  "rating": 4.3,
+  "numberOfVotes": 65,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatty-lightweight-universal-bukkit-chat-system-solution-1-7-10-1-19.59411/history",
+  "gitUrl": "https://github.com/Brikster/Chatty",
+  "releaseDate": 1533284940000,
+  "updateDate": 1659486000000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

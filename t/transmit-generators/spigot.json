@@ -1,0 +1,23 @@
+{
+  "id": 105233,
+  "url": "https://www.spigotmc.org/resources/transmit-generators.105233/",
+  "name": "Transmit Generators",
+  "description": "A super customizable Minehut styled generator plugin",
+  "authors": [
+    "MrEnxo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105233.jpg?1662956510",
+  "iconCid": "bafkreig7toxqcwb5g4xsoliaag3xzxpznhvi5jrhncys4k2cnctljjmcai",
+  "numberOfDownloads": 114,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/transmit-generators.105233/history",
+  "gitUrl": "https://github.com/MrEnxo/TransmitGens",
+  "releaseDate": 1662946380000,
+  "updateDate": 1663009440000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

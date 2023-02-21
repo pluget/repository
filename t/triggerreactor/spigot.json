@@ -1,0 +1,33 @@
+{
+  "id": 40987,
+  "url": "https://www.spigotmc.org/resources/triggerreactor.40987/",
+  "name": "TriggerReactor",
+  "description": "Stop wasting time making plugins from scratch",
+  "authors": [
+    "wysohn"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/40/40987.jpg?1586136847",
+  "iconCid": "bafkreicil5qkkhsgimlqfsv54z3hy4d2tcrrwfycw53chi6xc5mouev7fe",
+  "numberOfDownloads": 9502,
+  "rating": 5,
+  "numberOfVotes": 14,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/triggerreactor.40987/history",
+  "gitUrl": "https://github.com/wysohn/TriggerReactor",
+  "releaseDate": 1495073100000,
+  "updateDate": 1669597140000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

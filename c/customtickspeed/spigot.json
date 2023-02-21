@@ -1,0 +1,22 @@
+{
+  "id": 103817,
+  "url": "https://www.spigotmc.org/resources/customtickspeed.103817/",
+  "name": "CustomTickSpeed",
+  "description": "Change the tickspeed",
+  "authors": [
+    "UnleqitQ"
+  ],
+  "numberOfDownloads": 34,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/customtickspeed.103817/history",
+  "gitUrl": "https://github.com/UnleqitQ/CustomTickSpeed",
+  "releaseDate": 1659192480000,
+  "updateDate": 1659192480000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

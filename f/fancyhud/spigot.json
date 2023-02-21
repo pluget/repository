@@ -1,0 +1,25 @@
+{
+  "id": 97854,
+  "url": "https://www.spigotmc.org/resources/fancyhud.97854/",
+  "name": "FancyHUD",
+  "description": "Use variables to customize the various messages displayed on the screen.",
+  "authors": [
+    "s99889989"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97854.jpg?1637763456",
+  "iconCid": "bafkreieoewvnykae7kudilzbji6i2532c56v5sge7zao6svdj77cfgzwry",
+  "numberOfDownloads": 148,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fancyhud.97854/history",
+  "gitUrl": "https://github.com/s99889989/FancyHUD",
+  "releaseDate": 1637759820000,
+  "updateDate": 1659006720000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

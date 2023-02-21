@@ -1,0 +1,32 @@
+{
+  "id": 22272,
+  "url": "https://www.spigotmc.org/resources/mycommand.22272/",
+  "name": "MyCommand",
+  "description": "Make your own, customized Minecraft commands",
+  "authors": [
+    "MRI"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/22/22272.jpg?1572601085",
+  "iconCid": "bafkreifk7ymoc722atrfuxp5uy7qyv36gib2cwvcsizktrp7ybk6fhdz6q",
+  "numberOfDownloads": 179852,
+  "rating": 4.6,
+  "numberOfVotes": 182,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mycommand.22272/history",
+  "releaseDate": 1461486540000,
+  "updateDate": 1662282840000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

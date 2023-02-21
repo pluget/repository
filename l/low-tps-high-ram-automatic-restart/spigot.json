@@ -1,0 +1,18 @@
+{
+  "id": 106372,
+  "url": "https://www.spigotmc.org/resources/low-tps-high-ram-automatic-restart.106372/",
+  "name": "Low TPS / High RAM Automatic Restart",
+  "description": "Restarts the server if the TPS/RAM is smaller/larger or equal to the preset number",
+  "authors": [
+    "MasterHaxixu"
+  ],
+  "numberOfDownloads": 186,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/low-tps-high-ram-automatic-restart.106372/history",
+  "releaseDate": 1676801700000,
+  "updateDate": 1676801700000,
+  "versions": [
+    "1.19"
+  ]
+}

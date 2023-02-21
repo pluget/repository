@@ -1,0 +1,25 @@
+{
+  "id": 91261,
+  "url": "https://www.spigotmc.org/resources/cordcraft.91261/",
+  "name": "CordCraft",
+  "description": "A new simple system to link Discord chat and Minecraft chat",
+  "authors": [
+    "Xzefir"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91261.jpg?1618274542",
+  "iconCid": "bafkreiet5xbp4ndoh7qfc7xj3gcsbzr5tjzwqcscvl4rr2a4v52ln3buwq",
+  "numberOfDownloads": 519,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cordcraft.91261/history",
+  "gitUrl": "https://github.com/xzefir/CordCraft-spigot",
+  "releaseDate": 1618270920000,
+  "updateDate": 1664170020000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

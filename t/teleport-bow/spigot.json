@@ -1,0 +1,28 @@
+{
+  "id": 106616,
+  "url": "https://www.spigotmc.org/resources/teleport-bow.106616/",
+  "name": "Teleport Bow",
+  "description": "Easy-to-use teleport bow plugin.",
+  "authors": [
+    "Shauryam_Singh"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106616.jpg?1670385650",
+  "iconCid": "bafkreigqgha3wqksv3dxoczdxnp2giyjspbb55k7xj7jwlhd3sn4qbw7iy",
+  "numberOfDownloads": 32,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/teleport-bow.106616/history",
+  "releaseDate": 1670381940000,
+  "updateDate": 1670381940000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

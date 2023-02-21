@@ -1,0 +1,21 @@
+{
+  "id": 102520,
+  "url": "https://www.spigotmc.org/resources/beechat.102520/",
+  "name": "BeeChat",
+  "description": "Amazing fully customizable chat plugin System [Open Source] PAPI support!!",
+  "authors": [
+    "MathiasClari"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102520.jpg?1654816644",
+  "iconCid": "bafkreihwarbfdok32xpt4ohurqmve352jqoputeqahwbt3keccua7l2ywy",
+  "numberOfDownloads": 59,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/beechat.102520/history",
+  "gitUrl": "https://github.com/MathiasClari/BeeChat",
+  "releaseDate": 1654813020000,
+  "updateDate": 1675556820000,
+  "versions": [
+    "1.19"
+  ]
+}

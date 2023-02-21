@@ -1,0 +1,21 @@
+{
+  "id": 106946,
+  "url": "https://www.spigotmc.org/resources/damage-indicator.106946/",
+  "name": "Damage Indicator",
+  "description": "Simple damage indicator",
+  "authors": [
+    "efekos"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106946.jpg?1671905252",
+  "iconCid": "bafkreiblwl25tbfhbmamrb6ond46dp3xhie5vqcfkrdnkbtmezls67v5ra",
+  "numberOfDownloads": 74,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/damage-indicator.106946/history",
+  "gitUrl": "https://github.com/efe124/DamageIndicator",
+  "releaseDate": 1671901620000,
+  "updateDate": 1671901620000,
+  "versions": [
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 107480,
+  "url": "https://www.spigotmc.org/resources/customcobblegen-jetsminions-add-on.107480/",
+  "name": "CustomCobbleGen - JetsMinions Add-on",
+  "description": "Adds support for JetsMinions to CustomCobbleGen",
+  "authors": [
+    "phil14052"
+  ],
+  "numberOfDownloads": 14,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/customcobblegen-jetsminions-add-on.107480/history",
+  "gitUrl": "https://github.com/PhilipFlyvholm/CustomCobbleGen/tree/master/CustomCobbleGen-JetsMinions",
+  "releaseDate": 1674120120000,
+  "updateDate": 1674120120000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

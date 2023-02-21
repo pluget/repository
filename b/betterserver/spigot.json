@@ -1,0 +1,32 @@
+{
+  "id": 105989,
+  "url": "https://www.spigotmc.org/resources/betterserver.105989/",
+  "name": "BetterServer",
+  "description": "Everything you need in a plugin!",
+  "authors": [
+    "EthanGarey"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105989.jpg?1670383967",
+  "iconCid": "bafkreiaugryrnd2p5q23bugfmcmbxay6aibe7vrh2tqprkkwgt47qgzid4",
+  "numberOfDownloads": 620,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterserver.105989/history",
+  "gitUrl": "https://github.com/EthanGarey/BetterServer",
+  "releaseDate": 1667073780000,
+  "updateDate": 1671154080000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

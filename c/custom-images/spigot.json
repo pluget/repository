@@ -1,0 +1,32 @@
+{
+  "id": 53036,
+  "url": "https://www.spigotmc.org/resources/custom-images.53036/",
+  "name": "Custom Images",
+  "description": "Load custom images into Minecraft",
+  "authors": [
+    "Andavin"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/53/53036.jpg?1518323262",
+  "iconCid": "bafkreigx322szrtiaio5xnpoi6wpbuezlolgasyqlrtstzcjtptiiligvu",
+  "numberOfDownloads": 202226,
+  "rating": 4.3,
+  "numberOfVotes": 157,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/custom-images.53036/history",
+  "gitUrl": "https://github.com/Andavin/Images",
+  "releaseDate": 1518156300000,
+  "updateDate": 1670949660000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

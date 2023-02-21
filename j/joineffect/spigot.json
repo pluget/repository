@@ -1,0 +1,28 @@
+{
+  "id": 1288,
+  "url": "https://www.spigotmc.org/resources/joineffect.1288/",
+  "name": "JoinEffect",
+  "description": "Join effects for people joining your server!",
+  "authors": [
+    "HiddenAether"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/1/1288.jpg?1412179417",
+  "iconCid": "bafkreibaqtdns2jgdwdmkrbsm4jwib23mgyarpr4vzq3q7y2ecmh5lwotu",
+  "numberOfDownloads": 5554,
+  "rating": 4.4,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/joineffect.1288/history",
+  "gitUrl": "https://gitlab.com/willtwallace/joineffect",
+  "releaseDate": 1676502120000,
+  "updateDate": 1676502120000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 64918,
+  "url": "https://www.spigotmc.org/resources/spicord.64918/",
+  "name": "Spicord",
+  "description": "Discord integration for BungeeCord & Spigot/Bukkit servers.",
+  "authors": [
+    "Sheidy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/64/64918.jpg?1550350943",
+  "iconCid": "bafkreibwe3dj76ofhdkkiukhvi2mdydpw74susgsguz5ifwujsb3nd7dqe",
+  "numberOfDownloads": 8043,
+  "rating": 4.9,
+  "numberOfVotes": 36,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/spicord.64918/history",
+  "gitUrl": "https://github.com/Spicord/Spicord",
+  "releaseDate": 1550347320000,
+  "updateDate": 1669081440000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

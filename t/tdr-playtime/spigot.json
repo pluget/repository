@@ -1,0 +1,26 @@
+{
+  "id": 47894,
+  "url": "https://www.spigotmc.org/resources/tdr-playtime-rewards-mysql.47894/",
+  "name": "TDR Playtime | Rewards | Mysql",
+  "description": "Playtime plugin for minecraft servers with mysql support and custom milestones/rewards",
+  "authors": [
+    "TheDutchRuben"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/47/47894.jpg?1615755164",
+  "iconCid": "bafkreic3pydimc3iqwz7aouqiqyimesypljvqmrzpmqqniql7ohbop5wbq",
+  "numberOfDownloads": 4115,
+  "rating": 4.9,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tdr-playtime-rewards-mysql.47894/history",
+  "gitUrl": "https://github.com/thedutchruben/TDRPlaytime",
+  "releaseDate": 1506963780000,
+  "updateDate": 1664644200000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 98780,
+  "url": "https://www.spigotmc.org/resources/expandedenchants.98780/",
+  "name": "ExpandedEnchants",
+  "description": "Custom enchantments and an upgrade to the vanilla enchanting system",
+  "authors": [
+    "Loikas"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98780.jpg?1640870978",
+  "iconCid": "bafkreiedtpttbk53zivmuc6b5tys4nnys7ai2ohgcpvijohygyu5z3oozi",
+  "numberOfDownloads": 4101,
+  "rating": 4.8,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/expandedenchants.98780/history",
+  "gitUrl": "https://github.com/Loikas/MinecraftPlugins",
+  "releaseDate": 1640819220000,
+  "updateDate": 1657789380000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

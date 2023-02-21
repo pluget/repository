@@ -1,0 +1,33 @@
+{
+  "id": 33142,
+  "url": "https://www.spigotmc.org/resources/broadcast-for-party-and-friends.33142/",
+  "name": "Broadcast for Party and Friends",
+  "description": "Adds the command /friend broadcast to Party and Friends",
+  "authors": [
+    "simonsator"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/33/33142.jpg?1497975874",
+  "iconCid": "bafkreigq4y4jqwhqvret65f2zqpshw4gtl6sasphymklbh6czhbkyq37v4",
+  "numberOfDownloads": 1154,
+  "rating": 4.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/broadcast-for-party-and-friends.33142/history",
+  "gitUrl": "https://github.com/Simonsator/PAF-Broadcast",
+  "releaseDate": 1481647020000,
+  "updateDate": 1666358340000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

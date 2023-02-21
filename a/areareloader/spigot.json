@@ -1,0 +1,24 @@
+{
+  "id": 106585,
+  "url": "https://www.spigotmc.org/resources/areareloader-fawe.106585/",
+  "name": "AreaReloader-FAWE",
+  "description": "Create and restore areas at the ease of your wand",
+  "authors": [
+    "_Hetag1216_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106585.jpg?1670197022",
+  "iconCid": "bafkreihlsc77h56nnzme2mzwzt7wu7udhgzg2q4flr7khnmm4vzflvvacu",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/areareloader-fawe.106585/history",
+  "gitUrl": "https://github.com/Hetag1216/AreaReloader-FAWE",
+  "releaseDate": 1670193360000,
+  "updateDate": 1670193360000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

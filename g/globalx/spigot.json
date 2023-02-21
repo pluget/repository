@@ -1,0 +1,33 @@
+{
+  "id": 102941,
+  "url": "https://www.spigotmc.org/resources/globalx.102941/",
+  "name": "GlobalX",
+  "description": "The best GlobalChat solution for Minecraft servers.",
+  "authors": [
+    "Sgattix"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102941.jpg?1656324203",
+  "iconCid": "bafkreignut526enisdqixoo2tsuuc7q6u6gxbqu2a2j2hz6l4enybo2u44",
+  "numberOfDownloads": 284,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/globalx.102941/history",
+  "gitUrl": "https://github.com/Regent20/GlobalX",
+  "releaseDate": 1656320460000,
+  "updateDate": 1661859960000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

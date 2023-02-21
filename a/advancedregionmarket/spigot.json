@@ -1,0 +1,27 @@
+{
+  "id": 58732,
+  "url": "https://www.spigotmc.org/resources/advancedregionmarket.58732/",
+  "name": "AdvancedRegionMarket",
+  "description": "Sell, rent and manage worldguard regions. Create Hotels, manage via GUI and more.",
+  "authors": [
+    "alex9849"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/58/58732.jpg?1593338210",
+  "iconCid": "bafkreihbnc5udvmgoishtmclm43bigawl7uhuce6ns7h54l4w2bu4lqqza",
+  "numberOfDownloads": 96229,
+  "rating": 4.8,
+  "numberOfVotes": 82,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advancedregionmarket.58732/history",
+  "gitUrl": "https://github.com/alex9849/advanced-region-market",
+  "releaseDate": 1531562760000,
+  "updateDate": 1666682580000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

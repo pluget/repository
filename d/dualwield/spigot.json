@@ -1,0 +1,31 @@
+{
+  "id": 82349,
+  "url": "https://www.spigotmc.org/resources/dualwield.82349/",
+  "name": "DualWield",
+  "description": "Off-hand attacking and tool usage, use your weapons and tools in the off-hand.",
+  "authors": [
+    "Ranull"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82349.jpg?1599125014",
+  "iconCid": "bafkreihgorqhbnti5rcgxqgokowx6ixkzl3frrep5bxpnxyjqtzkda7bsa",
+  "numberOfDownloads": 67058,
+  "rating": 4.8,
+  "numberOfVotes": 34,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dualwield.82349/history",
+  "gitUrl": "https://gitlab.com/ranull/minecraft/dualwield",
+  "releaseDate": 1596562860000,
+  "updateDate": 1670847720000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

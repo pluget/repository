@@ -1,0 +1,27 @@
+{
+  "id": 106832,
+  "url": "https://www.spigotmc.org/resources/skcord-send-discord-webhooks.106832/",
+  "name": "skCord | Send Discord Webhooks",
+  "description": "send discord webhooks per skript",
+  "authors": [
+    "Florian1"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106832.jpg?1671444561",
+  "iconCid": "bafkreigkrr6dnlrynwenkh6x5n6mrfh3ytkjwwrz7iakdoni6qitl6j3zu",
+  "numberOfDownloads": 57,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skcord-send-discord-webhooks.106832/history",
+  "releaseDate": 1676667420000,
+  "updateDate": 1676667420000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

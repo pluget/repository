@@ -1,0 +1,24 @@
+{
+  "id": 94867,
+  "url": "https://www.spigotmc.org/resources/catchball.94867/",
+  "name": "CatchBall",
+  "description": "A plugin that make entity to be catchable",
+  "authors": [
+    "xiaoren"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94867.jpg?1627804762",
+  "iconCid": "bafkreigsu3eqok5zeu4c3owycslqowiskb4maitc46yntopasmczerbvie",
+  "numberOfDownloads": 784,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/catchball.94867/history",
+  "gitUrl": "https://github.com/NUTT1101/CatchBall",
+  "releaseDate": 1627801140000,
+  "updateDate": 1671452160000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 105439,
+  "url": "https://www.spigotmc.org/resources/lptablist-1-14-1-19-discontinued.105439/",
+  "name": "LPTabList [1.14 - 1.19] Discontinued",
+  "description": "A lightweight TabList using LuckPerms.",
+  "authors": [
+    "SESOSAS"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105439.jpg?1664046049",
+  "iconCid": "bafkreie44p4ut3jlxblnzebaky57kjeuqdujwvp4lfwh6nbdaffz4h5w7y",
+  "numberOfDownloads": 353,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lptablist-1-14-1-19-discontinued.105439/history",
+  "releaseDate": 1664042400000,
+  "updateDate": 1664136780000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 102160,
+  "url": "https://www.spigotmc.org/resources/bluestarcraft.102160/",
+  "name": "BluestarCraft",
+  "description": "A 5*5 advanced crafting table",
+  "authors": [
+    "lanzhi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102160.jpg?1653273989",
+  "iconCid": "bafkreieun2chx2ce7truh5sz265q6luqfwcmxsg2jmk4ymqsvcjvba73la",
+  "numberOfDownloads": 178,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bluestarcraft.102160/history",
+  "gitUrl": "https://github.com/lanzhi6/BluestarCraft/",
+  "releaseDate": 1653270360000,
+  "updateDate": 1660557240000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

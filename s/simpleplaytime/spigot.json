@@ -1,0 +1,24 @@
+{
+  "id": 99154,
+  "url": "https://www.spigotmc.org/resources/simpleplaytime.99154/",
+  "name": "SimplePlayTime",
+  "description": "Keep track of player playtime on your server!",
+  "authors": [
+    "hyperdefined"
+  ],
+  "numberOfDownloads": 301,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simpleplaytime.99154/history",
+  "gitUrl": "https://github.com/hyperdefined/SimplePlayTime",
+  "releaseDate": 1642048080000,
+  "updateDate": 1660574280000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

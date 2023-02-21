@@ -1,0 +1,26 @@
+{
+  "id": 62729,
+  "url": "https://www.spigotmc.org/resources/autoreconnect-bungeecord-reconnect.62729/",
+  "name": "AutoReconnect (Bungeecord Reconnect)",
+  "description": "A plugin that automatically tries to reconnect players whenever a server restarts.",
+  "authors": [
+    "WolfLeader116"
+  ],
+  "numberOfDownloads": 5487,
+  "rating": 4.3,
+  "numberOfVotes": 25,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/autoreconnect-bungeecord-reconnect.62729/history",
+  "gitUrl": "https://github.com/AoElite/AutoReconnect/",
+  "releaseDate": 1676594760000,
+  "updateDate": 1676594760000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

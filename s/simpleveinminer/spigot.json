@@ -1,0 +1,27 @@
+{
+  "id": 107256,
+  "url": "https://www.spigotmc.org/resources/simpleveinminer-1-13.107256/",
+  "name": "SimpleVeinMiner [1.13+]",
+  "description": "A simple to use plugin that allows players to instantly mine the entire vein.",
+  "authors": [
+    "Miau_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107256.jpg?1673092512",
+  "iconCid": "bafkreiegiz3qz4uiva6dsa35tnzhovgi4zfxqbbeqaqo3xboktbsq3jrc4",
+  "numberOfDownloads": 557,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simpleveinminer-1-13.107256/history",
+  "gitUrl": "https://github.com/innocentmiau/SimpleVeinMiner",
+  "releaseDate": 1673088900000,
+  "updateDate": 1674828120000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 103520,
+  "url": "https://www.spigotmc.org/resources/iroekd_inventory-replacer-block-head-placer.103520/",
+  "name": "iroekd_Inventory Replacer & Block Head Placer",
+  "description": "This Plugin can help you replace player's inventory item and place the block in player's head",
+  "authors": [
+    "SaltDirt"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103520.jpg?1658304896",
+  "iconCid": "bafkreihefpz4nue4fjy67plgoouaax3nyrvntdh2s4xcsncffdnw4gcwwm",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/iroekd_inventory-replacer-block-head-placer.103520/history",
+  "gitUrl": "https://github.com/SaltDirt/",
+  "releaseDate": 1658301180000,
+  "updateDate": 1658301180000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

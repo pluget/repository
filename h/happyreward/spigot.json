@@ -1,0 +1,29 @@
+{
+  "id": 104928,
+  "url": "https://www.spigotmc.org/resources/happyreward.104928/",
+  "name": "HappyReward",
+  "description": "Simple rewards plugin",
+  "authors": [
+    "CConfetti"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104928.jpg?1661817436",
+  "iconCid": "bafkreiatklaipaohn7alid35fd7u7geldlic6ik2wlffb27lgkhvvnxdai",
+  "numberOfDownloads": 38,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/happyreward.104928/history",
+  "releaseDate": 1661813760000,
+  "updateDate": 1661985420000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

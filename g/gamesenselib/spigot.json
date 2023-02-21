@@ -1,0 +1,25 @@
+{
+  "id": 107126,
+  "url": "https://www.spigotmc.org/resources/gamesenselib.107126/",
+  "name": "GameSenseLib",
+  "description": "Build your own Minecraft minigame with flexible, extensible, and modular API.",
+  "authors": [
+    "shaokeyibb"
+  ],
+  "numberOfDownloads": 71,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gamesenselib.107126/history",
+  "gitUrl": "https://github.com/shaokeyibb/GameSenseLib",
+  "releaseDate": 1672639860000,
+  "updateDate": 1672899480000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

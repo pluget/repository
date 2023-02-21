@@ -1,0 +1,21 @@
+{
+  "id": 106556,
+  "url": "https://www.spigotmc.org/resources/simpletpa.106556/",
+  "name": "SimpleTpa",
+  "description": "A simple Minecraft plugin made for creating teleport requests between players",
+  "authors": [
+    "rach_ultimate"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106556.jpg?1670176216",
+  "iconCid": "bafkreigcnj64nda2wk2gkaumh6cpezgz7llc76bn2mq22uamnwlrqpo2gi",
+  "numberOfDownloads": 133,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simpletpa.106556/history",
+  "gitUrl": "https://github.com/rachzy/SimpleTpa",
+  "releaseDate": 1670019840000,
+  "updateDate": 1670171700000,
+  "versions": [
+    "1.8"
+  ]
+}

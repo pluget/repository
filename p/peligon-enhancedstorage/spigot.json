@@ -1,0 +1,27 @@
+{
+  "id": 103322,
+  "url": "https://www.spigotmc.org/resources/peligon-enhancedstorage.103322/",
+  "name": "Peligon EnhancedStorage",
+  "description": "Adds additional storage options to your server.",
+  "authors": [
+    "Peligon"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103322.jpg?1657662489",
+  "iconCid": "bafkreiahy2teqmnkmep5hqx3gojmwt43sk5jyx7o3wf6lmdo24armjeala",
+  "numberOfDownloads": 27,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/peligon-enhancedstorage.103322/history",
+  "gitUrl": "https://github.com/Darkw1nged/Peligon-Plugins",
+  "releaseDate": 1657658880000,
+  "updateDate": 1657658880000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

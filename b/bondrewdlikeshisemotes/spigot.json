@@ -1,0 +1,25 @@
+{
+  "id": 103573,
+  "url": "https://www.spigotmc.org/resources/bondrewdlikeshisemotes.103573/",
+  "name": "BondrewdLikesHisEmotes",
+  "description": "Plugin to make custom emojis, gifs, menus and anything else using unicodes",
+  "authors": [
+    "MineInAbyss"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103573.jpg?1658437955",
+  "iconCid": "bafkreiawobehzuklmvjdfrdg2kwridy5i4gqymhnyutozekou4z4w426di",
+  "numberOfDownloads": 122,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bondrewdlikeshisemotes.103573/history",
+  "gitUrl": "https://github.com/MineInAbyss/BondrewdLikesHisEmotes",
+  "releaseDate": 1658434320000,
+  "updateDate": 1675781940000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

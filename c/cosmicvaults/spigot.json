@@ -1,0 +1,27 @@
+{
+  "id": 106729,
+  "url": "https://www.spigotmc.org/resources/cosmicvaults-configurable-player-vaults-%E2%9C%851-13-1-19.106729/",
+  "name": "CosmicVaults | Configurable Player Vaults | ✅1.13 - 1.19",
+  "description": "A highly configurable plugin that allows players to create private vault storages",
+  "authors": [
+    "WonkyPigs"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106729.jpg?1671212501",
+  "iconCid": "bafkreicfnxfggirufdmnigdoiagudrmrwdwez7btpo2ymkqyxmnoyvwt7e",
+  "numberOfDownloads": 279,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cosmicvaults-configurable-player-vaults-%E2%9C%851-13-1-19.106729/history",
+  "gitUrl": "https://github.com/WonkyPigs/CosmicVaults",
+  "releaseDate": 1676451060000,
+  "updateDate": 1676451060000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

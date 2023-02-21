@@ -1,0 +1,29 @@
+{
+  "id": 105829,
+  "url": "https://www.spigotmc.org/resources/kpcore.105829/",
+  "name": "KPCore",
+  "description": "Main dependency for KP-PVP uploaded here for convenience",
+  "authors": [
+    "RAFAELESPADA"
+  ],
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kpcore.105829/history",
+  "releaseDate": 1666115220000,
+  "updateDate": 1666115220000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

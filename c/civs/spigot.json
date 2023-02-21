@@ -1,0 +1,24 @@
+{
+  "id": 67350,
+  "url": "https://www.spigotmc.org/resources/civs.67350/",
+  "name": "Civs",
+  "description": "Towns, War, and Economy! Build structures that can do just about anything.",
+  "authors": [
+    "Multitallented"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/67/67350.jpg?1557785447",
+  "iconCid": "bafkreiez2w4cwvbniii4tum5luwjvqses7efbr2j6efwhtdiqijl34j2t4",
+  "numberOfDownloads": 23102,
+  "rating": 4.7,
+  "numberOfVotes": 46,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/civs.67350/history",
+  "gitUrl": "https://github.com/Multitallented/Civs",
+  "releaseDate": 1557781500000,
+  "updateDate": 1667853000000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 95021,
+  "url": "https://www.spigotmc.org/resources/simplecoupons.95021/",
+  "name": "SimpleCoupons",
+  "description": "Get items with custom rewards!",
+  "authors": [
+    "segu23"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95021.jpg?1628177890",
+  "iconCid": "bafkreigv4vzlpm4l5mfym22a6h72dsqdo3rzm7nljrplxokhj3fhem5dqi",
+  "numberOfDownloads": 326,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplecoupons.95021/history",
+  "gitUrl": "https://github.com/segu23/SimpleCoupons",
+  "releaseDate": 1628174220000,
+  "updateDate": 1673716560000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

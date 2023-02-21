@@ -1,0 +1,23 @@
+{
+  "id": 104590,
+  "url": "https://www.spigotmc.org/resources/openbucket.104590/",
+  "name": "OpenBucket",
+  "description": "Infinite bucket space for water and lava!",
+  "authors": [
+    "TTRyY01vbkRF"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104590.jpg?1660641455",
+  "iconCid": "bafkreicmd4qyxfrgit2wak75lxw45ltexizdrr52n3f5criuayghtb5pmq",
+  "numberOfDownloads": 39,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/openbucket.104590/history",
+  "gitUrl": "https://github.com/ttryy/OpenBucket",
+  "releaseDate": 1660637820000,
+  "updateDate": 1660637820000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

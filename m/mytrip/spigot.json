@@ -1,0 +1,25 @@
+{
+  "id": 76816,
+  "url": "https://www.spigotmc.org/resources/mytrip-amazing-drugs-in-minecraft.76816/",
+  "name": "MyTrip | amazing Drugs in Minecraft",
+  "description": "Craft your own drugs like weed, cocaine, heroin, LSD, mushrooms.",
+  "authors": [
+    "Chaffic"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/76/76816.jpg?1602518555",
+  "iconCid": "bafkreifio53emrhtafpc2hjt3jxdjctgmkyusydpungeekaqh3on2p5gfa",
+  "numberOfDownloads": 10967,
+  "rating": 4.5,
+  "numberOfVotes": 18,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mytrip-amazing-drugs-in-minecraft.76816/history",
+  "gitUrl": "https://github.com/ChafficPlugins/MyTrip",
+  "releaseDate": 1585760940000,
+  "updateDate": 1669799940000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

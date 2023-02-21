@@ -1,0 +1,23 @@
+{
+  "id": 102250,
+  "url": "https://www.spigotmc.org/resources/daynightpvp-dynamic-pvp-for-day-night.102250/",
+  "name": "DayNightPvP | Dynamic PvP for Day/Night",
+  "description": "PvP configurable for day/night.",
+  "authors": [
+    "nk260203"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102250.jpg?1653715145",
+  "iconCid": "bafkreigky432qq2fy2kxwu77755ww2xlhjtappscg2mhinjjcaen4odrki",
+  "numberOfDownloads": 249,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/daynightpvp-dynamic-pvp-for-day-night.102250/history",
+  "releaseDate": 1653621240000,
+  "updateDate": 1665011580000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

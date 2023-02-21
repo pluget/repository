@@ -1,0 +1,33 @@
+{
+  "id": 10225,
+  "url": "https://www.spigotmc.org/resources/gparticles-recoded-new-1-19-infinite-particles-trails-customization-paged-gui-system.10225/",
+  "name": "GParticles - RECODED! - NEW: 1.19, infinite particles/trails customization, paged GUI system!",
+  "description": "An awesome cosmetics plugin with particles, trails and gadgets ! [1.7-latest]",
+  "authors": [
+    "GuillaumeVDN"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/10/10225.jpg?1438264512",
+  "iconCid": "bafkreifhtqs4ixipl5xitkj27y6cvvuygg6pkppbltzmnnzkiimfd3f3fu",
+  "numberOfDownloads": 38364,
+  "rating": 4.6,
+  "numberOfVotes": 44,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gparticles-recoded-new-1-19-infinite-particles-trails-customization-paged-gui-system.10225/history",
+  "gitUrl": "https://gitlab.com/GuillaumeVDN/GParticles",
+  "releaseDate": 1438260840000,
+  "updateDate": 1670775840000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

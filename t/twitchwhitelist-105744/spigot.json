@@ -1,0 +1,32 @@
+{
+  "id": 105744,
+  "url": "https://www.spigotmc.org/resources/twitchwhitelist-whitelist-players-via-twitch-channelpoints.105744/",
+  "name": "TwitchWhitelist - Whitelist Players via Twitch Channelpoints",
+  "description": "Your viewers will be able to whitelist themself with Twitch Channelpoints on your Minecraft Server",
+  "authors": [
+    "Jakkoble"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105744.jpg?1665572929",
+  "iconCid": "bafkreidb36eynrcz2vwahwgql4ru2iupwjtpezpkscwzhk56cjwftuxifi",
+  "numberOfDownloads": 65,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/twitchwhitelist-whitelist-players-via-twitch-channelpoints.105744/history",
+  "gitUrl": "https://github.com/Jakkoble/TwitchWhitelist",
+  "releaseDate": 1665561780000,
+  "updateDate": 1665837900000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

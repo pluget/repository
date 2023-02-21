@@ -1,0 +1,22 @@
+{
+  "id": 64541,
+  "url": "https://www.spigotmc.org/resources/itemsoulbind.64541/",
+  "name": "ItemSoulBind",
+  "description": "Bind items to players or groups",
+  "authors": [
+    "mk7a"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/64/64541.jpg?1671465688",
+  "iconCid": "bafkreidcuxtiqcbcdm6qd23cjl7cty22j5kw3sj3eqsnn45hu565t4tzte",
+  "numberOfDownloads": 2863,
+  "rating": 4.4,
+  "numberOfVotes": 13,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/itemsoulbind.64541/history",
+  "gitUrl": "https://github.com/mk7a/ItemSoulBind",
+  "releaseDate": 1549119780000,
+  "updateDate": 1660499160000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

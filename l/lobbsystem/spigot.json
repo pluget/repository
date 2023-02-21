@@ -1,0 +1,32 @@
+{
+  "id": 50439,
+  "url": "https://www.spigotmc.org/resources/lobbsystem.50439/",
+  "name": "LobbSystem",
+  "description": "Lobby",
+  "authors": [
+    "GodEcho"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/50/50439.jpg?1512655350",
+  "iconCid": "bafkreiewuzlbbvpwp2b4dxruwl3htozloysw5ab5anb7z74jgkxoadhbqy",
+  "numberOfDownloads": 322,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lobbsystem.50439/history",
+  "releaseDate": 1512651660000,
+  "updateDate": 1664632020000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

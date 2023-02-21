@@ -1,0 +1,28 @@
+{
+  "id": 105847,
+  "url": "https://www.spigotmc.org/resources/xgui.105847/",
+  "name": "xGUI",
+  "description": "Create advanced GUIs with simple syntax",
+  "authors": [
+    "Nesanco-Dev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105847.jpg?1666215047",
+  "iconCid": "bafkreignkyupreuxbtvegmgznpt522pwhqut2dv5yc6enfkv5nasi2ohre",
+  "numberOfDownloads": 83,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/xgui.105847/history",
+  "gitUrl": "https://github.com/Nesanco/xGUI",
+  "releaseDate": 1666211400000,
+  "updateDate": 1666493580000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

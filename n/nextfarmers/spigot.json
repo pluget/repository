@@ -1,0 +1,31 @@
+{
+  "id": 107510,
+  "url": "https://www.spigotmc.org/resources/nextfarmers.107510/",
+  "name": "NextFarmers",
+  "description": "Farmers for servers similar to guild wars.",
+  "authors": [
+    "Monsta_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107510.jpg?1674270796",
+  "iconCid": "bafkreigwprsutvwnicm6c6buic56agbsa4nqkfx5edo74uijz7czzvfvfm",
+  "numberOfDownloads": 34,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nextfarmers.107510/history",
+  "releaseDate": 1674267180000,
+  "updateDate": 1675548240000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

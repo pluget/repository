@@ -1,0 +1,23 @@
+{
+  "id": 107664,
+  "url": "https://www.spigotmc.org/resources/userd1-core.107664/",
+  "name": "UserD1 core",
+  "description": "The core needed for the plugins from UserD1 to work",
+  "authors": [
+    "UserD1"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107664.jpg?1674921062",
+  "iconCid": "bafkreif7bfjpfe7t3ouetdj6vz6zanxjpv6trzjqllcggi4isgbrltym5m",
+  "numberOfDownloads": 77,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/userd1-core.107664/history",
+  "releaseDate": 1674917400000,
+  "updateDate": 1675170660000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 107016,
+  "url": "https://www.spigotmc.org/resources/item-rotation-bw1058.107016/",
+  "name": "Item Rotation BW1058",
+  "description": "Item rotation addon for bedwars1058 inspired by Hypixel's new update",
+  "authors": [
+    "Kepler121"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107016.jpg?1672233693",
+  "iconCid": "bafkreifki73iszbx5bi4gd4tgglcm5hok6nempiinel6rqb6r4cxotp5oi",
+  "numberOfDownloads": 127,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/item-rotation-bw1058.107016/history",
+  "gitUrl": "https://github.com/IamTheDefender/BedWars1058-ItemRotation",
+  "releaseDate": 1672229940000,
+  "updateDate": 1674975540000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

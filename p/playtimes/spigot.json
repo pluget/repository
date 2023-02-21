@@ -1,0 +1,33 @@
+{
+  "id": 58858,
+  "url": "https://www.spigotmc.org/resources/playtimes-check-players-playtime-server-uptime.58858/",
+  "name": "PlayTimes - Check players playtime & Server Uptime",
+  "description": "The best /playtime plugin! PAPI support, offline checks, API & more!",
+  "authors": [
+    "CodedRed"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/58/58858.jpg?1573105141",
+  "iconCid": "bafkreifivkp47jwayof5u3i3cyjfuiiensj7oj3hdnox5yw2bffp7cszqq",
+  "numberOfDownloads": 24904,
+  "rating": 4.5,
+  "numberOfVotes": 66,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playtimes-check-players-playtime-server-uptime.58858/history",
+  "gitUrl": "https://github.com/CodedRed-Spigot/PlayTimes",
+  "releaseDate": 1676760720000,
+  "updateDate": 1676760720000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

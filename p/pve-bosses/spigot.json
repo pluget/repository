@@ -1,0 +1,26 @@
+{
+  "id": 104029,
+  "url": "https://www.spigotmc.org/resources/pve-bosses-%E2%9C%851-14-1-19-3%E2%9C%85.104029/",
+  "name": "PvE Bosses ✅1.14 - 1.19.3✅",
+  "description": "This plugin adds some powerful PvE bosses.",
+  "authors": [
+    "TheGoldenMine"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104029.jpg?1659524367",
+  "iconCid": "bafkreif5mq7yruzbnskv3235vtrmgf2f3dztrchmbwm6vc3jhbbj4kpcza",
+  "numberOfDownloads": 579,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pve-bosses-%E2%9C%851-14-1-19-3%E2%9C%85.104029/history",
+  "gitUrl": "https://github.com/TheGhostRoot/PvE-Bosses",
+  "releaseDate": 1659520740000,
+  "updateDate": 1673254440000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

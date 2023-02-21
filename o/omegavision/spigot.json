@@ -1,0 +1,31 @@
+{
+  "id": 73013,
+  "url": "https://www.spigotmc.org/resources/omegavision.73013/",
+  "name": "OmegaVision",
+  "description": "Allows players to toggle nightvision, on and off",
+  "authors": [
+    "OmegaWeaponDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/73/73013.jpg?1641182052",
+  "iconCid": "bafkreigmyd3hnexi34tr4jxowd3rrsorq4mkpiiakcg6vngkiul7nhcqke",
+  "numberOfDownloads": 6188,
+  "rating": 4.5,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/omegavision.73013/history",
+  "gitUrl": "https://github.com/OmegaWeaponDev/OmegaVision",
+  "releaseDate": 1574724900000,
+  "updateDate": 1661930580000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

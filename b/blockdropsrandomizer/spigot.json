@@ -1,0 +1,27 @@
+{
+  "id": 105812,
+  "url": "https://www.spigotmc.org/resources/blockdropsrandomizer-1-13-x-1-19-x.105812/",
+  "name": "BlockDropsRandomizer [1.13.X - 1.19.X]",
+  "description": "Fun and Customizable way to make your normal blocks more fun.",
+  "authors": [
+    "RileCraft"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105812.jpg?1666011420",
+  "iconCid": "bafkreignlqkovwcriv7yndnts2dd4nhmtvzklgevu6nh2fj6xibepflu5m",
+  "numberOfDownloads": 42,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blockdropsrandomizer-1-13-x-1-19-x.105812/history",
+  "gitUrl": "https://github.com/RileCraft/BlockDropsRandomizer",
+  "releaseDate": 1666007760000,
+  "updateDate": 1666276200000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 72274,
+  "url": "https://www.spigotmc.org/resources/tonicfoods.72274/",
+  "name": "TonicFoods",
+  "description": "Create custom foods with potion effects, messages, and permissions.",
+  "authors": [
+    "zach_attack"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/72/72274.jpg?1577025295",
+  "iconCid": "bafkreidnscdyggdx4ekfiigydgm6udq6gbgnd6cutfldsbaixmaehu6mti",
+  "numberOfDownloads": 462,
+  "rating": 4.3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tonicfoods.72274/history",
+  "gitUrl": "https://github.com/zachduda/TonicFoods",
+  "releaseDate": 1572032460000,
+  "updateDate": 1675351680000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

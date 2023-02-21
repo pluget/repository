@@ -1,0 +1,32 @@
+{
+  "id": 104563,
+  "url": "https://www.spigotmc.org/resources/worldselector.104563/",
+  "name": "WorldSelector",
+  "description": "Auto world selection for players",
+  "authors": [
+    "Thehrz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104563.jpg?1660556736",
+  "iconCid": "bafkreidrmrc7lir7d2v675ymwxl7czhc76dyapmwanmov3r7npx4wtekt4",
+  "numberOfDownloads": 36,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/worldselector.104563/history",
+  "gitUrl": "https://github.com/Thehrz/WorldSelector",
+  "releaseDate": 1660553100000,
+  "updateDate": 1660553100000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

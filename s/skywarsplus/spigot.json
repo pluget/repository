@@ -1,0 +1,21 @@
+{
+  "id": 106103,
+  "url": "https://www.spigotmc.org/resources/skywarsplus.106103/",
+  "name": "SkyWarsPlus",
+  "description": "Addon for skywars server plugins (implements the functionality of TheHive skywars) compatible with a",
+  "authors": [
+    "MyNameIsKiyoshi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106103.jpg?1667660177",
+  "iconCid": "bafkreidiqan2zvzimxafhzs5p25uqlsq6ff5kw46iicvhhfvmatwjdssle",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skywarsplus.106103/history",
+  "gitUrl": "https://github.com/MyNameIsKiyoshi/SkyWarsPlus",
+  "releaseDate": 1667656500000,
+  "updateDate": 1667656500000,
+  "versions": [
+    "1.19"
+  ]
+}

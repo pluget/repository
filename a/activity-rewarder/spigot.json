@@ -1,0 +1,23 @@
+{
+  "id": 107545,
+  "url": "https://www.spigotmc.org/resources/activity-rewarder.107545/",
+  "name": "Activity Rewarder",
+  "description": "Reward your players for logging in everyday, for playing on the server and more!",
+  "authors": [
+    "CoolDCB"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107545.jpg?1674410566",
+  "iconCid": "bafkreiezo5s2qvhytdhkqup6sfunfial5333mcasedodlcqwnc2hm465vy",
+  "numberOfDownloads": 572,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/activity-rewarder.107545/history",
+  "releaseDate": 1674406920000,
+  "updateDate": 1676400960000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

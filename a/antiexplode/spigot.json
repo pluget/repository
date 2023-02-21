@@ -1,0 +1,32 @@
+{
+  "id": 106723,
+  "url": "https://www.spigotmc.org/resources/antiexplode.106723/",
+  "name": "AntiExplode",
+  "description": "Protects the server from explosions",
+  "authors": [
+    "Ultimate_Hand"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106723.jpg?1674283428",
+  "iconCid": "bafkreickrsda2ye5ghigz5pyg6gbuhyiyz36cenqpknlgntf4rxryixudq",
+  "numberOfDownloads": 39,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antiexplode.106723/history",
+  "releaseDate": 1670994120000,
+  "updateDate": 1670994120000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

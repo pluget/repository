@@ -1,0 +1,19 @@
+{
+  "id": 106272,
+  "url": "https://www.spigotmc.org/resources/iplogin.106272/",
+  "name": "ipLogin",
+  "description": "Prevent the entry of any other player in the name of another player by checking his IP",
+  "authors": [
+    "hacked34354tf"
+  ],
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/iplogin.106272/history",
+  "gitUrl": "https://github.com/hacked34354tf/ipLogin",
+  "releaseDate": 1668462480000,
+  "updateDate": 1668462480000,
+  "versions": [
+    "1.8"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 99216,
+  "url": "https://www.spigotmc.org/resources/foodeffect.99216/",
+  "name": "Foodeffect",
+  "description": "Eating any type of food in minecraft will give you potion effect",
+  "authors": [
+    "abilash"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99216.jpg?1642237730",
+  "iconCid": "bafkreica5r56ujdnkj5p2f3zeb7haweytt4dvluyewffedy46o4zb7ceay",
+  "numberOfDownloads": 247,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/foodeffect.99216/history",
+  "gitUrl": "https://github.com/Fickletcell/foodeffect",
+  "releaseDate": 1642234080000,
+  "updateDate": 1670392140000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

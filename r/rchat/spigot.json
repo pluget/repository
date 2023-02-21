@@ -1,0 +1,26 @@
+{
+  "id": 104969,
+  "url": "https://www.spigotmc.org/resources/rchat-chat-customisation-plugin.104969/",
+  "name": "rChat | chat customisation plugin",
+  "description": "Customise your chat with: chat-format, join-quit messages, broadcast (+ blacklist names)",
+  "authors": [
+    "rtz981"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104969.jpg?1661965173",
+  "iconCid": "bafkreigudekc2eet4bhhjr7rz4ihjnr623vutf6hqlpfsfc52ryrqw4zma",
+  "numberOfDownloads": 79,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rchat-chat-customisation-plugin.104969/history",
+  "releaseDate": 1661961540000,
+  "updateDate": 1661961540000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

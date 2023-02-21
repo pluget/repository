@@ -1,0 +1,26 @@
+{
+  "id": 107284,
+  "url": "https://www.spigotmc.org/resources/doublejumpplus.107284/",
+  "name": "DoubleJumpPlus",
+  "description": "A DoubleJump plugin with sound for your lobby",
+  "authors": [
+    "FloZz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107284.jpg?1673193432",
+  "iconCid": "bafkreicbrypjw3huguor6rhdfogcpcf7ddmkmryngwtzuegfs5m2ues6cm",
+  "numberOfDownloads": 153,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/doublejumpplus.107284/history",
+  "releaseDate": 1673188920000,
+  "updateDate": 1676081040000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

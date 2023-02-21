@@ -1,0 +1,23 @@
+{
+  "id": 106376,
+  "url": "https://www.spigotmc.org/resources/skript-spawn-delay.106376/",
+  "name": "[Skript] Spawn Delay",
+  "description": "Spawn with a 5 second delay!",
+  "authors": [
+    "DashElector"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106376.jpg?1669050296",
+  "iconCid": "bafkreigu7sc4p2vzexclcr7v7ztcbi5nedzr7sjpfe6ubbrid377rrslzi",
+  "numberOfDownloads": 57,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skript-spawn-delay.106376/history",
+  "gitUrl": "https://github.com/DashElector/spawn",
+  "releaseDate": 1669046640000,
+  "updateDate": 1669046640000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

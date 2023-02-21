@@ -1,0 +1,26 @@
+{
+  "id": 106701,
+  "url": "https://www.spigotmc.org/resources/donatecase.106701/",
+  "name": "DonateCase",
+  "description": "DonateCase for minecraft server",
+  "authors": [
+    "_Jodex_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106701.jpg?1670864974",
+  "iconCid": "bafkreiakdsctn7aa3cyybt7magmfnpztgnn5ufq3nzhcqa2oakaq7o373y",
+  "numberOfDownloads": 346,
+  "rating": 3.6,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/donatecase.106701/history",
+  "releaseDate": 1670861340000,
+  "updateDate": 1670861460000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

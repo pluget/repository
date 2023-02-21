@@ -1,0 +1,22 @@
+{
+  "id": 82705,
+  "url": "https://www.spigotmc.org/resources/skinfixer.82705/",
+  "name": "SkinFixer",
+  "description": "Allow players to have a skin when your server is in offline mode and change skins on the fly",
+  "authors": [
+    "TheDutchMC04"
+  ],
+  "numberOfDownloads": 7474,
+  "rating": 4.1,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skinfixer.82705/history",
+  "gitUrl": "https://github.com/TobiasDeBruijn/SkinFixer",
+  "releaseDate": 1597311660000,
+  "updateDate": 1674128100000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

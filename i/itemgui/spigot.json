@@ -1,0 +1,27 @@
+{
+  "id": 94792,
+  "url": "https://www.spigotmc.org/resources/itemgui-simple-item-saving.94792/",
+  "name": "ItemGUI | Simple Item Saving!",
+  "description": "Saves items to recover later",
+  "authors": [
+    "SwordOfSouls"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94792.jpg?1627586565",
+  "iconCid": "bafkreibkprmv6eajs7vxe3laeqbrlftnc5tox2lof5pa4mdpoyqkp6l3xi",
+  "numberOfDownloads": 113,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/itemgui-simple-item-saving.94792/history",
+  "gitUrl": "https://github.com/SwordOfSouls/ItemSaver",
+  "releaseDate": 1627582860000,
+  "updateDate": 1657567680000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

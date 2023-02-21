@@ -1,0 +1,33 @@
+{
+  "id": 106513,
+  "url": "https://www.spigotmc.org/resources/bbrains-warps.106513/",
+  "name": "[BBrains] Warps",
+  "description": "Set a warp with one command",
+  "authors": [
+    "dayd21"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106513.jpg?1669820643",
+  "iconCid": "bafkreibsixrzf36flle2gtuueffak2s2b27sy27xpvj7tmpg3rxvkyeifq",
+  "numberOfDownloads": 66,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bbrains-warps.106513/history",
+  "gitUrl": "https://www.curseforge.com/minecraft/bukkit-plugins/bbrains-warps",
+  "releaseDate": 1669816980000,
+  "updateDate": 1671370920000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

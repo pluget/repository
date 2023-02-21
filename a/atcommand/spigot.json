@@ -1,0 +1,27 @@
+{
+  "id": 106760,
+  "url": "https://www.spigotmc.org/resources/atcommand-1-13-1-19-api.106760/",
+  "name": "AtCommand (1.13 - 1.19 | API)",
+  "description": "Annotations based command framework for spigot, bungeecord and velocity",
+  "authors": [
+    "Koboo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106760.jpg?1671187452",
+  "iconCid": "bafkreibrsmzkytcvzc6g7cedsdvsfpf77guqezrnoe6443fyapll72pgmu",
+  "numberOfDownloads": 14,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/atcommand-1-13-1-19-api.106760/history",
+  "gitUrl": "https://github.com/Koboo/at-command",
+  "releaseDate": 1671183840000,
+  "updateDate": 1671183840000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 80686,
+  "url": "https://www.spigotmc.org/resources/king-of-the-ladder-1-8-1-19.80686/",
+  "name": "King of the Ladder [1.8 - 1.19]",
+  "description": "An old, fun, classical Minecraft minigame",
+  "authors": [
+    "Despical"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80686.jpg?1661331476",
+  "iconCid": "bafkreigvzt2gdbxzc3grunks6a3tdgtjdqilsoqrytlritwuvalqjmjh7m",
+  "numberOfDownloads": 9424,
+  "rating": 3.9,
+  "numberOfVotes": 13,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/king-of-the-ladder-1-8-1-19.80686/history",
+  "gitUrl": "https://github.com/Despical/KOTL",
+  "releaseDate": 1676819280000,
+  "updateDate": 1676819280000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 107548,
+  "url": "https://www.spigotmc.org/resources/%E2%9C%A8-cleanscreenshare-%E2%80%A2-proxy-based-hack-control-server-handler-bungeecord-and-velocity-support.107548/",
+  "name": "✨ CleanScreenShare • Proxy based Hack Control server handler (BungeeCord and Velocity support)",
+  "description": "Proxy based ScreenShare plugin. Fast and network ready.",
+  "authors": [
+    "frafol"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107548.jpg?1674420551",
+  "iconCid": "bafkreie5nmksijunluivgfm7gr4x6qcw6u5hlcz5nhapl7klbwpw3c6tbi",
+  "numberOfDownloads": 106,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9C%A8-cleanscreenshare-%E2%80%A2-proxy-based-hack-control-server-handler-bungeecord-and-velocity-support.107548/history",
+  "gitUrl": "https://github.com/frafol/CleanScreenShare/",
+  "releaseDate": 1676918400000,
+  "updateDate": 1676918400000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

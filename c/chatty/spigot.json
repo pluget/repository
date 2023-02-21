@@ -1,0 +1,24 @@
+{
+  "id": 104432,
+  "url": "https://www.spigotmc.org/resources/chatty.104432/",
+  "name": "Chatty",
+  "description": "A simple yet advanced messaging plugin",
+  "authors": [
+    "MrQuack"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104432.jpg?1660140463",
+  "iconCid": "bafkreigu7puxyirvmm46zhclmnobq6dnapymyyanvvffg3elaubjjim3zy",
+  "numberOfDownloads": 116,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatty.104432/history",
+  "gitUrl": "https://github.com/nullsoepic/chatty/",
+  "releaseDate": 1660136400000,
+  "updateDate": 1660136400000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

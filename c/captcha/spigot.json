@@ -1,0 +1,33 @@
+{
+  "id": 75891,
+  "url": "https://www.spigotmc.org/resources/captcha.75891/",
+  "name": "Captcha",
+  "description": "Bots are now past",
+  "authors": [
+    "Kyllian"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75891.jpg?1612272760",
+  "iconCid": "bafkreiezkk44q76v6ehilead6kcpvwqqgs3jtdfrnozmbxsa65pyymrhta",
+  "numberOfDownloads": 7174,
+  "rating": 4,
+  "numberOfVotes": 16,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/captcha.75891/history",
+  "gitUrl": "https://github.com/InstantlyMoist/Captcha",
+  "releaseDate": 1583782140000,
+  "updateDate": 1674906840000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 87972,
+  "url": "https://www.spigotmc.org/resources/basicquests.87972/",
+  "name": "BasicQuests",
+  "description": "Randomly generated basic Quests with rewards for players.",
+  "authors": [
+    "Tonnanto"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87972.jpg?1610908411",
+  "iconCid": "bafkreidtzjhrpbni2646rzigot3sm7ajgiyfoqmohnnoh65rir3rbbkd2u",
+  "numberOfDownloads": 793,
+  "rating": 5,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/basicquests.87972/history",
+  "gitUrl": "https://github.com/Tonnanto/BasicQuests",
+  "releaseDate": 1610904780000,
+  "updateDate": 1660853700000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

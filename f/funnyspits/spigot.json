@@ -1,0 +1,24 @@
+{
+  "id": 103160,
+  "url": "https://www.spigotmc.org/resources/funnyspits.103160/",
+  "name": "FunnySpits",
+  "description": "Simple plugin that just adds... ability to spit :3",
+  "authors": [
+    "nukizClone"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103160.jpg?1657125517",
+  "iconCid": "bafkreibvyuduw2uf6x3j6btn4sop6xzui6hcz457ymovsvzr5pnhtpbuni",
+  "numberOfDownloads": 232,
+  "rating": 4,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/funnyspits.103160/history",
+  "gitUrl": "https://github.com/VerteXGMD/FunnySpits",
+  "releaseDate": 1657121880000,
+  "updateDate": 1657706220000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

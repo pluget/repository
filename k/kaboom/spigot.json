@@ -1,0 +1,26 @@
+{
+  "id": 102282,
+  "url": "https://www.spigotmc.org/resources/kaboom-realistic-explosion-debris-1-19.102282/",
+  "name": "KaBoom - Realistic Explosion Debris [1.19]",
+  "description": "Let the blocks fly! Realistic Ballistic TNT & Explosion Physics",
+  "authors": [
+    "Tau"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102282.jpg?1653810403",
+  "iconCid": "bafkreidofzrl4vmfza4div4cp4odom5vxp5z3fd7fnsplm75rr63xple5u",
+  "numberOfDownloads": 507,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kaboom-realistic-explosion-debris-1-19.102282/history",
+  "gitUrl": "https://gitlab.com/TauCu/kaboom",
+  "releaseDate": 1653806580000,
+  "updateDate": 1669426200000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 1223,
+  "url": "https://www.spigotmc.org/resources/prison.1223/",
+  "name": "Prison",
+  "description": "Makes creating a Prison server even easier!",
+  "authors": [
+    "SirFaizdat"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/1/1223.jpg?1514742490",
+  "iconCid": "bafkreie2jntyippoazrxxggbmqid2x6w5jcxsmytp2gakz2deuksvgiypu",
+  "numberOfDownloads": 192730,
+  "rating": 4.5,
+  "numberOfVotes": 130,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/prison.1223/history",
+  "gitUrl": "https://github.com/PrisonTeam/Prison/",
+  "releaseDate": 1411412880000,
+  "updateDate": 1674461520000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 95152,
+  "url": "https://www.spigotmc.org/resources/semihardcore.95152/",
+  "name": "SemiHardcore",
+  "description": "Hardcore, but you have three lives!",
+  "authors": [
+    "ManosSef"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95152.jpg?1628495383",
+  "iconCid": "bafkreicymy2fkfmkdkvs5lsbwffwcm24pwiobnrmmgyg223dzu3kky3ili",
+  "numberOfDownloads": 228,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/semihardcore.95152/history",
+  "releaseDate": 1628491740000,
+  "updateDate": 1657478520000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

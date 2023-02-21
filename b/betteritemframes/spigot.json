@@ -1,0 +1,24 @@
+{
+  "id": 103252,
+  "url": "https://www.spigotmc.org/resources/betteritemframes.103252/",
+  "name": "BetterItemFrames",
+  "description": "Invisible item frames.",
+  "authors": [
+    "oTuin"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103252.jpg?1657459653",
+  "iconCid": "bafkreiblxuzdxuxgsz7eqmokq7w4psvezj75x33qkdnab3whskojd45s24",
+  "numberOfDownloads": 359,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betteritemframes.103252/history",
+  "gitUrl": "https://github.com/bagdydad/BetterItemFrames",
+  "releaseDate": 1657454100000,
+  "updateDate": 1668340560000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

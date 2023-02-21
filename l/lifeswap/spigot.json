@@ -1,0 +1,21 @@
+{
+  "id": 105208,
+  "url": "https://www.spigotmc.org/resources/lifeswap.105208/",
+  "name": "LifeSwap",
+  "description": "A combination of LifeSteal and Death Swap.",
+  "authors": [
+    "srnyx"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105208.jpg?1662865422",
+  "iconCid": "bafkreiekz6m4uzkyxsnqkkonxgxicncdaklzlugpum24gxvkaumpkhafaa",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lifeswap.105208/history",
+  "gitUrl": "https://github.com/srnyx/lifeswap",
+  "releaseDate": 1662861660000,
+  "updateDate": 1662861660000,
+  "versions": [
+    "1.19"
+  ]
+}

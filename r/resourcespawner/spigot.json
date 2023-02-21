@@ -1,0 +1,24 @@
+{
+  "id": 95852,
+  "url": "https://www.spigotmc.org/resources/resourcespawner.95852/",
+  "name": "ResourceSpawner",
+  "description": "Randomly generates temporary resource nodes and other structures in an existing world",
+  "authors": [
+    "Thiz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95852.jpg?1630380818",
+  "iconCid": "bafkreigsye5p3xo4zlcksf7byydr6wowfvptzwxcwrxqfbv5a3fu4pzh5i",
+  "numberOfDownloads": 174,
+  "rating": 4.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/resourcespawner.95852/history",
+  "gitUrl": "https://github.com/ThizThizzyDizzy/resource-spawner",
+  "releaseDate": 1630375920000,
+  "updateDate": 1663676880000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

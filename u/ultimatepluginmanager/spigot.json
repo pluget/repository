@@ -1,0 +1,22 @@
+{
+  "id": 101190,
+  "url": "https://www.spigotmc.org/resources/%E2%9C%A8-new-ultimatepluginmanager-%E2%9C%A8.101190/",
+  "name": "✨ [NEW] UltimatePluginManager ✨",
+  "description": "Automatically loads plugins when updated or added.",
+  "authors": [
+    "JRP_Craft"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101190.jpg?1649185006",
+  "iconCid": "bafkreid5pu5epdju7huxgyeqmmkhmsbpsje4cllr6spzkexkx4hveqziwy",
+  "numberOfDownloads": 235,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9C%A8-new-ultimatepluginmanager-%E2%9C%A8.101190/history",
+  "releaseDate": 1649179440000,
+  "updateDate": 1668354720000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

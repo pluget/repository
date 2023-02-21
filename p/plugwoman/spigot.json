@@ -1,0 +1,25 @@
+{
+  "id": 82302,
+  "url": "https://www.spigotmc.org/resources/plugwoman.82302/",
+  "name": "PlugWoman",
+  "description": "A more reliable way to reload plugins",
+  "authors": [
+    "Redempt"
+  ],
+  "numberOfDownloads": 1528,
+  "rating": 4.8,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/plugwoman.82302/history",
+  "gitUrl": "https://github.com/Redempt/PlugWoman",
+  "releaseDate": 1596480540000,
+  "updateDate": 1660620480000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

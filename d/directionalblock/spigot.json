@@ -1,0 +1,23 @@
+{
+  "id": 104485,
+  "url": "https://www.spigotmc.org/resources/directionalblock-itemsadder-addon.104485/",
+  "name": "DirectionalBlock [ItemsAdder Addon]",
+  "description": "ItemsAdder addon for block placement",
+  "authors": [
+    "XiaoMoMi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104485.jpg?1662133568",
+  "iconCid": "bafkreibqsmwrcmx63ldi73tnapu3rbpxfxp34lxcaz4bhllsw2u3pzpjhi",
+  "numberOfDownloads": 555,
+  "rating": 5,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/directionalblock-itemsadder-addon.104485/history",
+  "releaseDate": 1660277700000,
+  "updateDate": 1660301880000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 100468,
+  "url": "https://www.spigotmc.org/resources/entity-ninja-skeleton-for-itemsadder.100468/",
+  "name": "[Entity] Ninja Skeleton - for ItemsAdder",
+  "description": "Port of NinjaSkeleton to ItemsAdder",
+  "authors": [
+    "LoneDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100468.jpg?1646413222",
+  "iconCid": "bafkreidbbgittdslgoqk7qrcvrgoq7ufk45dy5box2afg4qlpjl7blmclu",
+  "numberOfDownloads": 706,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/entity-ninja-skeleton-for-itemsadder.100468/history",
+  "releaseDate": 1646409600000,
+  "updateDate": 1669052460000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

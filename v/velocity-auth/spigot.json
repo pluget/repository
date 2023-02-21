@@ -1,0 +1,23 @@
+{
+  "id": 106818,
+  "url": "https://www.spigotmc.org/resources/velocity-auth.106818/",
+  "name": "Velocity Auth",
+  "description": "Multifactor Authentication for your Proxy!",
+  "authors": [
+    "Tippie_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106818.jpg?1671391744",
+  "iconCid": "bafkreifxl7b5wz74ivbdqc25etogcfcylwirb4hnnwmvq7k2k2wsucxrry",
+  "numberOfDownloads": 53,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/velocity-auth.106818/history",
+  "gitUrl": "https://github.com/rowan-vr/VelocityAuth",
+  "releaseDate": 1671388080000,
+  "updateDate": 1671388080000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 48334,
+  "url": "https://www.spigotmc.org/resources/skipnight.48334/",
+  "name": "SkipNight",
+  "description": "Allows players to vote to skip the night.",
+  "authors": [
+    "mattboy9921"
+  ],
+  "numberOfDownloads": 9513,
+  "rating": 4.6,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skipnight.48334/history",
+  "gitUrl": "https://github.com/mattboy9921/SkipNight",
+  "releaseDate": 1507858860000,
+  "updateDate": 1666971540000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

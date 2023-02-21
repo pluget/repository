@@ -1,0 +1,29 @@
+{
+  "id": 103639,
+  "url": "https://www.spigotmc.org/resources/easycheatdetection.103639/",
+  "name": "EasyCheatDetection",
+  "description": "A very simple cheating detection plugin",
+  "authors": [
+    "zhangyang0204"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103639.jpg?1658639691",
+  "iconCid": "bafkreichwjbuu2uqlufa3ehct44ccyu7oy6crws2mmvslwetpxiddx3qeq",
+  "numberOfDownloads": 661,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/easycheatdetection.103639/history",
+  "gitUrl": "https://github.com/ZhangYang0204/easy-cheat-detection",
+  "releaseDate": 1658635440000,
+  "updateDate": 1661330100000,
+  "versions": [
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

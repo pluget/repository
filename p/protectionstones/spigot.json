@@ -1,0 +1,23 @@
+{
+  "id": 61797,
+  "url": "https://www.spigotmc.org/resources/protectionstones-updated-for-1-17.61797/",
+  "name": "ProtectionStones [Updated for 1.17+]",
+  "description": "The easiest grief prevention method that players will enjoy!",
+  "authors": [
+    "EspiDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/61/61797.jpg?1620183298",
+  "iconCid": "bafkreiaucufzy7w7mdb3r7br4h2fi42sqngem6mrccjffxdvj5xmweez24",
+  "numberOfDownloads": 174138,
+  "rating": 4.7,
+  "numberOfVotes": 131,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/protectionstones-updated-for-1-17.61797/history",
+  "gitUrl": "https://github.com/espidev/ProtectionStones",
+  "releaseDate": 1540233180000,
+  "updateDate": 1657765620000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

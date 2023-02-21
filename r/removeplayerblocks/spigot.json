@@ -1,0 +1,26 @@
+{
+  "id": 105535,
+  "url": "https://www.spigotmc.org/resources/removeplayerblocks.105535/",
+  "name": "RemovePlayerBlocks",
+  "description": "Remove blocks placed by a player after x amount of time!",
+  "authors": [
+    "Ntdi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105535.jpg?1664557819",
+  "iconCid": "bafkreih5kpseoq4jbsuowu32dwk3iv3ho4hnq3gqkebboyawsehlapq7hi",
+  "numberOfDownloads": 41,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/removeplayerblocks.105535/history",
+  "gitUrl": "https://github.com/professional-tdi/RemovePlayerBlocks",
+  "releaseDate": 1664554200000,
+  "updateDate": 1669246440000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

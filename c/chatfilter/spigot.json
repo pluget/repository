@@ -1,0 +1,33 @@
+{
+  "id": 81652,
+  "url": "https://www.spigotmc.org/resources/chatfilter-chat-signs-books-and-anvils.81652/",
+  "name": "ChatFilter - Chat, Signs, Books and Anvils",
+  "description": "A simple Chat Filter that reduces spam, swearing, advertising and more!",
+  "authors": [
+    "a4papers"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81652.jpg?1642883183",
+  "iconCid": "bafkreigdpxwv3p3jqd3lqax5kqv6rvim4anozfghz2a443wvct7gf4g62m",
+  "numberOfDownloads": 5445,
+  "rating": 4.7,
+  "numberOfVotes": 14,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatfilter-chat-signs-books-and-anvils.81652/history",
+  "gitUrl": "https://github.com/A4Papers/ChatFilter/issues",
+  "releaseDate": 1595098380000,
+  "updateDate": 1675240800000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

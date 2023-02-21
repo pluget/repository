@@ -1,0 +1,22 @@
+{
+  "id": 101682,
+  "url": "https://www.spigotmc.org/resources/iplimitchat.101682/",
+  "name": "IpLimitChat",
+  "description": "Limit the amount of accounts that can login with a single IP | And Anti Spam.",
+  "authors": [
+    "SjemSjompie"
+  ],
+  "numberOfDownloads": 33,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/iplimitchat.101682/history",
+  "releaseDate": 1651062480000,
+  "updateDate": 1668645900000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

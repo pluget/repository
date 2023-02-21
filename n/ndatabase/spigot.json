@@ -1,0 +1,32 @@
+{
+  "id": 107793,
+  "url": "https://www.spigotmc.org/resources/ndatabase-fast-data-model-creation-powerful-async-sync-api.107793/",
+  "name": "NDatabase - Fast data model creation - Powerful Async / Sync API",
+  "description": "NDatabase is a lightweight opensource and easy to use key-value store database multi-platform plugin",
+  "authors": [
+    "NivixX"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107793.jpg?1675414717",
+  "iconCid": "bafkreifnx7idhond3rxobdlhjk54modqwu7oqlf7py7uolwrk3kmsovfli",
+  "numberOfDownloads": 203,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ndatabase-fast-data-model-creation-powerful-async-sync-api.107793/history",
+  "gitUrl": "https://github.com/NivixX/NDatabase/",
+  "releaseDate": 1676682840000,
+  "updateDate": 1676682840000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

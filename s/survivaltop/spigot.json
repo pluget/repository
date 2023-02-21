@@ -1,0 +1,27 @@
+{
+  "id": 96737,
+  "url": "https://www.spigotmc.org/resources/survivaltop.96737/",
+  "name": "SurvivalTop",
+  "description": "The best wealth calculation plugin! Supports many land claim types! Rank wealth of players/groups!",
+  "authors": [
+    "tjtanjin"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96737.jpg?1633812110",
+  "iconCid": "bafkreiehsohyql7j74rgx3yjcdupqe3ibbt7a2rnnomsf4sklw7jggezmq",
+  "numberOfDownloads": 507,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/survivaltop.96737/history",
+  "gitUrl": "https://github.com/TavernCraft-Devs/SurvivalTop/wiki",
+  "releaseDate": 1633808460000,
+  "updateDate": 1668175980000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

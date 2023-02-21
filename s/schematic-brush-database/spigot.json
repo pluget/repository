@@ -1,0 +1,24 @@
+{
+  "id": 103778,
+  "url": "https://www.spigotmc.org/resources/schematic-brush-database-schematic-brush-reborn-2-add-on.103778/",
+  "name": "Schematic Brush Database - Schematic Brush Reborn 2 Add-on",
+  "description": "Sync your brushes and presets over multiple servers via databases",
+  "authors": [
+    "Eldoria"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103778.jpg?1659093538",
+  "iconCid": "bafkreifoh3jceobunsdqysysrywmf4a3poc2q2ojt2sssfxsjqqbb3aznq",
+  "numberOfDownloads": 39,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/schematic-brush-database-schematic-brush-reborn-2-add-on.103778/history",
+  "gitUrl": "https://github.com/eldoriarpg/schematic-brush-database",
+  "releaseDate": 1659089880000,
+  "updateDate": 1659089880000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

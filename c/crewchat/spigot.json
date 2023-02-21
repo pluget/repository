@@ -1,0 +1,32 @@
+{
+  "id": 96107,
+  "url": "https://www.spigotmc.org/resources/crewchat.96107/",
+  "name": "CrewChat",
+  "description": "A general purpose chat plugin with lots of fun features.",
+  "authors": [
+    "mattboy9921"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96107.jpg?1631292542",
+  "iconCid": "bafkreifiapdeu6n7zk5vnjaufd3muv6i4avyy3bmg6z7vpiym3spkaewf4",
+  "numberOfDownloads": 240,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/crewchat.96107/history",
+  "gitUrl": "https://github.com/mattboy9921/CrewChat",
+  "releaseDate": 1631286300000,
+  "updateDate": 1659637920000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

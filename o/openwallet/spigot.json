@@ -1,0 +1,27 @@
+{
+  "id": 107826,
+  "url": "https://www.spigotmc.org/resources/openwallet-economy-plugin.107826/",
+  "name": "OpenWallet - Economy Plugin",
+  "description": "Brand new economy plugin for your server",
+  "authors": [
+    "neziw"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107826.jpg?1675537438",
+  "iconCid": "bafkreieifmaexyxvdcydzckjs2yvvcn5pmnlgbnuruzkrzthtghybfvkcm",
+  "numberOfDownloads": 99,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/openwallet-economy-plugin.107826/history",
+  "gitUrl": "https://github.com/neziw/OpenWallet/",
+  "releaseDate": 1675533540000,
+  "updateDate": 1676215680000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

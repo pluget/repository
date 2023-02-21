@@ -1,0 +1,33 @@
+{
+  "id": 100188,
+  "url": "https://www.spigotmc.org/resources/wirez.100188/",
+  "name": "WireZ",
+  "description": "A diagnostic tool used to collect systems and interactive database information",
+  "authors": [
+    "DougDevelopz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100188.jpg?1645387119",
+  "iconCid": "bafkreihbub2lyjfst43edufx5jwhffposfnl6q6yegkteycjmpeqbiwdcu",
+  "numberOfDownloads": 104,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/wirez.100188/history",
+  "gitUrl": "https://github.com/DougCodez/WireZ",
+  "releaseDate": 1645383480000,
+  "updateDate": 1675813500000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

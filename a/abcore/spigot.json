@@ -1,0 +1,22 @@
+{
+  "id": 97898,
+  "url": "https://www.spigotmc.org/resources/abcore.97898/",
+  "name": "ABCore",
+  "description": "A core library plugin to support my plugins",
+  "authors": [
+    "oobila"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97898.jpg?1637949835",
+  "iconCid": "bafkreiafjoiwmremyqfqytntjutbhd36tvf6zb7vxqmove7uebdzqijwe4",
+  "numberOfDownloads": 1725,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/abcore.97898/history",
+  "releaseDate": 1637946180000,
+  "updateDate": 1671206520000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

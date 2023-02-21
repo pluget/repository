@@ -1,0 +1,25 @@
+{
+  "id": 103587,
+  "url": "https://www.spigotmc.org/resources/pyro.103587/",
+  "name": "Pyro",
+  "description": "Simple plugin to receive and craft a Pyro Axe",
+  "authors": [
+    "staudlol"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103587.jpg?1658492339",
+  "iconCid": "bafkreibqqrtr4hi6npdyczz7szzzakc6a2p5t2drvfawhhiqvio4slqkf4",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pyro.103587/history",
+  "gitUrl": "https://github.com/staudlol/pyro",
+  "releaseDate": 1658488680000,
+  "updateDate": 1658488680000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 105313,
+  "url": "https://www.spigotmc.org/resources/boosteraddon-gutschein.105313/",
+  "name": "BoosterAddOn Gutschein",
+  "description": "AddOn für Booster damit Gutscheine in Form von Items verteilt werden können.",
+  "authors": [
+    "Jkobs"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105313.jpg?1663336324",
+  "iconCid": "bafkreigbpwnnartlo54yupv5ntyjraqskz4623d22aw26tqnya7lbleopq",
+  "numberOfDownloads": 97,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/boosteraddon-gutschein.105313/history",
+  "releaseDate": 1663332660000,
+  "updateDate": 1667502240000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

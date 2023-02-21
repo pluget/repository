@@ -1,0 +1,28 @@
+{
+  "id": 14752,
+  "url": "https://www.spigotmc.org/resources/censor-reloaded-advanced-chat-filter.14752/",
+  "name": "CENSOR-RELOADED - ADVANCED CHAT FILTER",
+  "description": "BEST PLUGIN FOR CHAT PROTECTION, SUPPORTING IP AND WEBSITE, BADWORDS,CAPSLOCK AND ANTISPAM DETECTION",
+  "authors": [
+    "RydlosCZ"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/14/14752.jpg?1620652308",
+  "iconCid": "bafkreic75gdezvuqhm36whwjpfcgruklldohlndal335xsej6o5vykzvnu",
+  "numberOfDownloads": 11966,
+  "rating": 4.5,
+  "numberOfVotes": 14,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/censor-reloaded-advanced-chat-filter.14752/history",
+  "gitUrl": "https://github.com/EncryptSL/CENSOR-RELOADED-ISSUES",
+  "releaseDate": 1448051340000,
+  "updateDate": 1675937640000,
+  "versions": [
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

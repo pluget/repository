@@ -1,0 +1,20 @@
+{
+  "id": 105956,
+  "url": "https://www.spigotmc.org/resources/raycastutility.105956/",
+  "name": "RayCastUtility",
+  "description": "A small set of utility classes for handling various raycasting functions",
+  "authors": [
+    "YeetManLord"
+  ],
+  "numberOfDownloads": 40,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/raycastutility.105956/history",
+  "gitUrl": "https://github.com/YeetmanLord/RayCastUtility",
+  "releaseDate": 1666917660000,
+  "updateDate": 1668036780000,
+  "versions": [
+    "1.8",
+    "1.16"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 103501,
+  "url": "https://www.spigotmc.org/resources/mikchan%E3%81%AEchat.103501/",
+  "name": "MikChanのChat",
+  "description": "A minimalistic chat plugin",
+  "authors": [
+    "MikChan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103501.jpg?1658245377",
+  "iconCid": "bafkreifvu4fuszjnwll5nl6zycqlbr7atihgh62ppynkdfbgjl2oghlcym",
+  "numberOfDownloads": 64,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mikchan%E3%81%AEchat.103501/history",
+  "gitUrl": "https://github.com/MikChanNoPlugins/Chat",
+  "releaseDate": 1658241300000,
+  "updateDate": 1658674380000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

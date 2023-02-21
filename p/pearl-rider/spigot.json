@@ -1,0 +1,22 @@
+{
+  "id": 106208,
+  "url": "https://www.spigotmc.org/resources/pearl-rider.106208/",
+  "name": "Pearl Rider",
+  "description": "Plugin to ride ender pearls",
+  "authors": [
+    "mike3132"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106208.jpg?1668182046",
+  "iconCid": "bafkreif3zsjcg7xt2mmqlyvpftyabqmkw5uu3oqdacugjntp6lzf5eju5m",
+  "numberOfDownloads": 27,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pearl-rider.106208/history",
+  "gitUrl": "https://github.com/mike3132/PearlRider",
+  "releaseDate": 1668178380000,
+  "updateDate": 1668178380000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

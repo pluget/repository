@@ -1,0 +1,21 @@
+{
+  "id": 105185,
+  "url": "https://www.spigotmc.org/resources/tabworlddate.105185/",
+  "name": "TABWorldDate",
+  "description": "TAB addon plugin providing a placeholder for the world's current Gregorian date",
+  "authors": [
+    "Velnias75"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105185.jpg?1662807573",
+  "iconCid": "bafkreih7yf2l33zckx23ryiwc2wb3tljw7fs6k5mabwcgpkh4egn6eukvi",
+  "numberOfDownloads": 31,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tabworlddate.105185/history",
+  "gitUrl": "https://github.com/velnias75/TABWorldDate",
+  "releaseDate": 1662803940000,
+  "updateDate": 1662803940000,
+  "versions": [
+    "1.19"
+  ]
+}

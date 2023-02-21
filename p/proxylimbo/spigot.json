@@ -1,0 +1,25 @@
+{
+  "id": 104621,
+  "url": "https://www.spigotmc.org/resources/proxylimbo.104621/",
+  "name": "ProxyLimbo",
+  "description": "Lightweight limbo for BungeeCord (Velocity currently not supported)",
+  "authors": [
+    "Gdame"
+  ],
+  "numberOfDownloads": 124,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/proxylimbo.104621/history",
+  "gitUrl": "https://github.com/bivashy/ProxyLimbo",
+  "releaseDate": 1660741080000,
+  "updateDate": 1661616780000,
+  "versions": [
+    "1.9",
+    "1.12",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

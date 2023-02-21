@@ -1,0 +1,33 @@
+{
+  "id": 103973,
+  "url": "https://www.spigotmc.org/resources/ancdk.103973/",
+  "name": "AnCDK",
+  "description": "新一代轻量级MC卡密插件",
+  "authors": [
+    "Enron"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103973.jpg?1659402342",
+  "iconCid": "bafkreie6plkx7cteb27maur3ftmudy5x22sfjgauelbo5nybp3j4u6uafu",
+  "numberOfDownloads": 78,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ancdk.103973/history",
+  "gitUrl": "https://github.com/Enron233/AnCDK",
+  "releaseDate": 1659398700000,
+  "updateDate": 1659398700000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

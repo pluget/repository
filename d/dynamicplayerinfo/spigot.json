@@ -1,0 +1,32 @@
+{
+  "id": 105644,
+  "url": "https://www.spigotmc.org/resources/dynamicplayerinfo-see-information-of-players-in-your-actionbar-1-8-1-19.105644/",
+  "name": "DynamicPlayerInfo | See information of players in your actionbar. (1.8 - 1.19)",
+  "description": "View info of a player on action bar using placeholders from PlaceholderAPI.",
+  "authors": [
+    "Tedesk"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105644.jpg?1665064517",
+  "iconCid": "bafkreifbvnbnnm26uh3ecz6e4zlfjnffb5ql3njwxntaknlj7c44vjmfpy",
+  "numberOfDownloads": 102,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dynamicplayerinfo-see-information-of-players-in-your-actionbar-1-8-1-19.105644/history",
+  "gitUrl": "https://github.com/VictorTedesco/DynamicPlayerInfo",
+  "releaseDate": 1665060900000,
+  "updateDate": 1675343220000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

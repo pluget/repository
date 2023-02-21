@@ -1,0 +1,21 @@
+{
+  "id": 107525,
+  "url": "https://www.spigotmc.org/resources/playerwarps.107525/",
+  "name": "PlayerWarps",
+  "description": "Allow your players to set warps for themselves.",
+  "authors": [
+    "Epicnicity2016"
+  ],
+  "numberOfDownloads": 43,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playerwarps.107525/history",
+  "gitUrl": "https://github.com/Epicnicity322/PlayerWarps",
+  "releaseDate": 1674342540000,
+  "updateDate": 1674342540000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

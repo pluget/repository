@@ -1,0 +1,28 @@
+{
+  "id": 60095,
+  "url": "https://www.spigotmc.org/resources/invunload.60095/",
+  "name": "InvUnload",
+  "description": "Automatically puts your stuff into the right chests. Supports WorldGuard, etc. (+auto config update)",
+  "authors": [
+    "mfnalex"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/60/60095.jpg?1535205062",
+  "iconCid": "bafkreidjuuxno5xqzi6zk5te5xvdztl2i3je7mq56qcbohl2ibaul4yfpa",
+  "numberOfDownloads": 8679,
+  "rating": 4.9,
+  "numberOfVotes": 33,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/invunload.60095/history",
+  "gitUrl": "https://github.com/JEFF-Media-GbR/Spigot-InvUnloadPlus",
+  "releaseDate": 1534845420000,
+  "updateDate": 1664634600000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

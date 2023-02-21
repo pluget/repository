@@ -1,0 +1,24 @@
+{
+  "id": 82674,
+  "url": "https://www.spigotmc.org/resources/caleb-compass.82674/",
+  "name": "Caleb Compass",
+  "description": "HUD Compass with quest tracker",
+  "authors": [
+    "Caleb_Britannia"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82674.jpg?1599907722",
+  "iconCid": "bafkreifyuviva7tk4bhx3p2t3fs4sgjqlfnphydtb6npek6bkz5xih2jje",
+  "numberOfDownloads": 2248,
+  "rating": 5,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/caleb-compass.82674/history",
+  "gitUrl": "https://github.com/CalebGitBritannia/calebcompass",
+  "releaseDate": 1597245480000,
+  "updateDate": 1660157460000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

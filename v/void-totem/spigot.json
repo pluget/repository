@@ -1,0 +1,27 @@
+{
+  "id": 99003,
+  "url": "https://www.spigotmc.org/resources/void-totem.99003/",
+  "name": "Void Totem",
+  "description": "A plugin that enables you to use a totem to save you from the void.",
+  "authors": [
+    "Rapha"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99003.jpg?1641495180",
+  "iconCid": "bafkreidgoa35udsil42mpcga3vhsn2zcs5s5wwemz3byoj4xzpyoaw3cu4",
+  "numberOfDownloads": 907,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/void-totem.99003/history",
+  "gitUrl": "https://github.com/Rapha149/VoidTotem",
+  "releaseDate": 1676649900000,
+  "updateDate": 1676649900000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

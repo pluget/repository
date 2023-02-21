@@ -1,0 +1,27 @@
+{
+  "id": 107622,
+  "url": "https://www.spigotmc.org/resources/executableevents-free.107622/",
+  "name": "ExecutableEvents Free",
+  "description": "A tool that allows you to customise the events that occur on your server.",
+  "authors": [
+    "Ssomar"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107622.jpg?1674761116",
+  "iconCid": "bafkreifqlki475s5u5ywg6asrker7acyciv3jebavnf7inhdq57t3ks2fm",
+  "numberOfDownloads": 214,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/executableevents-free.107622/history",
+  "releaseDate": 1676837820000,
+  "updateDate": 1676837820000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

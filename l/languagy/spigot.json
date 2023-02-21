@@ -1,0 +1,32 @@
+{
+  "id": 61663,
+  "url": "https://www.spigotmc.org/resources/languagy.61663/",
+  "name": "Languagy",
+  "description": "Easily support a player's selected language",
+  "authors": [
+    "SamB440"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/61/61663.jpg?1567718333",
+  "iconCid": "bafkreiewtmvpmaxsd4gpys4wdpomzxu2rvkw5qetynqnmpjxlcaljgkhna",
+  "numberOfDownloads": 51696,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/languagy.61663/history",
+  "gitUrl": "https://gitlab.com/SamB440/languagy",
+  "releaseDate": 1539862320000,
+  "updateDate": 1659113520000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

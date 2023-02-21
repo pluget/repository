@@ -1,0 +1,23 @@
+{
+  "id": 98429,
+  "url": "https://www.spigotmc.org/resources/cyberauth.98429/",
+  "name": "CyberAuth",
+  "description": "Cyber Auth is a convenient, secure and small weight plugin for authorization.",
+  "authors": [
+    "denis_indenbom"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98429.jpg?1639992158",
+  "iconCid": "bafkreic6y7go3niiggwrbmnmfoiabuqtky2apobue5qz2jfwrnsi5mhhkq",
+  "numberOfDownloads": 274,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cyberauth.98429/history",
+  "gitUrl": "https://github.com/DenisIndenbom/CyberAuth",
+  "releaseDate": 1639676160000,
+  "updateDate": 1667493900000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

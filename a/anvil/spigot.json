@@ -1,0 +1,23 @@
+{
+  "id": 77142,
+  "url": "https://www.spigotmc.org/resources/anvil-virtual-anvils-custom-mechanics.77142/",
+  "name": "Anvil | Virtual anvils & custom mechanics",
+  "description": "Use an anvil anywhere!",
+  "authors": [
+    "_Explosive_Mine_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/77/77142.jpg?1623048557",
+  "iconCid": "bafkreicju4uthpq7rerjdutkhtuyt4hesto4zm5ypuo2fgyzdqxuq766jm",
+  "numberOfDownloads": 1079,
+  "rating": 4.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anvil-virtual-anvils-custom-mechanics.77142/history",
+  "gitUrl": "https://github.com/ExplosiveMine/Anvil-Revamp/",
+  "releaseDate": 1586331240000,
+  "updateDate": 1666929000000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

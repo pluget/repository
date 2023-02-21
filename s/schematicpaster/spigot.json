@@ -1,0 +1,22 @@
+{
+  "id": 106365,
+  "url": "https://www.spigotmc.org/resources/schematicpaster.106365/",
+  "name": "SchematicPaster",
+  "description": "Plugin to let players place down schematics that automatically build",
+  "authors": [
+    "HeroBrineGoat"
+  ],
+  "numberOfDownloads": 41,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/schematicpaster.106365/history",
+  "gitUrl": "https://github.com/Fisher2911/SchematicPaster",
+  "releaseDate": 1669003560000,
+  "updateDate": 1669344900000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

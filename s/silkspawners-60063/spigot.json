@@ -1,0 +1,32 @@
+{
+  "id": 60063,
+  "url": "https://www.spigotmc.org/resources/silkspawners-versions-1-8-8-1-19-3.60063/",
+  "name": "SilkSpawners (Versions 1.8.8 - 1.19.3)",
+  "description": "This plugin makes spawners minable using SilkTouch tools",
+  "authors": [
+    "CandC_9_12"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/60/60063.jpg?1653422648",
+  "iconCid": "bafkreic3w7mxrvu6mp3vkvknhjeqfpbdnsnnzwsv3w44uohyeynopndt6y",
+  "numberOfDownloads": 53885,
+  "rating": 4.4,
+  "numberOfVotes": 55,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/silkspawners-versions-1-8-8-1-19-3.60063/history",
+  "gitUrl": "https://github.com/CorneliusMa/SilkSpawners_v2",
+  "releaseDate": 1534763700000,
+  "updateDate": 1670861520000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

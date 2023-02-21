@@ -1,0 +1,26 @@
+{
+  "id": 33382,
+  "url": "https://www.spigotmc.org/resources/coins.33382/",
+  "name": "Coins",
+  "description": "Drop coins for killing mobs & mining. Allow withdrawing. Good for drop parties. Highly configurable.",
+  "authors": [
+    "JustEli"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/33/33382.jpg?1482417896",
+  "iconCid": "bafkreiaesvovebm2ctrgdnsffvaezpzndbgo2olv3vsn2qxwgwispnq7l4",
+  "numberOfDownloads": 58903,
+  "rating": 4.8,
+  "numberOfVotes": 87,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/coins.33382/history",
+  "gitUrl": "https://github.com/JustEli/Coins",
+  "releaseDate": 1482097860000,
+  "updateDate": 1670933100000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

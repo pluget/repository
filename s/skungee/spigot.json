@@ -1,0 +1,32 @@
+{
+  "id": 35636,
+  "url": "https://www.spigotmc.org/resources/skungee-skript-proxy-addon-and-socket-api.35636/",
+  "name": "Skungee - Skript proxy addon and Socket API",
+  "description": "A Skript addon that allows for full control over your proxy.",
+  "authors": [
+    "LimeGlass"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/35/35636.jpg?1533162365",
+  "iconCid": "bafkreicixhpf4bwwsvzi7wstj5teaptw3ejgrj47wyheovc5po5dh2bm3m",
+  "numberOfDownloads": 12172,
+  "rating": 4.2,
+  "numberOfVotes": 42,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skungee-skript-proxy-addon-and-socket-api.35636/history",
+  "gitUrl": "https://github.com/Skungee/Skungee-2.0.0",
+  "releaseDate": 1485839160000,
+  "updateDate": 1658573760000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

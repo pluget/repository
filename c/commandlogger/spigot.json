@@ -1,0 +1,24 @@
+{
+  "id": 101138,
+  "url": "https://www.spigotmc.org/resources/commandlogger.101138/",
+  "name": "CommandLogger",
+  "description": "Simple logger for commands",
+  "authors": [
+    "BoBkiNN_"
+  ],
+  "numberOfDownloads": 258,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/commandlogger.101138/history",
+  "gitUrl": "https://github.com/BoBkiNN/CommandLogger",
+  "releaseDate": 1648978860000,
+  "updateDate": 1664628960000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

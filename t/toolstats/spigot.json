@@ -1,0 +1,25 @@
+{
+  "id": 99606,
+  "url": "https://www.spigotmc.org/resources/toolstats.99606/",
+  "name": "ToolStats",
+  "description": "Track various tool stats!",
+  "authors": [
+    "hyperdefined"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99606.jpg?1644168671",
+  "iconCid": "bafkreigobb6cmuduf3wsvzudl7nhceddjw427jzdxafm577q22awafx62m",
+  "numberOfDownloads": 1652,
+  "rating": 4.9,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/toolstats.99606/history",
+  "gitUrl": "https://github.com/hyperdefined/ToolStats",
+  "releaseDate": 1643481720000,
+  "updateDate": 1673891220000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

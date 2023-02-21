@@ -1,0 +1,32 @@
+{
+  "id": 104491,
+  "url": "https://www.spigotmc.org/resources/easyspawnpoint.104491/",
+  "name": "EasySpawnPoint",
+  "description": "A spawn point plugin with Gui",
+  "authors": [
+    "zhangyang0204"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104491.jpg?1660291014",
+  "iconCid": "bafkreihgoakxdlso7rqwzbof44g3jw37atxtufmjh5up2u4g4k47ofyyty",
+  "numberOfDownloads": 160,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/easyspawnpoint.104491/history",
+  "gitUrl": "https://github.com/ZhangYang0204/easy-spawn-point",
+  "releaseDate": 1660287360000,
+  "updateDate": 1661330580000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

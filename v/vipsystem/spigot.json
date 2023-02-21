@@ -1,0 +1,31 @@
+{
+  "id": 44821,
+  "url": "https://www.spigotmc.org/resources/vipsystem.44821/",
+  "name": "VipSystem",
+  "description": "A Vip management plugin based on caching MySQL or SQLite",
+  "authors": [
+    "Soldier__"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/44/44821.jpg?1501475822",
+  "iconCid": "bafkreibywamr7bfay3dvqx4nhjkogtlk5sryktujktf3ut3eo6wf2g5mne",
+  "numberOfDownloads": 3886,
+  "rating": 4.9,
+  "numberOfVotes": 16,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/vipsystem.44821/history",
+  "gitUrl": "https://gitee.com/Soldier233/VipSystemRecode",
+  "releaseDate": 1501472160000,
+  "updateDate": 1675845060000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

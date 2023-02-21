@@ -1,0 +1,21 @@
+{
+  "id": 104725,
+  "url": "https://www.spigotmc.org/resources/reportplugin.104725/",
+  "name": "ReportPlugin",
+  "description": "Report on criminals",
+  "authors": [
+    "sagu"
+  ],
+  "numberOfDownloads": 36,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/reportplugin.104725/history",
+  "gitUrl": "https://github.com/TheIceNinja/ReportPlugin",
+  "releaseDate": 1661095800000,
+  "updateDate": 1661887500000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

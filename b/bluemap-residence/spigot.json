@@ -1,0 +1,26 @@
+{
+  "id": 107389,
+  "url": "https://www.spigotmc.org/resources/bluemap-residence.107389/",
+  "name": "BlueMap Residence",
+  "description": "3D Residence viewer integration for BlueMap",
+  "authors": [
+    "CZMixer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107389.jpg?1673731981",
+  "iconCid": "bafkreiel75pifbpivwazguaoh44qs3sntfajqo4nlzrieqzyndyw3cddn4",
+  "numberOfDownloads": 188,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bluemap-residence.107389/history",
+  "releaseDate": 1673728320000,
+  "updateDate": 1674666420000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

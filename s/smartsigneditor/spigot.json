@@ -1,0 +1,32 @@
+{
+  "id": 24594,
+  "url": "https://www.spigotmc.org/resources/smartsigneditor.24594/",
+  "name": "SmartSignEditor",
+  "description": "Edit your signs with style",
+  "authors": [
+    "WinX64"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/24/24594.jpg?1469463161",
+  "iconCid": "bafkreihuhvnqdqmswftz2tb64f7mozrxb27tdcngubhxtwl2rvdvl5kih4",
+  "numberOfDownloads": 4389,
+  "rating": 4.9,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/smartsigneditor.24594/history",
+  "gitUrl": "https://github.com/WinX64/SmartSignEditor",
+  "releaseDate": 1465493040000,
+  "updateDate": 1672426860000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

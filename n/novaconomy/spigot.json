@@ -1,0 +1,32 @@
+{
+  "id": 100503,
+  "url": "https://www.spigotmc.org/resources/novaconomy.100503/",
+  "name": "Novaconomy",
+  "description": "Create your own Economies with symbols, icons, and more!",
+  "authors": [
+    "GamerCoder215"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100503.jpg?1655540455",
+  "iconCid": "bafkreib2wbvnybaumrs7poonfj6qpvd5ikqek57iesshraa2fz4i4xr7nq",
+  "numberOfDownloads": 992,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/novaconomy.100503/history",
+  "gitUrl": "https://github.com/Team-Inceptus/Novaconomy",
+  "releaseDate": 1646521200000,
+  "updateDate": 1676340960000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

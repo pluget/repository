@@ -1,0 +1,25 @@
+{
+  "id": 107661,
+  "url": "https://www.spigotmc.org/resources/temporary-spawn.107661/",
+  "name": "Temporary Spawn",
+  "description": "A plugin to set and reset temporary spawn points for players, including commands for admins.",
+  "authors": [
+    "Arimas"
+  ],
+  "numberOfDownloads": 77,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/temporary-spawn.107661/history",
+  "gitUrl": "https://github.com/Ariemas/TemporarySpawn",
+  "releaseDate": 1676638740000,
+  "updateDate": 1676638740000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

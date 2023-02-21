@@ -1,0 +1,33 @@
+{
+  "id": 100329,
+  "url": "https://www.spigotmc.org/resources/demonmarket-no-more-mounting-inflation.100329/",
+  "name": "DemonMarket - No More Mounting Inflation",
+  "description": "Graduated tax rate. The richer the player is, the less profit the player receives.",
+  "authors": [
+    "Tining"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100329.jpg?1645941434",
+  "iconCid": "bafkreic4vrusgfjskp2louqkhbhokwefc53qcypre7c5xvko6fkqmk2fxq",
+  "numberOfDownloads": 654,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/demonmarket-no-more-mounting-inflation.100329/history",
+  "gitUrl": "https://github.com/Tining123/DemonMarket",
+  "releaseDate": 1645937760000,
+  "updateDate": 1661566620000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

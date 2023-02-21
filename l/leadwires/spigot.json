@@ -1,0 +1,32 @@
+{
+  "id": 76515,
+  "url": "https://www.spigotmc.org/resources/leadwires.76515/",
+  "name": "LeadWires",
+  "description": "Allows you to place \"wires\" that are actually leads on invisible mobs.",
+  "authors": [
+    "saharNooby"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/76/76515.jpg?1585202183",
+  "iconCid": "bafkreiezfe3sic4qc4rpclohyrr77t5kopivpurhh73rihwqujyp46mele",
+  "numberOfDownloads": 1622,
+  "rating": 4.6,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/leadwires.76515/history",
+  "gitUrl": "https://github.com/saharNooby/lead-wires",
+  "releaseDate": 1585198560000,
+  "updateDate": 1676277900000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

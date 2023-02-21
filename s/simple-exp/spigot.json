@@ -1,0 +1,21 @@
+{
+  "id": 106705,
+  "url": "https://www.spigotmc.org/resources/simple-exp.106705/",
+  "name": "Simple EXP",
+  "description": "A simple exp plugin which aims to give the possibility to earn exp from all blocks.",
+  "authors": [
+    "SESOSAS"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106705.jpg?1670877816",
+  "iconCid": "bafkreidd3w67dko5r3jyzuqeqd5fisbqr7467j4436ooyp44es3mvqbdci",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-exp.106705/history",
+  "gitUrl": "https://github.com/TheYIMIR/SimpleEXP",
+  "releaseDate": 1670873640000,
+  "updateDate": 1670873640000,
+  "versions": [
+    "1.19"
+  ]
+}

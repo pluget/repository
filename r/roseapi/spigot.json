@@ -1,0 +1,31 @@
+{
+  "id": 101510,
+  "url": "https://www.spigotmc.org/resources/roseapi-%E2%AD%90player-apis-api.101510/",
+  "name": "RoseAPI ⭐Player APIs (/api)",
+  "description": "Build your own api system like large servers do using PlaceholderAPI and RoseAPI!",
+  "authors": [
+    "SuperSoda"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101510.jpg?1650448443",
+  "iconCid": "bafkreibyz35ueo3qlxjvvyjeb7l7w4b6yke2n2j3ss4uybpxgnwbc6dzxq",
+  "numberOfDownloads": 33,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/roseapi-%E2%AD%90player-apis-api.101510/history",
+  "gitUrl": "https://github.com/fizzrepo/RoseAPI",
+  "releaseDate": 1650444780000,
+  "updateDate": 1659270060000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

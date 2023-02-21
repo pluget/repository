@@ -1,0 +1,24 @@
+{
+  "id": 106200,
+  "url": "https://www.spigotmc.org/resources/tntthrower-cooldown-custom-velocity-and-more.106200/",
+  "name": "TNTThrower [Cooldown, Custom Velocity, and more]",
+  "description": "You can throw tnts with this plugin, how cool.",
+  "authors": [
+    "lacysnude"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106200.jpg?1668102565",
+  "iconCid": "bafkreibailkmfc2riih5cdaak5bu4job56ocvcvs66x4dz6zj33oj76dle",
+  "numberOfDownloads": 17,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tntthrower-cooldown-custom-velocity-and-more.106200/history",
+  "gitUrl": "https://github.com/LacysDUDE/TNTThrower/",
+  "releaseDate": 1668098820000,
+  "updateDate": 1668098820000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

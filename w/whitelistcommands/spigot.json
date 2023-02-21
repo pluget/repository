@@ -1,0 +1,31 @@
+{
+  "id": 106741,
+  "url": "https://www.spigotmc.org/resources/whitelistcommands.106741/",
+  "name": "WhiteListCommands",
+  "description": "enable commands",
+  "authors": [
+    "iChocoMC_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106741.jpg?1671070687",
+  "iconCid": "bafkreiabq6bgfqrnntqtnx2vhqba2fp5yiw3vxyla5g2u2nahc6ndbcsaa",
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/whitelistcommands.106741/history",
+  "releaseDate": 1671067020000,
+  "updateDate": 1671067020000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

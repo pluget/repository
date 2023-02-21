@@ -1,0 +1,27 @@
+{
+  "id": 68637,
+  "url": "https://www.spigotmc.org/resources/s86-powers.68637/",
+  "name": "S86 Powers",
+  "description": "Give players unique powers",
+  "authors": [
+    "sirrus86"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/68/68637.jpg?1564700652",
+  "iconCid": "bafkreiazfrxilmr6kt2vitopqzhbgei5qrsa4vf35ae45imqqha2pduwge",
+  "numberOfDownloads": 14189,
+  "rating": 5,
+  "numberOfVotes": 17,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/s86-powers.68637/history",
+  "gitUrl": "https://github.com/sirrus86/S86Powers",
+  "releaseDate": 1561258200000,
+  "updateDate": 1675711560000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

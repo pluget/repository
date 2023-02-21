@@ -1,0 +1,21 @@
+{
+  "id": 99472,
+  "url": "https://www.spigotmc.org/resources/anti-farm.99472/",
+  "name": "Anti Farm",
+  "description": "Blocks all currently afk farm methods.",
+  "authors": [
+    "oTuin"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99472.jpg?1643019226",
+  "iconCid": "bafkreicwobpmx37k5yjbwfgga2ahxcwrbwzchvwghvs3b6pbqonpfy4tka",
+  "numberOfDownloads": 1602,
+  "rating": 4.6,
+  "numberOfVotes": 14,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anti-farm.99472/history",
+  "gitUrl": "https://github.com/bagdydad/AntiFarm",
+  "releaseDate": 1643013660000,
+  "updateDate": 1667489220000,
+  "versions": [
+    "1.19"
+  ]
+}

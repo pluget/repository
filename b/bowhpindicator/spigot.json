@@ -1,0 +1,22 @@
+{
+  "id": 100960,
+  "url": "https://www.spigotmc.org/resources/bowhpindicator.100960/",
+  "name": "BowHPIndicator",
+  "description": "A Simple Plugin That Shows Players Their Target's HP When Shot By An Arrow! (config.yml included)",
+  "authors": [
+    "Mxtery"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100960.jpg?1648276312",
+  "iconCid": "bafkreibbxuaw632qahxbzqntt33wkbc2kyeysubsc2l5ugdrijhedyurg4",
+  "numberOfDownloads": 141,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bowhpindicator.100960/history",
+  "gitUrl": "https://github.com/Mystery135/BowHPIndicator",
+  "releaseDate": 1648272660000,
+  "updateDate": 1659377280000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

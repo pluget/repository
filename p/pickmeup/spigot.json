@@ -1,0 +1,27 @@
+{
+  "id": 88151,
+  "url": "https://www.spigotmc.org/resources/pickmeup-carry-your-entities-around-gently-or-throw-them-away.88151/",
+  "name": "PickMeUp - Carry your Entities around gently or throw them away",
+  "description": "Carry every entity around or throw them somewhere. Fully configurable.",
+  "authors": [
+    "Eldoria"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88151.jpg?1611334183",
+  "iconCid": "bafkreifdrn3bmkkwfkycmuyvhwdrn23bkgxbqhjtfxbjdx3l4pchudemee",
+  "numberOfDownloads": 13048,
+  "rating": 4.9,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pickmeup-carry-your-entities-around-gently-or-throw-them-away.88151/history",
+  "gitUrl": "https://github.com/eldoriarpg/PickMeUp",
+  "releaseDate": 1611330540000,
+  "updateDate": 1666724580000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

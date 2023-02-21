@@ -1,0 +1,20 @@
+{
+  "id": 107690,
+  "url": "https://www.spigotmc.org/resources/phoenixavisos.107690/",
+  "name": "PhoenixAvisos",
+  "description": "Plugin que transmite um aviso para todos os jogadores informando algo.",
+  "authors": [
+    "PhoenixPlugin"
+  ],
+  "numberOfDownloads": 27,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/phoenixavisos.107690/history",
+  "releaseDate": 1675000440000,
+  "updateDate": 1675188000000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10"
+  ]
+}

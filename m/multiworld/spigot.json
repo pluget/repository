@@ -1,0 +1,24 @@
+{
+  "id": 92559,
+  "url": "https://www.spigotmc.org/resources/multiworld.92559/",
+  "name": "MultiWorld",
+  "description": "World Mangement for Minecraft",
+  "authors": [
+    "Dev7ex"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92559.jpg?1671196188",
+  "iconCid": "bafkreidg23ktzblhgjqwbg5u6gypljet6fpdck673gbmta72zz7p4orr2i",
+  "numberOfDownloads": 14623,
+  "rating": 4.4,
+  "numberOfVotes": 16,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/multiworld.92559/history",
+  "gitUrl": "https://github.com/Dev7ex/MultiWorld",
+  "releaseDate": 1621543320000,
+  "updateDate": 1675090620000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

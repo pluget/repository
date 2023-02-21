@@ -1,0 +1,32 @@
+{
+  "id": 102170,
+  "url": "https://www.spigotmc.org/resources/limboauth-social-addon.102170/",
+  "name": "LimboAuth Social Addon",
+  "description": "Now it is possible to link your social networks to your Minecraft account!",
+  "authors": [
+    "hevav"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102170.jpg?1653316676",
+  "iconCid": "bafkreiftwjbzme7ijkyclvah2o5wk4ujrld7fuq2fubzat46gndywyxvte",
+  "numberOfDownloads": 691,
+  "rating": 4.4,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/limboauth-social-addon.102170/history",
+  "gitUrl": "https://github.com/Elytrium/LimboAuth-SocialAddon/",
+  "releaseDate": 1653313020000,
+  "updateDate": 1663197840000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

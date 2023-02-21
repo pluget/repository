@@ -1,0 +1,22 @@
+{
+  "id": 92554,
+  "url": "https://www.spigotmc.org/resources/qwaypoints.92554/",
+  "name": "QWaypoints",
+  "description": "A new way to save new locations",
+  "authors": [
+    "xSwagyy"
+  ],
+  "numberOfDownloads": 495,
+  "rating": 4.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/qwaypoints.92554/history",
+  "gitUrl": "https://github.com/YarinQuapi/Waypoints",
+  "releaseDate": 1621531440000,
+  "updateDate": 1673475240000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

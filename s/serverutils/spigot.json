@@ -1,0 +1,32 @@
+{
+  "id": 79599,
+  "url": "https://www.spigotmc.org/resources/serverutils-spigot-bungee-velocity-manage-plugins-in-game.79599/",
+  "name": "ServerUtils - [Spigot/Bungee/Velocity] Manage plugins in-game!",
+  "description": "Reload plugins - Unload unused commands - PluginWatcher - Command/PluginInfo - Automatic Updater",
+  "authors": [
+    "FrankHeijden"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79599.jpg?1591125721",
+  "iconCid": "bafkreiewkgdwqntq2zvyx4wechmkfrqhn66ic5tkmv46qytx2zuwoyiesq",
+  "numberOfDownloads": 12498,
+  "rating": 4.9,
+  "numberOfVotes": 30,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/serverutils-spigot-bungee-velocity-manage-plugins-in-game.79599/history",
+  "gitUrl": "https://github.com/FrankHeijden/ServerUtils",
+  "releaseDate": 1591122060000,
+  "updateDate": 1672345920000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

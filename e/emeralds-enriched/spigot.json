@@ -1,0 +1,23 @@
+{
+  "id": 104789,
+  "url": "https://www.spigotmc.org/resources/emeralds-enriched-itemsadder.104789/",
+  "name": "Emeralds Enriched [ItemsAdder]",
+  "description": "A Simple ItemsAdder Add-on that adds craftable Emerald Armor and Tools",
+  "authors": [
+    "Nibrock"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104789.jpg?1661325217",
+  "iconCid": "bafkreicjqxhd73ammt7gdrcirntgmetebpidzrcbifqvgrgrsvofqmols4",
+  "numberOfDownloads": 490,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/emeralds-enriched-itemsadder.104789/history",
+  "gitUrl": "https://github.com/Nibrock/emeraldsenriched-ia",
+  "releaseDate": 1661321580000,
+  "updateDate": 1661321580000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

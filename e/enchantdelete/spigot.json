@@ -1,0 +1,22 @@
+{
+  "id": 106135,
+  "url": "https://www.spigotmc.org/resources/enchantdelete.106135/",
+  "name": "EnchantDelete",
+  "description": "Delete All Enchants items",
+  "authors": [
+    "TermalQuake"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106135.jpg?1667755139",
+  "iconCid": "bafkreibruievcmqnw4ocyrl6mfztzyqn72q4zz3lbt3eu3htpacuezndym",
+  "numberOfDownloads": 28,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/enchantdelete.106135/history",
+  "gitUrl": "https://github.com/TermalQuake/EnchantDelete",
+  "releaseDate": 1667751180000,
+  "updateDate": 1668018480000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

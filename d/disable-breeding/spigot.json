@@ -1,0 +1,25 @@
+{
+  "id": 106706,
+  "url": "https://www.spigotmc.org/resources/disable-breeding-configurable-types.106706/",
+  "name": "Disable Breeding (Configurable types)",
+  "description": "Anti breeding plugin for specific mobs types (1.14 - 1.19+)",
+  "authors": [
+    "TechnicallyCoded"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106706.jpg?1670883013",
+  "iconCid": "bafkreibmbfbp3jv4gw2hu4hcq4tfngg3d4lfl2nimd5kti7iqb572iwmuu",
+  "numberOfDownloads": 31,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/disable-breeding-configurable-types.106706/history",
+  "releaseDate": 1670878380000,
+  "updateDate": 1670878380000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

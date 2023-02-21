@@ -1,0 +1,24 @@
+{
+  "id": 103317,
+  "url": "https://www.spigotmc.org/resources/player-rating.103317/",
+  "name": "Player Rating",
+  "description": "Let players rate actions of other players",
+  "authors": [
+    "makeevrserg"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103317.jpg?1657649345",
+  "iconCid": "bafkreifu2uthwulgtiby4mqd2wn77ynnpn3rhyms7s3ctbxdd4xa33eqbm",
+  "numberOfDownloads": 188,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/player-rating.103317/history",
+  "gitUrl": "https://github.com/Astra-Interactive/AstraRating",
+  "releaseDate": 1657645680000,
+  "updateDate": 1674910740000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

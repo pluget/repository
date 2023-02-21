@@ -1,0 +1,25 @@
+{
+  "id": 95132,
+  "url": "https://www.spigotmc.org/resources/gravestonesplus.95132/",
+  "name": "GraveStonesPlus",
+  "description": "Create a grave when a player dies",
+  "authors": [
+    "BenCodez"
+  ],
+  "numberOfDownloads": 16544,
+  "rating": 4.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gravestonesplus.95132/history",
+  "gitUrl": "https://github.com/BenCodez/GraveStonesPlus",
+  "releaseDate": 1628447280000,
+  "updateDate": 1673806920000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

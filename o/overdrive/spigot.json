@@ -1,0 +1,26 @@
+{
+  "id": 73779,
+  "url": "https://www.spigotmc.org/resources/overdrive.73779/",
+  "name": "Overdrive",
+  "description": "Easy mode?!? Why play at 20 TPS when you can play at 200?!?",
+  "authors": [
+    "BananaPuncher714"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/73/73779.jpg?1577401332",
+  "iconCid": "bafkreib3ck2jhzhww77scoxqpytmot2tpwejjf2ht6yqxff6nj4dzuduua",
+  "numberOfDownloads": 1036,
+  "rating": 4.3,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/overdrive.73779/history",
+  "gitUrl": "https://github.com/BananaPuncher714/Overdrive",
+  "releaseDate": 1577397660000,
+  "updateDate": 1659394440000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

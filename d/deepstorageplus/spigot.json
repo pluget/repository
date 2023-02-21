@@ -1,0 +1,27 @@
+{
+  "id": 74145,
+  "url": "https://www.spigotmc.org/resources/deepstorageplus-1-13-1-19.74145/",
+  "name": "DeepStoragePlus [1.13-1.19]",
+  "description": "Store bulk items in one slot! (Applied Energistics 2 mini-clone)",
+  "authors": [
+    "DarkMonolith"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/74/74145.jpg?1578979108",
+  "iconCid": "bafkreib3czttxiqn3b6x2uai2qbreoec6gb6aps4wdj22tcywbkulvqcpm",
+  "numberOfDownloads": 10257,
+  "rating": 4.3,
+  "numberOfVotes": 23,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/deepstorageplus-1-13-1-19.74145/history",
+  "gitUrl": "https://github.com/christopherwalkerml/DeepStoragePlus",
+  "releaseDate": 1578515460000,
+  "updateDate": 1662423660000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

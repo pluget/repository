@@ -1,0 +1,33 @@
+{
+  "id": 72296,
+  "url": "https://www.spigotmc.org/resources/eggrespawn-a-simple-plugin-which-respawns-the-dragon-egg.72296/",
+  "name": "EggRespawn | A simple plugin which respawns the dragon egg",
+  "description": "This plugin spawns a dragon egg if an enderdragon is killed in an end world",
+  "authors": [
+    "J0schlZ"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/72/72296.jpg?1572104926",
+  "iconCid": "bafkreihnhqyoap6lz7vzlbzn4drntck4a2ibrmtrx7yj7fztohig3jhqbu",
+  "numberOfDownloads": 565,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/eggrespawn-a-simple-plugin-which-respawns-the-dragon-egg.72296/history",
+  "gitUrl": "https://github.com/CraftTogetherMC/EggRespawn",
+  "releaseDate": 1572101220000,
+  "updateDate": 1674055620000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

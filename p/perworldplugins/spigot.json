@@ -1,0 +1,33 @@
+{
+  "id": 96161,
+  "url": "https://www.spigotmc.org/resources/perworldplugins.96161/",
+  "name": "PerWorldPlugins",
+  "description": "PerWorldPlugins allows plugins to be set to hook onto certain worlds using the config.",
+  "authors": [
+    "Tonimatas"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96161.jpg?1673996441",
+  "iconCid": "bafkreigtbc6zanv4aqm6eaxu7s3uruapmme5gk5ovysoxfnzlgeqeclxxy",
+  "numberOfDownloads": 6851,
+  "rating": 4.1,
+  "numberOfVotes": 31,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/perworldplugins.96161/history",
+  "gitUrl": "https://github.com/TonimatasDEV/PerWorldPlugins",
+  "releaseDate": 1676841660000,
+  "updateDate": 1676841660000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

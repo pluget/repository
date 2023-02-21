@@ -1,0 +1,33 @@
+{
+  "id": 93093,
+  "url": "https://www.spigotmc.org/resources/vk-api.93093/",
+  "name": "VK-API",
+  "description": "Плагин для создания ВК ботов для сайта vk.com, с ивентами",
+  "authors": [
+    "Gdame"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93093.jpg?1623065121",
+  "iconCid": "bafkreihb4vr55o2xqumfo6cb6ydjkufkwzzv74i5utaq35jet47ub67hqe",
+  "numberOfDownloads": 4299,
+  "rating": 4.3,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/vk-api.93093/history",
+  "gitUrl": "https://github.com/bivashy/VK-API-PluginAdapter",
+  "releaseDate": 1623061500000,
+  "updateDate": 1672919820000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

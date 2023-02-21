@@ -1,0 +1,27 @@
+{
+  "id": 105818,
+  "url": "https://www.spigotmc.org/resources/hajimehelper.105818/",
+  "name": "HajimeHelper",
+  "description": "The companion plugin for Hajime",
+  "authors": [
+    "TheBigBlah"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105818.jpg?1666026088",
+  "iconCid": "bafkreia3z5fs76tiuykakmcpwjszh24avqmw4426frzqtoc3y3wkwypnau",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hajimehelper.105818/history",
+  "gitUrl": "https://github.com/Slackadays/Hajime/tree/master/hajime_helper",
+  "releaseDate": 1666022400000,
+  "updateDate": 1666022400000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 22692,
+  "url": "https://www.spigotmc.org/resources/chatcolor.22692/",
+  "name": "ChatColor",
+  "description": "Change the style and color of your chat!",
+  "authors": [
+    "Sulphate"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/22/22692.jpg?1462189349",
+  "iconCid": "bafkreif5kz5v73lc6jg74kvdnwoouzr6hjokd3g67xhwbllmr27av4mkxe",
+  "numberOfDownloads": 54809,
+  "rating": 4.3,
+  "numberOfVotes": 68,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatcolor.22692/history",
+  "gitUrl": "https://github.com/MCSulphate/ChatColor2",
+  "releaseDate": 1676479380000,
+  "updateDate": 1676479380000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

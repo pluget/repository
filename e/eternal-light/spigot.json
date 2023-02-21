@@ -1,0 +1,25 @@
+{
+  "id": 50961,
+  "url": "https://www.spigotmc.org/resources/eternal-light.50961/",
+  "name": "Eternal Light",
+  "description": "Implements the light level overlay from NEI as a server side plugin! See where mobs can spawn.",
+  "authors": [
+    "Masstrix"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/50/50961.jpg?1513775635",
+  "iconCid": "bafkreicwvlfdfft23aascuhgthejvzvhm5ec5hl4eevywoks5ogv6qipfe",
+  "numberOfDownloads": 8060,
+  "rating": 4.9,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/eternal-light.50961/history",
+  "gitUrl": "https://github.com/Masstrix/Eternal-Light",
+  "releaseDate": 1513771980000,
+  "updateDate": 1659623640000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.18",
+    "1.19"
+  ]
+}

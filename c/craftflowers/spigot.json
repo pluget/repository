@@ -1,0 +1,24 @@
+{
+  "id": 82407,
+  "url": "https://www.spigotmc.org/resources/craftflowers-1-16-port.82407/",
+  "name": "CraftFlowers [ 1.16+ Port ]",
+  "description": "Easy create custom flowers with easy-to-use GUI.",
+  "authors": [
+    "David_Mayr"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82407.jpg?1596666640",
+  "iconCid": "bafkreidgnfkijlwf2iqq3ixrcozy6mtzvrpccfqmjenkruabyc576sbkfa",
+  "numberOfDownloads": 1976,
+  "rating": 4.4,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/craftflowers-1-16-port.82407/history",
+  "gitUrl": "https://github.com/MenschenToaster/CraftFlowers",
+  "releaseDate": 1596663000000,
+  "updateDate": 1673884980000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

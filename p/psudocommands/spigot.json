@@ -1,0 +1,26 @@
+{
+  "id": 83535,
+  "url": "https://www.spigotmc.org/resources/psudocommands-perform-plugin-commands-after-execute-and-use-selectors-fork.83535/",
+  "name": "PsudoCommands - Perform plugin commands after /execute and use selectors ! (Fork)",
+  "description": "Add the ability to use /execute and @ base-game features for plugins that may not support them.",
+  "authors": [
+    "cricri_21"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83535.jpg?1599235594",
+  "iconCid": "bafkreick7n6tfdnfbw66zw2jpmuylgg6hdt452kg73a3b323vax4xw2mzm",
+  "numberOfDownloads": 469,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/psudocommands-perform-plugin-commands-after-execute-and-use-selectors-fork.83535/history",
+  "gitUrl": "https://github.com/chrisgdt/PsudoCommands",
+  "releaseDate": 1599231960000,
+  "updateDate": 1671878520000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

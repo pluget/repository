@@ -1,0 +1,27 @@
+{
+  "id": 96329,
+  "url": "https://www.spigotmc.org/resources/glide.96329/",
+  "name": "Glide",
+  "description": "make a player glide",
+  "authors": [
+    "Leaf26"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96329.jpg?1632023069",
+  "iconCid": "bafkreihifwdq47o6njjhwhx2rdqt3otzmgojn3dghkzburl3ddkqdyrgji",
+  "numberOfDownloads": 305,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/glide.96329/history",
+  "gitUrl": "https://github.com/DailyStruggle/Glide",
+  "releaseDate": 1632019080000,
+  "updateDate": 1667601960000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

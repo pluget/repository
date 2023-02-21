@@ -1,0 +1,23 @@
+{
+  "id": 107010,
+  "url": "https://www.spigotmc.org/resources/chatgames.107010/",
+  "name": "ChatGames",
+  "description": "Encourage player engagement with fun automated chat games!",
+  "authors": [
+    "KimiNoUso"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107010.jpg?1672177634",
+  "iconCid": "bafkreifopjxcwjyp2xeh52y56kzoy6frvkl24zbczqka5yvovmaktjbrym",
+  "numberOfDownloads": 66,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatgames.107010/history",
+  "gitUrl": "https://github.com/TheKimiNoUso/ChatGames",
+  "releaseDate": 1672174020000,
+  "updateDate": 1672460100000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

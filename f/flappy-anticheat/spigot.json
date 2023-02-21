@@ -1,0 +1,25 @@
+{
+  "id": 92180,
+  "url": "https://www.spigotmc.org/resources/flappy-anticheat-1-13-1-17.92180/",
+  "name": "Flappy Anticheat 1.13 - 1.17",
+  "description": "A 1.13 - 1.17 anticheat",
+  "authors": [
+    "TheDoominator"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92180.jpg?1627949213",
+  "iconCid": "bafkreigeqvhwim5d2cen37bi5c7kl3npp5zz5bg4dujlvo22wskp5mxh3y",
+  "numberOfDownloads": 5430,
+  "rating": 4.5,
+  "numberOfVotes": 19,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/flappy-anticheat-1-13-1-17.92180/history",
+  "gitUrl": "https://github.com/JustDoom/FlappyAC",
+  "releaseDate": 1620544860000,
+  "updateDate": 1668495900000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

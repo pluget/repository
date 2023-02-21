@@ -1,0 +1,24 @@
+{
+  "id": 93506,
+  "url": "https://www.spigotmc.org/resources/mypronoun.93506/",
+  "name": "MyPronoun",
+  "description": "The easiest pronoun plugin to install — Just drag, drop, and you're done!",
+  "authors": [
+    "EnderGaming"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93506.jpg?1660564071",
+  "iconCid": "bafkreiat6r3ue6ovx26pyzeio3szddgmaotlsmltnihz4lslwg4ka6x63a",
+  "numberOfDownloads": 131,
+  "rating": 3,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mypronoun.93506/history",
+  "gitUrl": "https://github.com/EnderGamingFilms/MyPronoun",
+  "releaseDate": 1624258140000,
+  "updateDate": 1660559520000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 107447,
+  "url": "https://www.spigotmc.org/resources/skeconomy.107447/",
+  "name": "SKEconomy",
+  "description": "A custom economy plugin for your server.",
+  "authors": [
+    "Guilhermetosinho"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107447.jpg?1673986121",
+  "iconCid": "bafkreic23m2h527wyc4iatct2kc37qqx5dwtke46ydm2ba4ubdlrnesuqi",
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skeconomy.107447/history",
+  "releaseDate": 1673982480000,
+  "updateDate": 1673982480000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 107476,
+  "url": "https://www.spigotmc.org/resources/exile.107476/",
+  "name": "Exile",
+  "description": "Small plugin that allows to exile players to the nether or end",
+  "authors": [
+    "Great_Scott42"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107476.jpg?1674104722",
+  "iconCid": "bafkreidrl6iqox5n7vwtw7uhnvlytixnxhekhggjzqcve4fyb7u7ikal7m",
+  "numberOfDownloads": 78,
+  "rating": 4.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/exile.107476/history",
+  "releaseDate": 1674101100000,
+  "updateDate": 1675318080000,
+  "versions": [
+    "1.16",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 107301,
+  "url": "https://www.spigotmc.org/resources/pos.107301/",
+  "name": "pos",
+  "description": "FFXIV-like <pos> for Minecraft servers",
+  "authors": [
+    "Chalk"
+  ],
+  "numberOfDownloads": 20,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pos.107301/history",
+  "gitUrl": "https://github.com/ChalkPE/bukkit-pos",
+  "releaseDate": 1673267580000,
+  "updateDate": 1673267580000,
+  "versions": [
+    "1.19"
+  ]
+}

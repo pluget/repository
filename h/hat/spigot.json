@@ -1,0 +1,27 @@
+{
+  "id": 33980,
+  "url": "https://www.spigotmc.org/resources/hat.33980/",
+  "name": "Hat",
+  "description": "Simple hat plugin",
+  "authors": [
+    "Sigong"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/33/33980.jpg?1624672748",
+  "iconCid": "bafkreifj5bj72egoxpqvgnsoapeokg64cevpgjmzrvtccaxanwf64vliya",
+  "numberOfDownloads": 95454,
+  "rating": 5,
+  "numberOfVotes": 22,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hat.33980/history",
+  "gitUrl": "https://github.com/Sigong/Hat",
+  "releaseDate": 1483059300000,
+  "updateDate": 1659554400000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

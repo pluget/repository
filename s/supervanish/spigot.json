@@ -1,0 +1,33 @@
+{
+  "id": 1331,
+  "url": "https://www.spigotmc.org/resources/supervanish-be-invisible.1331/",
+  "name": "SuperVanish >> Be invisible",
+  "description": "Advanced /vanish plugin which makes other players think that you're not on the server",
+  "authors": [
+    "MyzelYam"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/1/1331.jpg?1412365922",
+  "iconCid": "bafkreidu2nuu2m5nxk26qi3pkwluwhyiwgiujzjwioqcexxzfetnstm2fa",
+  "numberOfDownloads": 757433,
+  "rating": 4.4,
+  "numberOfVotes": 179,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/supervanish-be-invisible.1331/history",
+  "gitUrl": "https://github.com/LeonMangler/SuperVanish",
+  "releaseDate": 1412362260000,
+  "updateDate": 1674934680000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

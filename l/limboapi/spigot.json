@@ -1,0 +1,32 @@
+{
+  "id": 95748,
+  "url": "https://www.spigotmc.org/resources/limboapi.95748/",
+  "name": "LimboAPI",
+  "description": "An API which provides Limbo (Virtual Servers) features to other Velocity plugins.",
+  "authors": [
+    "hevav"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95748.jpg?1642853735",
+  "iconCid": "bafkreiftwjbzme7ijkyclvah2o5wk4ujrld7fuq2fubzat46gndywyxvte",
+  "numberOfDownloads": 4024,
+  "rating": 4.6,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/limboapi.95748/history",
+  "gitUrl": "https://github.com/Elytrium/LimboAPI/",
+  "releaseDate": 1630060620000,
+  "updateDate": 1672756140000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

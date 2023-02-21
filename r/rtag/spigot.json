@@ -1,0 +1,32 @@
+{
+  "id": 100694,
+  "url": "https://www.spigotmc.org/resources/rtag-api-to-edit-block-entity-item-nbt-1-8-8-1-19-3.100694/",
+  "name": "Rtag | API to edit block, entity, item NBT [1.8.8 - 1.19.3]",
+  "description": "The \"readable tag\" library, an easy way to handle NBTTagCompounds",
+  "authors": [
+    "Rubenicos"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100694.jpg?1647217247",
+  "iconCid": "bafkreibfwcmdh4tv7kgfhh2herv4oqwnv3koky7slhj5rofbn233pc66mm",
+  "numberOfDownloads": 299,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rtag-api-to-edit-block-entity-item-nbt-1-8-8-1-19-3.100694/history",
+  "gitUrl": "https://github.com/saicone/rtag",
+  "releaseDate": 1647213600000,
+  "updateDate": 1670605740000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

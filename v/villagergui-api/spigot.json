@@ -1,0 +1,33 @@
+{
+  "id": 81401,
+  "url": "https://www.spigotmc.org/resources/%E2%9A%A1-villagergui-api-%E2%9A%A1-teammt-%E2%9A%A1-villager-less-trading-guis-%E2%9A%A1-1-3-1-19.81401/",
+  "name": "⚡ VillagerGUI Api ⚡ TeamMT ⚡ Villager-less trading GUI's! ⚡ [1.3-1.19]",
+  "description": "Have you ever tried to create a custom Villager GUI in Spigot? This library is for you!",
+  "authors": [
+    "masecla22"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81401.jpg?1594586493",
+  "iconCid": "bafkreibvw52kjpasog6lgx55s2dl2x2i2adypnba7tye3azygmq2kmume4",
+  "numberOfDownloads": 508,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9A%A1-villagergui-api-%E2%9A%A1-teammt-%E2%9A%A1-villager-less-trading-guis-%E2%9A%A1-1-3-1-19.81401/history",
+  "gitUrl": "https://github.com/masecla22/VillagerGUIApi",
+  "releaseDate": 1594582860000,
+  "updateDate": 1673017560000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 34110,
+  "url": "https://www.spigotmc.org/resources/mobarena.34110/",
+  "name": "MobArena",
+  "description": "Become a mob-fighting gladiator!",
+  "authors": [
+    "garbagemule"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/34/34110.jpg?1483294422",
+  "iconCid": "bafkreianspxxn3mkfienkh4atxvtk4jalfiuy3i27j65pclyewaq3qf3ly",
+  "numberOfDownloads": 45478,
+  "rating": 4.8,
+  "numberOfVotes": 127,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mobarena.34110/history",
+  "gitUrl": "https://github.com/garbagemule/MobArena",
+  "releaseDate": 1483288860000,
+  "updateDate": 1659204540000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

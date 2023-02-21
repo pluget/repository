@@ -1,0 +1,33 @@
+{
+  "id": 65617,
+  "url": "https://www.spigotmc.org/resources/localelib.65617/",
+  "name": "LocaleLib",
+  "description": "Show translated names of items, entities & more in client's language",
+  "authors": [
+    "PikaMug"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/65/65617.jpg?1615864030",
+  "iconCid": "bafkreiald5ycrcmqnytnwergbxxz4itv7xalytqzbv5kz5uhky2dxvpr5i",
+  "numberOfDownloads": 2399,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/localelib.65617/history",
+  "gitUrl": "https://github.com/PikaMug/LocaleLib",
+  "releaseDate": 1552501860000,
+  "updateDate": 1671807660000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 106872,
+  "url": "https://www.spigotmc.org/resources/mcdiscordlink.106872/",
+  "name": "McDiscordLink",
+  "description": "Links Discord and Your Minecraft server together using your custom bot.",
+  "authors": [
+    "MJDawsonyt"
+  ],
+  "numberOfDownloads": 43,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mcdiscordlink.106872/history",
+  "gitUrl": "https://github.com/MJDaws0n/mcDiscordLink",
+  "releaseDate": 1671653940000,
+  "updateDate": 1671653940000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

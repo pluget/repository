@@ -1,0 +1,23 @@
+{
+  "id": 104616,
+  "url": "https://www.spigotmc.org/resources/healthbar-reloaded.104616/",
+  "name": "HealthBar-Reloaded",
+  "description": "Cool health bars above mobs' and players' heads, a must-have for RPG and PvP servers!",
+  "authors": [
+    "DavideBlade"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104616.jpg?1660735755",
+  "iconCid": "bafkreibpsizrzgpy3hjxnxqqyw3hgymytju2mdyac774yqhzjymicfiqmq",
+  "numberOfDownloads": 419,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/healthbar-reloaded.104616/history",
+  "gitUrl": "https://github.com/DavideBlade/HealthBar-Reloaded",
+  "releaseDate": 1660732140000,
+  "updateDate": 1660995120000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

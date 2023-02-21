@@ -1,0 +1,19 @@
+{
+  "id": 101169,
+  "url": "https://www.spigotmc.org/resources/wsc-minecraft-authenticator.101169/",
+  "name": "WSC-Minecraft-Authenticator",
+  "description": "Simple authentication plugin using WoltLab's password.",
+  "authors": [
+    "_xXSchrandXx_"
+  ],
+  "numberOfDownloads": 79,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/wsc-minecraft-authenticator.101169/history",
+  "gitUrl": "https://github.com/xXSchrandXx/WSC-Minecraft-Authenticator",
+  "releaseDate": 1649097000000,
+  "updateDate": 1665679740000,
+  "versions": [
+    "1.19"
+  ]
+}

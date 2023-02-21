@@ -1,0 +1,27 @@
+{
+  "id": 4510,
+  "url": "https://www.spigotmc.org/resources/lightapi.4510/",
+  "name": "LightAPI",
+  "description": "Bukkit library for edit light levels",
+  "authors": [
+    "EvilSpawn"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/4/4510.jpg?1425212329",
+  "iconCid": "bafkreiampnwhb7kdv26xdk3chp6ixpizgbfiloy4kdtfodbhniuu3ah6ja",
+  "numberOfDownloads": 53142,
+  "rating": 4.1,
+  "numberOfVotes": 37,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lightapi.4510/history",
+  "gitUrl": "https://github.com/BeYkeRYkt/LightAPI",
+  "releaseDate": 1425208680000,
+  "updateDate": 1658318460000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

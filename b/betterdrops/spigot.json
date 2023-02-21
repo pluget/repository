@@ -1,0 +1,26 @@
+{
+  "id": 106691,
+  "url": "https://www.spigotmc.org/resources/betterdrops-%E2%9A%A1-recoded.106691/",
+  "name": "BetterDrops ⚡ [RECODED]",
+  "description": "Adds custom drops to the mobs and blocks.",
+  "authors": [
+    "Facuu16"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106691.jpg?1676892859",
+  "iconCid": "bafkreibk2dinwrem6jdfit3raxvl72enfhjvwfksiot4u3lyujz6zan2li",
+  "numberOfDownloads": 303,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterdrops-%E2%9A%A1-recoded.106691/history",
+  "gitUrl": "https://github.com/Facuu16/better-drops",
+  "releaseDate": 1676891280000,
+  "updateDate": 1676891280000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12"
+  ]
+}

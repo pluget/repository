@@ -1,0 +1,23 @@
+{
+  "id": 87359,
+  "url": "https://www.spigotmc.org/resources/movecraft-warfare.87359/",
+  "name": "Movecraft-Warfare",
+  "description": "Movecraft Warfare Addon",
+  "authors": [
+    "TylerS1066"
+  ],
+  "numberOfDownloads": 432,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/movecraft-warfare.87359/history",
+  "gitUrl": "https://github.com/APDevTeam/Movecraft-Warfare",
+  "releaseDate": 1609549860000,
+  "updateDate": 1672272840000,
+  "versions": [
+    "1.14",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

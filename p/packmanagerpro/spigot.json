@@ -1,0 +1,21 @@
+{
+  "id": 105819,
+  "url": "https://www.spigotmc.org/resources/packmanagerpro.105819/",
+  "name": "PackManagerPro",
+  "description": "A better way to manage server resource packs.",
+  "authors": [
+    "Naspo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105819.jpg?1666030198",
+  "iconCid": "bafkreihlaomhltccjy63ta5pkivvpg73oh6dxnqewaajtxyfj23tce5itm",
+  "numberOfDownloads": 58,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/packmanagerpro.105819/history",
+  "gitUrl": "https://github.com/NaspoDev/PackManagerPro",
+  "releaseDate": 1666026540000,
+  "updateDate": 1671827220000,
+  "versions": [
+    "1.19"
+  ]
+}

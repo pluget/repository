@@ -1,0 +1,31 @@
+{
+  "id": 73638,
+  "url": "https://www.spigotmc.org/resources/shulkerrespawner.73638/",
+  "name": "ShulkerRespawner",
+  "description": "Respawns shulkers when Endermen try to spawn in End Cities",
+  "authors": [
+    "JoelYahwehOfWar"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/73/73638.jpg?1594960171",
+  "iconCid": "bafkreigyphtk7azuvhqy5qk5kipljrugzgesrvjqqw7gyo3wg7flx5of7i",
+  "numberOfDownloads": 2487,
+  "rating": 4.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/shulkerrespawner.73638/history",
+  "gitUrl": "https://github.com/JoelGodOfwar/ShulkerRespawner",
+  "releaseDate": 1577003100000,
+  "updateDate": 1673684220000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

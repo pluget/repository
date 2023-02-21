@@ -1,0 +1,22 @@
+{
+  "id": 101327,
+  "url": "https://www.spigotmc.org/resources/autominecart.101327/",
+  "name": "AutoMinecart",
+  "description": "Mimics the automatic Terraria Minecarts",
+  "authors": [
+    "TisLeo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101327.jpg?1649785146",
+  "iconCid": "bafkreifu4v275qwyjuhehz5k7ikhkwfr7mcopatq32womrhztjsud27pym",
+  "numberOfDownloads": 109,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/autominecart.101327/history",
+  "gitUrl": "https://github.com/TisLeo/AutoMinecart",
+  "releaseDate": 1649781540000,
+  "updateDate": 1672434180000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

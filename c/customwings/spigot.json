@@ -1,0 +1,27 @@
+{
+  "id": 59912,
+  "url": "https://www.spigotmc.org/resources/customwings-1-13-1-19-2-opensource.59912/",
+  "name": "CustomWings [1.13 - 1.19.2] [Opensource]",
+  "description": "Create custom particle wings for your players!",
+  "authors": [
+    "Tigeax"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/59/59912.jpg?1624194271",
+  "iconCid": "bafkreidsqavd6gvbirjtsjtsusad3ohhuakd6q7k2gah2xjf2lwx73czgy",
+  "numberOfDownloads": 30395,
+  "rating": 4.6,
+  "numberOfVotes": 33,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/customwings-1-13-1-19-2-opensource.59912/history",
+  "gitUrl": "https://github.com/Tigeax/CustomWings",
+  "releaseDate": 1534441680000,
+  "updateDate": 1659192060000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

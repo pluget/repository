@@ -1,0 +1,27 @@
+{
+  "id": 102324,
+  "url": "https://www.spigotmc.org/resources/troll-deluxe-with-gui.102324/",
+  "name": "Troll Deluxe - with GUI!",
+  "description": "Partake in a miniscule amount of tomfoolery.",
+  "authors": [
+    "Vrganj_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102324.jpg?1654013125",
+  "iconCid": "bafkreigyl2wfhp57wehmzbg36wrls7mmtpxv6go2sb2tto2hnmn4a5ssxq",
+  "numberOfDownloads": 617,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/troll-deluxe-with-gui.102324/history",
+  "gitUrl": "https://github.com/Vrganj/TrollDeluxe",
+  "releaseDate": 1653933600000,
+  "updateDate": 1673949420000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

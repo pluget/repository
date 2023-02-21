@@ -1,0 +1,32 @@
+{
+  "id": 104974,
+  "url": "https://www.spigotmc.org/resources/levelboard-a-customizable-battlepass-like-board.104974/",
+  "name": "LevelBoard - A customizable BattlePass-like board",
+  "description": "[AGUI Addon] Use a cool-looking board to reward your players for their progress!",
+  "authors": [
+    "Bownser"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104974.jpg?1661966986",
+  "iconCid": "bafkreicgzwdfitswvgg2pc7jws5cummygnj3m6m6qxt6balnyi6mpfn2wa",
+  "numberOfDownloads": 97,
+  "rating": 4,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/levelboard-a-customizable-battlepass-like-board.104974/history",
+  "gitUrl": "https://github.com/Bounser/LevelBoard",
+  "releaseDate": 1661963340000,
+  "updateDate": 1662285300000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

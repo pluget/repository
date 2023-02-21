@@ -1,0 +1,28 @@
+{
+  "id": 88182,
+  "url": "https://www.spigotmc.org/resources/knokkos-custom-items.88182/",
+  "name": "Knokko's Custom Items",
+  "description": "A custom items plug-in with custom textures",
+  "authors": [
+    "knokko"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88182.jpg?1611394447",
+  "iconCid": "bafkreidb4pwz5vjbcyokd4s2c6bf77pn24k7n7ohllf6ecrg2eid3evstu",
+  "numberOfDownloads": 5292,
+  "rating": 4.8,
+  "numberOfVotes": 17,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/knokkos-custom-items.88182/history",
+  "gitUrl": "https://github.com/knokko/custom-items-gradle",
+  "releaseDate": 1611390780000,
+  "updateDate": 1675349340000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

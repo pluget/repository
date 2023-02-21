@@ -1,0 +1,24 @@
+{
+  "id": 69447,
+  "url": "https://www.spigotmc.org/resources/jsonapi-reloaded.69447/",
+  "name": "JSONAPI-RELOADED",
+  "description": "A Recoded version of JSONAPI",
+  "authors": [
+    "axeldu18"
+  ],
+  "numberOfDownloads": 1759,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/jsonapi-reloaded.69447/history",
+  "releaseDate": 1563389640000,
+  "updateDate": 1672877040000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

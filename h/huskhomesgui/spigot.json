@@ -1,0 +1,24 @@
+{
+  "id": 91059,
+  "url": "https://www.spigotmc.org/resources/huskhomesgui.91059/",
+  "name": "HuskHomesGUI",
+  "description": "Show your HuskHomes homes and warps in an easy-to-use GUI menu",
+  "authors": [
+    "William27528"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91059.jpg?1674425981",
+  "iconCid": "bafkreigyoo4v7vvgfdrq5ngmi2gpxnt4feythruumevpf5msqnquqa3aim",
+  "numberOfDownloads": 1639,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/huskhomesgui.91059/history",
+  "gitUrl": "https://github.com/WiIIiam278/HuskHomesGUI",
+  "releaseDate": 1617819960000,
+  "updateDate": 1674414120000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

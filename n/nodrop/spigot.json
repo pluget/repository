@@ -1,0 +1,32 @@
+{
+  "id": 55262,
+  "url": "https://www.spigotmc.org/resources/nodrop.55262/",
+  "name": "NoDrop",
+  "description": "Simple no item drop!",
+  "authors": [
+    "BGHDDevelopment"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/55/55262.jpg?1522714531",
+  "iconCid": "bafkreicec34kyvxby3i3kd6wkpzaemgwkwjl5ntb2mkfmio3fxv6bb7bmq",
+  "numberOfDownloads": 308,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nodrop.55262/history",
+  "gitUrl": "https://github.com/BGHDDevelopment/NoDrop",
+  "releaseDate": 1522710900000,
+  "updateDate": 1672327740000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

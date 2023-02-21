@@ -1,0 +1,31 @@
+{
+  "id": 104675,
+  "url": "https://www.spigotmc.org/resources/miniwalls.104675/",
+  "name": "MiniWalls",
+  "description": "MiniWalls is a minigame plugin with 8 players who have to fight each other",
+  "authors": [
+    "FeuSalamander"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104675.jpg?1661858711",
+  "iconCid": "bafkreiaq5z5kwh4rkmrwi3hqwccc2wkmbwhg6u4pfdza6rwpxwnmlo2mzq",
+  "numberOfDownloads": 239,
+  "rating": 3.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/miniwalls.104675/history",
+  "gitUrl": "https://github.com/FeuSalamander/MiniWalls",
+  "releaseDate": 1660931640000,
+  "updateDate": 1664713980000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

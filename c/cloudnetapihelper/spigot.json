@@ -1,0 +1,19 @@
+{
+  "id": 104802,
+  "url": "https://www.spigotmc.org/resources/cloudnetapihelper.104802/",
+  "name": "CloudNetAPIHelper",
+  "description": "A helper for using the CloudNet v3 API.",
+  "authors": [
+    "TheUnreal_Flo_"
+  ],
+  "numberOfDownloads": 37,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cloudnetapihelper.104802/history",
+  "gitUrl": "https://github.com/HowToCodeDE/CloudNetAPIHelper",
+  "releaseDate": 1661353980000,
+  "updateDate": 1661377320000,
+  "versions": [
+    "1.16"
+  ]
+}

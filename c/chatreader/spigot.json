@@ -1,0 +1,20 @@
+{
+  "id": 104645,
+  "url": "https://www.spigotmc.org/resources/chatreader.104645/",
+  "name": "ChatReader",
+  "description": "Reads the chat and block bad words and URLs",
+  "authors": [
+    "funcybear"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104645.jpg?1660841187",
+  "iconCid": "bafkreicou4jbq4bytkcv6sgmvpmervbxyzkqdfljmvjlfarbg4fqx6ap24",
+  "numberOfDownloads": 60,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatreader.104645/history",
+  "releaseDate": 1660825560000,
+  "updateDate": 1660931040000,
+  "versions": [
+    "1.19"
+  ]
+}

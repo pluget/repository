@@ -1,0 +1,30 @@
+{
+  "id": 98899,
+  "url": "https://www.spigotmc.org/resources/api-hologramlib.98899/",
+  "name": "[API] HologramLib",
+  "description": "Asynchronous, high-performance Minecraft Hologram library for 1.8-1.19 servers.",
+  "authors": [
+    "Unlegit_Denis"
+  ],
+  "numberOfDownloads": 569,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/api-hologramlib.98899/history",
+  "gitUrl": "https://github.com/unldenis/Hologram-Lib",
+  "releaseDate": 1641154380000,
+  "updateDate": 1662205740000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

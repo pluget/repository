@@ -1,0 +1,29 @@
+{
+  "id": 107807,
+  "url": "https://www.spigotmc.org/resources/checkop.107807/",
+  "name": "CheckOP",
+  "description": "Plugin zisťuje či hráč ktorý napíše /checkop má OP.",
+  "authors": [
+    "Swordik"
+  ],
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/checkop.107807/history",
+  "releaseDate": 1675454280000,
+  "updateDate": 1675454280000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

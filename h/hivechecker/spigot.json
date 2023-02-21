@@ -1,0 +1,24 @@
+{
+  "id": 74913,
+  "url": "https://www.spigotmc.org/resources/hivechecker-see-inside-hives-with-a-gui.74913/",
+  "name": "HiveChecker - See Inside Hives with a GUI!",
+  "description": "Check the amount of Bees and Honey inside Hives on right click!",
+  "authors": [
+    "HexedHero"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/74/74913.jpg?1609890124",
+  "iconCid": "bafkreid3ucstzslz2jmk7xfbtrsgfegkec66qdlmvtxhqxmqfajpaynfti",
+  "numberOfDownloads": 5707,
+  "rating": 5,
+  "numberOfVotes": 26,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hivechecker-see-inside-hives-with-a-gui.74913/history",
+  "releaseDate": 1676806140000,
+  "updateDate": 1676806140000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

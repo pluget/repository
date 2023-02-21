@@ -1,0 +1,32 @@
+{
+  "id": 100793,
+  "url": "https://www.spigotmc.org/resources/easypayments.100793/",
+  "name": "EasyPayments",
+  "description": "The official EasyDonate payments processing implementation server software",
+  "authors": [
+    "SoKnight"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100793.jpg?1647613887",
+  "iconCid": "bafkreickzzn36dqcgv6s3flnhqhm25ihrllanz2mikfpehqzc75lh7tswq",
+  "numberOfDownloads": 658,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/easypayments.100793/history",
+  "gitUrl": "https://github.com/EasyDonate/EasyPayments/",
+  "releaseDate": 1647610260000,
+  "updateDate": 1674224040000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

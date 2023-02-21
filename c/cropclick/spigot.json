@@ -1,0 +1,33 @@
+{
+  "id": 69480,
+  "url": "https://www.spigotmc.org/resources/cropclick.69480/",
+  "name": "CropClick",
+  "description": "This plugin will make you be able to click crops and recive the drops.",
+  "authors": [
+    "Bakuplayz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/69/69480.jpg?1604847254",
+  "iconCid": "bafkreiezl4k6e4nocb3hove3ghg6xljeoo3owia2x4y57brzc2mqjkjnle",
+  "numberOfDownloads": 4530,
+  "rating": 5,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cropclick.69480/history",
+  "gitUrl": "https://github.com/BakuPlayz/CropClick",
+  "releaseDate": 1563480480000,
+  "updateDate": 1674833820000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

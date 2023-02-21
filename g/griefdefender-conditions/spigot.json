@@ -1,0 +1,32 @@
+{
+  "id": 106330,
+  "url": "https://www.spigotmc.org/resources/griefdefender-conditions-commandtimer-extension.106330/",
+  "name": "GriefDefender Conditions [CommandTimer extension]",
+  "description": "Add GriefDefender conditions to CommandTimer",
+  "authors": [
+    "titivermeesch"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106330.jpg?1668874007",
+  "iconCid": "bafkreiayyg3d2xwfpcdqn5r24mx7se5j4ot3lo2ahbwuhazx6baicxvqey",
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/griefdefender-conditions-commandtimer-extension.106330/history",
+  "gitUrl": "https://github.com/titivermeesch/CommandTimer_GriefDefender",
+  "releaseDate": 1668870180000,
+  "updateDate": 1668870180000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

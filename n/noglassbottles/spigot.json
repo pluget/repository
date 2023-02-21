@@ -1,0 +1,30 @@
+{
+  "id": 98581,
+  "url": "https://www.spigotmc.org/resources/noglassbottles.98581/",
+  "name": "NoGlassBottles",
+  "description": "Removes glass bottles from players hand after drinking a potion, or water bottle",
+  "authors": [
+    "Brand0n_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98581.jpg?1656564542",
+  "iconCid": "bafkreih4lznurqw6acra37o2xpnyf5gi56fq7onrwozsd2wvmqzqfngqly",
+  "numberOfDownloads": 84,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/noglassbottles.98581/history",
+  "releaseDate": 1640166840000,
+  "updateDate": 1657829160000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

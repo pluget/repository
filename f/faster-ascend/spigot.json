@@ -1,0 +1,32 @@
+{
+  "id": 107195,
+  "url": "https://www.spigotmc.org/resources/faster-ascend.107195/",
+  "name": "Faster Ascend",
+  "description": "A plugin which allows to climb up ladders/vines/scaffholdings and water faster!",
+  "authors": [
+    "TimeCode"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107195.jpg?1672855652",
+  "iconCid": "bafkreifgwolbir2ueaykoprppqcioc5gxi4g4w5bmx7hknr6zvekwqoole",
+  "numberOfDownloads": 155,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/faster-ascend.107195/history",
+  "gitUrl": "https://github.com/TimeCodings/FasterAscend",
+  "releaseDate": 1672851960000,
+  "updateDate": 1673455020000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

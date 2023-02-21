@@ -1,0 +1,20 @@
+{
+  "id": 104769,
+  "url": "https://www.spigotmc.org/resources/basic-chat-moderation.104769/",
+  "name": "Basic Chat Moderation",
+  "description": "Simple, LightWeight and Easy Chat AutoMod Plugin",
+  "authors": [
+    "danilacasito"
+  ],
+  "numberOfDownloads": 58,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/basic-chat-moderation.104769/history",
+  "gitUrl": "https://github.com/danilacasito/SpigotChatModerationSystem",
+  "releaseDate": 1661250000000,
+  "updateDate": 1661256660000,
+  "versions": [
+    "1.8",
+    "1.12"
+  ]
+}

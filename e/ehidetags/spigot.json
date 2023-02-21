@@ -1,0 +1,27 @@
+{
+  "id": 97904,
+  "url": "https://www.spigotmc.org/resources/ehidetags.97904/",
+  "name": "eHideTags",
+  "description": "Powerful nickname hiding tool",
+  "authors": [
+    "Rogalik_play"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97904.jpg?1643448685",
+  "iconCid": "bafkreif3waix4wgef47uaqi3dzxc7hn2tb7j3eqostk7baoowo6eiei35a",
+  "numberOfDownloads": 858,
+  "rating": 4.3,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ehidetags.97904/history",
+  "gitUrl": "https://github.com/en0tuk/eHideTags",
+  "releaseDate": 1637949420000,
+  "updateDate": 1666473900000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

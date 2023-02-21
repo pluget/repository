@@ -1,0 +1,32 @@
+{
+  "id": 65075,
+  "url": "https://www.spigotmc.org/resources/safenet-1-8-1-19-protect-your-network-from-ip-forward-bypass-exploit.65075/",
+  "name": "SafeNET [1.8 - 1.19] - Protect your network from IP-forward bypass exploit.",
+  "description": "A lightweight protection from IP-forward bypass inspired by BungeeGuard and IP whitelist.",
+  "authors": [
+    "dejvokep"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/65/65075.jpg?1623956502",
+  "iconCid": "bafkreic4a2jjh7dh7hejvyfyqncngzbjkhehksynapictfrwhrpuedmb2e",
+  "numberOfDownloads": 16909,
+  "rating": 4.7,
+  "numberOfVotes": 77,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/safenet-1-8-1-19-protect-your-network-from-ip-forward-bypass-exploit.65075/history",
+  "gitUrl": "https://github.com/dejvokep/safe-net",
+  "releaseDate": 1676746380000,
+  "updateDate": 1676746380000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

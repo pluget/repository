@@ -1,0 +1,32 @@
+{
+  "id": 100868,
+  "url": "https://www.spigotmc.org/resources/waypoint.100868/",
+  "name": "Waypoint",
+  "description": "Waypoint is good alternative to teleportation for Bukkit/Spigot servers.",
+  "authors": [
+    "MrCubeeDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100868.jpg?1647869099",
+  "iconCid": "bafkreigum5fayglja65qahl4dfgzhk4eg4nwre4m5qhugwlh5xswwilmcm",
+  "numberOfDownloads": 363,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/waypoint.100868/history",
+  "gitUrl": "https://github.com/MrCubee/Waypoint",
+  "releaseDate": 1647865440000,
+  "updateDate": 1670851140000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

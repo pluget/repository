@@ -1,0 +1,31 @@
+{
+  "id": 86539,
+  "url": "https://www.spigotmc.org/resources/gameboy.86539/",
+  "name": "Gameboy",
+  "description": "Emulate gameboy and gameboy color games in your server",
+  "authors": [
+    "Kyllian"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/86/86539.jpg?1607438181",
+  "iconCid": "bafkreifrj4f4qqsvppuausi4b2pkvidmswfsdiljr57vhao5h6g3v7jhea",
+  "numberOfDownloads": 1946,
+  "rating": 4.6,
+  "numberOfVotes": 16,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gameboy.86539/history",
+  "gitUrl": "https://github.com/InstantlyMoist/Gameboy",
+  "releaseDate": 1607434560000,
+  "updateDate": 1675334400000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

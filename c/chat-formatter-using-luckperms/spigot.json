@@ -1,0 +1,32 @@
+{
+  "id": 107618,
+  "url": "https://www.spigotmc.org/resources/chat-formatter-using-luckperms-1-8-1-19-3.107618/",
+  "name": "Chat Formatter using LuckPerms [1.8 - 1.19.3]",
+  "description": "A format for chat that implements a hovertext and uses luckperms",
+  "authors": [
+    "Juanito5787.-"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107618.jpg?1674741326",
+  "iconCid": "bafkreign7cifh2ir5jtogebc2c4qlb4siidnw6xd2xicvdw6s2k2ktzshq",
+  "numberOfDownloads": 54,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chat-formatter-using-luckperms-1-8-1-19-3.107618/history",
+  "gitUrl": "https://github.com/xShyo/LPChats",
+  "releaseDate": 1674737700000,
+  "updateDate": 1674737700000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

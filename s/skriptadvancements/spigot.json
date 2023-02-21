@@ -1,0 +1,22 @@
+{
+  "id": 96702,
+  "url": "https://www.spigotmc.org/resources/skript-advancements-skript-addon.96702/",
+  "name": "skript-advancements [Skript Addon]",
+  "description": "Skript addon that deals with advancements.",
+  "authors": [
+    "hotpocket184"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96702.jpg?1645236186",
+  "iconCid": "bafkreicv46r6esnrdoxn5lvz4x2w6yjflar6yn7jutdmuiseto35ftzki4",
+  "numberOfDownloads": 1324,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skript-advancements-skript-addon.96702/history",
+  "gitUrl": "https://github.com/hotpocket184/skript-advancements",
+  "releaseDate": 1633655880000,
+  "updateDate": 1675259340000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

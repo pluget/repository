@@ -1,0 +1,24 @@
+{
+  "id": 107076,
+  "url": "https://www.spigotmc.org/resources/commandexecutor.107076/",
+  "name": "CommandExecutor",
+  "description": "commandexecutor",
+  "authors": [
+    "Kayraegekkkk"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107076.jpg?1672496610",
+  "iconCid": "bafkreicrrb3cjgzzjcvg2yb3tng6hv6kcmzu7a4ovebljytceveh2guwsa",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/commandexecutor.107076/history",
+  "gitUrl": "https://github.com/kayraegek18/CommandExecutor",
+  "releaseDate": 1672492980000,
+  "updateDate": 1672492980000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

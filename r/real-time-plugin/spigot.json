@@ -1,0 +1,32 @@
+{
+  "id": 69545,
+  "url": "https://www.spigotmc.org/resources/real-time-plugin.69545/",
+  "name": "Real Time Plugin",
+  "description": "Set your Minecraft time to your real time",
+  "authors": [
+    "rexlNico"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/69/69545.jpg?1563668643",
+  "iconCid": "bafkreiaob2icyalbqmrse4zwfyjgb7wfeqvhtil75yg6jcqp6xogafgkwu",
+  "numberOfDownloads": 12674,
+  "rating": 4.3,
+  "numberOfVotes": 28,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/real-time-plugin.69545/history",
+  "gitUrl": "https://github.com/rexlNico/RealTimePlugin",
+  "releaseDate": 1563664980000,
+  "updateDate": 1667185860000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

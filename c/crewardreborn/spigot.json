@@ -1,0 +1,23 @@
+{
+  "id": 100822,
+  "url": "https://www.spigotmc.org/resources/creward-reborn-1-8-1-19-3.100822/",
+  "name": "CReward-Reborn [1.8-1.19.3]",
+  "description": "GUI | Multi-Rewards | Permissions | MySQL | Sounds | Hex Color | PlaceholderAPI",
+  "authors": [
+    "SumoBeastCZ"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100822.jpg?1664136057",
+  "iconCid": "bafkreifqkdgvnk25h6uq2zas2lwk35frlogyx2ztaan4iuyxzxlkh73ef4",
+  "numberOfDownloads": 1346,
+  "rating": 5,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/creward-reborn-1-8-1-19-3.100822/history",
+  "gitUrl": "https://github.com/WaterChick/CRewardR",
+  "releaseDate": 1647720000000,
+  "updateDate": 1669998000000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.19"
+  ]
+}

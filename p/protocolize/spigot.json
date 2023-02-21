@@ -1,0 +1,27 @@
+{
+  "id": 63778,
+  "url": "https://www.spigotmc.org/resources/protocolize-protocollib-for-bungeecord-waterfall-velocity.63778/",
+  "name": "Protocolize - ProtocolLib for BungeeCord / Waterfall / Velocity",
+  "description": "ProtocolLib like library for proxy packet manipulation",
+  "authors": [
+    "SimplixSoftworks"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/63/63778.jpg?1600003889",
+  "iconCid": "bafkreie3rg3jetkrkybt67lke32ms6mlfddmau74dos3kd2wlqs2lwof3e",
+  "numberOfDownloads": 14817,
+  "rating": 4.4,
+  "numberOfVotes": 27,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/protocolize-protocollib-for-bungeecord-waterfall-velocity.63778/history",
+  "gitUrl": "https://github.com/Exceptionflug/protocolize",
+  "releaseDate": 1546643820000,
+  "updateDate": 1671540840000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

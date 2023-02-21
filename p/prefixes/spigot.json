@@ -1,0 +1,33 @@
+{
+  "id": 43105,
+  "url": "https://www.spigotmc.org/resources/prefixes-for-party-and-friends.43105/",
+  "name": "Prefixes for Party and Friends",
+  "description": "Adds permission depending prefixes for players in PAF",
+  "authors": [
+    "simonsator"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/43/43105.jpg?1498845202",
+  "iconCid": "bafkreigq4y4jqwhqvret65f2zqpshw4gtl6sasphymklbh6czhbkyq37v4",
+  "numberOfDownloads": 1064,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/prefixes-for-party-and-friends.43105/history",
+  "gitUrl": "https://github.com/Simonsator/ColorPermsForPAF",
+  "releaseDate": 1498841580000,
+  "updateDate": 1662732600000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

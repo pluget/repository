@@ -1,0 +1,19 @@
+{
+  "id": 103231,
+  "url": "https://www.spigotmc.org/resources/worldchat.103231/",
+  "name": "WorldChat",
+  "description": "Separates global chat into multiple chats, separated by worlds & groups",
+  "authors": [
+    "AmonBune"
+  ],
+  "numberOfDownloads": 60,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/worldchat.103231/history",
+  "gitUrl": "https://gitlab.full-stack.ninja/Manu/worldchat",
+  "releaseDate": 1657386900000,
+  "updateDate": 1660400760000,
+  "versions": [
+    "1.19"
+  ]
+}

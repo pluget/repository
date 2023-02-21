@@ -1,0 +1,23 @@
+{
+  "id": 107449,
+  "url": "https://www.spigotmc.org/resources/imperialedicta.107449/",
+  "name": "ImperialEdicta",
+  "description": "Annotation-Based commands manager",
+  "authors": [
+    "EmPee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107449.jpg?1673990127",
+  "iconCid": "bafkreieimohwlajaw4zuqtme6oguzgmcy5qqnif7dkveonmvwez4lolgie",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/imperialedicta.107449/history",
+  "gitUrl": "https://github.com/Mr-EmPee/ImperialEdicta",
+  "releaseDate": 1673986500000,
+  "updateDate": 1673986500000,
+  "versions": [
+    "1.8",
+    "1.16",
+    "1.19"
+  ]
+}

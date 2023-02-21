@@ -1,0 +1,21 @@
+{
+  "id": 106711,
+  "url": "https://www.spigotmc.org/resources/random-survival.106711/",
+  "name": "Random Survival",
+  "description": "A Minecraft plugin where block drops, mob loot, and chest loot are randomized!",
+  "authors": [
+    "weisboys"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106711.jpg?1670905033",
+  "iconCid": "bafkreihc4tmbthrg4bmxdzdfpnqmkakhrl2jzhvsooj2kw77yp6iwowtam",
+  "numberOfDownloads": 48,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/random-survival.106711/history",
+  "gitUrl": "https://github.com/weisboys/Random-Survival/tree/master",
+  "releaseDate": 1670901360000,
+  "updateDate": 1671828720000,
+  "versions": [
+    "1.19"
+  ]
+}

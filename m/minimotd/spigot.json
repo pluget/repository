@@ -1,0 +1,32 @@
+{
+  "id": 81254,
+  "url": "https://www.spigotmc.org/resources/minimotd-server-list-motd-plugin-with-rgb-gradients.81254/",
+  "name": "MiniMOTD - Server List MOTD Plugin with RGB Gradients",
+  "description": "MiniMOTD is a MOTD plugin using MiniMessage for formatting (supports RGB Hex, Gradients, and more!)",
+  "authors": [
+    "jmp"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81254.jpg?1655625195",
+  "iconCid": "bafkreihpxdtykdoftrtgwl6unqskjqctdblh7qgkifr5dgfnqqtpidn4xq",
+  "numberOfDownloads": 34699,
+  "rating": 4.6,
+  "numberOfVotes": 50,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minimotd-server-list-motd-plugin-with-rgb-gradients.81254/history",
+  "gitUrl": "https://github.com/jpenilla/MiniMOTD/",
+  "releaseDate": 1676665980000,
+  "updateDate": 1676665980000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

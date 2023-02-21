@@ -1,0 +1,24 @@
+{
+  "id": 107203,
+  "url": "https://www.spigotmc.org/resources/antiswear.107203/",
+  "name": "AntiSwear+",
+  "description": "Very simple antiswear with REGEX support",
+  "authors": [
+    "tomisanhues2"
+  ],
+  "numberOfDownloads": 19,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antiswear.107203/history",
+  "releaseDate": 1672863840000,
+  "updateDate": 1672863840000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

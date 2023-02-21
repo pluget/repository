@@ -1,0 +1,32 @@
+{
+  "id": 107837,
+  "url": "https://www.spigotmc.org/resources/clunkybungee.107837/",
+  "name": "ClunkyBungee",
+  "description": "A simple plugin which adds a security token to the BungeeCord handshaking protocol.",
+  "authors": [
+    "Djorra4321"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107837.jpg?1675589898",
+  "iconCid": "bafkreibgqb6tltalp4g2f5iwrtweyxlwbmu7j22jycwqafpvruevizmgki",
+  "numberOfDownloads": 22,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/clunkybungee.107837/history",
+  "releaseDate": 1675586220000,
+  "updateDate": 1675586220000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

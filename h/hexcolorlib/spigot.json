@@ -1,0 +1,24 @@
+{
+  "id": 104507,
+  "url": "https://www.spigotmc.org/resources/hexcolorlib.104507/",
+  "name": "HexColorLib",
+  "description": "Simple library for using hex color codes in spigot strings",
+  "authors": [
+    "Prostedeni"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104507.jpg?1660338191",
+  "iconCid": "bafkreidnxt3haiqc2q4wqlettihliqqof3hysvwqfwiimhwsscmc6ujyuu",
+  "numberOfDownloads": 177,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hexcolorlib.104507/history",
+  "gitUrl": "https://github.com/justADeni/HexColorLib",
+  "releaseDate": 1660334100000,
+  "updateDate": 1660597260000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

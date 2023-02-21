@@ -1,0 +1,32 @@
+{
+  "id": 101752,
+  "url": "https://www.spigotmc.org/resources/easycommandblocker-spigot-waterfall-velocity-1-8-1-19.101752/",
+  "name": "EasyCommandBlocker | Spigot, Waterfall & Velocity | [1.8-1.19]",
+  "description": "Prevent the use of unwanted commands and hide them from tab completion (the infamous /<tab>).",
+  "authors": [
+    "Ajneb97"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101752.jpg?1651344748",
+  "iconCid": "bafkreifie5dxqih2i7zoeyoggykju5cl3lwx6epgkrmizi5kgi6ls6k7zq",
+  "numberOfDownloads": 6724,
+  "rating": 4.9,
+  "numberOfVotes": 43,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/easycommandblocker-spigot-waterfall-velocity-1-8-1-19.101752/history",
+  "gitUrl": "https://github.com/Ajneb97/EasyCommandBlocker",
+  "releaseDate": 1651341120000,
+  "updateDate": 1658341020000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

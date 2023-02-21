@@ -1,0 +1,29 @@
+{
+  "id": 77606,
+  "url": "https://www.spigotmc.org/resources/minigame-tnt-tag.77606/",
+  "name": "[Minigame] Tnt Tag",
+  "description": "Tag minigame",
+  "authors": [
+    "Justinian6"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/77/77606.jpg?1587273535",
+  "iconCid": "bafkreibiadvck6jcloiiu2kgarv37pevulcwa66rxfe3ubgeszupobxx2a",
+  "numberOfDownloads": 8164,
+  "rating": 3.9,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minigame-tnt-tag.77606/history",
+  "gitUrl": "https://www.justinian6.com/source/projects/TNT/repos/tnt-tag/browse",
+  "releaseDate": 1587269880000,
+  "updateDate": 1659295860000,
+  "versions": [
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 63007,
+  "url": "https://www.spigotmc.org/resources/antipluginlookup.63007/",
+  "name": "AntiPluginLookUp",
+  "description": "A plugin that hides your plugins. Ein Plugins, das deine Plugins versteckt",
+  "authors": [
+    "realEntity303"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/63/63007.jpg?1671383541",
+  "iconCid": "bafkreigaixfqhqfmh7xeznnoiyiqouel7zdm2h7sedhel3ana4nmbzzbti",
+  "numberOfDownloads": 6148,
+  "rating": 4.3,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antipluginlookup.63007/history",
+  "releaseDate": 1544211060000,
+  "updateDate": 1664460780000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

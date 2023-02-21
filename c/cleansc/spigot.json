@@ -1,0 +1,33 @@
+{
+  "id": 105220,
+  "url": "https://www.spigotmc.org/resources/%E2%9C%A8-cleansc-%E2%80%A2-best-staffchat-plugin-spigot-bungeecord-velocity-and-redisbungee-support.105220/",
+  "name": "✨ CleanSC • Best StaffChat plugin (Spigot, BungeeCord, Velocity and RedisBungee support)",
+  "description": "Clean StaffChat is a basic StaffChat plugin, compatible with BungeeCord, Spigot and Velocity.",
+  "authors": [
+    "frafol"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105220.jpg?1668333002",
+  "iconCid": "bafkreigfuv7svh27iy56hhfhd2wzvgtjyjokcjh7uqfw7c5hdfdbuxrm2i",
+  "numberOfDownloads": 900,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9C%A8-cleansc-%E2%80%A2-best-staffchat-plugin-spigot-bungeecord-velocity-and-redisbungee-support.105220/history",
+  "gitUrl": "https://github.com/frafol/CleanStaffChat/",
+  "releaseDate": 1676725680000,
+  "updateDate": 1676725680000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

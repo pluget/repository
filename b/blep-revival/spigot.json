@@ -1,0 +1,25 @@
+{
+  "id": 79414,
+  "url": "https://www.spigotmc.org/resources/blep-revival.79414/",
+  "name": "Blep Revival",
+  "description": "Provides a new way to bring an ally back to life while playing hardcore mode!",
+  "authors": [
+    "Kunfury"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79414.jpg?1590709811",
+  "iconCid": "bafkreicjkmdmwwuwexevgfizpasayymmgcneezljtit2cgy4ibsy6fx4mm",
+  "numberOfDownloads": 2596,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blep-revival.79414/history",
+  "gitUrl": "https://github.com/Kunfury-blep/Blep-Revival/releases",
+  "releaseDate": 1590706080000,
+  "updateDate": 1657715280000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 107197,
+  "url": "https://www.spigotmc.org/resources/discord-server-status.107197/",
+  "name": "Discord Server Status",
+  "description": "Sends discord webhook messages when the server starts and stops",
+  "authors": [
+    "Gampis"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107197.jpg?1672862519",
+  "iconCid": "bafkreiamth6ob7vxmq6sappi6pn3zfsswnhnvduifbhbcdozkelrucsr5y",
+  "numberOfDownloads": 95,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discord-server-status.107197/history",
+  "releaseDate": 1672856400000,
+  "updateDate": 1673119560000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 104833,
+  "url": "https://www.spigotmc.org/resources/rootadministration.104833/",
+  "name": "RootAdministration",
+  "description": "Centralized handling of language, SpigotServername and multiple MySQL data through InterfaceHub.",
+  "authors": [
+    "Avankziar"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104833.jpg?1661492336",
+  "iconCid": "bafkreiegaefib72epn6qs5c7y7fo3gjw3clcoefjo7wvsjc4hzgwkjykca",
+  "numberOfDownloads": 38,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rootadministration.104833/history",
+  "gitUrl": "https://github.com/Avankziar/RootAdministration",
+  "releaseDate": 1676730960000,
+  "updateDate": 1676730960000,
+  "versions": [
+    "1.19"
+  ]
+}

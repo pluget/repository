@@ -1,0 +1,33 @@
+{
+  "id": 32978,
+  "url": "https://www.spigotmc.org/resources/max-friends-for-party-and-friends.32978/",
+  "name": "Max Friends for Party and Friends",
+  "description": "Adds the possibility to set a maximum amount of friends",
+  "authors": [
+    "simonsator"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/32/32978.jpg?1497975890",
+  "iconCid": "bafkreigq4y4jqwhqvret65f2zqpshw4gtl6sasphymklbh6czhbkyq37v4",
+  "numberOfDownloads": 1857,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/max-friends-for-party-and-friends.32978/history",
+  "gitUrl": "https://github.com/Simonsator/MaxFriends",
+  "releaseDate": 1481307840000,
+  "updateDate": 1661262480000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

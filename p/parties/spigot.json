@@ -1,0 +1,32 @@
+{
+  "id": 3709,
+  "url": "https://www.spigotmc.org/resources/parties-an-advanced-parties-manager.3709/",
+  "name": "Parties - An advanced parties manager",
+  "description": "Parties is an advanced parties manager for your Bukkit/Spigot, BungeeCord and Velocity",
+  "authors": [
+    "AlessioDP"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/3/3709.jpg?1572007041",
+  "iconCid": "bafkreigl37n4t6awgdr2kbxmgbvy4h4xwf6iunfhkauhct35lrajutd5uu",
+  "numberOfDownloads": 58216,
+  "rating": 4.9,
+  "numberOfVotes": 148,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/parties-an-advanced-parties-manager.3709/history",
+  "gitUrl": "https://github.com/AlessioDP/Parties",
+  "releaseDate": 1422994800000,
+  "updateDate": 1673024940000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

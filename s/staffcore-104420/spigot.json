@@ -1,0 +1,29 @@
+{
+  "id": 104420,
+  "url": "https://www.spigotmc.org/resources/staff-core.104420/",
+  "name": "Staff-Core",
+  "description": "A maintained version of the Staff-Core plugin by barrar3port.",
+  "authors": [
+    "JordanPlayz158"
+  ],
+  "numberOfDownloads": 27,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/staff-core.104420/history",
+  "gitUrl": "https://github.com/JordanPlayz158/StaffCore",
+  "releaseDate": 1660100400000,
+  "updateDate": 1660101480000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

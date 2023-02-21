@@ -1,0 +1,23 @@
+{
+  "id": 93926,
+  "url": "https://www.spigotmc.org/resources/customitems.93926/",
+  "name": "CustomItems",
+  "description": "The goal of this project, give developer easy tools for creation CustomItems and control them.",
+  "authors": [
+    "BigTows"
+  ],
+  "numberOfDownloads": 62,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/customitems.93926/history",
+  "gitUrl": "https://github.com/ZendalMinecraft/CustomItems",
+  "releaseDate": 1625478900000,
+  "updateDate": 1671042000000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

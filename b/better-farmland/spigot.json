@@ -1,0 +1,24 @@
+{
+  "id": 103677,
+  "url": "https://www.spigotmc.org/resources/better-farmland.103677/",
+  "name": "Better Farmland",
+  "description": "Meant to improve your experience with your farmland",
+  "authors": [
+    "RafaDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103677.jpg?1658739930",
+  "iconCid": "bafkreicxwd2c4356esixysomyq3ut2twymxpmrmxpcf7rqcykbvdu6i2ee",
+  "numberOfDownloads": 116,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/better-farmland.103677/history",
+  "gitUrl": "https://github.com/HttpRafa/BetterFarmland",
+  "releaseDate": 1658736300000,
+  "updateDate": 1660619940000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

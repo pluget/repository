@@ -1,0 +1,21 @@
+{
+  "id": 106391,
+  "url": "https://www.spigotmc.org/resources/hideentityowners.106391/",
+  "name": "HideEntityOwners",
+  "description": "Hides the entity owner from other players",
+  "authors": [
+    "Machine_Maker"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106391.jpg?1669166419",
+  "iconCid": "bafkreid3apilhq3lxldgi6bvhz3ukjwxxnbr4ix45tfezwe2uo3us553rq",
+  "numberOfDownloads": 14,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hideentityowners.106391/history",
+  "gitUrl": "https://github.com/Machine-Maker/HideEntityOwners",
+  "releaseDate": 1669162800000,
+  "updateDate": 1669162800000,
+  "versions": [
+    "1.19"
+  ]
+}

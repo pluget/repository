@@ -1,0 +1,20 @@
+{
+  "id": 93523,
+  "url": "https://www.spigotmc.org/resources/skillslibrary.93523/",
+  "name": "SkillsLibrary",
+  "description": "The skills library required for many of Xemor's plugins to function",
+  "authors": [
+    "Xemor"
+  ],
+  "numberOfDownloads": 149,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skillslibrary.93523/history",
+  "gitUrl": "https://github.com/Xemorr/SkillsLibrary",
+  "releaseDate": 1624312920000,
+  "updateDate": 1672504800000,
+  "versions": [
+    "1.16",
+    "1.17"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 36641,
+  "url": "https://www.spigotmc.org/resources/playerlistgui.36641/",
+  "name": "PlayerListGUI",
+  "description": "A GUI player list.",
+  "authors": [
+    "Dnyce72799"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/36/36641.jpg?1487737688",
+  "iconCid": "bafkreihkzp4jwq5w544d7fhqk5c4gnh2px5w4uvrmsdlva7gk7vzfsnfle",
+  "numberOfDownloads": 619,
+  "rating": 4.8,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playerlistgui.36641/history",
+  "gitUrl": "https://github.com/SavageAvocado/PlayerListGUI",
+  "releaseDate": 1487547840000,
+  "updateDate": 1657480020000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

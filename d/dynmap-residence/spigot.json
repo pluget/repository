@@ -1,0 +1,23 @@
+{
+  "id": 90206,
+  "url": "https://www.spigotmc.org/resources/dynmap-residence.90206/",
+  "name": "DynMap Residence",
+  "description": "Display residences on a dynmap with all flags",
+  "authors": [
+    "CZMixer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90206.jpg?1626895628",
+  "iconCid": "bafkreie33xfanzwsl3jgaw6whvcnjz35ptdupukoztvqccszluvn4aanv4",
+  "numberOfDownloads": 1932,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dynmap-residence.90206/history",
+  "releaseDate": 1615906200000,
+  "updateDate": 1672858260000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

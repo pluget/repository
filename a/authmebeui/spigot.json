@@ -1,0 +1,22 @@
+{
+  "id": 104419,
+  "url": "https://www.spigotmc.org/resources/authmebeui.104419/",
+  "name": "AuthMeBEUI",
+  "description": "Added AuthMe UI for Bedrock Edition players",
+  "authors": [
+    "Fang_Zhijian"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104419.jpg?1660098810",
+  "iconCid": "bafkreidiyol75egc5y6ltc3lo4gzye62ylsn4d75z34as2dusgc6wz2ddm",
+  "numberOfDownloads": 210,
+  "rating": 2.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/authmebeui.104419/history",
+  "gitUrl": "https://github.com/klxf/AuthMeBEUI",
+  "releaseDate": 1660095180000,
+  "updateDate": 1662203640000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

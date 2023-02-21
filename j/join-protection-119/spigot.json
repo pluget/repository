@@ -1,0 +1,28 @@
+{
+  "id": 105471,
+  "url": "https://www.spigotmc.org/resources/join-protection-1-19.105471/",
+  "name": "Join Protection 1.19",
+  "description": "Plugin that protects players from damage while loading and waiting for connection to stabilise.",
+  "authors": [
+    "mcksen"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105471.jpg?1664179239",
+  "iconCid": "bafkreicjsc73gaylxuxpxpw4v5x7uwxlvwxrkgbg65jm5mpkruswqw2wbi",
+  "numberOfDownloads": 99,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/join-protection-1-19.105471/history",
+  "gitUrl": "https://github.com/mcsken/join-protection",
+  "releaseDate": 1664175600000,
+  "updateDate": 1664175600000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

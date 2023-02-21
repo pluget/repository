@@ -1,0 +1,23 @@
+{
+  "id": 85645,
+  "url": "https://www.spigotmc.org/resources/manhunt.85645/",
+  "name": "Manhunt",
+  "description": "Manhunt, a hunter(s) has to kill a speedrunner(s) before he/she/it kills the ender dragon.",
+  "authors": [
+    "Optivat"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85645.jpg?1605048000",
+  "iconCid": "bafkreig6yfrs5zen45pbz5tpr2bpmnxeqwhtalqtxwzibsfwsanfqllpym",
+  "numberOfDownloads": 57837,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/manhunt.85645/history",
+  "releaseDate": 1604966760000,
+  "updateDate": 1660508520000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

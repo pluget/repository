@@ -1,0 +1,24 @@
+{
+  "id": 105890,
+  "url": "https://www.spigotmc.org/resources/instantwarp-mysql-or-config-yml-or-both-discord-support.105890/",
+  "name": "InstantWarp | MySQL or Config.yml or both! | Discord Support",
+  "description": "This is a warp system completely adjustable with MySQL or Config or both!",
+  "authors": [
+    "T0myy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105890.jpg?1666544361",
+  "iconCid": "bafkreibsjsd5k55pxxixexzuqntwewyq3rcvfoqwl2gec5grc3hrvx2up4",
+  "numberOfDownloads": 37,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/instantwarp-mysql-or-config-yml-or-both-discord-support.105890/history",
+  "gitUrl": "https://github.com/T0myyde/StarvalWarpsSystem",
+  "releaseDate": 1666540560000,
+  "updateDate": 1666540560000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 75285,
+  "url": "https://www.spigotmc.org/resources/minimalist-no-spectator-speeding-after-chunk-gen.75285/",
+  "name": "[Minimalist] No Spectator Speeding (after chunk-gen)",
+  "description": "Limits spectator speed for 30s whenever new chunks have just been generated",
+  "authors": [
+    "c-eAgle"
+  ],
+  "numberOfDownloads": 268,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minimalist-no-spectator-speeding-after-chunk-gen.75285/history",
+  "releaseDate": 1581969240000,
+  "updateDate": 1658754600000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

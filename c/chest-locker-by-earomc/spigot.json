@@ -1,0 +1,22 @@
+{
+  "id": 73805,
+  "url": "https://www.spigotmc.org/resources/chest-locker-by-earomc.73805/",
+  "name": "Chest Locker by earomc",
+  "description": "A dead simple and light-weight plugin to lock your chests, barrels, droppers, furnaces and more!",
+  "authors": [
+    "kraken22"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/73/73805.jpg?1577483070",
+  "iconCid": "bafkreideyzphglnfaskewdooisq66utemtiuh6asmlorrvzwkzcnohweqm",
+  "numberOfDownloads": 11108,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chest-locker-by-earomc.73805/history",
+  "gitUrl": "https://github.com/earomc/chestlocker",
+  "releaseDate": 1577479440000,
+  "updateDate": 1658451360000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

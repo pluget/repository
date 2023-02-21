@@ -1,0 +1,26 @@
+{
+  "id": 84950,
+  "url": "https://www.spigotmc.org/resources/fartherviewdistance.84950/",
+  "name": "FartherViewDistance",
+  "description": "Let the server view distance 15+ max 127 | Async | Multithread",
+  "authors": [
+    "XUAN_Cat"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84950.jpg?1624444985",
+  "iconCid": "bafkreif2yytjmtvlqjm2m7yosykgtjp2oqdwqz7t2fcclxojpqw6mbatgi",
+  "numberOfDownloads": 13078,
+  "rating": 4.9,
+  "numberOfVotes": 36,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fartherviewdistance.84950/history",
+  "gitUrl": "https://github.com/SpigotPlugins-xuancat0208/FartherViewDistance",
+  "releaseDate": 1603078980000,
+  "updateDate": 1670870520000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

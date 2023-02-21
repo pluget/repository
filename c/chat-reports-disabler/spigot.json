@@ -1,0 +1,21 @@
+{
+  "id": 103927,
+  "url": "https://www.spigotmc.org/resources/chat-reports-disabler.103927/",
+  "name": "Chat Reports Disabler",
+  "description": "This plugin disables the abillity to chat report someone.",
+  "authors": [
+    "BananaPekan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103927.jpg?1659332353",
+  "iconCid": "bafkreih45gacjpaflu6hddcjyi3hsplhoyb5ijyz5o3k2dhhis3icoapvm",
+  "numberOfDownloads": 202,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chat-reports-disabler.103927/history",
+  "gitUrl": "https://github.com/BananaPekan/ChatReportDisabler",
+  "releaseDate": 1659328740000,
+  "updateDate": 1659328740000,
+  "versions": [
+    "1.19"
+  ]
+}

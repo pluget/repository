@@ -1,0 +1,23 @@
+{
+  "id": 98255,
+  "url": "https://www.spigotmc.org/resources/pyrolib.98255/",
+  "name": "PyroLib",
+  "description": "Library used for all my Pyro Series of plugins.",
+  "authors": [
+    "PyroTempus"
+  ],
+  "numberOfDownloads": 2224,
+  "rating": 3.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pyrolib.98255/history",
+  "releaseDate": 1639149660000,
+  "updateDate": 1671553800000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

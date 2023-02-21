@@ -1,0 +1,24 @@
+{
+  "id": 99397,
+  "url": "https://www.spigotmc.org/resources/prism.99397/",
+  "name": "Prism",
+  "description": "Change tracking and rollback/restore tools.",
+  "authors": [
+    "viveleroi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99397.jpg?1642883193",
+  "iconCid": "bafkreigghzprh4swkdl4ytv6gia6xlgrft3hevttbfglrxdtwli2yui2le",
+  "numberOfDownloads": 1574,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/prism.99397/history",
+  "gitUrl": "https://github.com/darkhelmet-gaming/PrismRefracted",
+  "releaseDate": 1642799580000,
+  "updateDate": 1663162020000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

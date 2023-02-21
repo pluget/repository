@@ -1,0 +1,21 @@
+{
+  "id": 107829,
+  "url": "https://www.spigotmc.org/resources/townywild.107829/",
+  "name": "TownyWild",
+  "description": "TownyWild provides timed wilderness protection when exiting a town for the Towny plugin.",
+  "authors": [
+    "Agaloth"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107829.jpg?1675540497",
+  "iconCid": "bafkreiaagnq5dwl67rkbg2kksmavduscsan5huy7ew4u36in2rk7svyf7i",
+  "numberOfDownloads": 95,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/townywild.107829/history",
+  "gitUrl": "https://github.com/Agaloth/TownyWild",
+  "releaseDate": 1676757780000,
+  "updateDate": 1676757780000,
+  "versions": [
+    "1.19"
+  ]
+}

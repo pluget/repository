@@ -1,0 +1,28 @@
+{
+  "id": 64921,
+  "url": "https://www.spigotmc.org/resources/globalmarketchest-gui-shop-plugin.64921/",
+  "name": "GlobalMarketChest - GUI Shop Plugin",
+  "description": "GUI shop plugin that allows to easily create global shops to sell and buy auctions",
+  "authors": [
+    "EpiCanard"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/64/64921.jpg?1550354659",
+  "iconCid": "bafkreieprwlk7qhggu66g7m3d46vzkjuuotl27f3kgxvq2bqsqar4ocqga",
+  "numberOfDownloads": 14762,
+  "rating": 4.9,
+  "numberOfVotes": 28,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/globalmarketchest-gui-shop-plugin.64921/history",
+  "gitUrl": "https://github.com/EpiCanard/GlobalMarketChest",
+  "releaseDate": 1550351040000,
+  "updateDate": 1671400440000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

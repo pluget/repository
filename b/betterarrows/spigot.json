@@ -1,0 +1,22 @@
+{
+  "id": 104788,
+  "url": "https://www.spigotmc.org/resources/betterarrows.104788/",
+  "name": "BetterArrows",
+  "description": "This plugin for Minecraft makes fire arrows really fire and adds some other features",
+  "authors": [
+    "D_C"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104788.jpg?1661322128",
+  "iconCid": "bafkreicqf7shvqmnncvw2md4ta5pse5yzsds7zpigt25cci2dlethvv7q4",
+  "numberOfDownloads": 50,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterarrows.104788/history",
+  "gitUrl": "https://github.com/Mrflaxe/BetterArrows",
+  "releaseDate": 1661318460000,
+  "updateDate": 1661748900000,
+  "versions": [
+    "1.16",
+    "1.17"
+  ]
+}

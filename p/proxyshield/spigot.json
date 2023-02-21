@@ -1,0 +1,21 @@
+{
+  "id": 107431,
+  "url": "https://www.spigotmc.org/resources/proxyshield.107431/",
+  "name": "ProxyShield",
+  "description": "This plugin utilizes advanced IP detection techniques to determine whether a player is using a proxy",
+  "authors": [
+    "hungaz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107431.jpg?1673947515",
+  "iconCid": "bafkreialtuur4crvtop3p4y26etmnxbwzq4glbdxqprmwkluavtxp3rza4",
+  "numberOfDownloads": 43,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/proxyshield.107431/history",
+  "gitUrl": "https://github.com/hungnguyennaz/ProxyShield/",
+  "releaseDate": 1673943900000,
+  "updateDate": 1673977500000,
+  "versions": [
+    "1.19"
+  ]
+}

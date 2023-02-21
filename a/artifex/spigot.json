@@ -1,0 +1,32 @@
+{
+  "id": 101858,
+  "url": "https://www.spigotmc.org/resources/artifex.101858/",
+  "name": "Artifex",
+  "description": "Level-up Bukkit coding",
+  "authors": [
+    "Govno111"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101858.jpg?1651864029",
+  "iconCid": "bafkreib23luaeqtfjx3jd3y2rquu6e725y2ryhrrfvmvmt3vhwa3dggewy",
+  "numberOfDownloads": 174,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/artifex.101858/history",
+  "gitUrl": "https://github.com/ancap-dev/AncapFramework",
+  "releaseDate": 1676698200000,
+  "updateDate": 1676698200000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

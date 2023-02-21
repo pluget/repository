@@ -1,0 +1,27 @@
+{
+  "id": 102743,
+  "url": "https://www.spigotmc.org/resources/tictactoe.102743/",
+  "name": "TicTacToe",
+  "description": "Adds a multiplayer TicTacToe",
+  "authors": [
+    "IBM_ESP"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102743.jpg?1655644131",
+  "iconCid": "bafkreiexkjxgzf3cutgvnkynruggxtmzvs2abqz77b47kbnppqosad5bby",
+  "numberOfDownloads": 139,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tictactoe.102743/history",
+  "gitUrl": "https://github.com/IBMESP/TicTacToe",
+  "releaseDate": 1655640420000,
+  "updateDate": 1659917340000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

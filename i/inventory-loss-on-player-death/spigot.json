@@ -1,0 +1,32 @@
+{
+  "id": 103903,
+  "url": "https://www.spigotmc.org/resources/inventory-loss-on-player-death.103903/",
+  "name": "Inventory Loss On Player Death",
+  "description": "Inventory loss when another player kills you, but not by natiural death.",
+  "authors": [
+    "pokerer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103903.jpg?1659287885",
+  "iconCid": "bafkreigetl2fioqprpvbzae424ez6jhxhjqtcx5l4o6jmrcxgqqaupbi5m",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/inventory-loss-on-player-death.103903/history",
+  "gitUrl": "https://github.com/poke5352/LoseInventoryOnPlayerDeath",
+  "releaseDate": 1659284160000,
+  "updateDate": 1659284160000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

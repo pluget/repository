@@ -1,0 +1,32 @@
+{
+  "id": 84749,
+  "url": "https://www.spigotmc.org/resources/t-explosivesheep.84749/",
+  "name": "T-ExplosiveSheep",
+  "description": "Explosive Sheep",
+  "authors": [
+    "TimS12"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84749.jpg?1622201388",
+  "iconCid": "bafkreiec5qqgqegqgawd6cm2772oiyhw7finupvkihbczq46w4miy6n6tu",
+  "numberOfDownloads": 290,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/t-explosivesheep.84749/history",
+  "gitUrl": "https://github.com/timsixth/T-ExplosiveSheep",
+  "releaseDate": 1602604440000,
+  "updateDate": 1675956900000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

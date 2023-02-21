@@ -1,0 +1,22 @@
+{
+  "id": 106447,
+  "url": "https://www.spigotmc.org/resources/synx.106447/",
+  "name": "Synx",
+  "description": "⚡⚡ Server Optimization - Optimize your MC server for a Better Experience ⚡⚡",
+  "authors": [
+    "Titeiikko"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106447.jpg?1669493098",
+  "iconCid": "bafkreiby6m25wectf5qrq36xfk4jzw4kdxnebof277duf2b3mk5q7vnsxy",
+  "numberOfDownloads": 85,
+  "rating": 3.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/synx.106447/history",
+  "gitUrl": "https://github.com/JewishLewish/synxacceleration",
+  "releaseDate": 1669489320000,
+  "updateDate": 1669917780000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

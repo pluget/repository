@@ -1,0 +1,27 @@
+{
+  "id": 108040,
+  "url": "https://www.spigotmc.org/resources/chunkentitylimiter-1-13-limit-entities-and-dropped-items-per-chunk.108040/",
+  "name": "ChunkEntityLimiter [1.13+] Limit entities and Dropped items per chunk.",
+  "description": "Limit entities and Dropped items per chunk.",
+  "authors": [
+    "zLowyG"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108040.jpg?1676571906",
+  "iconCid": "bafkreiedbnwrvvk2hmmxvpv4edama7nbbza4kwmzaxr6u53ztkvvrmsbnq",
+  "numberOfDownloads": 53,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chunkentitylimiter-1-13-limit-entities-and-dropped-items-per-chunk.108040/history",
+  "gitUrl": "https://github.com/PonnyTheLight/ChunkEntityLimiter",
+  "releaseDate": 1676766960000,
+  "updateDate": 1676766960000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

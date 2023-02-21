@@ -1,0 +1,21 @@
+{
+  "id": 98709,
+  "url": "https://www.spigotmc.org/resources/skywars.98709/",
+  "name": "Skywars",
+  "description": "A cool Minecraft Skywars plugin",
+  "authors": [
+    "BrunoRM"
+  ],
+  "numberOfDownloads": 572,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skywars.98709/history",
+  "gitUrl": "https://github.com/TheBrunoRM/Skywars",
+  "releaseDate": 1640588340000,
+  "updateDate": 1659248880000,
+  "versions": [
+    "1.8",
+    "1.13",
+    "1.19"
+  ]
+}

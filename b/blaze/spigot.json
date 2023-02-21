@@ -1,0 +1,26 @@
+{
+  "id": 101278,
+  "url": "https://www.spigotmc.org/resources/blaze-play-audio-in-minecraft.101278/",
+  "name": "Blaze | Play audio in minecraft",
+  "description": "Play audio to your players in minecraft.",
+  "authors": [
+    "Mr_Equalizer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101278.jpg?1649599553",
+  "iconCid": "bafkreibef7o4c4e4yr7ah7jf6373xi2imysspb2pghqzd6v2p5r7ienbsm",
+  "numberOfDownloads": 69,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blaze-play-audio-in-minecraft.101278/history",
+  "releaseDate": 1649595480000,
+  "updateDate": 1666541520000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 100000,
+  "url": "https://www.spigotmc.org/resources/dynamicpvparena.100000/",
+  "name": "DynamicPVPArena",
+  "description": "Fun way to make dynamic pvp arenas!",
+  "authors": [
+    "kacperleague9"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100000.jpg?1644873089",
+  "iconCid": "bafkreih5qj5wkfqmt4ismkh4itvm3v7yfpcgfzdbycq3v4mujgre5k6caa",
+  "numberOfDownloads": 200,
+  "rating": 3.8,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dynamicpvparena.100000/history",
+  "gitUrl": "https://github.com/KaspianDev/DynamicPvpArena",
+  "releaseDate": 1644844260000,
+  "updateDate": 1657811040000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

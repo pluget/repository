@@ -1,0 +1,23 @@
+{
+  "id": 97079,
+  "url": "https://www.spigotmc.org/resources/undeadpandemic-papi-expansion.97079/",
+  "name": "UndeadPandemic PAPI Expansion",
+  "description": "UndeadPandemic, PAPI",
+  "authors": [
+    "SteveZR963"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97079.jpg?1635091864",
+  "iconCid": "bafkreiagsncc3ns66vo2tcipioeag66sarn4adwkkzxdl245uycxtkbfnm",
+  "numberOfDownloads": 155,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/undeadpandemic-papi-expansion.97079/history",
+  "gitUrl": "https://github.com/GamerMedic/UndeadPandemic/blob/main/Expansion-UndeadPandemic_v1.3.jar",
+  "releaseDate": 1635088200000,
+  "updateDate": 1660512360000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

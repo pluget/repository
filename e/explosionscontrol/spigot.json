@@ -1,0 +1,23 @@
+{
+  "id": 105445,
+  "url": "https://www.spigotmc.org/resources/explosionscontrol-1-17-1-1-19-2.105445/",
+  "name": "ExplosionsControl [1.17.1 - 1.19.2]",
+  "description": "Control server explosions! Configurations are separate for each world, custom worlds supported!",
+  "authors": [
+    "ItziSpyder"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105445.jpg?1667165495",
+  "iconCid": "bafkreiexql7i4pk4ahjs7awfpz4cw5d4stbp5vlktfqfxhqp3ostvjcxwa",
+  "numberOfDownloads": 94,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/explosionscontrol-1-17-1-1-19-2.105445/history",
+  "gitUrl": "https://github.com/ItziSpyder/ExplosionsControl",
+  "releaseDate": 1664065500000,
+  "updateDate": 1673817420000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

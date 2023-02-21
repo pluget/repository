@@ -1,0 +1,32 @@
+{
+  "id": 94879,
+  "url": "https://www.spigotmc.org/resources/bed-fixer.94879/",
+  "name": "Bed Fixer",
+  "description": "A simple Anti-Bed-Drop Plugin",
+  "authors": [
+    "Mattia927292"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94879.jpg?1663333132",
+  "iconCid": "bafkreicozrmq5fi6narz2njmtapedno4csicitmvqgdh22lv47gdb7su4y",
+  "numberOfDownloads": 252,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bed-fixer.94879/history",
+  "gitUrl": "https://github.com/MattiOfHell/BedFixer",
+  "releaseDate": 1627824480000,
+  "updateDate": 1663334220000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

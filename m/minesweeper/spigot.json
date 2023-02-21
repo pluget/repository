@@ -1,0 +1,23 @@
+{
+  "id": 101118,
+  "url": "https://www.spigotmc.org/resources/minesweeper-play-minesweeper-in-minecraft.101118/",
+  "name": "MineSweeper || Play Minesweeper in Minecraft",
+  "description": "This plugin allows you to play Minesweeper in Minecraft.",
+  "authors": [
+    "TeddyBear_2004"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101118.jpg?1648908876",
+  "iconCid": "bafkreidf5q3kcregl5sagmxgcd54j6xlnixsdvsdxy27scsuhocmg3koma",
+  "numberOfDownloads": 65,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minesweeper-play-minesweeper-in-minecraft.101118/history",
+  "gitUrl": "https://github.com/TeddyBear2004/Minesweeper",
+  "releaseDate": 1676658960000,
+  "updateDate": 1676658960000,
+  "versions": [
+    "1.16",
+    "1.18",
+    "1.19"
+  ]
+}

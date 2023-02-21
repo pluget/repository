@@ -1,0 +1,26 @@
+{
+  "id": 50469,
+  "url": "https://www.spigotmc.org/resources/betterfood.50469/",
+  "name": "BetterFood",
+  "description": "Automatically eat food from inventory!",
+  "authors": [
+    "MagmaGuy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/50/50469.jpg?1654586129",
+  "iconCid": "bafkreiadh6kynyrr2gue5idjzf4fir43ojt6qimoo5runzzlaopxjk3rjq",
+  "numberOfDownloads": 1289,
+  "rating": 4.2,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterfood.50469/history",
+  "gitUrl": "https://github.com/MagmaGuy/BetterFood",
+  "releaseDate": 1512718200000,
+  "updateDate": 1660971720000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

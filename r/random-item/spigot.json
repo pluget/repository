@@ -1,0 +1,21 @@
+{
+  "id": 107366,
+  "url": "https://www.spigotmc.org/resources/random-item.107366/",
+  "name": "Random Item",
+  "description": "You receive a random item every X seconds",
+  "authors": [
+    "Veroxar"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107366.jpg?1673610034",
+  "iconCid": "bafkreifroifygrtctnhqv6aqqzbgksllwpjdqh7s3pfl3jyojhekdvnu5m",
+  "numberOfDownloads": 79,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/random-item.107366/history",
+  "gitUrl": "https://github.com/VeroxarYT/RandomItem",
+  "releaseDate": 1673606040000,
+  "updateDate": 1673717520000,
+  "versions": [
+    "1.19"
+  ]
+}

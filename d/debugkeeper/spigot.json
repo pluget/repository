@@ -1,0 +1,20 @@
+{
+  "id": 104454,
+  "url": "https://www.spigotmc.org/resources/debugkeeper.104454/",
+  "name": "DebugKeeper",
+  "description": "Keep client and server connected while debugging.",
+  "authors": [
+    "Baioretto"
+  ],
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/debugkeeper.104454/history",
+  "gitUrl": "https://github.com/Ba1oretto/DebugKeeper",
+  "releaseDate": 1660209780000,
+  "updateDate": 1660209780000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

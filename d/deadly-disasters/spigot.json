@@ -1,0 +1,26 @@
+{
+  "id": 90806,
+  "url": "https://www.spigotmc.org/resources/deadly-disasters.90806/",
+  "name": "Deadly Disasters",
+  "description": "Adds naturally occurring disasters to your server.",
+  "authors": [
+    "JewishBanana"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90806.jpg?1632876490",
+  "iconCid": "bafkreidu73ca6agm2l4uvtbx4g2zo3hwyzkow6taoev5yzi2xx4ydmhtru",
+  "numberOfDownloads": 18115,
+  "rating": 4.9,
+  "numberOfVotes": 32,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/deadly-disasters.90806/history",
+  "gitUrl": "https://github.com/davidclue/DeadlyDisasters",
+  "releaseDate": 1676613240000,
+  "updateDate": 1676613240000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

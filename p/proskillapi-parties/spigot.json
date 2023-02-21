@@ -1,0 +1,24 @@
+{
+  "id": 96932,
+  "url": "https://www.spigotmc.org/resources/proskillapi-parties.96932/",
+  "name": "Proskillapi Parties",
+  "description": "Addon plugin for Proskillapi for making parties",
+  "authors": [
+    "goflish"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96932.jpg?1634510198",
+  "iconCid": "bafkreidm4fvh6wc55zw2hznvuikxrklna2umlbual6egjrsmedgufwtkba",
+  "numberOfDownloads": 826,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/proskillapi-parties.96932/history",
+  "gitUrl": "https://github.com/promcteam/proskillapiparties",
+  "releaseDate": 1634506560000,
+  "updateDate": 1672787340000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

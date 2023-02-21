@@ -1,0 +1,24 @@
+{
+  "id": 106713,
+  "url": "https://www.spigotmc.org/resources/chestshopicon-remake-based-on-trhologram.106713/",
+  "name": "ChestShopICON Remake - Based on TrHologram",
+  "description": "Just like QuickShop, there will be floating items above chest to indicate what is selling.",
+  "authors": [
+    "tucaofeng"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106713.jpg?1670910318",
+  "iconCid": "bafkreihesmitgeyxbzkqizsayva5ykz74wcz2s64tlfkzetpolgsvuwgcq",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chestshopicon-remake-based-on-trhologram.106713/history",
+  "gitUrl": "https://github.com/TUCAOEVER/ChestShopICON",
+  "releaseDate": 1670906700000,
+  "updateDate": 1670906700000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

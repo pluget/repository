@@ -1,0 +1,33 @@
+{
+  "id": 107097,
+  "url": "https://www.spigotmc.org/resources/proxypreservechat.107097/",
+  "name": "ProxyPreserveChat",
+  "description": "Preserve chat for players joining a BungeeCord network.",
+  "authors": [
+    "Ranull"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107097.jpg?1672583807",
+  "iconCid": "bafkreif5z7yaxwd3zncu2h2skf54qw72r24vckzgw5tsw43wdxqxaj3sam",
+  "numberOfDownloads": 52,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/proxypreservechat.107097/history",
+  "gitUrl": "https://gitlab.com/ranull/minecraft/proxypreservechat",
+  "releaseDate": 1672580160000,
+  "updateDate": 1675249080000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

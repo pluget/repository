@@ -1,0 +1,24 @@
+{
+  "id": 105235,
+  "url": "https://www.spigotmc.org/resources/bouncy-snowballs-1-16.105235/",
+  "name": "Bouncy Snowballs | 1.16+",
+  "description": "Snowballs now have very juicy physics!",
+  "authors": [
+    "HuskyDreaming"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105235.jpg?1662963590",
+  "iconCid": "bafkreihxhz4e3ubryggdbezljdpetvqwcvks7bk7pesyyls4ekrjt3p7ma",
+  "numberOfDownloads": 231,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bouncy-snowballs-1-16.105235/history",
+  "gitUrl": "https://github.com/HuskyDreaming/BouncySnowballs",
+  "releaseDate": 1662959940000,
+  "updateDate": 1663114020000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

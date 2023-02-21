@@ -1,0 +1,24 @@
+{
+  "id": 106098,
+  "url": "https://www.spigotmc.org/resources/kingdoms.106098/",
+  "name": "Kingdoms",
+  "description": "Land claim plugin",
+  "authors": [
+    "HeroBrineGoat"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106098.jpg?1667856063",
+  "iconCid": "bafkreidhanwy5ocepuwtaq4r2kokktlqui3rxpsn7wynu3kyolhdo3bxeq",
+  "numberOfDownloads": 199,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kingdoms.106098/history",
+  "gitUrl": "https://github.com/Fisher2911/Kingdoms",
+  "releaseDate": 1667616420000,
+  "updateDate": 1668455460000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

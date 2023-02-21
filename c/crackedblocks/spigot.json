@@ -1,0 +1,22 @@
+{
+  "id": 66625,
+  "url": "https://www.spigotmc.org/resources/crackedblocks.66625/",
+  "name": "CrackedBlocks",
+  "description": "This plugin will allow you to give any block configurable explosion durability.",
+  "authors": [
+    "Lee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/66/66625.jpg?1555515064",
+  "iconCid": "bafkreiftgbwgwqumypuf5aftwiklf7hep2elhs6szs4eiviqmdik2dotbm",
+  "numberOfDownloads": 5117,
+  "rating": 4.4,
+  "numberOfVotes": 23,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/crackedblocks.66625/history",
+  "gitUrl": "https://github.com/SirLeezus/CrackedBlocks",
+  "releaseDate": 1555511400000,
+  "updateDate": 1671138780000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

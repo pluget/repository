@@ -1,0 +1,33 @@
+{
+  "id": 771,
+  "url": "https://www.spigotmc.org/resources/venturechat.771/",
+  "name": "VentureChat",
+  "description": "#1 Channels Chat plugin! Spigot + Bungee. Supports PlaceholderAPI + JSON formatting. New Hex Colors!",
+  "authors": [
+    "Aust1n46"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/0/771.jpg?1436331192",
+  "iconCid": "bafkreihpsuhiophj3ija74xnklidoeqpoasfj4xzxdhajted75uh7nh7ai",
+  "numberOfDownloads": 73404,
+  "rating": 4.6,
+  "numberOfVotes": 258,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/venturechat.771/history",
+  "gitUrl": "https://github.com/Aust1n46/VentureChat",
+  "releaseDate": 1405702560000,
+  "updateDate": 1675988220000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

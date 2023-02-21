@@ -1,0 +1,32 @@
+{
+  "id": 106122,
+  "url": "https://www.spigotmc.org/resources/email-linker-1-8-1-19-link-your-players-email-to-your-spigot-server.106122/",
+  "name": "Email Linker [1.8-1.19] | Link Your Player's Email To Your Spigot Server",
+  "description": "Store your player's email by verifying it by sending a code to their email.",
+  "authors": [
+    "COMPHACK"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106122.jpg?1667726850",
+  "iconCid": "bafkreicxsf5yqasovqd7aqaw35hwhby56r7pzxsawocvx2y2uyezpoj5wu",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/email-linker-1-8-1-19-link-your-players-email-to-your-spigot-server.106122/history",
+  "gitUrl": "https://github.com/COMP-HACK/EmailLinker",
+  "releaseDate": 1667723100000,
+  "updateDate": 1667723100000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

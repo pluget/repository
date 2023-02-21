@@ -1,0 +1,21 @@
+{
+  "id": 105275,
+  "url": "https://www.spigotmc.org/resources/betterkeepinventory.105275/",
+  "name": "BetterKeepInventory",
+  "description": "Optional configurable keepinventory",
+  "authors": [
+    "SNAKE"
+  ],
+  "numberOfDownloads": 79,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterkeepinventory.105275/history",
+  "gitUrl": "https://github.com/mcplaynetwork/BetterKeepInventory/",
+  "releaseDate": 1663147680000,
+  "updateDate": 1673131320000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

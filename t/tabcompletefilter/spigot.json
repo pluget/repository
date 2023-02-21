@@ -1,0 +1,27 @@
+{
+  "id": 75208,
+  "url": "https://www.spigotmc.org/resources/tabcompletefilter.75208/",
+  "name": "TabCompleteFilter",
+  "description": "Filter the commands a user can see in tab complete.",
+  "authors": [
+    "Lee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75208.jpg?1581757855",
+  "iconCid": "bafkreigsicb2oh7ixtt6u7k2w3sqfjg3rfv34ppowzm2cipqthpelawlwi",
+  "numberOfDownloads": 9409,
+  "rating": 4.5,
+  "numberOfVotes": 44,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tabcompletefilter.75208/history",
+  "gitUrl": "https://github.com/SirLeezus/TabCompleteFilter",
+  "releaseDate": 1676728560000,
+  "updateDate": 1676728560000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

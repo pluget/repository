@@ -1,0 +1,26 @@
+{
+  "id": 88778,
+  "url": "https://www.spigotmc.org/resources/idlebot-step-up-your-afk-game.88778/",
+  "name": "IdleBot - Step up your AFK game",
+  "description": "An Essential Discord/Minecraft AFK Utility",
+  "authors": [
+    "MetalTurtle"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88778.jpg?1612760272",
+  "iconCid": "bafkreigjbegtvz2ekcp2kakt3tpji43xsnmkcvbx6bjkfdotjy75xm6jtm",
+  "numberOfDownloads": 876,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/idlebot-step-up-your-afk-game.88778/history",
+  "gitUrl": "https://github.com/IdleBot-Development/IdleBot",
+  "releaseDate": 1612756620000,
+  "updateDate": 1659215460000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

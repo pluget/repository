@@ -1,0 +1,32 @@
+{
+  "id": 82784,
+  "url": "https://www.spigotmc.org/resources/picojobs.82784/",
+  "name": "PicoJobs",
+  "description": "A fully configurable plugin that allows you to get paid for do mostly anything. The best jobs plugin",
+  "authors": [
+    "Picono435"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82784.jpg?1597517823",
+  "iconCid": "bafkreiet5l6252yi3lnfzh246yvwjkkm3tgrr7prwjclcubzurpguxro3i",
+  "numberOfDownloads": 11356,
+  "rating": 4.9,
+  "numberOfVotes": 16,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/picojobs.82784/history",
+  "gitUrl": "https://github.com/Picono435/PicoJobs",
+  "releaseDate": 1597514160000,
+  "updateDate": 1660773720000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 106427,
+  "url": "https://www.spigotmc.org/resources/skmessage-skript.106427/",
+  "name": "skmessage (skript)",
+  "description": "add join and quit message with skript",
+  "authors": [
+    "floisefox"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106427.jpg?1669381098",
+  "iconCid": "bafkreia6ce5mceh6dq2pdcbrzqc4fhbcbut2jj7tu6un6gf3ggtl3wk46i",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skmessage-skript.106427/history",
+  "releaseDate": 1669377480000,
+  "updateDate": 1669377480000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

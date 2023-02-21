@@ -1,0 +1,23 @@
+{
+  "id": 105798,
+  "url": "https://www.spigotmc.org/resources/bukkitapi.105798/",
+  "name": "BukkitApi",
+  "description": "Bukkit coding project api",
+  "authors": [
+    "OyunTarayici"
+  ],
+  "numberOfDownloads": 39,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bukkitapi.105798/history",
+  "gitUrl": "https://github.com/HyperLords/BukkitApi/tree/main/BukkitApi",
+  "releaseDate": 1665911880000,
+  "updateDate": 1669400460000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12"
+  ]
+}

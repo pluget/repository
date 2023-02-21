@@ -1,0 +1,24 @@
+{
+  "id": 29999,
+  "url": "https://www.spigotmc.org/resources/stackmob-enhance-your-servers-performance-without-the-sacrifice.29999/",
+  "name": "StackMob - Enhance your servers performance without the sacrifice",
+  "description": "Enhance your server performance by 'stacking' or 'merging' entities, without breaking grinders.",
+  "authors": [
+    "antiPerson"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/29/29999.jpg?1538944698",
+  "iconCid": "bafkreifwymivq5opazlxvvry3k66oz5h5f7fhl2icofhj6gkuqzmwgeh5m",
+  "numberOfDownloads": 121578,
+  "rating": 4.3,
+  "numberOfVotes": 197,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/stackmob-enhance-your-servers-performance-without-the-sacrifice.29999/history",
+  "gitUrl": "https://github.com/Nathat23/StackMob-5",
+  "releaseDate": 1475410680000,
+  "updateDate": 1671575820000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

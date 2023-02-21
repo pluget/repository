@@ -1,0 +1,32 @@
+{
+  "id": 40993,
+  "url": "https://www.spigotmc.org/resources/itemedit-1-8-x-1-19-x.40993/",
+  "name": "ItemEdit [1.8.x-1.19.x]",
+  "description": "Fast edit, customize and manage items",
+  "authors": [
+    "emanon"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/40/40993.jpg?1582337538",
+  "iconCid": "bafkreiausvsldhzgds6trl6v53xlo7fw5g4iytyh3lnaqre3r2fokid4ie",
+  "numberOfDownloads": 208803,
+  "rating": 4.8,
+  "numberOfVotes": 99,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/itemedit-1-8-x-1-19-x.40993/history",
+  "gitUrl": "https://github.com/emanondev/ItemEdit",
+  "releaseDate": 1676460480000,
+  "updateDate": 1676460480000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

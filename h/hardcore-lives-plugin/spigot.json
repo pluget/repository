@@ -1,0 +1,26 @@
+{
+  "id": 79254,
+  "url": "https://www.spigotmc.org/resources/hardcore-lives-plugin.79254/",
+  "name": "Hardcore Lives Plugin",
+  "description": "hardcore, mechanics, challenge",
+  "authors": [
+    "galennare00"
+  ],
+  "numberOfDownloads": 17895,
+  "rating": 3.6,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hardcore-lives-plugin.79254/history",
+  "gitUrl": "https://gitlab.com/gnare/hardcorelivesplugin",
+  "releaseDate": 1590360060000,
+  "updateDate": 1668829680000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

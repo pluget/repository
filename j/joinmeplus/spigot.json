@@ -1,0 +1,22 @@
+{
+  "id": 104945,
+  "url": "https://www.spigotmc.org/resources/joinme.104945/",
+  "name": "JoinMe+",
+  "description": "A advanced JoinMe plugin with many extended features",
+  "authors": [
+    "MTDevelopment"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104945.jpg?1661874009",
+  "iconCid": "bafkreigtb57vpxi7dvrgloidxypzxre2dbhhsvpmw4cgpj5hevulgki354",
+  "numberOfDownloads": 224,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/joinme.104945/history",
+  "gitUrl": "https://github.com/ToBiDi0410/JoinMePlus",
+  "releaseDate": 1661869920000,
+  "updateDate": 1661871840000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

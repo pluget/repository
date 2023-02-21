@@ -1,0 +1,25 @@
+{
+  "id": 106321,
+  "url": "https://www.spigotmc.org/resources/worldwhitelist.106321/",
+  "name": "WorldWhitelist",
+  "description": "Allow non-whitelisted people to still visit.",
+  "authors": [
+    "Sezei"
+  ],
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/worldwhitelist.106321/history",
+  "gitUrl": "https://github.com/Sezei/minecraft-skripts/blob/main/WorldWhitelist.sk",
+  "releaseDate": 1668815700000,
+  "updateDate": 1668815700000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

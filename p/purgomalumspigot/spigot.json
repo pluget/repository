@@ -1,0 +1,21 @@
+{
+  "id": 107294,
+  "url": "https://www.spigotmc.org/resources/purgomalumspigot.107294/",
+  "name": "PurgoMalumSpigot",
+  "description": "Simple anti swear system, that use PurgoMalum API.",
+  "authors": [
+    "qurao"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107294.jpg?1673214852",
+  "iconCid": "bafkreifyx2jabbwegdv4uzap7nandzwawfbw6yyimytswrdlz42ygduxve",
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/purgomalumspigot.107294/history",
+  "gitUrl": "https://github.com/KalbinVV/PurgoMalumSpigot",
+  "releaseDate": 1673211240000,
+  "updateDate": 1673211240000,
+  "versions": [
+    "1.19"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 27001,
+  "url": "https://www.spigotmc.org/resources/nubesbackup.27001/",
+  "name": "NubesBackup",
+  "description": "A simple backup plugin (mysql backup included)",
+  "authors": [
+    "NubeBuster"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/27/27001.jpg?1469551835",
+  "iconCid": "bafkreie6ckqolmssas5vu7ku5ftqf634rcwbiwzf2tkzdudoqwue6pmrvm",
+  "numberOfDownloads": 481,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nubesbackup.27001/history",
+  "gitUrl": "https://github.com/Nubebuster/NubesBackup",
+  "releaseDate": 1469539620000,
+  "updateDate": 1659513840000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 71041,
+  "url": "https://www.spigotmc.org/resources/chatex-continued.71041/",
+  "name": "ChatEx [Continued]",
+  "description": "ChatManagement Plugin",
+  "authors": [
+    "TheJeterLP"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/71/71041.jpg?1596996628",
+  "iconCid": "bafkreie3o43jwb3ota732jgafgu42tje5qe3v5uqrzqshczozwjime4nce",
+  "numberOfDownloads": 235677,
+  "rating": 4.6,
+  "numberOfVotes": 31,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatex-continued.71041/history",
+  "gitUrl": "https://github.com/TheJeterLP/ChatEx",
+  "releaseDate": 1567634880000,
+  "updateDate": 1673369460000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

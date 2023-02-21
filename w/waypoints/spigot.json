@@ -1,0 +1,23 @@
+{
+  "id": 66647,
+  "url": "https://www.spigotmc.org/resources/waypoints.66647/",
+  "name": "Waypoints",
+  "description": "Always find your way back home",
+  "authors": [
+    "Sytm"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/66/66647.jpg?1555585755",
+  "iconCid": "bafkreicqwcpxvhz3xzvmgodqksz3mzao5kjmcfkbupbivkilfthghwz2ga",
+  "numberOfDownloads": 63407,
+  "rating": 4.3,
+  "numberOfVotes": 23,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/waypoints.66647/history",
+  "gitUrl": "https://github.com/Sytm/waypoints/",
+  "releaseDate": 1676803500000,
+  "updateDate": 1676803500000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

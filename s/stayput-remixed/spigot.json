@@ -1,0 +1,25 @@
+{
+  "id": 69564,
+  "url": "https://www.spigotmc.org/resources/stayput-remixed.69564/",
+  "name": "StayPut Remixed",
+  "description": "Return to your last location when returning to a multiverse world",
+  "authors": [
+    "pmdevita"
+  ],
+  "numberOfDownloads": 1719,
+  "rating": 4.9,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/stayput-remixed.69564/history",
+  "gitUrl": "https://github.com/pmdevita/StayPut",
+  "releaseDate": 1563731400000,
+  "updateDate": 1671598920000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 108020,
+  "url": "https://www.spigotmc.org/resources/shopplugin-1-13-x-1-19-x.108020/",
+  "name": "ShopPlugin [1.13.x-1.19.x]",
+  "description": "/setshop, setshop, /shop, shop, 1.",
+  "authors": [
+    "Lars__SVW"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108020.jpg?1676504400",
+  "iconCid": "bafkreiggwgeondrjvdqmmmk4k4sdr74cp4olfetycddkr3n3kaj6r4wk5y",
+  "numberOfDownloads": 44,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/shopplugin-1-13-x-1-19-x.108020/history",
+  "releaseDate": 1676554980000,
+  "updateDate": 1676554980000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

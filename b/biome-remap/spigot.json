@@ -1,0 +1,26 @@
+{
+  "id": 70973,
+  "url": "https://www.spigotmc.org/resources/biome-remap.70973/",
+  "name": "Biome Remap",
+  "description": "Remap biomes to create strange new worlds",
+  "authors": [
+    "SlimeDog"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/70/70973.jpg?1676444223",
+  "iconCid": "bafkreiewijxi5i6xxyw3jc5gcjbcyzlam3d5czg7vq6fs2j6xpbeuo35wi",
+  "numberOfDownloads": 1047,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/biome-remap.70973/history",
+  "gitUrl": "https://github.com/SlimeDog/BiomeRemap/",
+  "releaseDate": 1567352880000,
+  "updateDate": 1674516720000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

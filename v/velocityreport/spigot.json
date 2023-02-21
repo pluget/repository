@@ -1,0 +1,24 @@
+{
+  "id": 105378,
+  "url": "https://www.spigotmc.org/resources/velocityreport-1-8-1-19-3-mysql-sqlite.105378/",
+  "name": "VelocityReport [1.8 - 1.19.3] [MySQL/SQLite]",
+  "description": "Report system for Velocity servers",
+  "authors": [
+    "Syrent"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105378.jpg?1664969536",
+  "iconCid": "bafkreihluzrfgyqg645h56zsft5aitc3yqb2zdyldnuc4fzjmaii66pmhi",
+  "numberOfDownloads": 537,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/velocityreport-1-8-1-19-3-mysql-sqlite.105378/history",
+  "gitUrl": "https://github.com/Syrent/VelocityReport",
+  "releaseDate": 1663665420000,
+  "updateDate": 1676182740000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

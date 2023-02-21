@@ -1,0 +1,31 @@
+{
+  "id": 107003,
+  "url": "https://www.spigotmc.org/resources/gactionbarjoin.107003/",
+  "name": "GActionBarJoin",
+  "description": "Hello, today I'm posting a little plugin just to write the connection message in the action bar and",
+  "authors": [
+    "Gaxxus"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107003.jpg?1672158812",
+  "iconCid": "bafkreiefdlqjv2ir6jwibghnu2m4pr2qv5vol5sacvx7ibkmjihqo4rgja",
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gactionbarjoin.107003/history",
+  "releaseDate": 1672155180000,
+  "updateDate": 1672155180000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

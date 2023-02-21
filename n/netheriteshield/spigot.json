@@ -1,0 +1,24 @@
+{
+  "id": 91813,
+  "url": "https://www.spigotmc.org/resources/netheriteshield.91813/",
+  "name": "NetheriteShield",
+  "description": "Adds Netherite Shield to your server",
+  "authors": [
+    "MoTy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91813.jpg?1629297216",
+  "iconCid": "bafkreifmd3xqpueb2oxju7gsnlx5waojq6ttvkf3rlohzrfiajarl2xrqi",
+  "numberOfDownloads": 7990,
+  "rating": 4.9,
+  "numberOfVotes": 16,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/netheriteshield.91813/history",
+  "gitUrl": "https://github.com/xMoTy/NetheriteShield",
+  "releaseDate": 1619621880000,
+  "updateDate": 1660130100000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

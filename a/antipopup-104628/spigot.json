@@ -1,0 +1,21 @@
+{
+  "id": 104628,
+  "url": "https://www.spigotmc.org/resources/%E2%9C%A8-antipopup-bungeecord-viaversion-addon-%E2%9C%A8.104628/",
+  "name": "✨ AntiPopup Bungeecord ViaVersion Addon ✨",
+  "description": "AntiPopup addon aiming to fix issues with viaversion when on proxy",
+  "authors": [
+    "kacperleague9"
+  ],
+  "numberOfDownloads": 330,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9C%A8-antipopup-bungeecord-viaversion-addon-%E2%9C%A8.104628/history",
+  "gitUrl": "https://github.com/KaspianDev/AntiPopup-Via",
+  "releaseDate": 1660747860000,
+  "updateDate": 1660747860000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

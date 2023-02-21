@@ -1,0 +1,27 @@
+{
+  "id": 101040,
+  "url": "https://www.spigotmc.org/resources/librelogin-velocity-bungeecord-paper-automatic-login-2fa.101040/",
+  "name": "LibreLogin [Velocity+BungeeCord+Paper] | Automatic Login | 2FA",
+  "description": "Open-source, multiplatform, and highly customizable authentication plugin with outstanding features.",
+  "authors": [
+    "kyngs"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101040.jpg?1648584508",
+  "iconCid": "bafkreiespaijonlo6voen52fywsbx7mftkop5jervbe2av33ojcxol5x74",
+  "numberOfDownloads": 3167,
+  "rating": 4.6,
+  "numberOfVotes": 19,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/librelogin-velocity-bungeecord-paper-automatic-login-2fa.101040/history",
+  "gitUrl": "https://github.com/kyngs/LibrePremium",
+  "releaseDate": 1676816040000,
+  "updateDate": 1676816040000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

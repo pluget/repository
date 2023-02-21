@@ -1,0 +1,24 @@
+{
+  "id": 73801,
+  "url": "https://www.spigotmc.org/resources/croncommands-command-scheduler.73801/",
+  "name": "CronCommands / Command scheduler",
+  "description": "A plugin which can periodecally execute a command for you.",
+  "authors": [
+    "Handschrift"
+  ],
+  "numberOfDownloads": 457,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/croncommands-command-scheduler.73801/history",
+  "gitUrl": "https://github.com/Handschrift/MinecraftCronCommands",
+  "releaseDate": 1577472840000,
+  "updateDate": 1658690100000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

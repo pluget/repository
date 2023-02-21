@@ -1,0 +1,21 @@
+{
+  "id": 102138,
+  "url": "https://www.spigotmc.org/resources/script-chat-filter.102138/",
+  "name": "[Script] Chat filter",
+  "description": "Script for blocking certain words from chat",
+  "authors": [
+    "JuraJPlayer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102138.jpg?1653217210",
+  "iconCid": "bafkreiantondgnm52vuwizgceqxzgcv7hrzl66yai33ehqnxccuvljkilm",
+  "numberOfDownloads": 83,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/script-chat-filter.102138/history",
+  "releaseDate": 1653213540000,
+  "updateDate": 1672481520000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

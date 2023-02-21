@@ -1,0 +1,32 @@
+{
+  "id": 59032,
+  "url": "https://www.spigotmc.org/resources/nameless-plugin-for-v2.59032/",
+  "name": "Nameless Plugin for v2",
+  "description": "NamelessMC Plugin designed for Nameless v2",
+  "authors": [
+    "RobinMC"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/59/59032.jpg?1532375581",
+  "iconCid": "bafkreifoi23x5gndytvaeulzdctv5ltr2wpthalxslghsyvlczfuobpdda",
+  "numberOfDownloads": 9962,
+  "rating": 5,
+  "numberOfVotes": 16,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nameless-plugin-for-v2.59032/history",
+  "gitUrl": "https://github.com/NamelessMC/Nameless-Plugin",
+  "releaseDate": 1532371920000,
+  "updateDate": 1671049920000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

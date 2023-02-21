@@ -1,0 +1,32 @@
+{
+  "id": 101992,
+  "url": "https://www.spigotmc.org/resources/voidwhitelist.101992/",
+  "name": "VoidWhitelist",
+  "description": "Mixed UUID based whitelist with the possibility of temporary addition",
+  "authors": [
+    "NyanGuyMF"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101992.jpg?1652531554",
+  "iconCid": "bafkreihdfy2illzrmc6dj5cuuhhkczql7gq7jzd7s7t3zy52wogurlcuwi",
+  "numberOfDownloads": 244,
+  "rating": 4,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/voidwhitelist.101992/history",
+  "gitUrl": "https://github.com/voidpointer0x00/VoidWhitelist",
+  "releaseDate": 1652527920000,
+  "updateDate": 1659963780000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

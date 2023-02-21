@@ -1,0 +1,31 @@
+{
+  "id": 84123,
+  "url": "https://www.spigotmc.org/resources/censura.84123/",
+  "name": "Censura",
+  "description": "Advanced censorship plugin for minecraft servers",
+  "authors": [
+    "YouHaveTrouble"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84123.jpg?1660500297",
+  "iconCid": "bafkreial374nmvc5enz2ofeqd4lm4sauzqph2wt2u7g5n25xhsckadktwi",
+  "numberOfDownloads": 346,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/censura.84123/history",
+  "gitUrl": "https://github.com/YouHaveTrouble/Censura",
+  "releaseDate": 1600856520000,
+  "updateDate": 1663416420000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

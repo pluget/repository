@@ -1,0 +1,27 @@
+{
+  "id": 75269,
+  "url": "https://www.spigotmc.org/resources/speedlimit-1-19-support.75269/",
+  "name": "SpeedLimit | 1.19 SUPPORT! |",
+  "description": "Slow down them players!",
+  "authors": [
+    "Loving11ish"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75269.jpg?1640169051",
+  "iconCid": "bafkreiaj3azhykaez6bnec6djfycl237qapgoc7kafkk6dibwdp3faqjbq",
+  "numberOfDownloads": 1557,
+  "rating": 3.8,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/speedlimit-1-19-support.75269/history",
+  "gitUrl": "https://github.com/Loving11ish/SpeedLimit/tree/master",
+  "releaseDate": 1581894300000,
+  "updateDate": 1673127360000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

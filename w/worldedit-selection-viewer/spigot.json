@@ -1,0 +1,21 @@
+{
+  "id": 106586,
+  "url": "https://www.spigotmc.org/resources/worldedit-selection-viewer.106586/",
+  "name": "WorldEdit Selection Viewer",
+  "description": "A tool to view your worldedit selection",
+  "authors": [
+    "funnyboy_roks"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106586.jpg?1670197291",
+  "iconCid": "bafkreihbgrzeid7kts4yoik476iyfyok4gwxidoxhygolmohytuafqjfsa",
+  "numberOfDownloads": 118,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/worldedit-selection-viewer.106586/history",
+  "gitUrl": "https://github.com/funnyboy-roks/worldedit-selection-viewer",
+  "releaseDate": 1670193660000,
+  "updateDate": 1671121080000,
+  "versions": [
+    "1.19"
+  ]
+}

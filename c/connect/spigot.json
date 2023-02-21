@@ -1,0 +1,32 @@
+{
+  "id": 105486,
+  "url": "https://www.spigotmc.org/resources/connect-%E2%80%A2-next-generation-minecraft-networks.105486/",
+  "name": "Connect • Next Generation Minecraft Networks!",
+  "description": "Let players join your localhost servers on free reserved domains!",
+  "authors": [
+    "robincode"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105486.jpg?1664273768",
+  "iconCid": "bafkreibufowfnfnaz56ghwyvy5t5ejvfcqj4f5bhjcd2ps7ruhedarorw4",
+  "numberOfDownloads": 273,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/connect-%E2%80%A2-next-generation-minecraft-networks.105486/history",
+  "gitUrl": "https://github.com/minekube/connect-java",
+  "releaseDate": 1664269920000,
+  "updateDate": 1669798080000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

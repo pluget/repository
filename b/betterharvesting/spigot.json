@@ -1,0 +1,24 @@
+{
+  "id": 104915,
+  "url": "https://www.spigotmc.org/resources/betterharvesting.104915/",
+  "name": "BetterHarvesting",
+  "description": "Minecraft plugin allows harvest crops faster and easier in a vanilla way",
+  "authors": [
+    "D_C"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104915.jpg?1661769874",
+  "iconCid": "bafkreigv47erlmxvy6b23l2hche5ohckugrvyi5juxfixeqewp5o56c7vy",
+  "numberOfDownloads": 91,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterharvesting.104915/history",
+  "gitUrl": "https://github.com/Mrflaxe/BetterHarvesting",
+  "releaseDate": 1661766240000,
+  "updateDate": 1663349760000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

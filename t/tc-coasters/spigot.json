@@ -1,0 +1,32 @@
+{
+  "id": 59583,
+  "url": "https://www.spigotmc.org/resources/tc-coasters.59583/",
+  "name": "TC Coasters",
+  "description": "Trackless rollercoasters in Minecraft, add-on for Traincarts",
+  "authors": [
+    "TeamBergerhealer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/59/59583.jpg?1533676982",
+  "iconCid": "bafkreiad4kz2nb7qtlpeoi3mj4aigw7o4uq42tuqbhwh3zarrhv3lc2oya",
+  "numberOfDownloads": 17234,
+  "rating": 5,
+  "numberOfVotes": 16,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tc-coasters.59583/history",
+  "gitUrl": "https://github.com/bergerhealer/TC-Coasters",
+  "releaseDate": 1533673320000,
+  "updateDate": 1672081380000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

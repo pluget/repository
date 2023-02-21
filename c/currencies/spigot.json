@@ -1,0 +1,23 @@
+{
+  "id": 96381,
+  "url": "https://www.spigotmc.org/resources/currencies.96381/",
+  "name": "Currencies",
+  "description": "An expansion for Medieval Factions that allows faction owners to create and mint currencies.",
+  "authors": [
+    "DanTheTechMan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96381.jpg?1632250239",
+  "iconCid": "bafkreih7mjatjw2tpj4m7tkh4dn74iklpmnwztimip6ryrp45axbuoyl4a",
+  "numberOfDownloads": 541,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/currencies.96381/history",
+  "gitUrl": "https://github.com/Dans-Plugins/Currencies",
+  "releaseDate": 1632246420000,
+  "updateDate": 1675198320000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

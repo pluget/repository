@@ -1,0 +1,32 @@
+{
+  "id": 100603,
+  "url": "https://www.spigotmc.org/resources/t2c-autoresponse.100603/",
+  "name": "T2C-AutoResponse",
+  "description": "Automated messages | Secret commands",
+  "authors": [
+    "JaTiTV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100603.jpg?1646947994",
+  "iconCid": "bafkreibq3i4u6lfhlf7grr3brl7jkac7iexnzsfnui7wbd7gi5cbvu6eqe",
+  "numberOfDownloads": 95,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/t2c-autoresponse.100603/history",
+  "gitUrl": "https://git.t2code.net/JaTiTV/T2C-AutoResponse",
+  "releaseDate": 1646944380000,
+  "updateDate": 1668550860000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 106950,
+  "url": "https://www.spigotmc.org/resources/killstreaks.106950/",
+  "name": "Killstreaks",
+  "description": "A simple, lightweight skript for Killstreaks (Broadcasts)!",
+  "authors": [
+    "ahmadstoryus"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106950.jpg?1671916434",
+  "iconCid": "bafkreifbg53fpwwsoteutq4ejihpqjdct4ldbeu7jqclpkvegtpbczxvqa",
+  "numberOfDownloads": 71,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/killstreaks.106950/history",
+  "releaseDate": 1671912780000,
+  "updateDate": 1671912780000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

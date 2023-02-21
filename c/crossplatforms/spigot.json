@@ -1,0 +1,32 @@
+{
+  "id": 101043,
+  "url": "https://www.spigotmc.org/resources/crossplatforms.101043/",
+  "name": "CrossplatForms",
+  "description": "Configurable Bedrock Edition forms, inventory menus, and more. (Spigot, BungeeCord, Velocity)",
+  "authors": [
+    "konica"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101043.jpg?1648591163",
+  "iconCid": "bafkreigqlr6q3gh6a5yezfpig7e5uszq3nbywfsfhvfxnvrfk6zcvjtb3m",
+  "numberOfDownloads": 851,
+  "rating": 4.3,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/crossplatforms.101043/history",
+  "gitUrl": "https://github.com/kejonaMC/CrossplatForms",
+  "releaseDate": 1648587000000,
+  "updateDate": 1664772000000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

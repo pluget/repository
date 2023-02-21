@@ -1,0 +1,24 @@
+{
+  "id": 79068,
+  "url": "https://www.spigotmc.org/resources/wandering-trades-easily-customize-wandering-traders-1-16-5-1-19-3.79068/",
+  "name": "Wandering Trades - Easily Customize Wandering Traders [1.16.5-1.19.3+]",
+  "description": "Totally Customize the trades of Wandering Traders using easy GUIs! Player Heads, Plugin Items, more!",
+  "authors": [
+    "jmp"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79068.jpg?1594446426",
+  "iconCid": "bafkreig66xh3g2unhtbi7ecpvor5n3n26omjq2gz322mxbzdzckm6h7qee",
+  "numberOfDownloads": 25722,
+  "rating": 4.5,
+  "numberOfVotes": 21,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/wandering-trades-easily-customize-wandering-traders-1-16-5-1-19-3.79068/history",
+  "gitUrl": "https://github.com/jpenilla/WanderingTrades",
+  "releaseDate": 1590005460000,
+  "updateDate": 1670564340000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

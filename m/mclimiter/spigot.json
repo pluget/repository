@@ -1,0 +1,19 @@
+{
+  "id": 105111,
+  "url": "https://www.spigotmc.org/resources/mclimiter.105111/",
+  "name": "MCLimiter",
+  "description": "A plugin to limit enchants, items and more!",
+  "authors": [
+    "thesnipe12"
+  ],
+  "numberOfDownloads": 67,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mclimiter.105111/history",
+  "gitUrl": "https://github.com/thesnipe12/MCLimiter",
+  "releaseDate": 1662471780000,
+  "updateDate": 1676140380000,
+  "versions": [
+    "1.19"
+  ]
+}

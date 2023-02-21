@@ -1,0 +1,32 @@
+{
+  "id": 105329,
+  "url": "https://www.spigotmc.org/resources/griefingprotect.105329/",
+  "name": "GriefingProtect",
+  "description": "GriefingProtect is a plugin that will protect your server from being hacked",
+  "authors": [
+    "Mrrafter_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105329.jpg?1663426608",
+  "iconCid": "bafkreiegrxnpa3sztvxh7n2pzsqddhoqx26qgmlyqq5pvhhbfgwdqqnzhy",
+  "numberOfDownloads": 56,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/griefingprotect.105329/history",
+  "gitUrl": "https://github.com/MrRafter/GriefingProtect",
+  "releaseDate": 1663422960000,
+  "updateDate": 1663422960000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

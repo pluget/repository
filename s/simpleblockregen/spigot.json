@@ -1,0 +1,27 @@
+{
+  "id": 100875,
+  "url": "https://www.spigotmc.org/resources/simpleblockregen.100875/",
+  "name": "SimpleBlockRegen",
+  "description": "For automatic mining areas, Prison or any other type of use you want to give it.",
+  "authors": [
+    "JonRahm"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100875.jpg?1647902978",
+  "iconCid": "bafkreick6d6vlqg7q53c46prdrdewyg2tr2so7bjtbrzoryeuhwle6uoje",
+  "numberOfDownloads": 1191,
+  "rating": 5,
+  "numberOfVotes": 23,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simpleblockregen.100875/history",
+  "gitUrl": "https://github.com/Skjolberg/SimpleBlockRegen",
+  "releaseDate": 1647899340000,
+  "updateDate": 1673271360000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

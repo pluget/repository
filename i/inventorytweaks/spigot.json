@@ -1,0 +1,27 @@
+{
+  "id": 105437,
+  "url": "https://www.spigotmc.org/resources/inventorytweaks.105437/",
+  "name": "InventoryTweaks",
+  "description": "Remake of the famous InventoryTweaks mod but as a Plugin",
+  "authors": [
+    "TheJeterLP"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105437.jpg?1664054923",
+  "iconCid": "bafkreibelcs3mmkkgu4kyjez45z2aqwdctmxpxlywf3grbj4xtb7c7kiju",
+  "numberOfDownloads": 796,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/inventorytweaks.105437/history",
+  "gitUrl": "https://github.com/TheJeterLP/InventoryTweaks",
+  "releaseDate": 1664037540000,
+  "updateDate": 1672067520000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

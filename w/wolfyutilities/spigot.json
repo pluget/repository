@@ -1,0 +1,24 @@
+{
+  "id": 64124,
+  "url": "https://www.spigotmc.org/resources/wolfyutilities-core-plugin-api-1-16-1-19.64124/",
+  "name": "WolfyUtilities | Core plugin API [1.16 - 1.19]",
+  "description": "Utils & APIs: Inventory GUI, Language, JSON (Jackson), and more",
+  "authors": [
+    "WolfyScript"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/64/64124.jpg?1612089744",
+  "iconCid": "bafkreifb6kind77f4eu2mk7fvcw65j6atrv6z7fp46r3webpv4yr6uzmsm",
+  "numberOfDownloads": 68163,
+  "rating": 4.2,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/wolfyutilities-core-plugin-api-1-16-1-19.64124/history",
+  "gitUrl": "https://github.com/WolfyScript/WolfyUtilities",
+  "releaseDate": 1547899380000,
+  "updateDate": 1672246380000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

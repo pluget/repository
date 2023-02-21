@@ -1,0 +1,27 @@
+{
+  "id": 105836,
+  "url": "https://www.spigotmc.org/resources/adriftbuild-build-mode-prevent-accidental-damage.105836/",
+  "name": "AdriftBuild | /Build Mode | Prevent Accidental Damage",
+  "description": "Prevent Accidental Damage & Griefs",
+  "authors": [
+    "AdriftBuffalo74"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105836.jpg?1666172680",
+  "iconCid": "bafkreibyxc5dcpcbqb325u2llr2yck2s35gjbyh5zugkfuvjzkg34hqrx4",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/adriftbuild-build-mode-prevent-accidental-damage.105836/history",
+  "gitUrl": "https://github.com/ItsAdrift/AdriftBuild/",
+  "releaseDate": 1666162320000,
+  "updateDate": 1666162320000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

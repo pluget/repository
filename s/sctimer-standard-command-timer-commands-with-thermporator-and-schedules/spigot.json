@@ -1,0 +1,26 @@
+{
+  "id": 106861,
+  "url": "https://www.spigotmc.org/resources/sctimer-standard-command-timer-commands-with-thermporator-and-schedules.106861/",
+  "name": "ScTimer Standard / Command Timer / Commands with thermporator and schedules.",
+  "description": "Command timer, you can also place schedules to the commands to run the days and times that you place",
+  "authors": [
+    "AsCrAnyelo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106861.jpg?1671579024",
+  "iconCid": "bafkreigkzq4hmnay62fjsjec2jesy36trq7r5otomg6k3payzdbgwce33u",
+  "numberOfDownloads": 48,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sctimer-standard-command-timer-commands-with-thermporator-and-schedules.106861/history",
+  "releaseDate": 1671575400000,
+  "updateDate": 1672342860000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 105678,
+  "url": "https://www.spigotmc.org/resources/coldysteps.105678/",
+  "name": "ColdySteps",
+  "description": "A library for PaperMC 1.18 and above that adding a cold system in various biomes",
+  "authors": [
+    "kiinse"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105678.jpg?1665217988",
+  "iconCid": "bafkreibe3ilfirvddqfep3sjxfovhulqtlpjykefjmqsgivajdoj7bg47a",
+  "numberOfDownloads": 58,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/coldysteps.105678/history",
+  "gitUrl": "https://github.com/NubilumDev/ColdySteps",
+  "releaseDate": 1665214140000,
+  "updateDate": 1665214140000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

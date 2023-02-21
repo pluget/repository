@@ -1,0 +1,28 @@
+{
+  "id": 100525,
+  "url": "https://www.spigotmc.org/resources/afk-kicker.100525/",
+  "name": "AFK-Kicker",
+  "description": "AFK kicker, configurable",
+  "authors": [
+    "IBM_ESP"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100525.jpg?1655161839",
+  "iconCid": "bafkreihqsn3umikkuyvbameu5g7ukheoaw6satljpq2b4pej6nuyem4p6a",
+  "numberOfDownloads": 353,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/afk-kicker.100525/history",
+  "gitUrl": "https://github.com/IBMESP/AFK-Kicker",
+  "releaseDate": 1646586480000,
+  "updateDate": 1659272760000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 103387,
+  "url": "https://www.spigotmc.org/resources/kkthirst.103387/",
+  "name": "KKthirst",
+  "description": "This plugin adds thirst with custom UI!",
+  "authors": [
+    "KaPeGie"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103387.jpg?1657877457",
+  "iconCid": "bafkreid7qnjudpqkw2igrbe7jdjfkg6yzw4ah3hyhhxcruuzd6buznqvge",
+  "numberOfDownloads": 221,
+  "rating": 4.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kkthirst.103387/history",
+  "gitUrl": "https://github.com/KPGTB/KKthirst",
+  "releaseDate": 1657873680000,
+  "updateDate": 1665159480000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

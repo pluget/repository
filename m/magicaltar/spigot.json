@@ -1,0 +1,26 @@
+{
+  "id": 104593,
+  "url": "https://www.spigotmc.org/resources/magicaltar.104593/",
+  "name": "MagicAltar",
+  "description": "Make pvp gameplay more enjoyable and rewardable!",
+  "authors": [
+    "PhoenixRa"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104593.jpg?1660647145",
+  "iconCid": "bafkreicrfxmwfdyencxedkshbu47rsarpzdaef5ztisvuizr3pbqdr6c2i",
+  "numberOfDownloads": 94,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/magicaltar.104593/history",
+  "gitUrl": "https://github.com/Phoenix-Ra/MagicAltar",
+  "releaseDate": 1660643520000,
+  "updateDate": 1660900320000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

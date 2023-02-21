@@ -1,0 +1,20 @@
+{
+  "id": 107019,
+  "url": "https://www.spigotmc.org/resources/skript-arguments.107019/",
+  "name": "Skript Arguments",
+  "description": "typing '/test cow' will send you a message and summon a cow.",
+  "authors": [
+    "luukkidapeok"
+  ],
+  "numberOfDownloads": 13,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skript-arguments.107019/history",
+  "releaseDate": 1672236840000,
+  "updateDate": 1672236840000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

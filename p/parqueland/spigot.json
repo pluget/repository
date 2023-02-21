@@ -1,0 +1,23 @@
+{
+  "id": 105740,
+  "url": "https://www.spigotmc.org/resources/parqueland.105740/",
+  "name": "Parqueland",
+  "description": "Utility plugin for the roleplay server Parqueland.",
+  "authors": [
+    "Alex22_SV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105740.jpg?1665537652",
+  "iconCid": "bafkreihhb5uyhf6lqexpd5gxi7v2mitqapifpmlszw645ka3drs44fmboq",
+  "numberOfDownloads": 19,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/parqueland.105740/history",
+  "gitUrl": "https://github.com/Alex22sv/Parqueland-Plugin/",
+  "releaseDate": 1665531360000,
+  "updateDate": 1665531360000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 104368,
+  "url": "https://www.spigotmc.org/resources/minecraft-talk.104368/",
+  "name": "Minecraft Talk",
+  "description": "Communicate over a self-hosted website while playing.",
+  "authors": [
+    "garzj"
+  ],
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minecraft-talk.104368/history",
+  "gitUrl": "https://github.com/garzj/minecraft-talk",
+  "releaseDate": 1659974880000,
+  "updateDate": 1659974880000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.16"
+  ]
+}

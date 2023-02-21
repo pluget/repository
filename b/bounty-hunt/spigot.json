@@ -1,0 +1,21 @@
+{
+  "id": 106524,
+  "url": "https://www.spigotmc.org/resources/bounty-hunt-1-17-1-19.106524/",
+  "name": "Bounty Hunt [1.17 - 1.19]",
+  "description": "Add a bounty system to your server",
+  "authors": [
+    "MexicanMinion"
+  ],
+  "numberOfDownloads": 79,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bounty-hunt-1-17-1-19.106524/history",
+  "gitUrl": "https://github.com/mexicanminion/BountyHunt",
+  "releaseDate": 1669868100000,
+  "updateDate": 1669924020000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

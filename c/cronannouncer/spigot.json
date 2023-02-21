@@ -1,0 +1,19 @@
+{
+  "id": 108131,
+  "url": "https://www.spigotmc.org/resources/cronannouncer.108131/",
+  "name": "CronAnnouncer",
+  "description": "A plugin allowing you to schedule broadcast messages using cron syntax.",
+  "authors": [
+    "Kaesebrot"
+  ],
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cronannouncer.108131/history",
+  "gitUrl": "https://github.com/das-kaesebrot/CronAnnouncer",
+  "releaseDate": 1676880360000,
+  "updateDate": 1676880360000,
+  "versions": [
+    "1.19"
+  ]
+}

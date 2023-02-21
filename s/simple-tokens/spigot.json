@@ -1,0 +1,21 @@
+{
+  "id": 104962,
+  "url": "https://www.spigotmc.org/resources/simple-tokens-mysql-points-storage.104962/",
+  "name": "Simple Tokens (MySQL Points storage)",
+  "description": "A simple and complete points / tokens storage plugin. 100% MySQL",
+  "authors": [
+    "Teyir"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104962.jpg?1661943452",
+  "iconCid": "bafkreicgysuqlthtnxeidocuj223c3lpkdbuaqfsrsvowcygmaqwe5mb2q",
+  "numberOfDownloads": 41,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-tokens-mysql-points-storage.104962/history",
+  "gitUrl": "https://github.com/Teyir/Simple-Tokens",
+  "releaseDate": 1661939820000,
+  "updateDate": 1661939820000,
+  "versions": [
+    "1.19"
+  ]
+}

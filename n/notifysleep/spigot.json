@@ -1,0 +1,23 @@
+{
+  "id": 88512,
+  "url": "https://www.spigotmc.org/resources/notifysleep.88512/",
+  "name": "NotifySleep",
+  "description": "Notify other players when someone is sleeping",
+  "authors": [
+    "XdStarr"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88512.jpg?1612120162",
+  "iconCid": "bafkreic55smroevx3u37ohmag3k5fbw4jpu5vsyywxxmqkxu3amy7v7rum",
+  "numberOfDownloads": 203,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/notifysleep.88512/history",
+  "releaseDate": 1612116540000,
+  "updateDate": 1675212300000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

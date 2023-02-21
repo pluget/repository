@@ -1,0 +1,24 @@
+{
+  "id": 105131,
+  "url": "https://www.spigotmc.org/resources/gaymerspronouns.105131/",
+  "name": "GaymersPronouns",
+  "description": "Adds easily customizable pronouns to your server.",
+  "authors": [
+    "coolepicgaymer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105131.jpg?1662573451",
+  "iconCid": "bafkreihaab336met7ih2u6tmbjs6t52txovgleusatm7urqufuf4uvbkd4",
+  "numberOfDownloads": 33,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gaymerspronouns.105131/history",
+  "gitUrl": "https://github.com/coolepicgaymer/GaymersPronouns",
+  "releaseDate": 1662569220000,
+  "updateDate": 1662569220000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

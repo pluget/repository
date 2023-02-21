@@ -1,0 +1,23 @@
+{
+  "id": 107791,
+  "url": "https://www.spigotmc.org/resources/combatutils.107791/",
+  "name": "CombatUtils",
+  "description": "Based Server-Side Combat Utilities For Your Minecraft Server",
+  "authors": [
+    "ItziSpyder"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107791.jpg?1675412675",
+  "iconCid": "bafkreiggjrwd3fn5wmohbbmk3gwc7f4ebdzsq5czlxktba3ocohzsjzlxi",
+  "numberOfDownloads": 62,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/combatutils.107791/history",
+  "gitUrl": "https://github.com/ItziSpyder/CombatUtils",
+  "releaseDate": 1675409040000,
+  "updateDate": 1676159520000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

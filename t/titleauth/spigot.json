@@ -1,0 +1,32 @@
+{
+  "id": 88058,
+  "url": "https://www.spigotmc.org/resources/authme-addon-titleauth-1-8-x-1-19-x-title-and-subtitle-on-register-and-login.88058/",
+  "name": "[AuthMe Addon] TitleAuth [1.8.x - 1.19.x] (Title and Subtitle on Register and Login)",
+  "description": "Addon for \"AuthMe Reloaded\" for send title and Subtitle in register and login",
+  "authors": [
+    "BrunoAvixdubSB"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88058.jpg?1611092644",
+  "iconCid": "bafkreibldxcxkorib2iasyt37d6vg4mnegsfg7o2yagapqrl57szxaqstm",
+  "numberOfDownloads": 33593,
+  "rating": 4.5,
+  "numberOfVotes": 21,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/authme-addon-titleauth-1-8-x-1-19-x-title-and-subtitle-on-register-and-login.88058/history",
+  "gitUrl": "https://github.com/UnDeadlyDev/UTitleAuth",
+  "releaseDate": 1611088980000,
+  "updateDate": 1671223200000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

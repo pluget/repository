@@ -1,0 +1,25 @@
+{
+  "id": 106466,
+  "url": "https://www.spigotmc.org/resources/no-light-block.106466/",
+  "name": "No light block",
+  "description": "vanish any light block and just keep its light",
+  "authors": [
+    "abilash"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106466.jpg?1669564944",
+  "iconCid": "bafkreiglyuqguj57aia2mx7f5a2ypiko3jos3pjjj73kvlax6st5j65ks4",
+  "numberOfDownloads": 76,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/no-light-block.106466/history",
+  "releaseDate": 1669561260000,
+  "updateDate": 1670218440000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

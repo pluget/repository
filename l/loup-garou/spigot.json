@@ -1,0 +1,31 @@
+{
+  "id": 73113,
+  "url": "https://www.spigotmc.org/resources/loup-garou-uhc-werewolf-uhc.73113/",
+  "name": "Loup Garou UHC / WereWolf UHC",
+  "description": "Mode de jeu inspiré du jeu de société \"Les Loups Garous de Thiercelieux\"",
+  "authors": [
+    "Ph1Lou"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/73/73113.jpg?1601228014",
+  "iconCid": "bafkreialjo5txye4e3xdfpgv4lzih7thq7wc52lrmppmwf7rcgrmni76de",
+  "numberOfDownloads": 25980,
+  "rating": 4.7,
+  "numberOfVotes": 20,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/loup-garou-uhc-werewolf-uhc.73113/history",
+  "gitUrl": "https://github.com/Ph1Lou/WereWolfAPI",
+  "releaseDate": 1575109500000,
+  "updateDate": 1672328220000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

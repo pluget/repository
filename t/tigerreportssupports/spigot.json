@@ -1,0 +1,29 @@
+{
+  "id": 54612,
+  "url": "https://www.spigotmc.org/resources/tigerreportssupports.54612/",
+  "name": "TigerReportsSupports",
+  "description": "Adds Discord support to TigerReports plugin / Ajoute le support de Discord au plugin TigerReports.",
+  "authors": [
+    "MrTigreroux"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/54/54612.jpg?1521305785",
+  "iconCid": "bafkreibsnjefljl64xl5nw26vyh4tfjxacwl6rtozrlgb3ojmy2nra56se",
+  "numberOfDownloads": 3143,
+  "rating": 4.8,
+  "numberOfVotes": 17,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tigerreportssupports.54612/history",
+  "releaseDate": 1521302100000,
+  "updateDate": 1671362880000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

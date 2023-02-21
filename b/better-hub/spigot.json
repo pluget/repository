@@ -1,0 +1,32 @@
+{
+  "id": 106197,
+  "url": "https://www.spigotmc.org/resources/better-hub.106197/",
+  "name": "Better Hub",
+  "description": "A plugin with mixture of different codes for providing better experience in one plugin.",
+  "authors": [
+    "AdarshGamer001"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106197.jpg?1669289159",
+  "iconCid": "bafkreib5mdovojzrnaxb346ow7rpusxn4xgt2knctapj73lv32bqywoouu",
+  "numberOfDownloads": 206,
+  "rating": 4.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/better-hub.106197/history",
+  "gitUrl": "https://github.com/dumbo-the-developer/Betterhub",
+  "releaseDate": 1668086760000,
+  "updateDate": 1674287760000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

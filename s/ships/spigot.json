@@ -1,0 +1,23 @@
+{
+  "id": 2072,
+  "url": "https://www.spigotmc.org/resources/ships.2072/",
+  "name": "Ships",
+  "description": "Allows you to move structures in a single click",
+  "authors": [
+    "MoseMister"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/2/2072.jpg?1457463827",
+  "iconCid": "bafkreidsemxeiv3sjkl3u3ujzrcbs5xuh3dajnvnpldvs5cfftscjkwo3i",
+  "numberOfDownloads": 14307,
+  "rating": 4.2,
+  "numberOfVotes": 30,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ships.2072/history",
+  "gitUrl": "https://github.com/Minecraft-Ships/ShipsForCore",
+  "releaseDate": 1417280640000,
+  "updateDate": 1673168820000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

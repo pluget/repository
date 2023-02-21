@@ -1,0 +1,23 @@
+{
+  "id": 105885,
+  "url": "https://www.spigotmc.org/resources/authvh.105885/",
+  "name": "AuthVH",
+  "description": "Simple login plugin",
+  "authors": [
+    "_Redstone_Man_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105885.jpg?1666519237",
+  "iconCid": "bafkreiggyybigesrn6o2etdcrfiosm7oqjfnyf7zf2zv5waavfzkvszdxy",
+  "numberOfDownloads": 35477,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/authvh.105885/history",
+  "releaseDate": 1666513860000,
+  "updateDate": 1666730640000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

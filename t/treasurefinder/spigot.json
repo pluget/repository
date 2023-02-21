@@ -1,0 +1,22 @@
+{
+  "id": 90515,
+  "url": "https://www.spigotmc.org/resources/treasurefinder.90515/",
+  "name": "TreasureFinder",
+  "description": "Treasure finding plugin + GUI",
+  "authors": [
+    "javajake123"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90515.jpg?1616772777",
+  "iconCid": "bafkreicagbsrhq566lbdrzx5zflhf3ntsttr3lbvhpy3hf5qn5gl4u5fea",
+  "numberOfDownloads": 503,
+  "rating": 3.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/treasurefinder.90515/history",
+  "releaseDate": 1616552880000,
+  "updateDate": 1660537380000,
+  "versions": [
+    "1.16",
+    "1.18",
+    "1.19"
+  ]
+}

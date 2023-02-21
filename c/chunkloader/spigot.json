@@ -1,0 +1,32 @@
+{
+  "id": 92834,
+  "url": "https://www.spigotmc.org/resources/chunkloader.92834/",
+  "name": "ChunkLoader",
+  "description": "Keep your chunks loaded!",
+  "authors": [
+    "segu23"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92834.jpg?1627315184",
+  "iconCid": "bafkreigq3lafmnrxl6tdcy5ngrtuxyxsmhfrfigvhukfbhnpibtac3hjfe",
+  "numberOfDownloads": 9023,
+  "rating": 4.3,
+  "numberOfVotes": 8,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chunkloader.92834/history",
+  "gitUrl": "https://github.com/segu23/ChunkLoader",
+  "releaseDate": 1622317620000,
+  "updateDate": 1673218800000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

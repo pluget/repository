@@ -1,0 +1,22 @@
+{
+  "id": 90691,
+  "url": "https://www.spigotmc.org/resources/simple-reply.90691/",
+  "name": "Simple Reply",
+  "description": "Spigot plugin making /msg (and /tell) better with adding /reply (and /r)",
+  "authors": [
+    "PolishKrowa"
+  ],
+  "numberOfDownloads": 269,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-reply.90691/history",
+  "gitUrl": "https://github.com/Mrredstone5230/BetterMsgPlus",
+  "releaseDate": 1616979060000,
+  "updateDate": 1659840660000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

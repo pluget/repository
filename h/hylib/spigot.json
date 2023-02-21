@@ -1,0 +1,27 @@
+{
+  "id": 106589,
+  "url": "https://www.spigotmc.org/resources/hylib.106589/",
+  "name": "HyLib",
+  "description": "HyLib, a paper plugin and powerful library.",
+  "authors": [
+    "xHyroM"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106589.jpg?1670254243",
+  "iconCid": "bafkreib2i2a3enmtxjvuoipp2mbcv2iuxa4jezb3bju76z56g5akban73q",
+  "numberOfDownloads": 33,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hylib.106589/history",
+  "gitUrl": "https://github.com/xHyroM/HyLib",
+  "releaseDate": 1670250600000,
+  "updateDate": 1670250600000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

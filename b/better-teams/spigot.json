@@ -1,0 +1,28 @@
+{
+  "id": 17129,
+  "url": "https://www.spigotmc.org/resources/better-teams.17129/",
+  "name": "Better Teams",
+  "description": "Create teams to fight to be the best",
+  "authors": [
+    "booksaw123"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/17/17129.jpg?1589470319",
+  "iconCid": "bafkreietuglc74vsnxb7u7lxygxdjtqrpgacykq4t4uab7uckpjptrodhq",
+  "numberOfDownloads": 217468,
+  "rating": 4.5,
+  "numberOfVotes": 48,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/better-teams.17129/history",
+  "gitUrl": "https://github.com/booksaw/BetterTeams",
+  "releaseDate": 1453010760000,
+  "updateDate": 1676381760000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

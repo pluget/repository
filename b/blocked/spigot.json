@@ -1,0 +1,27 @@
+{
+  "id": 108011,
+  "url": "https://www.spigotmc.org/resources/blocked-cmd.108011/",
+  "name": "Blocked-CMD",
+  "description": "Command, Command-Blocker, Block-CMD, Blocked-CMD",
+  "authors": [
+    "Lars__SVW"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108011.jpg?1676461264",
+  "iconCid": "bafkreie47io3wzg36illdppynho3ooymgokv4skpsz3fvlngm74wziqdpu",
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blocked-cmd.108011/history",
+  "releaseDate": 1676457600000,
+  "updateDate": 1676457600000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

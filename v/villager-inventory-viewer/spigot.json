@@ -1,0 +1,21 @@
+{
+  "id": 107320,
+  "url": "https://www.spigotmc.org/resources/villager-inventory-viewer.107320/",
+  "name": "Villager Inventory Viewer",
+  "description": "Shift right click for viewing a villagers inventory",
+  "authors": [
+    "akex06"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107320.jpg?1673355778",
+  "iconCid": "bafkreigdbdccrvmp5hglyh65rkoqyezrmkr2h5myezjqwi3itdeaisym6y",
+  "numberOfDownloads": 142,
+  "rating": 3,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/villager-inventory-viewer.107320/history",
+  "gitUrl": "https://github.com/akex06/VillagerInvView",
+  "releaseDate": 1673352120000,
+  "updateDate": 1673352120000,
+  "versions": [
+    "1.19"
+  ]
+}

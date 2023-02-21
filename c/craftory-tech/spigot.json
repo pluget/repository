@@ -1,0 +1,24 @@
+{
+  "id": 81151,
+  "url": "https://www.spigotmc.org/resources/craftory-tech.81151/",
+  "name": "Craftory Tech",
+  "description": "Adding Machines, Electricity, Blocks, Tools and more with out mods, pushing Minecraft to its limits!",
+  "authors": [
+    "CraftoryStudios"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81151.jpg?1594072221",
+  "iconCid": "bafkreibpua2ctnfavk4b2hj6ge3xslnywpbztfqx4fsmn4zy5vcydak5ym",
+  "numberOfDownloads": 12461,
+  "rating": 4.7,
+  "numberOfVotes": 15,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/craftory-tech.81151/history",
+  "gitUrl": "https://github.com/CraftoryStudios/Craftory-Tech",
+  "releaseDate": 1594068540000,
+  "updateDate": 1666123800000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

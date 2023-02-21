@@ -1,0 +1,23 @@
+{
+  "id": 75839,
+  "url": "https://www.spigotmc.org/resources/skbee-skript-addon.75839/",
+  "name": "SkBee [Skript-Addon]",
+  "description": "A simple Skript addon to help customize your server to the fullest.",
+  "authors": [
+    "ShaneBee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75839.jpg?1583634588",
+  "iconCid": "bafkreifleeonv6jpfoxkq3qvojjswenc52igxulfclc4vjpgvoqo3y25ra",
+  "numberOfDownloads": 32378,
+  "rating": 4.8,
+  "numberOfVotes": 45,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skbee-skript-addon.75839/history",
+  "gitUrl": "https://github.com/ShaneBeee/SkBee",
+  "releaseDate": 1583630940000,
+  "updateDate": 1676136540000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

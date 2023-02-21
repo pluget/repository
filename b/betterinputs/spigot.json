@@ -1,0 +1,24 @@
+{
+  "id": 106010,
+  "url": "https://www.spigotmc.org/resources/betterinputs.106010/",
+  "name": "BetterInputs",
+  "description": "Aiming to make getting input from users easier. From minecraft devs for minecraft devs.",
+  "authors": [
+    "Nemo_64"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106010.jpg?1667305223",
+  "iconCid": "bafkreifeeidwjwtak6ukhmsbustmylut6pnem2h2gmqwx5qpp3oiefpbiu",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterinputs.106010/history",
+  "gitUrl": "https://github.com/MrNemo64/better-inputs",
+  "releaseDate": 1667210400000,
+  "updateDate": 1674906780000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

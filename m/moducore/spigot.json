@@ -1,0 +1,24 @@
+{
+  "id": 88602,
+  "url": "https://www.spigotmc.org/resources/moducore-holograms-economy-chat-commands-and-more.88602/",
+  "name": "ModuCore - Holograms, Economy, Chat, Commands and more!",
+  "description": "A Modular and Customizable Core Plugin.",
+  "authors": [
+    "Buctudonto"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88602.jpg?1658271100",
+  "iconCid": "bafkreifnjvsstqk7t2wvhqy6qh36sob7tmoolwfutolrnsb6vssmufoqvy",
+  "numberOfDownloads": 956,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/moducore-holograms-economy-chat-commands-and-more.88602/history",
+  "gitUrl": "https://github.com/Jaimss/moducore",
+  "releaseDate": 1612308840000,
+  "updateDate": 1658271480000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

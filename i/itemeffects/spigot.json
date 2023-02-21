@@ -1,0 +1,31 @@
+{
+  "id": 91208,
+  "url": "https://www.spigotmc.org/resources/item-effects.91208/",
+  "name": "Item-Effects",
+  "description": "Add (potion) effects to any item.",
+  "authors": [
+    "Hexle"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91208.jpg?1672585695",
+  "iconCid": "bafkreiffdxy5nea2qpwouazusxbq2glmud3yag6af3tahsujnmzaa42lly",
+  "numberOfDownloads": 8534,
+  "rating": 4.4,
+  "numberOfVotes": 17,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/item-effects.91208/history",
+  "releaseDate": 1676732640000,
+  "updateDate": 1676732640000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

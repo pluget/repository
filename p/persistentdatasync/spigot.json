@@ -1,0 +1,23 @@
+{
+  "id": 105474,
+  "url": "https://www.spigotmc.org/resources/persistentdatasync.105474/",
+  "name": "PersistentDataSync",
+  "description": "Sync player PersistentDataContainers between servers using MySQL.",
+  "authors": [
+    "ehh22"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105474.jpg?1664185941",
+  "iconCid": "bafkreihxpmp3bpscnapqc3azltdja6dkzn7y5fbwevmqowbbxse5pt2v6i",
+  "numberOfDownloads": 57,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/persistentdatasync.105474/history",
+  "gitUrl": "https://github.com/Ehhthan/PersistentDataSync",
+  "releaseDate": 1664182320000,
+  "updateDate": 1671143160000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

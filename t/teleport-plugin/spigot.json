@@ -1,0 +1,24 @@
+{
+  "id": 106608,
+  "url": "https://www.spigotmc.org/resources/teleport-plugin.106608/",
+  "name": "Teleport Plugin",
+  "description": "Easy-to-use teleportation plugin.",
+  "authors": [
+    "Shauryam_Singh"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106608.jpg?1670337220",
+  "iconCid": "bafkreifdzis35sihmmqizxib5amrrc7ojyzx3zcu6xf5hbjebwedmt2lse",
+  "numberOfDownloads": 46,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/teleport-plugin.106608/history",
+  "releaseDate": 1670333580000,
+  "updateDate": 1670333580000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12"
+  ]
+}

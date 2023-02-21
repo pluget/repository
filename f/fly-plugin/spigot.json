@@ -1,0 +1,31 @@
+{
+  "id": 107160,
+  "url": "https://www.spigotmc.org/resources/fly-plugin.107160/",
+  "name": "Fly Plugin",
+  "description": "A simple /fly plugin, with permissions & a config",
+  "authors": [
+    "DungeonFinderXD"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107160.jpg?1672759754",
+  "iconCid": "bafkreifwlq6wfqrdwjm3o6lfflyslhi52uhrdt56nl2od52hvmqjzjhsei",
+  "numberOfDownloads": 146,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fly-plugin.107160/history",
+  "releaseDate": 1672756080000,
+  "updateDate": 1673108040000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 105938,
+  "url": "https://www.spigotmc.org/resources/blacksmith.105938/",
+  "name": "Blacksmith",
+  "description": "Adds a Blacksmith trait to Citizens NPCs",
+  "authors": [
+    "EpicKnarvik97"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105938.jpg?1666811171",
+  "iconCid": "bafkreifpks26dzzpngmvfasjmm2pqyhzstxmq2hoz4h5omck43qw4va6ae",
+  "numberOfDownloads": 105,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blacksmith.105938/history",
+  "gitUrl": "https://git.knarcraft.net/EpicKnarvik97/Blacksmith",
+  "releaseDate": 1666807560000,
+  "updateDate": 1673442360000,
+  "versions": [
+    "1.19"
+  ]
+}

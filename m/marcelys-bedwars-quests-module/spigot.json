@@ -1,0 +1,32 @@
+{
+  "id": 107857,
+  "url": "https://www.spigotmc.org/resources/marcelys-bedwars-quests-module.107857/",
+  "name": "Marcely's Bedwars Quests Module",
+  "description": "Quests module for MBedwars",
+  "authors": [
+    "Browsit"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107857.jpg?1675669768",
+  "iconCid": "bafkreigigyvnn3dwj4ibnsdj64m67tgygdmssvtcp6ap2iqe6r4udhpjnu",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/marcelys-bedwars-quests-module.107857/history",
+  "gitUrl": "https://github.com/Browsit/MBedwarsQuestsModule",
+  "releaseDate": 1675666140000,
+  "updateDate": 1675701600000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 107649,
+  "url": "https://www.spigotmc.org/resources/randomizehotbar.107649/",
+  "name": "RandomizeHotbar",
+  "description": "This plugin is a useful building tool that switches the held item slot when a block is placed.",
+  "authors": [
+    "ApeSander"
+  ],
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/randomizehotbar.107649/history",
+  "gitUrl": "https://github.com/ApeSander/HotbarRandomizer",
+  "releaseDate": 1674843840000,
+  "updateDate": 1674843840000,
+  "versions": [
+    "1.19"
+  ]
+}

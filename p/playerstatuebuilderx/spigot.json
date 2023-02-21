@@ -1,0 +1,27 @@
+{
+  "id": 73715,
+  "url": "https://www.spigotmc.org/resources/playerstatuebuilderx.73715/",
+  "name": "PlayerStatueBuilderX",
+  "description": "Builds a player statue out of blocks based on username. ALL skin formats supported.",
+  "authors": [
+    "SkyTechBytes"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/73/73715.jpg?1577231549",
+  "iconCid": "bafkreib5niyhv7zh5z7nju6r6qo2faco3ui6tqdkumobaerpvrcesnmjji",
+  "numberOfDownloads": 11445,
+  "rating": 4.2,
+  "numberOfVotes": 13,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playerstatuebuilderx.73715/history",
+  "gitUrl": "https://github.com/SkyTechBytes/PlayerStatueBuilder",
+  "releaseDate": 1577227860000,
+  "updateDate": 1657504800000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

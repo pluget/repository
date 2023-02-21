@@ -1,0 +1,21 @@
+{
+  "id": 105224,
+  "url": "https://www.spigotmc.org/resources/comfy-antivpn.105224/",
+  "name": "Comfy AntiVPN",
+  "description": "Block Proxies / VPNs / Tor nodes from your server",
+  "authors": [
+    "DrGumik"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105224.jpg?1662913753",
+  "iconCid": "bafkreiacctc2o2do7nrvyhdv5d4t6ywed6x7aiszxja7tsdytriuyiakbi",
+  "numberOfDownloads": 83,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/comfy-antivpn.105224/history",
+  "releaseDate": 1662910140000,
+  "updateDate": 1663431480000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

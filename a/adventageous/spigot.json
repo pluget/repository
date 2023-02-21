@@ -1,0 +1,27 @@
+{
+  "id": 106518,
+  "url": "https://www.spigotmc.org/resources/adventageous-daily-rewards-advent-calendar.106518/",
+  "name": "Adventageous | Daily rewards | Advent Calendar",
+  "description": "Create reward calendars for your Spigot server!",
+  "authors": [
+    "diademiemi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106518.jpg?1669853177",
+  "iconCid": "bafkreicvfvdty24i4ktpilkilihrz6viwf6ahi3xzyas4w7viip5nccldi",
+  "numberOfDownloads": 173,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/adventageous-daily-rewards-advent-calendar.106518/history",
+  "gitUrl": "https://github.com/diademiemi/Adventageous",
+  "releaseDate": 1669849560000,
+  "updateDate": 1669978860000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

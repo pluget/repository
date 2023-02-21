@@ -1,0 +1,20 @@
+{
+  "id": 106896,
+  "url": "https://www.spigotmc.org/resources/deadlockdetector.106896/",
+  "name": "DeadLockDetector",
+  "description": "Should your server be frozen, this plugin will automatically restart it",
+  "authors": [
+    "C0D3_M4513R"
+  ],
+  "numberOfDownloads": 101,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/deadlockdetector.106896/history",
+  "gitUrl": "https://github.com/Pixel-gaming/DeadLockDetector",
+  "releaseDate": 1676673660000,
+  "updateDate": 1676673660000,
+  "versions": [
+    "1.12",
+    "1.18"
+  ]
+}

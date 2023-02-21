@@ -1,0 +1,23 @@
+{
+  "id": 105268,
+  "url": "https://www.spigotmc.org/resources/vital.105268/",
+  "name": "vital",
+  "description": "Replacement for EssentialsX",
+  "authors": [
+    "leop2"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105268.jpg?1663111192",
+  "iconCid": "bafkreiakxbdyysqlfpzux33kcklhkiv5vep7iw256vuonysanozdj3tisq",
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/vital.105268/history",
+  "gitUrl": "https://github.com/LeoMeinel/papermc-plugins-vital",
+  "releaseDate": 1663107540000,
+  "updateDate": 1663107540000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

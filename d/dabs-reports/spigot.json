@@ -1,0 +1,19 @@
+{
+  "id": 107477,
+  "url": "https://www.spigotmc.org/resources/dabs-reports.107477/",
+  "name": "Dab's Reports",
+  "description": "A simple bungeecord plugin so all players can report other players from any server",
+  "authors": [
+    "DabaskiTM"
+  ],
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dabs-reports.107477/history",
+  "gitUrl": "https://github.com/Dabaski/DabReports",
+  "releaseDate": 1674104880000,
+  "updateDate": 1674104880000,
+  "versions": [
+    "1.19"
+  ]
+}

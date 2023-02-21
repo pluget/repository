@@ -1,0 +1,30 @@
+{
+  "id": 69293,
+  "url": "https://www.spigotmc.org/resources/dragontimer.69293/",
+  "name": "DragonTimer",
+  "description": "Addon for DragonSlayer or Standalone",
+  "authors": [
+    "Jeppa"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/69/69293.jpg?1563097018",
+  "iconCid": "bafkreiac6n53u5ei4e7p7fum36arebahhsznedf5nrnzg7tv7s2aegy3su",
+  "numberOfDownloads": 4988,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dragontimer.69293/history",
+  "releaseDate": 1563034800000,
+  "updateDate": 1671298740000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

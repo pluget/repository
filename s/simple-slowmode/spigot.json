@@ -1,0 +1,19 @@
+{
+  "id": 105725,
+  "url": "https://www.spigotmc.org/resources/simple-slowmode.105725/",
+  "name": "Simple Slowmode",
+  "description": "Simple plugin to manage chat cooldown/slowmode.",
+  "authors": [
+    "Pan-nav"
+  ],
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-slowmode.105725/history",
+  "gitUrl": "https://github.com/Pan-nav/Simple-slowmode",
+  "releaseDate": 1665435600000,
+  "updateDate": 1665435600000,
+  "versions": [
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 100657,
+  "url": "https://www.spigotmc.org/resources/schematicupload.100657/",
+  "name": "SchematicUpload",
+  "description": "Provide a web server interface for uploading schematics to your server",
+  "authors": [
+    "William27528"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100657.jpg?1647120448",
+  "iconCid": "bafkreiehbamxygcheidcmbcz76qvjvfprpz7j3zumxclosek74helqlghi",
+  "numberOfDownloads": 179,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/schematicupload.100657/history",
+  "gitUrl": "https://github.com/WiIIiam278/SchematicUpload",
+  "releaseDate": 1647116820000,
+  "updateDate": 1663079580000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

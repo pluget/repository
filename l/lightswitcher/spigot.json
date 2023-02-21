@@ -1,0 +1,27 @@
+{
+  "id": 107059,
+  "url": "https://www.spigotmc.org/resources/lightswitcher.107059/",
+  "name": "Lightswitcher",
+  "description": "Control your redstone lamps with light switches!",
+  "authors": [
+    "jcarney2024"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107059.jpg?1672423230",
+  "iconCid": "bafkreianhg5vtp3rirody7hsltqayav24pq4fpoe5k22p53ywnev7ntdga",
+  "numberOfDownloads": 54,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lightswitcher.107059/history",
+  "releaseDate": 1672419300000,
+  "updateDate": 1672788000000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

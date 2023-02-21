@@ -1,0 +1,24 @@
+{
+  "id": 107165,
+  "url": "https://www.spigotmc.org/resources/carryonanimals-1-16-towny-worldguard-support.107165/",
+  "name": "CarryOnAnimals [1.16+, Towny/WorldGuard support]",
+  "description": "Adds the ability to move entities on the head.",
+  "authors": [
+    "qurao"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107165.jpg?1672771303",
+  "iconCid": "bafkreidqz55axdhqsgv2qb5ag2a7atkbizdqj4vsgmd23y26val32lyi4i",
+  "numberOfDownloads": 333,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/carryonanimals-1-16-towny-worldguard-support.107165/history",
+  "gitUrl": "https://github.com/KalbinVV/CarryOnAnimals",
+  "releaseDate": 1672767660000,
+  "updateDate": 1674233880000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 88653,
+  "url": "https://www.spigotmc.org/resources/custom-foods-midens-foods.88653/",
+  "name": "Custom Foods // Miden's Foods",
+  "description": "Allows you to add custom, eatable foods to your server without mods!",
+  "authors": [
+    "champion12800"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88653.jpg?1612746321",
+  "iconCid": "bafkreie7ebzjxwlhh3ker5ouscurqdz6kfd7kkuiij32kxmxide3vuaoqe",
+  "numberOfDownloads": 2570,
+  "rating": 4.8,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/custom-foods-midens-foods.88653/history",
+  "gitUrl": "https://github.com/MidenTheDev/Miden-s-Foods/tree/0.9",
+  "releaseDate": 1612402680000,
+  "updateDate": 1670092740000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

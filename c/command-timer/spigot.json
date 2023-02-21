@@ -1,0 +1,32 @@
+{
+  "id": 24141,
+  "url": "https://www.spigotmc.org/resources/command-timer.24141/",
+  "name": "Command Timer",
+  "description": "Schedule commands like you want",
+  "authors": [
+    "titivermeesch"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/24/24141.jpg?1464780871",
+  "iconCid": "bafkreid622nt42hzsa7kcyunnsd3eqfldaulurpguhozs7ive5k6e76aeq",
+  "numberOfDownloads": 31486,
+  "rating": 4.5,
+  "numberOfVotes": 93,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/command-timer.24141/history",
+  "gitUrl": "https://github.com/titivermeesch/CommandTimer",
+  "releaseDate": 1676492340000,
+  "updateDate": 1676492340000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

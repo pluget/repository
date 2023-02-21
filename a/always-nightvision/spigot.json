@@ -1,0 +1,32 @@
+{
+  "id": 91960,
+  "url": "https://www.spigotmc.org/resources/anv-always-nightvision.91960/",
+  "name": "[ANV] Always NightVision",
+  "description": "Provide to your players an infinite night vision effect",
+  "authors": [
+    "Blacky62"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91960.jpg?1619974420",
+  "iconCid": "bafkreieoma6pkpetcwrbk7i3co3e346qx7lubhdmqnpmxvqokhqbc7fgdq",
+  "numberOfDownloads": 189,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anv-always-nightvision.91960/history",
+  "gitUrl": "https://github.com/luca-alsina/AlwaysNightVision",
+  "releaseDate": 1619970780000,
+  "updateDate": 1676230380000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

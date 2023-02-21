@@ -1,0 +1,32 @@
+{
+  "id": 98645,
+  "url": "https://www.spigotmc.org/resources/advancedplhide-1-8-1-19-3-manage-your-tab-completer.98645/",
+  "name": "AdvancedPlHide [1.8-1.19.3] - Manage your tab completer",
+  "description": "A Plugin that Allows you to remove parts of tab completion, and hide plugins from the tabcompleter!",
+  "authors": [
+    "Blue_Tree"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98645.jpg?1640354357",
+  "iconCid": "bafkreiah6fvs3kc7wuwtnxskvble4hmxdv2di2r7sbkyeqhy2p76i7zv6m",
+  "numberOfDownloads": 614,
+  "rating": 4.1,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advancedplhide-1-8-1-19-3-manage-your-tab-completer.98645/history",
+  "gitUrl": "https://github.com/BlueTree242/AdvancedPlHide",
+  "releaseDate": 1640350740000,
+  "updateDate": 1674468600000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

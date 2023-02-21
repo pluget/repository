@@ -1,0 +1,32 @@
+{
+  "id": 105575,
+  "url": "https://www.spigotmc.org/resources/serverpinger-papi-expansion-show-your-server-status-with-different-template.105575/",
+  "name": "ServerPinger PAPI Expansion | Show your server status with different template",
+  "description": "A PlaceholderAPI Expansion that allows you to ping servers for information",
+  "authors": [
+    "HappyAreaBean"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105575.jpg?1664685502",
+  "iconCid": "bafkreiats27mmrqnut45zjd2gsaptnzxx2a7qhyvrcgd5isqkympxzhl6q",
+  "numberOfDownloads": 62,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/serverpinger-papi-expansion-show-your-server-status-with-different-template.105575/history",
+  "gitUrl": "https://go.happyareabean.cc/serverpinger",
+  "releaseDate": 1664681880000,
+  "updateDate": 1664681880000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

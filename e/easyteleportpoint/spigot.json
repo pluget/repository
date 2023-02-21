@@ -1,0 +1,32 @@
+{
+  "id": 104486,
+  "url": "https://www.spigotmc.org/resources/easyteleportpoint.104486/",
+  "name": "EasyTeleportPoint",
+  "description": "A teleport point plugin with Gui",
+  "authors": [
+    "zhangyang0204"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104486.jpg?1660282699",
+  "iconCid": "bafkreidgx33wjwqv46tj54w7nmov4ayuryj54ox75jnpkzfwcfgidwuivy",
+  "numberOfDownloads": 574,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/easyteleportpoint.104486/history",
+  "gitUrl": "https://github.com/ZhangYang0204/easy-teleport-point",
+  "releaseDate": 1660279020000,
+  "updateDate": 1661331060000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

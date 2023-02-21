@@ -1,0 +1,24 @@
+{
+  "id": 44511,
+  "url": "https://www.spigotmc.org/resources/playerinfo.44511/",
+  "name": "PlayerInfo",
+  "description": "It show important informations about a player.",
+  "authors": [
+    "dagobertdu94"
+  ],
+  "numberOfDownloads": 721,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playerinfo.44511/history",
+  "releaseDate": 1500995760000,
+  "updateDate": 1661892780000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

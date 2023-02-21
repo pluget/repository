@@ -1,0 +1,21 @@
+{
+  "id": 106715,
+  "url": "https://www.spigotmc.org/resources/playtime.106715/",
+  "name": "PlayTime",
+  "description": "Adds a simple playtime skript to your server",
+  "authors": [
+    "Fauve"
+  ],
+  "numberOfDownloads": 122,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playtime.106715/history",
+  "releaseDate": 1670923500000,
+  "updateDate": 1671493740000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

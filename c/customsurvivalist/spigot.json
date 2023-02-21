@@ -1,0 +1,23 @@
+{
+  "id": 87539,
+  "url": "https://www.spigotmc.org/resources/customsurvivalist.87539/",
+  "name": "CustomSurvivalist",
+  "description": "Dream's Survivalist vs Hitmen, but with more features!",
+  "authors": [
+    "SimonDMCPlayer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87539.jpg?1609959635",
+  "iconCid": "bafkreidrrgq35j3au4vt5far4w4nsmdrmc2gh3buaryurzcje7sdvrltqi",
+  "numberOfDownloads": 120,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/customsurvivalist.87539/history",
+  "gitUrl": "https://github.com/SimonDMC/CustomSurvivalist/",
+  "releaseDate": 1609956000000,
+  "updateDate": 1659436800000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 93798,
+  "url": "https://www.spigotmc.org/resources/droppable-budding-amethyst.93798/",
+  "name": "Droppable Budding Amethyst",
+  "description": "This plugin allows budding amethyst to drop with a silk touch item.",
+  "authors": [
+    "PolishKrowa"
+  ],
+  "numberOfDownloads": 333,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/droppable-budding-amethyst.93798/history",
+  "gitUrl": "https://github.com/Mrredstone5230/SilkTouchAmethyst",
+  "releaseDate": 1625158740000,
+  "updateDate": 1668351660000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

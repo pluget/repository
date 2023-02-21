@@ -1,0 +1,32 @@
+{
+  "id": 88871,
+  "url": "https://www.spigotmc.org/resources/namemc-api-serversmc.88871/",
+  "name": "NameMC-API-ServersMC",
+  "description": "Use of the NameMC API for Minecraft Servers.",
+  "authors": [
+    "Rogelio7"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88871.jpg?1612958083",
+  "iconCid": "bafkreih3l7itdcscyhn4degcpwoh52fcm742bsyxbnaexy77sa6snq6ebe",
+  "numberOfDownloads": 492,
+  "rating": 4.7,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/namemc-api-serversmc.88871/history",
+  "gitUrl": "https://github.com/HappyRogelio7/NameMC-API-ServersMC",
+  "releaseDate": 1612954440000,
+  "updateDate": 1662415620000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

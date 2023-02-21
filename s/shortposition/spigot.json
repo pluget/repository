@@ -1,0 +1,28 @@
+{
+  "id": 104515,
+  "url": "https://www.spigotmc.org/resources/shortposition.104515/",
+  "name": "ShortPosition",
+  "description": "Safe your fast your coords to get back there.",
+  "authors": [
+    "filtastisch"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104515.jpg?1660360422",
+  "iconCid": "bafkreicxhexhja674mncoi4j3tbccckwudv7fzrzgzglq4phv7uktr5ncq",
+  "numberOfDownloads": 27,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/shortposition.104515/history",
+  "gitUrl": "https://github.com/filtastisch/ShortPositions",
+  "releaseDate": 1660356360000,
+  "updateDate": 1660356360000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

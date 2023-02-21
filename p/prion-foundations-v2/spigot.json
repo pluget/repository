@@ -1,0 +1,22 @@
+{
+  "id": 103428,
+  "url": "https://www.spigotmc.org/resources/prion-foundations-v2.103428/",
+  "name": "Prion Foundations V2",
+  "description": "The foundation for every Prison Server!",
+  "authors": [
+    "JPlugins"
+  ],
+  "numberOfDownloads": 67,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/prion-foundations-v2.103428/history",
+  "gitUrl": "https://github.com/JeNDS/PrisonFoundations",
+  "releaseDate": 1657994400000,
+  "updateDate": 1658718480000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 96024,
+  "url": "https://www.spigotmc.org/resources/q1zz-discordrewards.96024/",
+  "name": "q1zZ-DiscordRewards",
+  "description": "simple plugin for receiving reward for join to discord server.",
+  "authors": [
+    "Doriann2"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96024.jpg?1630982622",
+  "iconCid": "bafkreicxp6k6b444uzppbhgwv3xrhrcqvhr55z64mbwolgzfc5whmbhf3a",
+  "numberOfDownloads": 1159,
+  "rating": 4,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/q1zz-discordrewards.96024/history",
+  "gitUrl": "https://github.com/q1zZu/q1zZ-DiscordRewards",
+  "releaseDate": 1676482500000,
+  "updateDate": 1676482500000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

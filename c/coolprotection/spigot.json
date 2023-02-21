@@ -1,0 +1,21 @@
+{
+  "id": 100423,
+  "url": "https://www.spigotmc.org/resources/coolprotection.100423/",
+  "name": "CoolProtection",
+  "description": "Protect your Server from uncontroled explosions, Wither spawns,... and keeping high TPS",
+  "authors": [
+    "tontito"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100423.jpg?1646255747",
+  "iconCid": "bafkreiftwff4z3gr2xjmwt5ae3ahkp4rzuseg2t7tri4sn7sp7dvhs5imm",
+  "numberOfDownloads": 265,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/coolprotection.100423/history",
+  "releaseDate": 1646252100000,
+  "updateDate": 1674504480000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

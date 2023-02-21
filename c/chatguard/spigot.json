@@ -1,0 +1,27 @@
+{
+  "id": 107886,
+  "url": "https://www.spigotmc.org/resources/chatguard.107886/",
+  "name": "ChatGuard",
+  "description": "Keep Your Chat Clean and Professional with the ChatGuard Plugin",
+  "authors": [
+    "Fronsky"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107886.jpg?1676539957",
+  "iconCid": "bafkreifanfhrujlotbbu4opyfkqpreta3r5yksugxje4525cztoeogsro4",
+  "numberOfDownloads": 98,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatguard.107886/history",
+  "gitUrl": "https://www.fronsky.com/spigot-framework",
+  "releaseDate": 1676810520000,
+  "updateDate": 1676810520000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 95104,
+  "url": "https://www.spigotmc.org/resources/quickshop-addon-shop-search.95104/",
+  "name": "[QuickShop Addon] Shop Search",
+  "description": "Adds a /finditem command in game for searching through all the shops on the server.",
+  "authors": [
+    "Ronsane"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95104.jpg?1629522291",
+  "iconCid": "bafkreiamvwx6nvicjqunzgb5uwsdbclqahsydj3x4d66zzs5i54npsigku",
+  "numberOfDownloads": 974,
+  "rating": 4.8,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/quickshop-addon-shop-search.95104/history",
+  "gitUrl": "https://gitlab.com/ronsane/QSFindItemAddOn/-/tree/master",
+  "releaseDate": 1628393580000,
+  "updateDate": 1674414780000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

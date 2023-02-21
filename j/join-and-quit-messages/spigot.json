@@ -1,0 +1,33 @@
+{
+  "id": 58109,
+  "url": "https://www.spigotmc.org/resources/join-and-quit-messages.58109/",
+  "name": "Join and Quit Messages",
+  "description": "Customize your own join and quit messages",
+  "authors": [
+    "TheDutchRuben"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/58/58109.jpg?1655561751",
+  "iconCid": "bafkreihpp2jiysflgdmt3khxmbfxrn55kbrs26fyqn4mti2x2kcubzlpde",
+  "numberOfDownloads": 272,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/join-and-quit-messages.58109/history",
+  "gitUrl": "https://github.com/thedutchruben/joinandquitmessages",
+  "releaseDate": 1530030960000,
+  "updateDate": 1667762460000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

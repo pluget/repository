@@ -1,0 +1,26 @@
+{
+  "id": 107574,
+  "url": "https://www.spigotmc.org/resources/advancedannouncement-automatically-announce-new-types-added.107574/",
+  "name": "AdvancedAnnouncement - Automatically announce. New types added.",
+  "description": "Auto broadcaster with more types!",
+  "authors": [
+    "ed333"
+  ],
+  "numberOfDownloads": 69,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advancedannouncement-automatically-announce-new-types-added.107574/history",
+  "gitUrl": "https://github.com/ed-3/AdvancedAnnouncement",
+  "releaseDate": 1674519720000,
+  "updateDate": 1674909060000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

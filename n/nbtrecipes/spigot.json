@@ -1,0 +1,23 @@
+{
+  "id": 107230,
+  "url": "https://www.spigotmc.org/resources/nbtrecipes.107230/",
+  "name": "NBTRecipes",
+  "description": "A very simple plugin to add recipes that use NBT data",
+  "authors": [
+    "LoreSchaeffer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107230.jpg?1672952408",
+  "iconCid": "bafkreibhtrr2jt3dklsp7lx3fhovkj3f2kgjxpv6siv33ut7dozfckfyme",
+  "numberOfDownloads": 36,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nbtrecipes.107230/history",
+  "gitUrl": "https://github.com/LoreSchaeffer/NBTRecipes",
+  "releaseDate": 1672948740000,
+  "updateDate": 1672989780000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

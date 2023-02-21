@@ -1,0 +1,32 @@
+{
+  "id": 14622,
+  "url": "https://www.spigotmc.org/resources/player-settings.14622/",
+  "name": "Player Settings",
+  "description": "A settings system and in-game menu for players in your Minecraft server!",
+  "authors": [
+    "lim_bo56"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/14/14622.jpg?1666487582",
+  "iconCid": "bafkreiefosr2khbb633vr5oealg3mmfzbmnu6be4xwg2hdc24f45o22bxe",
+  "numberOfDownloads": 16903,
+  "rating": 4.6,
+  "numberOfVotes": 93,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/player-settings.14622/history",
+  "gitUrl": "https://github.com/limbo56/Player-Settings",
+  "releaseDate": 1676418360000,
+  "updateDate": 1676418360000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

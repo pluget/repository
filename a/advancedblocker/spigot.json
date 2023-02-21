@@ -1,0 +1,33 @@
+{
+  "id": 96987,
+  "url": "https://www.spigotmc.org/resources/advancedblocker.96987/",
+  "name": "AdvancedBlocker",
+  "description": "BungeeCord",
+  "authors": [
+    "Danipro_2007"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96987.jpg?1634751031",
+  "iconCid": "bafkreibppldpizdohriqx4br74azfg3mwdx73mhhlhqmobgedtfhev7cha",
+  "numberOfDownloads": 166,
+  "rating": 3,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advancedblocker.96987/history",
+  "gitUrl": "https://github.com/Danidev819/AdvancedBlocker",
+  "releaseDate": 1634747400000,
+  "updateDate": 1671566880000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

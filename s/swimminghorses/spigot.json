@@ -1,0 +1,28 @@
+{
+  "id": 72920,
+  "url": "https://www.spigotmc.org/resources/swimminghorses.72920/",
+  "name": "SwimmingHorses",
+  "description": "Ride horses and other mobs through water without them sinking.",
+  "authors": [
+    "Ranull"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/72/72920.jpg?1675267123",
+  "iconCid": "bafkreid2x36mc5t4p2ik56rbzdzo43fmqwctwwkz3qz4dp3ee2n7ukxnba",
+  "numberOfDownloads": 759,
+  "rating": 5,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/swimminghorses.72920/history",
+  "gitUrl": "https://gitlab.com/ranull/minecraft/swimminghorses",
+  "releaseDate": 1574428680000,
+  "updateDate": 1675263480000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

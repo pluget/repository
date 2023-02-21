@@ -1,0 +1,32 @@
+{
+  "id": 90439,
+  "url": "https://www.spigotmc.org/resources/papitest-placeholderapi-tester-1-8-x-1-19-x.90439/",
+  "name": "PaPiTest | PlaceholderAPI Tester [1.8.x - 1.19.x]",
+  "description": "Test all placeholders from PlaceholderAPI | PlaceholderAPI Tester",
+  "authors": [
+    "JaTiTV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90439.jpg?1616369687",
+  "iconCid": "bafkreiefzatdrpvd2n5mrdrvopo7ba2m4x6mubeomnaxulglbyxxe4gwie",
+  "numberOfDownloads": 684,
+  "rating": 2.3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/papitest-placeholderapi-tester-1-8-x-1-19-x.90439/history",
+  "gitUrl": "https://git.t2code.net/JaTiTV/PaPiTest",
+  "releaseDate": 1616366040000,
+  "updateDate": 1668724320000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

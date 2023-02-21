@@ -1,0 +1,28 @@
+{
+  "id": 65995,
+  "url": "https://www.spigotmc.org/resources/justhorse.65995/",
+  "name": "JustHorse",
+  "description": "Fun plugin for hub server.",
+  "authors": [
+    "SPY_me"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/65/65995.jpg?1553785999",
+  "iconCid": "bafkreiajnf7nfca6iyfjcrruwuwdxo6huxmoizqglkrcminmg6lcw2cr3a",
+  "numberOfDownloads": 164,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/justhorse.65995/history",
+  "gitUrl": "https://github.com/SPYmeYT/MoonHorse",
+  "releaseDate": 1553782260000,
+  "updateDate": 1671661440000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

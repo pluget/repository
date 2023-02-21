@@ -1,0 +1,31 @@
+{
+  "id": 92117,
+  "url": "https://www.spigotmc.org/resources/ajs-always-join-spawn.92117/",
+  "name": "[AJS] Always Join Spawn",
+  "description": "Always teleport a player to world spawn when he joins the server.",
+  "authors": [
+    "Blacky62"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92117.jpg?1620400299",
+  "iconCid": "bafkreicgkyuqslobrmlp3yd3v6tvigpgnqvzsq6vfgdwtu5dmvkw5ob2a4",
+  "numberOfDownloads": 205,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ajs-always-join-spawn.92117/history",
+  "releaseDate": 1620396240000,
+  "updateDate": 1676230200000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

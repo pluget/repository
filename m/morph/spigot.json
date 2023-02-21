@@ -1,0 +1,27 @@
+{
+  "id": 8846,
+  "url": "https://www.spigotmc.org/resources/morph.8846/",
+  "name": "Morph",
+  "description": "A Morph plugin based on the Morph mod!",
+  "authors": [
+    "BumbleBee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/8/8846.jpg?1480189340",
+  "iconCid": "bafkreieq6vpfdds72asmirqz3qcigag5boyq2w3ewnobn3ezudkh4wjc2u",
+  "numberOfDownloads": 234331,
+  "rating": 4.6,
+  "numberOfVotes": 66,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/morph.8846/history",
+  "releaseDate": 1435684620000,
+  "updateDate": 1660839780000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

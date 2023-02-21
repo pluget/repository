@@ -1,0 +1,33 @@
+{
+  "id": 80852,
+  "url": "https://www.spigotmc.org/resources/crafty-controller.80852/",
+  "name": "Crafty Controller",
+  "description": "Minecraft server managment interface. (Java and Bedrock)",
+  "authors": [
+    "ArcadiaTech"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80852.jpg?1655266922",
+  "iconCid": "bafkreiheh3x5yj6jvndofcfaw3kxci3lsdbgzwqxo4yidaqnicx7rvgiea",
+  "numberOfDownloads": 2653,
+  "rating": 4.3,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/crafty-controller.80852/history",
+  "gitUrl": "https://gitlab.com/crafty-controller/crafty-4",
+  "releaseDate": 1593640860000,
+  "updateDate": 1675034400000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

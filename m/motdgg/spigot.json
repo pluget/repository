@@ -1,0 +1,32 @@
+{
+  "id": 106501,
+  "url": "https://www.spigotmc.org/resources/motd-gg.106501/",
+  "name": "motd.gg",
+  "description": "Use MOTDs created on motd.gg",
+  "authors": [
+    "Aternos"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106501.jpg?1669741886",
+  "iconCid": "bafkreiblnxnyntt7jtygpwaymswntjwtgcmowagwhyjfw77tzca35rjytm",
+  "numberOfDownloads": 102,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/motd-gg.106501/history",
+  "gitUrl": "https://github.com/aternosorg/motdgg-bukkit/",
+  "releaseDate": 1669738200000,
+  "updateDate": 1669993080000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

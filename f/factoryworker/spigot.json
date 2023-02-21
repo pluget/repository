@@ -1,0 +1,27 @@
+{
+  "id": 82852,
+  "url": "https://www.spigotmc.org/resources/factoryworker.82852/",
+  "name": "FactoryWorker",
+  "description": "TPS saver, best choice to replace mob farm",
+  "authors": [
+    "MoTy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82852.jpg?1597690455",
+  "iconCid": "bafkreihvhmngrb7sjvh2bpu5wyw3xxesmfarc7lalpjlihjxwmhku43rou",
+  "numberOfDownloads": 498,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/factoryworker.82852/history",
+  "gitUrl": "https://github.com/xMoTy/FactoryWorker",
+  "releaseDate": 1597686840000,
+  "updateDate": 1667887620000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 90645,
+  "url": "https://www.spigotmc.org/resources/drugs.90645/",
+  "name": "Drugs",
+  "description": "A plugin that introduces unique drugs into Minecraft.",
+  "authors": [
+    "TheMindDroid"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90645.jpg?1616985418",
+  "iconCid": "bafkreigovbpiewjzkk5muqvqgyfud5nmg7ul2wwxvtly7gq4vuzh5qx3ga",
+  "numberOfDownloads": 17134,
+  "rating": 4.6,
+  "numberOfVotes": 17,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/drugs.90645/history",
+  "gitUrl": "https://github.com/TheMindDroid/DrugsPlugin",
+  "releaseDate": 1616872560000,
+  "updateDate": 1657510380000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

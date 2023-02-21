@@ -1,0 +1,24 @@
+{
+  "id": 89723,
+  "url": "https://www.spigotmc.org/resources/teleportbow.89723/",
+  "name": "TeleportBow",
+  "description": "This plugin give you a special bow can teleport you",
+  "authors": [
+    "LuuckA"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89723.jpg?1619362863",
+  "iconCid": "bafkreidqc4jbba6anfj2uhd3y4hldhv7i7xpmtnxzacjjfngcrwlq3j7im",
+  "numberOfDownloads": 400,
+  "rating": 4.3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/teleportbow.89723/history",
+  "gitUrl": "https://github.com/LuuckA21/TeleportBow",
+  "releaseDate": 1614797940000,
+  "updateDate": 1674306540000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

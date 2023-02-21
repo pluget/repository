@@ -1,0 +1,23 @@
+{
+  "id": 97926,
+  "url": "https://www.spigotmc.org/resources/origins-bukkit-1-17-1-19-2.97926/",
+  "name": "Origins-Bukkit | [1.17-1.19.2]",
+  "description": "Origins for Bukkit and forks of Bukkit.",
+  "authors": [
+    "LemonyPancakes"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97926.jpg?1638018946",
+  "iconCid": "bafkreihpazpr46zc4bhjeiq5iqasjeuugpzqy667ndajejzsylwsa4nza4",
+  "numberOfDownloads": 25567,
+  "rating": 4.1,
+  "numberOfVotes": 24,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/origins-bukkit-1-17-1-19-2.97926/history",
+  "gitUrl": "https://github.com/LemonyPancakes/Origins-Bukkit",
+  "releaseDate": 1676728320000,
+  "updateDate": 1676728320000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 107086,
+  "url": "https://www.spigotmc.org/resources/proxydiscordbridge.107086/",
+  "name": "ProxyDiscordBridge",
+  "description": "Simple Minecraft <> Discord bridge, running through BungeeCord, powered by ProxyChatBridge.",
+  "authors": [
+    "Ranull"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107086.jpg?1672513028",
+  "iconCid": "bafkreiax6k4zx7gbljlpeeld7vws4tpo2246t3fmqnigws6qgrlo7n3u3i",
+  "numberOfDownloads": 78,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/proxydiscordbridge.107086/history",
+  "gitUrl": "https://gitlab.com/ranull/minecraft/proxydiscordbridge",
+  "releaseDate": 1672509360000,
+  "updateDate": 1675249320000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

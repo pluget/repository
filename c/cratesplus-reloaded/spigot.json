@@ -1,0 +1,32 @@
+{
+  "id": 95122,
+  "url": "https://www.spigotmc.org/resources/cratesplus-reloaded.95122/",
+  "name": "CratesPlus Reloaded",
+  "description": "Crates",
+  "authors": [
+    "Lagn2"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95122.jpg?1668093700",
+  "iconCid": "bafkreiansaqqmpzm6kidnbenkxecqngfnehtq6q3zgingel6zk2dpnbo6q",
+  "numberOfDownloads": 20258,
+  "rating": 3.7,
+  "numberOfVotes": 15,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cratesplus-reloaded.95122/history",
+  "gitUrl": "https://github.com/dangerousnick/Crates-Plus",
+  "releaseDate": 1628438940000,
+  "updateDate": 1668618480000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

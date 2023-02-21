@@ -1,0 +1,32 @@
+{
+  "id": 97845,
+  "url": "https://www.spigotmc.org/resources/anticheat-replay.97845/",
+  "name": "AntiCheat Replay",
+  "description": "Watch a recording of punishments from your AntiCheat. Formerly VulcanReplay",
+  "authors": [
+    "Justin393"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97845.jpg?1637719250",
+  "iconCid": "bafkreias7utmxeuv7ypz4rg7euy3y4pm3eurrn5sm5xjkzxjuplcjlczey",
+  "numberOfDownloads": 13003,
+  "rating": 5,
+  "numberOfVotes": 25,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anticheat-replay.97845/history",
+  "gitUrl": "https://github.com/JustinDevB/AntiCheatReplay",
+  "releaseDate": 1637715180000,
+  "updateDate": 1673897220000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 7939,
+  "url": "https://www.spigotmc.org/resources/nbt-api.7939/",
+  "name": "NBT API",
+  "description": "Add custom NBT tags or modify tags of Items/Entities/Tiles without NMS!",
+  "authors": [
+    "tr7zw"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/7/7939.jpg?1433689410",
+  "iconCid": "bafkreidfqby47tkvtp7libozfhxrqzz37vgw3hle6wan4p2mmkr3x4rqhi",
+  "numberOfDownloads": 139456,
+  "rating": 4.9,
+  "numberOfVotes": 84,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nbt-api.7939/history",
+  "gitUrl": "https://github.com/tr7zw/Item-NBT-API",
+  "releaseDate": 1433685780000,
+  "updateDate": 1671031860000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

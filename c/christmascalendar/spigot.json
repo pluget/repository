@@ -1,0 +1,27 @@
+{
+  "id": 107802,
+  "url": "https://www.spigotmc.org/resources/christmascalendar.107802/",
+  "name": "ChristmasCalendar",
+  "description": "Advent Calendar Plugin Updated!",
+  "authors": [
+    "ImNotSMG3"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107802.jpg?1675447828",
+  "iconCid": "bafkreibtfndxzis2zoerh6jbwj2amdbos3j4gvobp6nau72k7heosn4btq",
+  "numberOfDownloads": 90,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/christmascalendar.107802/history",
+  "gitUrl": "https://github.com/Ajneb97/ChristmasCalendar",
+  "releaseDate": 1676911920000,
+  "updateDate": 1676911920000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

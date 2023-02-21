@@ -1,0 +1,25 @@
+{
+  "id": 107322,
+  "url": "https://www.spigotmc.org/resources/chatsystem-easyrayx.107322/",
+  "name": "ChatSystem EasyRayX",
+  "description": "Minecraft, ChatSystem",
+  "authors": [
+    "EasyRayX"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107322.jpg?1673368165",
+  "iconCid": "bafkreid3p7uxzdwmcizt7kziumcbkgvqho3s2arpwei7n5exzq6ysyufy4",
+  "numberOfDownloads": 8,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatsystem-easyrayx.107322/history",
+  "gitUrl": "https://pastebin.com/JNx4kb4H",
+  "releaseDate": 1673364540000,
+  "updateDate": 1673364540000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12"
+  ]
+}

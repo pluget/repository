@@ -1,0 +1,31 @@
+{
+  "id": 105569,
+  "url": "https://www.spigotmc.org/resources/ccore-all-in-one-server-core.105569/",
+  "name": "cCore | All in one server core",
+  "description": "cCore is a 1.7-1.19 Skript with tons of commands to help you run your server!",
+  "authors": [
+    "koqel"
+  ],
+  "numberOfDownloads": 83,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ccore-all-in-one-server-core.105569/history",
+  "gitUrl": "https://github.com/koqel/cCore/tree/main",
+  "releaseDate": 1664659740000,
+  "updateDate": 1665536100000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

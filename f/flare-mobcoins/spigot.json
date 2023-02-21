@@ -1,0 +1,32 @@
+{
+  "id": 101123,
+  "url": "https://www.spigotmc.org/resources/flare-mobcoins-1-8-1-19-earn-mobcoins-by-killing-mobs-and-animal.101123/",
+  "name": "Flare Mobcoins [1.8 - 1.19] - Earn mobcoins by killing mobs and animal",
+  "description": "Kill mobs and animal to receive custom coins.",
+  "authors": [
+    "xMaikiYT"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101123.jpg?1648920494",
+  "iconCid": "bafkreigvb5esyffjlhlv25haj6afcebqggmjtei7uqhsnhibwriutte3p4",
+  "numberOfDownloads": 747,
+  "rating": 4.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/flare-mobcoins-1-8-1-19-earn-mobcoins-by-killing-mobs-and-animal.101123/history",
+  "gitUrl": "https://github.com/TM-Development/TMMobcoins",
+  "releaseDate": 1676571480000,
+  "updateDate": 1676571480000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 103702,
+  "url": "https://www.spigotmc.org/resources/autopickup.103702/",
+  "name": "AutoPickup",
+  "description": "A plugin that picks the dropped item from the block you break for you",
+  "authors": [
+    "ThelegendofTR"
+  ],
+  "numberOfDownloads": 299,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/autopickup.103702/history",
+  "gitUrl": "https://github.com/zorbeytorunoglu/autopickup",
+  "releaseDate": 1658794140000,
+  "updateDate": 1659909060000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

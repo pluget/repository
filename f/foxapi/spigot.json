@@ -1,0 +1,33 @@
+{
+  "id": 97745,
+  "url": "https://www.spigotmc.org/resources/foxapi.97745/",
+  "name": "FoxAPI",
+  "description": "[1.9-1.18.*] For plugin developers",
+  "authors": [
+    "GempXPlay"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97745.jpg?1637408958",
+  "iconCid": "bafkreibjyznt3kbeguborm6eqtjzfletmg7h35pkzjshsjpa3xtexew2ie",
+  "numberOfDownloads": 730,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/foxapi.97745/history",
+  "gitUrl": "https://github.com/OneGuardStudio/WolfAPI",
+  "releaseDate": 1637405280000,
+  "updateDate": 1671464820000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

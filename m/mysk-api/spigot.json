@@ -1,0 +1,26 @@
+{
+  "id": 81565,
+  "url": "https://www.spigotmc.org/resources/mysk-api.81565/",
+  "name": "Mysk API",
+  "description": "API faciliting the creation of plugins",
+  "authors": [
+    "JustSkillinMe"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81565.jpg?1594932894",
+  "iconCid": "bafkreiafsop474umfcj57d5qwdakitvmcntvldnpdm4jpqhxb2qdfsl3pq",
+  "numberOfDownloads": 88,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mysk-api.81565/history",
+  "releaseDate": 1594929240000,
+  "updateDate": 1666811280000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 58434,
+  "url": "https://www.spigotmc.org/resources/trade-system-custom-layouts.58434/",
+  "name": "Trade System | Custom layouts!",
+  "description": "Setup your own trade gui ingame and create your way to trade with other players!",
+  "authors": [
+    "CodingAir"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/58/58434.jpg?1530823109",
+  "iconCid": "bafkreih2mq3wrwmwu5ougm65e455sqop6nzhrhp5tlnfhqhu5dkju4ekmi",
+  "numberOfDownloads": 89799,
+  "rating": 4.7,
+  "numberOfVotes": 124,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/trade-system-custom-layouts.58434/history",
+  "gitUrl": "https://github.com/CodingAir/TradeSystem",
+  "releaseDate": 1530819480000,
+  "updateDate": 1673427720000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

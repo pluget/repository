@@ -1,0 +1,31 @@
+{
+  "id": 14130,
+  "url": "https://www.spigotmc.org/resources/piggyback-more-than-just-a-stacker.14130/",
+  "name": "PiggyBack - More than just a Stacker",
+  "description": "Crouch, click, piggyback!",
+  "authors": [
+    "DrkMatr1984"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/14/14130.jpg?1446522683",
+  "iconCid": "bafkreihutopbhdkwmqgnmbajfhjlrnojl4r5ldrty5ucfpyy256iegriuq",
+  "numberOfDownloads": 7116,
+  "rating": 4.8,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/piggyback-more-than-just-a-stacker.14130/history",
+  "gitUrl": "https://github.com/DrkMatr1984/Piggyback",
+  "releaseDate": 1446519000000,
+  "updateDate": 1664370600000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

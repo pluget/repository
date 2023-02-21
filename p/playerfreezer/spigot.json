@@ -1,0 +1,22 @@
+{
+  "id": 101362,
+  "url": "https://www.spigotmc.org/resources/playerfreezer.101362/",
+  "name": "PlayerFreezer",
+  "description": "Player freezing plugin for administration",
+  "authors": [
+    "MC_Cloud"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101362.jpg?1649904808",
+  "iconCid": "bafkreifswv7ahphnm2c57zhuskdgf6zkiovz5iprq6aphxwqpcjnrlzfgm",
+  "numberOfDownloads": 161,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playerfreezer.101362/history",
+  "gitUrl": "https://github.com/ACM02/PlayerFreezer",
+  "releaseDate": 1649901180000,
+  "updateDate": 1668227160000,
+  "versions": [
+    "1.8",
+    "1.18"
+  ]
+}

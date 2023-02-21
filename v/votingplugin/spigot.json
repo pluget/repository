@@ -1,0 +1,28 @@
+{
+  "id": 15358,
+  "url": "https://www.spigotmc.org/resources/votingplugin.15358/",
+  "name": "VotingPlugin",
+  "description": "Most highly featured votifier listener! 1.12-1.19 Support! BungeeCord & Velocity Support!",
+  "authors": [
+    "BenCodez"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/15/15358.jpg?1536008890",
+  "iconCid": "bafkreiftp4r6aezawb74zgmdcvalnteryrougqglb54o5ifn5bfatqovd4",
+  "numberOfDownloads": 131004,
+  "rating": 4.5,
+  "numberOfVotes": 388,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/votingplugin.15358/history",
+  "gitUrl": "https://github.com/BenCodez/VotingPlugin",
+  "releaseDate": 1676762940000,
+  "updateDate": 1676762940000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

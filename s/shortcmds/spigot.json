@@ -1,0 +1,32 @@
+{
+  "id": 107202,
+  "url": "https://www.spigotmc.org/resources/shortcmds-fully-customizable-color-support.107202/",
+  "name": "ShortCMDs | Fully Customizable | Color Support",
+  "description": "A Minecraft plugin to shorten default commands",
+  "authors": [
+    "Mefyy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107202.jpg?1672867372",
+  "iconCid": "bafkreiam2wr75honaxpcgnl5f7sffv5xi7wr4avdjof5ekenxhcytpx6qe",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/shortcmds-fully-customizable-color-support.107202/history",
+  "gitUrl": "https://github.com/xMefy/ShortCMDs",
+  "releaseDate": 1672863720000,
+  "updateDate": 1672863720000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

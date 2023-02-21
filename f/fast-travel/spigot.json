@@ -1,0 +1,26 @@
+{
+  "id": 103025,
+  "url": "https://www.spigotmc.org/resources/fast-travel.103025/",
+  "name": "Fast Travel",
+  "description": "Fast Travel requiring the player to visit the destination first!",
+  "authors": [
+    "caveboy36"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103025.jpg?1656645877",
+  "iconCid": "bafkreidigrh7xmmbjvcnl2egzvww2obnna64axfk4ncgxunqirt45h7mku",
+  "numberOfDownloads": 99,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fast-travel.103025/history",
+  "releaseDate": 1656642240000,
+  "updateDate": 1657674960000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

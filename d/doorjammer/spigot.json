@@ -1,0 +1,31 @@
+{
+  "id": 101711,
+  "url": "https://www.spigotmc.org/resources/doorjammer.101711/",
+  "name": "DoorJammer",
+  "description": "Get your fingers jammed in a door.",
+  "authors": [
+    "CodecDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101711.jpg?1651168516",
+  "iconCid": "bafkreid3dq54m6dsdqjlimryfgbp77pguwoireuaxpr6o5n4gnkxitdwee",
+  "numberOfDownloads": 96,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/doorjammer.101711/history",
+  "releaseDate": 1651164900000,
+  "updateDate": 1668609240000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

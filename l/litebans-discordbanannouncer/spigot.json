@@ -1,0 +1,19 @@
+{
+  "id": 107595,
+  "url": "https://www.spigotmc.org/resources/litebans-discordbanannouncer.107595/",
+  "name": "LiteBans DiscordBanAnnouncer",
+  "description": "Records LiteBans bans in a specified Discord Channel with your Discord Bot",
+  "authors": [
+    "Headzz06"
+  ],
+  "numberOfDownloads": 44,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/litebans-discordbanannouncer.107595/history",
+  "gitUrl": "https://github.com/headzz06/litebans-discord-ban-logger",
+  "releaseDate": 1674589680000,
+  "updateDate": 1676128920000,
+  "versions": [
+    "1.19"
+  ]
+}

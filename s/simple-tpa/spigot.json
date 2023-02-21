@@ -1,0 +1,32 @@
+{
+  "id": 64270,
+  "url": "https://www.spigotmc.org/resources/simple-tpa.64270/",
+  "name": "Simple Tpa",
+  "description": "A simple tpa plugin which sends requests",
+  "authors": [
+    "MuleMuleDupe"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/64/64270.jpg?1574253838",
+  "iconCid": "bafkreidepgjmiuudjy5sa6g33u4gfuj7mhqwgrrdijfauoorny7ouup5z4",
+  "numberOfDownloads": 1296004,
+  "rating": 4.6,
+  "numberOfVotes": 63,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-tpa.64270/history",
+  "releaseDate": 1676466540000,
+  "updateDate": 1676466540000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

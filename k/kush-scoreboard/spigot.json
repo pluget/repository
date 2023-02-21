@@ -1,0 +1,26 @@
+{
+  "id": 107563,
+  "url": "https://www.spigotmc.org/resources/kush-scoreboard.107563/",
+  "name": "Kush Scoreboard",
+  "description": "Simple Scoreboard with PlaceholderAPI support.",
+  "authors": [
+    "TheBamYT123"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107563.jpg?1674481434",
+  "iconCid": "bafkreie4ltbvgwxjlah4lhrsrpxseetudqugngk2asn37b5dy26gzy6544",
+  "numberOfDownloads": 49,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kush-scoreboard.107563/history",
+  "releaseDate": 1674477720000,
+  "updateDate": 1674928260000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13"
+  ]
+}

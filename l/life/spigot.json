@@ -1,0 +1,26 @@
+{
+  "id": 101976,
+  "url": "https://www.spigotmc.org/resources/life.101976/",
+  "name": "Life",
+  "description": "Life system - after losing all of their life, the user is banned.",
+  "authors": [
+    "Nes0x"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101976.jpg?1652466111",
+  "iconCid": "bafkreiecfjaew2qelcmkmxbwe5jixt5hayjemsjvbwmhkufr7kyihjgbku",
+  "numberOfDownloads": 85,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/life.101976/history",
+  "gitUrl": "https://github.com/Nes0x/Life",
+  "releaseDate": 1652444460000,
+  "updateDate": 1663334220000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

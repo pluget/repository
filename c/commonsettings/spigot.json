@@ -1,0 +1,23 @@
+{
+  "id": 106252,
+  "url": "https://www.spigotmc.org/resources/commonsettings-player-settings-api-for-consistent-setting-guis.106252/",
+  "name": "CommonSettings - player settings API for consistent setting GUIs",
+  "description": "An API to handle player settings and change setting values from other plugins without dependencies.",
+  "authors": [
+    "CubeCrafters"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106252.jpg?1668373035",
+  "iconCid": "bafkreifrury5lvwvgdcipvpvyypx4vs3fr7cm2hdfkyxdbdhb6rljbgyam",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/commonsettings-player-settings-api-for-consistent-setting-guis.106252/history",
+  "gitUrl": "https://github.com/CubBossa/CommonSettings",
+  "releaseDate": 1668369360000,
+  "updateDate": 1668369360000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

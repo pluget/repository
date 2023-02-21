@@ -1,0 +1,21 @@
+{
+  "id": 77331,
+  "url": "https://www.spigotmc.org/resources/simple-playerlist.77331/",
+  "name": "Simple Playerlist",
+  "description": "Customize your header and footer in the Playerlist / Tablist with this lightweight plugin",
+  "authors": [
+    "Sytm"
+  ],
+  "numberOfDownloads": 1408,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-playerlist.77331/history",
+  "gitUrl": "https://github.com/Sytm/simple-player-list",
+  "releaseDate": 1586698500000,
+  "updateDate": 1657994280000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

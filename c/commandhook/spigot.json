@@ -1,0 +1,25 @@
+{
+  "id": 61415,
+  "url": "https://www.spigotmc.org/resources/commandhook.61415/",
+  "name": "CommandHook",
+  "description": "Allow vanilla selectors in command blocks",
+  "authors": [
+    "_NewAge"
+  ],
+  "numberOfDownloads": 16422,
+  "rating": 4.5,
+  "numberOfVotes": 38,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/commandhook.61415/history",
+  "gitUrl": "https://github.com/NewAgeCZ/CommandHook",
+  "releaseDate": 1538940480000,
+  "updateDate": 1671272580000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 105784,
+  "url": "https://www.spigotmc.org/resources/chestlock-skript-uuid-support-gui-%E2%9C%85.105784/",
+  "name": "ChestLock Skript | UUID Support | GUI ✅",
+  "description": "Secure your chests with this script!",
+  "authors": [
+    "SkyTakeDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105784.jpg?1665837682",
+  "iconCid": "bafkreiegld37qzbmiqul6zbic74clavbqwujns75e26zswsiajtrm72pha",
+  "numberOfDownloads": 68,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chestlock-skript-uuid-support-gui-%E2%9C%85.105784/history",
+  "gitUrl": "https://github.com/SkyTakeDev/ChestLock-Skript-/blob/main/ChestLock.sk",
+  "releaseDate": 1665834060000,
+  "updateDate": 1665834060000,
+  "versions": [
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14"
+  ]
+}

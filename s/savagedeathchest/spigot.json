@@ -1,0 +1,24 @@
+{
+  "id": 6633,
+  "url": "https://www.spigotmc.org/resources/savagedeathchest.6633/",
+  "name": "SavageDeathChest",
+  "description": "Stores player inventory in a chest on death for later retrieval.",
+  "authors": [
+    "timsavage"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/6/6633.jpg?1430553171",
+  "iconCid": "bafkreigw5verbelhycacvq2hpfkcg5qtqarchzfltewrsmt657qco6kn7a",
+  "numberOfDownloads": 9459,
+  "rating": 4.5,
+  "numberOfVotes": 19,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/savagedeathchest.6633/history",
+  "gitUrl": "https://github.com/tim-savage/SavageDeathChest",
+  "releaseDate": 1430549280000,
+  "updateDate": 1662434760000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

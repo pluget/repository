@@ -1,0 +1,32 @@
+{
+  "id": 64497,
+  "url": "https://www.spigotmc.org/resources/%E2%9C%AA-pixellogin-bungeecord-%E2%9C%AA.64497/",
+  "name": "✪ PixelLogin [BungeeCord] ✪",
+  "description": "Advanced account security plugin.",
+  "authors": [
+    "PedroJM96"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/64/64497.jpg?1548994476",
+  "iconCid": "bafkreidtdzkslocmhilb6ckatazk3ld3w3h7dnkcyuu5smjcjexkeefcta",
+  "numberOfDownloads": 3138,
+  "rating": 4.5,
+  "numberOfVotes": 17,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9C%AA-pixellogin-bungeecord-%E2%9C%AA.64497/history",
+  "gitUrl": "https://github.com/PedroJM96/PixelLogin",
+  "releaseDate": 1548990840000,
+  "updateDate": 1670253120000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

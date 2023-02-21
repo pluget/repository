@@ -1,0 +1,28 @@
+{
+  "id": 100051,
+  "url": "https://www.spigotmc.org/resources/messageoverhead-pop-up-messages-above-your-head-1-12-1-19.100051/",
+  "name": "MessageOverHead | Pop-up messages above your head 1.12-1.19",
+  "description": "A simple plugin for displaying messages over the player's head",
+  "authors": [
+    "TheDiVa_Zo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100051.jpg?1645008410",
+  "iconCid": "bafkreifb5a5pnjz3v2y5i2i62n7wdziicmdy3uhver7dwi4bybi6rpbkxe",
+  "numberOfDownloads": 4701,
+  "rating": 5,
+  "numberOfVotes": 22,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/messageoverhead-pop-up-messages-above-your-head-1-12-1-19.100051/history",
+  "gitUrl": "https://github.com/TheDiVaZo/MessageOverHead",
+  "releaseDate": 1676646960000,
+  "updateDate": 1676646960000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

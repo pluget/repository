@@ -1,0 +1,32 @@
+{
+  "id": 99340,
+  "url": "https://www.spigotmc.org/resources/health.99340/",
+  "name": "Health",
+  "description": "Care, feed and set hearts and cutlets to players.",
+  "authors": [
+    "DavideBlade"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99340.jpg?1642604799",
+  "iconCid": "bafkreid3abzxltka3hbjbtxrwbimrfovauwpmdtltwb2k63ucb2zwu47fa",
+  "numberOfDownloads": 189,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/health.99340/history",
+  "gitUrl": "https://github.com/DavideBlade/Health",
+  "releaseDate": 1642601160000,
+  "updateDate": 1659894000000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

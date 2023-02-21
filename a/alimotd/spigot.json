@@ -1,0 +1,32 @@
+{
+  "id": 107981,
+  "url": "https://www.spigotmc.org/resources/alimotd-1-8-1-19.107981/",
+  "name": "AliMotd [1.8 -1.19]",
+  "description": "Plugin de Motd com sistema de manutenção",
+  "authors": [
+    "ckareth"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107981.jpg?1676273367",
+  "iconCid": "bafkreicysefexlifhjhqcbnthjzby7ajbwsqyi5hrnhdfamqwhjumcsmya",
+  "numberOfDownloads": 59,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/alimotd-1-8-1-19.107981/history",
+  "gitUrl": "https://github.com/ComputerBR004/AliMotd",
+  "releaseDate": 1676686740000,
+  "updateDate": 1676686740000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

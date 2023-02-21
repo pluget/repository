@@ -1,0 +1,26 @@
+{
+  "id": 106730,
+  "url": "https://www.spigotmc.org/resources/m0-saveinventory-1-13-1-19.106730/",
+  "name": "M0-SaveInventory [1.13 - 1.19]",
+  "description": "Easily store your inventory for when you need it later!",
+  "authors": [
+    "M0dii"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106730.jpg?1671029622",
+  "iconCid": "bafkreihnm7z72ja5xlrvqqqg7j4aikbqffo5f7u2ya5hgyfjmezffadyli",
+  "numberOfDownloads": 60,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/m0-saveinventory-1-13-1-19.106730/history",
+  "gitUrl": "https://github.com/M0diis/M0-SaveInventory",
+  "releaseDate": 1671025980000,
+  "updateDate": 1671388200000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

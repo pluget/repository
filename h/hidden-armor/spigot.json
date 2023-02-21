@@ -1,0 +1,24 @@
+{
+  "id": 100374,
+  "url": "https://www.spigotmc.org/resources/hidden-armor.100374/",
+  "name": "Hidden Armor",
+  "description": "Allows players to hide their armor so they can show off their skins.",
+  "authors": [
+    "KtecK"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100374.jpg?1646091335",
+  "iconCid": "bafkreieph4yd7luffzxehehophapy7up3mmpt7xlfmqpwxnixkvyjqiapi",
+  "numberOfDownloads": 5960,
+  "rating": 5,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hidden-armor.100374/history",
+  "gitUrl": "https://github.com/Kteq1/HiddenArmor",
+  "releaseDate": 1646087700000,
+  "updateDate": 1673289840000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

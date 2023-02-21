@@ -1,0 +1,23 @@
+{
+  "id": 94149,
+  "url": "https://www.spigotmc.org/resources/lucky-bounties.94149/",
+  "name": "Lucky Bounties",
+  "description": "A light-weight bounty plugin",
+  "authors": [
+    "Lucky4430"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94149.jpg?1626004464",
+  "iconCid": "bafkreihztskb56chbruftmcriai3j4d5xq5td7iprntrbo5iiwkxjgsbgq",
+  "numberOfDownloads": 1376,
+  "rating": 4.7,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lucky-bounties.94149/history",
+  "gitUrl": "https://github.com/Lucky444/Lucky-Bounties",
+  "releaseDate": 1676772420000,
+  "updateDate": 1676772420000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 17181,
+  "url": "https://www.spigotmc.org/resources/physicstogo-physics-environmental-regeneration.17181/",
+  "name": "PhysicsToGo -> Physics & Environmental Regeneration",
+  "description": "PhysicsToGo is a lightweight physics & environmental regeneration plugin.",
+  "authors": [
+    "XZot1K"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/17/17181.jpg?1585430453",
+  "iconCid": "bafkreifurih3ysax4l4qqa4ax7tmo7e7t4ksttjxw3slurtzu2rhjxfwqy",
+  "numberOfDownloads": 119682,
+  "rating": 4.7,
+  "numberOfVotes": 40,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/physicstogo-physics-environmental-regeneration.17181/history",
+  "gitUrl": "https://github.com/XZot1K/PhysicsToGo",
+  "releaseDate": 1453096140000,
+  "updateDate": 1668461280000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

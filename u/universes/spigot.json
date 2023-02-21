@@ -1,0 +1,24 @@
+{
+  "id": 68067,
+  "url": "https://www.spigotmc.org/resources/universes.68067/",
+  "name": "Universes",
+  "description": "A multi-world plugin for 1.14+",
+  "authors": [
+    "WhispTheFox"
+  ],
+  "numberOfDownloads": 6990,
+  "rating": 4.6,
+  "numberOfVotes": 31,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/universes.68067/history",
+  "gitUrl": "https://github.com/DSlyDog/Universes-Rewritten",
+  "releaseDate": 1559850480000,
+  "updateDate": 1661000760000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

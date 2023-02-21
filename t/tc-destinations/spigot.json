@@ -1,0 +1,23 @@
+{
+  "id": 107441,
+  "url": "https://www.spigotmc.org/resources/tc-destinations.107441/",
+  "name": "TC Destinations",
+  "description": "TrainCarts-Addon which allows you to manage destinations in a more advanced way",
+  "authors": [
+    "J0schlZ"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107441.jpg?1674041504",
+  "iconCid": "bafkreieqtwk76klkcc6jayfxnvlxi72t244fvegjlsio6sxb33zursqqb4",
+  "numberOfDownloads": 28,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tc-destinations.107441/history",
+  "gitUrl": "https://github.com/CraftTogetherMC/TC-Destinations",
+  "releaseDate": 1673973060000,
+  "updateDate": 1673973060000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

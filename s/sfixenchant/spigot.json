@@ -1,0 +1,30 @@
+{
+  "id": 107537,
+  "url": "https://www.spigotmc.org/resources/sfixenchant-blocking-1000-level-on-the-server.107537/",
+  "name": "sFixEnchant - Blocking 1000 level on the server",
+  "description": "enchantfix, fixenchant, fixlevel, levelenchantfix, levelfix, sfixenchant",
+  "authors": [
+    "VitalikSpigo"
+  ],
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sfixenchant-blocking-1000-level-on-the-server.107537/history",
+  "gitUrl": "https://github.com/SnonSS/sFixEnchant/blob/main/FixEnchant",
+  "releaseDate": 1674383700000,
+  "updateDate": 1674384480000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

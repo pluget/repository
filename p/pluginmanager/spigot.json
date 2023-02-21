@@ -1,0 +1,32 @@
+{
+  "id": 69061,
+  "url": "https://www.spigotmc.org/resources/pluginmanager.69061/",
+  "name": "PluginManager",
+  "description": "A fresh and easy to use plugin manager for spigot.",
+  "authors": [
+    "Lenni0451"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/69/69061.jpg?1621093888",
+  "iconCid": "bafkreibd5daf5epgkom3cprcups5hslypgv7yci5bx3qj5wt6gnevpybuq",
+  "numberOfDownloads": 18043,
+  "rating": 4.8,
+  "numberOfVotes": 25,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pluginmanager.69061/history",
+  "gitUrl": "https://github.com/Lenni0451/SpigotPluginManager",
+  "releaseDate": 1562444700000,
+  "updateDate": 1674411540000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

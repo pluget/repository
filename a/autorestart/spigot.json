@@ -1,0 +1,23 @@
+{
+  "id": 107926,
+  "url": "https://www.spigotmc.org/resources/autorestart.107926/",
+  "name": "AutoRestart",
+  "description": "Simple Automatic server restart",
+  "authors": [
+    "Saro_Gamer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107926.jpg?1675987837",
+  "iconCid": "bafkreidizlxatgayzkcao7nap53u3ialadknigtvqeof6zqg24szkrqury",
+  "numberOfDownloads": 75,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/autorestart.107926/history",
+  "releaseDate": 1675984200000,
+  "updateDate": 1675989960000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

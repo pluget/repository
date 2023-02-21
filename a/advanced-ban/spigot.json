@@ -1,0 +1,23 @@
+{
+  "id": 104394,
+  "url": "https://www.spigotmc.org/resources/advanced-ban-mysql-webpanel.104394/",
+  "name": "Advanced Ban | MySQl | Webpanel",
+  "description": "Extensive Bansystem: Ban, Tempban, Mute, Tempmute, Report, Chatlog, Webpanel",
+  "authors": [
+    "Delta203"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104394.jpg?1660046393",
+  "iconCid": "bafkreifnnrwddryzpp6rxrecc4eqtv6kkevm24qpymk4lntee3uq54jvye",
+  "numberOfDownloads": 244,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advanced-ban-mysql-webpanel.104394/history",
+  "gitUrl": "https://github.com/Delta203/Advanced_Ban_Bungee",
+  "releaseDate": 1660042740000,
+  "updateDate": 1668126120000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.18"
+  ]
+}

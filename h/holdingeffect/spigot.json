@@ -1,0 +1,24 @@
+{
+  "id": 107259,
+  "url": "https://www.spigotmc.org/resources/holdingeffect.107259/",
+  "name": "HoldingEffect",
+  "description": "Hold item, get potion effect.",
+  "authors": [
+    "Nety"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107259.jpg?1673105447",
+  "iconCid": "bafkreif6bsskm6vixm7uxfxq2j4f3kwuqhirw75kwha5d7q5rxahw7fh4i",
+  "numberOfDownloads": 33,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/holdingeffect.107259/history",
+  "releaseDate": 1676923800000,
+  "updateDate": 1676923800000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 102500,
+  "url": "https://www.spigotmc.org/resources/bsoulmmaddon-bsoul-addon.102500/",
+  "name": "bSoulMMAddon [bSoul Addon]",
+  "description": "Addon support MythicMobs for bSoul",
+  "authors": [
+    "VoChiDanh"
+  ],
+  "numberOfDownloads": 47,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bsoulmmaddon-bsoul-addon.102500/history",
+  "gitUrl": "https://github.com/D-x-Z/bSoulMMAddon",
+  "releaseDate": 1654691100000,
+  "updateDate": 1662370440000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

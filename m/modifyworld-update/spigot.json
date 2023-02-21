@@ -1,0 +1,24 @@
+{
+  "id": 65347,
+  "url": "https://www.spigotmc.org/resources/modifyworld-update.65347/",
+  "name": "Modifyworld Update",
+  "description": "Modifyworld 1.19.2",
+  "authors": [
+    "Porkchop"
+  ],
+  "numberOfDownloads": 6539,
+  "rating": 4.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/modifyworld-update.65347/history",
+  "gitUrl": "https://github.com/SpicyChickenMcNuggets/Modifyworld",
+  "releaseDate": 1551644100000,
+  "updateDate": 1663870440000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.19"
+  ]
+}

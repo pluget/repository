@@ -1,0 +1,24 @@
+{
+  "id": 75132,
+  "url": "https://www.spigotmc.org/resources/terraformgenerator-alpha-1-16-5-1-19-3.75132/",
+  "name": "TerraformGenerator [Alpha] [1.16.5-1.19.3]",
+  "description": "A generator that augments vanilla world generation.",
+  "authors": [
+    "Hex_27"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75132.jpg?1585377287",
+  "iconCid": "bafkreigxkt6txg2qfvzawi6jhnskfydgnhzwd2dx5f7j4rq4gymhsx4ite",
+  "numberOfDownloads": 68495,
+  "rating": 4.8,
+  "numberOfVotes": 147,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/terraformgenerator-alpha-1-16-5-1-19-3.75132/history",
+  "gitUrl": "https://github.com/Hex27/terraformgenerator",
+  "releaseDate": 1676738820000,
+  "updateDate": 1676738820000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

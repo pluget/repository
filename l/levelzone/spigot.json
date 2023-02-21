@@ -1,0 +1,23 @@
+{
+  "id": 106294,
+  "url": "https://www.spigotmc.org/resources/levelzone-1-17-%E2%80%A2-alonsolevels-addon-with-worldguard-support.106294/",
+  "name": "LevelZone [1.17+] • AlonsoLevels addon with WorldGuard support!",
+  "description": "Restrict certain WorldGuard regions and require and specific level to access!",
+  "authors": [
+    "DominickB"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106294.jpg?1668623025",
+  "iconCid": "bafkreiai2e52xa5k3lafgyh6lwatlyoocpb3yzephtlmlvfdfaehvowfqu",
+  "numberOfDownloads": 115,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/levelzone-1-17-%E2%80%A2-alonsolevels-addon-with-worldguard-support.106294/history",
+  "gitUrl": "https://github.com/Dominick12EU/LevelZone",
+  "releaseDate": 1668619380000,
+  "updateDate": 1676406660000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

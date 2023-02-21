@@ -1,0 +1,30 @@
+{
+  "id": 38878,
+  "url": "https://www.spigotmc.org/resources/fallenkingdom.38878/",
+  "name": "FallenKingdom",
+  "description": "Le plugin public de FK le plus complet qui existe",
+  "authors": [
+    "Etrenak"
+  ],
+  "numberOfDownloads": 59831,
+  "rating": 4.6,
+  "numberOfVotes": 26,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fallenkingdom.38878/history",
+  "gitUrl": "https://github.com/syldium/FallenKingdom",
+  "releaseDate": 1491319080000,
+  "updateDate": 1665246960000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

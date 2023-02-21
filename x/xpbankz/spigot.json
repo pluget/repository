@@ -1,0 +1,29 @@
+{
+  "id": 45435,
+  "url": "https://www.spigotmc.org/resources/xpbankz-store-your-xp.45435/",
+  "name": "XPBankZ - Store Your XP",
+  "description": "Store Your XP",
+  "authors": [
+    "Tabuu"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/45/45435.jpg?1588960728",
+  "iconCid": "bafkreifs6vr6qu6cozcsbxbft4uvr36wtxatsltbk2xecfbt74uxpthj4y",
+  "numberOfDownloads": 1022,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/xpbankz-store-your-xp.45435/history",
+  "gitUrl": "https://github.com/Tabuu/XPBankZ",
+  "releaseDate": 1676747580000,
+  "updateDate": 1676747580000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

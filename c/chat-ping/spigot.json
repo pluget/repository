@@ -1,0 +1,21 @@
+{
+  "id": 105140,
+  "url": "https://www.spigotmc.org/resources/chat-ping.105140/",
+  "name": "Chat Ping",
+  "description": "@Ping I want your attention!",
+  "authors": [
+    "IkeVoodoo"
+  ],
+  "numberOfDownloads": 44,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chat-ping.105140/history",
+  "gitUrl": "https://github.com/IkeVoodoo/ChatPing",
+  "releaseDate": 1662637920000,
+  "updateDate": 1662637920000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

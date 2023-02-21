@@ -1,0 +1,32 @@
+{
+  "id": 51577,
+  "url": "https://www.spigotmc.org/resources/builders-wand-free-building-help-api-configurable-supports-multiple-plugins-1-8-1-19.51577/",
+  "name": "Builders Wand Free | Building Help | API | Configurable | Supports multiple plugins |1.8 - 1.19",
+  "description": "Builders Wand is a plugin that adds a custom item which helps you build in creative and survival mod",
+  "authors": [
+    "Wythe"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/51/51577.jpg?1514952449",
+  "iconCid": "bafkreihqqcuasujalng7jjq57qjz4pnvz3dprk4ng2p5dvpj6sh6sxfxuq",
+  "numberOfDownloads": 111311,
+  "rating": 4.5,
+  "numberOfVotes": 46,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/builders-wand-free-building-help-api-configurable-supports-multiple-plugins-1-8-1-19.51577/history",
+  "gitUrl": "https://github.com/UtechtDustin/Builder-s-Wand",
+  "releaseDate": 1514948400000,
+  "updateDate": 1667845980000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

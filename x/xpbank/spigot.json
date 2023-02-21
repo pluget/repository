@@ -1,0 +1,28 @@
+{
+  "id": 101132,
+  "url": "https://www.spigotmc.org/resources/xpbank.101132/",
+  "name": "XpBank",
+  "description": "Simple xp banking system",
+  "authors": [
+    "MC_Cloud"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101132.jpg?1649906055",
+  "iconCid": "bafkreigcarmxxsnrepbxeci7lbus4ybohndsilsogujh3fxjrzcapnb4jm",
+  "numberOfDownloads": 844,
+  "rating": 4.6,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/xpbank.101132/history",
+  "gitUrl": "https://github.com/ACM02/XpBank",
+  "releaseDate": 1648947540000,
+  "updateDate": 1661649420000,
+  "versions": [
+    "1.8",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

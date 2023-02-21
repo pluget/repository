@@ -1,0 +1,32 @@
+{
+  "id": 91255,
+  "url": "https://www.spigotmc.org/resources/%E2%AD%90-pueblos-%E2%AD%90-villages-claim-protection-sqlite-mysql-plug-n-play.91255/",
+  "name": "⭐ Pueblos ⭐- [Villages] - Claim Protection, SQLite/MySQL, Plug n' Play",
+  "description": "Add members, change member permissions and change claim size on the fly!",
+  "authors": [
+    "RonanCraft"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91255.jpg?1619531939",
+  "iconCid": "bafkreihpaimgqjyultt44ohuagje4praxxw6vpo2uyqj2iq66aeevbt66u",
+  "numberOfDownloads": 956,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%AD%90-pueblos-%E2%AD%90-villages-claim-protection-sqlite-mysql-plug-n-play.91255/history",
+  "gitUrl": "https://github.com/SuperRonanCraft/Pueblos",
+  "releaseDate": 1618257300000,
+  "updateDate": 1666183320000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

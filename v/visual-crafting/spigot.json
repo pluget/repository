@@ -1,0 +1,24 @@
+{
+  "id": 100552,
+  "url": "https://www.spigotmc.org/resources/visual-crafting-%E2%9B%8F%EF%B8%8F-1-16-5-1-19-3.100552/",
+  "name": "Visual Crafting ⛏️ [1.16.5 - 1.19.3]",
+  "description": "Visualizes the crafting process",
+  "authors": [
+    "Cerus"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100552.jpg?1646703347",
+  "iconCid": "bafkreidbdc6u2tuogtxqxulmdp7dv3jcnzbv2zxbsrakmbdq53bp7zb6em",
+  "numberOfDownloads": 6140,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/visual-crafting-%E2%9B%8F%EF%B8%8F-1-16-5-1-19-3.100552/history",
+  "gitUrl": "https://github.com/cerus/visual-crafting",
+  "releaseDate": 1646699700000,
+  "updateDate": 1671057660000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 71625,
+  "url": "https://www.spigotmc.org/resources/infinite-vouchers.71625/",
+  "name": "Infinite Vouchers",
+  "description": "Easy-to-use, highly configurable voucher plugin",
+  "authors": [
+    "Zach_FR"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/71/71625.jpg?1591959993",
+  "iconCid": "bafkreigxtrpvyss4w4rqesuocoggtzcszrrbj3cwfxetssj67yeyftj2zm",
+  "numberOfDownloads": 7468,
+  "rating": 4.5,
+  "numberOfVotes": 30,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/infinite-vouchers.71625/history",
+  "releaseDate": 1569621300000,
+  "updateDate": 1657670820000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 72694,
+  "url": "https://www.spigotmc.org/resources/towny-advanced.72694/",
+  "name": "Towny Advanced",
+  "description": "The original Player-managed Protection within a resident/town/nation-hierarchy.",
+  "authors": [
+    "LlmDl"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/72/72694.jpg?1573580921",
+  "iconCid": "bafkreiexdpttfsdbbsgno5jxs2o6enbuf5jwlcssd7vitc46rm3zahwyou",
+  "numberOfDownloads": 93677,
+  "rating": 4.8,
+  "numberOfVotes": 113,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/towny-advanced.72694/history",
+  "gitUrl": "https://github.com/TownyAdvanced/Towny",
+  "releaseDate": 1676915820000,
+  "updateDate": 1676915820000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

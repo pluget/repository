@@ -1,0 +1,24 @@
+{
+  "id": 90195,
+  "url": "https://www.spigotmc.org/resources/rentit-shop-and-hotel-renting-includes-npc-shop.90195/",
+  "name": "RentIt - Shop and Hotel renting - Includes NPC Shop",
+  "description": "Create Rentable Shops and Hotels in prepared Regions",
+  "authors": [
+    "TrueMB"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90195.jpg?1615899162",
+  "iconCid": "bafkreiem4oa4wioqv3ljp34kt65buw6grlbgxmo74mz2jm425e5mszcc7i",
+  "numberOfDownloads": 2052,
+  "rating": 4.6,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rentit-shop-and-hotel-renting-includes-npc-shop.90195/history",
+  "gitUrl": "https://github.com/TrueMB/RentIt/",
+  "releaseDate": 1615889100000,
+  "updateDate": 1672181160000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

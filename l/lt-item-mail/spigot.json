@@ -1,0 +1,27 @@
+{
+  "id": 62294,
+  "url": "https://www.spigotmc.org/resources/lt-item-mail.62294/",
+  "name": "LT Item Mail",
+  "description": "Easily send items to distant players.",
+  "authors": [
+    "leothawne"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/62/62294.jpg?1542235996",
+  "iconCid": "bafkreifkdj2khkcafvigoby2n2rgbxjkohsoj7szu5qy5ec2gm2de7ccbq",
+  "numberOfDownloads": 513,
+  "rating": 3.5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lt-item-mail.62294/history",
+  "gitUrl": "https://github.com/leothawne/LTItemMail",
+  "releaseDate": 1541885160000,
+  "updateDate": 1658370960000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

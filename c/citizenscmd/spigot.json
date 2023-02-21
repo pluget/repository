@@ -1,0 +1,32 @@
+{
+  "id": 30224,
+  "url": "https://www.spigotmc.org/resources/citizenscmd.30224/",
+  "name": "CitizensCMD",
+  "description": "Add commands to a Citizens NPC.",
+  "authors": [
+    "HexedHero"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/30/30224.jpg?1648598106",
+  "iconCid": "bafkreifexzo5ktkxy77m274jkfv4mywmdwylnwd2wpihi2wquytcsxb2pe",
+  "numberOfDownloads": 225833,
+  "rating": 4.3,
+  "numberOfVotes": 123,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/citizenscmd.30224/history",
+  "gitUrl": "https://github.com/HexedHero/CitizensCMD",
+  "releaseDate": 1676846880000,
+  "updateDate": 1676846880000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

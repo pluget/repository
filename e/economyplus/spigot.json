@@ -1,0 +1,32 @@
+{
+  "id": 92975,
+  "url": "https://www.spigotmc.org/resources/economyplus.92975/",
+  "name": "EconomyPlus",
+  "description": "Vault-based economy manager plugin with bank, placeholders, holograms, MySQL, UUID and more!",
+  "authors": [
+    "_ItsWagPvP"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92975.jpg?1624493600",
+  "iconCid": "bafkreifdtq46tjy6oyqecq6cfhui7bro2pozs6n5okn3u7yiquhwljkrpe",
+  "numberOfDownloads": 8841,
+  "rating": 4.7,
+  "numberOfVotes": 28,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/economyplus.92975/history",
+  "gitUrl": "https://github.com/ItsWagPvP/EconomyPlus",
+  "releaseDate": 1622725320000,
+  "updateDate": 1669217700000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 106291,
+  "url": "https://www.spigotmc.org/resources/emergencyalertsystem.106291/",
+  "name": "EmergencyAlertSystem",
+  "description": "With sound effects and on-screen messages, warn your citizens to the impending dangers.",
+  "authors": [
+    "ColonelKai"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106291.jpg?1668611972",
+  "iconCid": "bafkreiecw435wqnmlzsmc4izaak6ogvvvc3fcb4fefrrhmkzvgyy6mik4y",
+  "numberOfDownloads": 32,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/emergencyalertsystem.106291/history",
+  "gitUrl": "https://github.com/ColonelKai/EmergencyAlertSystem",
+  "releaseDate": 1668608340000,
+  "updateDate": 1668608340000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 105466,
+  "url": "https://www.spigotmc.org/resources/chatlogs-1-17-1-1-19-2.105466/",
+  "name": "ChatLogs [1.17.1 - 1.19.2]",
+  "description": "Looking for a plugin that logs chat into files? You've come to the right place!",
+  "authors": [
+    "ItziSpyder"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105466.jpg?1664155087",
+  "iconCid": "bafkreicresqytzykfuje2v76agdpwyrilaobg6qwme6eaodqiuphmdjgi4",
+  "numberOfDownloads": 86,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatlogs-1-17-1-1-19-2.105466/history",
+  "gitUrl": "https://github.com/ItziSpyder/ChatLogs",
+  "releaseDate": 1664151240000,
+  "updateDate": 1664151240000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

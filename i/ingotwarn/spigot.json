@@ -1,0 +1,21 @@
+{
+  "id": 100451,
+  "url": "https://www.spigotmc.org/resources/ingotwarn.100451/",
+  "name": "IngotWarn",
+  "description": "Simple plugin to help track what rules players broke via warning",
+  "authors": [
+    "Budderman18"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100451.jpg?1650992772",
+  "iconCid": "bafkreiev5nznss4igjpfwr5xbgnc7kcbnqphdke5auj2vbheenkxfo7udi",
+  "numberOfDownloads": 120,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ingotwarn.100451/history",
+  "gitUrl": "https://github.com/Budderman18/IngotWarn",
+  "releaseDate": 1646355780000,
+  "updateDate": 1670602440000,
+  "versions": [
+    "1.19"
+  ]
+}

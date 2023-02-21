@@ -1,0 +1,22 @@
+{
+  "id": 100278,
+  "url": "https://www.spigotmc.org/resources/bingo-reloaded.100278/",
+  "name": "Bingo Reloaded",
+  "description": "Play Bingo with kits, different modes and a Card Editor!",
+  "authors": [
+    "Steaf23"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100278.jpg?1645752587",
+  "iconCid": "bafkreihgurw4n2f723q7stj6hb4uvtjrywzajgnkwabzuupjq2s7ovjrl4",
+  "numberOfDownloads": 1224,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bingo-reloaded.100278/history",
+  "gitUrl": "https://github.com/Steaf23/BingoReloaded",
+  "releaseDate": 1645744800000,
+  "updateDate": 1672871580000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

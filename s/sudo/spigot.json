@@ -1,0 +1,26 @@
+{
+  "id": 90909,
+  "url": "https://www.spigotmc.org/resources/sudo.90909/",
+  "name": "Sudo",
+  "description": "Say anything as different player",
+  "authors": [
+    "CZMixer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90909.jpg?1626895016",
+  "iconCid": "bafkreiaqrs6y776fsfz2aakpnyqjrrutvigryu5c6jngyjvyl74f55gpau",
+  "numberOfDownloads": 1244,
+  "rating": 4,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sudo.90909/history",
+  "releaseDate": 1617515220000,
+  "updateDate": 1676269200000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

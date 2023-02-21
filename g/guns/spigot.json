@@ -1,0 +1,25 @@
+{
+  "id": 106542,
+  "url": "https://www.spigotmc.org/resources/guns.106542/",
+  "name": "Guns",
+  "description": "Brings guns into minecraft",
+  "authors": [
+    "PotatoBill110"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106542.jpg?1669932188",
+  "iconCid": "bafkreig6uba4peogabpvd25ercijxh7q7dbxnf42qjveuyuuao4sed3bja",
+  "numberOfDownloads": 166,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/guns.106542/history",
+  "releaseDate": 1669928520000,
+  "updateDate": 1670020740000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

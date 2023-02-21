@@ -1,0 +1,32 @@
+{
+  "id": 49829,
+  "url": "https://www.spigotmc.org/resources/skript-yaml.49829/",
+  "name": "skript-yaml",
+  "description": "YAML for Skript",
+  "authors": [
+    "Sashie"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/49/49829.jpg?1522040228",
+  "iconCid": "bafkreidtmwvbsvbqo2tvqyszqd3qwhsihxmcfzyjrgmru2pweb4xxiotsq",
+  "numberOfDownloads": 11962,
+  "rating": 4.5,
+  "numberOfVotes": 14,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skript-yaml.49829/history",
+  "gitUrl": "https://github.com/Sashie/skript-yaml",
+  "releaseDate": 1511246040000,
+  "updateDate": 1675477260000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

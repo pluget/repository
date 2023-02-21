@@ -1,0 +1,27 @@
+{
+  "id": 96866,
+  "url": "https://www.spigotmc.org/resources/redlight-greenlight-1-19-support.96866/",
+  "name": "RedLight-GreenLight | 1.19 SUPPORT! |",
+  "description": "A Red Light, Green Light mini game based off the Netflix series Squid Games",
+  "authors": [
+    "Loving11ish"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96866.jpg?1634303214",
+  "iconCid": "bafkreidgtbdn5yqscc2wq2c5k4hfc3qg7bdkqzi5ktqceaxx3i4kl6zd3u",
+  "numberOfDownloads": 806,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/redlight-greenlight-1-19-support.96866/history",
+  "gitUrl": "https://github.com/Loving11ish/RedLight-GreenLight",
+  "releaseDate": 1634299560000,
+  "updateDate": 1673126340000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

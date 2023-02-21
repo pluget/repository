@@ -1,0 +1,24 @@
+{
+  "id": 86957,
+  "url": "https://www.spigotmc.org/resources/dynmapps.86957/",
+  "name": "DynmapPS",
+  "description": "Show your PreciousStones on your Dynmap for your Minecraft server, with support for SimpleClans.",
+  "authors": [
+    "FireControl1847"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/86/86957.jpg?1608586065",
+  "iconCid": "bafkreiepgborqiidofgz2igfed6kctlyb7o32tkngx6j63u4qkcjj477aq",
+  "numberOfDownloads": 206,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dynmapps.86957/history",
+  "gitUrl": "https://github.com/FireController1847/DynmapPS/",
+  "releaseDate": 1608581940000,
+  "updateDate": 1658973900000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

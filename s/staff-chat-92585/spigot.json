@@ -1,0 +1,33 @@
+{
+  "id": 92585,
+  "url": "https://www.spigotmc.org/resources/1-7-1-19-staff-chat.92585/",
+  "name": "[1.7-1.19] Staff Chat",
+  "description": "The best staff chat plugin for Spigot/Bukkit servers.",
+  "authors": [
+    "Pace"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92585.jpg?1621631166",
+  "iconCid": "bafkreiahxbvvqreoavfx7crpoqksm5omm4437a2yvr7gmkjw672qampolu",
+  "numberOfDownloads": 4986,
+  "rating": 4.9,
+  "numberOfVotes": 14,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/1-7-1-19-staff-chat.92585/history",
+  "gitUrl": "https://github.com/Pace1337/StaffChat",
+  "releaseDate": 1621627440000,
+  "updateDate": 1665246720000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

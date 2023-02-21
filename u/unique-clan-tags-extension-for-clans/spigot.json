@@ -1,0 +1,32 @@
+{
+  "id": 33904,
+  "url": "https://www.spigotmc.org/resources/unique-clan-tags-extension-for-clans.33904/",
+  "name": "Unique Clan Tags Extension For Clans",
+  "description": "Make clan tags unique",
+  "authors": [
+    "simonsator"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/33/33904.jpg?1497973011",
+  "iconCid": "bafkreidwmc5exy7e3o7oyvcg7pgziftlcbpozwj7gya7p26rbifbxctmim",
+  "numberOfDownloads": 682,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/unique-clan-tags-extension-for-clans.33904/history",
+  "gitUrl": "https://github.com/Simonsator/UniqueClanTags",
+  "releaseDate": 1482944940000,
+  "updateDate": 1665399660000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

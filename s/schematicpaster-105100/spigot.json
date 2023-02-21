@@ -1,0 +1,19 @@
+{
+  "id": 105100,
+  "url": "https://www.spigotmc.org/resources/schematicpaster.105100/",
+  "name": "SchematicPaster",
+  "description": "Paste schematics using FAWE at specific coordinates",
+  "authors": [
+    "evlad"
+  ],
+  "numberOfDownloads": 13,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/schematicpaster.105100/history",
+  "gitUrl": "https://github.com/emmanuelvlad/SchematicPaster",
+  "releaseDate": 1662407280000,
+  "updateDate": 1662407280000,
+  "versions": [
+    "1.18"
+  ]
+}

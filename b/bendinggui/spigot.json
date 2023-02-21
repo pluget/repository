@@ -1,0 +1,24 @@
+{
+  "id": 103122,
+  "url": "https://www.spigotmc.org/resources/bendinggui.103122/",
+  "name": "BendingGUI",
+  "description": "An interactive menu for ProjectKorra",
+  "authors": [
+    "StrangeOne101"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103122.jpg?1656987323",
+  "iconCid": "bafkreia5vyqoogh37ponqqsv4jsbtxhc6ym5k3xfbaemp2r36iyqtbtdoa",
+  "numberOfDownloads": 264,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bendinggui.103122/history",
+  "gitUrl": "https://github.com/StrangeOne101/BendingGUI",
+  "releaseDate": 1656983700000,
+  "updateDate": 1662018240000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

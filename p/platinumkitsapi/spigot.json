@@ -1,0 +1,29 @@
+{
+  "id": 81438,
+  "url": "https://www.spigotmc.org/resources/%E2%9A%A1%EF%B8%8Fplatinumkitsapi-%E2%9A%A1%EF%B8%8F-api-for-platinumkits.81438/",
+  "name": "⚡️PlatinumKitsAPI ⚡️- API for PlatinumKits!",
+  "description": "API for PlatinumKits!",
+  "authors": [
+    "DarkKnights22"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81438.jpg?1594660614",
+  "iconCid": "bafkreigzvkgghffxalkyuucb5mcjmjasreopqwsvk5llassqikiekokfke",
+  "numberOfDownloads": 151,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9A%A1%EF%B8%8Fplatinumkitsapi-%E2%9A%A1%EF%B8%8F-api-for-platinumkits.81438/history",
+  "gitUrl": "https://github.com/Darkknights22/PlatinumKitsAPI/",
+  "releaseDate": 1594656960000,
+  "updateDate": 1671561240000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

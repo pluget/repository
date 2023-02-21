@@ -1,0 +1,21 @@
+{
+  "id": 100116,
+  "url": "https://www.spigotmc.org/resources/myjoinleavemessage.100116/",
+  "name": "MyJoinLeaveMessage",
+  "description": "A simple plugin of custom enter and exit messages",
+  "authors": [
+    "Tech7"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100116.jpg?1648389056",
+  "iconCid": "bafkreiepbqrlz36ialis26pbcbyokj6da2cyjekz3zfrjr7mx3oqlqwg4a",
+  "numberOfDownloads": 152,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/myjoinleavemessage.100116/history",
+  "releaseDate": 1645185960000,
+  "updateDate": 1669899120000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

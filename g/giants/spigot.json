@@ -1,0 +1,30 @@
+{
+  "id": 99600,
+  "url": "https://www.spigotmc.org/resources/giants.99600/",
+  "name": "Giants",
+  "description": "Add giants (with AI) to your Minecraft server.",
+  "authors": [
+    "Minecon724"
+  ],
+  "numberOfDownloads": 532,
+  "rating": 4.3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/giants.99600/history",
+  "gitUrl": "https://gitdab.com/Minecon724/giants",
+  "releaseDate": 1643466300000,
+  "updateDate": 1666512900000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

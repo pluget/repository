@@ -1,0 +1,32 @@
+{
+  "id": 5357,
+  "url": "https://www.spigotmc.org/resources/anti-world-fly.5357/",
+  "name": "Anti World Fly",
+  "description": "Manage flying, elytras, and related commands on a per world basis!",
+  "authors": [
+    "Sidpatchy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/5/5357.jpg?1442399989",
+  "iconCid": "bafkreicqd7534wbf4khzboma2w6iq2hgns3ngyugsgjcnu3bf5mqdrgub4",
+  "numberOfDownloads": 58445,
+  "rating": 4.7,
+  "numberOfVotes": 45,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anti-world-fly.5357/history",
+  "gitUrl": "https://github.com/PyvesB/AntiWorldFly",
+  "releaseDate": 1427551140000,
+  "updateDate": 1660759740000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

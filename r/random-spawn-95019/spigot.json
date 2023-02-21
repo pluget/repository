@@ -1,0 +1,33 @@
+{
+  "id": 95019,
+  "url": "https://www.spigotmc.org/resources/random-spawn.95019/",
+  "name": "Random Spawn",
+  "description": "Create unlimited random spawns around the world, players will be respawned randomly (GUI Editor)",
+  "authors": [
+    "_ReflexShow_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95019.jpg?1650927811",
+  "iconCid": "bafkreiengvwmhpwfvjaay2q4p5gagbhywdi27oo47pvocacvpmknchwwji",
+  "numberOfDownloads": 1340,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/random-spawn.95019/history",
+  "gitUrl": "https://github.com/reflexLabs/RandomSpawn",
+  "releaseDate": 1628171580000,
+  "updateDate": 1666326000000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 104703,
+  "url": "https://www.spigotmc.org/resources/anticreeperexplosion.104703/",
+  "name": "AntiCreeperExplosion",
+  "description": "Stops creepers breaking blocks on explosion but keeps the damage to the player.",
+  "authors": [
+    "RebelMythik"
+  ],
+  "numberOfDownloads": 110,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anticreeperexplosion.104703/history",
+  "gitUrl": "https://github.com/RebelMythik/AntiCreeperExplosion",
+  "releaseDate": 1661021040000,
+  "updateDate": 1661025480000,
+  "versions": [
+    "1.19"
+  ]
+}

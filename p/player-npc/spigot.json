@@ -1,0 +1,23 @@
+{
+  "id": 93625,
+  "url": "https://www.spigotmc.org/resources/%E2%9C%85-api-player-npc-%E2%9C%85-1-17-1-19-3.93625/",
+  "name": "✅ [API] Player NPC ✅ [1.17 - 1.19.3]",
+  "description": "Player NPC Lib via packets API for 1.17, 1.18 & 1.19",
+  "authors": [
+    "SergiFerry"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93625.jpg?1624633067",
+  "iconCid": "bafkreiav7uk5hh2hfdasy2neyndlt47ehodehwzsjwmrxkvrk4jdx6xkfq",
+  "numberOfDownloads": 23335,
+  "rating": 4.4,
+  "numberOfVotes": 25,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9C%85-api-player-npc-%E2%9C%85-1-17-1-19-3.93625/history",
+  "gitUrl": "https://github.com/SergiFerry/PlayerNPC",
+  "releaseDate": 1676804640000,
+  "updateDate": 1676804640000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

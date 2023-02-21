@@ -1,0 +1,23 @@
+{
+  "id": 108057,
+  "url": "https://www.spigotmc.org/resources/sitf-spigot-integration-testing-framework.108057/",
+  "name": "SITF - Spigot Integration Testing Framework",
+  "description": "Make your plugin bugs free with Integrations tests",
+  "authors": [
+    "JacekWoln"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108057.jpg?1676648484",
+  "iconCid": "bafkreifxavkpr3l2pps2qvc6u7h5wyrzqbojpmkcistjcuzmfms5daa7te",
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sitf-spigot-integration-testing-framework.108057/history",
+  "gitUrl": "https://github.com/jwdeveloper/SpigotTester",
+  "releaseDate": 1676644860000,
+  "updateDate": 1676644860000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

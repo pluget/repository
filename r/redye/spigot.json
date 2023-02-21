@@ -1,0 +1,27 @@
+{
+  "id": 59446,
+  "url": "https://www.spigotmc.org/resources/redye-1-13-x-1-19-x.59446/",
+  "name": "Redye [1.13.X - 1.19.X]",
+  "description": "Redye any terracotta, glass(_pane), concrete(_powder), wool, carpet, banner or candle by crafting!",
+  "authors": [
+    "Alex_qp"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/59/59446.jpg?1648917276",
+  "iconCid": "bafkreicz7r3hvudw4q2nzezje6yjjasxxw65b36t3vw47i7jljgqwvmxo4",
+  "numberOfDownloads": 5628,
+  "rating": 4.7,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/redye-1-13-x-1-19-x.59446/history",
+  "gitUrl": "https://github.com/Alex39099/Redye",
+  "releaseDate": 1533378360000,
+  "updateDate": 1672742340000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

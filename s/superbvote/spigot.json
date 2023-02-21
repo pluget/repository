@@ -1,0 +1,21 @@
+{
+  "id": 106203,
+  "url": "https://www.spigotmc.org/resources/superbvote.106203/",
+  "name": "SuperbVote",
+  "description": "A superb, flexible, lag-free Votifier listener",
+  "authors": [
+    "DexterSK"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106203.jpg?1668147647",
+  "iconCid": "bafkreid6onzfzssg4d34flzj5sllxjfthwyj6pkxe7ar57jjw77oipp6nm",
+  "numberOfDownloads": 62,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/superbvote.106203/history",
+  "gitUrl": "https://github.com/astei/SuperbVote",
+  "releaseDate": 1676537940000,
+  "updateDate": 1676537940000,
+  "versions": [
+    "1.19"
+  ]
+}

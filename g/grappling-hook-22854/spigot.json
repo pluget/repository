@@ -1,0 +1,26 @@
+{
+  "id": 22854,
+  "url": "https://www.spigotmc.org/resources/grappling-hook.22854/",
+  "name": "Grappling Hook",
+  "description": "Pull yourself to locations or pull entities to you!",
+  "authors": [
+    "SnowGears"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/22/22854.jpg?1462869985",
+  "iconCid": "bafkreihy7gezdusdh6r4cabmivgmf6wp25q3sqpspzuykgicys54mbt4y4",
+  "numberOfDownloads": 37272,
+  "rating": 4.2,
+  "numberOfVotes": 32,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/grappling-hook.22854/history",
+  "gitUrl": "https://github.com/snowgears/Grappling-Hook",
+  "releaseDate": 1462518300000,
+  "updateDate": 1665501720000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

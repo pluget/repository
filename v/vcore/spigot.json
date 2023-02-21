@@ -1,0 +1,25 @@
+{
+  "id": 104648,
+  "url": "https://www.spigotmc.org/resources/vcore.104648/",
+  "name": "VCore",
+  "description": "VCore",
+  "authors": [
+    "Kayraegekkkk"
+  ],
+  "numberOfDownloads": 20,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/vcore.104648/history",
+  "gitUrl": "https://github.com/kayraegek18/VCore",
+  "releaseDate": 1660837080000,
+  "updateDate": 1660837080000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.13",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

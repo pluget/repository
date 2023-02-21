@@ -1,0 +1,23 @@
+{
+  "id": 93381,
+  "url": "https://www.spigotmc.org/resources/smptweaks.93381/",
+  "name": "SMPtweaks",
+  "description": "Several tweaks and configuration options to enhance survival multiplayer",
+  "authors": [
+    "Noni"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93381.jpg?1623852398",
+  "iconCid": "bafkreigden4omjysjvgboh7sz6f2fktymc3mxtwa6fqzrpvistyogfi37y",
+  "numberOfDownloads": 4368,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/smptweaks.93381/history",
+  "gitUrl": "https://github.com/NoniDOTio/SMPtweaks",
+  "releaseDate": 1623847680000,
+  "updateDate": 1661989140000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

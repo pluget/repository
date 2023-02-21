@@ -1,0 +1,25 @@
+{
+  "id": 104929,
+  "url": "https://www.spigotmc.org/resources/vtags.104929/",
+  "name": "VTags",
+  "description": "Provides a dead-simple way to implement chat-suffix tags on your server.",
+  "authors": [
+    "Verxi"
+  ],
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/vtags.104929/history",
+  "releaseDate": 1661821380000,
+  "updateDate": 1661821380000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

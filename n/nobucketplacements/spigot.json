@@ -1,0 +1,19 @@
+{
+  "id": 107786,
+  "url": "https://www.spigotmc.org/resources/nobucketplacements-restrict-bucket-usage-in-your-hub.107786/",
+  "name": "NoBucketPlacements - restrict Bucket usage in your Hub!",
+  "description": "Light-weight Paper plugin that disables water/lava/entity bucket usage in selected worlds",
+  "authors": [
+    "lgndluke"
+  ],
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nobucketplacements-restrict-bucket-usage-in-your-hub.107786/history",
+  "gitUrl": "https://github.com/lgndluke/NoBucketPlacements",
+  "releaseDate": 1675372260000,
+  "updateDate": 1675372260000,
+  "versions": [
+    "1.19"
+  ]
+}

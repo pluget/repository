@@ -1,0 +1,27 @@
+{
+  "id": 106000,
+  "url": "https://www.spigotmc.org/resources/delayed-elytras-good-for-survival-servers.106000/",
+  "name": "Delayed Elytras | Good for Survival Servers",
+  "description": "Set cooldown to your Elytra",
+  "authors": [
+    "Attika3242432"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106000.jpg?1667139341",
+  "iconCid": "bafkreiajw6ekpokbrba7svuxfysqltvgma5uisoz4qhcyhn6a6hlje6wkm",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/delayed-elytras-good-for-survival-servers.106000/history",
+  "gitUrl": "https://github.com/Treshyyy/DelayedElytras",
+  "releaseDate": 1667135640000,
+  "updateDate": 1667135640000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

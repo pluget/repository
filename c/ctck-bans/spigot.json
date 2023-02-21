@@ -1,0 +1,22 @@
+{
+  "id": 96433,
+  "url": "https://www.spigotmc.org/resources/ctck-bans.96433/",
+  "name": "Ctck Bans",
+  "description": "A simple ban system using Skript",
+  "authors": [
+    "CamTheCoolKidYT"
+  ],
+  "numberOfDownloads": 222,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ctck-bans.96433/history",
+  "releaseDate": 1632513360000,
+  "updateDate": 1661187720000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

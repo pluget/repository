@@ -1,0 +1,32 @@
+{
+  "id": 101706,
+  "url": "https://www.spigotmc.org/resources/private-games-addon.101706/",
+  "name": "Private Games Addon",
+  "description": "Private Games Addon for Marcel Bedwars",
+  "authors": [
+    "harsh_op"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101706.jpg?1651247428",
+  "iconCid": "bafkreibpyjsaxobkjw3u2eax7l5jzqwayii55rgz55fjfpo6knhc7dakqq",
+  "numberOfDownloads": 322,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/private-games-addon.101706/history",
+  "gitUrl": "https://github.com/WhoHarsh-14/MBedwars-PrivateGamesAddon",
+  "releaseDate": 1651149060000,
+  "updateDate": 1675951020000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

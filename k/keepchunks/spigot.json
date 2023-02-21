@@ -1,0 +1,27 @@
+{
+  "id": 23307,
+  "url": "https://www.spigotmc.org/resources/keepchunks.23307/",
+  "name": "KeepChunks",
+  "description": "The most powerful chunk loading plugin!",
+  "authors": [
+    "Geitenijs"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/23/23307.jpg?1545563662",
+  "iconCid": "bafkreicjbjr23ulw7457b3buxrfcw7dgwhqrgu5b4zodt24mdfdad2qi4q",
+  "numberOfDownloads": 72852,
+  "rating": 4.7,
+  "numberOfVotes": 98,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/keepchunks.23307/history",
+  "gitUrl": "https://github.com/Geitenijs/KeepChunks",
+  "releaseDate": 1463379360000,
+  "updateDate": 1674574560000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

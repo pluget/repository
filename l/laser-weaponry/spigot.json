@@ -1,0 +1,23 @@
+{
+  "id": 106191,
+  "url": "https://www.spigotmc.org/resources/laser-weaponry.106191/",
+  "name": "Laser Weaponry",
+  "description": "A simple plugin to add laser weapons.",
+  "authors": [
+    "YeetManLord"
+  ],
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/laser-weaponry.106191/history",
+  "gitUrl": "https://github.com/YeetmanLord/LaserWeaponry",
+  "releaseDate": 1668041160000,
+  "updateDate": 1668044160000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12"
+  ]
+}

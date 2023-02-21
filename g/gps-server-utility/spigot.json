@@ -1,0 +1,19 @@
+{
+  "id": 106615,
+  "url": "https://www.spigotmc.org/resources/gps-server-utility.106615/",
+  "name": "GPS server Utility",
+  "description": "Utilities for navigation of saved locations and teleportation to them",
+  "authors": [
+    "TheS1ash"
+  ],
+  "numberOfDownloads": 34,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gps-server-utility.106615/history",
+  "gitUrl": "https://gitlab.com/opalecky/mc-gpsserverutil",
+  "releaseDate": 1670360520000,
+  "updateDate": 1671232020000,
+  "versions": [
+    "1.19"
+  ]
+}

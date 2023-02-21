@@ -1,0 +1,32 @@
+{
+  "id": 106019,
+  "url": "https://www.spigotmc.org/resources/skjson.106019/",
+  "name": "skJson",
+  "description": "Working with json in skript",
+  "authors": [
+    "iblitzzz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106019.jpg?1674224336",
+  "iconCid": "bafkreig2nh7fvr5vozylvpg4jr5jwn3bucz7xewrvmcfxtlhwv46a6dckm",
+  "numberOfDownloads": 555,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skjson.106019/history",
+  "gitUrl": "https://github.com/cooffeeRequired/skJson",
+  "releaseDate": 1676713020000,
+  "updateDate": 1676713020000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

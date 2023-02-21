@@ -1,0 +1,21 @@
+{
+  "id": 106927,
+  "url": "https://www.spigotmc.org/resources/restart-plugin.106927/",
+  "name": "Restart Plugin",
+  "description": "This plugin allows for a scheduled restart of the server.",
+  "authors": [
+    "CraniX"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106927.jpg?1671835202",
+  "iconCid": "bafkreid5jiie2g4xm63wdfndgr7dfnydrzwdbmhxkho7a7khl7inf5mvhm",
+  "numberOfDownloads": 68,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/restart-plugin.106927/history",
+  "gitUrl": "https://drive.google.com/file/d/1BK9F1GnHCWrzVoRej2Ms68kIFlCsCriG/view?usp=share_link",
+  "releaseDate": 1671831540000,
+  "updateDate": 1671865140000,
+  "versions": [
+    "1.19"
+  ]
+}

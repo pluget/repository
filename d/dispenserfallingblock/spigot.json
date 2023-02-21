@@ -1,0 +1,21 @@
+{
+  "id": 105184,
+  "url": "https://www.spigotmc.org/resources/dispenserfallingblock.105184/",
+  "name": "DispenserFallingBlock",
+  "description": "Fire a falling block from a dispenser",
+  "authors": [
+    "Marumasa"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105184.jpg?1662806897",
+  "iconCid": "bafkreic2pgjh64c73poxmu7npelo3q3q6kzxdmleygl5kti3duliv5ijjm",
+  "numberOfDownloads": 13,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dispenserfallingblock.105184/history",
+  "gitUrl": "https://github.com/malken21/Minecraft_DispenserFallingBlock_Spigot",
+  "releaseDate": 1662803280000,
+  "updateDate": 1662803280000,
+  "versions": [
+    "1.19"
+  ]
+}

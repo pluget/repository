@@ -1,0 +1,33 @@
+{
+  "id": 97447,
+  "url": "https://www.spigotmc.org/resources/chat-core-manage-control-format-your-chat-chat-hovering-click-events-and-more.97447/",
+  "name": "CHAT CORE | Manage, Control, & Format Your Chat! Chat hovering, click events, and more",
+  "description": "The Only Chat Plugin You'll Ever Need",
+  "authors": [
+    "PinchCraft"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97447.jpg?1642462151",
+  "iconCid": "bafkreidh7j2aaeytq7vqqvcgjmdi44hf3d3orgv7r47gs3pulnjgzgpiiq",
+  "numberOfDownloads": 1355,
+  "rating": 4.5,
+  "numberOfVotes": 13,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chat-core-manage-control-format-your-chat-chat-hovering-click-events-and-more.97447/history",
+  "gitUrl": "https://github.com/nhulston/ChatCore",
+  "releaseDate": 1636262400000,
+  "updateDate": 1672177080000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

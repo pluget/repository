@@ -1,0 +1,21 @@
+{
+  "id": 103415,
+  "url": "https://www.spigotmc.org/resources/easydiscordbridge.103415/",
+  "name": "EasyDiscordBridge",
+  "description": "Easy connection between Minecraft- and Discord chat",
+  "authors": [
+    "Falyrion"
+  ],
+  "numberOfDownloads": 55,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/easydiscordbridge.103415/history",
+  "gitUrl": "https://github.com/Falyrion/EasyDiscordBridge",
+  "releaseDate": 1657974840000,
+  "updateDate": 1657974840000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

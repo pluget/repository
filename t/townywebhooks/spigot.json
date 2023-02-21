@@ -1,0 +1,24 @@
+{
+  "id": 106737,
+  "url": "https://www.spigotmc.org/resources/%E2%9A%A1-townywebhooks-notify-your-discord-server-via-webhook-%E2%9A%A10-0-1.106737/",
+  "name": "⚡ TownyWebhooks | Notify your Discord server via Webhook! ⚡0.0.1",
+  "description": "Notify your Discord server about your Towny server with the Webhook system.",
+  "authors": [
+    "sheduxdev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106737.jpg?1671168810",
+  "iconCid": "bafkreif633xm533hcb7f5xwl64y62jyvamnnuzbny44tgdgyk7pmqjq3fy",
+  "numberOfDownloads": 102,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9A%A1-townywebhooks-notify-your-discord-server-via-webhook-%E2%9A%A10-0-1.106737/history",
+  "gitUrl": "https://github.com/FoudreStudios/TownyWebhooks",
+  "releaseDate": 1671052320000,
+  "updateDate": 1671052320000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

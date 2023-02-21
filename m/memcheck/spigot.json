@@ -1,0 +1,26 @@
+{
+  "id": 68883,
+  "url": "https://www.spigotmc.org/resources/memcheck.68883/",
+  "name": "MemCheck",
+  "description": "Output CraftBukkit/Spigot memory statistics",
+  "authors": [
+    "Bobcat00"
+  ],
+  "numberOfDownloads": 1994,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/memcheck.68883/history",
+  "gitUrl": "https://github.com/Bobcat00/MemCheck",
+  "releaseDate": 1561909140000,
+  "updateDate": 1664618340000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 106049,
+  "url": "https://www.spigotmc.org/resources/townymusic.106049/",
+  "name": "TownyMusic",
+  "description": "Music that plays inside your Towns!",
+  "authors": [
+    "ItsJules"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106049.jpg?1667376628",
+  "iconCid": "bafkreigcjaslxynciceoelxroe5hzr2fs5ljcvomqa6dhxrrlhwekn7cxm",
+  "numberOfDownloads": 141,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/townymusic.106049/history",
+  "gitUrl": "https://github.com/ItsJuls/TownyMusic",
+  "releaseDate": 1667373000000,
+  "updateDate": 1668683340000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

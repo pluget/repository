@@ -1,0 +1,24 @@
+{
+  "id": 105482,
+  "url": "https://www.spigotmc.org/resources/horseswim.105482/",
+  "name": "HorseSwim",
+  "description": "Allows rideable entities to swim.",
+  "authors": [
+    "Epicnicity2016"
+  ],
+  "numberOfDownloads": 91,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/horseswim.105482/history",
+  "gitUrl": "https://github.com/Epicnicity322/HorseSwim/",
+  "releaseDate": 1664227320000,
+  "updateDate": 1664227320000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

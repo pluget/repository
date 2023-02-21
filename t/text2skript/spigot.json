@@ -1,0 +1,31 @@
+{
+  "id": 105078,
+  "url": "https://www.spigotmc.org/resources/text2skript-convert-your-text-files-into-skript-messages-in-an-instant.105078/",
+  "name": "Text2Skript - Convert your text files into skript messages in an instant!",
+  "description": "Convert (multiple lines) of any text into a formatted skript message!",
+  "authors": [
+    "2SurvivalGuys"
+  ],
+  "numberOfDownloads": 20,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/text2skript-convert-your-text-files-into-skript-messages-in-an-instant.105078/history",
+  "gitUrl": "https://github.com/leifadev/text-to-skript",
+  "releaseDate": 1662757560000,
+  "updateDate": 1662757560000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

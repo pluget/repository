@@ -1,0 +1,21 @@
+{
+  "id": 105126,
+  "url": "https://www.spigotmc.org/resources/randomizer.105126/",
+  "name": "Randomizer",
+  "description": "Plugin to give random items to players every x seconds.",
+  "authors": [
+    "DrHering"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105126.jpg?1662552898",
+  "iconCid": "bafkreiczwsk5tf5dsx4xujphwsbhobga5gd7mokdijwlxagxn2ebvakmoi",
+  "numberOfDownloads": 69,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/randomizer.105126/history",
+  "gitUrl": "https://github.com/Coxcopi/RandomizerPlugin",
+  "releaseDate": 1662549240000,
+  "updateDate": 1662583080000,
+  "versions": [
+    "1.19"
+  ]
+}

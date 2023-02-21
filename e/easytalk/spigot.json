@@ -1,0 +1,30 @@
+{
+  "id": 104101,
+  "url": "https://www.spigotmc.org/resources/easytalk.104101/",
+  "name": "EasyTalk",
+  "description": "A simple chat plugin with Gui",
+  "authors": [
+    "zhangyang0204"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104101.jpg?1659716577",
+  "iconCid": "bafkreie3amvni2emfsie3ug2obxrabpm7cvbclzfoxxdwowbcmfn5f5a4a",
+  "numberOfDownloads": 520,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/easytalk.104101/history",
+  "gitUrl": "https://github.com/ZhangYang0204/easy-talk",
+  "releaseDate": 1659712920000,
+  "updateDate": 1664878560000,
+  "versions": [
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

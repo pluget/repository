@@ -1,0 +1,27 @@
+{
+  "id": 102613,
+  "url": "https://www.spigotmc.org/resources/derebank-credit-card-with-pin-and-atm.102613/",
+  "name": "DereBank - Credit Card with PIN and ATM",
+  "description": "Use a Credit Card protected with a PIN to withdraw money from an ATM.",
+  "authors": [
+    "DereWah"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102613.jpg?1655210995",
+  "iconCid": "bafkreif2aouijh3xnu2s4v3jdowksyjiitlpncz2wpyeohieblcn72nv5m",
+  "numberOfDownloads": 406,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/derebank-credit-card-with-pin-and-atm.102613/history",
+  "releaseDate": 1655206680000,
+  "updateDate": 1662625140000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

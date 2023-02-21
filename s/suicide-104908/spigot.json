@@ -1,0 +1,31 @@
+{
+  "id": 104908,
+  "url": "https://www.spigotmc.org/resources/suicide.104908/",
+  "name": "Suicide",
+  "description": "Kills yourself with a single command",
+  "authors": [
+    "GFelberg"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104908.jpg?1661734676",
+  "iconCid": "bafkreidwerulkwf5jotwd3n6qefnre3u63ighdvyi7376i4bpqtbljbd6a",
+  "numberOfDownloads": 43,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/suicide.104908/history",
+  "releaseDate": 1661731020000,
+  "updateDate": 1661731020000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

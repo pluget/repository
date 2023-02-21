@@ -1,0 +1,32 @@
+{
+  "id": 81820,
+  "url": "https://www.spigotmc.org/resources/portablecrafting.81820/",
+  "name": "PortableCrafting",
+  "description": "A plugin to open a crafting table by right-clicking it in your hand.",
+  "authors": [
+    "EnderTweaks"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81820.jpg?1595453247",
+  "iconCid": "bafkreielug5jy5plqqfbpzcxrgbgo6ajg6ppnfpb326txpsjjukjs64tku",
+  "numberOfDownloads": 294,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/portablecrafting.81820/history",
+  "releaseDate": 1595449620000,
+  "updateDate": 1676131620000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

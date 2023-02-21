@@ -1,0 +1,27 @@
+{
+  "id": 62509,
+  "url": "https://www.spigotmc.org/resources/multitool-plus-1-13-1-19.62509/",
+  "name": "Multitool Plus [1.13-1.19]",
+  "description": "Switches tools based on block youre hitting, stores all tools in one inventory slot",
+  "authors": [
+    "DarkMonolith"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/62/62509.jpg?1542537389",
+  "iconCid": "bafkreih36vc7gpvpmsn2xr5vhj2xu6x4h6ewwmancnpxbdm6obiq42e2v4",
+  "numberOfDownloads": 36269,
+  "rating": 4.9,
+  "numberOfVotes": 25,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/multitool-plus-1-13-1-19.62509/history",
+  "gitUrl": "https://github.com/christopherwalkerml/Multitool",
+  "releaseDate": 1542533760000,
+  "updateDate": 1661272260000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 105909,
+  "url": "https://www.spigotmc.org/resources/speedometer.105909/",
+  "name": "SpeedoMeter",
+  "description": "Shows how many blocks per second a player is traveling in the ActionBar",
+  "authors": [
+    "rasm945i"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105909.jpg?1666626796",
+  "iconCid": "bafkreie6476w2uzsajdhlyt2p2zkrz3ef2phgcj42fnx6iy7mpueis4ezi",
+  "numberOfDownloads": 85,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/speedometer.105909/history",
+  "gitUrl": "https://github.com/rasm945i/RedditSpeedometer",
+  "releaseDate": 1666617600000,
+  "updateDate": 1675873260000,
+  "versions": [
+    "1.19"
+  ]
+}

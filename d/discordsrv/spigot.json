@@ -1,0 +1,33 @@
+{
+  "id": 18494,
+  "url": "https://www.spigotmc.org/resources/discordsrv.18494/",
+  "name": "DiscordSRV",
+  "description": "A Minecraft to Discord and back linkage plugin.",
+  "authors": [
+    "Scarsz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/18/18494.jpg?1455529290",
+  "iconCid": "bafkreiemcfbf2o77jasrhzti4t2xzkzfp3y2inrbq2mgm2yrlxtxmprf5q",
+  "numberOfDownloads": 532035,
+  "rating": 4.6,
+  "numberOfVotes": 536,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discordsrv.18494/history",
+  "gitUrl": "https://github.com/DiscordSRV/DiscordSRV",
+  "releaseDate": 1676883180000,
+  "updateDate": 1676883180000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

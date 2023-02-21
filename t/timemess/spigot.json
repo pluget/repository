@@ -1,0 +1,27 @@
+{
+  "id": 86066,
+  "url": "https://www.spigotmc.org/resources/timemess.86066/",
+  "name": "TimeMess",
+  "description": "Plugin to schedule messages for everyone to be send in chat automatically.",
+  "authors": [
+    "beVoyd"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/86/86066.jpg?1606177262",
+  "iconCid": "bafkreidys2foza5neygklz6xqp4tql6evn5k2tn5adersi46bnmwehvpje",
+  "numberOfDownloads": 148,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/timemess.86066/history",
+  "releaseDate": 1606173600000,
+  "updateDate": 1675261680000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

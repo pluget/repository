@@ -1,0 +1,26 @@
+{
+  "id": 88737,
+  "url": "https://www.spigotmc.org/resources/m0-extraenchants-1-13-1-19.88737/",
+  "name": "M0 - ExtraEnchants [1.13 - 1.19]",
+  "description": "Extra enchants to provide more game variety.",
+  "authors": [
+    "M0dii"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88737.jpg?1612624417",
+  "iconCid": "bafkreihktjuuegnjyar7zqvonayifnzl4eytow5ekuxa6hooli3bzogvp4",
+  "numberOfDownloads": 619,
+  "rating": 4.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/m0-extraenchants-1-13-1-19.88737/history",
+  "gitUrl": "https://github.com/M0diis/M0-ExtraEnchants",
+  "releaseDate": 1612620780000,
+  "updateDate": 1675319160000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

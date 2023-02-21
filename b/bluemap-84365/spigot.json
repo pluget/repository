@@ -1,0 +1,24 @@
+{
+  "id": 84365,
+  "url": "https://www.spigotmc.org/resources/bluemap-essentials.84365/",
+  "name": "BlueMap-Essentials",
+  "description": "BlueMap integration for Essentials",
+  "authors": [
+    "pop4959"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84365.jpg?1612438472",
+  "iconCid": "bafkreihyjaa2gccuykmqgi4au4esr6lcz3vfofqortukfvwyjq5lsvqx3a",
+  "numberOfDownloads": 1312,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bluemap-essentials.84365/history",
+  "gitUrl": "https://github.com/pop4959/BlueMap-Essentials",
+  "releaseDate": 1601544480000,
+  "updateDate": 1673737920000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

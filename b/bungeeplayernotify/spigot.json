@@ -1,0 +1,21 @@
+{
+  "id": 108035,
+  "url": "https://www.spigotmc.org/resources/bungeeplayernotify.108035/",
+  "name": "BungeePlayerNotify",
+  "description": "A plugin to notify when a player joins or leaves the network, or when they switch to another server",
+  "authors": [
+    "NewAmazingPVP"
+  ],
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bungeeplayernotify.108035/history",
+  "gitUrl": "https://github.com/NewAmazingPVP/BungeePlayerNotify",
+  "releaseDate": 1676635560000,
+  "updateDate": 1676635560000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

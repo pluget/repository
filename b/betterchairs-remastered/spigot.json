@@ -1,0 +1,32 @@
+{
+  "id": 84809,
+  "url": "https://www.spigotmc.org/resources/betterchairs-remastered.84809/",
+  "name": "BetterChairs Remastered",
+  "description": "BetterChairs allows you to sit on chairs – Every block can be a chair",
+  "authors": [
+    "SpraxDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84809.jpg?1602713796",
+  "iconCid": "bafkreihim7mwbv4armpqy2zqdl3smyljgn5lfrqa77uuakyr7j734a5pmy",
+  "numberOfDownloads": 12914,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterchairs-remastered.84809/history",
+  "gitUrl": "https://github.com/SpraxDev/BetterChairs",
+  "releaseDate": 1602710160000,
+  "updateDate": 1674299100000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

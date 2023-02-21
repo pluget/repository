@@ -1,0 +1,31 @@
+{
+  "id": 104410,
+  "url": "https://www.spigotmc.org/resources/tp-command.104410/",
+  "name": "Tp Command",
+  "description": "A simple tp command",
+  "authors": [
+    "einkaktuslol"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104410.jpg?1660083784",
+  "iconCid": "bafkreicdclfnc7si3fwek7psbtq5zphs4uldskrj4zfsentvihdhkmbjce",
+  "numberOfDownloads": 72,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tp-command.104410/history",
+  "releaseDate": 1660080180000,
+  "updateDate": 1660080180000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 106178,
+  "url": "https://www.spigotmc.org/resources/brilliantclickables-1-17-1-1-19-2.106178/",
+  "name": "BrilliantClickables [1.17.1 - 1.19.2]",
+  "description": "Create custom clickable blocks or mobs that execute commands (multiple commands supported!)",
+  "authors": [
+    "ItziSpyder"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106178.jpg?1667978676",
+  "iconCid": "bafkreihc66hm7ie63jpna3lbgayuhnesufu6qm4532fuasw7vscoizf4j4",
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/brilliantclickables-1-17-1-1-19-2.106178/history",
+  "gitUrl": "https://github.com/ItziSpyder/BrilliantClickables",
+  "releaseDate": 1667974920000,
+  "updateDate": 1667974920000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 89347,
+  "url": "https://www.spigotmc.org/resources/steves-series-kotlin.89347/",
+  "name": "Steve's Series | Kotlin",
+  "description": "Provides the Kotlin standard library. Both Bukkit and BungeeCord compatible",
+  "authors": [
+    "TSEngineer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89347.jpg?1613926528",
+  "iconCid": "bafkreiat5uyglufztv2bhhi7sy2qsvxawpni4dvmgx3h45qj7mfspmpnha",
+  "numberOfDownloads": 341,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/steves-series-kotlin.89347/history",
+  "gitUrl": "https://github.com/SteveTheEngineer/SS-Kotlin",
+  "releaseDate": 1613922900000,
+  "updateDate": 1673797560000,
+  "versions": [
+    "1.18"
+  ]
+}

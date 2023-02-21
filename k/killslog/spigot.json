@@ -1,0 +1,24 @@
+{
+  "id": 107345,
+  "url": "https://www.spigotmc.org/resources/killslog.107345/",
+  "name": "KillsLog",
+  "description": "Logs player kills by players. Saves inventory and places.",
+  "authors": [
+    "Ktilis"
+  ],
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/killslog.107345/history",
+  "gitUrl": "https://github.com/Ktilis/KillsLog",
+  "releaseDate": 1673500260000,
+  "updateDate": 1673500260000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

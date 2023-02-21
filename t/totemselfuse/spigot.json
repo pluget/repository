@@ -1,0 +1,26 @@
+{
+  "id": 105093,
+  "url": "https://www.spigotmc.org/resources/totemselfuse.105093/",
+  "name": "TotemSelfUse",
+  "description": "Dropped totems use themselves when damaged! (It sounds dumb I know)",
+  "authors": [
+    "ManosSef"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105093.jpg?1662392273",
+  "iconCid": "bafkreibqeveukludmuenhrq3pfyn2ss76z7e2bry4hm7hg27zcccxszgfm",
+  "numberOfDownloads": 23,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/totemselfuse.105093/history",
+  "releaseDate": 1662388620000,
+  "updateDate": 1662388620000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

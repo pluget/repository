@@ -1,0 +1,33 @@
+{
+  "id": 49195,
+  "url": "https://www.spigotmc.org/resources/skwaze.49195/",
+  "name": "SkWaze",
+  "description": "The coolest Skript's addon",
+  "authors": [
+    "MrWeefle"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/49/49195.jpg?1539807242",
+  "iconCid": "bafkreib6sp4k3khzag34rb5ilkz44raaibfvaugtvm3d6gmyppdigzeeqm",
+  "numberOfDownloads": 3379,
+  "rating": 4.9,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skwaze.49195/history",
+  "gitUrl": "https://github.com/Weefle/SkWaze",
+  "releaseDate": 1509813600000,
+  "updateDate": 1662881100000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

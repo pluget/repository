@@ -1,0 +1,22 @@
+{
+  "id": 94767,
+  "url": "https://www.spigotmc.org/resources/virtualtag-customize-the-players-nametag.94767/",
+  "name": "VirtualTag - Customize the player's NameTag",
+  "description": "Customize the prefix,suffix of the nametag",
+  "authors": [
+    "RE_OVO"
+  ],
+  "numberOfDownloads": 803,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/virtualtag-customize-the-players-nametag.94767/history",
+  "gitUrl": "https://github.com/re-ovo/VirtualTag",
+  "releaseDate": 1627533120000,
+  "updateDate": 1676258160000,
+  "versions": [
+    "1.8",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

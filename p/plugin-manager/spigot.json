@@ -1,0 +1,21 @@
+{
+  "id": 105047,
+  "url": "https://www.spigotmc.org/resources/plugin-manager.105047/",
+  "name": "Plugin Manager",
+  "description": "An easy option to manage your plugins.",
+  "authors": [
+    "TintingPatch"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105047.jpg?1662230431",
+  "iconCid": "bafkreid5qpajjupiqbk4rg3yk6dlzxnhb6r26h6feacnd4n5fjdtuhdoee",
+  "numberOfDownloads": 65,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/plugin-manager.105047/history",
+  "gitUrl": "https://github.com/TintingPatch/PluginManager",
+  "releaseDate": 1662226800000,
+  "updateDate": 1662226800000,
+  "versions": [
+    "1.19"
+  ]
+}

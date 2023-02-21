@@ -1,0 +1,23 @@
+{
+  "id": 96951,
+  "url": "https://www.spigotmc.org/resources/villager-information.96951/",
+  "name": "Villager Information",
+  "description": "Plugin that allows easier access to useful information stored in villagers' brains",
+  "authors": [
+    "Illogical"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96951.jpg?1634604938",
+  "iconCid": "bafkreidmskbznoqdraay3p76xrp2m4iru5plllnhspvgs3rzkdkewnlxge",
+  "numberOfDownloads": 371,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/villager-information.96951/history",
+  "gitUrl": "https://github.com/RhythmicSys/VillagerInfo",
+  "releaseDate": 1634601300000,
+  "updateDate": 1671054480000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

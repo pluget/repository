@@ -1,0 +1,32 @@
+{
+  "id": 103419,
+  "url": "https://www.spigotmc.org/resources/minecraft-discord-announcer-1-8-1-19.103419/",
+  "name": "Minecraft Discord Announcer [1.8 - 1.19]",
+  "description": "Announce that your Minecraft server has turned on/off on your Discord server!",
+  "authors": [
+    "ImDaMilan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103419.jpg?1657985207",
+  "iconCid": "bafkreidcsfcwkmgtcpj6c6ytty4fpm6npdecz5ufm6aqmmwmvmmjctxdsy",
+  "numberOfDownloads": 134,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minecraft-discord-announcer-1-8-1-19.103419/history",
+  "gitUrl": "https://github.com/ImDaMilan/mcdiscordannouncer",
+  "releaseDate": 1657981560000,
+  "updateDate": 1658235180000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 103901,
+  "url": "https://www.spigotmc.org/resources/%E2%9C%A8discordmc-1-8-1-19-%E2%9C%A8-sync-your-minecraft-server-with-discord-server-%E2%9C%85.103901/",
+  "name": "✨DiscordMC [1.8- 1.19+]✨ Sync your minecraft server with discord server!✅",
+  "description": "Spigot plugin that allows to sync Discord server and Minecraft server!",
+  "authors": [
+    "NorbitTech"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103901.jpg?1659281619",
+  "iconCid": "bafkreib3du35mybklqhgyjrumhsh6smhlhcruti2gassawiftxxeokksde",
+  "numberOfDownloads": 622,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9C%A8discordmc-1-8-1-19-%E2%9C%A8-sync-your-minecraft-server-with-discord-server-%E2%9C%85.103901/history",
+  "gitUrl": "https://github.com/Norbit4/DiscordMc",
+  "releaseDate": 1659277980000,
+  "updateDate": 1663007700000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.18",
+    "1.19"
+  ]
+}

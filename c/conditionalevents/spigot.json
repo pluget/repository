@@ -1,0 +1,32 @@
+{
+  "id": 82271,
+  "url": "https://www.spigotmc.org/resources/conditionalevents-custom-actions-for-certain-events-1-8-1-19.82271/",
+  "name": "ConditionalEvents | Custom Actions for certain Events [1.8-1.19]",
+  "description": "Plugin that constantly checks for conditions on certain events and executes custom actions!",
+  "authors": [
+    "Ajneb97"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82271.jpg?1658336312",
+  "iconCid": "bafkreia6spae65j62hc4i3ydlvs3du7w4sqk65t4d4zi6zuk2tecebgtcm",
+  "numberOfDownloads": 67162,
+  "rating": 5,
+  "numberOfVotes": 182,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/conditionalevents-custom-actions-for-certain-events-1-8-1-19.82271/history",
+  "gitUrl": "https://github.com/Ajneb97/ConditionalEvents",
+  "releaseDate": 1676795700000,
+  "updateDate": 1676795700000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

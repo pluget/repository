@@ -1,0 +1,27 @@
+{
+  "id": 108009,
+  "url": "https://www.spigotmc.org/resources/f-command.108009/",
+  "name": "F-Command",
+  "description": "Execute custom commands by switching your Offhand",
+  "authors": [
+    "Hutch79"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108009.jpg?1676444891",
+  "iconCid": "bafkreiebb3xpvuddd7n6e6rwviwpfrainjx73qrkd2luv46o5agf3vp6lu",
+  "numberOfDownloads": 41,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/f-command.108009/history",
+  "gitUrl": "https://github.com/Hutch79/F-Command",
+  "releaseDate": 1676602920000,
+  "updateDate": 1676602920000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

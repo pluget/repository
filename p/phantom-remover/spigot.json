@@ -1,0 +1,21 @@
+{
+  "id": 107337,
+  "url": "https://www.spigotmc.org/resources/phantom-remover.107337/",
+  "name": "Phantom Remover",
+  "description": "A simple plugin to remove forever phantoms.",
+  "authors": [
+    "SerbanHero"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107337.jpg?1673465293",
+  "iconCid": "bafkreihub44qsnbolyj4wg6chv4sueevaqghdztx6xn7kretamulnpf4vu",
+  "numberOfDownloads": 37,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/phantom-remover.107337/history",
+  "gitUrl": "https://github.com/SerbanHiro/PhantomRemover",
+  "releaseDate": 1676749320000,
+  "updateDate": 1676749320000,
+  "versions": [
+    "1.19"
+  ]
+}

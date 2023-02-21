@@ -1,0 +1,28 @@
+{
+  "id": 103064,
+  "url": "https://www.spigotmc.org/resources/mrrafter-restart.103064/",
+  "name": "MrRafter-Restart",
+  "description": "Restart Plugin",
+  "authors": [
+    "Mrrafter_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103064.jpg?1656796883",
+  "iconCid": "bafkreihrzitemo5lwsnrbmq6e2oldyc6lb6kvtpry2kybrl6x3s3czvbrm",
+  "numberOfDownloads": 98,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mrrafter-restart.103064/history",
+  "gitUrl": "https://github.com/MrRafter/MrRafter-Restart",
+  "releaseDate": 1656793260000,
+  "updateDate": 1659629460000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

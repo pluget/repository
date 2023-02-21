@@ -1,0 +1,31 @@
+{
+  "id": 69580,
+  "url": "https://www.spigotmc.org/resources/pingtest.69580/",
+  "name": "PingTest",
+  "description": "Let your players check their ping! Measured in milliseconds.",
+  "authors": [
+    "Luccer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/69/69580.jpg?1672949573",
+  "iconCid": "bafkreifpl4pwdek2oicsa7m4j4d2vl4q4ogr5j5scjqdhnxy6cvgsr2mre",
+  "numberOfDownloads": 372,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pingtest.69580/history",
+  "releaseDate": 1563792180000,
+  "updateDate": 1672858920000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

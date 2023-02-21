@@ -1,0 +1,21 @@
+{
+  "id": 103399,
+  "url": "https://www.spigotmc.org/resources/chatpinging-more.103399/",
+  "name": "ChatPinging & More!",
+  "description": "Provides more sounds to ingame actions!",
+  "authors": [
+    "MegaMagnum"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103399.jpg?1657929324",
+  "iconCid": "bafkreid4ffrtej6ui5uw4rj3eqtdsv7izewfplhoavy665tyonnq5lyw4y",
+  "numberOfDownloads": 148,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatpinging-more.103399/history",
+  "gitUrl": "https://github.com/MegaMagnum/ExtraSounds",
+  "releaseDate": 1657925700000,
+  "updateDate": 1659907620000,
+  "versions": [
+    "1.19"
+  ]
+}

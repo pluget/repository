@@ -1,0 +1,21 @@
+{
+  "id": 104830,
+  "url": "https://www.spigotmc.org/resources/mobdmz.104830/",
+  "name": "MobDMZ",
+  "description": "Simple management of natural mob spawns",
+  "authors": [
+    "fingerguns83"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104830.jpg?1661489453",
+  "iconCid": "bafkreigsdyqw2ccw2b2svkcdlwhfqeyrwykba5iixeb4wlhweei2qzhvjy",
+  "numberOfDownloads": 42,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mobdmz.104830/history",
+  "gitUrl": "https://github.com/fingerguns83/mobdmz",
+  "releaseDate": 1661485800000,
+  "updateDate": 1661725800000,
+  "versions": [
+    "1.19"
+  ]
+}

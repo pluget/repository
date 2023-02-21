@@ -1,0 +1,29 @@
+{
+  "id": 25773,
+  "url": "https://www.spigotmc.org/resources/tigerreports.25773/",
+  "name": "TigerReports",
+  "description": "Plugin to manage reports / Plugin de gestion de signalements.",
+  "authors": [
+    "MrTigreroux"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/25/25773.jpg?1481805165",
+  "iconCid": "bafkreih6nn6tse2iej5gr5jbrx3x2vbb5mytra4dkdocw645drhlja4vnm",
+  "numberOfDownloads": 48092,
+  "rating": 4.7,
+  "numberOfVotes": 164,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tigerreports.25773/history",
+  "releaseDate": 1676635860000,
+  "updateDate": 1676635860000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

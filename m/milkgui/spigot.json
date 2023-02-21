@@ -1,0 +1,33 @@
+{
+  "id": 92139,
+  "url": "https://www.spigotmc.org/resources/milkgui.92139/",
+  "name": "MilkGUI",
+  "description": "Serialize Bukkit inventories",
+  "authors": [
+    "Browsit"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92139.jpg?1647070583",
+  "iconCid": "bafkreietwgxntqtelyt6c5zppbt7dwogkgx4zu7kyrw2wiekwrfog3reda",
+  "numberOfDownloads": 276,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/milkgui.92139/history",
+  "gitUrl": "https://github.com/Browsit/MilkGUI",
+  "releaseDate": 1620455520000,
+  "updateDate": 1675145400000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

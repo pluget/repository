@@ -1,0 +1,25 @@
+{
+  "id": 81899,
+  "url": "https://www.spigotmc.org/resources/acuteloot.81899/",
+  "name": "AcuteLoot",
+  "description": "Custom RPG-style loot and effects with over 15 BILLION unique possibilities",
+  "authors": [
+    "zizmax"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81899.jpg?1595637599",
+  "iconCid": "bafkreifqw7vnhqyg64ms5zja5qrtnslxu5z7wh37ogpnejaeutmh7fbote",
+  "numberOfDownloads": 16320,
+  "rating": 4.9,
+  "numberOfVotes": 19,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/acuteloot.81899/history",
+  "gitUrl": "https://github.com/zizmax/AcuteLoot",
+  "releaseDate": 1595633820000,
+  "updateDate": 1673100540000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

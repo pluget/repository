@@ -1,0 +1,24 @@
+{
+  "id": 59773,
+  "url": "https://www.spigotmc.org/resources/chestsort-api.59773/",
+  "name": "ChestSort (+ API)",
+  "description": "Sorts your chests + inventory! Supports WorldGuard etc. (100 % customizable + auto config update)",
+  "authors": [
+    "mfnalex"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/59/59773.jpg?1534083001",
+  "iconCid": "bafkreiguwpfh3ihwobyhv2x3ledasdj4qjbcv4e4yqhmn3nx77kf5lwnwy",
+  "numberOfDownloads": 132979,
+  "rating": 4.9,
+  "numberOfVotes": 111,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chestsort-api.59773/history",
+  "gitUrl": "https://github.com/JEFF-Media-GbR/Spigot-ChestSort",
+  "releaseDate": 1534079160000,
+  "updateDate": 1672791540000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

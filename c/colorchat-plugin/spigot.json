@@ -1,0 +1,25 @@
+{
+  "id": 105610,
+  "url": "https://www.spigotmc.org/resources/colorchat-plugin.105610/",
+  "name": "ColorChat Plugin",
+  "description": "Allows you to easily use a GUI to change the color of all your chat messages! Good for ranks!!!!",
+  "authors": [
+    "wendellmeset"
+  ],
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/colorchat-plugin.105610/history",
+  "gitUrl": "https://github.com/wendellmeset/ChatColor-GUI-MC-Plugin",
+  "releaseDate": 1664843520000,
+  "updateDate": 1664843520000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

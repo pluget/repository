@@ -1,0 +1,26 @@
+{
+  "id": 103416,
+  "url": "https://www.spigotmc.org/resources/sleep-regardless-sleep-anywhere-anytime.103416/",
+  "name": "Sleep Regardless | Sleep anywhere, anytime!",
+  "description": "Lightweight plugin that allows you to sleep whenever you want!",
+  "authors": [
+    "Overqualified"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103416.jpg?1657981283",
+  "iconCid": "bafkreihdpmddzt4fa5fhpg5mo4dfwdnust6i52amejdeinp4k4iqpr5h74",
+  "numberOfDownloads": 81,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sleep-regardless-sleep-anywhere-anytime.103416/history",
+  "releaseDate": 1657976700000,
+  "updateDate": 1657976700000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

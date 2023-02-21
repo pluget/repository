@@ -1,0 +1,21 @@
+{
+  "id": 105245,
+  "url": "https://www.spigotmc.org/resources/toggleable-pvp.105245/",
+  "name": "Toggleable pvp",
+  "description": "A simple plugin that toggles pvp on/off.",
+  "authors": [
+    "Garbear_Is_Cool"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105245.jpg?1663392370",
+  "iconCid": "bafkreielyk47atbwldth6deapffzai44xvedof6o7zaxrshkni5stbw66y",
+  "numberOfDownloads": 41,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/toggleable-pvp.105245/history",
+  "gitUrl": "https://github.com/literallyPurple/togglePvp",
+  "releaseDate": 1663008660000,
+  "updateDate": 1663008660000,
+  "versions": [
+    "1.19"
+  ]
+}

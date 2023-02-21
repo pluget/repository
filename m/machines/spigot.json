@@ -1,0 +1,21 @@
+{
+  "id": 102712,
+  "url": "https://www.spigotmc.org/resources/nova-addon-machines.102712/",
+  "name": "[Nova-Addon] Machines",
+  "description": "Adds Quarries, Pulverizers, Furnace Generators and a lot more to your Nova server!",
+  "authors": [
+    "xenondevs"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102712.jpg?1655566967",
+  "iconCid": "bafkreifqcirfnzms3544jdmaplcdrplkmz53d5c2iuqvt3fkel3nvqivbe",
+  "numberOfDownloads": 1711,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nova-addon-machines.102712/history",
+  "gitUrl": "https://github.com/Nova-Addons/Machines",
+  "releaseDate": 1655562600000,
+  "updateDate": 1671284160000,
+  "versions": [
+    "1.19"
+  ]
+}

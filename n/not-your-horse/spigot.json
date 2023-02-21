@@ -1,0 +1,29 @@
+{
+  "id": 107339,
+  "url": "https://www.spigotmc.org/resources/not-your-horse.107339/",
+  "name": "Not Your Horse!",
+  "description": "Prevent players from riding other players' horses, donkeys, and mules",
+  "authors": [
+    "srnyx"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107339.jpg?1673467063",
+  "iconCid": "bafkreiardh555m6cfjfslqgmxg5yzdhboh5oeso4nd3qx5eqpxjl2mwavq",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/not-your-horse.107339/history",
+  "gitUrl": "https://github.com/srnyx/not-your-horse",
+  "releaseDate": 1673463420000,
+  "updateDate": 1673463420000,
+  "versions": [
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

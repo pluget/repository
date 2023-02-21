@@ -1,0 +1,24 @@
+{
+  "id": 101695,
+  "url": "https://www.spigotmc.org/resources/smscavenger-treasure-hunt.101695/",
+  "name": "SmScavenger | Treasure Hunt",
+  "description": "Your very own treasure hunt!",
+  "authors": [
+    "Smuddgge"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101695.jpg?1651090897",
+  "iconCid": "bafkreiaumn345oz7gdvwkthlcaabrtyktiqa5m4uav4katuzhn6z5ehreq",
+  "numberOfDownloads": 162,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/smscavenger-treasure-hunt.101695/history",
+  "gitUrl": "https://github.com/smuddgge/SmScavenger",
+  "releaseDate": 1651087260000,
+  "updateDate": 1658580540000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

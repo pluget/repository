@@ -1,0 +1,23 @@
+{
+  "id": 102509,
+  "url": "https://www.spigotmc.org/resources/raknetify-bungeecord.102509/",
+  "name": "Raknetify (BungeeCord)",
+  "description": "A BungeCord plugin that improve multiplayer experience under unreliable and rate-limited connections",
+  "authors": [
+    "ishland"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102509.jpg?1654755954",
+  "iconCid": "bafkreihv5em2ezpdsqqcty7hxcendtao3oomxpzvucimeako3srggrjtoe",
+  "numberOfDownloads": 198,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/raknetify-bungeecord.102509/history",
+  "gitUrl": "https://github.com/RelativityMC/raknetify",
+  "releaseDate": 1654752300000,
+  "updateDate": 1659082440000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

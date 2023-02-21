@@ -1,0 +1,28 @@
+{
+  "id": 83562,
+  "url": "https://www.spigotmc.org/resources/staff.83562/",
+  "name": "Staff++",
+  "description": "The Ultimate Moderation Plugin Revisited",
+  "authors": [
+    "Garagepoort"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83562.jpg?1602584239",
+  "iconCid": "bafkreic2je3veztglhenl7ymtre56uaewvqj62cejcy5h2oxsjauubbwbe",
+  "numberOfDownloads": 33565,
+  "rating": 4.6,
+  "numberOfVotes": 37,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/staff.83562/history",
+  "gitUrl": "https://github.com/garagepoort/StaffPlusPlus",
+  "releaseDate": 1599304620000,
+  "updateDate": 1670959620000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

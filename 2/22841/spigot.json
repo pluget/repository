@@ -1,0 +1,32 @@
+{
+  "id": 22841,
+  "url": "https://www.spigotmc.org/resources/%E2%96%B6-stopbucketfill-%E2%97%80-1-8-1-19.22841/",
+  "name": "▶ StopBucketFill ◀ (1.8-1.19)",
+  "description": "Stop players filling up buckets without a permission!",
+  "authors": [
+    "BGHDDevelopment"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/22/22841.jpg?1500081248",
+  "iconCid": "bafkreidkfb5oaptfwpgo3smfplh4wzjphqphbv4zy74qiu4ickhobr6z7q",
+  "numberOfDownloads": 545,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%96%B6-stopbucketfill-%E2%97%80-1-8-1-19.22841/history",
+  "gitUrl": "https://github.com/BGHDDevelopment/StopBucketFill",
+  "releaseDate": 1462493580000,
+  "updateDate": 1672327020000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 107376,
+  "url": "https://www.spigotmc.org/resources/simpleioc.107376/",
+  "name": "SimpleIoC",
+  "description": "A lightweigth IoC container, now dependency injection is simpler than ever!",
+  "authors": [
+    "EmPee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107376.jpg?1673655577",
+  "iconCid": "bafkreib7kfjp76hb6rqonzxty57xttdowddqaswyrws25os33chboz2rvi",
+  "numberOfDownloads": 20,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simpleioc.107376/history",
+  "gitUrl": "https://github.com/Mr-EmPee/SimpleIoC",
+  "releaseDate": 1673651940000,
+  "updateDate": 1673651940000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.19"
+  ]
+}

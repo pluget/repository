@@ -1,0 +1,32 @@
+{
+  "id": 57242,
+  "url": "https://www.spigotmc.org/resources/spark.57242/",
+  "name": "spark",
+  "description": "spark is a performance profiler for Minecraft clients, servers and proxies.",
+  "authors": [
+    "Luck"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/57/57242.jpg?1645211170",
+  "iconCid": "bafkreihe5qaaivp2bsjjgl3ipqujtehq5q6gwmw5d3resyyu7yttubbnxu",
+  "numberOfDownloads": 64372,
+  "rating": 4.9,
+  "numberOfVotes": 77,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/spark.57242/history",
+  "gitUrl": "https://github.com/lucko/spark",
+  "releaseDate": 1676629620000,
+  "updateDate": 1676629620000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

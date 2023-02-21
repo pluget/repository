@@ -1,0 +1,31 @@
+{
+  "id": 62703,
+  "url": "https://www.spigotmc.org/resources/antibow-prevent-players-shooting-arrows.62703/",
+  "name": "AntiBow | Prevent players shooting arrows",
+  "description": "Stop players from shooting arrows in certain areas (WorldGuard and Multiverse support)",
+  "authors": [
+    "EndlessGames"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/62/62703.jpg?1572960258",
+  "iconCid": "bafkreihubw6wnglxvlxntggd4yvcnuj6njhrtl7ih2ldjahssvqilxujly",
+  "numberOfDownloads": 876,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antibow-prevent-players-shooting-arrows.62703/history",
+  "releaseDate": 1543094520000,
+  "updateDate": 1671308460000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

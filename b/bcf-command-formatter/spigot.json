@@ -1,0 +1,25 @@
+{
+  "id": 78093,
+  "url": "https://www.spigotmc.org/resources/bcf-command-formatter.78093/",
+  "name": "BCF Command Formatter",
+  "description": "Library to make managing commands easier",
+  "authors": [
+    "Bundabrg"
+  ],
+  "numberOfDownloads": 413,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bcf-command-formatter.78093/history",
+  "gitUrl": "https://github.com/bundabrg/bcf",
+  "releaseDate": 1588126380000,
+  "updateDate": 1662463500000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

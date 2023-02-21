@@ -1,0 +1,24 @@
+{
+  "id": 57000,
+  "url": "https://www.spigotmc.org/resources/worldborder-expansion.57000/",
+  "name": "WorldBorder Expansion",
+  "description": "Expansion of Vanilla Worldborder for PlacehodlerAPI",
+  "authors": [
+    "pixar02"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/57/57000.jpg?1526932245",
+  "iconCid": "bafkreibyszsbudabu2z6rdeiqgn75fpny3ai3ax2yvdbel2wojzsng4wpe",
+  "numberOfDownloads": 161,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/worldborder-expansion.57000/history",
+  "gitUrl": "https://github.com/pixar02/Expansions",
+  "releaseDate": 1676642280000,
+  "updateDate": 1676642280000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12"
+  ]
+}

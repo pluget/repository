@@ -1,0 +1,23 @@
+{
+  "id": 82457,
+  "url": "https://www.spigotmc.org/resources/healplugin.82457/",
+  "name": "HealPlugin",
+  "description": "A simple heal plugin with custom item:)",
+  "authors": [
+    "Bazsi24"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82457.jpg?1596804235",
+  "iconCid": "bafkreih36jd4te3zfeiwdtejmub5wk76a4ys6wtzg4smvgitf6ouo4onky",
+  "numberOfDownloads": 210,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/healplugin.82457/history",
+  "releaseDate": 1596800580000,
+  "updateDate": 1657548720000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

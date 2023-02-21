@@ -1,0 +1,23 @@
+{
+  "id": 104035,
+  "url": "https://www.spigotmc.org/resources/smelter.104035/",
+  "name": "Smelter",
+  "description": "A simple plugin that enables smelting and unsmelting directly from your inventory.",
+  "authors": [
+    "SirLagsALot"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104035.jpg?1659542493",
+  "iconCid": "bafkreiav4y4cupcegtdawbu5fqihx5rg2cuds4vrzawcp5vwgezy2kfg7a",
+  "numberOfDownloads": 34,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/smelter.104035/history",
+  "releaseDate": 1659538860000,
+  "updateDate": 1659538860000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

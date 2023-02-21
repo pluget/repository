@@ -1,0 +1,32 @@
+{
+  "id": 101815,
+  "url": "https://www.spigotmc.org/resources/nobuildplus.101815/",
+  "name": "NoBuildPlus",
+  "description": "A simple plugin to manage the rules of your worlds",
+  "authors": [
+    "p1xEL_mc"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101815.jpg?1651665963",
+  "iconCid": "bafkreidyzlannzptmuqa5sxafexold36yr7drobhba5nbnaifitz6qtjmq",
+  "numberOfDownloads": 1686,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nobuildplus.101815/history",
+  "gitUrl": "https://github.com/Ez4p1xEL/NoBuildPlus",
+  "releaseDate": 1651662300000,
+  "updateDate": 1673154420000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

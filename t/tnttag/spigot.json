@@ -1,0 +1,26 @@
+{
+  "id": 105832,
+  "url": "https://www.spigotmc.org/resources/tnt-tag.105832/",
+  "name": "TNT-Tag",
+  "description": "A funny TNT-Tag minigame for your server!",
+  "authors": [
+    "jurian32e"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105832.jpg?1676897103",
+  "iconCid": "bafkreicxj5cloh5qcagzobnfgvwc34aeuo2z2fzi2qaexm3izlqc5sgmaq",
+  "numberOfDownloads": 453,
+  "rating": 3.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tnt-tag.105832/history",
+  "releaseDate": 1676645100000,
+  "updateDate": 1676645100000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

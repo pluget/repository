@@ -1,0 +1,27 @@
+{
+  "id": 55773,
+  "url": "https://www.spigotmc.org/resources/griefprevention-flags.55773/",
+  "name": "GriefPrevention Flags",
+  "description": "GriefPrevention add-on to set flags in claims",
+  "authors": [
+    "DrBot"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/55/55773.jpg?1523955146",
+  "iconCid": "bafkreigi45wieglvsx5rsareogrw4taa2waz7a33zc5zdxtph7jlqwn3ve",
+  "numberOfDownloads": 31973,
+  "rating": 4.7,
+  "numberOfVotes": 40,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/griefprevention-flags.55773/history",
+  "gitUrl": "https://github.com/akdukaan/GPFlags",
+  "releaseDate": 1523951520000,
+  "updateDate": 1661819880000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

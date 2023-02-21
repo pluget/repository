@@ -1,0 +1,31 @@
+{
+  "id": 6064,
+  "url": "https://www.spigotmc.org/resources/securityvillagers-protect-villagers-of-your-server.6064/",
+  "name": "SecurityVillagers - Protect villagers of your server",
+  "description": "A simple plugin to protect villagers and related mobs",
+  "authors": [
+    "AlessioDP"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/6/6064.jpg?1572009700",
+  "iconCid": "bafkreihv2qilinjlhm5b7v6hmsvn6k4l6bjpms4wehyf5n6jyoldkpuyz4",
+  "numberOfDownloads": 7304,
+  "rating": 4,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/securityvillagers-protect-villagers-of-your-server.6064/history",
+  "gitUrl": "https://github.com/AlessioDP/SecurityVillagers",
+  "releaseDate": 1429081260000,
+  "updateDate": 1671816540000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

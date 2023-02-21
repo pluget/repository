@@ -1,0 +1,21 @@
+{
+  "id": 108124,
+  "url": "https://www.spigotmc.org/resources/consolefilter-filter-your-console-messages.108124/",
+  "name": "ConsoleFilter | Filter your console messages",
+  "description": "Remove unwanted messages and spam from your console",
+  "authors": [
+    "TNT10128"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108124.jpg?1676850342",
+  "iconCid": "bafkreidr3yu2apxk74qjw7o7hsio4hxksevcijx6aguyx5swizdjgmjrxu",
+  "numberOfDownloads": 14,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/consolefilter-filter-your-console-messages.108124/history",
+  "gitUrl": "https://github.com/tnt10128/ConsoleFilter",
+  "releaseDate": 1676890260000,
+  "updateDate": 1676890260000,
+  "versions": [
+    "1.19"
+  ]
+}

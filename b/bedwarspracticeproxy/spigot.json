@@ -1,0 +1,24 @@
+{
+  "id": 99636,
+  "url": "https://www.spigotmc.org/resources/bedwarspracticeproxy.99636/",
+  "name": "BedWarsPracticeProxy",
+  "description": "An add on to link Lobby and BedWarsPractice servers.",
+  "authors": [
+    "Zandy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99636.jpg?1643555714",
+  "iconCid": "bafkreifc5tu7izxfgqpbmckrvz77zlelaigjgkqzrqo3kv6vua7w27slu4",
+  "numberOfDownloads": 263,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bedwarspracticeproxy.99636/history",
+  "releaseDate": 1643552100000,
+  "updateDate": 1667303640000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

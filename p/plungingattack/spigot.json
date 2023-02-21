@@ -1,0 +1,24 @@
+{
+  "id": 107820,
+  "url": "https://www.spigotmc.org/resources/plungingattack.107820/",
+  "name": "PlungingAttack",
+  "description": "Lightweight Genshin Impact-like plunging attacks with high customization!",
+  "authors": [
+    "ZBLL"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107820.jpg?1675525927",
+  "iconCid": "bafkreidarudobh6tf7rtvxyedtchht4znvs22of7j5nrydmpyz5h45keg4",
+  "numberOfDownloads": 19,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/plungingattack.107820/history",
+  "gitUrl": "https://github.com/RoughlyUnderscore/PlungingAttack",
+  "releaseDate": 1675520700000,
+  "updateDate": 1675520820000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

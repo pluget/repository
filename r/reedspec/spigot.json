@@ -1,0 +1,23 @@
+{
+  "id": 107122,
+  "url": "https://www.spigotmc.org/resources/reedspec.107122/",
+  "name": "ReedSpec",
+  "description": "A Light Spectator Mode Plugin",
+  "authors": [
+    "ReedNocera"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107122.jpg?1672621624",
+  "iconCid": "bafkreidk65khxwzph6ke52usdwctfqhdbnvvxmqwsg45ljlbjj5hf33pwe",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/reedspec.107122/history",
+  "gitUrl": "https://github.com/reed-noc/ReedSpec",
+  "releaseDate": 1672617960000,
+  "updateDate": 1672617960000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

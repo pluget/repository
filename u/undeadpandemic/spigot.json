@@ -1,0 +1,24 @@
+{
+  "id": 95385,
+  "url": "https://www.spigotmc.org/resources/undeadpandemic.95385/",
+  "name": "UndeadPandemic",
+  "description": "A complete zombie apocalypse plugin. Compatible with Vault; WorldEdit; WorldGuard; PAPI",
+  "authors": [
+    "SteveZR963"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95385.jpg?1632184244",
+  "iconCid": "bafkreielivemrc3kxl24jrzlk64om6qmaom5iey5qux4vv2isy4vjywbeq",
+  "numberOfDownloads": 3303,
+  "rating": 4.4,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/undeadpandemic.95385/history",
+  "gitUrl": "https://github.com/GamerMedic/UndeadPandemic",
+  "releaseDate": 1629123660000,
+  "updateDate": 1669902540000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

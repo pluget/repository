@@ -1,0 +1,23 @@
+{
+  "id": 101634,
+  "url": "https://www.spigotmc.org/resources/promchousing-rent-world-guard-regions-cross-server-support.101634/",
+  "name": "Promchousing - Rent World Guard Regions - Cross Server Support!",
+  "description": "Allow your players to sell and rent WorldGuard regions.",
+  "authors": [
+    "goflish"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101634.jpg?1650839249",
+  "iconCid": "bafkreidm4fvh6wc55zw2hznvuikxrklna2umlbual6egjrsmedgufwtkba",
+  "numberOfDownloads": 143,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/promchousing-rent-world-guard-regions-cross-server-support.101634/history",
+  "gitUrl": "https://github.com/promcteam/promchousing",
+  "releaseDate": 1650835620000,
+  "updateDate": 1668109800000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

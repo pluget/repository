@@ -1,0 +1,31 @@
+{
+  "id": 105332,
+  "url": "https://www.spigotmc.org/resources/bedwars1058-bossbar.105332/",
+  "name": "BedWars1058-BossBar",
+  "description": "addon",
+  "authors": [
+    "NotLew_x"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105332.jpg?1663438636",
+  "iconCid": "bafkreihj7nu7ouhl2sdcqdsciqg245ecttx2rla5zaeq2jkrvhr5ko6o6e",
+  "numberOfDownloads": 96,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bedwars1058-bossbar.105332/history",
+  "gitUrl": "https://github.com/NotLewUwU/BedWars1058-BossBar",
+  "releaseDate": 1663435020000,
+  "updateDate": 1664370180000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

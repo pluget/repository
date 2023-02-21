@@ -1,0 +1,21 @@
+{
+  "id": 106825,
+  "url": "https://www.spigotmc.org/resources/encrypted-messaging.106825/",
+  "name": "Encrypted Messaging",
+  "description": "This plugin allows players to send encrypted messages to each other.",
+  "authors": [
+    "CraniX"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106825.jpg?1671421719",
+  "iconCid": "bafkreibrd4ikxxaivb7qp5xbjoymest3iphnnujfomu4rh3djc3ual5qce",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/encrypted-messaging.106825/history",
+  "gitUrl": "https://drive.google.com/file/d/1DCnztoNmjp1qFpHlhIghWYZ6fEr2qnTv/view?usp=share_link",
+  "releaseDate": 1671418080000,
+  "updateDate": 1671991500000,
+  "versions": [
+    "1.19"
+  ]
+}

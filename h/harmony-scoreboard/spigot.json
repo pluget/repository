@@ -1,0 +1,28 @@
+{
+  "id": 88480,
+  "url": "https://www.spigotmc.org/resources/1-8-1-19-harmony-scoreboard-nms-async-placeholderapi-support.88480/",
+  "name": "[1.8-1.19] Harmony Scoreboard | NMS Async | PlaceHolderAPI Support",
+  "description": "NMS Asnyc Lightweight Scoreboard Plugin",
+  "authors": [
+    "HarmonyPlugins"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88480.jpg?1612046252",
+  "iconCid": "bafkreid2s2le5w54hjnqnnlfiaj5eog3mw6bqamjwlaztp74d45duhwhfi",
+  "numberOfDownloads": 4324,
+  "rating": 4.8,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/1-8-1-19-harmony-scoreboard-nms-async-placeholderapi-support.88480/history",
+  "gitUrl": "https://github.com/Oreoezi/HarmonyBoard/",
+  "releaseDate": 1612042620000,
+  "updateDate": 1659099960000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

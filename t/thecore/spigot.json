@@ -1,0 +1,31 @@
+{
+  "id": 84131,
+  "url": "https://www.spigotmc.org/resources/thecore.84131/",
+  "name": "TheCore",
+  "description": "An effective way to develop plugins. Save time, do more!",
+  "authors": [
+    "SobkySK"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84131.jpg?1652425364",
+  "iconCid": "bafkreicmkllhaeo3zcx67ry2bf45l75z5eh6o7tdnr66o37u47zucpr6ni",
+  "numberOfDownloads": 3155,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/thecore.84131/history",
+  "releaseDate": 1600871400000,
+  "updateDate": 1671459900000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

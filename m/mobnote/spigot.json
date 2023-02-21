@@ -1,0 +1,21 @@
+{
+  "id": 106489,
+  "url": "https://www.spigotmc.org/resources/mobnote.106489/",
+  "name": "MobNote",
+  "description": "Restore the noteblock in 22w46a",
+  "authors": [
+    "bili_xxb"
+  ],
+  "numberOfDownloads": 33,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mobnote.106489/history",
+  "gitUrl": "https://github.com/zfn-star/MobNote",
+  "releaseDate": 1669687380000,
+  "updateDate": 1669687380000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

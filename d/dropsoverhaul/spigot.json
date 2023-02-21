@@ -1,0 +1,21 @@
+{
+  "id": 91000,
+  "url": "https://www.spigotmc.org/resources/dropsoverhaul.91000/",
+  "name": "DropsOverhaul",
+  "description": "Reduces the amount of drops from junk blocks by placing them directly into the inventory",
+  "authors": [
+    "OreDerp"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91000.jpg?1617723609",
+  "iconCid": "bafkreibamchvrcvbpsohrodsfzhkbg6rhdvqjirgf7rrhv5eybfxrch7ly",
+  "numberOfDownloads": 93,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dropsoverhaul.91000/history",
+  "gitUrl": "https://github.com/FrankTCA/DropsOverhaul",
+  "releaseDate": 1617719940000,
+  "updateDate": 1671205020000,
+  "versions": [
+    "1.19"
+  ]
+}

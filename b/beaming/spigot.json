@@ -1,0 +1,23 @@
+{
+  "id": 8094,
+  "url": "https://www.spigotmc.org/resources/beaming.8094/",
+  "name": "beaming",
+  "description": "Beaming - a Bukkit plugin companion to Movecraft",
+  "authors": [
+    "TylerS1066"
+  ],
+  "numberOfDownloads": 847,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/beaming.8094/history",
+  "gitUrl": "https://github.com/APDevTeam/Beaming",
+  "releaseDate": 1434065820000,
+  "updateDate": 1672272360000,
+  "versions": [
+    "1.14",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

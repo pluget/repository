@@ -1,0 +1,23 @@
+{
+  "id": 105258,
+  "url": "https://www.spigotmc.org/resources/shulkerboxpreview.105258/",
+  "name": "ShulkerBoxPreview",
+  "description": "You can see the fully items inside shulker box without opening it.",
+  "authors": [
+    "Samuel753951"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105258.jpg?1663077717",
+  "iconCid": "bafkreicvhd47xtpnziaiv7sfd3abae3drw6rletb4i7ecoxayawuavrosy",
+  "numberOfDownloads": 210,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/shulkerboxpreview.105258/history",
+  "gitUrl": "https://github.com/BrilliantServer/ShulkerBoxPreview",
+  "releaseDate": 1663074060000,
+  "updateDate": 1666702320000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

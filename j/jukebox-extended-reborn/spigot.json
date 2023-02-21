@@ -1,0 +1,26 @@
+{
+  "id": 103219,
+  "url": "https://www.spigotmc.org/resources/jukebox-extended-reborn-add-custom-music-discs.103219/",
+  "name": "Jukebox Extended Reborn | Add custom music discs",
+  "description": "Add custom disc and music to your server now! Works just like vanilla jukebox!",
+  "authors": [
+    "spartacus04"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103219.jpg?1657361857",
+  "iconCid": "bafkreig5n7frs2ya5e53iw323jrb7xyyikiter5hpwyrfdq44brsrpyewu",
+  "numberOfDownloads": 1323,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/jukebox-extended-reborn-add-custom-music-discs.103219/history",
+  "gitUrl": "https://github.com/spartacus04/jext-reborn/",
+  "releaseDate": 1676707260000,
+  "updateDate": 1676707260000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

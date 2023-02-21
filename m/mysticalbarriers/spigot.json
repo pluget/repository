@@ -1,0 +1,26 @@
+{
+  "id": 105671,
+  "url": "https://www.spigotmc.org/resources/mysticalbarriers-a-fancy-way-to-limit-a-room-access.105671/",
+  "name": "MysticalBarriers - A fancy way to limit a room access",
+  "description": "Create a wall visible only to who hasn't the permission to see the true path",
+  "authors": [
+    "EmPee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105671.jpg?1665170893",
+  "iconCid": "bafkreib6drncr6iali6q5wn2ntpezxczpeyx7bvktpeq774eakqe4f2xpm",
+  "numberOfDownloads": 377,
+  "rating": 4.3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mysticalbarriers-a-fancy-way-to-limit-a-room-access.105671/history",
+  "gitUrl": "https://github.com/Mr-EmPee/MysticalBarriers",
+  "releaseDate": 1665166860000,
+  "updateDate": 1673644380000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

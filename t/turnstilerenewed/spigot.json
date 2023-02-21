@@ -1,0 +1,21 @@
+{
+  "id": 104570,
+  "url": "https://www.spigotmc.org/resources/turnstile-renewed-1-19-1-19-3.104570/",
+  "name": "Turnstile-Renewed [1.19 - 1.19.3]",
+  "description": "Bukkit/Spigot plugin which allows players to pay to open gates (similar to subway turnstiles)",
+  "authors": [
+    "Lxmune"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104570.jpg?1660571780",
+  "iconCid": "bafkreiczwsylsgax3kaerxzslvwjlbnitqweysdxovgjae4tabxhy4xhjm",
+  "numberOfDownloads": 228,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/turnstile-renewed-1-19-1-19-3.104570/history",
+  "gitUrl": "https://github.com/Lxmune/turnstile-renewed",
+  "releaseDate": 1660567860000,
+  "updateDate": 1672309980000,
+  "versions": [
+    "1.19"
+  ]
+}

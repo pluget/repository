@@ -1,0 +1,27 @@
+{
+  "id": 36631,
+  "url": "https://www.spigotmc.org/resources/skquery-1-13-1-19.36631/",
+  "name": "SkQuery [1.13-1.19+]",
+  "description": "An updated SkQuery fork.",
+  "authors": [
+    "LimeGlass"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/36/36631.jpg?1487538674",
+  "iconCid": "bafkreifkkwxl2claez73ilwgofjwl2ffyey2t7khncjr52h7w6vrgs4f3a",
+  "numberOfDownloads": 158682,
+  "rating": 3.9,
+  "numberOfVotes": 43,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skquery-1-13-1-19.36631/history",
+  "gitUrl": "https://github.com/SkQuery/SkQuery",
+  "releaseDate": 1487535000000,
+  "updateDate": 1671076560000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

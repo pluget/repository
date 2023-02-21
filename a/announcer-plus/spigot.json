@@ -1,0 +1,32 @@
+{
+  "id": 81005,
+  "url": "https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/",
+  "name": "Announcer Plus [Hex RGB, PlaceholderAPI, JSON, Toast]",
+  "description": "Custom Join/Quit messages and auto-broadcasts! Text animations, Boss Bars, Titles. and much more!",
+  "authors": [
+    "jmp"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81005.jpg?1593802115",
+  "iconCid": "bafkreiclabzjjskwkra2txtvp4xjzr4dlmazo7ffu6ng7wqbltf272x4sy",
+  "numberOfDownloads": 5827,
+  "rating": 5,
+  "numberOfVotes": 21,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/announcer-plus-hex-rgb-placeholderapi-json-toast.81005/history",
+  "gitUrl": "https://github.com/jpenilla/AnnouncerPlus",
+  "releaseDate": 1593798480000,
+  "updateDate": 1670562960000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

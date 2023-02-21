@@ -1,0 +1,26 @@
+{
+  "id": 95964,
+  "url": "https://www.spigotmc.org/resources/hunger-is-stamina-mmocore-addon.95964/",
+  "name": "Hunger Is Stamina - MMOCore Addon",
+  "description": "MMOCore Stamina System Addon",
+  "authors": [
+    "GamingXNiter"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95964.jpg?1630764882",
+  "iconCid": "bafkreicnphhs6u76njvx6bh5toyzxtnxfgrsapydyiujua5zwkofdgtuwa",
+  "numberOfDownloads": 492,
+  "rating": 4.3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hunger-is-stamina-mmocore-addon.95964/history",
+  "gitUrl": "https://github.com/X-Niter/HungerIsStamina",
+  "releaseDate": 1630761240000,
+  "updateDate": 1670050560000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

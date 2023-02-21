@@ -1,0 +1,28 @@
+{
+  "id": 89836,
+  "url": "https://www.spigotmc.org/resources/anonymousmasks.89836/",
+  "name": "AnonymousMasks",
+  "description": "Add anonymous masks to your server!",
+  "authors": [
+    "TheKingerGamer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89836.jpg?1626098768",
+  "iconCid": "bafkreidpfe5f77id6jawf5xs4w3un4d4be2b7gljtmzapptpnz2s6vpuhm",
+  "numberOfDownloads": 3102,
+  "rating": 4.8,
+  "numberOfVotes": 21,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anonymousmasks.89836/history",
+  "gitUrl": "https://github.com/ImFound/AnonymousMasks/",
+  "releaseDate": 1615116600000,
+  "updateDate": 1668542640000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

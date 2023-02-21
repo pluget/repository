@@ -1,0 +1,33 @@
+{
+  "id": 103636,
+  "url": "https://www.spigotmc.org/resources/whitelistplus.103636/",
+  "name": "WhitelistPlus",
+  "description": "A whitelist system for your server",
+  "authors": [
+    "TheSantiCraft234"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103636.jpg?1660934705",
+  "iconCid": "bafkreibw73s2epimbwa7uhrpu4oaqppwap37yve77cs4vzumfxcxxfm4uq",
+  "numberOfDownloads": 240,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/whitelistplus.103636/history",
+  "gitUrl": "https://github.com/SpaceDevelopments/Whitelistplus",
+  "releaseDate": 1658626320000,
+  "updateDate": 1667008980000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

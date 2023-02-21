@@ -1,0 +1,31 @@
+{
+  "id": 8390,
+  "url": "https://www.spigotmc.org/resources/motd-1-8-1-19-2.8390/",
+  "name": "MOTD [1.8 - 1.19.2]",
+  "description": "Set your server Motd with one command.",
+  "authors": [
+    "yapzhenyie"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/8/8390.jpg?1434728020",
+  "iconCid": "bafkreieyqei4egxbexwthafwmztc73jnuwjk76ct3ioc5o33y5zy3sq3lq",
+  "numberOfDownloads": 252441,
+  "rating": 4.6,
+  "numberOfVotes": 73,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/motd-1-8-1-19-2.8390/history",
+  "releaseDate": 1434724380000,
+  "updateDate": 1659876420000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

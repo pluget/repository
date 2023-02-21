@@ -1,0 +1,33 @@
+{
+  "id": 71929,
+  "url": "https://www.spigotmc.org/resources/advanceparticle-1-5-x-1-19-3-players-block-location-particles.71929/",
+  "name": "AdvanceParticle [1.5.x - 1.19.3] | Players - Block location particles",
+  "description": "AdvanceParticle plugin giving you choise to set particle on blocks location or player location",
+  "authors": [
+    "Tixius24_SK"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/71/71929.jpg?1589158499",
+  "iconCid": "bafkreicdxmvo7h6q5lfzqd5gl3zibljuv734rvi6h4qf4xuras3ttbjnrq",
+  "numberOfDownloads": 9503,
+  "rating": 4.5,
+  "numberOfVotes": 18,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advanceparticle-1-5-x-1-19-3-players-block-location-particles.71929/history",
+  "gitUrl": "https://github.com/Tixius24/AdvanceParticle",
+  "releaseDate": 1570610340000,
+  "updateDate": 1673522460000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

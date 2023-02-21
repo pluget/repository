@@ -1,0 +1,22 @@
+{
+  "id": 102175,
+  "url": "https://www.spigotmc.org/resources/antylogout.102175/",
+  "name": "Antylogout",
+  "description": "Easy-to-use anti-logout plugin!",
+  "authors": [
+    "Kajteh"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102175.jpg?1669667021",
+  "iconCid": "bafkreighix6by55mh2dnhfwxidmc7ijjw7w7gkmz5vfhx2tohd4xqreode",
+  "numberOfDownloads": 9298,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antylogout.102175/history",
+  "releaseDate": 1653324000000,
+  "updateDate": 1675430040000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 17311,
+  "url": "https://www.spigotmc.org/resources/worldeditselectionvisualizer-1-7-10-1-19.17311/",
+  "name": "WorldEditSelectionVisualizer [1.7.10-1.19]",
+  "description": "Visualize your WorldEdit selection with particles and without any mod.",
+  "authors": [
+    "MrMicky"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/17/17311.jpg?1553591018",
+  "iconCid": "bafkreiecwjzjuxelaz6evzsoua57q25zddcsiafrzv363to4es6vwlmvte",
+  "numberOfDownloads": 781454,
+  "rating": 4.9,
+  "numberOfVotes": 52,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/worldeditselectionvisualizer-1-7-10-1-19.17311/history",
+  "gitUrl": "https://github.com/MrMicky-FR/WorldEditSelectionVisualizer",
+  "releaseDate": 1453459740000,
+  "updateDate": 1671813660000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 99169,
+  "url": "https://www.spigotmc.org/resources/bungeeadmintools-revived-mc-1-18.99169/",
+  "name": "BungeeAdminTools Revived (MC 1.18+)",
+  "description": "Ban, mute and kick with a complete bungee plugin",
+  "authors": [
+    "Linkforsoad"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99169.jpg?1665084658",
+  "iconCid": "bafkreie2imvc4pqsukyezbfuegy2fwiecddrjueuc6tsg2szvcinhz67ee",
+  "numberOfDownloads": 117,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bungeeadmintools-revived-mc-1-18.99169/history",
+  "gitUrl": "https://github.com/internetpolice-eu/BungeeAdminTools-original",
+  "releaseDate": 1642090080000,
+  "updateDate": 1665070620000,
+  "versions": [
+    "1.18"
+  ]
+}

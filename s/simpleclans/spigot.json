@@ -1,0 +1,32 @@
+{
+  "id": 71242,
+  "url": "https://www.spigotmc.org/resources/simpleclans.71242/",
+  "name": "SimpleClans",
+  "description": "Simple yet robust clan system for PvP servers (Supports 1.8 to 1.19)",
+  "authors": [
+    "RoinujNosde"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/71/71242.jpg?1647734167",
+  "iconCid": "bafkreifzm64dyt4lqhyvqihppjdelgthxfvi4shcxjuov3a6vdvookqhyq",
+  "numberOfDownloads": 51611,
+  "rating": 4.9,
+  "numberOfVotes": 61,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simpleclans.71242/history",
+  "gitUrl": "https://github.com/RoinujNosde/SimpleClans",
+  "releaseDate": 1568380560000,
+  "updateDate": 1669845060000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

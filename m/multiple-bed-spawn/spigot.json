@@ -1,0 +1,21 @@
+{
+  "id": 107057,
+  "url": "https://www.spigotmc.org/resources/multiple-bed-spawn.107057/",
+  "name": "Multiple Bed Spawn",
+  "description": "A simple plugin to allow players to choose which bed to respawn into.",
+  "authors": [
+    "GabrielFJ"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107057.jpg?1672420385",
+  "iconCid": "bafkreierrcjuf5desbu6iyt3dtkthvovzpng73gsdelaoswmkca3jgtqnm",
+  "numberOfDownloads": 211,
+  "rating": 4,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/multiple-bed-spawn.107057/history",
+  "gitUrl": "https://github.com/GabrielFJunkes/MultipleBedSpawn",
+  "releaseDate": 1672416720000,
+  "updateDate": 1675794120000,
+  "versions": [
+    "1.19"
+  ]
+}

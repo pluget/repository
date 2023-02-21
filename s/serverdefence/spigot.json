@@ -1,0 +1,32 @@
+{
+  "id": 100438,
+  "url": "https://www.spigotmc.org/resources/%E2%99%96serverdefence%E2%99%96-protect-account-block-commands-perms-checker-mod-client-detector-discordbot.100438/",
+  "name": "♖ServerDefence♖ | Protect account & Block commands & Perms checker & Mod/Client detector &DiscordBot",
+  "description": "Protect your server and admin accounts from hacking",
+  "authors": [
+    "PhoenixRa"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100438.jpg?1646587878",
+  "iconCid": "bafkreie3zmhfmc5xmsv2fpd5yeng4ongefk7yokihfivkijvfmuasnisri",
+  "numberOfDownloads": 840,
+  "rating": 4.3,
+  "numberOfVotes": 8,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%99%96serverdefence%E2%99%96-protect-account-block-commands-perms-checker-mod-client-detector-discordbot.100438/history",
+  "gitUrl": "https://github.com/Phoenix-Ra/ServerDefence",
+  "releaseDate": 1646310360000,
+  "updateDate": 1672254600000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 75678,
+  "url": "https://www.spigotmc.org/resources/admincmd.75678/",
+  "name": "AdminCMD",
+  "description": "AdminCMD is a very powerful plugin providing every command a server admin needs",
+  "authors": [
+    "TheJeterLP"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75678.jpg?1583184066",
+  "iconCid": "bafkreifchapdytyrmtbuezsl5f2is6talpgyd6burld52oo2pngzqjkqtu",
+  "numberOfDownloads": 837,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/admincmd.75678/history",
+  "gitUrl": "https://github.com/admincmd/admincmd",
+  "releaseDate": 1583180400000,
+  "updateDate": 1664815380000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15"
+  ]
+}

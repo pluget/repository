@@ -1,0 +1,33 @@
+{
+  "id": 107567,
+  "url": "https://www.spigotmc.org/resources/mc-jda.107567/",
+  "name": "MC-JDA",
+  "description": "JavaDiscordAPI (JDA) Library for Spigot/BungeeCord",
+  "authors": [
+    "IBimsNik"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107567.jpg?1674488868",
+  "iconCid": "bafkreiadduq6adha3ajhvfkbroqszfx4zjinylq27cw5j5l43k3k36urke",
+  "numberOfDownloads": 40,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mc-jda.107567/history",
+  "gitUrl": "https://github.com/DV8FromTheWorld/JDA",
+  "releaseDate": 1674485220000,
+  "updateDate": 1674485220000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

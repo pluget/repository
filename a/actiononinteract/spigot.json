@@ -1,0 +1,24 @@
+{
+  "id": 105244,
+  "url": "https://www.spigotmc.org/resources/actiononinteract.105244/",
+  "name": "ActionOnInteract",
+  "description": "-The perfect plugin for idk what u could use this for ;)",
+  "authors": [
+    "SpaceNiklas"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105244.jpg?1662999475",
+  "iconCid": "bafkreicmjwgk3xwdagdzrrp5uqhanuobgq4cmpgstc3m7q7gh56imzqwxy",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/actiononinteract.105244/history",
+  "gitUrl": "https://github.com/SpaceNiklas/ActionOnInteract",
+  "releaseDate": 1662995820000,
+  "updateDate": 1663044960000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

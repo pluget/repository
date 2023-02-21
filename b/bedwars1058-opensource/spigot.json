@@ -1,0 +1,26 @@
+{
+  "id": 97320,
+  "url": "https://www.spigotmc.org/resources/bedwars1058-opensource.97320/",
+  "name": "BedWars1058 - OpenSource",
+  "description": "Custom teams, Custom scoreboards, Custom shop, individual language, custom team upgrades.",
+  "authors": [
+    "andrei1058"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97320.jpg?1635753844",
+  "iconCid": "bafkreicl2qwwefwhkmtzbld3tsh625hug7znyr7e6rjp3cub24yfmxcyj4",
+  "numberOfDownloads": 48346,
+  "rating": 4.1,
+  "numberOfVotes": 106,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bedwars1058-opensource.97320/history",
+  "gitUrl": "https://github.com/andrei1058/BedWars1058",
+  "releaseDate": 1676709300000,
+  "updateDate": 1676709300000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

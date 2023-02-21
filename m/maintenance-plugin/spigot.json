@@ -1,0 +1,24 @@
+{
+  "id": 74910,
+  "url": "https://www.spigotmc.org/resources/maintenance-plugin.74910/",
+  "name": "Maintenance Plugin",
+  "description": "Maintenance",
+  "authors": [
+    "GoodyFX"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/74/74910.jpg?1580772261",
+  "iconCid": "bafkreidc3ji62rhn5oh3hysobf2xmws5cmouj4nhj5l7pglp7efjxhlqre",
+  "numberOfDownloads": 1365,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/maintenance-plugin.74910/history",
+  "releaseDate": 1580768580000,
+  "updateDate": 1668595800000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 103265,
+  "url": "https://www.spigotmc.org/resources/commands-checking.103265/",
+  "name": "Commands Checking",
+  "description": "Command settings, Command execution condition",
+  "authors": [
+    "Barabn4ik"
+  ],
+  "numberOfDownloads": 21,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/commands-checking.103265/history",
+  "gitUrl": "https://github.com/Baraban4ik/CommandsChecking/",
+  "releaseDate": 1657477020000,
+  "updateDate": 1663256280000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

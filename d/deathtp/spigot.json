@@ -1,0 +1,25 @@
+{
+  "id": 68688,
+  "url": "https://www.spigotmc.org/resources/deathtp.68688/",
+  "name": "DeathTP",
+  "description": "Teleport back to your death location with a single command",
+  "authors": [
+    "Newb"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/68/68688.jpg?1579103550",
+  "iconCid": "bafkreihcusv5plurgn4oyjsvlsljxtevrf5sy45hr7gvdvgpvtbbdtdwom",
+  "numberOfDownloads": 10375,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/deathtp.68688/history",
+  "releaseDate": 1561375680000,
+  "updateDate": 1675042680000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

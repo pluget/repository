@@ -1,0 +1,32 @@
+{
+  "id": 105192,
+  "url": "https://www.spigotmc.org/resources/blockreset.105192/",
+  "name": "BlockReset",
+  "description": "Removes by stages all the blocks that players place",
+  "authors": [
+    "rapust"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105192.jpg?1662816677",
+  "iconCid": "bafkreiabirzcfpemssdls52jpry3hom4apqpcr5fpgwcb5qidtk6frjx2q",
+  "numberOfDownloads": 48,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blockreset.105192/history",
+  "gitUrl": "https://github.com/rapust/BlockReset/",
+  "releaseDate": 1662813060000,
+  "updateDate": 1662813060000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 104436,
+  "url": "https://www.spigotmc.org/resources/staffchatx.104436/",
+  "name": "StaffChatX",
+  "description": "Staff chat, as simple as rocket science.",
+  "authors": [
+    "rbstsoul"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104436.jpg?1660146127",
+  "iconCid": "bafkreiebjzpvbicirn2zlpouz5hp32ht4bprdsbqglenpfebc7p33vy5cu",
+  "numberOfDownloads": 42,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/staffchatx.104436/history",
+  "gitUrl": "https://github.com/NyksCraft/StaffChatX",
+  "releaseDate": 1660142460000,
+  "updateDate": 1660142460000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

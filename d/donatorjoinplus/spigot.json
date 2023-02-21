@@ -1,0 +1,20 @@
+{
+  "id": 8690,
+  "url": "https://www.spigotmc.org/resources/donatorjoin.8690/",
+  "name": "DonatorJoin+",
+  "description": "An advanced message manager for join & quit events (server + world) per rank.",
+  "authors": [
+    "didjee2"
+  ],
+  "numberOfDownloads": 19789,
+  "rating": 4.7,
+  "numberOfVotes": 31,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/donatorjoin.8690/history",
+  "gitUrl": "https://github.com/dieterblancke/DonatorJoinPlus/",
+  "releaseDate": 1435324260000,
+  "updateDate": 1667598000000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

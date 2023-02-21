@@ -1,0 +1,32 @@
+{
+  "id": 93372,
+  "url": "https://www.spigotmc.org/resources/filecleaner-automatically-delete-old-files.93372/",
+  "name": "FileCleaner | Automatically Delete Old Files",
+  "description": "Remove old logs and other files automatically!",
+  "authors": [
+    "JasonHorkles"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93372.jpg?1623821681",
+  "iconCid": "bafkreihdajs3uevxbugegwzzvjb66zjgohrszjm5gg6ed6tgjf4ytp3xme",
+  "numberOfDownloads": 276,
+  "rating": 4.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/filecleaner-automatically-delete-old-files.93372/history",
+  "gitUrl": "https://github.com/SilverstoneMC/FileCleaner",
+  "releaseDate": 1623817380000,
+  "updateDate": 1674676260000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

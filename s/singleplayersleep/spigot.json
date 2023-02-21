@@ -1,0 +1,28 @@
+{
+  "id": 68139,
+  "url": "https://www.spigotmc.org/resources/singleplayersleep.68139/",
+  "name": "SinglePlayerSleep",
+  "description": "Allows one person to sleep, without others on server having to sleep or log.",
+  "authors": [
+    "JoelYahwehOfWar"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/68/68139.jpg?1560041726",
+  "iconCid": "bafkreida6dgf7gten3xd2a7l6rwhmyqabixvzwwsawu3p6lzevxxtkrztu",
+  "numberOfDownloads": 78824,
+  "rating": 4.8,
+  "numberOfVotes": 19,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/singleplayersleep.68139/history",
+  "gitUrl": "https://github.com/JoelGodOfwar/SinglePlayerSleep",
+  "releaseDate": 1560038040000,
+  "updateDate": 1673686080000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

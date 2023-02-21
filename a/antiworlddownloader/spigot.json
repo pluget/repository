@@ -1,0 +1,32 @@
+{
+  "id": 99356,
+  "url": "https://www.spigotmc.org/resources/antiworlddownloader.99356/",
+  "name": "AntiWorldDownloader",
+  "description": "Prevent stealing of your maps!",
+  "authors": [
+    "DavideBlade"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99356.jpg?1642682138",
+  "iconCid": "bafkreibmzdc527g2h36yiyqxkof2uthwnhxudj73kfi4ncncnenwyiuxp4",
+  "numberOfDownloads": 722,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antiworlddownloader.99356/history",
+  "gitUrl": "https://github.com/DavideBlade/AntiWorldDownloader",
+  "releaseDate": 1642678500000,
+  "updateDate": 1659893580000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

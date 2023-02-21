@@ -1,0 +1,24 @@
+{
+  "id": 99253,
+  "url": "https://www.spigotmc.org/resources/plasmovoiceaddon.99253/",
+  "name": "PlasmoVoiceAddon",
+  "description": "Addon for PlasmoVoice that will be play sound from url or file",
+  "authors": [
+    "Gdame"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99253.jpg?1642695873",
+  "iconCid": "bafkreib65tb2n4chcm3s5yfdugkcsisxzq7h74nadwgc7sknlvpfjkjly4",
+  "numberOfDownloads": 674,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/plasmovoiceaddon.99253/history",
+  "gitUrl": "https://github.com/bivashy/PlasmoVoiceAddon",
+  "releaseDate": 1642325160000,
+  "updateDate": 1668438120000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 99738,
+  "url": "https://www.spigotmc.org/resources/per-world-join-leave-messages.99738/",
+  "name": "Per World Join Leave Messages",
+  "description": "Plugin for customizing join/leave messages for custom worlds and more!",
+  "authors": [
+    "MaximMaximSCZ"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99738.jpg?1643983802",
+  "iconCid": "bafkreiflrwt626gjttpdsi3y7m6kj5mpk777snaqix3wvrdc7m6xy2n76e",
+  "numberOfDownloads": 327,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/per-world-join-leave-messages.99738/history",
+  "gitUrl": "https://github.com/MaximMaximS/PWJLM",
+  "releaseDate": 1643913540000,
+  "updateDate": 1670760480000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

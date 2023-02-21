@@ -1,0 +1,19 @@
+{
+  "id": 106887,
+  "url": "https://www.spigotmc.org/resources/serversystem.106887/",
+  "name": "ServerSystem",
+  "description": "A ServerSystem with an inluded BanSystem, Playtime Detection, Minecraft-Discord Chat and more!",
+  "authors": [
+    "TheMiCraft"
+  ],
+  "numberOfDownloads": 58,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/serversystem.106887/history",
+  "gitUrl": "https://github.com/TheMiCraft/ServerSystem",
+  "releaseDate": 1671710940000,
+  "updateDate": 1672441620000,
+  "versions": [
+    "1.19"
+  ]
+}

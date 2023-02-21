@@ -1,0 +1,21 @@
+{
+  "id": 107383,
+  "url": "https://www.spigotmc.org/resources/iplock.107383/",
+  "name": "IPLock",
+  "description": "Locks an IP address to a players account.",
+  "authors": [
+    "CraniX"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107383.jpg?1673715722",
+  "iconCid": "bafkreic7pryhco3c57diben54zncn5ojngacsou5dahlmw52pdycowwjre",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/iplock.107383/history",
+  "gitUrl": "https://drive.google.com/file/d/1d9srhQUeAH2kQCqeneWQLLbr_cYpWsON/view?usp=share_link",
+  "releaseDate": 1673712060000,
+  "updateDate": 1673712060000,
+  "versions": [
+    "1.19"
+  ]
+}

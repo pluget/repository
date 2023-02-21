@@ -1,0 +1,23 @@
+{
+  "id": 85742,
+  "url": "https://www.spigotmc.org/resources/mzp-economy-global-server-economy-mysql-sql-vault-1-8-1-18.85742/",
+  "name": "MZP-Economy | Global / Server Economy, MySQL, SQL, Vault [1.8 - 1.18]",
+  "description": "Global or per server Economy with MySQL or SQL. Simple and Fast!",
+  "authors": [
+    "ludgart"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85742.jpg?1605304329",
+  "iconCid": "bafkreibruxchnhjugjwfmj7uyiwgkahd4k6xfykctm64fynx2hv5fk4q4i",
+  "numberOfDownloads": 766,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mzp-economy-global-server-economy-mysql-sql-vault-1-8-1-18.85742/history",
+  "gitUrl": "https://github.com/Minecraft-Zocker-Pro/MZP-Economy",
+  "releaseDate": 1605289260000,
+  "updateDate": 1676311980000,
+  "versions": [
+    "1.8",
+    "1.17",
+    "1.18"
+  ]
+}

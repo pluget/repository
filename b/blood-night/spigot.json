@@ -1,0 +1,24 @@
+{
+  "id": 85095,
+  "url": "https://www.spigotmc.org/resources/blood-night-spice-up-your-nights.85095/",
+  "name": "Blood Night - Spice Up Your Nights",
+  "description": "Make your nights a nightmare again! A hardcore survival plugin. Features 23 Custom Mobs and more!",
+  "authors": [
+    "Eldoria"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85095.jpg?1603449463",
+  "iconCid": "bafkreifzz4opgh574twqd3nwrxv7g5uejbhpwbzidusivej5p6u3elm4aq",
+  "numberOfDownloads": 15808,
+  "rating": 4.8,
+  "numberOfVotes": 32,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blood-night-spice-up-your-nights.85095/history",
+  "gitUrl": "https://github.com/eldoriarpg/BloodNight",
+  "releaseDate": 1603445820000,
+  "updateDate": 1665477600000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 105850,
+  "url": "https://www.spigotmc.org/resources/manual-tournaments.105850/",
+  "name": "Manual Tournaments",
+  "description": "Lightweight manual tournaments plugin",
+  "authors": [
+    "dgsf"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105850.jpg?1666282397",
+  "iconCid": "bafkreif7vhl7fe4u7vnnbgkifygo3vyt4uw7wgrptp5aub4kpg55lk6cz4",
+  "numberOfDownloads": 56,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/manual-tournaments.105850/history",
+  "gitUrl": "https://github.com/extendsWildbot/ManualTournaments",
+  "releaseDate": 1666278780000,
+  "updateDate": 1666438260000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

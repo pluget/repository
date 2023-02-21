@@ -1,0 +1,27 @@
+{
+  "id": 62353,
+  "url": "https://www.spigotmc.org/resources/api-commandapi-1-13-1-19-3.62353/",
+  "name": "[API] CommandAPI [1.13-1.19.3]",
+  "description": "An API to use the command UI introduced in Minecraft 1.13",
+  "authors": [
+    "Skepter"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/62/62353.jpg?1666261499",
+  "iconCid": "bafkreics3h3rlhzfzur52fnvwnstdzrwt4oojp3bx7byhsfmr6qt55go3i",
+  "numberOfDownloads": 17816,
+  "rating": 5,
+  "numberOfVotes": 25,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/api-commandapi-1-13-1-19-3.62353/history",
+  "gitUrl": "https://github.com/JorelAli/CommandAPI",
+  "releaseDate": 1542059700000,
+  "updateDate": 1676109900000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

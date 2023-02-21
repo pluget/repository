@@ -1,0 +1,32 @@
+{
+  "id": 90599,
+  "url": "https://www.spigotmc.org/resources/2devs-equipmenteffects-equipment-effects-on-your-server-1-8-1-19.90599/",
+  "name": "2Devs-EquipmentEffects | Equipment effects on your Server! | 1.8-1.19",
+  "description": "Plugin that effects to equipment, on hold, on worn etc.",
+  "authors": [
+    "2DevsStudio"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90599.jpg?1638839509",
+  "iconCid": "bafkreihp7sdfbhxbeyq4inhyljnxawbcmnwfdvgjozilxyt2ejhv6a325a",
+  "numberOfDownloads": 879,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/2devs-equipmenteffects-equipment-effects-on-your-server-1-8-1-19.90599/history",
+  "gitUrl": "https://github.com/2DevsStudio/2Devs-EquipmentEffects",
+  "releaseDate": 1616762700000,
+  "updateDate": 1673086740000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

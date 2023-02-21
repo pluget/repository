@@ -1,0 +1,21 @@
+{
+  "id": 107154,
+  "url": "https://www.spigotmc.org/resources/chat-notifications.107154/",
+  "name": "Chat Notifications",
+  "description": "Plays a sound when a chat message is sent/received.",
+  "authors": [
+    "xxthecatt"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107154.jpg?1672719747",
+  "iconCid": "bafkreiecarqrsjqfuhl6273p5hnxsgebtt3qqd4efuov275y4svw5zi7yy",
+  "numberOfDownloads": 39,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chat-notifications.107154/history",
+  "gitUrl": "https://github.com/the-catt/ChatNotifications",
+  "releaseDate": 1672716120000,
+  "updateDate": 1672716120000,
+  "versions": [
+    "1.19"
+  ]
+}

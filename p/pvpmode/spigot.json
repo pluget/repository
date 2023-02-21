@@ -1,0 +1,32 @@
+{
+  "id": 102262,
+  "url": "https://www.spigotmc.org/resources/pvpmode.102262/",
+  "name": "PVPMode",
+  "description": "Manage your pvp mode",
+  "authors": [
+    "p1xEL_mc"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102262.jpg?1653722829",
+  "iconCid": "bafkreigafiazj5vkwgkhj2s2pqlspn3l2ysasbpfqsj6j5gip2c6gsswne",
+  "numberOfDownloads": 449,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pvpmode.102262/history",
+  "gitUrl": "https://github.com/Ez4p1xEL/PVPMode",
+  "releaseDate": 1653719220000,
+  "updateDate": 1661535960000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

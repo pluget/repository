@@ -1,0 +1,19 @@
+{
+  "id": 105470,
+  "url": "https://www.spigotmc.org/resources/twitchmc.105470/",
+  "name": "TwitchMC",
+  "description": "A bridge between your server's streamers and their streams",
+  "authors": [
+    "FERJGU"
+  ],
+  "numberOfDownloads": 22,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/twitchmc.105470/history",
+  "gitUrl": "https://github.com/Fer-Jg/TwitchMC",
+  "releaseDate": 1664174220000,
+  "updateDate": 1664174220000,
+  "versions": [
+    "1.18"
+  ]
+}

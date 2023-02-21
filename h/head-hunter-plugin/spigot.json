@@ -1,0 +1,21 @@
+{
+  "id": 107633,
+  "url": "https://www.spigotmc.org/resources/head-hunter-plugin.107633/",
+  "name": "Head Hunter Plugin",
+  "description": "Give mobs a rare chance of dropping their head when killed.",
+  "authors": [
+    "CrazyCranberry"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107633.jpg?1674799575",
+  "iconCid": "bafkreidbe3yobmloplrycizqcxrok6gqvzh2pnk765qvvvotnv6rk6pkg4",
+  "numberOfDownloads": 173,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/head-hunter-plugin.107633/history",
+  "gitUrl": "https://github.com/KevinCranmer/HeadHunterPlugin",
+  "releaseDate": 1674787980000,
+  "updateDate": 1675095300000,
+  "versions": [
+    "1.19"
+  ]
+}

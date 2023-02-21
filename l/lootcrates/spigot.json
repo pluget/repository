@@ -1,0 +1,25 @@
+{
+  "id": 68424,
+  "url": "https://www.spigotmc.org/resources/lootcrates-powerful-and-highly-customizable-rewards.68424/",
+  "name": "Lootcrates - Powerful and Highly Customizable Rewards",
+  "description": "Reward your players with lootcrates",
+  "authors": [
+    "crazicrafter1"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/68/68424.jpg?1613776107",
+  "iconCid": "bafkreidmnsjpxpnhjv5tsdxy7bxqlmu2qt2amiifslaijtxsvrpxwb2agm",
+  "numberOfDownloads": 10259,
+  "rating": 3.9,
+  "numberOfVotes": 19,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lootcrates-powerful-and-highly-customizable-rewards.68424/history",
+  "gitUrl": "https://github.com/PeriodicSeizures/LootCrates",
+  "releaseDate": 1560811440000,
+  "updateDate": 1674700320000,
+  "versions": [
+    "1.12",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

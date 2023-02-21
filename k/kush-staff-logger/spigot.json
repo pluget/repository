@@ -1,0 +1,25 @@
+{
+  "id": 107607,
+  "url": "https://www.spigotmc.org/resources/kush-staff-logger.107607/",
+  "name": "Kush Staff Logger",
+  "description": "Logs Staff Commands via Discord Webhooks.",
+  "authors": [
+    "TheBamYT123"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107607.jpg?1674673891",
+  "iconCid": "bafkreie4ltbvgwxjlah4lhrsrpxseetudqugngk2asn37b5dy26gzy6544",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kush-staff-logger.107607/history",
+  "releaseDate": 1674670260000,
+  "updateDate": 1675368600000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.11",
+    "1.12",
+    "1.13"
+  ]
+}

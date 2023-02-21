@@ -1,0 +1,22 @@
+{
+  "id": 94333,
+  "url": "https://www.spigotmc.org/resources/swaphotbar.94333/",
+  "name": "SwapHotBar",
+  "description": "swap rows' of items in your backpack to your hot bar by simply pressing shift + mouse wheel",
+  "authors": [
+    "KevynTang"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94333.jpg?1626426058",
+  "iconCid": "bafkreiaccf2ocnvsd3nrg4vow4porjv25zgihb5p4icmie6ydhckjhbhpm",
+  "numberOfDownloads": 358,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/swaphotbar.94333/history",
+  "gitUrl": "https://github.com/KevynTang/SwapHotBar",
+  "releaseDate": 1626422400000,
+  "updateDate": 1659240120000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

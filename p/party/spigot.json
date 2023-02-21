@@ -1,0 +1,33 @@
+{
+  "id": 37625,
+  "url": "https://www.spigotmc.org/resources/party-for-party-and-friends-for-bungeecord.37625/",
+  "name": "@Party for Party And Friends for Bungeecord",
+  "description": "Just write @party into the chat to write into the party chat",
+  "authors": [
+    "simonsator"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/37/37625.jpg?1497976018",
+  "iconCid": "bafkreigq4y4jqwhqvret65f2zqpshw4gtl6sasphymklbh6czhbkyq37v4",
+  "numberOfDownloads": 1178,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/party-for-party-and-friends-for-bungeecord.37625/history",
+  "gitUrl": "https://github.com/Simonsator/AtParty",
+  "releaseDate": 1676415900000,
+  "updateDate": 1676415900000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

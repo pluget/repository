@@ -1,0 +1,32 @@
+{
+  "id": 79023,
+  "url": "https://www.spigotmc.org/resources/cloudnet-lobby-selector.79023/",
+  "name": "CloudNet Lobby Selector",
+  "description": "Allow your users to easily switch between CloudNet lobbies",
+  "authors": [
+    "titivermeesch"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79023.jpg?1590060023",
+  "iconCid": "bafkreigbfsf6wkthqc3wsqq753hfwonevtdabrttrjdxtm4a4l664ls5hm",
+  "numberOfDownloads": 291,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cloudnet-lobby-selector.79023/history",
+  "gitUrl": "https://github.com/titivermeesch/CloudnetLobbySelector/",
+  "releaseDate": 1589909760000,
+  "updateDate": 1664724180000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 104484,
+  "url": "https://www.spigotmc.org/resources/notbounties-gui-placeholderapi.104484/",
+  "name": "NotBounties | GUI | PlaceholderAPI",
+  "description": "Easy to use Bounties plugin with adaptive currency system",
+  "authors": [
+    "Not_Jaden"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104484.jpg?1660278671",
+  "iconCid": "bafkreiet77tfmwfbtbmoj3s76w3udcwrjkobwioc2axsu7oc6vdl3hathe",
+  "numberOfDownloads": 534,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/notbounties-gui-placeholderapi.104484/history",
+  "gitUrl": "https://github.com/No-Not-Jaden/NotBounties",
+  "releaseDate": 1676417220000,
+  "updateDate": 1676417220000,
+  "versions": [
+    "1.16",
+    "1.18",
+    "1.19"
+  ]
+}

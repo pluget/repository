@@ -1,0 +1,21 @@
+{
+  "id": 106379,
+  "url": "https://www.spigotmc.org/resources/skript-prefix-and-suffix.106379/",
+  "name": "[Skript] Prefix and Suffix",
+  "description": "Set chat prefix and suffixes!",
+  "authors": [
+    "DashElector"
+  ],
+  "numberOfDownloads": 39,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skript-prefix-and-suffix.106379/history",
+  "gitUrl": "https://github.com/DashElector/Prefix-and-Suffix",
+  "releaseDate": 1669073280000,
+  "updateDate": 1669073280000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

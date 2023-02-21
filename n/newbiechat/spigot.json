@@ -1,0 +1,26 @@
+{
+  "id": 107437,
+  "url": "https://www.spigotmc.org/resources/newbiechat-%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%B0-%D0%BE%D1%82-%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%BA%D0%BE%D0%B2-%D1%81-%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%BD%D1%8B%D0%BC%D0%B8-%D0%BF%D0%BE%D1%81%D1%8B%D0%BB%D0%B0%D0%BC%D0%B8.107437/",
+  "name": "NewbieChat - Защита от новичков с рекламными посылами.",
+  "description": "Отключите возможность игрокам писать сообщения при первом заходе на сервер.",
+  "authors": [
+    "Emptycsgo"
+  ],
+  "numberOfDownloads": 42,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/newbiechat-%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%B0-%D0%BE%D1%82-%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%BA%D0%BE%D0%B2-%D1%81-%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%BD%D1%8B%D0%BC%D0%B8-%D0%BF%D0%BE%D1%81%D1%8B%D0%BB%D0%B0%D0%BC%D0%B8.107437/history",
+  "gitUrl": "https://github.com/Destroy-Java/newbiechatgit",
+  "releaseDate": 1673966220000,
+  "updateDate": 1676039820000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

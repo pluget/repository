@@ -1,0 +1,22 @@
+{
+  "id": 51630,
+  "url": "https://www.spigotmc.org/resources/mapcha.51630/",
+  "name": "Mapcha",
+  "description": "Map based captcha plugin for your Minecraft server.",
+  "authors": [
+    "iHaq"
+  ],
+  "numberOfDownloads": 1081,
+  "rating": 4.2,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mapcha.51630/history",
+  "gitUrl": "https://github.com/haq/mapcha",
+  "releaseDate": 1515030180000,
+  "updateDate": 1676240220000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

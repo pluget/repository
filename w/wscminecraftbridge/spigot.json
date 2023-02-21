@@ -1,0 +1,19 @@
+{
+  "id": 100716,
+  "url": "https://www.spigotmc.org/resources/wsc-minecraft-bridge.100716/",
+  "name": "WSC-Minecraft-Bridge",
+  "description": "Simple bridge between WoltLab and Bukkit / Spigot / BungeeCord.",
+  "authors": [
+    "_xXSchrandXx_"
+  ],
+  "numberOfDownloads": 251,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/wsc-minecraft-bridge.100716/history",
+  "gitUrl": "https://github.com/xXSchrandXx/WSC-Minecraft-Linker/",
+  "releaseDate": 1647286620000,
+  "updateDate": 1675790400000,
+  "versions": [
+    "1.19"
+  ]
+}

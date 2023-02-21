@@ -1,0 +1,20 @@
+{
+  "id": 102078,
+  "url": "https://www.spigotmc.org/resources/itemsadderblocksinjector.102078/",
+  "name": "ItemsAdderBlocksInjector",
+  "description": "Hack to inject blocks into the game blocks registry and change their texture on the client",
+  "authors": [
+    "LoneDev"
+  ],
+  "numberOfDownloads": 500,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/itemsadderblocksinjector.102078/history",
+  "gitUrl": "https://github.com/ItemsAdder/ItemsAdderBlocksInjector",
+  "releaseDate": 1676888520000,
+  "updateDate": 1676888520000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

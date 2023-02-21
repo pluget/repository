@@ -1,0 +1,26 @@
+{
+  "id": 103907,
+  "url": "https://www.spigotmc.org/resources/ankacore-fix.103907/",
+  "name": "AnkaCore [FIX]",
+  "description": "Your entire server in one script!",
+  "authors": [
+    "Islam1705"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103907.jpg?1676393467",
+  "iconCid": "bafkreibwrgqfxocwumjdktad3iw5e6ikvthijcituh5p5jzjrjp2jzgewa",
+  "numberOfDownloads": 1069,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ankacore-fix.103907/history",
+  "releaseDate": 1659286980000,
+  "updateDate": 1676385480000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

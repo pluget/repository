@@ -1,0 +1,32 @@
+{
+  "id": 105223,
+  "url": "https://www.spigotmc.org/resources/agspawn.105223/",
+  "name": "AGSpawn",
+  "description": "A simple plugin for spawn/lobby/hub command",
+  "authors": [
+    "AG4"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105223.jpg?1662909444",
+  "iconCid": "bafkreibrvlifgy5h4ayz622vtbfx4caorabbg4junqtlt3eslg4auzwipe",
+  "numberOfDownloads": 45,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/agspawn.105223/history",
+  "releaseDate": 1662905820000,
+  "updateDate": 1662905820000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

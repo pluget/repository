@@ -1,0 +1,21 @@
+{
+  "id": 107296,
+  "url": "https://www.spigotmc.org/resources/condense.107296/",
+  "name": "Condense",
+  "description": "Condense different item in their block",
+  "authors": [
+    "RD156"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107296.jpg?1673255581",
+  "iconCid": "bafkreifp2wdrbd7gd36guecmbrlyzj5alvjjndmrfafucviqruijz6jsxi",
+  "numberOfDownloads": 17,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/condense.107296/history",
+  "gitUrl": "https://github.com/rd156/MinecraftCondensePlugin",
+  "releaseDate": 1673250180000,
+  "updateDate": 1673289900000,
+  "versions": [
+    "1.19"
+  ]
+}

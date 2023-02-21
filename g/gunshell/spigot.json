@@ -1,0 +1,24 @@
+{
+  "id": 76350,
+  "url": "https://www.spigotmc.org/resources/gunshell-mt-wapens.76350/",
+  "name": "Gunshell (MT-Wapens)",
+  "description": "With this plugin you can add guns, ammo, throwables and melee weapons to your server.",
+  "authors": [
+    "Jazzkuh"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/76/76350.jpg?1659530563",
+  "iconCid": "bafkreigc6xvoopwq6sjep3vc2sc4vnxyxn3bonerspsyxfnv3rvdqfbcvq",
+  "numberOfDownloads": 11468,
+  "rating": 4.9,
+  "numberOfVotes": 24,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gunshell-mt-wapens.76350/history",
+  "gitUrl": "https://github.com/GunshellMC/Gunshell",
+  "releaseDate": 1584880680000,
+  "updateDate": 1674237420000,
+  "versions": [
+    "1.12",
+    "1.16",
+    "1.18",
+    "1.19"
+  ]
+}

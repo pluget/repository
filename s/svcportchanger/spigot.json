@@ -1,0 +1,25 @@
+{
+  "id": 105015,
+  "url": "https://www.spigotmc.org/resources/svcportchanger.105015/",
+  "name": "SVCPortChanger",
+  "description": "Reconfigures SimpleVoiceChat's Port to the serverport",
+  "authors": [
+    "PloudOS"
+  ],
+  "numberOfDownloads": 98,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/svcportchanger.105015/history",
+  "gitUrl": "https://github.com/icrayix/svcportchanger",
+  "releaseDate": 1662136500000,
+  "updateDate": 1662140520000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

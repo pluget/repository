@@ -1,0 +1,32 @@
+{
+  "id": 103213,
+  "url": "https://www.spigotmc.org/resources/newsystem-with-mysql-support.103213/",
+  "name": "NewSystem [with MySQL Support]",
+  "description": "A nearly completely editable Server System with many Features for all versions!",
+  "authors": [
+    "NewDavis"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103213.jpg?1658344817",
+  "iconCid": "bafkreidv2hu3n4zmsudjxz7epeikfqhpup5sydlrf224jdmxhmqwjpsc7e",
+  "numberOfDownloads": 383,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/newsystem-with-mysql-support.103213/history",
+  "releaseDate": 1657318920000,
+  "updateDate": 1669045440000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

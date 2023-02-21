@@ -1,0 +1,32 @@
+{
+  "id": 44344,
+  "url": "https://www.spigotmc.org/resources/timemanager.44344/",
+  "name": "TimeManager",
+  "description": "Increase or decrease speed, sync worlds, set and display actual time and date ...",
+  "authors": [
+    "ArVdC"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/44/44344.jpg?1500811919",
+  "iconCid": "bafkreifxq2xd75sbr4kda3wyiqlobzcik2mjhzg3x5nio6l4e7vx7balce",
+  "numberOfDownloads": 4543,
+  "rating": 4.6,
+  "numberOfVotes": 13,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/timemanager.44344/history",
+  "gitUrl": "https://github.com/ArVdC/TimeManager",
+  "releaseDate": 1500757500000,
+  "updateDate": 1675079280000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

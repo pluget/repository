@@ -1,0 +1,24 @@
+{
+  "id": 92375,
+  "url": "https://www.spigotmc.org/resources/simpleannounce-1-16-1-19.92375/",
+  "name": "SimpleAnnounce | 1.16 - 1.19",
+  "description": "A automatic announcer plugin for Proxies and Backend servers",
+  "authors": [
+    "Refrac"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92375.jpg?1621023066",
+  "iconCid": "bafkreig5xjixml24qs4hdgjg26ulhjebpnxv2pcb6qllby4ppq7to4ouwq",
+  "numberOfDownloads": 1016,
+  "rating": 4,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simpleannounce-1-16-1-19.92375/history",
+  "gitUrl": "https://github.com/RefracDevelopment/SimpleAnnounce",
+  "releaseDate": 1621019400000,
+  "updateDate": 1667845920000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 107054,
+  "url": "https://www.spigotmc.org/resources/daily-command-skript.107054/",
+  "name": "/Daily command SKRIPT",
+  "description": "This allows your members in your server to have access to ./daily command",
+  "authors": [
+    "ghsrhnsrhw"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107054.jpg?1672413873",
+  "iconCid": "bafkreidmnylyplxznqqjgt2smpmrsld2ieq4rrwrlc74a6jicxumpbcsee",
+  "numberOfDownloads": 120,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/daily-command-skript.107054/history",
+  "releaseDate": 1672405380000,
+  "updateDate": 1672431180000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

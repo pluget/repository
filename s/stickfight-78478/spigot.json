@@ -1,0 +1,26 @@
+{
+  "id": 78478,
+  "url": "https://www.spigotmc.org/resources/stickfight-oneline.78478/",
+  "name": "StickFight | OneLine",
+  "description": "Spigot 1.15.2 open source stickfight plugin.",
+  "authors": [
+    "KlSchlitzohr"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/78/78478.jpg?1588863863",
+  "iconCid": "bafkreiaw46fhnkl6vmil5q2rq7fapcmysmm3w4eapfznjpsojg2iqhrjfa",
+  "numberOfDownloads": 658,
+  "rating": 4.3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/stickfight-oneline.78478/history",
+  "gitUrl": "https://github.com/KlSchlitzohr/open-source-stick-fight",
+  "releaseDate": 1588857060000,
+  "updateDate": 1668612600000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

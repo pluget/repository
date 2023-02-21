@@ -1,0 +1,22 @@
+{
+  "id": 103646,
+  "url": "https://www.spigotmc.org/resources/uncomplicated-whitelist.103646/",
+  "name": "Uncomplicated Whitelist",
+  "description": "Minecraft whitelist plugin that uses player names for identification instead of UUIDs.",
+  "authors": [
+    "alt-qi"
+  ],
+  "numberOfDownloads": 60,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/uncomplicated-whitelist.103646/history",
+  "gitUrl": "https://github.com/alt-qi/UncomplicatedWhitelist",
+  "releaseDate": 1658655480000,
+  "updateDate": 1658655480000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

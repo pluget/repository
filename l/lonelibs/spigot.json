@@ -1,0 +1,31 @@
+{
+  "id": 75974,
+  "url": "https://www.spigotmc.org/resources/lonelibs.75974/",
+  "name": "LoneLibs",
+  "description": "Libs used by my plugins",
+  "authors": [
+    "LoneDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75974.jpg?1665755003",
+  "iconCid": "bafkreiehoo6vhzzuz6f6jagh3q4rvlsoiucu7e3a7nt3yg2lgdakleli2q",
+  "numberOfDownloads": 37597,
+  "rating": 4.2,
+  "numberOfVotes": 16,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lonelibs.75974/history",
+  "releaseDate": 1583976600000,
+  "updateDate": 1673344140000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

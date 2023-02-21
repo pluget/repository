@@ -1,0 +1,21 @@
+{
+  "id": 102910,
+  "url": "https://www.spigotmc.org/resources/advancedserverlist.102910/",
+  "name": "AdvancedServerList",
+  "description": "Plugin for Spigot, PaperMC, BungeeCord and Velocity to create custom Server list designs",
+  "authors": [
+    "Andre_601"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102910.jpg?1656197561",
+  "iconCid": "bafkreiadu3vriqgwxuevxlxettvcjgsgjsscko4w6kjkpwyexy2d67n6zu",
+  "numberOfDownloads": 862,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advancedserverlist.102910/history",
+  "gitUrl": "https://github.com/Andre601/AdvancedServerList",
+  "releaseDate": 1656193920000,
+  "updateDate": 1674501540000,
+  "versions": [
+    "1.19"
+  ]
+}

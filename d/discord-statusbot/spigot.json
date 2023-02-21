@@ -1,0 +1,23 @@
+{
+  "id": 91444,
+  "url": "https://www.spigotmc.org/resources/discord-statusbot.91444/",
+  "name": "Discord statusbot",
+  "description": "A discord bot, that shows the status of your server! Spigot, Bungee & Fabric!",
+  "authors": [
+    "Mopsy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91444.jpg?1620818514",
+  "iconCid": "bafkreigav4nfdvczhs63763ut2fl3esujchzhzlrlyujwb7ffdhx7w4qxu",
+  "numberOfDownloads": 1741,
+  "rating": 4.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discord-statusbot.91444/history",
+  "releaseDate": 1618740180000,
+  "updateDate": 1660135680000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

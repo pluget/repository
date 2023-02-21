@@ -1,0 +1,32 @@
+{
+  "id": 107304,
+  "url": "https://www.spigotmc.org/resources/safetyleashes.107304/",
+  "name": "SafetyLeashes",
+  "description": "Prevent entities from taking damage while being leashed.",
+  "authors": [
+    "Ranull"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107304.jpg?1673283588",
+  "iconCid": "bafkreihspintozdvph3ib62noklofc425czwdk4gf4q4knepgfommv526a",
+  "numberOfDownloads": 76,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/safetyleashes.107304/history",
+  "gitUrl": "https://gitlab.com/ranull/minecraft/safetyleashes",
+  "releaseDate": 1673279940000,
+  "updateDate": 1673279940000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

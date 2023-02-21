@@ -1,0 +1,27 @@
+{
+  "id": 106759,
+  "url": "https://www.spigotmc.org/resources/simpleelevator-1-13.106759/",
+  "name": "SimpleElevator (1.13 +)",
+  "description": "Elevators by using sneak and jump on certain blocks.",
+  "authors": [
+    "Koboo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106759.jpg?1671184370",
+  "iconCid": "bafkreiddlzcy5d6oas2ufyza4syvpihyqpjcpu6bwfi5lcgf2u5vjl3mha",
+  "numberOfDownloads": 57,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simpleelevator-1-13.106759/history",
+  "gitUrl": "https://github.com/Koboo/simple-elevators",
+  "releaseDate": 1671180720000,
+  "updateDate": 1671180720000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

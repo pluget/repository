@@ -1,0 +1,24 @@
+{
+  "id": 107055,
+  "url": "https://www.spigotmc.org/resources/recursivertp.107055/",
+  "name": "RecursiveRTP",
+  "description": "Random Teleportation plugin with one simple command and config file. With recursive teleporation",
+  "authors": [
+    "SuperMax_8"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107055.jpg?1672412760",
+  "iconCid": "bafkreidenwhixe3o5zagv2hlpoiewdnq5ydcy7zzonpqmfmfioj2d2id4y",
+  "numberOfDownloads": 44,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/recursivertp.107055/history",
+  "gitUrl": "https://github.com/SuperMax8/RecursiveRTP",
+  "releaseDate": 1676671500000,
+  "updateDate": 1676671500000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 80373,
+  "url": "https://www.spigotmc.org/resources/gworld.80373/",
+  "name": "GWorld",
+  "description": "GWorld offers a comprehensive system to manage your worlds.",
+  "authors": [
+    "Gilljan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80373.jpg?1592513827",
+  "iconCid": "bafkreiegptiwq7py3jkm66vrndf5raycfjqfqtsx2s7trw2zyylonkhqnm",
+  "numberOfDownloads": 866,
+  "rating": 5,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gworld.80373/history",
+  "gitUrl": "https://github.com/Gilljan/GWorld",
+  "releaseDate": 1592510160000,
+  "updateDate": 1672183500000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

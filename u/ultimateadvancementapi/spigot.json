@@ -1,0 +1,25 @@
+{
+  "id": 95585,
+  "url": "https://www.spigotmc.org/resources/ultimateadvancementapi-1-15-1-19-3.95585/",
+  "name": "UltimateAdvancementAPI [1.15-1.19.3]",
+  "description": "A powerful API to create custom advancements for your minecraft server.",
+  "authors": [
+    "fren_gor"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95585.jpg?1629677723",
+  "iconCid": "bafkreicmhj3oh4oe27zdp3fqlws55vjxxrc6yi5ljin4oeydnrzq65m6vu",
+  "numberOfDownloads": 1316,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ultimateadvancementapi-1-15-1-19-3.95585/history",
+  "gitUrl": "https://github.com/frengor/UltimateAdvancementAPI",
+  "releaseDate": 1629674100000,
+  "updateDate": 1672072440000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

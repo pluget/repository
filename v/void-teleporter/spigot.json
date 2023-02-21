@@ -1,0 +1,26 @@
+{
+  "id": 105243,
+  "url": "https://www.spigotmc.org/resources/void-teleporter.105243/",
+  "name": "Void Teleporter",
+  "description": "A simple plugin to teleport the player when falling into the void",
+  "authors": [
+    "Ivainge"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105243.jpg?1662988282",
+  "iconCid": "bafkreiaqjxe7w7mzkw6ckqqn5zbegfe42udwaylmrekmpc6w42ojzq7fpa",
+  "numberOfDownloads": 504,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/void-teleporter.105243/history",
+  "releaseDate": 1662984660000,
+  "updateDate": 1662996660000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

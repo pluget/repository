@@ -1,0 +1,32 @@
+{
+  "id": 55261,
+  "url": "https://www.spigotmc.org/resources/throwtnt.55261/",
+  "name": "ThrowTNT",
+  "description": "Simple ThrowTNT",
+  "authors": [
+    "BGHDDevelopment"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/55/55261.jpg?1522713569",
+  "iconCid": "bafkreiff3tjlqm7gynndwgilkytt4ghqox7q2juudy3c6baszbxq53s66e",
+  "numberOfDownloads": 286,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/throwtnt.55261/history",
+  "gitUrl": "https://github.com/BGHDDevelopment/ThrowTNT",
+  "releaseDate": 1522709700000,
+  "updateDate": 1672331520000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

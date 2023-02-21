@@ -1,0 +1,22 @@
+{
+  "id": 93051,
+  "url": "https://www.spigotmc.org/resources/spectator.93051/",
+  "name": "Spectator",
+  "description": "A simple spectate plugin to spectate other players",
+  "authors": [
+    "CuzIm1Tigaaa"
+  ],
+  "numberOfDownloads": 775,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/spectator.93051/history",
+  "gitUrl": "https://github.com/CuzIm1Tigaaa/Spectator",
+  "releaseDate": 1622905320000,
+  "updateDate": 1672769880000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

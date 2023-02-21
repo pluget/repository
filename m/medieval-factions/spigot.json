@@ -1,0 +1,23 @@
+{
+  "id": 79941,
+  "url": "https://www.spigotmc.org/resources/medieval-factions.79941/",
+  "name": "Medieval Factions",
+  "description": "Allows players to organize themselves into feudal, diplomatic, lawful groups akin to nations.",
+  "authors": [
+    "DanTheTechMan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79941.jpg?1611553490",
+  "iconCid": "bafkreidayecomvmvnd2coq4zvacuqukfhc3rmsaqd2sirwoin7juwrqgbe",
+  "numberOfDownloads": 38314,
+  "rating": 4.9,
+  "numberOfVotes": 34,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/medieval-factions.79941/history",
+  "gitUrl": "https://github.com/Dans-Plugins/Medieval-Factions",
+  "releaseDate": 1676483220000,
+  "updateDate": 1676483220000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

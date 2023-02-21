@@ -1,0 +1,23 @@
+{
+  "id": 100044,
+  "url": "https://www.spigotmc.org/resources/smile-core.100044/",
+  "name": "Smile Core",
+  "description": "Core library for my public plugins",
+  "authors": [
+    "7smile7"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100044.jpg?1644996078",
+  "iconCid": "bafkreihih7l5oz3cflnrftd655saxlelyorvkr6faagwgrpkfbfr4unozm",
+  "numberOfDownloads": 5994,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/smile-core.100044/history",
+  "releaseDate": 1676886120000,
+  "updateDate": 1676886120000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 106327,
+  "url": "https://www.spigotmc.org/resources/pvpcontroller.106327/",
+  "name": "PvPController",
+  "description": "A simple plugin that allows you to control PvP between players.",
+  "authors": [
+    "mqchinee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106327.jpg?1668860211",
+  "iconCid": "bafkreigdgl3gj2f5j5fggavrfu32n72tpajupvf7xldk6j22wurhbih3xa",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pvpcontroller.106327/history",
+  "releaseDate": 1668856500000,
+  "updateDate": 1668856500000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 101509,
+  "url": "https://www.spigotmc.org/resources/hcore-multi-functional-developer-tool-client-side-npc-hologram-and-more-1-8-1-19-x.101509/",
+  "name": "hCore [multi-functional developer tool] [Client-side NPC, Hologram and more] (1.8 - 1.19.x)",
+  "description": "hCore is multi-functional developer tool for spigot developers.",
+  "authors": [
+    "hakankargin"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101509.jpg?1650439971",
+  "iconCid": "bafkreielnob2da5w5miwpyzwcotgd3u3wdw5tqy6vuipn2y7ypbkjnrndi",
+  "numberOfDownloads": 1369,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hcore-multi-functional-developer-tool-client-side-npc-hologram-and-more-1-8-1-19-x.101509/history",
+  "gitUrl": "https://github.com/hakan-krgn/hCore",
+  "releaseDate": 1650435540000,
+  "updateDate": 1662462660000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 35220,
+  "url": "https://www.spigotmc.org/resources/simple-chat-channels.35220/",
+  "name": "Simple Chat Channels",
+  "description": "A chat plugin, with Channels (entry per symbol), Spigot and Bungee useable!",
+  "authors": [
+    "Avankziar"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/35/35220.jpg?1516463228",
+  "iconCid": "bafkreidt577ws2vbdeb7b52ssnugfqne3m4skifxuih3yz7wvqvpa46htq",
+  "numberOfDownloads": 2718,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-chat-channels.35220/history",
+  "gitUrl": "https://github.com/Avankziar/SimpleChatChannel",
+  "releaseDate": 1676730960000,
+  "updateDate": 1676730960000,
+  "versions": [
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 45439,
+  "url": "https://www.spigotmc.org/resources/forcepack.45439/",
+  "name": "ForcePack",
+  "description": "Force players to use your server resource pack, with Velocity support.",
+  "authors": [
+    "SamB440"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/45/45439.jpg?1502390200",
+  "iconCid": "bafkreih7b5db4vxnwqwfzgaqx36yoi4iaohbzqdx32y3llyoh7iobqn3vu",
+  "numberOfDownloads": 12569,
+  "rating": 4.8,
+  "numberOfVotes": 29,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/forcepack.45439/history",
+  "gitUrl": "https://github.com/SamB440/ForcePack",
+  "releaseDate": 1502386560000,
+  "updateDate": 1671397320000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 105103,
+  "url": "https://www.spigotmc.org/resources/droppeditemsname.105103/",
+  "name": "DroppedItemsName",
+  "description": "Shows name and count of dropped items when you looking at them",
+  "authors": [
+    "Nelonn"
+  ],
+  "numberOfDownloads": 116,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/droppeditemsname.105103/history",
+  "gitUrl": "https://github.com/Nelonn/DropppedItemsName",
+  "releaseDate": 1662408660000,
+  "updateDate": 1667506680000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

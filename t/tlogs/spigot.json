@@ -1,0 +1,32 @@
+{
+  "id": 106211,
+  "url": "https://www.spigotmc.org/resources/tlogs.106211/",
+  "name": "TLogs",
+  "description": "Ingame / File Log-Plugin",
+  "authors": [
+    "Tiiita"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106211.jpg?1668263340",
+  "iconCid": "bafkreidxqpsl36ybersfwf55iywoubvsr5a3lfuhlnsrioojlfvw2gmk5m",
+  "numberOfDownloads": 71,
+  "rating": 1,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tlogs.106211/history",
+  "gitUrl": "https://github.com/Tiiita/TLogs",
+  "releaseDate": 1668191880000,
+  "updateDate": 1670439060000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

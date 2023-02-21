@@ -1,0 +1,33 @@
+{
+  "id": 105923,
+  "url": "https://www.spigotmc.org/resources/zentity-limiter.105923/",
+  "name": "ZEntity Limiter",
+  "description": "Limit entities & prevent entity cramming on mob farms",
+  "authors": [
+    "ZNetwork"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105923.jpg?1666944969",
+  "iconCid": "bafkreifvmi2dzlbpodam2nqlyaobavwiw3wf6utm5rrbrmrfkkjwmz5n4m",
+  "numberOfDownloads": 132,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/zentity-limiter.105923/history",
+  "gitUrl": "https://github.com/gonalez/zentity-limiter",
+  "releaseDate": 1666722000000,
+  "updateDate": 1666765500000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

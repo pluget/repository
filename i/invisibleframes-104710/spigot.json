@@ -1,0 +1,22 @@
+{
+  "id": 104710,
+  "url": "https://www.spigotmc.org/resources/invisibleframes.104710/",
+  "name": "InvisibleFrames",
+  "description": "This plugin allows to use shears for making invisible frames.",
+  "authors": [
+    "D_C"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104710.jpg?1661062837",
+  "iconCid": "bafkreibiyiaspyc3lmainyxpn53jrvzgo3fwuf532zbsedfm2tnukxmpza",
+  "numberOfDownloads": 214,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/invisibleframes.104710/history",
+  "gitUrl": "https://github.com/Mrflaxe/InvisibleFrames",
+  "releaseDate": 1661059200000,
+  "updateDate": 1661767080000,
+  "versions": [
+    "1.16",
+    "1.17"
+  ]
+}

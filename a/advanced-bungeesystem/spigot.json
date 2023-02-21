@@ -1,0 +1,32 @@
+{
+  "id": 67179,
+  "url": "https://www.spigotmc.org/resources/advanced-bungeesystem-%E2%98%85-ban-mute-report-warn-kick-%E2%98%85-1-8-1-19.67179/",
+  "name": "Advanced BungeeSystem ★ Ban, Mute, Report, Warn, Kick, ... ★ 1.8 - 1.19",
+  "description": "Manage deinen Server wie du es möchtest!",
+  "authors": [
+    "B33fb0n3"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/67/67179.jpg?1562795392",
+  "iconCid": "bafkreibuuroicujwff27cauzqmyahscgmiwgp2wraptu6r7tigiyfwxd7i",
+  "numberOfDownloads": 2647,
+  "rating": 4,
+  "numberOfVotes": 27,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advanced-bungeesystem-%E2%98%85-ban-mute-report-warn-kick-%E2%98%85-1-8-1-19.67179/history",
+  "gitUrl": "https://github.com/B33fb0n3/Bungeesystem",
+  "releaseDate": 1557259680000,
+  "updateDate": 1667729160000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 105710,
+  "url": "https://www.spigotmc.org/resources/pcustomloginmessages.105710/",
+  "name": "PCustomLoginMessages",
+  "description": "A plugin that allows you to customize the login messages of your players.",
+  "authors": [
+    "Ahmet_3123"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105710.jpg?1665335458",
+  "iconCid": "bafkreih72llkiox675nodtlw4lixpebmok3nwf5kc52ue426stkgtcfrva",
+  "numberOfDownloads": 46,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pcustomloginmessages.105710/history",
+  "gitUrl": "https://github.com/Ahmetdev510/PCustomLoginMessages",
+  "releaseDate": 1665331800000,
+  "updateDate": 1665331800000,
+  "versions": [
+    "1.8",
+    "1.16",
+    "1.19"
+  ]
+}

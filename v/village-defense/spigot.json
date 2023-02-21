@@ -1,0 +1,28 @@
+{
+  "id": 41869,
+  "url": "https://www.spigotmc.org/resources/village-defense-1-8-8-1-17.41869/",
+  "name": "Village Defense [1.8.8-1.17]",
+  "description": "[MINIGAME] Big networks ready | MySQL/YAML | Placeholders | BungeeCord/Multi Arena | Many Languages",
+  "authors": [
+    "Tigerkatze"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/41/41869.jpg?1603020651",
+  "iconCid": "bafkreicf5vfjrxtebxksffdbtbdxqydyonnlpfab6xbpvb75vg4agybpvy",
+  "numberOfDownloads": 31453,
+  "rating": 4.7,
+  "numberOfVotes": 192,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/village-defense-1-8-8-1-17.41869/history",
+  "gitUrl": "https://github.com/Plugily-Projects/Village_Defense",
+  "releaseDate": 1496736360000,
+  "updateDate": 1673276220000,
+  "versions": [
+    "1.8",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

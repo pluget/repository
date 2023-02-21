@@ -1,0 +1,26 @@
+{
+  "id": 82074,
+  "url": "https://www.spigotmc.org/resources/challenge-plugin.82074/",
+  "name": "Challenge Plugin",
+  "description": "Play Minecraft with a lot of different Challenges",
+  "authors": [
+    "Spoocy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82074.jpg?1598036760",
+  "iconCid": "bafkreih6x6xal2gpfj67pt2zrvojkmsgbk2jtpyiwdnt2ab2hjjphob2si",
+  "numberOfDownloads": 9786,
+  "rating": 4.3,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/challenge-plugin.82074/history",
+  "releaseDate": 1595959320000,
+  "updateDate": 1657883820000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

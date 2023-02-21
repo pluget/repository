@@ -1,0 +1,31 @@
+{
+  "id": 106145,
+  "url": "https://www.spigotmc.org/resources/jsmoduler.106145/",
+  "name": "JsModuler",
+  "description": "Handle your server events using javascript",
+  "authors": [
+    "NoxiousNew"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106145.jpg?1667896790",
+  "iconCid": "bafkreicontwzjx5fzycaqakc5tkve4vmmls7dpjmeashrdyyi225naz2yi",
+  "numberOfDownloads": 68,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/jsmoduler.106145/history",
+  "gitUrl": "https://github.com/Niix-Dan/JsModuler",
+  "releaseDate": 1667782140000,
+  "updateDate": 1667890560000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 104083,
+  "url": "https://www.spigotmc.org/resources/realfish.104083/",
+  "name": "RealFish",
+  "description": "Make fishing more realistic",
+  "authors": [
+    "antiPerson"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104083.jpg?1659694294",
+  "iconCid": "bafkreiag55jreiqth7xhjw3fbv6wieide56mcbij3xvcbovzkzsfnrivai",
+  "numberOfDownloads": 282,
+  "rating": 4.5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/realfish.104083/history",
+  "gitUrl": "https://github.com/Nathat23/RealFish",
+  "releaseDate": 1659651600000,
+  "updateDate": 1660321980000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

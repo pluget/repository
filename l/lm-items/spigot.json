@@ -1,0 +1,22 @@
+{
+  "id": 102081,
+  "url": "https://www.spigotmc.org/resources/lm-items.102081/",
+  "name": "LM Items",
+  "description": "Adds Custom Item Support To Levelled Mobs",
+  "authors": [
+    "stumper66"
+  ],
+  "numberOfDownloads": 672,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lm-items.102081/history",
+  "gitUrl": "https://github.com/stumper66/LM_Items",
+  "releaseDate": 1652980260000,
+  "updateDate": 1667434020000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

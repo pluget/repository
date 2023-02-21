@@ -1,0 +1,32 @@
+{
+  "id": 103183,
+  "url": "https://www.spigotmc.org/resources/neoperformance.103183/",
+  "name": "NeoPerformance",
+  "description": "The ultimate tool to take control of your server's performance",
+  "authors": [
+    "KyTDK"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103183.jpg?1657247790",
+  "iconCid": "bafkreid6zs2raarrx7jdt4lq5ns4tomvhhz546as3wblvxt3qthwwq65jq",
+  "numberOfDownloads": 3652,
+  "rating": 5,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/neoperformance.103183/history",
+  "gitUrl": "https://github.com/KyTDK/NeoPerformance",
+  "releaseDate": 1657180920000,
+  "updateDate": 1672199820000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

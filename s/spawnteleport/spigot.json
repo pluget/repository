@@ -1,0 +1,19 @@
+{
+  "id": 105726,
+  "url": "https://www.spigotmc.org/resources/spawnteleport.105726/",
+  "name": "SpawnTeleport",
+  "description": "Teleports a player to the spawn when he joins the server.",
+  "authors": [
+    "kalle2000"
+  ],
+  "numberOfDownloads": 42,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/spawnteleport.105726/history",
+  "gitUrl": "https://github.com/kfc-manager/SpawnTeleport.git",
+  "releaseDate": 1665452880000,
+  "updateDate": 1665452880000,
+  "versions": [
+    "1.19"
+  ]
+}

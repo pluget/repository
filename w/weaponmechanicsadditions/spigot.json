@@ -1,0 +1,26 @@
+{
+  "id": 106320,
+  "url": "https://www.spigotmc.org/resources/weaponmechanicsadditions.106320/",
+  "name": "WeaponMechanicsAdditions",
+  "description": "Adds various features to WeaponMechanics",
+  "authors": [
+    "darktube"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106320.jpg?1668817553",
+  "iconCid": "bafkreig5elo32zopqtdgp2mktl44qmpp2wt6iu524e73yrhpwmeutitkem",
+  "numberOfDownloads": 153,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/weaponmechanicsadditions.106320/history",
+  "releaseDate": 1668813900000,
+  "updateDate": 1671193380000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

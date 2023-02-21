@@ -1,0 +1,24 @@
+{
+  "id": 106387,
+  "url": "https://www.spigotmc.org/resources/decaliumtweaks.106387/",
+  "name": "DecaliumTweaks",
+  "description": "New game tweaks for your players",
+  "authors": [
+    "WafuMoon"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106387.jpg?1669140380",
+  "iconCid": "bafkreieroiw3a75izoohcnw77gcurcljiclcbwyn4xfqipip2v5x32ji2m",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/decaliumtweaks.106387/history",
+  "gitUrl": "https://github.com/JohnKillswitch/DecaliumTweaks",
+  "releaseDate": 1669136760000,
+  "updateDate": 1669244340000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

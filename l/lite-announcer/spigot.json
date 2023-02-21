@@ -1,0 +1,33 @@
+{
+  "id": 84664,
+  "url": "https://www.spigotmc.org/resources/lite-announcer-bungee-spigot-broadcast-title-actionbar-json-message.84664/",
+  "name": "Lite Announcer [Bungee & Spigot] | Broadcast | Title & Actionbar | JSON Message",
+  "description": "Set up your server broadcast! JSON message and PlaceholderAPI support!",
+  "authors": [
+    "TRCStudioDean"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84664.jpg?1602405326",
+  "iconCid": "bafkreibpxms3bo6wtrwtcscb5jv6ndnuizlnfe36y5fvrv7cpmg5wns734",
+  "numberOfDownloads": 3962,
+  "rating": 4.2,
+  "numberOfVotes": 13,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lite-announcer-bungee-spigot-broadcast-title-actionbar-json-message.84664/history",
+  "gitUrl": "https://github.com/TRCStudioDean/LiteAnnouncer",
+  "releaseDate": 1602401700000,
+  "updateDate": 1657553400000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 12661,
+  "url": "https://www.spigotmc.org/resources/itemjoin.12661/",
+  "name": "ItemJoin",
+  "description": "Get custom items on join.",
+  "authors": [
+    "RockinChaos"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/12/12661.jpg?1562631050",
+  "iconCid": "bafkreiaitcmwlevfgxgawy2hgl342dsqfekd3yy73owpcgwpg2s5whrm2y",
+  "numberOfDownloads": 95305,
+  "rating": 4.8,
+  "numberOfVotes": 207,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/itemjoin.12661/history",
+  "releaseDate": 1443315000000,
+  "updateDate": 1661682600000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

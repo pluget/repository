@@ -1,0 +1,27 @@
+{
+  "id": 75623,
+  "url": "https://www.spigotmc.org/resources/simplecaptcha-%C2%BB-a-simple-capatcha.75623/",
+  "name": "SimpleCaptcha » A simple capatcha",
+  "description": "A simple capatcha to verfiy players as humans",
+  "authors": [
+    "Alex_X1"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75623.jpg?1582993490",
+  "iconCid": "bafkreihuuaeka27plekftpsbccmhwlfqz7t2vqoytfhifhx5qtuuvrlgjy",
+  "numberOfDownloads": 138,
+  "rating": 3.2,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplecaptcha-%C2%BB-a-simple-capatcha.75623/history",
+  "releaseDate": 1582989840000,
+  "updateDate": 1658162220000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15"
+  ]
+}

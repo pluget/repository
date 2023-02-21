@@ -1,0 +1,23 @@
+{
+  "id": 104608,
+  "url": "https://www.spigotmc.org/resources/visualannouncer.104608/",
+  "name": "VisualAnnouncer",
+  "description": "Send text through titles, action bars, or boss bars!",
+  "authors": [
+    "Obviouslee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104608.jpg?1660691739",
+  "iconCid": "bafkreidtrpnpf2lhqzw7g3kvdw4vezv3dj4yhsnrmnscaydgciyxqosuwy",
+  "numberOfDownloads": 131,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/visualannouncer.104608/history",
+  "releaseDate": 1660688100000,
+  "updateDate": 1662212700000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

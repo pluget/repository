@@ -1,0 +1,28 @@
+{
+  "id": 89649,
+  "url": "https://www.spigotmc.org/resources/web-stats.89649/",
+  "name": "Web Stats",
+  "description": "Display the scoreboard, PlaceholderAPI and other plugin statistics on the web",
+  "authors": [
+    "RedPolygon"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89649.jpg?1629217350",
+  "iconCid": "bafkreif55ggmseinhvnhs6ntpvtfrurjsg33rx34gklsj3gxrk7yllazku",
+  "numberOfDownloads": 1047,
+  "rating": 4.8,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/web-stats.89649/history",
+  "gitUrl": "https://github.com/Dantevg/WebStats",
+  "releaseDate": 1614615060000,
+  "updateDate": 1664732520000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

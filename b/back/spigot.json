@@ -1,0 +1,31 @@
+{
+  "id": 94702,
+  "url": "https://www.spigotmc.org/resources/back.94702/",
+  "name": "Back",
+  "description": "Teleport to your last location after your death",
+  "authors": [
+    "GFelberg"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94702.jpg?1627344344",
+  "iconCid": "bafkreigntq6yqv6ophp7ic2dwz37b7zz5tjf7s25trihvj6bkwdgsrqnm4",
+  "numberOfDownloads": 44672,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/back.94702/history",
+  "releaseDate": 1627340700000,
+  "updateDate": 1661514060000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 98388,
+  "url": "https://www.spigotmc.org/resources/crafting-recipe-disabler-gui-based.98388/",
+  "name": "Crafting Recipe Disabler - GUI Based",
+  "description": "An GUI based system to disable certain crafting recipes on your server",
+  "authors": [
+    "opd02"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98388.jpg?1639511170",
+  "iconCid": "bafkreie5etowor77xwy66f5yfklza7neh2533ccpeiftogjhja7t4jgoyi",
+  "numberOfDownloads": 182,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/crafting-recipe-disabler-gui-based.98388/history",
+  "gitUrl": "https://github.com/opd02/CraftingDisabler",
+  "releaseDate": 1639507500000,
+  "updateDate": 1667356740000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

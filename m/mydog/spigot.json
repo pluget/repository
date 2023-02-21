@@ -1,0 +1,27 @@
+{
+  "id": 70260,
+  "url": "https://www.spigotmc.org/resources/mydog.70260/",
+  "name": "MyDog",
+  "description": "Tamed wolves but at least 10x better",
+  "authors": [
+    "fido2603"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/70/70260.jpg?1565609940",
+  "iconCid": "bafkreifkkpkzx2agdcfkzy6rahroblsr3p4n25tpww3pt4sjdst7plefb4",
+  "numberOfDownloads": 10321,
+  "rating": 4.8,
+  "numberOfVotes": 23,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mydog.70260/history",
+  "gitUrl": "https://github.com/HeroGamers/MyDog",
+  "releaseDate": 1565490540000,
+  "updateDate": 1672957140000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

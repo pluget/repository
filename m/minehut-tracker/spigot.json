@@ -1,0 +1,23 @@
+{
+  "id": 107409,
+  "url": "https://www.spigotmc.org/resources/minehut-tracker.107409/",
+  "name": "Minehut Tracker",
+  "description": "What Minehut Server do you wanna know about?",
+  "authors": [
+    "GalaxyDevel0per"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107409.jpg?1673873970",
+  "iconCid": "bafkreia26jofvfikblz6lvz5v26x6znslg2466pqg52vtvwh345soeojue",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minehut-tracker.107409/history",
+  "gitUrl": "https://github.com/meme20200/minehut-tracker",
+  "releaseDate": 1673870340000,
+  "updateDate": 1673870340000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

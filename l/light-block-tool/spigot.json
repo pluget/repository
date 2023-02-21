@@ -1,0 +1,25 @@
+{
+  "id": 105719,
+  "url": "https://www.spigotmc.org/resources/ei-prem-addon-light-block-tool.105719/",
+  "name": "[EI Prem Addon] Light Block Tool",
+  "description": "with this tool you can edit light block brightness and break them in survival mode.",
+  "authors": [
+    "Blzd"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105719.jpg?1665391224",
+  "iconCid": "bafkreicblz7jheodkbd5n2uk6krpvlzxng63n5ylrk64emlcshhqxzlr2y",
+  "numberOfDownloads": 34,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ei-prem-addon-light-block-tool.105719/history",
+  "releaseDate": 1665386940000,
+  "updateDate": 1665386940000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

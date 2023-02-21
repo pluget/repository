@@ -1,0 +1,27 @@
+{
+  "id": 97357,
+  "url": "https://www.spigotmc.org/resources/1-13-x-1-19-x-%E2%9A%A1rtu-commandcontrol%E2%9A%A1-controling-available-command-tabcomletion.97357/",
+  "name": "[ 1.13.X - 1.19.X ] ⚡RTU - CommandControl⚡ Controling Available Command, TabComletion",
+  "description": "Controling Available Command, TabComletion",
+  "authors": [
+    "IPECTER"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97357.jpg?1635935537",
+  "iconCid": "bafkreibhaktrt4xtrvuqhjkq2s4pnjm4s2kywyeaycybf62tabmkposh6a",
+  "numberOfDownloads": 122,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/1-13-x-1-19-x-%E2%9A%A1rtu-commandcontrol%E2%9A%A1-controling-available-command-tabcomletion.97357/history",
+  "gitUrl": "https://github.com/IPECTER/RTUCommandControl",
+  "releaseDate": 1635931920000,
+  "updateDate": 1658728800000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

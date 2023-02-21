@@ -1,0 +1,24 @@
+{
+  "id": 49930,
+  "url": "https://www.spigotmc.org/resources/trails-proper-roads-on-your-server.49930/",
+  "name": "Trails | Proper roads on your server",
+  "description": "Create trails on commonly traveled routes! Towny, WorldGuard, Lands Support!",
+  "authors": [
+    "grocerys"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/49/49930.jpg?1511511983",
+  "iconCid": "bafkreiexxcr4do2otp4jmpbaulz24yqmhmfv3cg2t4yqvmfytlfhusaxpu",
+  "numberOfDownloads": 1097,
+  "rating": 4.6,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/trails-proper-roads-on-your-server.49930/history",
+  "gitUrl": "https://github.com/MinevoltRPG/Trails",
+  "releaseDate": 1511507820000,
+  "updateDate": 1674908760000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

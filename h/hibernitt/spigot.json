@@ -1,0 +1,21 @@
+{
+  "id": 106789,
+  "url": "https://www.spigotmc.org/resources/hibernitt.106789/",
+  "name": "Hibernitt",
+  "description": "Hibernate your minecraft server when no-one is online.",
+  "authors": [
+    "clash_fruit"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106789.jpg?1671307429",
+  "iconCid": "bafkreic6k2mejjjfvp4jhtzegsyqt7zptavcsenq3fp2aahep5j6uovxs4",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hibernitt.106789/history",
+  "gitUrl": "https://github.com/TheClashFruit/Hibernitt",
+  "releaseDate": 1671303780000,
+  "updateDate": 1671303780000,
+  "versions": [
+    "1.19"
+  ]
+}

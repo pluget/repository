@@ -1,0 +1,27 @@
+{
+  "id": 107112,
+  "url": "https://www.spigotmc.org/resources/simple-chat-clear.107112/",
+  "name": "Simple Chat Clear",
+  "description": "Ein einfaches Chat clear Skript",
+  "authors": [
+    "ScalingCraft.de"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107112.jpg?1672611926",
+  "iconCid": "bafkreif6kezibhg4mfjcrrffu5fo7ojmdsylyvjlvvolr445hcuoy2u23e",
+  "numberOfDownloads": 36,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-chat-clear.107112/history",
+  "releaseDate": 1672608300000,
+  "updateDate": 1672611660000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

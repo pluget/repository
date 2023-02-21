@@ -1,0 +1,22 @@
+{
+  "id": 66136,
+  "url": "https://www.spigotmc.org/resources/system-dev-version.66136/",
+  "name": "System - DEV-VERSION",
+  "description": "This is the dev-version of \"System\"",
+  "authors": [
+    "YPGames"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/66/66136.jpg?1554149517",
+  "iconCid": "bafkreiep6xyzs6ttjonln2ithhqda2o6fdwmc2va7n223cq5frx7to6blm",
+  "numberOfDownloads": 319,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/system-dev-version.66136/history",
+  "gitUrl": "https://github.com/phans11/System",
+  "releaseDate": 1554145860000,
+  "updateDate": 1672146120000,
+  "versions": [
+    "1.16",
+    "1.19"
+  ]
+}

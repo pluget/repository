@@ -1,0 +1,22 @@
+{
+  "id": 108112,
+  "url": "https://www.spigotmc.org/resources/shadowreports.108112/",
+  "name": "ShadowReports",
+  "description": "Fast and user-friendly plugin that allows players to open support/report tickets.",
+  "authors": [
+    "Ruben2000"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108112.jpg?1676833845",
+  "iconCid": "bafkreicjj7h4qsismoqig5tf2vgjy2lnf4r6z5e7ddi74fuxkjihqpryl4",
+  "numberOfDownloads": 21,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/shadowreports.108112/history",
+  "releaseDate": 1676830440000,
+  "updateDate": 1676830440000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

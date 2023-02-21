@@ -1,0 +1,26 @@
+{
+  "id": 69170,
+  "url": "https://www.spigotmc.org/resources/customvillage.69170/",
+  "name": "CustomVillage",
+  "description": "detect and control custom villages",
+  "authors": [
+    "Rial"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/69/69170.jpg?1562697119",
+  "iconCid": "bafkreifbs2cuj5c53xicuxe5qord5wh5oe22fquh6sk2pulubwp6qxn2l4",
+  "numberOfDownloads": 562,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/customvillage.69170/history",
+  "gitUrl": "https://github.com/uprial/customvillage/",
+  "releaseDate": 1562693460000,
+  "updateDate": 1659645300000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

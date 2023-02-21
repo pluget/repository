@@ -1,0 +1,31 @@
+{
+  "id": 104583,
+  "url": "https://www.spigotmc.org/resources/joinevents.104583/",
+  "name": "JoinEvents",
+  "description": "Add events to join",
+  "authors": [
+    "Thedogsito"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104583.jpg?1676933821",
+  "iconCid": "bafkreidai5rodxc6pbra6bokajouqnz7i65w3zw7aqwrk6uzycgtdlfwte",
+  "numberOfDownloads": 608,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/joinevents.104583/history",
+  "releaseDate": 1676931780000,
+  "updateDate": 1676931780000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

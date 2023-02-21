@@ -1,0 +1,32 @@
+{
+  "id": 82154,
+  "url": "https://www.spigotmc.org/resources/message-editor.82154/",
+  "name": "Message Editor",
+  "description": "Edit in-game messages that were previously unmodifiable",
+  "authors": [
+    "jaq0bb"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82154.jpg?1596134216",
+  "iconCid": "bafkreib33tfida2znkhevs7dpctvqfjuq4v7hyuvqw3mkubjeaptubrzny",
+  "numberOfDownloads": 3658,
+  "rating": 5,
+  "numberOfVotes": 20,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/message-editor.82154/history",
+  "gitUrl": "https://github.com/jaqobb/message-editor",
+  "releaseDate": 1596130560000,
+  "updateDate": 1672428480000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

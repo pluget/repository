@@ -1,0 +1,33 @@
+{
+  "id": 69559,
+  "url": "https://www.spigotmc.org/resources/super-bet.69559/",
+  "name": "Super Bet",
+  "description": "A Roulette plugin where you can bet your money",
+  "authors": [
+    "PurpleFishh"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/69/69559.jpg?1563726397",
+  "iconCid": "bafkreidjitevzb324tv5ma7d25mllvsrqgyqpmt2uk4whnkdsntlkpgcaa",
+  "numberOfDownloads": 3272,
+  "rating": 4.4,
+  "numberOfVotes": 14,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/super-bet.69559/history",
+  "gitUrl": "https://github.com/PurpleFishh/SuperBet.git",
+  "releaseDate": 1563722760000,
+  "updateDate": 1665250800000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 106488,
+  "url": "https://www.spigotmc.org/resources/simplesetspawn.106488/",
+  "name": "SimpleSetSpawn",
+  "description": "A simple set spawn plugin with cool features.",
+  "authors": [
+    "MrStreeet"
+  ],
+  "numberOfDownloads": 55,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplesetspawn.106488/history",
+  "gitUrl": "https://github.com/MrStreeet/SimpleSetSpawn",
+  "releaseDate": 1669685280000,
+  "updateDate": 1670024640000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

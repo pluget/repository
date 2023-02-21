@@ -1,0 +1,24 @@
+{
+  "id": 79031,
+  "url": "https://www.spigotmc.org/resources/servertap.79031/",
+  "name": "ServerTap",
+  "description": "A JSON API for your Minecraft server",
+  "authors": [
+    "phybros"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79031.jpg?1639691970",
+  "iconCid": "bafkreiavjllvxzyse27lbze5sbfrhiip7jsmj4vgavzql27zel7auv52cy",
+  "numberOfDownloads": 266,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/servertap.79031/history",
+  "gitUrl": "https://github.com/phybros/servertap",
+  "releaseDate": 1589920020000,
+  "updateDate": 1657559760000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

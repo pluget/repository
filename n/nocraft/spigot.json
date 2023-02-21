@@ -1,0 +1,27 @@
+{
+  "id": 106111,
+  "url": "https://www.spigotmc.org/resources/nocraft.106111/",
+  "name": "NOcraft",
+  "description": "Total crafting control!",
+  "authors": [
+    "Kerm"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106111.jpg?1674154559",
+  "iconCid": "bafkreidfsugfy264twdd55hnsz37pxw3bgfljfciwc4xg3nr7tzgw7ynvq",
+  "numberOfDownloads": 89,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nocraft.106111/history",
+  "gitUrl": "https://github.com/KermX/NOcraft",
+  "releaseDate": 1667681880000,
+  "updateDate": 1674948540000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

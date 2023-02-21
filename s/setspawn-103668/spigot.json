@@ -1,0 +1,30 @@
+{
+  "id": 103668,
+  "url": "https://www.spigotmc.org/resources/setspawn.103668/",
+  "name": "SetSpawn",
+  "description": "Set your servers spawn and teleport back to it!",
+  "authors": [
+    "Panda4Ever"
+  ],
+  "numberOfDownloads": 1537,
+  "rating": 4.3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/setspawn.103668/history",
+  "gitUrl": "https://github.com/PandaUprising/SetSpawn",
+  "releaseDate": 1658703000000,
+  "updateDate": 1674092100000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

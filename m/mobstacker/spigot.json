@@ -1,0 +1,32 @@
+{
+  "id": 106631,
+  "url": "https://www.spigotmc.org/resources/mobstacker.106631/",
+  "name": "MobStacker",
+  "description": "A basic mobstacker plugin.",
+  "authors": [
+    "iChocoMC_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106631.jpg?1673290270",
+  "iconCid": "bafkreiew5irh6ik7lq4i2veeo245zv3i3iyrp53tf53u3pyh4dhkyzethy",
+  "numberOfDownloads": 494,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mobstacker.106631/history",
+  "gitUrl": "https://github.com/iChocoMC/MobStacker",
+  "releaseDate": 1670523540000,
+  "updateDate": 1675833720000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

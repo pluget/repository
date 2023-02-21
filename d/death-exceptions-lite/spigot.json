@@ -1,0 +1,31 @@
+{
+  "id": 103689,
+  "url": "https://www.spigotmc.org/resources/death-exceptions-lite.103689/",
+  "name": "Death Exceptions Lite",
+  "description": "Keep just some determined items after death.",
+  "authors": [
+    "HappierGore"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103689.jpg?1658767825",
+  "iconCid": "bafkreifaul7sa6ow5ms5k6jqb4vv5v2knotznoefqcgo6y7mw4zyokaiuy",
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/death-exceptions-lite.103689/history",
+  "releaseDate": 1658764200000,
+  "updateDate": 1658764380000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

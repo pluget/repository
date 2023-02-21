@@ -1,0 +1,30 @@
+{
+  "id": 71727,
+  "url": "https://www.spigotmc.org/resources/oneversionremake.71727/",
+  "name": "OneVersionRemake",
+  "description": "Only allow specific versions on your Server network!",
+  "authors": [
+    "Andre_601"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/71/71727.jpg?1569937196",
+  "iconCid": "bafkreif7bl7a4ujnkmsglxa2ro27eb54vtco7yqeylq3rdlg7ljzkryahe",
+  "numberOfDownloads": 2228,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/oneversionremake.71727/history",
+  "gitUrl": "https://github.com/Andre601/OneVersionRemake",
+  "releaseDate": 1569933540000,
+  "updateDate": 1659829620000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

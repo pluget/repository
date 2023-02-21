@@ -1,0 +1,29 @@
+{
+  "id": 94586,
+  "url": "https://www.spigotmc.org/resources/stacker.94586/",
+  "name": "Stacker",
+  "description": "A plugin to stack player above player!",
+  "authors": [
+    "ZoeyVid"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94586.jpg?1627058527",
+  "iconCid": "bafkreif3pktuklvawf327k2r46crms34omv5l3hovy2c4tk5bu4h56meru",
+  "numberOfDownloads": 416,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/stacker.94586/history",
+  "gitUrl": "https://github.com/ZoeyVid/Stacker",
+  "releaseDate": 1627054860000,
+  "updateDate": 1669925220000,
+  "versions": [
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

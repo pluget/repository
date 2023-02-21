@@ -1,0 +1,32 @@
+{
+  "id": 11937,
+  "url": "https://www.spigotmc.org/resources/kingdomcraft-starter.11937/",
+  "name": "KingdomCraft Starter",
+  "description": "The #1 Kingdom plugin for your starting kingdom server!",
+  "authors": [
+    "jorisguffens"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/11/11937.jpg?1607811101",
+  "iconCid": "bafkreid3iircwcsuda7r7lcdv4eskxuhcebr5d5pv5b5zwp2tks5dj6jnq",
+  "numberOfDownloads": 11617,
+  "rating": 3.7,
+  "numberOfVotes": 20,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kingdomcraft-starter.11937/history",
+  "gitUrl": "https://github.com/jorisguffens/KingdomCraft",
+  "releaseDate": 1441532580000,
+  "updateDate": 1661426340000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 105785,
+  "url": "https://www.spigotmc.org/resources/ezcommand.105785/",
+  "name": "ezCommand",
+  "description": "Customize Unknow Command message",
+  "authors": [
+    "SmoNazi"
+  ],
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ezcommand.105785/history",
+  "gitUrl": "https://github.com/Lory9098/ezCommand",
+  "releaseDate": 1665834360000,
+  "updateDate": 1665834360000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 105731,
+  "url": "https://www.spigotmc.org/resources/heal.105731/",
+  "name": "/heal",
+  "description": "Dieses Plugin ist ein / heal plugin und heilt dich oder deine Mitspieler",
+  "authors": [
+    "beedooo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105731.jpg?1665502394",
+  "iconCid": "bafkreicnauyaxphxpv4vp4cj7cuackkiqxwnerkpoe2qpn5cb743ba7mzy",
+  "numberOfDownloads": 58,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/heal.105731/history",
+  "releaseDate": 1665498780000,
+  "updateDate": 1666356420000,
+  "versions": [
+    "1.8",
+    "1.19"
+  ]
+}

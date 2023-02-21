@@ -1,0 +1,24 @@
+{
+  "id": 95772,
+  "url": "https://www.spigotmc.org/resources/q1zz-commandblocker.95772/",
+  "name": "q1zZ-CommandBlocker",
+  "description": "Simple plugin for blocking server commands with config!",
+  "authors": [
+    "Doriann2"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95772.jpg?1630112928",
+  "iconCid": "bafkreie7lorhlwzedjgck36vmjpw5mw5lewpn7b3jom3ksgmijenwr3dlm",
+  "numberOfDownloads": 223,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/q1zz-commandblocker.95772/history",
+  "gitUrl": "https://github.com/q1zZu/q1zZ-CommandBlocker",
+  "releaseDate": 1630109280000,
+  "updateDate": 1664822640000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

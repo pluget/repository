@@ -1,0 +1,32 @@
+{
+  "id": 106453,
+  "url": "https://www.spigotmc.org/resources/tabensions.106453/",
+  "name": "Tabensions",
+  "description": "Minecraft simple plugin for showing what dimension player in",
+  "authors": [
+    "toombez"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106453.jpg?1669571192",
+  "iconCid": "bafkreie6c5oosmv26v32w36cmig4bkyilsydsihsk7d7474xmmqkj3avuy",
+  "numberOfDownloads": 34,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tabensions.106453/history",
+  "gitUrl": "https://github.com/toombez/Tabensions",
+  "releaseDate": 1669505940000,
+  "updateDate": 1669505940000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

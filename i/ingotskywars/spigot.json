@@ -1,0 +1,21 @@
+{
+  "id": 107416,
+  "url": "https://www.spigotmc.org/resources/ingotskywars.107416/",
+  "name": "IngotSkywars",
+  "description": "A simple skywars plugin utilizing IngotMinigamesAPI",
+  "authors": [
+    "Budderman18"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107416.jpg?1673901943",
+  "iconCid": "bafkreiev5nznss4igjpfwr5xbgnc7kcbnqphdke5auj2vbheenkxfo7udi",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ingotskywars.107416/history",
+  "gitUrl": "https://github.com/Budderman18/IngotSkywars",
+  "releaseDate": 1676570520000,
+  "updateDate": 1676570520000,
+  "versions": [
+    "1.19"
+  ]
+}

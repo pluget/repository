@@ -1,0 +1,30 @@
+{
+  "id": 82008,
+  "url": "https://www.spigotmc.org/resources/stopwatch.82008/",
+  "name": "Stopwatch",
+  "description": "A simple stopwatch/timer which displays the time to the hotbar with customisable messages.",
+  "authors": [
+    "DDQuin"
+  ],
+  "numberOfDownloads": 2612,
+  "rating": 4.8,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/stopwatch.82008/history",
+  "gitUrl": "https://github.com/DDQuin/StopwatchPlugin",
+  "releaseDate": 1595859420000,
+  "updateDate": 1658001480000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

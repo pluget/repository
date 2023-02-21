@@ -1,0 +1,21 @@
+{
+  "id": 102550,
+  "url": "https://www.spigotmc.org/resources/sentey.102550/",
+  "name": "Sentey",
+  "description": "Protect your Spigot server against attackers and automatically report the source!",
+  "authors": [
+    "iPabszito"
+  ],
+  "numberOfDownloads": 178,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sentey.102550/history",
+  "gitUrl": "https://github.com/ComuGamersES/Sentey.git",
+  "releaseDate": 1654999020000,
+  "updateDate": 1675821660000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.12"
+  ]
+}

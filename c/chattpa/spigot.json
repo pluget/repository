@@ -1,0 +1,30 @@
+{
+  "id": 107877,
+  "url": "https://www.spigotmc.org/resources/chattpa-essentials-addon.107877/",
+  "name": "ChatTPA [Essentials addon]",
+  "description": "Essentials plugin addon that allows accepting and rejecting teleportation by clicking on chat",
+  "authors": [
+    "Vitus27"
+  ],
+  "numberOfDownloads": 56,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chattpa-essentials-addon.107877/history",
+  "gitUrl": "https://github.com/Vitus27/ChatTPA",
+  "releaseDate": 1675716780000,
+  "updateDate": 1675716780000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 88479,
+  "url": "https://www.spigotmc.org/resources/3ditems.88479/",
+  "name": "3DItems",
+  "description": "This plugin changes the appearance of items to be ‘3D’",
+  "authors": [
+    "Jack_08"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88479.jpg?1612042994",
+  "iconCid": "bafkreibj2ingt6ogmktltgqsx4odaeivyf7ie52z2vtgtmjkkkkstzgqde",
+  "numberOfDownloads": 9515,
+  "rating": 4.9,
+  "numberOfVotes": 19,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/3ditems.88479/history",
+  "releaseDate": 1612039320000,
+  "updateDate": 1671067140000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

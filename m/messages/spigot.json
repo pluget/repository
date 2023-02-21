@@ -1,0 +1,21 @@
+{
+  "id": 102227,
+  "url": "https://www.spigotmc.org/resources/script-messages.102227/",
+  "name": "[Script] Messages",
+  "description": "Script for editing first join / join / quit messages",
+  "authors": [
+    "JuraJPlayer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102227.jpg?1653500447",
+  "iconCid": "bafkreibfbzve4wyoz7d4lhov3w2abguinpret2i5qm76vzh6oqgdje5bzm",
+  "numberOfDownloads": 75,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/script-messages.102227/history",
+  "releaseDate": 1653496800000,
+  "updateDate": 1672481280000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

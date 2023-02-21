@@ -1,0 +1,23 @@
+{
+  "id": 107442,
+  "url": "https://www.spigotmc.org/resources/tc-portals.107442/",
+  "name": "TC Portals",
+  "description": "TrainCarts-Addon for cross-server teleporting of trains (BungeeCord)",
+  "authors": [
+    "J0schlZ"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107442.jpg?1674041482",
+  "iconCid": "bafkreigffgugozn7mntljmgouindktgotb4deafp6nyw2zdetrk2h5xjvi",
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tc-portals.107442/history",
+  "gitUrl": "https://github.com/CraftTogetherMC/TC-Portals",
+  "releaseDate": 1673973540000,
+  "updateDate": 1673973540000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

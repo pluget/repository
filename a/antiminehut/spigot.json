@@ -1,0 +1,23 @@
+{
+  "id": 106009,
+  "url": "https://www.spigotmc.org/resources/antiminehut-1-17-1-1-19-2.106009/",
+  "name": "AntiMinehut [1.17.1 - 1.19.2]",
+  "description": "Do you just hate that Minehut forces you to have a custom plugin for free plans?",
+  "authors": [
+    "ItziSpyder"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106009.jpg?1667197599",
+  "iconCid": "bafkreigo5nmid2olvjmoxzwho5pydyjmfxnpu3ixzxjr77m5njxmjgtu2y",
+  "numberOfDownloads": 65,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antiminehut-1-17-1-1-19-2.106009/history",
+  "gitUrl": "https://github.com/ItziSpyder/AntiMinehut",
+  "releaseDate": 1667193540000,
+  "updateDate": 1675566180000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

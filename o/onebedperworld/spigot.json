@@ -1,0 +1,24 @@
+{
+  "id": 104065,
+  "url": "https://www.spigotmc.org/resources/onebedperworld.104065/",
+  "name": "OneBedPerWorld",
+  "description": "Players can now own a bed in any world!",
+  "authors": [
+    "TimeCode"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104065.jpg?1659620720",
+  "iconCid": "bafkreigdojaigkigez7ojhjwxjbo2th7iwvsmypuscmyyut6vknglzcf3u",
+  "numberOfDownloads": 90,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/onebedperworld.104065/history",
+  "gitUrl": "https://github.com/TimeCodings/OneBedPerWorld",
+  "releaseDate": 1659617100000,
+  "updateDate": 1659806220000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

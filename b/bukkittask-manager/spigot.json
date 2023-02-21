@@ -1,0 +1,32 @@
+{
+  "id": 103532,
+  "url": "https://www.spigotmc.org/resources/bukkittask-manager.103532/",
+  "name": "BukkitTask manager",
+  "description": "A tool that might come in handy for some of you",
+  "authors": [
+    "iUseRod"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103532.jpg?1658335959",
+  "iconCid": "bafkreifcviwfzvftjhxjyqec4iyo4nkwzomx3tzdlevtv53wcnvuvdp6le",
+  "numberOfDownloads": 26,
+  "rating": 2.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bukkittask-manager.103532/history",
+  "releaseDate": 1658332320000,
+  "updateDate": 1658332320000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 44746,
+  "url": "https://www.spigotmc.org/resources/portalgun-1-8-1-19.44746/",
+  "name": "PortalGun [1.8 - 1.19]",
+  "description": "Open portals and teleport through them",
+  "authors": [
+    "rogermiranda1000"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/44/44746.jpg?1561919107",
+  "iconCid": "bafkreifg34ega64izj56qgg5nrw3qizer7w55r7kvtfs6z4jb25no3vobu",
+  "numberOfDownloads": 59261,
+  "rating": 5,
+  "numberOfVotes": 26,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/portalgun-1-8-1-19.44746/history",
+  "gitUrl": "https://github.com/rogermiranda1000/PortalGun",
+  "releaseDate": 1501362660000,
+  "updateDate": 1674848700000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

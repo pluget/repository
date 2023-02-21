@@ -1,0 +1,33 @@
+{
+  "id": 83412,
+  "url": "https://www.spigotmc.org/resources/commandnpc.83412/",
+  "name": "CommandNPC",
+  "description": "Add Commands to your Citizens 2 NPC!",
+  "authors": [
+    "Bradydawg"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83412.jpg?1598996564",
+  "iconCid": "bafkreictl6lw7lejjhcq5wpor7ha56xwz5aad3at6yxnhpwnvvb4hffxlm",
+  "numberOfDownloads": 9744,
+  "rating": 4.5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/commandnpc.83412/history",
+  "gitUrl": "https://github.com/Bradydawg/CommandNPC",
+  "releaseDate": 1598992920000,
+  "updateDate": 1670897460000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

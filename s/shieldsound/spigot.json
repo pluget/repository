@@ -1,0 +1,31 @@
+{
+  "id": 102577,
+  "url": "https://www.spigotmc.org/resources/1-9-1-19-shieldsound.102577/",
+  "name": "[1.9 - 1.19] ShieldSound",
+  "description": "Fixes the sound by breaking a shield",
+  "authors": [
+    "Vicen621"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102577.jpg?1655066190",
+  "iconCid": "bafkreif55htukprievjmzqfzz56ip2nwchkfzjey6opw76r7xjge5j7xs4",
+  "numberOfDownloads": 66,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/1-9-1-19-shieldsound.102577/history",
+  "gitUrl": "https://github.com/vicen621/ShieldSound",
+  "releaseDate": 1655062380000,
+  "updateDate": 1658881380000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

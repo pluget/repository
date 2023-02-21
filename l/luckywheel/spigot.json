@@ -1,0 +1,24 @@
+{
+  "id": 106505,
+  "url": "https://www.spigotmc.org/resources/luckywheel-1-16-1-19.106505/",
+  "name": "LuckyWheel [1.16-1.19]",
+  "description": "Spin the Wheel and get a random item!",
+  "authors": [
+    "djessy5001"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106505.jpg?1671648354",
+  "iconCid": "bafkreidpw6yfnafzwaqsg5p76tpkfnhpipv63isun3e4ruc6bp3zcjbufm",
+  "numberOfDownloads": 269,
+  "rating": 4.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/luckywheel-1-16-1-19.106505/history",
+  "gitUrl": "https://github.com/djessy5001/luckywheel",
+  "releaseDate": 1669760760000,
+  "updateDate": 1673382480000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

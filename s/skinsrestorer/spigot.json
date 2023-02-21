@@ -1,0 +1,32 @@
+{
+  "id": 2124,
+  "url": "https://www.spigotmc.org/resources/skinsrestorer.2124/",
+  "name": "SkinsRestorer",
+  "description": "Ability to restore/change skins on servers! (Offline and Online Mode)",
+  "authors": [
+    "SRTeam"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/2/2124.jpg?1613507589",
+  "iconCid": "bafkreib3h6g467opwdjk33mrosuxnibunsbyv7yncy4nnaaznjwawfinvi",
+  "numberOfDownloads": 10772849,
+  "rating": 4.4,
+  "numberOfVotes": 846,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skinsrestorer.2124/history",
+  "gitUrl": "https://github.com/SkinsRestorer/SkinsRestorerX",
+  "releaseDate": 1676465220000,
+  "updateDate": 1676465220000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

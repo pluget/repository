@@ -1,0 +1,24 @@
+{
+  "id": 105424,
+  "url": "https://www.spigotmc.org/resources/authenticator.105424/",
+  "name": "Authenticator",
+  "description": "Password manager for players' accounts.",
+  "authors": [
+    "DemoRaider"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105424.jpg?1664015289",
+  "iconCid": "bafkreibwwkhrsywvje5y23rl3zrywm5feacmhndad5no2dipmv46lokqui",
+  "numberOfDownloads": 100,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/authenticator.105424/history",
+  "gitUrl": "https://github.com/godfatherguy/Authenticator",
+  "releaseDate": 1664011680000,
+  "updateDate": 1664079540000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

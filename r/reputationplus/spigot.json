@@ -1,0 +1,22 @@
+{
+  "id": 103334,
+  "url": "https://www.spigotmc.org/resources/abandoned-reputation-1-19-gui.103334/",
+  "name": "[ABANDONED] Reputation+ | 1.19 GUI",
+  "description": "Let your players rate each other with +rep or -rep!",
+  "authors": [
+    "wouris"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103334.jpg?1657719426",
+  "iconCid": "bafkreignnmnfhmnt35jn7irltxzv4cpbjqjf6hizck6wjg6l7sktvzhn2u",
+  "numberOfDownloads": 362,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/abandoned-reputation-1-19-gui.103334/history",
+  "gitUrl": "https://github.com/wouris/reputationplus",
+  "releaseDate": 1657715760000,
+  "updateDate": 1662238380000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

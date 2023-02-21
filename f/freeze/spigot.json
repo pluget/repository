@@ -1,0 +1,30 @@
+{
+  "id": 83855,
+  "url": "https://www.spigotmc.org/resources/freeze.83855/",
+  "name": "Freeze",
+  "description": "Freeze other players",
+  "authors": [
+    "GFelberg"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83855.jpg?1600034715",
+  "iconCid": "bafkreidfinptnwpye3oahdbfhfax56h4qcbkoyqcdnfjxf3r5gmojhavge",
+  "numberOfDownloads": 360,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/freeze.83855/history",
+  "releaseDate": 1600031100000,
+  "updateDate": 1665194640000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

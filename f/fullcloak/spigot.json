@@ -1,0 +1,32 @@
+{
+  "id": 98851,
+  "url": "https://www.spigotmc.org/resources/fullcloak.98851/",
+  "name": "FullCloak",
+  "description": "Hides players from others and mobs while crouching.",
+  "authors": [
+    "DavideBlade"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98851.jpg?1641000725",
+  "iconCid": "bafkreia5eqdz5oxynpfbat4oghekin2erelqbmohqkxyzyl5g6qobriwf4",
+  "numberOfDownloads": 207,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fullcloak.98851/history",
+  "gitUrl": "https://github.com/DavideBlade/FullCloak",
+  "releaseDate": 1640997060000,
+  "updateDate": 1659906360000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

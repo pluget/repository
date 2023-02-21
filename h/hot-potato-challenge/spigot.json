@@ -1,0 +1,30 @@
+{
+  "id": 104906,
+  "url": "https://www.spigotmc.org/resources/hot-potato-challenge.104906/",
+  "name": "Hot Potato Challenge",
+  "description": "HPC is quick challenge available via the command inspired by tnttag and hot potato in hypixel sw/bw",
+  "authors": [
+    "MrDev138"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104906.jpg?1661725262",
+  "iconCid": "bafkreihen5t4pyrbtggtp4ne3i2gy7ruhbrrqes4lw6h2hsjcdgxemx7ve",
+  "numberOfDownloads": 44,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hot-potato-challenge.104906/history",
+  "gitUrl": "https://github.com/MrDev139/HPC",
+  "releaseDate": 1661721600000,
+  "updateDate": 1661721600000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

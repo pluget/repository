@@ -1,0 +1,27 @@
+{
+  "id": 100301,
+  "url": "https://www.spigotmc.org/resources/%E2%9A%99%EF%B8%8Fbiggerbarrels%E2%9A%99%EF%B8%8F.100301/",
+  "name": "⚙️BiggerBarrels⚙️",
+  "description": "A simple plugin to make barrels contain double the inventory size!",
+  "authors": [
+    "InTheRiches"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100301.jpg?1645839385",
+  "iconCid": "bafkreiec4jjb6tuf5bpqnewyk5hqfib7arwualtaulanpeqkfy4pqtorv4",
+  "numberOfDownloads": 354,
+  "rating": 4.6,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9A%99%EF%B8%8Fbiggerbarrels%E2%9A%99%EF%B8%8F.100301/history",
+  "releaseDate": 1645835640000,
+  "updateDate": 1675900680000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

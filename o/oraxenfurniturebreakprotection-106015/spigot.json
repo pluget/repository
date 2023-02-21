@@ -1,0 +1,20 @@
+{
+  "id": 106015,
+  "url": "https://www.spigotmc.org/resources/oraxenfurniturebreakprotection.106015/",
+  "name": "OraxenFurnitureBreakProtection",
+  "description": "Prevents Oraxen Furniture from accidentally breaking",
+  "authors": [
+    "boyboy"
+  ],
+  "numberOfDownloads": 66,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/oraxenfurniturebreakprotection.106015/history",
+  "gitUrl": "https://github.com/oraxen/FurnitureBreakProtection",
+  "releaseDate": 1667233860000,
+  "updateDate": 1667638140000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

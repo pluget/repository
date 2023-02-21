@@ -1,0 +1,23 @@
+{
+  "id": 107632,
+  "url": "https://www.spigotmc.org/resources/itemconfig.107632/",
+  "name": "ItemConfig",
+  "description": "Плагин с помощью которого можно ставить цветное описание предмета и название",
+  "authors": [
+    "Kotarych"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107632.jpg?1674789656",
+  "iconCid": "bafkreicq72soyqrmcygl6kvtqyl7d32yafe2kjuxdgwtk4e2nbx6nzxfsa",
+  "numberOfDownloads": 20,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/itemconfig.107632/history",
+  "releaseDate": 1674786000000,
+  "updateDate": 1676300940000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

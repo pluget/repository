@@ -1,0 +1,26 @@
+{
+  "id": 106353,
+  "url": "https://www.spigotmc.org/resources/beeconomy.106353/",
+  "name": "BeeConomy",
+  "description": "A simple Bukkit/Vault economy system.",
+  "authors": [
+    "ShaneBee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106353.jpg?1668959418",
+  "iconCid": "bafkreigibhr2epjizljx3mzfmlegdfjhxrtv6yzoaww3wzmgg5ga4wqeju",
+  "numberOfDownloads": 129,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/beeconomy.106353/history",
+  "gitUrl": "https://github.com/ShaneBeeStudios/BeeConomy",
+  "releaseDate": 1668955800000,
+  "updateDate": 1669043220000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

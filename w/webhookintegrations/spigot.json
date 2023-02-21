@@ -1,0 +1,28 @@
+{
+  "id": 107688,
+  "url": "https://www.spigotmc.org/resources/webhookintegrations-1-12-1-19-3-pl-en.107688/",
+  "name": "WebhookIntegrations | 1.12-1.19.3 | PL/EN",
+  "description": "Discord Integrations made simple.",
+  "authors": [
+    "rudynakodach"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107688.jpg?1675702161",
+  "iconCid": "bafkreie4ngzthfe6htv7abvxq56skakzukkdry6cgf6e3nylb3xqce3n2m",
+  "numberOfDownloads": 294,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/webhookintegrations-1-12-1-19-3-pl-en.107688/history",
+  "gitUrl": "https://github.com/rudynakodach/WebhookIntegrations",
+  "releaseDate": 1676576880000,
+  "updateDate": 1676576880000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

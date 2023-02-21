@@ -1,0 +1,32 @@
+{
+  "id": 30691,
+  "url": "https://www.spigotmc.org/resources/openaudiomc-proximity-voice-chat-and-music-without-mods.30691/",
+  "name": "OpenAudioMc - Proximity Voice Chat and Music without mods",
+  "description": "Add custom music and voice chat to your server, without mods or downloads.",
+  "authors": [
+    "mindgamesnl"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/30/30691.jpg?1630183196",
+  "iconCid": "bafkreihip2tv24egfzjik764kdrry4h4runsgp7ouqzumf36uunnk5x2ba",
+  "numberOfDownloads": 219451,
+  "rating": 4.6,
+  "numberOfVotes": 125,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/openaudiomc-proximity-voice-chat-and-music-without-mods.30691/history",
+  "gitUrl": "https://github.com/Mindgamesnl/OpenAudioMc",
+  "releaseDate": 1477051440000,
+  "updateDate": 1671746160000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 91617,
+  "url": "https://www.spigotmc.org/resources/naturalvanish.91617/",
+  "name": "NaturalVanish",
+  "description": "Vanish plugin for everything you need!",
+  "authors": [
+    "cyberryan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91617.jpg?1619240725",
+  "iconCid": "bafkreiaqc7mq4uegaf7l6bmcvgoy5dpdsgizzsrfvlgvluc6l4dbd6y7jy",
+  "numberOfDownloads": 403,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/naturalvanish.91617/history",
+  "gitUrl": "https://github.com/CyberRyan1/NaturalVanish",
+  "releaseDate": 1619133720000,
+  "updateDate": 1660893000000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

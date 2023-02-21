@@ -1,0 +1,30 @@
+{
+  "id": 44703,
+  "url": "https://www.spigotmc.org/resources/build-battle-guessthebuild-1-8-8-1-17.44703/",
+  "name": "Build Battle | GuessTheBuild [1.8.8-1.17]",
+  "description": "[MINIGAME] Solo/Team/GuessTheBuild | MySQL/YAML | BungeeCord/Multi Arena | Voting GUI | Super Votes",
+  "authors": [
+    "Tigerkatze"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/44/44703.jpg?1603025390",
+  "iconCid": "bafkreiarhipyvzia5hu2dkgsngvkyhvswb6a47rjw6mrxvo3xzh5g2uq6y",
+  "numberOfDownloads": 49436,
+  "rating": 4.6,
+  "numberOfVotes": 185,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/build-battle-guessthebuild-1-8-8-1-17.44703/history",
+  "gitUrl": "https://github.com/Plugily-Projects/BuildBattle",
+  "releaseDate": 1501316520000,
+  "updateDate": 1673276220000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

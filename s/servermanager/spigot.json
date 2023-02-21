@@ -1,0 +1,21 @@
+{
+  "id": 79580,
+  "url": "https://www.spigotmc.org/resources/servermanager-manage-your-spigot-server-with-a-gui.79580/",
+  "name": "ServerManager | Manage your Spigot server with a GUI",
+  "description": "Manage your spigot server.",
+  "authors": [
+    "Labrix"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79580.jpg?1660996202",
+  "iconCid": "bafkreid5rmfnyv2m5jbjh7jx3d5ig2bd6luabkq4tbgr2dctt4ea3kmglu",
+  "numberOfDownloads": 1463,
+  "rating": 4.5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/servermanager-manage-your-spigot-server-with-a-gui.79580/history",
+  "gitUrl": "https://github.com/LabrixSpigotMC/servermaanager",
+  "releaseDate": 1591099800000,
+  "updateDate": 1662881640000,
+  "versions": [
+    "1.16"
+  ]
+}

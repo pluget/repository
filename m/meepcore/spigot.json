@@ -1,0 +1,21 @@
+{
+  "id": 103770,
+  "url": "https://www.spigotmc.org/resources/meepcore.103770/",
+  "name": "MeepCore",
+  "description": "Library for Meeples10's plugins.",
+  "authors": [
+    "Meeples10"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103770.jpg?1659075335",
+  "iconCid": "bafkreigviivprenccmcqiaja73vekiouoxkkpel2sqj5qozvntmolmpilq",
+  "numberOfDownloads": 64,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/meepcore.103770/history",
+  "gitUrl": "https://github.com/Meeples10/MeepCore",
+  "releaseDate": 1659071700000,
+  "updateDate": 1659312960000,
+  "versions": [
+    "1.19"
+  ]
+}

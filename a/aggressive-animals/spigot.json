@@ -1,0 +1,22 @@
+{
+  "id": 100934,
+  "url": "https://www.spigotmc.org/resources/aggressive-animals.100934/",
+  "name": "Aggressive Animals",
+  "description": "Those cute little animals can kill you!",
+  "authors": [
+    "SlimeDog"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100934.jpg?1676444195",
+  "iconCid": "bafkreid6tempxplpohlojnfhig22xqnoxklzgkmb3hidqesmf7yutx3oba",
+  "numberOfDownloads": 536,
+  "rating": 5,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/aggressive-animals.100934/history",
+  "gitUrl": "https://github.com/SlimeDog/AggressiveAnimals/",
+  "releaseDate": 1648143420000,
+  "updateDate": 1672681860000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

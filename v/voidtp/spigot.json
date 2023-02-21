@@ -1,0 +1,23 @@
+{
+  "id": 104810,
+  "url": "https://www.spigotmc.org/resources/voidtp.104810/",
+  "name": "VoidTP",
+  "description": "Prevent your players from falling in the void",
+  "authors": [
+    "Brand0n_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104810.jpg?1661402970",
+  "iconCid": "bafkreiec3d3nx3mtanxtjyug7gesmxkxa7u7gpcuep7nbq65dn7ue2kq6a",
+  "numberOfDownloads": 97,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/voidtp.104810/history",
+  "releaseDate": 1661399280000,
+  "updateDate": 1664575320000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

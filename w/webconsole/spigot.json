@@ -1,0 +1,32 @@
+{
+  "id": 70370,
+  "url": "https://www.spigotmc.org/resources/webconsole.70370/",
+  "name": "WebConsole",
+  "description": "Control your servers using a web interface. Remote console. No webserver required.",
+  "authors": [
+    "casimiro_elciego"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/70/70370.jpg?1565798538",
+  "iconCid": "bafkreid2mpxtgzcpcleqitwow54jfwxq226iett62rywfhplycidi5xrka",
+  "numberOfDownloads": 14482,
+  "rating": 4.9,
+  "numberOfVotes": 27,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/webconsole.70370/history",
+  "gitUrl": "https://github.com/mesacarlos/WebConsole",
+  "releaseDate": 1565794920000,
+  "updateDate": 1664131620000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

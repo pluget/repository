@@ -1,0 +1,31 @@
+{
+  "id": 88798,
+  "url": "https://www.spigotmc.org/resources/unifiedmetrics-1-8-1-18-1-fully-featured-metrics-collection-agent-for-minecraft-servers.88798/",
+  "name": "UnifiedMetrics [1.8-1.18.1] - Fully-featured metrics collection agent for Minecraft servers",
+  "description": "Fully-featured metrics collection plugin for Minecraft servers. InfluxDB / Grafana supported.",
+  "authors": [
+    "Cubxity"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88798.jpg?1612799317",
+  "iconCid": "bafkreietrc5uotrqyu6gbjymjrpofqyxxsufrytid7tqhg55dqjce6i3py",
+  "numberOfDownloads": 917,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/unifiedmetrics-1-8-1-18-1-fully-featured-metrics-collection-agent-for-minecraft-servers.88798/history",
+  "gitUrl": "https://github.com/Cubxity/UnifiedMetrics",
+  "releaseDate": 1612795680000,
+  "updateDate": 1664172300000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

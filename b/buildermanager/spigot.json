@@ -1,0 +1,32 @@
+{
+  "id": 107354,
+  "url": "https://www.spigotmc.org/resources/buildermanager.107354/",
+  "name": "BuilderManager",
+  "description": "A simple plugin that takes care of making simple menus, and custom items!",
+  "authors": [
+    "FaresMahdi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107354.jpg?1673551959",
+  "iconCid": "bafkreidtppbahhhowoq6mg2wfblrbpxdr25vr4fxb22hvlxgslucbtify4",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/buildermanager.107354/history",
+  "gitUrl": "https://github.com/FaresMahdi120/BuilderManager",
+  "releaseDate": 1673548320000,
+  "updateDate": 1673548320000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

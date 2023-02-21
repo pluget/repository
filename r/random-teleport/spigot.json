@@ -1,0 +1,21 @@
+{
+  "id": 103001,
+  "url": "https://www.spigotmc.org/resources/random-teleport.103001/",
+  "name": "Random teleport",
+  "description": "Simple plugin for players teleport to random location",
+  "authors": [
+    "Broken_arrow"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103001.jpg?1656587038",
+  "iconCid": "bafkreifvv6papnboeprdhpejp62emeowekysgzj2mknlbjomzv2igesuze",
+  "numberOfDownloads": 212,
+  "rating": 3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/random-teleport.103001/history",
+  "releaseDate": 1656583380000,
+  "updateDate": 1668857400000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

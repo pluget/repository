@@ -1,0 +1,27 @@
+{
+  "id": 96457,
+  "url": "https://www.spigotmc.org/resources/%E2%AD%90-catamines-%E2%AD%90-skymining-prison-mines-1-13-2-1-19-3.96457/",
+  "name": "⭐ CataMines ⭐ | SkyMining | Prison | Mines 1.13.2 - 1.19.3",
+  "description": "Mines management plugin for Prison and SkyMining servers",
+  "authors": [
+    "CatalysmRL"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96457.jpg?1632613587",
+  "iconCid": "bafkreigcmdpvzyghlak2rxofe5uvk5rzr46ylxksasluroyil5zivyjpnq",
+  "numberOfDownloads": 13219,
+  "rating": 4.7,
+  "numberOfVotes": 27,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%AD%90-catamines-%E2%AD%90-skymining-prison-mines-1-13-2-1-19-3.96457/history",
+  "gitUrl": "https://github.com/CatalysmRL/CataMines",
+  "releaseDate": 1632606300000,
+  "updateDate": 1664389200000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

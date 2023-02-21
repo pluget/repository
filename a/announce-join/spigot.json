@@ -1,0 +1,27 @@
+{
+  "id": 104032,
+  "url": "https://www.spigotmc.org/resources/announce-join.104032/",
+  "name": "Announce Join",
+  "description": "Simple join announcements the Hypixel Style",
+  "authors": [
+    "Incbom"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104032.jpg?1659531033",
+  "iconCid": "bafkreigys5ohexg44hezfzr2imeupbdocw2aijgsjge6jilasmllfbyhte",
+  "numberOfDownloads": 50,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/announce-join.104032/history",
+  "releaseDate": 1659527400000,
+  "updateDate": 1659527400000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

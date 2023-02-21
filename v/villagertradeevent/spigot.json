@@ -1,0 +1,21 @@
+{
+  "id": 104298,
+  "url": "https://www.spigotmc.org/resources/villagertradeevent.104298/",
+  "name": "VillagerTradeEvent",
+  "description": "Detect when players have traded with a villager, without the use of Paper server software.",
+  "authors": [
+    "AbeTGT"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104298.jpg?1659864552",
+  "iconCid": "bafkreihkawv3lagy4fdfyxetawhq2avxkkx3jbpjx4e7jfshlg74a6vn5u",
+  "numberOfDownloads": 37,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/villagertradeevent.104298/history",
+  "gitUrl": "https://github.com/AbeTGT/VillagerTradeEvent",
+  "releaseDate": 1659860880000,
+  "updateDate": 1662664020000,
+  "versions": [
+    "1.19"
+  ]
+}

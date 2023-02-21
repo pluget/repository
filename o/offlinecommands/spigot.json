@@ -1,0 +1,22 @@
+{
+  "id": 93671,
+  "url": "https://www.spigotmc.org/resources/offlinecommands.93671/",
+  "name": "OfflineCommands",
+  "description": "Tired of players not getting vote rewards? Execute any command for offline players!",
+  "authors": [
+    "Jochyoua"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93671.jpg?1624826582",
+  "iconCid": "bafkreib7efyz2uef742wkkrwt25iud7khg5sqpvyt45q6gpwnytdtcbc7u",
+  "numberOfDownloads": 66,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/offlinecommands.93671/history",
+  "gitUrl": "https://github.com/Jochyoua/OfflineCommands",
+  "releaseDate": 1624782060000,
+  "updateDate": 1669499520000,
+  "versions": [
+    "1.16",
+    "1.19"
+  ]
+}

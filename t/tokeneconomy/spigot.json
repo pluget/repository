@@ -1,0 +1,32 @@
+{
+  "id": 101972,
+  "url": "https://www.spigotmc.org/resources/tokeneconomy-1-8-1-19-vault-support.101972/",
+  "name": "TokenEconomy [1.8 - 1.19] [Vault Support]",
+  "description": "AllinOne Token Plugin! No extra plugins needed!",
+  "authors": [
+    "NoScape"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101972.jpg?1652419455",
+  "iconCid": "bafkreigve6252b5q227xbq3cyu54ogbx4h3tlm3ki22ujvpj6w5lrxb72m",
+  "numberOfDownloads": 915,
+  "rating": 3.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tokeneconomy-1-8-1-19-vault-support.101972/history",
+  "gitUrl": "https://github.com/NoScapeDev/TokenEconomy",
+  "releaseDate": 1652414580000,
+  "updateDate": 1659313020000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

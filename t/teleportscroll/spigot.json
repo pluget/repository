@@ -1,0 +1,22 @@
+{
+  "id": 99166,
+  "url": "https://www.spigotmc.org/resources/teleportscroll.99166/",
+  "name": "TeleportScroll",
+  "description": "Teleport scrolls in Diablo II style",
+  "authors": [
+    "Scofield__"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99166.jpg?1642087073",
+  "iconCid": "bafkreiafffgblxma53luijun6k4iccjqki6v7qxwwk24o2izvz6qja3vxq",
+  "numberOfDownloads": 129,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/teleportscroll.99166/history",
+  "gitUrl": "https://github.com/mineheroesrpg/TeleportScroll",
+  "releaseDate": 1642083360000,
+  "updateDate": 1670079600000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 106102,
+  "url": "https://www.spigotmc.org/resources/dragon-fly.106102/",
+  "name": "Dragon-Fly",
+  "description": "The only fly for the cost of fuel plugin",
+  "authors": [
+    "mike3132"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106102.jpg?1667648269",
+  "iconCid": "bafkreic62tyftzwnp3khwmrfdlkgy3hjky7stya7wpn42oqf3kt5psndsq",
+  "numberOfDownloads": 30,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dragon-fly.106102/history",
+  "gitUrl": "https://github.com/mike3132/Dragon-Fly",
+  "releaseDate": 1667644620000,
+  "updateDate": 1667644620000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

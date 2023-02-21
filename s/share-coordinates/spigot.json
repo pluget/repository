@@ -1,0 +1,32 @@
+{
+  "id": 80632,
+  "url": "https://www.spigotmc.org/resources/share-coordinates.80632/",
+  "name": "Share Coordinates",
+  "description": "Share your coordinates to everyone or to a single player",
+  "authors": [
+    "MrAlby"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80632.jpg?1593015892",
+  "iconCid": "bafkreif2c47z2dt3aiweg2syprl3czeaebsoug72cngdb3uhv2zoya5mfi",
+  "numberOfDownloads": 3383,
+  "rating": 4.8,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/share-coordinates.80632/history",
+  "releaseDate": 1593012240000,
+  "updateDate": 1660918320000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

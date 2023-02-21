@@ -1,0 +1,19 @@
+{
+  "id": 107500,
+  "url": "https://www.spigotmc.org/resources/combattag-simple.107500/",
+  "name": "CombatTag (Simple)",
+  "description": "Simple CombatTag that will get rid of Combat Loggers and prevents tagged people from using commands.",
+  "authors": [
+    "FlamzPlayzMc_"
+  ],
+  "numberOfDownloads": 50,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/combattag-simple.107500/history",
+  "releaseDate": 1674220320000,
+  "updateDate": 1674221700000,
+  "versions": [
+    "1.12",
+    "1.19"
+  ]
+}

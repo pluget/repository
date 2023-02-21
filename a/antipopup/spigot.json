@@ -1,0 +1,23 @@
+{
+  "id": 103782,
+  "url": "https://www.spigotmc.org/resources/%E2%9C%A8-antipopup-no-chat-reports-and-popup-%E2%9C%A8.103782/",
+  "name": "✨ AntiPopup - No chat reports and Popup! ✨",
+  "description": "Secure your server for everybody!",
+  "authors": [
+    "kacperleague9"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103782.jpg?1659107782",
+  "iconCid": "bafkreifwc64lwl3d7q5guq4x42favjpl7i3uz2z3rpjsdsfiw4ped52bje",
+  "numberOfDownloads": 6287,
+  "rating": 5,
+  "numberOfVotes": 60,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9C%A8-antipopup-no-chat-reports-and-popup-%E2%9C%A8.103782/history",
+  "gitUrl": "https://github.com/KaspianDev/AntiPopup",
+  "releaseDate": 1659103680000,
+  "updateDate": 1674907620000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

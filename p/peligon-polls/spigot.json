@@ -1,0 +1,27 @@
+{
+  "id": 100200,
+  "url": "https://www.spigotmc.org/resources/peligon-polls.100200/",
+  "name": "Peligon Polls",
+  "description": "This will connect polls inside your game to discord.",
+  "authors": [
+    "Peligon"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100200.jpg?1646853908",
+  "iconCid": "bafkreicw734czpwani7df3knpwldcdupybves6otfkhxgwxsi77dwgtwra",
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/peligon-polls.100200/history",
+  "gitUrl": "https://github.com/Darkw1nged/Peligon-Plugins/",
+  "releaseDate": 1645456320000,
+  "updateDate": 1666120740000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

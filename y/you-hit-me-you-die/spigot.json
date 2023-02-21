@@ -1,0 +1,24 @@
+{
+  "id": 104640,
+  "url": "https://www.spigotmc.org/resources/you-hit-me-you-die.104640/",
+  "name": "You Hit Me You Die",
+  "description": "#yhmyd",
+  "authors": [
+    "TrongThang"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104640.jpg?1660819191",
+  "iconCid": "bafkreicyl7h3vxrugy7ixyovvn4nafhnjnccfovcbbip5goqd66pjn2mwu",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/you-hit-me-you-die.104640/history",
+  "gitUrl": "https://github.com/CaoTrongThang/YouHitMeYouDie/tree/minecraftplugin",
+  "releaseDate": 1660815540000,
+  "updateDate": 1660815540000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

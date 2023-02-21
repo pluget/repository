@@ -1,0 +1,19 @@
+{
+  "id": 105908,
+  "url": "https://www.spigotmc.org/resources/multiplyexp.105908/",
+  "name": "MultiplyEXP",
+  "description": "A plugin which multiplies the amount of EXP gained from each orb collection.",
+  "authors": [
+    "beabyte"
+  ],
+  "numberOfDownloads": 46,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/multiplyexp.105908/history",
+  "gitUrl": "https://github.com/beailotus/MultiplyEXP",
+  "releaseDate": 1666614000000,
+  "updateDate": 1666614000000,
+  "versions": [
+    "1.19"
+  ]
+}

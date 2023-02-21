@@ -1,0 +1,21 @@
+{
+  "id": 104737,
+  "url": "https://www.spigotmc.org/resources/helpfulgui.104737/",
+  "name": "HelpfulGUI",
+  "description": "A simple plugin providing helpful guis for admins and players.",
+  "authors": [
+    "maxhe"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104737.jpg?1661152977",
+  "iconCid": "bafkreiff4qweji5hcxksyb75gmqsdjg2tqnceskp5de3jwdwiaxpshsefa",
+  "numberOfDownloads": 21,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/helpfulgui.104737/history",
+  "gitUrl": "https://github.com/TavexSoftware/HelpfulGui",
+  "releaseDate": 1661149320000,
+  "updateDate": 1661149320000,
+  "versions": [
+    "1.19"
+  ]
+}

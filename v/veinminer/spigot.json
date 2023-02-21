@@ -1,0 +1,23 @@
+{
+  "id": 12038,
+  "url": "https://www.spigotmc.org/resources/veinminer.12038/",
+  "name": "VeinMiner",
+  "description": "Minecraft Forge's VeinMiner recreated for Spigot servers.",
+  "authors": [
+    "Choco"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/12/12038.jpg?1468785545",
+  "iconCid": "bafkreih2c3qmdmndkxhu7dr72na7od3mkusnerzfdptyuynftvmgxqixkq",
+  "numberOfDownloads": 353858,
+  "rating": 4.7,
+  "numberOfVotes": 67,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/veinminer.12038/history",
+  "gitUrl": "https://github.com/2008Choco/VeinMiner/",
+  "releaseDate": 1441756740000,
+  "updateDate": 1659987120000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

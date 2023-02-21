@@ -1,0 +1,27 @@
+{
+  "id": 83557,
+  "url": "https://www.spigotmc.org/resources/bluemap.83557/",
+  "name": "BlueMap",
+  "description": "A mapping tool that creates 3D models of your Minecraft worlds and displays them in a web viewer",
+  "authors": [
+    "TBlueF"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83557.jpg?1599299324",
+  "iconCid": "bafkreihnti66aie7wcgqueaofbi4fvu6sfutrodbmev36xls2lyt2mmntu",
+  "numberOfDownloads": 28660,
+  "rating": 4.8,
+  "numberOfVotes": 85,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bluemap.83557/history",
+  "gitUrl": "https://github.com/BlueMap-Minecraft/BlueMap",
+  "releaseDate": 1676903520000,
+  "updateDate": 1676903520000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 85571,
+  "url": "https://www.spigotmc.org/resources/poscommands-1-19-support.85571/",
+  "name": "PosCommands | 1.19 SUPPORT! |",
+  "description": "Trigger commands just by walking over a block!",
+  "authors": [
+    "Loving11ish"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85571.jpg?1604796979",
+  "iconCid": "bafkreiggfzkw5b4i5slsuyqvc4ndf7elypnyxbir6w4grr5z4tfmvyctoa",
+  "numberOfDownloads": 469,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/poscommands-1-19-support.85571/history",
+  "gitUrl": "https://github.com/Loving11ish/PosCommands/tree/master",
+  "releaseDate": 1604789700000,
+  "updateDate": 1673128140000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

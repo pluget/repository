@@ -1,0 +1,25 @@
+{
+  "id": 88952,
+  "url": "https://www.spigotmc.org/resources/tabcompleter.88952/",
+  "name": "TabCompleter",
+  "description": "A simple plugin to change tab completion of commands.",
+  "authors": [
+    "hyperdefined"
+  ],
+  "numberOfDownloads": 510,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tabcompleter.88952/history",
+  "gitUrl": "https://github.com/hyperdefined/TabCompleter",
+  "releaseDate": 1613145120000,
+  "updateDate": 1670198520000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

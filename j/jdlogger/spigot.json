@@ -1,0 +1,27 @@
+{
+  "id": 99623,
+  "url": "https://www.spigotmc.org/resources/jdlogger-death-logger.99623/",
+  "name": "JDLogger | Death Logger",
+  "description": "Rollback inventory, low tps & big ping protection and more other",
+  "authors": [
+    "WINGS7"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99623.jpg?1643546077",
+  "iconCid": "bafkreigpakeisit22qyuh5ysjlext5nxsjo6xwcytycj5whg45sofjfrca",
+  "numberOfDownloads": 263,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/jdlogger-death-logger.99623/history",
+  "gitUrl": "https://github.com/WINGS-IO/JDLogger",
+  "releaseDate": 1643536080000,
+  "updateDate": 1674158880000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 100839,
+  "url": "https://www.spigotmc.org/resources/finalconsolefilter.100839/",
+  "name": "FinalConsoleFilter",
+  "description": "This plugin can hide configured messages or errors from server console and logs.",
+  "authors": [
+    "evernife"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100839.jpg?1647770179",
+  "iconCid": "bafkreibe6jufl7otmp3kcno5smidisp5tcxqrqwbsgy44k2nret7utdqnq",
+  "numberOfDownloads": 112,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/finalconsolefilter.100839/history",
+  "gitUrl": "https://github.com/EverNife/FinalConsoleFilter/",
+  "releaseDate": 1647766560000,
+  "updateDate": 1675583160000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

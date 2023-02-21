@@ -1,0 +1,25 @@
+{
+  "id": 103794,
+  "url": "https://www.spigotmc.org/resources/cleanrtp.103794/",
+  "name": "CleanRTP",
+  "description": "Teleports a player to a random location",
+  "authors": [
+    "2GramsIn"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103794.jpg?1659144814",
+  "iconCid": "bafkreiciz4db2gp6pjuhuqbhsejdzwhoiyqvem3buxdl2kfgpbcshqavjq",
+  "numberOfDownloads": 59,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cleanrtp.103794/history",
+  "releaseDate": 1659141180000,
+  "updateDate": 1659141180000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

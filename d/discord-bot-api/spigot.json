@@ -1,0 +1,33 @@
+{
+  "id": 49783,
+  "url": "https://www.spigotmc.org/resources/discord-bot-api-jda.49783/",
+  "name": "Discord Bot API - JDA",
+  "description": "A simple discord bot creation API.",
+  "authors": [
+    "TJPlaysNow"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/49/49783.jpg?1511133765",
+  "iconCid": "bafkreiclxub2k2i2broqvxbc3zs5vgf7cvzgy2og5k26ybiiiunc2vx6zy",
+  "numberOfDownloads": 15287,
+  "rating": 3.7,
+  "numberOfVotes": 23,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discord-bot-api-jda.49783/history",
+  "gitUrl": "https://github.com/TJPlaysNow/Discord-Bot-API---JDA",
+  "releaseDate": 1511130120000,
+  "updateDate": 1658436780000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

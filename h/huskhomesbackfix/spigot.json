@@ -1,0 +1,25 @@
+{
+  "id": 103930,
+  "url": "https://www.spigotmc.org/resources/huskhomesbackfix.103930/",
+  "name": "HuskHomesBackFix",
+  "description": "This plugin restored the Essentials experience of /back command in HuskHomes",
+  "authors": [
+    "Ghost_chu"
+  ],
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/huskhomesbackfix.103930/history",
+  "gitUrl": "https://github.com/Ghost-chu/HuskHomesBackFix",
+  "releaseDate": 1659343440000,
+  "updateDate": 1674499980000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

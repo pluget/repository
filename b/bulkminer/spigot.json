@@ -1,0 +1,21 @@
+{
+  "id": 103468,
+  "url": "https://www.spigotmc.org/resources/bulkminer.103468/",
+  "name": "BulkMiner",
+  "description": "A plugin that allows players to mine an entire vein of ore at once.",
+  "authors": [
+    "Meeples10"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103468.jpg?1659084013",
+  "iconCid": "bafkreih7cnrmhqfx6c6y7hnit4222ssz2gug7vqowoebcc6qoijlktsysq",
+  "numberOfDownloads": 177,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bulkminer.103468/history",
+  "gitUrl": "https://github.com/Meeples10/BulkMiner",
+  "releaseDate": 1658094300000,
+  "updateDate": 1658891400000,
+  "versions": [
+    "1.19"
+  ]
+}

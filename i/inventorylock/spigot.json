@@ -1,0 +1,22 @@
+{
+  "id": 104684,
+  "url": "https://www.spigotmc.org/resources/inventorylock.104684/",
+  "name": "InventoryLock",
+  "description": "Extremely Lightweight plugin to lock a specific inventory slot for players",
+  "authors": [
+    "supxnovattv"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104684.jpg?1660957683",
+  "iconCid": "bafkreibooi2ttdebtqxkwhdu45xalz2ma2y6v7ogv2m7mj5s7x3r62gnky",
+  "numberOfDownloads": 153,
+  "rating": 4.8,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/inventorylock.104684/history",
+  "releaseDate": 1660954020000,
+  "updateDate": 1661042580000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

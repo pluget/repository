@@ -1,0 +1,28 @@
+{
+  "id": 106146,
+  "url": "https://www.spigotmc.org/resources/skipsleep.106146/",
+  "name": "SkipSleep",
+  "description": "A lightweight plug-in that only needs one person to sleep and can skip the night",
+  "authors": [
+    "PlaidMrdeer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106146.jpg?1669284613",
+  "iconCid": "bafkreifd7wyd4o6knohhwgm6arfpltbujnemx6jpv7q5ws25zpsvwz7bma",
+  "numberOfDownloads": 274,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skipsleep.106146/history",
+  "gitUrl": "https://github.com/plaidmrdeer/SkipSleep",
+  "releaseDate": 1667798880000,
+  "updateDate": 1675655520000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

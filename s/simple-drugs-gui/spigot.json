@@ -1,0 +1,23 @@
+{
+  "id": 9684,
+  "url": "https://www.spigotmc.org/resources/simple-drugs-gui.9684/",
+  "name": "Simple Drugs GUI",
+  "description": "Create your own drugs in Minecraft.",
+  "authors": [
+    "xxCoderforlife"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/9/9684.jpg?1635766053",
+  "iconCid": "bafkreiaf6dqxz4chdl4gs7zvjx42uobpdpehthrzivsxrd4wasz53ygdxu",
+  "numberOfDownloads": 23208,
+  "rating": 4,
+  "numberOfVotes": 29,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-drugs-gui.9684/history",
+  "gitUrl": "https://github.com/xxCoderforlife/Simple-Drugs?files=1",
+  "releaseDate": 1437244740000,
+  "updateDate": 1659974760000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

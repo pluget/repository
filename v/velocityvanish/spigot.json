@@ -1,0 +1,24 @@
+{
+  "id": 105992,
+  "url": "https://www.spigotmc.org/resources/velocityvanish-1-8-1-19-3-no-database-required.105992/",
+  "name": "VelocityVanish [1.8 - 1.19.3] (No Database required!)",
+  "description": "Modern vanish system for your server with Velocity support",
+  "authors": [
+    "Syrent"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105992.jpg?1667108029",
+  "iconCid": "bafkreihqpifnf4xq633oewblxkszyovb6ld42kblmbarlu2c6nrxkkjadm",
+  "numberOfDownloads": 884,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/velocityvanish-1-8-1-19-3-no-database-required.105992/history",
+  "gitUrl": "https://github.com/Syrent/VelocityVanish",
+  "releaseDate": 1667104380000,
+  "updateDate": 1676217060000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

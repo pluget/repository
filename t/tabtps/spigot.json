@@ -1,0 +1,32 @@
+{
+  "id": 82528,
+  "url": "https://www.spigotmc.org/resources/tabtps-1-8-8-1-19-3-show-tps-mspt-and-more-in-the-tab-menu.82528/",
+  "name": "TabTPS [1.8.8-1.19.3+] Show TPS, MSPT and more in the Tab menu",
+  "description": "Monitor your server's performance by showing it's TPS and MSPT in the Tab menu or Boss/Action bar",
+  "authors": [
+    "jmp"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82528.jpg?1598034877",
+  "iconCid": "bafkreiao4keqd5vaprbti2kved43v6t53fvklod5npxopmbrh7ehhywqmi",
+  "numberOfDownloads": 62619,
+  "rating": 4.8,
+  "numberOfVotes": 28,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tabtps-1-8-8-1-19-3-show-tps-mspt-and-more-in-the-tab-menu.82528/history",
+  "gitUrl": "https://github.com/jpenilla/TabTPS",
+  "releaseDate": 1596909660000,
+  "updateDate": 1670604960000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

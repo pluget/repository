@@ -1,0 +1,32 @@
+{
+  "id": 47713,
+  "url": "https://www.spigotmc.org/resources/hubparkour.47713/",
+  "name": "HubParkour",
+  "description": "Add parkour to your Hub! Features include checkpoints, customisable messages, rewards and much more!",
+  "authors": [
+    "Block2Block"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/47/47713.jpg?1506624747",
+  "iconCid": "bafkreihalva4trvl5rhd5ppsvonqwsduszoaqb4zxers5sas57ym64vx3y",
+  "numberOfDownloads": 14644,
+  "rating": 4.4,
+  "numberOfVotes": 43,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hubparkour.47713/history",
+  "gitUrl": "https://github.com/Block2Block/HubParkour",
+  "releaseDate": 1506620760000,
+  "updateDate": 1664481540000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

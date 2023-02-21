@@ -1,0 +1,27 @@
+{
+  "id": 105939,
+  "url": "https://www.spigotmc.org/resources/spigotadditions-1-13-1-19-3.105939/",
+  "name": "SpigotAdditions [1.13-1.19.3]",
+  "description": "Spigot library aiming to make painful tasks enjoyable and save developer's time!",
+  "authors": [
+    "ImDaMilan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105939.jpg?1666812954",
+  "iconCid": "bafkreiba3kkjxnlv4caha2fqkbvbcxixmb3ld6hf3wwquagurrxvuflfvy",
+  "numberOfDownloads": 312,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/spigotadditions-1-13-1-19-3.105939/history",
+  "gitUrl": "https://github.com/ImDaMilan/SpigotAdditions",
+  "releaseDate": 1666809300000,
+  "updateDate": 1676140260000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

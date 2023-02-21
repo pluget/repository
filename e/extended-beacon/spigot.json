@@ -1,0 +1,24 @@
+{
+  "id": 87098,
+  "url": "https://www.spigotmc.org/resources/extended-beacon.87098/",
+  "name": "Extended Beacon",
+  "description": "Allows to use custom Beacon mechanics.",
+  "authors": [
+    "TTRyY01vbkRF"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87098.jpg?1608981209",
+  "iconCid": "bafkreiglkf56pkclzfjbwnklxn3ucsl4yc26qcty3xi5eu66wyy54yttdu",
+  "numberOfDownloads": 254,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/extended-beacon.87098/history",
+  "gitUrl": "https://github.com/ttryy/ExtendedBeacon",
+  "releaseDate": 1608977580000,
+  "updateDate": 1660644540000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

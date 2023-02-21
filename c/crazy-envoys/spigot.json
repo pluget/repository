@@ -1,0 +1,23 @@
+{
+  "id": 32870,
+  "url": "https://www.spigotmc.org/resources/crazy-envoys.32870/",
+  "name": "Crazy Envoys",
+  "description": "Drop custom crates with any prize you want all over spawn for players to fight over.",
+  "authors": [
+    "BadBones69"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/32/32870.jpg?1670988345",
+  "iconCid": "bafkreialxg4oqt7zpmjhip73mjvzjbirafljwqixs75efwleg2nbx66byq",
+  "numberOfDownloads": 37007,
+  "rating": 4.2,
+  "numberOfVotes": 135,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/crazy-envoys.32870/history",
+  "gitUrl": "https://github.com/Crazy-Crew/CrazyEnvoys",
+  "releaseDate": 1676426160000,
+  "updateDate": 1676426160000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

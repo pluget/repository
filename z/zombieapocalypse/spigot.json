@@ -1,0 +1,26 @@
+{
+  "id": 82106,
+  "url": "https://www.spigotmc.org/resources/zombieapocalypse-8-zombie-types-1-19-support.82106/",
+  "name": "ZombieApocalypse [8 Zombie Types! - 1.19 Support]",
+  "description": "A plugin inspired by Dream’s ‘Minecraft, But It’s a Zombie Apocalypse’",
+  "authors": [
+    "3ricL"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82106.jpg?1596042701",
+  "iconCid": "bafkreie2ej5hxkqcrmoe3yqahicjhuoon36cfrwhoy2vwufruuf477z5he",
+  "numberOfDownloads": 77312,
+  "rating": 4.9,
+  "numberOfVotes": 29,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/zombieapocalypse-8-zombie-types-1-19-support.82106/history",
+  "gitUrl": "https://github.com/EricLangezaal/ZombieApocalypse",
+  "releaseDate": 1596039060000,
+  "updateDate": 1663613700000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

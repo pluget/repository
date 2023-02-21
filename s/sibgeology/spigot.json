@@ -1,0 +1,19 @@
+{
+  "id": 105092,
+  "url": "https://www.spigotmc.org/resources/sibgeology.105092/",
+  "name": "SibGeology",
+  "description": "This is a simple plugin that will allow your server's players to find ore deposits more efficiently.",
+  "authors": [
+    "iZerus"
+  ],
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sibgeology.105092/history",
+  "gitUrl": "https://github.com/iZerus/SibGeology",
+  "releaseDate": 1662385500000,
+  "updateDate": 1662385500000,
+  "versions": [
+    "1.19"
+  ]
+}

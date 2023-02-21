@@ -1,0 +1,23 @@
+{
+  "id": 107398,
+  "url": "https://www.spigotmc.org/resources/paint-plugin.107398/",
+  "name": "Paint Plugin",
+  "description": "Paint",
+  "authors": [
+    "NAMYELL"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107398.jpg?1673797035",
+  "iconCid": "bafkreidler4v3hbheuju23ugliocrt3ctmukjynro3k4duby4lkuw2soia",
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/paint-plugin.107398/history",
+  "gitUrl": "https://github.com/NamYell/Paint",
+  "releaseDate": 1673793360000,
+  "updateDate": 1673793360000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

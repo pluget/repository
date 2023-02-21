@@ -1,0 +1,22 @@
+{
+  "id": 81898,
+  "url": "https://www.spigotmc.org/resources/roadblock.81898/",
+  "name": "RoadBlock",
+  "description": "A plugin to protect roads on a block by block basis.",
+  "authors": [
+    "timsavage"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81898.jpg?1595633086",
+  "iconCid": "bafkreihxied5l3fyhzqiotheogk725jjzi2ucvwo2mgoro7zkdksvynrhm",
+  "numberOfDownloads": 245,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/roadblock.81898/history",
+  "gitUrl": "https://github.com/tim-savage/RoadBlock",
+  "releaseDate": 1595629020000,
+  "updateDate": 1662427620000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

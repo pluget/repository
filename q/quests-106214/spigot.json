@@ -1,0 +1,21 @@
+{
+  "id": 106214,
+  "url": "https://www.spigotmc.org/resources/quests.106214/",
+  "name": "Quests",
+  "description": "Quest plugin, fully open source",
+  "authors": [
+    "Biskoth"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106214.jpg?1668209308",
+  "iconCid": "bafkreicpycbhrkh5acl6ynjhcua2kl6quwahb74bwmqsukjylar7jrleca",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/quests.106214/history",
+  "gitUrl": "https://github.com/Hokib-st/Quests/",
+  "releaseDate": 1668205680000,
+  "updateDate": 1668206760000,
+  "versions": [
+    "1.16"
+  ]
+}

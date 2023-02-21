@@ -1,0 +1,27 @@
+{
+  "id": 99602,
+  "url": "https://www.spigotmc.org/resources/command-blocker.99602/",
+  "name": "Command Blocker",
+  "description": "Simple Command whitelist and anti-tab plugin for 1.19x servers",
+  "authors": [
+    "Chiarchiaooo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99602.jpg?1643473567",
+  "iconCid": "bafkreihg6ddr4kvtrycdtc7jhmy6ogwrrevomtqzxensxzlaerp6jy4u2a",
+  "numberOfDownloads": 365,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/command-blocker.99602/history",
+  "gitUrl": "https://github.com/Chiarchiaooo/CommandBlocker",
+  "releaseDate": 1643469900000,
+  "updateDate": 1670239860000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

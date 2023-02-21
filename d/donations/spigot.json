@@ -1,0 +1,33 @@
+{
+  "id": 73815,
+  "url": "https://www.spigotmc.org/resources/donations-1-8-1-19-broadcast-a-special-message-whenever-someone-donates.73815/",
+  "name": "Donations [1.8-1.19] - Broadcast a special message whenever someone donates!",
+  "description": "Broadcast a special message and give everyone potion effects whenever someone donates",
+  "authors": [
+    "aglerr"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/73/73815.jpg?1577502736",
+  "iconCid": "bafkreicwl7jenxku6jcqpi4pkae7sucyrn6sezdqju6n75l4isef23yipu",
+  "numberOfDownloads": 4994,
+  "rating": 5,
+  "numberOfVotes": 20,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/donations-1-8-1-19-broadcast-a-special-message-whenever-someone-donates.73815/history",
+  "gitUrl": "https://github.com/aglerr/TheOnly-Donations",
+  "releaseDate": 1676864400000,
+  "updateDate": 1676864400000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 93665,
+  "url": "https://www.spigotmc.org/resources/diamondnuggets.93665/",
+  "name": "DiamondNuggets",
+  "description": "A simple plugin that adds diamond nuggets for item shops!",
+  "authors": [
+    "Tis_awesomeness"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93665.jpg?1624746748",
+  "iconCid": "bafkreih2rksqdt2lpp7l3mhtdtnx4xsjblkj5jh2wsd6vnrywrka2icj6y",
+  "numberOfDownloads": 263,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/diamondnuggets.93665/history",
+  "gitUrl": "https://github.com/Tisawesomeness/DiamondNuggets",
+  "releaseDate": 1624743060000,
+  "updateDate": 1672374840000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 107142,
+  "url": "https://www.spigotmc.org/resources/critical-core-%E2%80%8D-1-multi-purpose-api.107142/",
+  "name": "critical (CORE) - ‍ #1 Multi-Purpose API!",
+  "description": "the critical plugin api for your addons.",
+  "authors": [
+    "GavinGoGaming"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107142.jpg?1672689648",
+  "iconCid": "bafkreifpu3oiuib7q2mksfdnu3yj6p4japotiz4x66w3rbkyp2qhegest4",
+  "numberOfDownloads": 27,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/critical-core-%E2%80%8D-1-multi-purpose-api.107142/history",
+  "gitUrl": "https://github.com/GavinGoGaming/critical-core",
+  "releaseDate": 1672686000000,
+  "updateDate": 1672686000000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 79610,
+  "url": "https://www.spigotmc.org/resources/creditvoidkill.79610/",
+  "name": "CreditVoidKill",
+  "description": "Plugin that gives credit to player who killed someone by pushing him into the void",
+  "authors": [
+    "Prostedeni"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79610.jpg?1592695718",
+  "iconCid": "bafkreieclr3ylbw3s5r7nheeocxp4phpybw5splkvlzuflpfd45fbbirxa",
+  "numberOfDownloads": 199,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/creditvoidkill.79610/history",
+  "gitUrl": "https://github.com/prosteDeniGC/CreditVoidKill",
+  "releaseDate": 1591134000000,
+  "updateDate": 1660422720000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

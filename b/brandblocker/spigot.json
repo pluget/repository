@@ -1,0 +1,23 @@
+{
+  "id": 94346,
+  "url": "https://www.spigotmc.org/resources/brandblocker.94346/",
+  "name": "BrandBlocker",
+  "description": "Block any client brand easily.",
+  "authors": [
+    "VictorGamer15"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94346.jpg?1626456214",
+  "iconCid": "bafkreiarxutiyiuoroufnw4mvvxg5uynfg7we2v2ro7xo2ikdb6fxxhpgu",
+  "numberOfDownloads": 1156,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/brandblocker.94346/history",
+  "gitUrl": "https://github.com/VictorGamer15/BrandBlocker",
+  "releaseDate": 1626452580000,
+  "updateDate": 1662800940000,
+  "versions": [
+    "1.8",
+    "1.17",
+    "1.18"
+  ]
+}

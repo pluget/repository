@@ -1,0 +1,26 @@
+{
+  "id": 96752,
+  "url": "https://www.spigotmc.org/resources/minigameworld.96752/",
+  "name": "MiniGameWorld",
+  "description": "Mini-game framework",
+  "authors": [
+    "worldbiomusic"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96752.jpg?1661171732",
+  "iconCid": "bafkreib4pjb5wndx4ulesnjmvxp4cnfiha7ak4f2wdqrhxx66hffzwygc4",
+  "numberOfDownloads": 1153,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minigameworld.96752/history",
+  "gitUrl": "https://github.com/MiniGameWorlds/MiniGameWorld",
+  "releaseDate": 1633872660000,
+  "updateDate": 1661167260000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

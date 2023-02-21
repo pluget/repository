@@ -1,0 +1,29 @@
+{
+  "id": 54103,
+  "url": "https://www.spigotmc.org/resources/solidfix.54103/",
+  "name": "SolidFix",
+  "description": "A resource developed to fix the notorious block glitch that occurs while breaking blocks rapidly",
+  "authors": [
+    "Qruet"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/54/54103.jpg?1520305162",
+  "iconCid": "bafkreig33kgylaehkfkw4bd6lbaswiftvwxsgn5aknvbx4t6eq6r6dhtka",
+  "numberOfDownloads": 4827,
+  "rating": 5,
+  "numberOfVotes": 21,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/solidfix.54103/history",
+  "gitUrl": "https://github.com/qruet/SolidFix",
+  "releaseDate": 1520221620000,
+  "updateDate": 1657745280000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 93706,
+  "url": "https://www.spigotmc.org/resources/nojumpbreakcrops.93706/",
+  "name": "NoJumpBreakCrops",
+  "description": "Very simple plugin wich prevent unpermitted players to break crops by jumping on them.",
+  "authors": [
+    "SlowJulien"
+  ],
+  "numberOfDownloads": 350,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nojumpbreakcrops.93706/history",
+  "gitUrl": "https://github.com/SlowJulien/NoJumpBreakCrops/",
+  "releaseDate": 1624887420000,
+  "updateDate": 1668418500000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

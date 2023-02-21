@@ -1,0 +1,21 @@
+{
+  "id": 104937,
+  "url": "https://www.spigotmc.org/resources/depixa-lifesteal.104937/",
+  "name": "Depixa-Lifesteal",
+  "description": "A simple yet powerful Lifesteal plugin.",
+  "authors": [
+    "hypil"
+  ],
+  "numberOfDownloads": 235,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/depixa-lifesteal.104937/history",
+  "gitUrl": "https://github.com/TeamDepixa/depixa-lifesteal",
+  "releaseDate": 1661864820000,
+  "updateDate": 1676054760000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

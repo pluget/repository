@@ -1,0 +1,32 @@
+{
+  "id": 106188,
+  "url": "https://www.spigotmc.org/resources/spawn.106188/",
+  "name": "Spawn",
+  "description": "Highly configurable spawn plugin",
+  "authors": [
+    "rockquiet"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106188.jpg?1668031847",
+  "iconCid": "bafkreictobgo5u3erl4ptw73smg5lhrltrzrsdwi7qexarcliqzsqd2d3y",
+  "numberOfDownloads": 304,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/spawn.106188/history",
+  "gitUrl": "https://github.com/rockquiet/Spawn",
+  "releaseDate": 1668028200000,
+  "updateDate": 1669578300000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

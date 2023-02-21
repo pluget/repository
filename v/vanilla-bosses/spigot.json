@@ -1,0 +1,24 @@
+{
+  "id": 95205,
+  "url": "https://www.spigotmc.org/resources/vanilla-bosses-abandoned-check-description.95205/",
+  "name": "Vanilla Bosses (Abandoned, check description)",
+  "description": "Adds various boss mobs with special Items, customizable drops and abilities to the game!",
+  "authors": [
+    "Shreb"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95205.jpg?1628959326",
+  "iconCid": "bafkreiht2mi7zylb2bkmsq4hsjngjhh6ydo426o2ahopj2i6qmngx7r2my",
+  "numberOfDownloads": 15927,
+  "rating": 4.9,
+  "numberOfVotes": 16,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/vanilla-bosses-abandoned-check-description.95205/history",
+  "gitUrl": "https://github.com/ShrebTV/VB-Rewritten",
+  "releaseDate": 1628627640000,
+  "updateDate": 1669489560000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

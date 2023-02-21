@@ -1,0 +1,32 @@
+{
+  "id": 105591,
+  "url": "https://www.spigotmc.org/resources/time-conditions-commandtimer-extension.105591/",
+  "name": "Time Conditions [CommandTimer extension]",
+  "description": "Add complex time conditions to CommandTimer",
+  "authors": [
+    "titivermeesch"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105591.jpg?1668874033",
+  "iconCid": "bafkreiayyg3d2xwfpcdqn5r24mx7se5j4ot3lo2ahbwuhazx6baicxvqey",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/time-conditions-commandtimer-extension.105591/history",
+  "gitUrl": "https://github.com/titivermeesch/CommandTimer_TimeConditions",
+  "releaseDate": 1664722740000,
+  "updateDate": 1671279120000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

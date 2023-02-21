@@ -1,0 +1,22 @@
+{
+  "id": 104381,
+  "url": "https://www.spigotmc.org/resources/breweryng.104381/",
+  "name": "BreweryNG",
+  "description": "Next-generation brewery plugin for Minecraft servers (maintained fork of Brewery)",
+  "authors": [
+    "Appadeia"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104381.jpg?1660008086",
+  "iconCid": "bafkreicdar4ju4shkz4qybll5m2orhfqnk3ewvojyzmpu7r2uw6ybpt3hi",
+  "numberOfDownloads": 205,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/breweryng.104381/history",
+  "gitUrl": "https://github.com/BlueMoonVineyard/BreweryNG",
+  "releaseDate": 1660004400000,
+  "updateDate": 1676172120000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

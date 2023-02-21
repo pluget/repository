@@ -1,0 +1,26 @@
+{
+  "id": 104987,
+  "url": "https://www.spigotmc.org/resources/ultimate-fireball.104987/",
+  "name": "Ultimate fireball",
+  "description": "Full control over your balls!",
+  "authors": [
+    "iUseRod"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104987.jpg?1662034047",
+  "iconCid": "bafkreig45dgaqqnw425p4c4wggo5u2ndszfavtfbyuxlw4sn4vouuore5y",
+  "numberOfDownloads": 17,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ultimate-fireball.104987/history",
+  "gitUrl": "https://github.com/iInvisibilities/solid-octo-tribble",
+  "releaseDate": 1662030420000,
+  "updateDate": 1662030420000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

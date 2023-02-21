@@ -1,0 +1,21 @@
+{
+  "id": 106990,
+  "url": "https://www.spigotmc.org/resources/advanced-tps.106990/",
+  "name": "Advanced TPS",
+  "description": "Mainly used towards checking server stability and ram usage.",
+  "authors": [
+    "Ugean"
+  ],
+  "numberOfDownloads": 75,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advanced-tps.106990/history",
+  "releaseDate": 1672099740000,
+  "updateDate": 1672099740000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

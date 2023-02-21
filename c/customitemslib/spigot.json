@@ -1,0 +1,30 @@
+{
+  "id": 106375,
+  "url": "https://www.spigotmc.org/resources/customitemslib.106375/",
+  "name": "CustomItemsLib",
+  "description": "A library for BagOfGold and MobHunting",
+  "authors": [
+    "Rocologo"
+  ],
+  "numberOfDownloads": 373,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/customitemslib.106375/history",
+  "gitUrl": "https://github.com/Rocologo/CustomItemsLib",
+  "releaseDate": 1669044480000,
+  "updateDate": 1669575960000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

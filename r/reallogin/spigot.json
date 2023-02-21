@@ -1,0 +1,25 @@
+{
+  "id": 83139,
+  "url": "https://www.spigotmc.org/resources/reallogin.83139/",
+  "name": "RealLogin",
+  "description": "Login plugin with PIN & GUI interaction",
+  "authors": [
+    "JoseGamer_PT"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83139.jpg?1598374928",
+  "iconCid": "bafkreignx57zajvzdwmnzbnym5fl3t2sgig742jc3jb5lkloietdbfxple",
+  "numberOfDownloads": 526,
+  "rating": 4.9,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/reallogin.83139/history",
+  "gitUrl": "https://github.com/JoseGamerPT/RealLogin",
+  "releaseDate": 1598371260000,
+  "updateDate": 1658059320000,
+  "versions": [
+    "1.13",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

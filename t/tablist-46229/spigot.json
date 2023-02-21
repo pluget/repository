@@ -1,0 +1,32 @@
+{
+  "id": 46229,
+  "url": "https://www.spigotmc.org/resources/animated-tab-tablist.46229/",
+  "name": "[Animated Tab] - TabList",
+  "description": "A free alternative tablist with fewer options (This is only for tablist relating)",
+  "authors": [
+    "Toldi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/46/46229.jpg?1523551261",
+  "iconCid": "bafkreide3cs65v3txtyffjm2w2ttezve5r6gtouebb6ijppx47d7cz577m",
+  "numberOfDownloads": 229507,
+  "rating": 4.4,
+  "numberOfVotes": 143,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/animated-tab-tablist.46229/history",
+  "gitUrl": "https://github.com/montlikadani/TabList",
+  "releaseDate": 1676911560000,
+  "updateDate": 1676911560000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

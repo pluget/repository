@@ -1,0 +1,24 @@
+{
+  "id": 96827,
+  "url": "https://www.spigotmc.org/resources/simplegems-1-16-1-19.96827/",
+  "name": "SimpleGems | 1.16 - 1.19",
+  "description": "Add gems to minecraft! A new type of currency to servers!",
+  "authors": [
+    "Refrac"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96827.jpg?1657769386",
+  "iconCid": "bafkreidzr5io4usvux7vlj5godkzx64vawuaqm3qck6zvybl435a6yuavi",
+  "numberOfDownloads": 256,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplegems-1-16-1-19.96827/history",
+  "gitUrl": "https://github.com/RefracDevelopment/SimpleGems",
+  "releaseDate": 1634157900000,
+  "updateDate": 1665271020000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

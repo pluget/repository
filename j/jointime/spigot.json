@@ -1,0 +1,22 @@
+{
+  "id": 100108,
+  "url": "https://www.spigotmc.org/resources/jointime.100108/",
+  "name": "JoinTime",
+  "description": "Find out when a player first joined your server",
+  "authors": [
+    "Kyrobi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100108.jpg?1645163465",
+  "iconCid": "bafkreialt7zhhmgspj62f2nqpdhtz35iwgdyv5i5eol4jrnnwoplklnseq",
+  "numberOfDownloads": 72,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/jointime.100108/history",
+  "gitUrl": "https://github.com/Kyrobi/JoinTime/tree/main",
+  "releaseDate": 1676781120000,
+  "updateDate": 1676781120000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

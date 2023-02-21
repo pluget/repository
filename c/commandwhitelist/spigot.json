@@ -1,0 +1,27 @@
+{
+  "id": 81326,
+  "url": "https://www.spigotmc.org/resources/commandwhitelist-spigot-waterfall-velocity.81326/",
+  "name": "CommandWhitelist - Spigot/Waterfall/Velocity",
+  "description": "Block commands, subcommands and tab completions!",
+  "authors": [
+    "YouHaveTrouble"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81326.jpg?1660506247",
+  "iconCid": "bafkreihpq7xdg23hqegu3inplrk3ub4vqdwe7gmcs4mlhsvrntdjlnawgy",
+  "numberOfDownloads": 8149,
+  "rating": 4.8,
+  "numberOfVotes": 30,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/commandwhitelist-spigot-waterfall-velocity.81326/history",
+  "gitUrl": "https://github.com/YouHaveTrouble/CommandWhitelist",
+  "releaseDate": 1594415580000,
+  "updateDate": 1665249840000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

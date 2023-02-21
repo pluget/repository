@@ -1,0 +1,31 @@
+{
+  "id": 90375,
+  "url": "https://www.spigotmc.org/resources/clientdetector-client-mod-detection-forge-mod-detection-clientcontrol.90375/",
+  "name": "ClientDetector - Client/Mod Detection, Forge Mod Detection, ClientControl",
+  "description": "A simple plugin to detect/manage a player's client.",
+  "authors": [
+    "Sportkanone123"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90375.jpg?1616258526",
+  "iconCid": "bafkreicrmvxk6rgd4eugki5xbogymeoycr56puvekt7wabx2jekvmy7yoa",
+  "numberOfDownloads": 10404,
+  "rating": 4.7,
+  "numberOfVotes": 28,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/clientdetector-client-mod-detection-forge-mod-detection-clientcontrol.90375/history",
+  "gitUrl": "https://github.com/Sportkanone123/ClientDetector",
+  "releaseDate": 1616254860000,
+  "updateDate": 1670766060000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

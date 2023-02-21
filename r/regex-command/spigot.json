@@ -1,0 +1,27 @@
+{
+  "id": 99589,
+  "url": "https://www.spigotmc.org/resources/regex-command-blocker-universal.99589/",
+  "name": "Regex Command Blocker - Universal",
+  "description": "Regex Command Blocker with Tab support for Bungee/Velocity/Bukkit/Spigot/Paper",
+  "authors": [
+    "Tau"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99589.jpg?1643438042",
+  "iconCid": "bafkreihkp6zfifzylovujnsbrax67w6wmfo4a65zkpbpxytgqjqagcw3fm",
+  "numberOfDownloads": 762,
+  "rating": 4.7,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/regex-command-blocker-universal.99589/history",
+  "gitUrl": "https://gitlab.com/TauCu/command-blocker",
+  "releaseDate": 1643434380000,
+  "updateDate": 1670664720000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 103709,
+  "url": "https://www.spigotmc.org/resources/rockwall.103709/",
+  "name": "Rockwall",
+  "description": "A highly configurable, feature-rich chat plugin.",
+  "authors": [
+    "EnterAName"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103709.jpg?1658842383",
+  "iconCid": "bafkreibtj6p6hnvmwrs4pisabvvb4tmjzan6ptqeewqgia7hzqsjx6y6sm",
+  "numberOfDownloads": 168,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rockwall.103709/history",
+  "gitUrl": "https://github.com/HoodieRocks/Rockwall",
+  "releaseDate": 1658838660000,
+  "updateDate": 1671904200000,
+  "versions": [
+    "1.19"
+  ]
+}

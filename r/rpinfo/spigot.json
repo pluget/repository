@@ -1,0 +1,26 @@
+{
+  "id": 104972,
+  "url": "https://www.spigotmc.org/resources/rpinfo-get-info-from-a-player.104972/",
+  "name": "rPinfo | get info from a player",
+  "description": "Get infos from a player with the /pinfo command (Location, rank, gamemode, etc.)",
+  "authors": [
+    "rtz981"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104972.jpg?1661965913",
+  "iconCid": "bafkreihkdp4ene27gzw67az7qhvuukbrjj3xjyys35ltm25evcxnmhxicu",
+  "numberOfDownloads": 36,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rpinfo-get-info-from-a-player.104972/history",
+  "releaseDate": 1661962260000,
+  "updateDate": 1661962260000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

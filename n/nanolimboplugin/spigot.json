@@ -1,0 +1,32 @@
+{
+  "id": 105297,
+  "url": "https://www.spigotmc.org/resources/nanolimboplugin.105297/",
+  "name": "NanoLimboPlugin",
+  "description": "Launch multiple NanoLimbo servers as plugin in BungeeCord, Velocity",
+  "authors": [
+    "Gdame"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105297.jpg?1663240134",
+  "iconCid": "bafkreifzqt4rfayqyf2hprwcu2vomz6ykmzd23rjibmdioyhplw6db77iy",
+  "numberOfDownloads": 170,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nanolimboplugin.105297/history",
+  "gitUrl": "https://github.com/bivashy/NanoLimboPlugin",
+  "releaseDate": 1676563260000,
+  "updateDate": 1676563260000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

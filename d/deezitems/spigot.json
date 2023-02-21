@@ -1,0 +1,21 @@
+{
+  "id": 103356,
+  "url": "https://www.spigotmc.org/resources/deezitems.103356/",
+  "name": "DeezItems",
+  "description": "Easily create custom items for your server",
+  "authors": [
+    "AkiraDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103356.jpg?1657784177",
+  "iconCid": "bafkreigpqtxfyu4un33xihlzdjsbpqr5rfzmrnap3umgwddjwrstq4ghlq",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/deezitems.103356/history",
+  "gitUrl": "https://github.com/AkiraDevelopment/DeezItems",
+  "releaseDate": 1657780560000,
+  "updateDate": 1658657040000,
+  "versions": [
+    "1.19"
+  ]
+}

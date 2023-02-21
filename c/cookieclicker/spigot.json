@@ -1,0 +1,32 @@
+{
+  "id": 75140,
+  "url": "https://www.spigotmc.org/resources/cookieclicker.75140/",
+  "name": "CookieClicker",
+  "description": "Thats a small Cookie-Clicker System",
+  "authors": [
+    "DeaDorfd"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75140.jpg?1581522761",
+  "iconCid": "bafkreiczyvqsxabomuocrvwi7674io2i5k76bslefbduiq5z3qlhyp4ree",
+  "numberOfDownloads": 108,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cookieclicker.75140/history",
+  "gitUrl": "https://github.com/DeaDorfd/CookieClicker",
+  "releaseDate": 1581519120000,
+  "updateDate": 1668441960000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

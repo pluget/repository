@@ -1,0 +1,27 @@
+{
+  "id": 76021,
+  "url": "https://www.spigotmc.org/resources/random-teleport-all-world-types-supported-1-19-1.76021/",
+  "name": "Random Teleport [All world types supported] [1.19.1]",
+  "description": "Teleport players to a random safe location. Supports protection plugins and all world types.",
+  "authors": [
+    "DarkEyeDragon"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/76/76021.jpg?1584112033",
+  "iconCid": "bafkreig3k6zxrmyiiqn7eggg4qls7dubqzhdueiukyepb7a4l5ftiipaci",
+  "numberOfDownloads": 15800,
+  "rating": 4.8,
+  "numberOfVotes": 35,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/random-teleport-all-world-types-supported-1-19-1.76021/history",
+  "gitUrl": "https://github.com/DarkEyeDragon/RandomTeleport",
+  "releaseDate": 1584108420000,
+  "updateDate": 1659041400000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

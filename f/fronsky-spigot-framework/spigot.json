@@ -1,0 +1,27 @@
+{
+  "id": 107374,
+  "url": "https://www.spigotmc.org/resources/fronsky-spigot-framework.107374/",
+  "name": "Fronsky Spigot Framework",
+  "description": "Experience the full potential of Minecraft with the Fronsky Spigot Framework",
+  "authors": [
+    "Fronsky"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107374.jpg?1676539981",
+  "iconCid": "bafkreifanfhrujlotbbu4opyfkqpreta3r5yksugxje4525cztoeogsro4",
+  "numberOfDownloads": 106,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fronsky-spigot-framework.107374/history",
+  "gitUrl": "https://www.fronsky.com/github.spigot-framework",
+  "releaseDate": 1676492880000,
+  "updateDate": 1676492880000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 59568,
+  "url": "https://www.spigotmc.org/resources/scalaloader.59568/",
+  "name": "ScalaLoader",
+  "description": "Write plugins in Scala!",
+  "authors": [
+    "Jannyboy11"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/59/59568.jpg?1583324904",
+  "iconCid": "bafkreih7dc7vhrhdpgk34nfdragitr5tftkwgnlaj6qzvbuv33yfmybody",
+  "numberOfDownloads": 1989,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/scalaloader.59568/history",
+  "gitUrl": "https://github.com/Jannyboy11/ScalaPluginLoader",
+  "releaseDate": 1533653640000,
+  "updateDate": 1665225180000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

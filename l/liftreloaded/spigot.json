@@ -1,0 +1,23 @@
+{
+  "id": 97551,
+  "url": "https://www.spigotmc.org/resources/liftreloaded.97551/",
+  "name": "LiftReloaded",
+  "description": "Simple and realistic elevators",
+  "authors": [
+    "kikelkik"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97551.jpg?1637851718",
+  "iconCid": "bafkreifr5jcxrc652hilmp4dguqak6gknx75bri7vunmmplawfmfdk54rq",
+  "numberOfDownloads": 2072,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/liftreloaded.97551/history",
+  "gitUrl": "https://github.com/kikelkik/LiftReloaded",
+  "releaseDate": 1636652760000,
+  "updateDate": 1675415160000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

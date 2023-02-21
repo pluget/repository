@@ -1,0 +1,32 @@
+{
+  "id": 107023,
+  "url": "https://www.spigotmc.org/resources/kore-1-8-x-1-19-x.107023/",
+  "name": "Kore [1.8.X-1.19.X]",
+  "description": "Core plugin for some utils",
+  "authors": [
+    "andry_slayer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107023.jpg?1672266566",
+  "iconCid": "bafkreifeyfmnml22qwbu356fpasd5x7p45b7lzvnw2mnkf3h4wxvauhjai",
+  "numberOfDownloads": 133,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kore-1-8-x-1-19-x.107023/history",
+  "gitUrl": "https://github.com/GhostAndry/Kore",
+  "releaseDate": 1672262940000,
+  "updateDate": 1672997700000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

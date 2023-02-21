@@ -1,0 +1,22 @@
+{
+  "id": 105115,
+  "url": "https://www.spigotmc.org/resources/realskywars.105115/",
+  "name": "RealSkywars",
+  "description": "A New SkyWars plugin that's been coded on the 1.14 API.",
+  "authors": [
+    "JoseGamer_PT"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105115.jpg?1662489296",
+  "iconCid": "bafkreih3gwi4a4jd3vfvsw6b4523ochycnhowzenshxhfzfh2w5hzgrnhe",
+  "numberOfDownloads": 62,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/realskywars.105115/history",
+  "gitUrl": "https://github.com/joserodpt/RealSkywars",
+  "releaseDate": 1662485640000,
+  "updateDate": 1669633980000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

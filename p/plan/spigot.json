@@ -1,0 +1,33 @@
+{
+  "id": 32536,
+  "url": "https://www.spigotmc.org/resources/plan-player-analytics.32536/",
+  "name": "Plan | Player Analytics",
+  "description": "The Ultimate Tool to monitor Minecraft player activity! Bukkit/Sponge/Bungee/Velocity support.",
+  "authors": [
+    "AuroraLS3"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/32/32536.jpg?1531686588",
+  "iconCid": "bafkreidc2jexhlhpmzgdckp7z2mwx4c4zi6jr5fmvimkypxz6363ytzvre",
+  "numberOfDownloads": 54906,
+  "rating": 4.8,
+  "numberOfVotes": 210,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/plan-player-analytics.32536/history",
+  "gitUrl": "https://github.com/plan-player-analytics",
+  "releaseDate": 1480541460000,
+  "updateDate": 1673768940000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

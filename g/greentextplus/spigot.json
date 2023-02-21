@@ -1,0 +1,24 @@
+{
+  "id": 84250,
+  "url": "https://www.spigotmc.org/resources/greentextplus.84250/",
+  "name": "GreenTextPlus",
+  "description": "Adds greentext and rainbowtext, also chat formatting",
+  "authors": [
+    "CarsonDDD"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84250.jpg?1601188488",
+  "iconCid": "bafkreidupyzujnxzv2t5xubhj37lsuj3ifmuozbvmf3iktdlzn5djksuj4",
+  "numberOfDownloads": 130,
+  "rating": 3,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/greentextplus.84250/history",
+  "releaseDate": 1601184840000,
+  "updateDate": 1667770260000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

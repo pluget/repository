@@ -1,0 +1,26 @@
+{
+  "id": 101790,
+  "url": "https://www.spigotmc.org/resources/simplifytools.101790/",
+  "name": "SimplifyTools",
+  "description": "An 'All-in-one' plugin. TabList Customizing, Custom Advancement, Connect messages, AutoSave, Logger.",
+  "authors": [
+    "SimplifyDave"
+  ],
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplifytools.101790/history",
+  "gitUrl": "https://github.com/LabodiDavid/SimplifyTools",
+  "releaseDate": 1676668740000,
+  "updateDate": 1676668740000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

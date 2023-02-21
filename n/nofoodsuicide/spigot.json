@@ -1,0 +1,21 @@
+{
+  "id": 104875,
+  "url": "https://www.spigotmc.org/resources/nofoodsuicide.104875/",
+  "name": "NoFoodSuicide",
+  "description": "Makes your players stop dying to recover their food level",
+  "authors": [
+    "Georglider"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104875.jpg?1661634787",
+  "iconCid": "bafkreifznynzmphruynnopnt7w47de2t6eq3zi3dubcghzoynllxqod5xe",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nofoodsuicide.104875/history",
+  "gitUrl": "https://github.com/Georglider/NoFoodSuicide",
+  "releaseDate": 1661631120000,
+  "updateDate": 1661631120000,
+  "versions": [
+    "1.18"
+  ]
+}

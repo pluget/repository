@@ -1,0 +1,33 @@
+{
+  "id": 107703,
+  "url": "https://www.spigotmc.org/resources/logfilter.107703/",
+  "name": "LogFilter",
+  "description": "Filter messages sent to your Velocity, BungeeCord, Sponge, Spigot and Krypton console",
+  "authors": [
+    "adrianed04"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107703.jpg?1675045843",
+  "iconCid": "bafkreicjsujajugndnwaurirhf4fjwibll4in3czrpxewdcbrgnsxi5444",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/logfilter.107703/history",
+  "gitUrl": "https://github.com/4drian3d/LogFilter/",
+  "releaseDate": 1675042200000,
+  "updateDate": 1675894980000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 100941,
+  "url": "https://www.spigotmc.org/resources/tether.100941/",
+  "name": "Tether",
+  "description": "Grants the ability to use a lead on any mob, and players.",
+  "authors": [
+    "Naspo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100941.jpg?1650746068",
+  "iconCid": "bafkreignwxayqycspuwbokvdr7pe4ymsqsf3wfbyy63liwiqbs4eeuqdru",
+  "numberOfDownloads": 2164,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tether.100941/history",
+  "gitUrl": "https://github.com/NaspoDev/Tether",
+  "releaseDate": 1648154760000,
+  "updateDate": 1671827100000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 48399,
+  "url": "https://www.spigotmc.org/resources/ac-negativity-spigot-1-7-1-19-sponge-bungeecord-velocity.48399/",
+  "name": "AC - Negativity [Spigot 1.7-1.19, Sponge, BungeeCord & Velocity]",
+  "description": "It's an anti cheat !",
+  "authors": [
+    "Elikill58"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/48/48399.jpg?1626514647",
+  "iconCid": "bafkreid6xh5eo44jvnn4z7dvfjkvnvcckwi4esugsweia4cca6hu22c2i4",
+  "numberOfDownloads": 113908,
+  "rating": 4,
+  "numberOfVotes": 144,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ac-negativity-spigot-1-7-1-19-sponge-bungeecord-velocity.48399/history",
+  "gitUrl": "https://github.com/Elikill58/Negativity",
+  "releaseDate": 1507999500000,
+  "updateDate": 1672823580000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

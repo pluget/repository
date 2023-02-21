@@ -1,0 +1,32 @@
+{
+  "id": 19362,
+  "url": "https://www.spigotmc.org/resources/loginsecurity.19362/",
+  "name": "LoginSecurity",
+  "description": "Simple, light, fast and secure user authentication management. Since 2012.",
+  "authors": [
+    "lenis0012"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/19/19362.jpg?1456928968",
+  "iconCid": "bafkreifvvdmgis5x73bewqluo4kue3osqf6na6se6wcmuonsxpzfqjm234",
+  "numberOfDownloads": 1204476,
+  "rating": 4.1,
+  "numberOfVotes": 138,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/loginsecurity.19362/history",
+  "gitUrl": "https://github.com/lenis0012/LoginSecurity-2",
+  "releaseDate": 1456925340000,
+  "updateDate": 1673960040000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

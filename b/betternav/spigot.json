@@ -1,0 +1,26 @@
+{
+  "id": 89438,
+  "url": "https://www.spigotmc.org/resources/betternav.89438/",
+  "name": "BetterNav",
+  "description": "The coordinate system reinvented. Easily navigate to waypoints or even other players!",
+  "authors": [
+    "Tooni_Warri"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89438.jpg?1614121696",
+  "iconCid": "bafkreiblg7rkl56y6dujq2rcmdpl65tlblv57ekgm5eigrhk2qyggggj3y",
+  "numberOfDownloads": 1820,
+  "rating": 5,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betternav.89438/history",
+  "gitUrl": "https://github.com/ThomasVerschoor/Betternav_plugin",
+  "releaseDate": 1614118080000,
+  "updateDate": 1659979020000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

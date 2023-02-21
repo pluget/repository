@@ -1,0 +1,23 @@
+{
+  "id": 100244,
+  "url": "https://www.spigotmc.org/resources/deathmessages.100244/",
+  "name": "DeathMessages",
+  "description": "Adds in customizable death messages to the server",
+  "authors": [
+    "Brand0n_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100244.jpg?1656563502",
+  "iconCid": "bafkreicurqwxjex2gscllyu7smyb54kpi3c7z5da6mfvfxah2yodoc5aw4",
+  "numberOfDownloads": 252,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/deathmessages.100244/history",
+  "releaseDate": 1645593060000,
+  "updateDate": 1661919660000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 104371,
+  "url": "https://www.spigotmc.org/resources/lifesteal-smp-added-multi-world-support.104371/",
+  "name": "Lifesteal SMP- Added Multi World Support!",
+  "description": "-The perfect plugin for your SMP!",
+  "authors": [
+    "SpaceNiklas"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104371.jpg?1659983159",
+  "iconCid": "bafkreihzcrafmqdupba44cwnm27wlwfgkjczxy7ayhsn463dep772kymly",
+  "numberOfDownloads": 497,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lifesteal-smp-added-multi-world-support.104371/history",
+  "gitUrl": "https://github.com/SpaceNiklas/Lifesteal",
+  "releaseDate": 1659979500000,
+  "updateDate": 1663256220000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

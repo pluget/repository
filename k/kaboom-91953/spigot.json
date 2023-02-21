@@ -1,0 +1,28 @@
+{
+  "id": 91953,
+  "url": "https://www.spigotmc.org/resources/kaboom.91953/",
+  "name": "kaboom.",
+  "description": "A command that sends the players in the air",
+  "authors": [
+    "PillowMan67"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91953.jpg?1629400937",
+  "iconCid": "bafkreigteld5dpi2c5snmgxt6kyszutz5wvpq6nftf6cthk4h5yqjisewi",
+  "numberOfDownloads": 290,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kaboom.91953/history",
+  "gitUrl": "https://github.com/OkKloon/Kaboom",
+  "releaseDate": 1619958300000,
+  "updateDate": 1661866320000,
+  "versions": [
+    "1.9",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 55955,
+  "url": "https://www.spigotmc.org/resources/grappling-hook.55955/",
+  "name": "Grappling Hook",
+  "description": "A free simple Grappling Hook plugin :)",
+  "authors": [
+    "Keule2"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/55/55955.jpg?1524610249",
+  "iconCid": "bafkreicjbcc75yslgiituvsg7cv22ivwvtwgax7ks2kwdp2o5tqjficqtq",
+  "numberOfDownloads": 10190,
+  "rating": 4.4,
+  "numberOfVotes": 14,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/grappling-hook.55955/history",
+  "gitUrl": "https://github.com/Keule22/Minecraft-grapplinghook",
+  "releaseDate": 1524356940000,
+  "updateDate": 1659916620000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

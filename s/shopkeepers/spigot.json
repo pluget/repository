@@ -1,0 +1,24 @@
+{
+  "id": 80756,
+  "url": "https://www.spigotmc.org/resources/shopkeepers.80756/",
+  "name": "Shopkeepers",
+  "description": "Custom villager shopkeepers that trade exactly what you want them to trade!",
+  "authors": [
+    "blablubbabc"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80756.jpg?1593268810",
+  "iconCid": "bafkreigxzrsfmrnsqppsxfdylq5qgx2vflgrori3ehl4eg5ufdzu43drwe",
+  "numberOfDownloads": 206305,
+  "rating": 4.8,
+  "numberOfVotes": 31,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/shopkeepers.80756/history",
+  "gitUrl": "https://github.com/Shopkeepers/Shopkeepers",
+  "releaseDate": 1593265080000,
+  "updateDate": 1673887080000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

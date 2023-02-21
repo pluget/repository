@@ -1,0 +1,23 @@
+{
+  "id": 108060,
+  "url": "https://www.spigotmc.org/resources/simplepets-gemseconomy-addon.108060/",
+  "name": "[SimplePets] GemsEconomy Addon",
+  "description": "[SimplePetsAddon] Hooks into the GemsEconomy Plugin To make it possible to buy pets in-game",
+  "authors": [
+    "brainsynder"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108060.jpg?1676653568",
+  "iconCid": "bafkreiemhsedz4mcmaukfj67u5ukr4s7gwkgcs5vfi73kgdyisytu6cscy",
+  "numberOfDownloads": 14,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplepets-gemseconomy-addon.108060/history",
+  "gitUrl": "https://github.com/BSDevelopers/GemsEconomyAddon",
+  "releaseDate": 1676649960000,
+  "updateDate": 1676649960000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

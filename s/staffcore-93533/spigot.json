@@ -1,0 +1,31 @@
+{
+  "id": 93533,
+  "url": "https://www.spigotmc.org/resources/staffcore-bungee-1-8-1-18.93533/",
+  "name": "StaffCore-Bungee [1.8 - 1.18]",
+  "description": "The best solution to fight rulebreakers with the best features possible for your ProxyServer!",
+  "authors": [
+    "LacoDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93533.jpg?1624372715",
+  "iconCid": "bafkreiaaofwqw23xaoveir766p5u754ijvaalsm5e744ppy77nkfntlhru",
+  "numberOfDownloads": 1576,
+  "rating": 4.5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/staffcore-bungee-1-8-1-18.93533/history",
+  "gitUrl": "https://github.com/LacoDev/StaffCore-Bungee",
+  "releaseDate": 1624369080000,
+  "updateDate": 1661703540000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

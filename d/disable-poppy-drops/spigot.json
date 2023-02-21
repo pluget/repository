@@ -1,0 +1,21 @@
+{
+  "id": 103785,
+  "url": "https://www.spigotmc.org/resources/disable-poppy-drops.103785/",
+  "name": "Disable Poppy Drops",
+  "description": "A simple plugin to disable poppy drops from Iron Golems.",
+  "authors": [
+    "MrJoachim"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103785.jpg?1659114947",
+  "iconCid": "bafkreigcrrbfrftcacvv7msy4ra56gb437ciautak4zinf4saksv3rsxr4",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/disable-poppy-drops.103785/history",
+  "gitUrl": "https://github.com/MrJoachim/DisablePoppyDrops/",
+  "releaseDate": 1659111120000,
+  "updateDate": 1659111120000,
+  "versions": [
+    "1.18"
+  ]
+}

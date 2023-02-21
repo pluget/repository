@@ -1,0 +1,31 @@
+{
+  "id": 3836,
+  "url": "https://www.spigotmc.org/resources/nametagedit.3836/",
+  "name": "NametagEdit",
+  "description": "Change prefix, suffix and tabs with NametagEdit.",
+  "authors": [
+    "Cory"
+  ],
+  "numberOfDownloads": 1270943,
+  "rating": 4,
+  "numberOfVotes": 382,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nametagedit.3836/history",
+  "gitUrl": "https://github.com/sgtcaze/NametagEdit",
+  "releaseDate": 1423376160000,
+  "updateDate": 1672186920000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

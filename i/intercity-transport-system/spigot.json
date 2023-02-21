@@ -1,0 +1,25 @@
+{
+  "id": 83531,
+  "url": "https://www.spigotmc.org/resources/intercity-transport-system.83531/",
+  "name": "InterCity Transport System",
+  "description": "A plugin that allow minecart to travel between bungee-cord servers",
+  "authors": [
+    "hasunemiku2015"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83531.jpg?1599234385",
+  "iconCid": "bafkreidljq2opcpkxewhxhybor5zmwchgljpzwfyyan47g43svmwwvdr74",
+  "numberOfDownloads": 171,
+  "rating": 4,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/intercity-transport-system.83531/history",
+  "gitUrl": "https://github.com/Hasunemiku2015/InterCity-Transport-System",
+  "releaseDate": 1599230700000,
+  "updateDate": 1660383960000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.18"
+  ]
+}

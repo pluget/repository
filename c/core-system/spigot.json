@@ -1,0 +1,28 @@
+{
+  "id": 56780,
+  "url": "https://www.spigotmc.org/resources/core.56780/",
+  "name": "Core",
+  "description": "Core system for my plugins [DabCore + ChatAPI Combines]",
+  "authors": [
+    "Dablakbandit"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/56/56780.jpg?1528004895",
+  "iconCid": "bafkreierjsvmrnwxpg46kr5ecoadk47klhkyo2tjdr33aozvraoeqwxuja",
+  "numberOfDownloads": 10708,
+  "rating": 4.7,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/core.56780/history",
+  "gitUrl": "https://github.com/Dablakbandit/Core",
+  "releaseDate": 1526432460000,
+  "updateDate": 1671521820000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

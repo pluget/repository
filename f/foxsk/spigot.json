@@ -1,0 +1,26 @@
+{
+  "id": 93426,
+  "url": "https://www.spigotmc.org/resources/foxsk.93426/",
+  "name": "FoxSK",
+  "description": "[1.14-1.19.*] Addon for Skript",
+  "authors": [
+    "GempXPlay"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93426.jpg?1647847648",
+  "iconCid": "bafkreibo6ijaiuvvphrlytdk2qfhsso527hc7nqkcjljpfxfsxq7goftja",
+  "numberOfDownloads": 1889,
+  "rating": 2.3,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/foxsk.93426/history",
+  "gitUrl": "https://github.com/OneGuardStudio/WOLFSK2",
+  "releaseDate": 1624035300000,
+  "updateDate": 1671337860000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

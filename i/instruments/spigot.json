@@ -1,0 +1,23 @@
+{
+  "id": 106584,
+  "url": "https://www.spigotmc.org/resources/instruments.106584/",
+  "name": "Instruments",
+  "description": "Enrich your server with playable instruments with actual chords, PERFECT for role play",
+  "authors": [
+    "JacekWoln"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106584.jpg?1670194969",
+  "iconCid": "bafkreiakdbn6bxnhgdtx47jt3ytfrsm3dwuwthr3c7u7tlq3r565juu5r4",
+  "numberOfDownloads": 162,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/instruments.106584/history",
+  "gitUrl": "https://github.com/jwdeveloper/JW_Instruments",
+  "releaseDate": 1670191320000,
+  "updateDate": 1670269200000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

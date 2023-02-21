@@ -1,0 +1,31 @@
+{
+  "id": 106975,
+  "url": "https://www.spigotmc.org/resources/chat-isolation.106975/",
+  "name": "Chat Isolation",
+  "description": "Let different worlds have different chats.",
+  "authors": [
+    "Alomy686"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106975.jpg?1672038066",
+  "iconCid": "bafkreidgfnxwsbnaiekqsvj4yew4v67ox5bcg4r5bjc6zqzwc4zv4qqtx4",
+  "numberOfDownloads": 23,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chat-isolation.106975/history",
+  "releaseDate": 1672034400000,
+  "updateDate": 1672034400000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 102867,
+  "url": "https://www.spigotmc.org/resources/cavas-anti-cheat.102867/",
+  "name": "Cava's Anti Cheat",
+  "description": "A client-side Forge mod and a server-side Spigot plugin that form a powerful client-server anticheat",
+  "authors": [
+    "Tigierrei"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102867.jpg?1656073284",
+  "iconCid": "bafkreiag3d424cmds2ge4coczcmjrk4pk5jig4cqpel5q6nnep7eza75c4",
+  "numberOfDownloads": 500,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cavas-anti-cheat.102867/history",
+  "gitUrl": "https://github.com/Filocava99/CavaAntiCheat",
+  "releaseDate": 1656069660000,
+  "updateDate": 1658388540000,
+  "versions": [
+    "1.19"
+  ]
+}

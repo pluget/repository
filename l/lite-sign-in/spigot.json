@@ -1,0 +1,33 @@
+{
+  "id": 79584,
+  "url": "https://www.spigotmc.org/resources/lite-sign-in-1-7-1-19-sign-in-rewards-chest-gui-leaderboard-mysql-sqlite.79584/",
+  "name": "Lite Sign In [1.7-1.19] | Sign-in rewards | Chest GUI | Leaderboard | MySQL & SQLite",
+  "description": "Record each player's sign-in and give them rewards, This process will become interesting!",
+  "authors": [
+    "TRCStudioDean"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79584.jpg?1591107128",
+  "iconCid": "bafkreie37wk3zjwhqrp7jk5clayk4egrgfmvlv375urt2r7x62p2m67tsu",
+  "numberOfDownloads": 14143,
+  "rating": 5,
+  "numberOfVotes": 34,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lite-sign-in-1-7-1-19-sign-in-rewards-chest-gui-leaderboard-mysql-sqlite.79584/history",
+  "gitUrl": "https://github.com/TRCStudioDean/LiteSignIn",
+  "releaseDate": 1591103460000,
+  "updateDate": 1667741280000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

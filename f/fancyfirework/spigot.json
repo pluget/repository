@@ -1,0 +1,23 @@
+{
+  "id": 98809,
+  "url": "https://www.spigotmc.org/resources/fancyfirework.98809/",
+  "name": "FancyFirework",
+  "description": "Simple plugin that adds custom fireworks to your server. Supports NuVotifier for vote rewards!",
+  "authors": [
+    "fantahund99"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98809.jpg?1640888419",
+  "iconCid": "bafkreidbxawheiqelk762velhnygsuun7omtypyjxs7mhch5o6q5ven3tu",
+  "numberOfDownloads": 663,
+  "rating": 4.8,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fancyfirework.98809/history",
+  "gitUrl": "https://github.com/fantahund/FancyFirework",
+  "releaseDate": 1640884800000,
+  "updateDate": 1672582740000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 103362,
+  "url": "https://www.spigotmc.org/resources/%C2%BB%E2%9C%A8-heal-feed-1-8-1-19-%E2%9C%A8%C2%AB.103362/",
+  "name": "»✨ Heal - Feed [1.8-1.19] ✨«",
+  "description": "✨ This is a simple Heal / Feed Plugin to heal you or others. [Config - Permissions - Prefix]✨",
+  "authors": [
+    "verknockt"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103362.jpg?1657802503",
+  "iconCid": "bafkreigvnalf7kebpjiw6pe6artwxdyoqrt4bwbpawkusddfvjdh25v7hm",
+  "numberOfDownloads": 167,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%C2%BB%E2%9C%A8-heal-feed-1-8-1-19-%E2%9C%A8%C2%AB.103362/history",
+  "gitUrl": "https://github.com/momochqn/Heal-Feed",
+  "releaseDate": 1657798860000,
+  "updateDate": 1657798860000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

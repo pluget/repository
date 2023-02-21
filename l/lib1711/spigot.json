@@ -1,0 +1,31 @@
+{
+  "id": 35982,
+  "url": "https://www.spigotmc.org/resources/lib1711.35982/",
+  "name": "Lib1711",
+  "description": "Dependency for all my premium plugins",
+  "authors": [
+    "adri1711"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/35/35982.jpg?1486495401",
+  "iconCid": "bafkreidw5ldaxozvgttuc735v46mzrzhyq5u5pa5lgs7tzhihhzx2b62f4",
+  "numberOfDownloads": 4358,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lib1711.35982/history",
+  "releaseDate": 1486491780000,
+  "updateDate": 1675939560000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

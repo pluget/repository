@@ -1,0 +1,33 @@
+{
+  "id": 72794,
+  "url": "https://www.spigotmc.org/resources/proxyconsolechat.72794/",
+  "name": "ProxyConsoleChat",
+  "description": "Read server chat from the proxy console.",
+  "authors": [
+    "Ranull"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/72/72794.jpg?1596215040",
+  "iconCid": "bafkreierw2r5xpaszpnymmfwfonjiguwa3rpxaxk6got7dbzk4bmstbcg4",
+  "numberOfDownloads": 272,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/proxyconsolechat.72794/history",
+  "gitUrl": "https://gitlab.com/ranull/minecraft/proxyconsolechat",
+  "releaseDate": 1573981200000,
+  "updateDate": 1672153920000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

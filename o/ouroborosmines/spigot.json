@@ -1,0 +1,26 @@
+{
+  "id": 72325,
+  "url": "https://www.spigotmc.org/resources/ouroboros-mines.72325/",
+  "name": "Ouroboros-Mines",
+  "description": "Create regenerative mines with a simple world-guard-flag.",
+  "authors": [
+    "Th3Shadowbroker"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/72/72325.jpg?1577455296",
+  "iconCid": "bafkreigzuljucfgz7r4bcwwzjixd44n6uasbc7gt55j3qocicupfbck63i",
+  "numberOfDownloads": 1358,
+  "rating": 5,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ouroboros-mines.72325/history",
+  "gitUrl": "https://github.com/Th3Shadowbroker/OuroborosMines",
+  "releaseDate": 1572173640000,
+  "updateDate": 1675502220000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

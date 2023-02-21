@@ -1,0 +1,28 @@
+{
+  "id": 92212,
+  "url": "https://www.spigotmc.org/resources/marketplace-1-12-1-19.92212/",
+  "name": "MarketPlace | 1.12 - 1.19",
+  "description": "MarketPlace is a market plugin where all players can buy or/and sell their items with commands & GUI",
+  "authors": [
+    "fabien91"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92212.jpg?1620595786",
+  "iconCid": "bafkreihsssjt7nfkfazvvpppta4r3t2cxgzh5i4o77zumzb64uitm24upq",
+  "numberOfDownloads": 3090,
+  "rating": 4.6,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/marketplace-1-12-1-19.92212/history",
+  "gitUrl": "https://github.com/fhebuterne/MarketPlace",
+  "releaseDate": 1620592140000,
+  "updateDate": 1674999540000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

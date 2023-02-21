@@ -1,0 +1,23 @@
+{
+  "id": 74062,
+  "url": "https://www.spigotmc.org/resources/craftplus.74062/",
+  "name": "CraftPlus",
+  "description": "Craft+ add more recipes and grass paths crafting",
+  "authors": [
+    "raffa50"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/74/74062.jpg?1578222331",
+  "iconCid": "bafkreicxaqbgga7ibblxtzszdonppncree2tdu2kkdyodsldla4guk74p4",
+  "numberOfDownloads": 354,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/craftplus.74062/history",
+  "gitUrl": "https://github.com/Raffa50/Spigot-CraftPlus",
+  "releaseDate": 1578218700000,
+  "updateDate": 1673896860000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 98418,
+  "url": "https://www.spigotmc.org/resources/packetwhitelistnbt.98418/",
+  "name": "PacketWhitelistNbt",
+  "description": "Filter NBT sent to the client | Customizable | Reduce network use",
+  "authors": [
+    "XUAN_Cat"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98418.jpg?1639651680",
+  "iconCid": "bafkreicj5u4t5ewpxppwzbogimqvjvgoyzi7yhxv3blyqnoldnjnbee75u",
+  "numberOfDownloads": 510,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/packetwhitelistnbt.98418/history",
+  "gitUrl": "https://github.com/SpigotPlugins-xuancat0208/PacketWhitelistNbt",
+  "releaseDate": 1639648020000,
+  "updateDate": 1670872860000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

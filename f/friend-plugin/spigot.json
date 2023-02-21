@@ -1,0 +1,27 @@
+{
+  "id": 105581,
+  "url": "https://www.spigotmc.org/resources/friend-plugin.105581/",
+  "name": "Friend Plugin",
+  "description": "Add friends to the server!",
+  "authors": [
+    "CMarco"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105581.jpg?1664712473",
+  "iconCid": "bafkreibahjyfc6y4sb6uelya4lbct5v4pb6s7f2hfyp76kri53c7age4ya",
+  "numberOfDownloads": 63,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/friend-plugin.105581/history",
+  "releaseDate": 1664708820000,
+  "updateDate": 1664708820000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 76907,
+  "url": "https://www.spigotmc.org/resources/farmingupgrade.76907/",
+  "name": "FarmingUpgrade",
+  "description": "Upgraded farming mechanics.",
+  "authors": [
+    "Torm"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/76/76907.jpg?1593143668",
+  "iconCid": "bafkreidcnw7middbqw7sbwfbgafu7kndpeudnhkqcrlrtrcw3nfd3zmple",
+  "numberOfDownloads": 5821,
+  "rating": 5,
+  "numberOfVotes": 18,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/farmingupgrade.76907/history",
+  "gitUrl": "https://github.com/hypmc/FarmingUpgrade",
+  "releaseDate": 1585922580000,
+  "updateDate": 1675184880000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

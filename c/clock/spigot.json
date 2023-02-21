@@ -1,0 +1,24 @@
+{
+  "id": 104839,
+  "url": "https://www.spigotmc.org/resources/clock.104839/",
+  "name": "clock",
+  "description": "send the time signal",
+  "authors": [
+    "Marumasa"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104839.jpg?1661539222",
+  "iconCid": "bafkreifsuauhy6gcedacb7jl37fhhfkn75y4xnchgw3dwfnq246kzs7ecm",
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/clock.104839/history",
+  "gitUrl": "https://github.com/malken21/Minecraft_clock_Spigot",
+  "releaseDate": 1661535240000,
+  "updateDate": 1661535240000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

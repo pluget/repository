@@ -1,0 +1,28 @@
+{
+  "id": 106359,
+  "url": "https://www.spigotmc.org/resources/nekomaid.106359/",
+  "name": "NekoMaid",
+  "description": "Web-based Server Management | File Editor | Item & Block & Entity NBT Editing | Realtime Timings",
+  "authors": [
+    "Shirasawa"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106359.jpg?1668981467",
+  "iconCid": "bafkreidz6g4lw5yub77mdory7n2irzcdtiswt542dbpntcnxp7xpopnebi",
+  "numberOfDownloads": 192,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nekomaid.106359/history",
+  "gitUrl": "https://github.com/neko-craft/NekoMaid",
+  "releaseDate": 1668977820000,
+  "updateDate": 1669039680000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

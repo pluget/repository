@@ -1,0 +1,24 @@
+{
+  "id": 90453,
+  "url": "https://www.spigotmc.org/resources/lootin-1-16-1-19-no-more-already-looted-chests.90453/",
+  "name": "Lootin [1.16 - 1.19] - no more already looted chests",
+  "description": "unique inventories for every loot chest for every player on a server.",
+  "authors": [
+    "sachingorkar"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90453.jpg?1616412184",
+  "iconCid": "bafkreihkieatnbmzjs4zsfrscakghoffgnoqswixku2526h5sgfj4dkb7m",
+  "numberOfDownloads": 4813,
+  "rating": 4.6,
+  "numberOfVotes": 25,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lootin-1-16-1-19-no-more-already-looted-chests.90453/history",
+  "gitUrl": "https://github.com/sachingorkar102/Lootin-plugin",
+  "releaseDate": 1616408520000,
+  "updateDate": 1661757660000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

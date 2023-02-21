@@ -1,0 +1,32 @@
+{
+  "id": 104771,
+  "url": "https://www.spigotmc.org/resources/easyauthorization.104771/",
+  "name": "EasyAuthorization",
+  "description": "A login authorization plugin with Gui",
+  "authors": [
+    "zhangyang0204"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104771.jpg?1661259105",
+  "iconCid": "bafkreigbellvfi5lzx5psfthmornft6xjdfhdjdb2nlglhbboivm756j5q",
+  "numberOfDownloads": 993,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/easyauthorization.104771/history",
+  "gitUrl": "https://github.com/ZhangYang0204/easy-authorization",
+  "releaseDate": 1661255460000,
+  "updateDate": 1671287100000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

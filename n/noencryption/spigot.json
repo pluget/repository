@@ -1,0 +1,21 @@
+{
+  "id": 102902,
+  "url": "https://www.spigotmc.org/resources/noencryption.102902/",
+  "name": "NoEncryption",
+  "description": "Removes chat message encryption",
+  "authors": [
+    "Doclic"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102902.jpg?1656945590",
+  "iconCid": "bafkreifa3hvfttlic6wm7pv3iqexp4a2ct6dq7cl66xou555ulnqww7qpy",
+  "numberOfDownloads": 7980,
+  "rating": 4.6,
+  "numberOfVotes": 38,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/noencryption.102902/history",
+  "gitUrl": "https://github.com/Doclic/NoEncryption/",
+  "releaseDate": 1656181620000,
+  "updateDate": 1663850100000,
+  "versions": [
+    "1.19"
+  ]
+}

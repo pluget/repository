@@ -1,0 +1,31 @@
+{
+  "id": 104551,
+  "url": "https://www.spigotmc.org/resources/hancommandblocker-simple-command-blocker-the-plugin-everyone-is-looking-for.104551/",
+  "name": "HanCommandBlocker | Simple Command Blocker | The plugin everyone is looking for",
+  "description": "Command Blocker",
+  "authors": [
+    "bingulhanyt"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104551.jpg?1660497493",
+  "iconCid": "bafkreih56mthdhda7zzpbskxfsypswk6rmn6xcouxa3hnh6nzrj7h64ope",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hancommandblocker-simple-command-blocker-the-plugin-everyone-is-looking-for.104551/history",
+  "gitUrl": "https://github.com/BingulHan/HanCommandBlocker",
+  "releaseDate": 1660493880000,
+  "updateDate": 1660493880000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

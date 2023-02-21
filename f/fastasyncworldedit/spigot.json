@@ -1,0 +1,32 @@
+{
+  "id": 13932,
+  "url": "https://www.spigotmc.org/resources/fastasyncworldedit.13932/",
+  "name": "FastAsyncWorldEdit",
+  "description": "Blazingly fast world manipulation for builders, large networks and developers.",
+  "authors": [
+    "IntellectualSites"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/13/13932.jpg?1594210790",
+  "iconCid": "bafkreigu6tclue4tisca3uzf5kznakctxyctc2frinwqn6wiuywn6z6pgm",
+  "numberOfDownloads": 712523,
+  "rating": 4.1,
+  "numberOfVotes": 498,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fastasyncworldedit.13932/history",
+  "gitUrl": "https://github.com/IntellectualSites/FastAsyncWorldEdit",
+  "releaseDate": 1446115200000,
+  "updateDate": 1675804440000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

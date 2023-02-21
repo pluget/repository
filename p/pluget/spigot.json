@@ -1,0 +1,33 @@
+{
+  "id": 90161,
+  "url": "https://www.spigotmc.org/resources/pluget-automatic-plugin-updater.90161/",
+  "name": "pluGET | Automatic Plugin Updater",
+  "description": "Powerful Package & plugin manager which handles and updates Plugins for Minecraft Servers",
+  "authors": [
+    "Neocky"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90161.jpg?1616518693",
+  "iconCid": "bafkreibswqwdd4765jqwqe5hop35kwnjpjcx4zvf4fb6ascowzke7k4dve",
+  "numberOfDownloads": 3025,
+  "rating": 3.7,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pluget-automatic-plugin-updater.90161/history",
+  "gitUrl": "https://github.com/Neocky/pluGET",
+  "releaseDate": 1616117820000,
+  "updateDate": 1676219700000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 2117,
+  "url": "https://www.spigotmc.org/resources/betonquest-all-your-adventure-supplies-versatile-quests-in-depth-conversations.2117/",
+  "name": "BetonQuest - All Your Adventure Supplies | Versatile Quests | In-depth Conversations",
+  "description": "An advanced and powerful quest scripting plugin for Minecraft.",
+  "authors": [
+    "Wolf2323"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/2/2117.jpg?1607966458",
+  "iconCid": "bafkreieicxesmjq2fz4bpeyj7kf37r27x5dnoh2zl6e5azorshlcxffvza",
+  "numberOfDownloads": 44829,
+  "rating": 4.9,
+  "numberOfVotes": 126,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betonquest-all-your-adventure-supplies-versatile-quests-in-depth-conversations.2117/history",
+  "gitUrl": "https://github.com/BetonQuest/BetonQuest",
+  "releaseDate": 1676743980000,
+  "updateDate": 1676743980000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

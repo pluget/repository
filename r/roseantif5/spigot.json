@@ -1,0 +1,23 @@
+{
+  "id": 107515,
+  "url": "https://www.spigotmc.org/resources/roseantif5.107515/",
+  "name": "RoseAntiF5",
+  "description": "Plugin disables F5 on server",
+  "authors": [
+    "Vlad54"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107515.jpg?1674303285",
+  "iconCid": "bafkreiga3bx3wevo53xtdegkq3swbmb2gmhbmdwhpcqpe5lgeauooptwc4",
+  "numberOfDownloads": 21,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/roseantif5.107515/history",
+  "gitUrl": "https://github.com/EmSockz/RoseAntiF5",
+  "releaseDate": 1674299640000,
+  "updateDate": 1674299640000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

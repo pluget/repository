@@ -1,0 +1,26 @@
+{
+  "id": 57216,
+  "url": "https://www.spigotmc.org/resources/if-inventory-framework.57216/",
+  "name": "IF - Inventory Framework",
+  "description": "Create, alter and manage GUIs in an easy and maintainable manner",
+  "authors": [
+    "Stef"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/57/57216.jpg?1626109660",
+  "iconCid": "bafkreiebgtzpznpdjh2m2cacqqbjtz4epdz42cg2hp5z3ueyy4tkt7nbi4",
+  "numberOfDownloads": 2956,
+  "rating": 5,
+  "numberOfVotes": 20,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/if-inventory-framework.57216/history",
+  "gitUrl": "https://github.com/stefvanschie/IF/",
+  "releaseDate": 1527426300000,
+  "updateDate": 1671475440000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

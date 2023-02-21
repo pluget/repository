@@ -1,0 +1,21 @@
+{
+  "id": 106410,
+  "url": "https://www.spigotmc.org/resources/homesaver.106410/",
+  "name": "HomeSaver",
+  "description": "A lightweight plugin to store player homes",
+  "authors": [
+    "ShadowDV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106410.jpg?1669239543",
+  "iconCid": "bafkreigrlldtauqsqycwlrxwqk3a4kvjoi327kiyfanfg7jfoa7aoxucni",
+  "numberOfDownloads": 44,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/homesaver.106410/history",
+  "releaseDate": 1669235880000,
+  "updateDate": 1669300680000,
+  "versions": [
+    "1.16",
+    "1.17"
+  ]
+}

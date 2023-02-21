@@ -1,0 +1,24 @@
+{
+  "id": 94399,
+  "url": "https://www.spigotmc.org/resources/iosync.94399/",
+  "name": "IOSync",
+  "description": "Synchronize the player data across multiple servers in a network",
+  "authors": [
+    "Doctacosa"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94399.jpg?1626748584",
+  "iconCid": "bafkreicrmof4xyjd7rgn2h2kyo4bgatoa53a4mogfhadgwpik5gx44l3gi",
+  "numberOfDownloads": 209,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/iosync.94399/history",
+  "gitUrl": "https://github.com/Doctacosa/IOSync",
+  "releaseDate": 1626562380000,
+  "updateDate": 1672714800000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

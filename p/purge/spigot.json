@@ -1,0 +1,23 @@
+{
+  "id": 107088,
+  "url": "https://www.spigotmc.org/resources/purge-skript.107088/",
+  "name": "Purge [Skript]",
+  "description": "Allow players to kill each other for loot for a limited time with special effects",
+  "authors": [
+    "OctaneIceman"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107088.jpg?1672515367",
+  "iconCid": "bafkreidvqavtt7ieqjuwc22qp3qyh5llrtxshiehjyfj3g56mgdifd254u",
+  "numberOfDownloads": 153,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/purge-skript.107088/history",
+  "releaseDate": 1676426280000,
+  "updateDate": 1676426280000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 105450,
+  "url": "https://www.spigotmc.org/resources/healthdisplay.105450/",
+  "name": "HealthDisplay",
+  "description": "Display the player's health below their names!",
+  "authors": [
+    "Wihy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105450.jpg?1664098193",
+  "iconCid": "bafkreidibyhfe3jbfj7wrjzqhhqbv6cklz3vtraroiejfsbxiyh7mosmfe",
+  "numberOfDownloads": 754,
+  "rating": 4.6,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/healthdisplay.105450/history",
+  "releaseDate": 1664094540000,
+  "updateDate": 1665259740000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

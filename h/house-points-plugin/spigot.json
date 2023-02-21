@@ -1,0 +1,24 @@
+{
+  "id": 39037,
+  "url": "https://www.spigotmc.org/resources/house-points-plugin.39037/",
+  "name": "House Points Plugin",
+  "description": "A plugin to give points to hogwarts houses",
+  "authors": [
+    "iarepande"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/39/39037.jpg?1537598755",
+  "iconCid": "bafkreiagybtplrw3nuqamknte5ahnwoqma56agztfegktbfwvcpn5jwha4",
+  "numberOfDownloads": 488,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/house-points-plugin.39037/history",
+  "gitUrl": "https://github.com/iarepandemonium/HousePoints",
+  "releaseDate": 1491596400000,
+  "updateDate": 1670198880000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.17",
+    "1.19"
+  ]
+}

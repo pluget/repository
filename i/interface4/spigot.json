@@ -1,0 +1,23 @@
+{
+  "id": 102119,
+  "url": "https://www.spigotmc.org/resources/interface4.102119/",
+  "name": "Interface4",
+  "description": "Provides a general interface for my plugins",
+  "authors": [
+    "OLLIE-Z4"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102119.jpg?1653134078",
+  "iconCid": "bafkreiahfkpbpdsfkwx7fpduxa6qebjgn3wkru5dv6x7kqp2oh2yzh3m5u",
+  "numberOfDownloads": 1036,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/interface4.102119/history",
+  "releaseDate": 1653130440000,
+  "updateDate": 1675891080000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

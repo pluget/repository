@@ -1,0 +1,26 @@
+{
+  "id": 104061,
+  "url": "https://www.spigotmc.org/resources/suggestions.104061/",
+  "name": "Suggestions",
+  "description": "A way for your players to send you suggestions in-game via discord.",
+  "authors": [
+    "iUseRod"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104061.jpg?1659604426",
+  "iconCid": "bafkreihygq6d2l7pytbhpp4ig4cqdwbodd2qwazw54aaxtbhzuceaff6sm",
+  "numberOfDownloads": 41,
+  "rating": 2.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/suggestions.104061/history",
+  "releaseDate": 1659600780000,
+  "updateDate": 1659600780000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

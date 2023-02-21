@@ -1,0 +1,25 @@
+{
+  "id": 88674,
+  "url": "https://www.spigotmc.org/resources/scload-reloaded.88674/",
+  "name": "ScLoad Reloaded",
+  "description": "Schematic Loader",
+  "authors": [
+    "Aricius"
+  ],
+  "numberOfDownloads": 652,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/scload-reloaded.88674/history",
+  "gitUrl": "https://github.com/MonsignorAricius/ScLoad",
+  "releaseDate": 1612477740000,
+  "updateDate": 1666528800000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

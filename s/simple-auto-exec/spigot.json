@@ -1,0 +1,32 @@
+{
+  "id": 105425,
+  "url": "https://www.spigotmc.org/resources/simple-auto-exec.105425/",
+  "name": "Simple Auto Exec",
+  "description": "Plugin that automatically executes any commands on server start",
+  "authors": [
+    "JayKay"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105425.jpg?1664025302",
+  "iconCid": "bafkreiehcjm6rwlnnyobbyhadiv3z33toutuc3f63azfyb26pxv766oxgi",
+  "numberOfDownloads": 106,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-auto-exec.105425/history",
+  "releaseDate": 1664021640000,
+  "updateDate": 1664643360000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

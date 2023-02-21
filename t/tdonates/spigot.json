@@ -1,0 +1,32 @@
+{
+  "id": 103372,
+  "url": "https://www.spigotmc.org/resources/t-donates.103372/",
+  "name": "T-Donates",
+  "description": "Donates in your server",
+  "authors": [
+    "TimS12"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103372.jpg?1657828727",
+  "iconCid": "bafkreiezrkh7sebonohq2u4ovo6khmxnr2m2oavpk3vyfhbnrcuglc6cue",
+  "numberOfDownloads": 162,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/t-donates.103372/history",
+  "gitUrl": "https://github.com/Timsixth-Plugins/T-Donates",
+  "releaseDate": 1657825080000,
+  "updateDate": 1672852740000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

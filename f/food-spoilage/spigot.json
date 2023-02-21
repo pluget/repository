@@ -1,0 +1,21 @@
+{
+  "id": 81507,
+  "url": "https://www.spigotmc.org/resources/food-spoilage.81507/",
+  "name": "Food Spoilage",
+  "description": "Makes food go bad.",
+  "authors": [
+    "DanTheTechMan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81507.jpg?1630566850",
+  "iconCid": "bafkreia56raeueflhr3jlknayi7brc3yrq3clq5ppeuwwtrztqywbqrpvq",
+  "numberOfDownloads": 2320,
+  "rating": 4.8,
+  "numberOfVotes": 14,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/food-spoilage.81507/history",
+  "gitUrl": "https://github.com/DansPlugins/FoodSpoilage",
+  "releaseDate": 1594805340000,
+  "updateDate": 1667708040000,
+  "versions": [
+    "1.18"
+  ]
+}

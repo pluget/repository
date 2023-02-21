@@ -1,0 +1,27 @@
+{
+  "id": 106974,
+  "url": "https://www.spigotmc.org/resources/authplugin.106974/",
+  "name": "AuthPLugin",
+  "description": "Basic plugin for player authorization",
+  "authors": [
+    "lampy8065"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106974.jpg?1672035987",
+  "iconCid": "bafkreiaqfbqinhuygyfuq7ue6pb762f2eodwr6wapkkyotfilcmoionaby",
+  "numberOfDownloads": 248,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/authplugin.106974/history",
+  "releaseDate": 1672031820000,
+  "updateDate": 1673076660000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

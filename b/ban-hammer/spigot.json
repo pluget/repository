@@ -1,0 +1,23 @@
+{
+  "id": 103297,
+  "url": "https://www.spigotmc.org/resources/ban-hammer.103297/",
+  "name": "Ban Hammer",
+  "description": "Strike them with the ban hammer(Literally)",
+  "authors": [
+    "slaman123"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103297.jpg?1657600788",
+  "iconCid": "bafkreiguf2eaf3ggb5hhvb5nizzz2s6457fgjcmsessojfvjjy6kjvagpm",
+  "numberOfDownloads": 89,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ban-hammer.103297/history",
+  "gitUrl": "https://github.com/Wellthatssad/BanHammer",
+  "releaseDate": 1657597140000,
+  "updateDate": 1659544920000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

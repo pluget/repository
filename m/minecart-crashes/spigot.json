@@ -1,0 +1,21 @@
+{
+  "id": 106012,
+  "url": "https://www.spigotmc.org/resources/minecart-crashes.106012/",
+  "name": "Minecart Crashes",
+  "description": "Allows for minecarts to crash into entities!",
+  "authors": [
+    "Praenyth"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106012.jpg?1667230563",
+  "iconCid": "bafkreibnb6tllw2j23m5ernboz5z2typphhfwhe3y4zbylvfywveovb7r4",
+  "numberOfDownloads": 61,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minecart-crashes.106012/history",
+  "gitUrl": "https://github.com/Praenyth/minecart-collisions-spigot",
+  "releaseDate": 1667225520000,
+  "updateDate": 1667253300000,
+  "versions": [
+    "1.19"
+  ]
+}

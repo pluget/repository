@@ -1,0 +1,25 @@
+{
+  "id": 107830,
+  "url": "https://www.spigotmc.org/resources/zeuscommandfixer.107830/",
+  "name": "ZeusCommandFixer",
+  "description": "ZCF",
+  "authors": [
+    "filyx0"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107830.jpg?1675543176",
+  "iconCid": "bafkreifj6f5kpdxginpic7l5fi3gbecrckrpezegnec3fopy54pkyq76gq",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/zeuscommandfixer.107830/history",
+  "gitUrl": "https://github.com/filyx0/ZeusCommandFixer",
+  "releaseDate": 1675539300000,
+  "updateDate": 1675584120000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12"
+  ]
+}

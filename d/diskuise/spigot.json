@@ -1,0 +1,23 @@
+{
+  "id": 101529,
+  "url": "https://www.spigotmc.org/resources/diskuise.101529/",
+  "name": "Diskuise",
+  "description": "A Skript addon for disguising entities as other entities!",
+  "authors": [
+    "_tud"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101529.jpg?1650507069",
+  "iconCid": "bafkreicbtyoztx3lhvxmb4lzu4f3p72scrhwacwaptlnpr7z6yncjqnhri",
+  "numberOfDownloads": 579,
+  "rating": 4,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/diskuise.101529/history",
+  "gitUrl": "https://github.com/UnderscoreTud/diskuise",
+  "releaseDate": 1650503400000,
+  "updateDate": 1673019540000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

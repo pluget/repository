@@ -1,0 +1,30 @@
+{
+  "id": 97740,
+  "url": "https://www.spigotmc.org/resources/finaleconomy.97740/",
+  "name": "FinalEconomy",
+  "description": "A plugin de that handles economy for a server",
+  "authors": [
+    "evernife"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97740.jpg?1637375784",
+  "iconCid": "bafkreihaxa63nqthlpfeioqfppme2553a4slfrimcxlrz3lndafkhfzgv4",
+  "numberOfDownloads": 446,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/finaleconomy.97740/history",
+  "gitUrl": "https://github.com/evernife/FinalEconomy",
+  "releaseDate": 1637372160000,
+  "updateDate": 1675582980000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

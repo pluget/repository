@@ -1,0 +1,23 @@
+{
+  "id": 106836,
+  "url": "https://www.spigotmc.org/resources/simpleannouncer.106836/",
+  "name": "SimpleAnnouncer",
+  "description": "A very simple automatic timed announcements and broadcast plugin",
+  "authors": [
+    "KimiNoUso"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106836.jpg?1671490054",
+  "iconCid": "bafkreienkiwmnylwrc7yu2kqjbnxuebtz5jiezm42wv2x67ddornwfgelq",
+  "numberOfDownloads": 141,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simpleannouncer.106836/history",
+  "gitUrl": "https://github.com/TheKimiNoUso/SimpleAnnouncer",
+  "releaseDate": 1671486420000,
+  "updateDate": 1671844740000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

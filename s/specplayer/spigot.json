@@ -1,0 +1,23 @@
+{
+  "id": 105269,
+  "url": "https://www.spigotmc.org/resources/specplayer.105269/",
+  "name": "SpecPlayer",
+  "description": "Spectate others",
+  "authors": [
+    "leop2"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105269.jpg?1663113136",
+  "iconCid": "bafkreiakxbdyysqlfpzux33kcklhkiv5vep7iw256vuonysanozdj3tisq",
+  "numberOfDownloads": 43,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/specplayer.105269/history",
+  "gitUrl": "https://github.com/LeoMeinel/SpecPlayer/",
+  "releaseDate": 1663109520000,
+  "updateDate": 1664042400000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

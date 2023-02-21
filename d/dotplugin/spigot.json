@@ -1,0 +1,21 @@
+{
+  "id": 103397,
+  "url": "https://www.spigotmc.org/resources/dotplugin.103397/",
+  "name": "DotPlugin",
+  "description": "free plugin",
+  "authors": [
+    "dotmazy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103397.jpg?1657918522",
+  "iconCid": "bafkreiarcdagvam2yzmqykyyuf6r5kncymafwhbnligycrzz5r5gsftpr4",
+  "numberOfDownloads": 61,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dotplugin.103397/history",
+  "gitUrl": "https://github.com/Dotmazy/DotPlugin.git",
+  "releaseDate": 1657914900000,
+  "updateDate": 1658127600000,
+  "versions": [
+    "1.16"
+  ]
+}

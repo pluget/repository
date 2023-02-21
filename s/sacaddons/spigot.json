@@ -1,0 +1,21 @@
+{
+  "id": 95930,
+  "url": "https://www.spigotmc.org/resources/sacaddons.95930/",
+  "name": "sacaddons",
+  "description": "a plugin that improves the SoaromaSAC experience",
+  "authors": [
+    "Daniel071"
+  ],
+  "numberOfDownloads": 1463,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sacaddons.95930/history",
+  "gitUrl": "https://github.com/daniel071/sacaddons",
+  "releaseDate": 1630665360000,
+  "updateDate": 1659831180000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

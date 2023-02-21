@@ -1,0 +1,33 @@
+{
+  "id": 107851,
+  "url": "https://www.spigotmc.org/resources/contentannouncer-1-7-1-19.107851/",
+  "name": "ContentAnnouncer [1.7 - 1.19]",
+  "description": "Let your content creators announce their content! - Supports PlaceholderAPI",
+  "authors": [
+    "TaMYzZz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107851.jpg?1675632606",
+  "iconCid": "bafkreicgq5z3vnhrlzbx4ojazyc7sq4zqdnjstlaurchvucrpjgooiz2nq",
+  "numberOfDownloads": 130,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/contentannouncer-1-7-1-19.107851/history",
+  "gitUrl": "https://tamyzzz.gitbook.io/contentannouncer/",
+  "releaseDate": 1676415780000,
+  "updateDate": 1676415780000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

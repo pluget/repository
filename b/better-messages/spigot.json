@@ -1,0 +1,33 @@
+{
+  "id": 82830,
+  "url": "https://www.spigotmc.org/resources/better-messages-custom-join-leave-messages-and-more-1-7-1-19-papi-support-hex-colours.82830/",
+  "name": "Better Messages | Custom Join/Leave Messages and More! | 1.7 ~ 1.19 | PAPI Support | HEX Colours",
+  "description": "Better messages for your server, join/leave messages, world change messages and more!",
+  "authors": [
+    "TheDoominator"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82830.jpg?1597917178",
+  "iconCid": "bafkreibo6ewdweozo6pywo4ffz5j4ktvsaybbcud6e5ybmo4rpt7mxl6fu",
+  "numberOfDownloads": 6454,
+  "rating": 4.6,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/better-messages-custom-join-leave-messages-and-more-1-7-1-19-papi-support-hex-colours.82830/history",
+  "gitUrl": "https://github.com/JustDoom/Better-Messages",
+  "releaseDate": 1597612680000,
+  "updateDate": 1671783000000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

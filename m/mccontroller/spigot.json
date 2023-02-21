@@ -1,0 +1,32 @@
+{
+  "id": 104344,
+  "url": "https://www.spigotmc.org/resources/mccontroller.104344/",
+  "name": "McController",
+  "description": "The Best Minecraft Server Controller Web&Software Linux/Mac/Win",
+  "authors": [
+    "ali39"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104344.jpg?1659905752",
+  "iconCid": "bafkreiaiwvqmhcjk2w5ursipgu2hwcxeryb66a6rw6tevoduoe2me4tfdu",
+  "numberOfDownloads": 131,
+  "rating": 4.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mccontroller.104344/history",
+  "gitUrl": "https://github.com/yellow-team-xyz/mccontroller",
+  "releaseDate": 1660466580000,
+  "updateDate": 1660466580000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

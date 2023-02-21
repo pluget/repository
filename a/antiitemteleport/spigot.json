@@ -1,0 +1,32 @@
+{
+  "id": 104555,
+  "url": "https://www.spigotmc.org/resources/antiitemteleport.104555/",
+  "name": "AntiItemTeleport",
+  "description": "Prevent items from being uselessly teleported after getting dropped",
+  "authors": [
+    "Sandwicha"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104555.jpg?1660548310",
+  "iconCid": "bafkreidylyjlqyydjngaszpecnqd2cgblkjq6sdotyaua5yommz75ab6li",
+  "numberOfDownloads": 26,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antiitemteleport.104555/history",
+  "gitUrl": "https://github.com/TheGaming999/AntiItemTeleport",
+  "releaseDate": 1660499340000,
+  "updateDate": 1660499340000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

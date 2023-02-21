@@ -1,0 +1,21 @@
+{
+  "id": 104804,
+  "url": "https://www.spigotmc.org/resources/open-clans.104804/",
+  "name": "Open Clans",
+  "description": "An open source alternative to traditional clans systems.",
+  "authors": [
+    "yllo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104804.jpg?1661361409",
+  "iconCid": "bafkreid5m5weps2hvqjsqvcavurmylwzw5dxz346kivwu2l5rxtowa6z24",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/open-clans.104804/history",
+  "gitUrl": "https://github.com/ollymonger/os-clans",
+  "releaseDate": 1661357760000,
+  "updateDate": 1661357760000,
+  "versions": [
+    "1.19"
+  ]
+}

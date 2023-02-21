@@ -1,0 +1,33 @@
+{
+  "id": 66845,
+  "url": "https://www.spigotmc.org/resources/atlas-custom-packet-listening-numerous-utils-block-boundingboxes.66845/",
+  "name": "Atlas | Custom Packet Listening | Numerous Utils | Block BoundingBoxes",
+  "description": "The most compact, accurate, and featureful Bukkit plugin API.",
+  "authors": [
+    "DawsonH"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/66/66845.jpg?1556205304",
+  "iconCid": "bafkreihwvsk4vgwscatv4i4izklkrgjo5fmev4qyspnqdkx4e2ag66jyye",
+  "numberOfDownloads": 8789,
+  "rating": 4.2,
+  "numberOfVotes": 17,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/atlas-custom-packet-listening-numerous-utils-block-boundingboxes.66845/history",
+  "gitUrl": "https://github.com/funkemunky/Atlas/",
+  "releaseDate": 1556201640000,
+  "updateDate": 1663864320000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 104421,
+  "url": "https://www.spigotmc.org/resources/waypoint.104421/",
+  "name": "Waypoint",
+  "description": "A lightweight waypoint plugin for your servers and realms!",
+  "authors": [
+    "cablemp5"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104421.jpg?1660109312",
+  "iconCid": "bafkreibm7aj3rj2muur7aogii46jilm4uiwokt3vwsofgcrbdzvgopws4y",
+  "numberOfDownloads": 246,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/waypoint.104421/history",
+  "releaseDate": 1660105680000,
+  "updateDate": 1660105680000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 101742,
+  "url": "https://www.spigotmc.org/resources/bank-plugin-pcbank.101742/",
+  "name": "Bank Plugin | PCbank",
+  "description": "This plugin add an awesome bank to your server",
+  "authors": [
+    "PcampusNetwork"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101742.jpg?1656087172",
+  "iconCid": "bafkreicbzmxopgz3oe3qzixq73hs2oqrmrolkuc6y344riufcyqmtaztuy",
+  "numberOfDownloads": 751,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bank-plugin-pcbank.101742/history",
+  "releaseDate": 1651314660000,
+  "updateDate": 1657559460000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

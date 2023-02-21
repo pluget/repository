@@ -1,0 +1,28 @@
+{
+  "id": 72679,
+  "url": "https://www.spigotmc.org/resources/theapi.72679/",
+  "name": "TheAPI",
+  "description": "[Spigot, BungeeCord, Velocity] Complex API library to make plugin development easier & faster!",
+  "authors": [
+    "TheDevTec"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/72/72679.jpg?1574181653",
+  "iconCid": "bafkreia6ojjahn7ib4wuosncngp2zezdmedceyt5a3pcwjpaic6yh32mg4",
+  "numberOfDownloads": 24088,
+  "rating": 4.3,
+  "numberOfVotes": 8,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/theapi.72679/history",
+  "gitUrl": "https://github.com/TheDevTec/TheAPI",
+  "releaseDate": 1676589120000,
+  "updateDate": 1676589120000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.12",
+    "1.14",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

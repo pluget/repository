@@ -1,0 +1,22 @@
+{
+  "id": 83706,
+  "url": "https://www.spigotmc.org/resources/giveall.83706/",
+  "name": "GiveAll",
+  "description": "A present for all!",
+  "authors": [
+    "BlitzGamer88"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83706.jpg?1599603793",
+  "iconCid": "bafkreidmydodhb5qgx2pd7rbgcyhffqaaqy2qohuybyy7zcglq6ckpi4wa",
+  "numberOfDownloads": 305,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/giveall.83706/history",
+  "gitUrl": "https://github.com/BlitzOffline/GiveAll",
+  "releaseDate": 1599600120000,
+  "updateDate": 1659563100000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

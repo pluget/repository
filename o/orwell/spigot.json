@@ -1,0 +1,21 @@
+{
+  "id": 103787,
+  "url": "https://www.spigotmc.org/resources/orwell-disable-player-reports.103787/",
+  "name": "Orwell - Disable player reports",
+  "description": "Spigot chat proxy plugin.",
+  "authors": [
+    "chocoearly44"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103787.jpg?1659122241",
+  "iconCid": "bafkreiaa3p23tj5pyp4ypw4iv2o5rhux6ie7dfg7st3cbg4jcptpfo26i4",
+  "numberOfDownloads": 73,
+  "rating": 3.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/orwell-disable-player-reports.103787/history",
+  "gitUrl": "https://github.com/chocoearly44/OrwellSpigot",
+  "releaseDate": 1659118500000,
+  "updateDate": 1659270480000,
+  "versions": [
+    "1.19"
+  ]
+}

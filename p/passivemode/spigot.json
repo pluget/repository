@@ -1,0 +1,24 @@
+{
+  "id": 82829,
+  "url": "https://www.spigotmc.org/resources/passivemode.82829/",
+  "name": "PassiveMode",
+  "description": "This plugin allows players to avoid pvp through Passive Mode! Requires no Configuration!",
+  "authors": [
+    "God_Ianite"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82829.jpg?1597707741",
+  "iconCid": "bafkreidc7u2cynxuwtj7hjaenthxamqrjj6bmbmiyp4wnukohvbwtkrfna",
+  "numberOfDownloads": 511,
+  "rating": 4.5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/passivemode.82829/history",
+  "releaseDate": 1597611540000,
+  "updateDate": 1673403600000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

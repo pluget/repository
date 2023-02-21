@@ -1,0 +1,31 @@
+{
+  "id": 87700,
+  "url": "https://www.spigotmc.org/resources/redisbungee.87700/",
+  "name": "RedisBungee",
+  "description": "RedisBungee Limework fork",
+  "authors": [
+    "Ham1255i"
+  ],
+  "numberOfDownloads": 2971,
+  "rating": 4.5,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/redisbungee.87700/history",
+  "gitUrl": "https://github.com/ProxioDev/RedisBungee",
+  "releaseDate": 1610299860000,
+  "updateDate": 1672453800000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 10997,
+  "url": "https://www.spigotmc.org/resources/signshop.10997/",
+  "name": "SignShop",
+  "description": "A powerful and easy to use shop plugin",
+  "authors": [
+    "Weaves"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/10/10997.jpg?1439669303",
+  "iconCid": "bafkreiajlmrlljc3bcsvipyov7oayciufwubmrwdcpgo7mu3yyr3md4eay",
+  "numberOfDownloads": 114003,
+  "rating": 4.4,
+  "numberOfVotes": 44,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/signshop.10997/history",
+  "gitUrl": "https://github.com/wargamer/SignShop",
+  "releaseDate": 1439665680000,
+  "updateDate": 1675119360000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

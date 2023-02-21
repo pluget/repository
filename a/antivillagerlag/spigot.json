@@ -1,0 +1,23 @@
+{
+  "id": 102949,
+  "url": "https://www.spigotmc.org/resources/antivillagerlag.102949/",
+  "name": "AntiVillagerLag",
+  "description": "A way to remove the performance impact of trading halls without sacrificing other villager farms",
+  "authors": [
+    "RebelMythik"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102949.jpg?1656361148",
+  "iconCid": "bafkreiektg74ozwikm2a4sk2h75o4urzlywkgluzus6mpdngn74hlagxta",
+  "numberOfDownloads": 991,
+  "rating": 4.8,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antivillagerlag.102949/history",
+  "gitUrl": "https://github.com/RebelMythik/AntiVillagerLag",
+  "releaseDate": 1656357540000,
+  "updateDate": 1674150600000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

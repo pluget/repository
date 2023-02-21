@@ -1,0 +1,23 @@
+{
+  "id": 93081,
+  "url": "https://www.spigotmc.org/resources/betterkeepinventory.93081/",
+  "name": "BetterKeepInventory",
+  "description": "Making KeepInventory less OP",
+  "authors": [
+    "BeepSterr"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93081.jpg?1622997383",
+  "iconCid": "bafkreidkznzfxe4fot37mpwefpmqqq32nqunsyaejkiqefkv7btt3kr7ve",
+  "numberOfDownloads": 917,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterkeepinventory.93081/history",
+  "gitUrl": "https://github.com/beepsdev/BetterKeepInventory",
+  "releaseDate": 1622993580000,
+  "updateDate": 1660144440000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

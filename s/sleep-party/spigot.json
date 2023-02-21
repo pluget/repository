@@ -1,0 +1,23 @@
+{
+  "id": 84397,
+  "url": "https://www.spigotmc.org/resources/sleep-party.84397/",
+  "name": "Sleep Party",
+  "description": "Very flexible player sleep plugin which has several options for configuration.",
+  "authors": [
+    "Saxon564"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84397.jpg?1602722121",
+  "iconCid": "bafkreih4yijz4up63vi44yvxvqobri73hw77c3jo75lkgyarz7suim4ylm",
+  "numberOfDownloads": 358,
+  "rating": 4.8,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sleep-party.84397/history",
+  "releaseDate": 1601607180000,
+  "updateDate": 1663124700000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

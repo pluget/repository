@@ -1,0 +1,26 @@
+{
+  "id": 107889,
+  "url": "https://www.spigotmc.org/resources/enderbag-portable-ender-chest.107889/",
+  "name": "EnderBag | Portable Ender Chest",
+  "description": "Access the ender chest on the go",
+  "authors": [
+    "mries92"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107889.jpg?1675806383",
+  "iconCid": "bafkreihrbx3tl6s6morydloxp6fpuihyshk3us5sslolnrwu74qv7qi67e",
+  "numberOfDownloads": 179,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/enderbag-portable-ender-chest.107889/history",
+  "gitUrl": "https://github.com/mries92/EnderBag",
+  "releaseDate": 1676734920000,
+  "updateDate": 1676734920000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

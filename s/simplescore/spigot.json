@@ -1,0 +1,32 @@
+{
+  "id": 23243,
+  "url": "https://www.spigotmc.org/resources/simplescore-animated-scoreboard.23243/",
+  "name": "SimpleScore | Animated Scoreboard",
+  "description": "A simple animated scoreboard plugin for your server.",
+  "authors": [
+    "R4G3_BABY"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/23/23243.jpg?1552145664",
+  "iconCid": "bafkreifgale4w7soli5l5ivilappxmyjmi3ug6yanciw5q3yl2jtvecsni",
+  "numberOfDownloads": 134519,
+  "rating": 4.6,
+  "numberOfVotes": 163,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplescore-animated-scoreboard.23243/history",
+  "gitUrl": "https://github.com/r4g3baby/SimpleScore",
+  "releaseDate": 1463268240000,
+  "updateDate": 1662984420000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

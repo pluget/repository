@@ -1,0 +1,24 @@
+{
+  "id": 70065,
+  "url": "https://www.spigotmc.org/resources/harotorch.70065/",
+  "name": "HaroTorch",
+  "description": "Modded's MegaTorch, on Spigot",
+  "authors": [
+    "TheDutchMC04"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/70/70065.jpg?1602072164",
+  "iconCid": "bafkreia36xr6atlvdtr7qrsscov34j4eahsmmpu54vfcvqs7zy45haek24",
+  "numberOfDownloads": 1029,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/harotorch.70065/history",
+  "gitUrl": "https://github.com/TobiasDeBruijn/HaroTorch",
+  "releaseDate": 1565010900000,
+  "updateDate": 1672680720000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

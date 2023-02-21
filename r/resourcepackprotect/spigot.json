@@ -1,0 +1,23 @@
+{
+  "id": 106081,
+  "url": "https://www.spigotmc.org/resources/resourcepackprotect.106081/",
+  "name": "ResourcePackProtect",
+  "description": "Protect players from dying when downloading resource packs with this super lightweight plugin",
+  "authors": [
+    "supxnovattv"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106081.jpg?1667557098",
+  "iconCid": "bafkreibfl3yg3bojsqypnjq4svdurgdrlf27aejccanicsvxzx2yekgxte",
+  "numberOfDownloads": 72,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/resourcepackprotect.106081/history",
+  "releaseDate": 1667553480000,
+  "updateDate": 1667601240000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

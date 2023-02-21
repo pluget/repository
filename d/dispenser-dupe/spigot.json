@@ -1,0 +1,28 @@
+{
+  "id": 103543,
+  "url": "https://www.spigotmc.org/resources/dispenser-dupe-1-12-2-1-19-x.103543/",
+  "name": "Dispenser Dupe 1.12.2 - 1.19.x",
+  "description": "Dupe for servers",
+  "authors": [
+    "Mrrafter_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103543.jpg?1658374526",
+  "iconCid": "bafkreih5ipwwov3i6gmevzndcmviqnx7vxyboeiblln67ujehbpusqpqny",
+  "numberOfDownloads": 314,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dispenser-dupe-1-12-2-1-19-x.103543/history",
+  "gitUrl": "https://github.com/MrRafter/Dispenser-Dupe",
+  "releaseDate": 1658370780000,
+  "updateDate": 1659548880000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

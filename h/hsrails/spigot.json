@@ -1,0 +1,26 @@
+{
+  "id": 69584,
+  "url": "https://www.spigotmc.org/resources/hsrails.69584/",
+  "name": "hsrails",
+  "description": "High Speed Rails to make minecarts worth building",
+  "authors": [
+    "ergor"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/69/69584.jpg?1563800336",
+  "iconCid": "bafkreibfiyuqqx2u4dcgu754jhguap3qgqtjtgl3xmf7o5aqalyxyk3qfe",
+  "numberOfDownloads": 1808,
+  "rating": 4.8,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hsrails.69584/history",
+  "gitUrl": "https://github.com/ergor/hsrails",
+  "releaseDate": 1563796620000,
+  "updateDate": 1675329180000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

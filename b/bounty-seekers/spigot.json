@@ -1,0 +1,33 @@
+{
+  "id": 104963,
+  "url": "https://www.spigotmc.org/resources/bounty-seekers.104963/",
+  "name": "Bounty Seekers",
+  "description": "This plugin allows players to place, raise, and claim bounties on other players' heads, with items.",
+  "authors": [
+    "MrKelpy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104963.jpg?1661950778",
+  "iconCid": "bafkreibjgvhrbicbq6z4r7bxckj6k526yaucrqijhvouna25esi5ctc3he",
+  "numberOfDownloads": 297,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bounty-seekers.104963/history",
+  "gitUrl": "https://github.com/MrKelpy/BountySeekers",
+  "releaseDate": 1661947140000,
+  "updateDate": 1662916260000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

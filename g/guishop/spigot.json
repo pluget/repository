@@ -1,0 +1,33 @@
+{
+  "id": 2451,
+  "url": "https://www.spigotmc.org/resources/guishop.2451/",
+  "name": "GUIShop",
+  "description": "This plugin is the ultimate solution to all the signs, the chests, the glitches.",
+  "authors": [
+    "pablo67340"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/2/2451.jpg?1572318435",
+  "iconCid": "bafkreiedcmk4wabrj5h2cfwfgsslcv7tvvnfqgqreywyrsob2aith2rrgq",
+  "numberOfDownloads": 342135,
+  "rating": 3.4,
+  "numberOfVotes": 300,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/guishop.2451/history",
+  "gitUrl": "https://github.com/pablo67340/GUIShop/",
+  "releaseDate": 1418767440000,
+  "updateDate": 1660753080000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

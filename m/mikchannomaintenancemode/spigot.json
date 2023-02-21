@@ -1,0 +1,24 @@
+{
+  "id": 103633,
+  "url": "https://www.spigotmc.org/resources/mikchan%E3%81%AEmaintenancemode.103633/",
+  "name": "MikChanのMaintenanceMode",
+  "description": "Easy to use maintenance mode",
+  "authors": [
+    "MikChan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103633.jpg?1658621282",
+  "iconCid": "bafkreieuhgog27ytb3hwczmuafx2midsppln4bj3x2yaxuqwjfex7ynhwy",
+  "numberOfDownloads": 41,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mikchan%E3%81%AEmaintenancemode.103633/history",
+  "gitUrl": "https://github.com/MikChanNoPlugins/MaintenanceMode",
+  "releaseDate": 1658617620000,
+  "updateDate": 1658617620000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

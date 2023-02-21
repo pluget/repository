@@ -1,0 +1,27 @@
+{
+  "id": 106100,
+  "url": "https://www.spigotmc.org/resources/gamemaster.106100/",
+  "name": "GameMaster",
+  "description": "A library for my minigame plugins",
+  "authors": [
+    "DiffuseHyperion"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106100.jpg?1667643345",
+  "iconCid": "bafkreiezggxqezatqcidbq5avagv5vg224pordyumlahpcj5c3nov5l24u",
+  "numberOfDownloads": 293,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gamemaster.106100/history",
+  "gitUrl": "https://github.com/DiffuseHyperion/GameMaster",
+  "releaseDate": 1667639640000,
+  "updateDate": 1673070300000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

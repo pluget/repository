@@ -1,0 +1,25 @@
+{
+  "id": 105718,
+  "url": "https://www.spigotmc.org/resources/ei-prem-addon-eternal-fire.105718/",
+  "name": "[EI Prem Addon] Eternal Fire",
+  "description": "This tool allows you to give mobs a fire effect cosmetic only",
+  "authors": [
+    "Blzd"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105718.jpg?1665389576",
+  "iconCid": "bafkreigvrobhl35ymubixuw6qwqkeuuboc7k33eqlhhvauiwk452zz4lxe",
+  "numberOfDownloads": 22,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ei-prem-addon-eternal-fire.105718/history",
+  "releaseDate": 1665385920000,
+  "updateDate": 1665385920000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

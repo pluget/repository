@@ -1,0 +1,22 @@
+{
+  "id": 104030,
+  "url": "https://www.spigotmc.org/resources/tide.104030/",
+  "name": "Tide",
+  "description": "Introduce tide to the game！ | global sea level change && papi support",
+  "authors": [
+    "GoldenPotato137"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104030.jpg?1659527960",
+  "iconCid": "bafkreifntcmif4ocjxdyf42opg5ugaufkqcbeaht2dyfujtzsqap74zjjy",
+  "numberOfDownloads": 257,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tide.104030/history",
+  "gitUrl": "https://github.com/GoldenPotato137/Tide",
+  "releaseDate": 1659524340000,
+  "updateDate": 1674136020000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

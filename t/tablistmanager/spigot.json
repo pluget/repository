@@ -1,0 +1,23 @@
+{
+  "id": 107039,
+  "url": "https://www.spigotmc.org/resources/tablistmanager.107039/",
+  "name": "TablistManager",
+  "description": "An API and plugin to manipulate your server tablist.",
+  "authors": [
+    "TrexMX"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107039.jpg?1676261185",
+  "iconCid": "bafkreifikldxnpemzun4bsfmbbzxabwzlwtrimzwpav35ixgix4e74xtyi",
+  "numberOfDownloads": 105,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tablistmanager.107039/history",
+  "gitUrl": "https://github.com/ErnestoRB/TablistManagerAPI/",
+  "releaseDate": 1672339500000,
+  "updateDate": 1675309740000,
+  "versions": [
+    "1.8",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 107615,
+  "url": "https://www.spigotmc.org/resources/welcomer.107615/",
+  "name": "Welcomer",
+  "description": "Plugin to welcome new players.",
+  "authors": [
+    "ZekariaTeam"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107615.jpg?1674732355",
+  "iconCid": "bafkreif7m6oaiy3zugn6bgog33ygig7hj5mdpaqqtjfrxtt2ez2azt252e",
+  "numberOfDownloads": 59,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/welcomer.107615/history",
+  "gitUrl": "https://github.com/Zekaria-Team/Welcomer",
+  "releaseDate": 1674728700000,
+  "updateDate": 1674744300000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

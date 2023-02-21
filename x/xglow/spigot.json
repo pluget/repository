@@ -1,0 +1,31 @@
+{
+  "id": 85325,
+  "url": "https://www.spigotmc.org/resources/xglow.85325/",
+  "name": "XGlow",
+  "description": "Simple ProtocolLib based API to create glow on your entities.",
+  "authors": [
+    "CoolBoy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85325.jpg?1604100332",
+  "iconCid": "bafkreige65z3lnbdjt3fwvcc74nqbjijp4biveqqseopoeaiyno52w5rpq",
+  "numberOfDownloads": 590,
+  "rating": 4.5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/xglow.85325/history",
+  "gitUrl": "https://github.com/Xezard/XGlow",
+  "releaseDate": 1604093580000,
+  "updateDate": 1668864840000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

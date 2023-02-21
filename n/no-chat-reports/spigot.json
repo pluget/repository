@@ -1,0 +1,21 @@
+{
+  "id": 102990,
+  "url": "https://www.spigotmc.org/resources/no-chat-reports.102990/",
+  "name": "No Chat Reports",
+  "description": "Stop players from reporting others using chat",
+  "authors": [
+    "TeakIvy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102990.jpg?1656550014",
+  "iconCid": "bafkreihedwxt74m2oeqk6ses3chwupy57uq5dag4e4uvc72wpkvk5iarpi",
+  "numberOfDownloads": 5314,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/no-chat-reports.102990/history",
+  "gitUrl": "https://github.com/teakivy/NoChatReports",
+  "releaseDate": 1656546360000,
+  "updateDate": 1659995760000,
+  "versions": [
+    "1.19"
+  ]
+}

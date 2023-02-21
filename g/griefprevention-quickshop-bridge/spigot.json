@@ -1,0 +1,19 @@
+{
+  "id": 106005,
+  "url": "https://www.spigotmc.org/resources/updated-griefprevention-quickshop-bridge.106005/",
+  "name": "[Updated] GriefPrevention QuickShop Bridge",
+  "description": "Plugin that hooks into GriefPrevention and QuickShop to allow building shops in player claims.",
+  "authors": [
+    "mind_overflow"
+  ],
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/updated-griefprevention-quickshop-bridge.106005/history",
+  "gitUrl": "https://git.beatrice.wtf/SpigotMC/GriefPreventionQuickShopBridge",
+  "releaseDate": 1667159160000,
+  "updateDate": 1667159280000,
+  "versions": [
+    "1.19"
+  ]
+}

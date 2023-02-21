@@ -1,0 +1,26 @@
+{
+  "id": 97486,
+  "url": "https://www.spigotmc.org/resources/addon-rpghuds-for-itemsadder.97486/",
+  "name": "[Addon] RPGhuds for ItemsAdder",
+  "description": "Currency indicator, GPS, quiver and more HUDs for ItemsAdder",
+  "authors": [
+    "LoneDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97486.jpg?1636395812",
+  "iconCid": "bafkreihqqxpkib4z5kwm4ifelu73gydelfk7qoy6q32jgtxqpo5bpc66ay",
+  "numberOfDownloads": 2659,
+  "rating": 4.8,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/addon-rpghuds-for-itemsadder.97486/history",
+  "gitUrl": "http://a.devs.beer/rpghuds-git",
+  "releaseDate": 1636392180000,
+  "updateDate": 1674046500000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

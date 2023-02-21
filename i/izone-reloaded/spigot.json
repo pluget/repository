@@ -1,0 +1,22 @@
+{
+  "id": 88996,
+  "url": "https://www.spigotmc.org/resources/izone-reloaded.88996/",
+  "name": "iZone Reloaded",
+  "description": "The old iZone plugin updated to the latest Minecraft version.",
+  "authors": [
+    "Cyanoure"
+  ],
+  "numberOfDownloads": 218,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/izone-reloaded.88996/history",
+  "gitUrl": "https://github.com/Cyanoure/iZone",
+  "releaseDate": 1613255100000,
+  "updateDate": 1672084020000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.19"
+  ]
+}

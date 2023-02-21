@@ -1,0 +1,32 @@
+{
+  "id": 99038,
+  "url": "https://www.spigotmc.org/resources/controlguard-emergency-server-kill-switch.99038/",
+  "name": "ControlGuard - Emergency Server Kill-Switch",
+  "description": "Implements an emergency kill switch into your server",
+  "authors": [
+    "opd02"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99038.jpg?1641568654",
+  "iconCid": "bafkreibt46ne7gdopuu4icso6eu2fup3p5vgvokez6t5jaq5sx3ito3vta",
+  "numberOfDownloads": 90,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/controlguard-emergency-server-kill-switch.99038/history",
+  "gitUrl": "https://github.com/opd02/ControlGuard",
+  "releaseDate": 1641565020000,
+  "updateDate": 1667440680000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

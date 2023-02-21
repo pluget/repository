@@ -1,0 +1,23 @@
+{
+  "id": 96665,
+  "url": "https://www.spigotmc.org/resources/honeypot-anti-grief.96665/",
+  "name": "Honeypot Anti-Grief",
+  "description": "Deterring griefers has never been so sweet",
+  "authors": [
+    "redstonefreak589"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96665.jpg?1633487304",
+  "iconCid": "bafkreicozixftaatthdbzs4niwiurtq37rg3y3rz7scdcg2bi5weiwkewm",
+  "numberOfDownloads": 736,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/honeypot-anti-grief.96665/history",
+  "gitUrl": "https://github.com/TerrrorByte/Honeypot",
+  "releaseDate": 1633483680000,
+  "updateDate": 1674665100000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

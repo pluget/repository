@@ -1,0 +1,32 @@
+{
+  "id": 66348,
+  "url": "https://www.spigotmc.org/resources/lastloginapi-api-to-handle-player-names-and-login-timestamps.66348/",
+  "name": "LastLoginAPI - API to handle player names and login timestamps",
+  "description": "A library to handle player names and login timestamps",
+  "authors": [
+    "AlessioDP"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/66/66348.jpg?1572009539",
+  "iconCid": "bafkreievvvebw6xctz376ajer675waq7ocqol76jqgyvcdssh7wqo6htjq",
+  "numberOfDownloads": 16606,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lastloginapi-api-to-handle-player-names-and-login-timestamps.66348/history",
+  "gitUrl": "https://github.com/AlessioDP/LastLoginAPI",
+  "releaseDate": 1554757200000,
+  "updateDate": 1672680600000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

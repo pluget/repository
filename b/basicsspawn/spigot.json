@@ -1,0 +1,32 @@
+{
+  "id": 107590,
+  "url": "https://www.spigotmc.org/resources/basicsspawn.107590/",
+  "name": "BasicsSpawn",
+  "description": "Set spawn location in your server.",
+  "authors": [
+    "SirOswaldo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107590.jpg?1674583235",
+  "iconCid": "bafkreifcppohqrq47dv7vunzneo5ugr2bikmbe2lpegizapfo2tw56643a",
+  "numberOfDownloads": 104,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/basicsspawn.107590/history",
+  "gitUrl": "https://github.com/SoyAldo/BasicsSpawn",
+  "releaseDate": 1674578820000,
+  "updateDate": 1675726800000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

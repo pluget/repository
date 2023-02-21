@@ -1,0 +1,22 @@
+{
+  "id": 106108,
+  "url": "https://www.spigotmc.org/resources/xgauth-remastered.106108/",
+  "name": "XGAuth Remastered",
+  "description": "XGAuth Google Authentication Implementation System For Minecraft",
+  "authors": [
+    "MyNameIsKiyoshi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106108.jpg?1667680655",
+  "iconCid": "bafkreid323p6wagynxolz5jf6zobsoatv7cbkueerijp6xy5dxgdodeq7q",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/xgauth-remastered.106108/history",
+  "gitUrl": "https://github.com/MyNameIsKiyoshi/XGAuth",
+  "releaseDate": 1667677020000,
+  "updateDate": 1669720260000,
+  "versions": [
+    "1.17",
+    "1.19"
+  ]
+}

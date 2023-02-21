@@ -1,0 +1,23 @@
+{
+  "id": 107976,
+  "url": "https://www.spigotmc.org/resources/elytraguard.107976/",
+  "name": "ElytraGuard",
+  "description": "A plugin to disable Elytra flying and option to remove it from player inventory.",
+  "authors": [
+    "WhiteIntent"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107976.jpg?1676238974",
+  "iconCid": "bafkreidli5b5h3ws2encodzwfdqarmpxoynruw5dcy37f3cjbh63anpctm",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/elytraguard.107976/history",
+  "gitUrl": "https://github.com/WhiteIntento/ElytraGuard",
+  "releaseDate": 1676561820000,
+  "updateDate": 1676561820000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

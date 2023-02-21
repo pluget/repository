@@ -1,0 +1,32 @@
+{
+  "id": 106186,
+  "url": "https://www.spigotmc.org/resources/mineeconomy.106186/",
+  "name": "mineEconomy",
+  "description": "Minecraft economy plugin with Vault.",
+  "authors": [
+    "arczimiester"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106186.jpg?1668020949",
+  "iconCid": "bafkreig4w7ezqswn62qsiwpu3pwhrofnli3mkx4v6tt4wuv2jhorty5t4u",
+  "numberOfDownloads": 127,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mineeconomy.106186/history",
+  "gitUrl": "https://git.minecodes.pl/mineCodes/mineEconomy",
+  "releaseDate": 1668017280000,
+  "updateDate": 1668017280000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

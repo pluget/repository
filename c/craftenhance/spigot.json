@@ -1,0 +1,31 @@
+{
+  "id": 65058,
+  "url": "https://www.spigotmc.org/resources/1-9-1-19-custom-recipes-and-crafting-craftenhance.65058/",
+  "name": "[1.9-1.19] Custom Recipes and Crafting (CraftEnhance)",
+  "description": "Make custom recipes through GUI's only - the only plugin that supports itemmeta, like enchantments.",
+  "authors": [
+    "DutchJelly"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/65/65058.jpg?1550681520",
+  "iconCid": "bafkreiceo2di7df3i6xdoydcv5w6vw5b6k2nmzcne56qdo3sfvdgzz5wya",
+  "numberOfDownloads": 76043,
+  "rating": 4.2,
+  "numberOfVotes": 60,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/1-9-1-19-custom-recipes-and-crafting-craftenhance.65058/history",
+  "gitUrl": "https://github.com/DutchJelly/CraftEnhance",
+  "releaseDate": 1550677860000,
+  "updateDate": 1674111060000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

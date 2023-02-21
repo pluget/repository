@@ -1,0 +1,33 @@
+{
+  "id": 31331,
+  "url": "https://www.spigotmc.org/resources/craftingstore-net-free-minecraft-donation-system-1-19-compatible.31331/",
+  "name": "CraftingStore.net | Free minecraft donation system [1.19 compatible!]",
+  "description": "Web based minecraft donation store! (Spigot, Bukkit, Sponge and BungeeCord supported)",
+  "authors": [
+    "Tim_kwakman"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/31/31331.jpg?1596048856",
+  "iconCid": "bafkreiax3qzd73hqnk57bxnfqewgur2bcvqjnh5ylb4un7qnzhfjk2emia",
+  "numberOfDownloads": 25321,
+  "rating": 4.7,
+  "numberOfVotes": 105,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/craftingstore-net-free-minecraft-donation-system-1-19-compatible.31331/history",
+  "gitUrl": "https://github.com/CraftingStore/MinecraftPlugin",
+  "releaseDate": 1676493660000,
+  "updateDate": 1676493660000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

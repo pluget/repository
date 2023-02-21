@@ -1,0 +1,23 @@
+{
+  "id": 98882,
+  "url": "https://www.spigotmc.org/resources/privatemessages-%E2%80%A2-bungeecord-and-velocity-support.98882/",
+  "name": "PrivateMessages • BungeeCord and Velocity Support",
+  "description": "A new proxy plugin for writing private messages!",
+  "authors": [
+    "zMario"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98882.jpg?1641134818",
+  "iconCid": "bafkreibf5w4tsgdumeabcj4qd7awqarozklvtzryt6nrniorirma7xganm",
+  "numberOfDownloads": 273,
+  "rating": 3.4,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/privatemessages-%E2%80%A2-bungeecord-and-velocity-support.98882/history",
+  "gitUrl": "https://github.com/zMario34/PrivateMessages",
+  "releaseDate": 1641130740000,
+  "updateDate": 1672520100000,
+  "versions": [
+    "1.8",
+    "1.18",
+    "1.19"
+  ]
+}

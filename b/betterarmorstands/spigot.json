@@ -1,0 +1,22 @@
+{
+  "id": 103375,
+  "url": "https://www.spigotmc.org/resources/betterarmorstands-gui-for-admins-players.103375/",
+  "name": "BetterArmorstands - GUI for Admins & Players",
+  "description": "Allow players to view the names and lores of items on armorstands!",
+  "authors": [
+    "Chrxssy"
+  ],
+  "numberOfDownloads": 36,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterarmorstands-gui-for-admins-players.103375/history",
+  "gitUrl": "https://github.com/AwesomeMc101/Skripts/blob/main/Public/BetterArmorstand.sk",
+  "releaseDate": 1657828560000,
+  "updateDate": 1657828560000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

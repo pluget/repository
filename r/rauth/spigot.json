@@ -1,0 +1,21 @@
+{
+  "id": 107381,
+  "url": "https://www.spigotmc.org/resources/rauth.107381/",
+  "name": "rAuth",
+  "description": "A really simple Authentication plugin with useful commands",
+  "authors": [
+    "Szvut"
+  ],
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rauth.107381/history",
+  "releaseDate": 1673695680000,
+  "updateDate": 1673695680000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 101426,
+  "url": "https://www.spigotmc.org/resources/vanillachallenges.101426/",
+  "name": "VanillaChallenges",
+  "description": "Looking challenges for your server? Try Vanilla Challenges!",
+  "authors": [
+    "eliotesta98"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101426.jpg?1650149077",
+  "iconCid": "bafkreiaxjvl4imzbzgrc3v34idpgmko3jwv2jyscw6kzm2o6ipyulyztoe",
+  "numberOfDownloads": 960,
+  "rating": 4.8,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/vanillachallenges.101426/history",
+  "releaseDate": 1676485560000,
+  "updateDate": 1676485560000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

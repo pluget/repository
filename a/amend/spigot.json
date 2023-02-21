@@ -1,0 +1,21 @@
+{
+  "id": 107555,
+  "url": "https://www.spigotmc.org/resources/amend.107555/",
+  "name": "Amend",
+  "description": "A plugin that auto updates PAPER or PURPUR to the newest version based on the Minecraft version.",
+  "authors": [
+    "MrTronMan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107555.jpg?1674432492",
+  "iconCid": "bafkreidfkgktnydykbemby266lt6e64zdubni2ttpszvfjryy6gdct7xbi",
+  "numberOfDownloads": 22,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/amend.107555/history",
+  "gitUrl": "https://amend.mrtron.dev/github",
+  "releaseDate": 1674428880000,
+  "updateDate": 1674429420000,
+  "versions": [
+    "1.19"
+  ]
+}

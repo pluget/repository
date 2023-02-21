@@ -1,0 +1,29 @@
+{
+  "id": 93412,
+  "url": "https://www.spigotmc.org/resources/tags.93412/",
+  "name": "Tags",
+  "description": "A plugin that adds suffixes to a player's name in chat!",
+  "authors": [
+    "liltinyten"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93412.jpg?1623969308",
+  "iconCid": "bafkreidsjhzgjssmwp3vbukdy6tzyjcmdqooegvqunyuip3vhmr4ilip4a",
+  "numberOfDownloads": 706,
+  "rating": 3,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tags.93412/history",
+  "releaseDate": 1623965520000,
+  "updateDate": 1676390280000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

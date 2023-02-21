@@ -1,0 +1,32 @@
+{
+  "id": 102843,
+  "url": "https://www.spigotmc.org/resources/1-8-1-19-xclaim-better-chunk-claiming-for-smps.102843/",
+  "name": "[1.8 - 1.19] XClaim | Better chunk claiming for SMPs",
+  "description": "A better chunk claiming system",
+  "authors": [
+    "Wasabi_Thumbs"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102843.jpg?1656025432",
+  "iconCid": "bafkreighwpw6f4uxear6sz3cjj3rrtduufjdrhrkrmoa5ybo33fupk7bs4",
+  "numberOfDownloads": 1867,
+  "rating": 4.6,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/1-8-1-19-xclaim-better-chunk-claiming-for-smps.102843/history",
+  "gitUrl": "https://github.com/WasabiThumb/xclaim",
+  "releaseDate": 1676820240000,
+  "updateDate": 1676820240000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

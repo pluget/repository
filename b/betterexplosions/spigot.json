@@ -1,0 +1,28 @@
+{
+  "id": 107733,
+  "url": "https://www.spigotmc.org/resources/betterexplosions.107733/",
+  "name": "BetterExplosions",
+  "description": "AwesomeLooking Explosions",
+  "authors": [
+    "yoran"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107733.jpg?1675173087",
+  "iconCid": "bafkreidutjibzr3tiexjdqmqh2sxy672l4zes63xqvrqnlb27zkv7ihws4",
+  "numberOfDownloads": 113,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterexplosions.107733/history",
+  "gitUrl": "https://github.com/NicoXCoding/BetterExplosions",
+  "releaseDate": 1675169460000,
+  "updateDate": 1675949100000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

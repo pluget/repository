@@ -1,0 +1,27 @@
+{
+  "id": 101261,
+  "url": "https://www.spigotmc.org/resources/mmgen-mythic-mob-gui.101261/",
+  "name": "MMGen - Mythic Mob GUI",
+  "description": "MMGen is a mythic mob specific IDE that accelerates your mythic mob development",
+  "authors": [
+    "alix677"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101261.jpg?1649549067",
+  "iconCid": "bafkreidddkmrdufk5om6ymrhoerpwx6baxu2xvet7jo47tsjem4l2qgm2i",
+  "numberOfDownloads": 868,
+  "rating": 3,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mmgen-mythic-mob-gui.101261/history",
+  "releaseDate": 1649929680000,
+  "updateDate": 1674858780000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

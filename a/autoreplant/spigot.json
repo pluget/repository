@@ -1,0 +1,21 @@
+{
+  "id": 106269,
+  "url": "https://www.spigotmc.org/resources/autoreplant.106269/",
+  "name": "AutoReplant",
+  "description": "Automates the Replant Process so you don't have to care about that on your Server!",
+  "authors": [
+    "Blautee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106269.jpg?1668453217",
+  "iconCid": "bafkreib6kpht4zlwhqgmyvhpy2s4ekdtjwcau3ufzwyoleyso37pvd2fda",
+  "numberOfDownloads": 197,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/autoreplant.106269/history",
+  "gitUrl": "https://github.com/Blautee/AutoReplant",
+  "releaseDate": 1668449580000,
+  "updateDate": 1669120920000,
+  "versions": [
+    "1.19"
+  ]
+}

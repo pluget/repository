@@ -1,0 +1,22 @@
+{
+  "id": 106388,
+  "url": "https://www.spigotmc.org/resources/pingchat.106388/",
+  "name": "PingChat",
+  "description": "ping other players",
+  "authors": [
+    "Betong"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106388.jpg?1669145033",
+  "iconCid": "bafkreidb22mg4a52dhyg6wg6ugstx4hkpcwnboc2irogcohc5ui7lxqehu",
+  "numberOfDownloads": 48,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pingchat.106388/history",
+  "gitUrl": "https://github.com/Betong1337/plugins-PingChat",
+  "releaseDate": 1669141380000,
+  "updateDate": 1669568880000,
+  "versions": [
+    "1.12",
+    "1.13"
+  ]
+}

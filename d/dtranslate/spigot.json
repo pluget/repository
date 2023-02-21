@@ -1,0 +1,19 @@
+{
+  "id": 105498,
+  "url": "https://www.spigotmc.org/resources/dtranslate.105498/",
+  "name": "dTranslate",
+  "description": "A Denizen script to auto translate chat messages.",
+  "authors": [
+    "Spikehidden"
+  ],
+  "numberOfDownloads": 42,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dtranslate.105498/history",
+  "gitUrl": "https://github.com/spikehidden/dTranslate",
+  "releaseDate": 1664310240000,
+  "updateDate": 1664310240000,
+  "versions": [
+    "1.19"
+  ]
+}

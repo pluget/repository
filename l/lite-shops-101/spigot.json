@@ -1,0 +1,22 @@
+{
+  "id": 104921,
+  "url": "https://www.spigotmc.org/resources/lite-shops-1-0-1.104921/",
+  "name": "Lite Shops 1.0.1",
+  "description": "Simple and functional shops plugin",
+  "authors": [
+    "DVDishka"
+  ],
+  "numberOfDownloads": 22,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lite-shops-1-0-1.104921/history",
+  "gitUrl": "https://github.com/DVDishka/Shops/tree/Spigot",
+  "releaseDate": 1661799720000,
+  "updateDate": 1661799720000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 107048,
+  "url": "https://www.spigotmc.org/resources/forcefield.107048/",
+  "name": "ForceField",
+  "description": "Very epic, yet simplistic, forcefield plugin!",
+  "authors": [
+    "srnyx"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107048.jpg?1672371400",
+  "iconCid": "bafkreicrjwrfzu2qud4rg5jmh2dobqakfweumuuerj2dktgf274hfnyh3q",
+  "numberOfDownloads": 59,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/forcefield.107048/history",
+  "gitUrl": "https://github.com/srnyx/forcefield",
+  "releaseDate": 1672367760000,
+  "updateDate": 1672889580000,
+  "versions": [
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

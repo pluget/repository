@@ -1,0 +1,27 @@
+{
+  "id": 108076,
+  "url": "https://www.spigotmc.org/resources/gandusfakeleave.108076/",
+  "name": "GandusFakeLeave",
+  "description": "fakeleave tab inv",
+  "authors": [
+    "GANDUIS"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108076.jpg?1676681154",
+  "iconCid": "bafkreibfl2vxh46oq4bgjp5phfw66kwvb7c3dovqqgrp2nuezj3wmifgbu",
+  "numberOfDownloads": 4,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gandusfakeleave.108076/history",
+  "gitUrl": "https://drive.google.com/uc?export=download&id=1GiNyQKZGOhtXaBqpPcEp7HwnY07Lh_0H",
+  "releaseDate": 1676677440000,
+  "updateDate": 1676677440000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

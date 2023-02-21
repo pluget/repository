@@ -1,0 +1,23 @@
+{
+  "id": 107811,
+  "url": "https://www.spigotmc.org/resources/voidwarp.107811/",
+  "name": "VoidWarp",
+  "description": "Teleport players when they fall in the void",
+  "authors": [
+    "CoolDCB"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107811.jpg?1675480066",
+  "iconCid": "bafkreibfezjk5qwp6dv3ol3b6dv3dkgmb6brka6ot4srfjpmwzwjlcojjm",
+  "numberOfDownloads": 73,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/voidwarp.107811/history",
+  "releaseDate": 1675476420000,
+  "updateDate": 1676155080000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

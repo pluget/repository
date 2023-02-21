@@ -1,0 +1,23 @@
+{
+  "id": 105419,
+  "url": "https://www.spigotmc.org/resources/simplesuggestions-1-17-1-1-19-2.105419/",
+  "name": "SimpleSuggestions [1.17.1 - 1.19.2]",
+  "description": "Allows players to leave suggestions and feedback to your Minecraft server with one command!",
+  "authors": [
+    "ItziSpyder"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105419.jpg?1667024930",
+  "iconCid": "bafkreihj6gnmj3bvybnfn3x4pdh7o6ainhsd6zsu7zypcihpto5a2zmivy",
+  "numberOfDownloads": 85,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplesuggestions-1-17-1-1-19-2.105419/history",
+  "gitUrl": "https://github.com/ItziSpyder/SimpleSuggestions",
+  "releaseDate": 1663988280000,
+  "updateDate": 1667152620000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

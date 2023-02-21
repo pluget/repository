@@ -1,0 +1,23 @@
+{
+  "id": 84083,
+  "url": "https://www.spigotmc.org/resources/protected-zones.84083/",
+  "name": "Protected Zones",
+  "description": "Protect your builds against griefers and monsters!",
+  "authors": [
+    "dagobertdu94"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84083.jpg?1624375752",
+  "iconCid": "bafkreig6aotmjrv7ly6vpfqjcydqjiqhjdggshz6ys7tjfyrlrr34hox6i",
+  "numberOfDownloads": 837,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/protected-zones.84083/history",
+  "releaseDate": 1600707720000,
+  "updateDate": 1661776020000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

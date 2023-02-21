@@ -1,0 +1,23 @@
+{
+  "id": 107370,
+  "url": "https://www.spigotmc.org/resources/zombifyvillagers-1-17.107370/",
+  "name": "ZombifyVillagers [1.17+]",
+  "description": "Custom Villager Zombification Chance | Lightweight | Highly Customizable",
+  "authors": [
+    "ExoBiTe"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107370.jpg?1673644886",
+  "iconCid": "bafkreietybqvnz54kq2raugq2pboz3vthi4gsgsjfzvh7fe56v73zag45m",
+  "numberOfDownloads": 68,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/zombifyvillagers-1-17.107370/history",
+  "gitUrl": "https://github.com/ExoBiTe/ZombifyVillagers",
+  "releaseDate": 1673623200000,
+  "updateDate": 1673774760000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

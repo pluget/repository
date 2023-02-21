@@ -1,0 +1,23 @@
+{
+  "id": 105271,
+  "url": "https://www.spigotmc.org/resources/dropconfirm.105271/",
+  "name": "DropConfirm",
+  "description": "No longer drop important items",
+  "authors": [
+    "leop2"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105271.jpg?1663113426",
+  "iconCid": "bafkreiakxbdyysqlfpzux33kcklhkiv5vep7iw256vuonysanozdj3tisq",
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dropconfirm.105271/history",
+  "gitUrl": "https://github.com/LeoMeinel/DropConfirm",
+  "releaseDate": 1663109820000,
+  "updateDate": 1663109820000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

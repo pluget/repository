@@ -1,0 +1,22 @@
+{
+  "id": 59174,
+  "url": "https://www.spigotmc.org/resources/lapis-chat.59174/",
+  "name": "Lapis Chat",
+  "description": "The Simple Channel Solution",
+  "authors": [
+    "dart2112"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/59/59174.jpg?1532792430",
+  "iconCid": "bafkreibyw5kulgbxwfte34wybbyll6yqwooq3q2mxjqx2r5vsibyt6y4ja",
+  "numberOfDownloads": 559,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lapis-chat.59174/history",
+  "gitUrl": "https://github.com/LapisPlugins/LapisChat/",
+  "releaseDate": 1532788800000,
+  "updateDate": 1665562260000,
+  "versions": [
+    "1.12",
+    "1.13"
+  ]
+}

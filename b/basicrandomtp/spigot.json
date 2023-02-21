@@ -1,0 +1,32 @@
+{
+  "id": 105334,
+  "url": "https://www.spigotmc.org/resources/basicrandomtp-%C2%B7-support-negative-cords.105334/",
+  "name": "BasicRandomTP · Support negative cords",
+  "description": "Random Teleport plugin",
+  "authors": [
+    "iChocoMC_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105334.jpg?1668365770",
+  "iconCid": "bafkreicgywn7vzgrspnhxib2mhqocpue6b5vcqzwluu2v7yuyop2shk3da",
+  "numberOfDownloads": 38,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/basicrandomtp-%C2%B7-support-negative-cords.105334/history",
+  "gitUrl": "https://github.com/iChocoMC/BasicRTP/tree/master",
+  "releaseDate": 1663439040000,
+  "updateDate": 1668365280000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

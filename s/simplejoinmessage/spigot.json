@@ -1,0 +1,32 @@
+{
+  "id": 103413,
+  "url": "https://www.spigotmc.org/resources/simplejoinmessage-edit-your-join-message-with-web-editor-1-8-1-19.103413/",
+  "name": "SimpleJoinMessage | Edit your join message with Web Editor [1.8 - 1.19]",
+  "description": "A simple join message plugin · Hex/Gradient/Clickable URL · PAPI · Send Delay",
+  "authors": [
+    "HappyAreaBean"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103413.jpg?1657975336",
+  "iconCid": "bafkreic22tbcrj3vkyyxuiyh4wgc26scysjh6ervafzy2o6eytmrrsyfaa",
+  "numberOfDownloads": 242,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplejoinmessage-edit-your-join-message-with-web-editor-1-8-1-19.103413/history",
+  "gitUrl": "https://go.happyareabean.cc/sjm",
+  "releaseDate": 1657971720000,
+  "updateDate": 1669649520000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

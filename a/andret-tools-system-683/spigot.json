@@ -1,0 +1,23 @@
+{
+  "id": 683,
+  "url": "https://www.spigotmc.org/resources/ats-andret-tools-system-help-easy-way-to-create-help-requests-from-players-to-admins.683/",
+  "name": "[ATS] Andret Tools System | Help | Easy way to create help requests from players to admins",
+  "description": "This is simple plugin which allow players to direct contact to administrators.",
+  "authors": [
+    "Andret2344"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/0/683.jpg?1403525202",
+  "iconCid": "bafkreiacwz2bevjv7zjgqez7vmaapfwu7zxjrjtbaykvhiqodujq56wn6u",
+  "numberOfDownloads": 232,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ats-andret-tools-system-help-easy-way-to-create-help-requests-from-players-to-admins.683/history",
+  "gitUrl": "https://gitlab.com/andret-tools-system/spigot/ats-help",
+  "releaseDate": 1403521560000,
+  "updateDate": 1661193840000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

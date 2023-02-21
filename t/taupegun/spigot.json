@@ -1,0 +1,21 @@
+{
+  "id": 71186,
+  "url": "https://www.spigotmc.org/resources/taupegun.71186/",
+  "name": "TaupeGun",
+  "description": "A TaupeGun spigot plugin that can be configured directly in game with an integrable database",
+  "authors": [
+    "TheDarven"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/71/71186.jpg?1568131748",
+  "iconCid": "bafkreifqzgodbjh4zyeaf2ytdb66vm3zexwcoxbclynuxz5dccb6rdldta",
+  "numberOfDownloads": 2744,
+  "rating": 4.7,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/taupegun.71186/history",
+  "gitUrl": "https://github.com/TheDarven/taupegun",
+  "releaseDate": 1568128020000,
+  "updateDate": 1673788140000,
+  "versions": [
+    "1.8"
+  ]
+}

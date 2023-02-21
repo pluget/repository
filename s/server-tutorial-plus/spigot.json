@@ -1,0 +1,31 @@
+{
+  "id": 37741,
+  "url": "https://www.spigotmc.org/resources/server-tutorial-plus.37741/",
+  "name": "Server Tutorial Plus",
+  "description": "Introduce players to your server with unlimited tutorials! Many customisations! Free!",
+  "authors": [
+    "MartenM"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/37/37741.jpg?1489317091",
+  "iconCid": "bafkreicufvtoxwsp7a7jutlg5owcqwj2o6bum5aqcdu3jhwi3k3blqd7zm",
+  "numberOfDownloads": 21639,
+  "rating": 4.5,
+  "numberOfVotes": 124,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/server-tutorial-plus.37741/history",
+  "gitUrl": "https://github.com/MartenM/ServerTutorialPlus",
+  "releaseDate": 1489313460000,
+  "updateDate": 1662622680000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

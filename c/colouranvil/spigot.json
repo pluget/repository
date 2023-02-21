@@ -1,0 +1,26 @@
+{
+  "id": 65062,
+  "url": "https://www.spigotmc.org/resources/colouranvil.65062/",
+  "name": "ColourAnvil",
+  "description": "A Simple Plugin That Allows Players To Customize There Items With Color Codes and Lore",
+  "authors": [
+    "EliteGKFire"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/65/65062.jpg?1550688865",
+  "iconCid": "bafkreiabjjxg5c4hik3d244yqv6nh3gzktycweoe6kkli2dh22dfpr7dei",
+  "numberOfDownloads": 5899,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/colouranvil.65062/history",
+  "gitUrl": "https://github.com/GKFire/ColorAnvil",
+  "releaseDate": 1550684820000,
+  "updateDate": 1659574200000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

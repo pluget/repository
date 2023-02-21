@@ -1,0 +1,20 @@
+{
+  "id": 105733,
+  "url": "https://www.spigotmc.org/resources/nicknameconfig.105733/",
+  "name": "NicknameConfig",
+  "description": "Adds a config file, which lets you change the name of players.",
+  "authors": [
+    "kalle2000"
+  ],
+  "numberOfDownloads": 62,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nicknameconfig.105733/history",
+  "gitUrl": "https://github.com/kfc-manager/NicknameConfig",
+  "releaseDate": 1665500220000,
+  "updateDate": 1665578580000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

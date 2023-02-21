@@ -1,0 +1,27 @@
+{
+  "id": 59218,
+  "url": "https://www.spigotmc.org/resources/nerfphantoms.59218/",
+  "name": "NerfPhantoms",
+  "description": "Nerf or disable Phantom mobs",
+  "authors": [
+    "Tallcraft"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/59/59218.jpg?1532880508",
+  "iconCid": "bafkreif352fps7wmqd4svb5mh2emcsq3w3lzjhiqaj3pch6ksar2kt5rqu",
+  "numberOfDownloads": 14403,
+  "rating": 4.8,
+  "numberOfVotes": 17,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nerfphantoms.59218/history",
+  "gitUrl": "https://github.com/Tallcraft/NerfPhantoms",
+  "releaseDate": 1532875200000,
+  "updateDate": 1666194660000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

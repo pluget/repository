@@ -1,0 +1,23 @@
+{
+  "id": 46952,
+  "url": "https://www.spigotmc.org/resources/luckyman.46952/",
+  "name": "LuckyMan",
+  "description": "LuckyMan give you a chance to exchange item by another better or not.",
+  "authors": [
+    "Patfreeze"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/46/46952.jpg?1504981139",
+  "iconCid": "bafkreieezgjss47w53gfa7pbg3v7zy5thilwunbpvuivnnt7kbzgzutyzi",
+  "numberOfDownloads": 728,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/luckyman.46952/history",
+  "gitUrl": "https://github.com/Patfreeze/LuckyMan",
+  "releaseDate": 1504976880000,
+  "updateDate": 1675616520000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

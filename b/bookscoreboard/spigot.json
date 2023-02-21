@@ -1,0 +1,22 @@
+{
+  "id": 104087,
+  "url": "https://www.spigotmc.org/resources/bookscoreboard.104087/",
+  "name": "BookScoreBoard",
+  "description": "hate the traditional right-hand-side scoreboard? keep the scoreboard or other info in a book!",
+  "authors": [
+    "KevynTang"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104087.jpg?1659670332",
+  "iconCid": "bafkreibubwbudx7c232qrc4znosw6rkuycmakqzue4qyz37o2nwqxtqu3u",
+  "numberOfDownloads": 89,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bookscoreboard.104087/history",
+  "gitUrl": "https://github.com/KevynTang/BookScoreBoard",
+  "releaseDate": 1659666540000,
+  "updateDate": 1660094520000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

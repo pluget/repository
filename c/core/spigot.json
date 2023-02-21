@@ -1,0 +1,19 @@
+{
+  "id": 104946,
+  "url": "https://www.spigotmc.org/resources/core.104946/",
+  "name": "Core",
+  "description": "The Core is required to be installed for all plugins that have been developed by us.",
+  "authors": [
+    "Rengobli"
+  ],
+  "numberOfDownloads": 311,
+  "rating": 4,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/core.104946/history",
+  "gitUrl": "https://github.com/Peirleitner-Development/Core",
+  "releaseDate": 1661873400000,
+  "updateDate": 1673196600000,
+  "versions": [
+    "1.19"
+  ]
+}

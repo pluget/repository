@@ -1,0 +1,32 @@
+{
+  "id": 88136,
+  "url": "https://www.spigotmc.org/resources/effectranks-1-8-support.88136/",
+  "name": "EffectRanks | 1.8+ Support",
+  "description": "A plugin that allows you to have custom effects according to your group/permission.",
+  "authors": [
+    "turbodavid999e"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88136.jpg?1611279489",
+  "iconCid": "bafkreialt7goa2szrit5x3iqjftybc6detkvkiitfa56ecdvbnysd3u64e",
+  "numberOfDownloads": 347,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/effectranks-1-8-support.88136/history",
+  "gitUrl": "https://github.com/BryanGamingDV/EffectRanks",
+  "releaseDate": 1611275880000,
+  "updateDate": 1666131420000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

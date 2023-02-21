@@ -1,0 +1,32 @@
+{
+  "id": 100955,
+  "url": "https://www.spigotmc.org/resources/antihealthindicator.100955/",
+  "name": "AntiHealthIndicator",
+  "description": "Prevents players from using health indicator and saturation indicator mods",
+  "authors": [
+    "LaserSlimeHD"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100955.jpg?1648235646",
+  "iconCid": "bafkreifsaxh7saxy7iflvzjf3x5oh6t6w6gs6sizbll6apzwdiizogy2ni",
+  "numberOfDownloads": 278,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antihealthindicator.100955/history",
+  "gitUrl": "https://github.com/LaserSlime/AntiHealthIndicator",
+  "releaseDate": 1648231980000,
+  "updateDate": 1671733380000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

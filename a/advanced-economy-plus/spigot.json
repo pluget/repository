@@ -1,0 +1,24 @@
+{
+  "id": 79828,
+  "url": "https://www.spigotmc.org/resources/advanced-economy-plus.79828/",
+  "name": "Advanced Economy Plus",
+  "description": "Economy with Mysql, Bungeecord, statistical analytical commands, and a support for IFH (A Vault++)!",
+  "authors": [
+    "Avankziar"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79828.jpg?1591520747",
+  "iconCid": "bafkreih5765hdy575zsp6s6f7gz3icgmummufkocosmbodp7tlizmta62y",
+  "numberOfDownloads": 1204,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advanced-economy-plus.79828/history",
+  "gitUrl": "https://github.com/Avankziar/AdvanceEconomyPlus",
+  "releaseDate": 1676731080000,
+  "updateDate": 1676731080000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

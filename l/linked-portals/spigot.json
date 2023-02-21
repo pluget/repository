@@ -1,0 +1,23 @@
+{
+  "id": 97004,
+  "url": "https://www.spigotmc.org/resources/linked-portals.97004/",
+  "name": "Linked Portals",
+  "description": "In-game mechanic to keep a nether portal reliably and consistently linked to another nether portal",
+  "authors": [
+    "BornToCode"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97004.jpg?1634866107",
+  "iconCid": "bafkreickehwsacentpe6f4mjfvtwfuamwtmm7xeliayy3oikeyt3nu35pe",
+  "numberOfDownloads": 710,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/linked-portals.97004/history",
+  "releaseDate": 1634862240000,
+  "updateDate": 1660355040000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

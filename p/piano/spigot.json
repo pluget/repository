@@ -1,0 +1,23 @@
+{
+  "id": 103490,
+  "url": "https://www.spigotmc.org/resources/piano.103490/",
+  "name": "Piano",
+  "description": "Play with your friends on the interactive piano model and play MIDI files, great for lobby",
+  "authors": [
+    "JacekWoln"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103490.jpg?1658193103",
+  "iconCid": "bafkreifmevxfj2wkqcbl5hu5hpiaha2jhd2jwwgrg6vexhuirj7ejhjani",
+  "numberOfDownloads": 895,
+  "rating": 4.9,
+  "numberOfVotes": 13,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/piano.103490/history",
+  "gitUrl": "https://github.com/jwdeveloper/JW_Piano",
+  "releaseDate": 1658189460000,
+  "updateDate": 1674113400000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

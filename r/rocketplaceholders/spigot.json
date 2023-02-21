@@ -1,0 +1,33 @@
+{
+  "id": 82678,
+  "url": "https://www.spigotmc.org/resources/rocketplaceholders-custom-placeholders.82678/",
+  "name": "RocketPlaceholders - Custom Placeholders",
+  "description": "Create custom placeholders for PlaceholderAPI with a lot of custom conditions.",
+  "authors": [
+    "Lorenzo0111"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82678.jpg?1614444383",
+  "iconCid": "bafkreicfoen67ldw4elpttludtp3z55ffcxet3rpvit6esibcvon44akzu",
+  "numberOfDownloads": 3306,
+  "rating": 4.9,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rocketplaceholders-custom-placeholders.82678/history",
+  "gitUrl": "https://github.com/Lorenzo0111/RocketPlaceholders",
+  "releaseDate": 1597250700000,
+  "updateDate": 1672313580000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

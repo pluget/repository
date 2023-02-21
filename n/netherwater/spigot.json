@@ -1,0 +1,28 @@
+{
+  "id": 90989,
+  "url": "https://www.spigotmc.org/resources/netherwater.90989/",
+  "name": "NetherWater",
+  "description": "Allows placing of water inside the nether",
+  "authors": [
+    "MrShawn"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90989.jpg?1617708862",
+  "iconCid": "bafkreifcafbr4p5dlxepffrbx6pnfxgfzuhe64wdnq4ylair7ukqai2t6m",
+  "numberOfDownloads": 240,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/netherwater.90989/history",
+  "releaseDate": 1617705180000,
+  "updateDate": 1660165860000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

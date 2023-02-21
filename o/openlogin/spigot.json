@@ -1,0 +1,33 @@
+{
+  "id": 57272,
+  "url": "https://www.spigotmc.org/resources/openlogin-1-7x-1-19x.57272/",
+  "name": "OpeNLogin [1.7X -1.19X]",
+  "description": "A practical, secure and friendly authentication plugin.",
+  "authors": [
+    "NickUltracraft"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/57/57272.jpg?1650475031",
+  "iconCid": "bafkreialawa2xpxp7qnoh4odepetpz2rzknruwc35nqgoot7xlav6bn62i",
+  "numberOfDownloads": 445590,
+  "rating": 4.6,
+  "numberOfVotes": 155,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/openlogin-1-7x-1-19x.57272/history",
+  "gitUrl": "https://github.com/nickuc/OpeNLogin",
+  "releaseDate": 1527640080000,
+  "updateDate": 1675989120000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

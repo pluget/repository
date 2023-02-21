@@ -1,0 +1,32 @@
+{
+  "id": 105613,
+  "url": "https://www.spigotmc.org/resources/sknte-nametagedit-skript-addon.105613/",
+  "name": "skNTE | NameTagEdit Skript Addon",
+  "description": "A simple skript addon adding support for NameTagEdit",
+  "authors": [
+    "paulmertens"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105613.jpg?1664863952",
+  "iconCid": "bafkreihn6oc4jj4kzv4tlf5ohvxmpvt4mjbgv3ghiupixehj53qb4nqfp4",
+  "numberOfDownloads": 120,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sknte-nametagedit-skript-addon.105613/history",
+  "releaseDate": 1664860320000,
+  "updateDate": 1664873220000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

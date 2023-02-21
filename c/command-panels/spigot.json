@@ -1,0 +1,32 @@
+{
+  "id": 67788,
+  "url": "https://www.spigotmc.org/resources/command-panels-custom-guis.67788/",
+  "name": "Command Panels | Custom GUIs",
+  "description": "Fully Custom GUIs. Simple setup, Advanced functions.",
+  "authors": [
+    "RockyHawk"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/67/67788.jpg?1594726062",
+  "iconCid": "bafkreifrkjijok7vj2laphdjpqg4gmquh6nip7n2zxkxdctzbgn4gbinwi",
+  "numberOfDownloads": 90861,
+  "rating": 4.7,
+  "numberOfVotes": 199,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/command-panels-custom-guis.67788/history",
+  "gitUrl": "https://github.com/rockyhawk64/CommandPanels",
+  "releaseDate": 1559046780000,
+  "updateDate": 1675834080000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 107912,
+  "url": "https://www.spigotmc.org/resources/hbedwars-addon.107912/",
+  "name": "Hbedwars Addon",
+  "description": "This plugin is for HBedwars and it will automatically rejoin a player if they disconnect.",
+  "authors": [
+    "Youniss"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107912.jpg?1675941822",
+  "iconCid": "bafkreiffxc5iojm2nmqfnkodvge7lr22jkfngmyaw3sylpfg4lrsybkr6q",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hbedwars-addon.107912/history",
+  "releaseDate": 1675938180000,
+  "updateDate": 1675938180000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

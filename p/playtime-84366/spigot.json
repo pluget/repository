@@ -1,0 +1,31 @@
+{
+  "id": 84366,
+  "url": "https://www.spigotmc.org/resources/playtime.84366/",
+  "name": "Playtime",
+  "description": "Simple /playtime command to see your playtime on server",
+  "authors": [
+    "Zach_FR"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84366.jpg?1612990909",
+  "iconCid": "bafkreignbqgvx7j2vhihtc4qlyfvxzce3bt6mzqf56zsmjggc7o2ekakqu",
+  "numberOfDownloads": 8350,
+  "rating": 5,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playtime.84366/history",
+  "releaseDate": 1601552580000,
+  "updateDate": 1674177120000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

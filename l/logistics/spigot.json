@@ -1,0 +1,21 @@
+{
+  "id": 102713,
+  "url": "https://www.spigotmc.org/resources/nova-addon-logistics.102713/",
+  "name": "[Nova-Addon] Logistics",
+  "description": "Cables, Power Cells, Item Storage and more for your Nova server",
+  "authors": [
+    "xenondevs"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102713.jpg?1655566292",
+  "iconCid": "bafkreid5mdaf4tdtmcxreh3cevuc72d6hocjmq6pw56gzkicddkqv5zgmy",
+  "numberOfDownloads": 1437,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nova-addon-logistics.102713/history",
+  "gitUrl": "https://github.com/Nova-Addons/Logistics",
+  "releaseDate": 1655562660000,
+  "updateDate": 1671284280000,
+  "versions": [
+    "1.19"
+  ]
+}

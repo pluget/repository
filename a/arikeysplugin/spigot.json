@@ -1,0 +1,21 @@
+{
+  "id": 105968,
+  "url": "https://www.spigotmc.org/resources/arikeysplugin-custom-keybinds.105968/",
+  "name": "AriKeysPlugin - Custom Keybinds",
+  "description": "Receive custom key presses from the AriKeys client mod!",
+  "authors": [
+    "ASangarin"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105968.jpg?1667397232",
+  "iconCid": "bafkreigw5kj2ikqdaoax7654jfuih6qwim52htzdryvgiakpu6i3qvxwtu",
+  "numberOfDownloads": 117,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/arikeysplugin-custom-keybinds.105968/history",
+  "gitUrl": "https://github.com/ASangarin/AriKeys",
+  "releaseDate": 1666981860000,
+  "updateDate": 1666981860000,
+  "versions": [
+    "1.19"
+  ]
+}

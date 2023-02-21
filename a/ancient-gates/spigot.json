@@ -1,0 +1,33 @@
+{
+  "id": 6583,
+  "url": "https://www.spigotmc.org/resources/ancient-gates.6583/",
+  "name": "Ancient Gates",
+  "description": "Regular and Bungee portal plugin that works from 1.7 to 1.19",
+  "authors": [
+    "ChanceSD"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/6/6583.jpg?1430532118",
+  "iconCid": "bafkreiepwgyizc22exvm5s4ecwtlggjrt6aqdt2ul7tkliaoniunelwlfa",
+  "numberOfDownloads": 78118,
+  "rating": 4.3,
+  "numberOfVotes": 39,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ancient-gates.6583/history",
+  "gitUrl": "https://github.com/ChanceSD/AncientGates",
+  "releaseDate": 1430442240000,
+  "updateDate": 1662302520000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

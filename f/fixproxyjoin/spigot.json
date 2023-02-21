@@ -1,0 +1,28 @@
+{
+  "id": 106708,
+  "url": "https://www.spigotmc.org/resources/fixproxyjoin.106708/",
+  "name": "FixProxyJoin",
+  "description": "Blocks fake bungee connection",
+  "authors": [
+    "Zorotex"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106708.jpg?1670884798",
+  "iconCid": "bafkreidvng5cgvrtflnlt5mlmmtwq72jw6g6v3qkwi6pjjdcdrjypjhf2m",
+  "numberOfDownloads": 59,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fixproxyjoin.106708/history",
+  "gitUrl": "https://github.com/Karusel/FixProxyJoin",
+  "releaseDate": 1670881140000,
+  "updateDate": 1670881140000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

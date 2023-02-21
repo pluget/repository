@@ -1,0 +1,32 @@
+{
+  "id": 79601,
+  "url": "https://www.spigotmc.org/resources/bungeeguard.79601/",
+  "name": "BungeeGuard",
+  "description": "A simple plugin which adds a security token to the BungeeCord handshaking protocol.",
+  "authors": [
+    "Luck"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79601.jpg?1607976340",
+  "iconCid": "bafkreiamus2funqcn2at34vmcrwl2c6koieajzxjnltea56by7xzscjqoe",
+  "numberOfDownloads": 32947,
+  "rating": 4.2,
+  "numberOfVotes": 62,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bungeeguard.79601/history",
+  "gitUrl": "https://github.com/lucko/BungeeGuard",
+  "releaseDate": 1676446080000,
+  "updateDate": 1676446080000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 88015,
+  "url": "https://www.spigotmc.org/resources/nexauth-simple-auth-system-for-offline-mode.88015/",
+  "name": "NexAuth - Simple auth system for offline mode",
+  "description": "Simple auth/register system for offline mode servers. [1.17 - 1.19]",
+  "authors": [
+    "NightExpress"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88015.jpg?1637065846",
+  "iconCid": "bafkreightt3zvthgzdmnnp2r6mwjjtaelzg6txurxqqkiulqm5zfbtg7iu",
+  "numberOfDownloads": 23903,
+  "rating": 4.6,
+  "numberOfVotes": 19,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nexauth-simple-auth-system-for-offline-mode.88015/history",
+  "releaseDate": 1610988000000,
+  "updateDate": 1672061820000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

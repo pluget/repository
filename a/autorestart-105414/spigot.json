@@ -1,0 +1,27 @@
+{
+  "id": 105414,
+  "url": "https://www.spigotmc.org/resources/%E2%80%BA-autorestart-keep-your-server-fresh-%E2%9C%93-%E2%80%B9.105414/",
+  "name": "› AutoRestart | Keep your server fresh ✓ ‹",
+  "description": "With configurable times, warning messages, and cancellation.",
+  "authors": [
+    "Leomelonseeds"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105414.jpg?1663954791",
+  "iconCid": "bafkreigh3sekdcrhjas2jnstj64qs67xj44oawfdrk5fxbagy46smpfv3a",
+  "numberOfDownloads": 155,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%80%BA-autorestart-keep-your-server-fresh-%E2%9C%93-%E2%80%B9.105414/history",
+  "gitUrl": "https://github.com/Leomelonseeds/AutoRestart",
+  "releaseDate": 1663951140000,
+  "updateDate": 1663951140000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

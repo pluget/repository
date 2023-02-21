@@ -1,0 +1,31 @@
+{
+  "id": 64282,
+  "url": "https://www.spigotmc.org/resources/1-8-1-19-3-clearlagtimer-use-a-command-to-check-when-the-next-clearlag-happens.64282/",
+  "name": "[1.8 - 1.19.3] ClearLagTimer - Use a command to check when the next ClearLag happens!",
+  "description": "An addon for the popular plugin ClearLag, supports PlaceholderAPI, sounds & more!",
+  "authors": [
+    "Norska"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/64/64282.jpg?1643563048",
+  "iconCid": "bafkreiacmwzwocvl4uc42jf4nsu4ve55gsr6wvhxbgyx6cdum26pp3tzwi",
+  "numberOfDownloads": 64764,
+  "rating": 4.8,
+  "numberOfVotes": 20,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/1-8-1-19-3-clearlagtimer-use-a-command-to-check-when-the-next-clearlag-happens.64282/history",
+  "releaseDate": 1548366480000,
+  "updateDate": 1659031680000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

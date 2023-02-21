@@ -1,0 +1,22 @@
+{
+  "id": 71576,
+  "url": "https://www.spigotmc.org/resources/auto-smelt.71576/",
+  "name": "Auto Smelt",
+  "description": "Auto Smelt Your Ores!",
+  "authors": [
+    "tweedjt"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/71/71576.jpg?1569439484",
+  "iconCid": "bafkreihpaol5c7i3gdhywcixwgvyr6svkt2py4fqxntjjkqrmctuv3mhl4",
+  "numberOfDownloads": 32841,
+  "rating": 4.5,
+  "numberOfVotes": 13,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/auto-smelt.71576/history",
+  "gitUrl": "https://github.com/tweedjt/Plugins/tree/master/AutoSmelt3",
+  "releaseDate": 1569435840000,
+  "updateDate": 1658942700000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

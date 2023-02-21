@@ -1,0 +1,22 @@
+{
+  "id": 107333,
+  "url": "https://www.spigotmc.org/resources/rhenium-rbj.107333/",
+  "name": "RHENIUM | RBJ",
+  "description": "Edit the Messages that sends when a Player Join and Leave the Server - NOW WITH JOIN SOUND!!!",
+  "authors": [
+    "lul.two"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107333.jpg?1673448787",
+  "iconCid": "bafkreigqfj6gt7poq2j5qcvcdbk2ofzkpys2s2y5mxc4rbm3ueh5auvbe4",
+  "numberOfDownloads": 57,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rhenium-rbj.107333/history",
+  "gitUrl": "https://github.com/lultwo/RBJ",
+  "releaseDate": 1673445120000,
+  "updateDate": 1674946920000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

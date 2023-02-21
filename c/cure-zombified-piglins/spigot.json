@@ -1,0 +1,23 @@
+{
+  "id": 102680,
+  "url": "https://www.spigotmc.org/resources/cure-zombified-piglins.102680/",
+  "name": "Cure Zombified Piglins",
+  "description": "Cure a zombified piglin with a splash potion of weakness and a golden apple.",
+  "authors": [
+    "balustrada"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102680.jpg?1655545440",
+  "iconCid": "bafkreieqkz3qj3rddjsbsog3r7ree3ccruokkj37j7ji42snra2maafqfu",
+  "numberOfDownloads": 112,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cure-zombified-piglins.102680/history",
+  "releaseDate": 1655468940000,
+  "updateDate": 1670267520000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

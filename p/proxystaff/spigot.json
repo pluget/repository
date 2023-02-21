@@ -1,0 +1,24 @@
+{
+  "id": 86946,
+  "url": "https://www.spigotmc.org/resources/proxystaff-staffchat-for-bungeecord-waterfall.86946/",
+  "name": "ProxyStaff - StaffChat for BungeeCord & Waterfall !",
+  "description": "StaffChat for network",
+  "authors": [
+    "PetitMinou12"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/86/86946.jpg?1608567099",
+  "iconCid": "bafkreidyrmj2e7nmnqugf5sfok22j7qfx5b34vv453ec6gxjw7e54xs2re",
+  "numberOfDownloads": 344,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/proxystaff-staffchat-for-bungeecord-waterfall.86946/history",
+  "gitUrl": "https://github.com/Zarinoow/ProxyStaff",
+  "releaseDate": 1608563460000,
+  "updateDate": 1665244920000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

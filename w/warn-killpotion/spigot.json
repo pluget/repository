@@ -1,0 +1,24 @@
+{
+  "id": 104911,
+  "url": "https://www.spigotmc.org/resources/warn-killpotion.104911/",
+  "name": "Warn KillPotion",
+  "description": "Warn if the player has an instant death potion",
+  "authors": [
+    "Marumasa"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104911.jpg?1661763927",
+  "iconCid": "bafkreia5j7kytvv6yddklv3feszc54ye5cghawisah5d3rw66h3hmya2gu",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/warn-killpotion.104911/history",
+  "gitUrl": "https://github.com/malken21/Minecraft_Warn_KillPotion_Spigot",
+  "releaseDate": 1661760300000,
+  "updateDate": 1661760300000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

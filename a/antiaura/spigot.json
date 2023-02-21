@@ -1,0 +1,32 @@
+{
+  "id": 107032,
+  "url": "https://www.spigotmc.org/resources/antiaura-esp-esp-tracers-blocker.107032/",
+  "name": "AntiAura-ESP (ESP / Tracers Blocker)",
+  "description": "Block ESP Hacks on Your Server!",
+  "authors": [
+    "joehot200"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107032.jpg?1672346320",
+  "iconCid": "bafkreieebkmxrn3wii5ickx6espzwxifwpncs4ez3ikszgxvf6uwm22jmq",
+  "numberOfDownloads": 105,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antiaura-esp-esp-tracers-blocker.107032/history",
+  "gitUrl": "https://github.com/joehot200/AntiAura-ESP",
+  "releaseDate": 1672331820000,
+  "updateDate": 1674333660000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

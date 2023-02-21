@@ -1,0 +1,27 @@
+{
+  "id": 106693,
+  "url": "https://www.spigotmc.org/resources/autoreboot.106693/",
+  "name": "AutoReboot",
+  "description": "The simple way to reboot your servers.",
+  "authors": [
+    "Jamm_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106693.jpg?1670817650",
+  "iconCid": "bafkreidkpcvhhsstww4m7t66im7gylpkv5hgefniyxbwroqreszvud5w6y",
+  "numberOfDownloads": 64,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/autoreboot.106693/history",
+  "gitUrl": "https://github.com/justinmtech/AutoReboot",
+  "releaseDate": 1676743860000,
+  "updateDate": 1676743860000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

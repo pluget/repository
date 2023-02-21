@@ -1,0 +1,26 @@
+{
+  "id": 88098,
+  "url": "https://www.spigotmc.org/resources/infinite-villager-trades.88098/",
+  "name": "Infinite Villager Trades",
+  "description": "Allow villagers to trade infinitely",
+  "authors": [
+    "spartacus04"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88098.jpg?1611170927",
+  "iconCid": "bafkreia67ui7utoqt6yrmzctka34y7n5p33i4qimpcvuhcakdknmz6ppvy",
+  "numberOfDownloads": 11150,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/infinite-villager-trades.88098/history",
+  "gitUrl": "https://github.com/spartacus04/InstantRestock",
+  "releaseDate": 1611167280000,
+  "updateDate": 1675754220000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

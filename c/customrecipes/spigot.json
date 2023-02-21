@@ -1,0 +1,24 @@
+{
+  "id": 89435,
+  "url": "https://www.spigotmc.org/resources/customrecipes.89435/",
+  "name": "CustomRecipes",
+  "description": "Allows creating custom recipes",
+  "authors": [
+    "Rial"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89435.jpg?1614117427",
+  "iconCid": "bafkreicabrutyzr7vxnvnxf67ls2nw7goilu6yz22ixdlihiarhdzdwl34",
+  "numberOfDownloads": 393,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/customrecipes.89435/history",
+  "gitUrl": "https://github.com/uprial/customrecipes/",
+  "releaseDate": 1614113760000,
+  "updateDate": 1660108920000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

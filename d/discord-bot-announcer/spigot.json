@@ -1,0 +1,22 @@
+{
+  "id": 100508,
+  "url": "https://www.spigotmc.org/resources/discord-bot-announcer.100508/",
+  "name": "Discord Bot Announcer",
+  "description": "A simple discord integration solution",
+  "authors": [
+    "Tahu964"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100508.jpg?1646589870",
+  "iconCid": "bafkreiexrps6d7xa2dsciy3h72t2eolfgv6lhrjnztm7qgxqc76allmwqe",
+  "numberOfDownloads": 647,
+  "rating": 3.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discord-bot-announcer.100508/history",
+  "gitUrl": "https://github.com/Tahu964/Discord-Bot-Announcer",
+  "releaseDate": 1646542560000,
+  "updateDate": 1674794640000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

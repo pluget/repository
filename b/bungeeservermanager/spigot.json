@@ -1,0 +1,22 @@
+{
+  "id": 24837,
+  "url": "https://www.spigotmc.org/resources/bungeeservermanager-bungeecord-mysql.24837/",
+  "name": "BungeeServerManager [BungeeCord] [MySQL]",
+  "description": "Plugin to manage your servers connected through BungeeCord",
+  "authors": [
+    "NojoLP"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/24/24837.jpg?1465838886",
+  "iconCid": "bafkreia7hyx26uyn6yzpcxxom3nigzikgqpl5qb5ed32z3fkgxozg7tkrm",
+  "numberOfDownloads": 6323,
+  "rating": 4.5,
+  "numberOfVotes": 27,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bungeeservermanager-bungeecord-mysql.24837/history",
+  "gitUrl": "https://git.fetz-gr.ch/NoahFetz/bungeeservermanager",
+  "releaseDate": 1465835220000,
+  "updateDate": 1670783520000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

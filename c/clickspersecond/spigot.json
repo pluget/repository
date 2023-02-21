@@ -1,0 +1,32 @@
+{
+  "id": 57214,
+  "url": "https://www.spigotmc.org/resources/clickspersecond-cps-1-8-1-19-recode-real-time-cps-measurement-and-community-entertainment.57214/",
+  "name": "ClicksPerSecond (CPS) [1.8 - 1.19, RECODE] - Real time CPS measurement and community entertainment.",
+  "description": "A fun way to measure player CPS, which competitively engages and entertains your community.",
+  "authors": [
+    "dejvokep"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/57/57214.jpg?1623956519",
+  "iconCid": "bafkreihzmaoyhy6jbur4plnvtdlea2dho5cn36rictn4dl5iif7qszo6ty",
+  "numberOfDownloads": 49127,
+  "rating": 5,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/clickspersecond-cps-1-8-1-19-recode-real-time-cps-measurement-and-community-entertainment.57214/history",
+  "gitUrl": "https://github.com/dejvokep/clicks-per-second",
+  "releaseDate": 1527422640000,
+  "updateDate": 1657568400000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

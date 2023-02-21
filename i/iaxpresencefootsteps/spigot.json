@@ -1,0 +1,21 @@
+{
+  "id": 102192,
+  "url": "https://www.spigotmc.org/resources/iaxpresencefootsteps.102192/",
+  "name": "IAxPresenceFootsteps",
+  "description": "Add-on plugin for ItemsAdder that adds support for the Presence Footsteps mod",
+  "authors": [
+    "Andre_601"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102192.jpg?1653352345",
+  "iconCid": "bafkreibo324se6hrfv5vdv5lkotghy4jn6y2yhab5kwgrefcpvxljjtjze",
+  "numberOfDownloads": 217,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/iaxpresencefootsteps.102192/history",
+  "gitUrl": "https://github.com/Andre601/IAxPresenceFootsteps",
+  "releaseDate": 1653348540000,
+  "updateDate": 1669639080000,
+  "versions": [
+    "1.18"
+  ]
+}

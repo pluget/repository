@@ -1,0 +1,30 @@
+{
+  "id": 76640,
+  "url": "https://www.spigotmc.org/resources/onestopshop-abandoned.76640/",
+  "name": "OneStopShop [Abandoned]",
+  "description": "This plugin will allow you to sell or buy any item in Minecraft through a GUI menu.",
+  "authors": [
+    "Lee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/76/76640.jpg?1585457726",
+  "iconCid": "bafkreiase6nucyinpqn265i57ae35pg375suhdwybrve557gcvchkbvqgm",
+  "numberOfDownloads": 8496,
+  "rating": 4.4,
+  "numberOfVotes": 44,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/onestopshop-abandoned.76640/history",
+  "gitUrl": "https://github.com/SirLeezus/OneStopShop",
+  "releaseDate": 1585454040000,
+  "updateDate": 1668368820000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

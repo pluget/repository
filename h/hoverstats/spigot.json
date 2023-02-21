@@ -1,0 +1,23 @@
+{
+  "id": 100245,
+  "url": "https://www.spigotmc.org/resources/hoverstats.100245/",
+  "name": "HoverStats",
+  "description": "Converts the player name into a hover able stats message",
+  "authors": [
+    "Brand0n_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100245.jpg?1656568211",
+  "iconCid": "bafkreid3fcfbc3h6lwjmwcqdsoqfa5klfcvn7amz45llctwbir3swhewcu",
+  "numberOfDownloads": 675,
+  "rating": 4.9,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hoverstats.100245/history",
+  "releaseDate": 1645593600000,
+  "updateDate": 1674083280000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

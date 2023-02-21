@@ -1,0 +1,24 @@
+{
+  "id": 99147,
+  "url": "https://www.spigotmc.org/resources/auxprotect.99147/",
+  "name": "AuxProtect",
+  "description": "Data Logging and Inventory Recovery designed to suplement CoreProtect",
+  "authors": [
+    "Heliosares"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99147.jpg?1642012623",
+  "iconCid": "bafkreiapp2tsnh3ylthvv2j5zcdtw624czeee3ubzueqkrd4jc2vfs3a44",
+  "numberOfDownloads": 1676,
+  "rating": 5,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/auxprotect.99147/history",
+  "gitUrl": "https://github.com/Heliosares/AuxProtect",
+  "releaseDate": 1642003920000,
+  "updateDate": 1674156780000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

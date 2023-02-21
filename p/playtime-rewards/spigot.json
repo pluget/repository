@@ -1,0 +1,22 @@
+{
+  "id": 105854,
+  "url": "https://www.spigotmc.org/resources/playtime-rewards.105854/",
+  "name": "Playtime Rewards",
+  "description": "Grant Automatic Playtime based Rewards through Commands",
+  "authors": [
+    "JustAHumanXD"
+  ],
+  "numberOfDownloads": 105,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playtime-rewards.105854/history",
+  "gitUrl": "https://github.com/JustAHuman-xD/PlaytimeRewards",
+  "releaseDate": 1666292220000,
+  "updateDate": 1666292220000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

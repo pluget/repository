@@ -1,0 +1,32 @@
+{
+  "id": 105977,
+  "url": "https://www.spigotmc.org/resources/xconfig.105977/",
+  "name": "XConfig",
+  "description": "A simple library to create configuration files and easy to use.",
+  "authors": [
+    "InitSync"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105977.jpg?1668910639",
+  "iconCid": "bafkreihpbsosl6yzokczvkxh7gvhcyl33js3ruyjq67rlwlhbsesjjtoeq",
+  "numberOfDownloads": 254,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/xconfig.105977/history",
+  "gitUrl": "https://github.com/InitSync/XConfig",
+  "releaseDate": 1667009040000,
+  "updateDate": 1676303700000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

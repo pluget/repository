@@ -1,0 +1,31 @@
+{
+  "id": 105500,
+  "url": "https://www.spigotmc.org/resources/advancedinventory.105500/",
+  "name": "AdvancedInventory",
+  "description": "A survival server necessity.",
+  "authors": [
+    "Alomy_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105500.jpg?1664332028",
+  "iconCid": "bafkreifm2jdalet7rvr2noq7j5oi25cf4suij3kii7rziezms4pu2pmbyq",
+  "numberOfDownloads": 63,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advancedinventory.105500/history",
+  "releaseDate": 1664328180000,
+  "updateDate": 1664328180000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

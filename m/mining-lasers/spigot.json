@@ -1,0 +1,22 @@
+{
+  "id": 102999,
+  "url": "https://www.spigotmc.org/resources/mining-lasers.102999/",
+  "name": "Mining Lasers",
+  "description": "Custom Pickaxes that mine with laser beams",
+  "authors": [
+    "mike3132"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102999.jpg?1656581736",
+  "iconCid": "bafkreiaj6t5kjegr5rmhdj5ysjcrunb3cgp6nstxztp6z24gpdmrugdpmu",
+  "numberOfDownloads": 147,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mining-lasers.102999/history",
+  "gitUrl": "https://github.com/mike3132/MiningLasers",
+  "releaseDate": 1656578100000,
+  "updateDate": 1668174420000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

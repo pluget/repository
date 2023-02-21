@@ -1,0 +1,31 @@
+{
+  "id": 20667,
+  "url": "https://www.spigotmc.org/resources/furnituremaker.20667/",
+  "name": "FurnitureMaker",
+  "description": "FurnitureLib, ArmorStand, Editor",
+  "authors": [
+    "Ste3et_C0st"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/20/20667.jpg?1543447068",
+  "iconCid": "bafkreiav3lankteqsw7qbhd7lfery4gr2fgmu264plkyoubunrsnun4zkq",
+  "numberOfDownloads": 77367,
+  "rating": 4.7,
+  "numberOfVotes": 31,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/furnituremaker.20667/history",
+  "gitUrl": "https://github.com/Ste3et/FurnitureMaker",
+  "releaseDate": 1458943500000,
+  "updateDate": 1663168980000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

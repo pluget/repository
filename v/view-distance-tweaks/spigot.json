@@ -1,0 +1,26 @@
+{
+  "id": 75164,
+  "url": "https://www.spigotmc.org/resources/view-distance-tweaks-1-14-1-19.75164/",
+  "name": "View Distance Tweaks [1.14-1.19]",
+  "description": "Dynamic per-world view distance and simulation distance.",
+  "authors": [
+    "froobynooby"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75164.jpg?1581570789",
+  "iconCid": "bafkreihyr6hwk6ii7kv2r2or3q6ydxlhmjkytatb765su6l24zyx5immw4",
+  "numberOfDownloads": 25302,
+  "rating": 4.9,
+  "numberOfVotes": 57,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/view-distance-tweaks-1-14-1-19.75164/history",
+  "gitUrl": "https://github.com/froobynooby/ViewDistanceTweaks",
+  "releaseDate": 1581564540000,
+  "updateDate": 1671414720000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

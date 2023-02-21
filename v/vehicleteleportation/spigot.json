@@ -1,0 +1,32 @@
+{
+  "id": 107326,
+  "url": "https://www.spigotmc.org/resources/vehicleteleportation.107326/",
+  "name": "VehicleTeleportation",
+  "description": "Bring horses, boats, minecrats with you when teleporting.",
+  "authors": [
+    "Ranull"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107326.jpg?1673397091",
+  "iconCid": "bafkreib4irprjsaazxirlpkwbwzltiohrf56shzi76rm4dmvfzhh5u5ica",
+  "numberOfDownloads": 72,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/vehicleteleportation.107326/history",
+  "gitUrl": "https://gitlab.com/ranull/minecraft/vehicleteleportation",
+  "releaseDate": 1673393460000,
+  "updateDate": 1673393460000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

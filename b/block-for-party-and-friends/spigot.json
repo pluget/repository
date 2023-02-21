@@ -1,0 +1,32 @@
+{
+  "id": 34762,
+  "url": "https://www.spigotmc.org/resources/block-for-party-and-friends.34762/",
+  "name": "Block for Party and Friends",
+  "description": "Adds the command /friend block to block other users",
+  "authors": [
+    "simonsator"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/34/34762.jpg?1497975933",
+  "iconCid": "bafkreigq4y4jqwhqvret65f2zqpshw4gtl6sasphymklbh6czhbkyq37v4",
+  "numberOfDownloads": 1533,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/block-for-party-and-friends.34762/history",
+  "gitUrl": "https://github.com/Simonsator/Block-for-Party-and-Friends",
+  "releaseDate": 1484382780000,
+  "updateDate": 1674856140000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

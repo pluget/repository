@@ -1,0 +1,31 @@
+{
+  "id": 74788,
+  "url": "https://www.spigotmc.org/resources/omegawarps.74788/",
+  "name": "OmegaWarps",
+  "description": "Warp around your server in style!",
+  "authors": [
+    "OmegaWeaponDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/74/74788.jpg?1641206629",
+  "iconCid": "bafkreigmyd3hnexi34tr4jxowd3rrsorq4mkpiiakcg6vngkiul7nhcqke",
+  "numberOfDownloads": 938,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/omegawarps.74788/history",
+  "gitUrl": "https://github.com/OmegaWeaponDev/OmegaWarps",
+  "releaseDate": 1580371620000,
+  "updateDate": 1661930760000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

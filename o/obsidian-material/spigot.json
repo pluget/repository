@@ -1,0 +1,26 @@
+{
+  "id": 104943,
+  "url": "https://www.spigotmc.org/resources/obsidian-material.104943/",
+  "name": "Obsidian Material",
+  "description": "The Vault for blocks and items",
+  "authors": [
+    "ObsidianMaker"
+  ],
+  "numberOfDownloads": 22,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/obsidian-material.104943/history",
+  "gitUrl": "https://github.com/ObsidianMakerDevelopment/ObsidianMaterial",
+  "releaseDate": 1661869620000,
+  "updateDate": 1662984480000,
+  "versions": [
+    "1.8",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

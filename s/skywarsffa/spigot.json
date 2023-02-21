@@ -1,0 +1,26 @@
+{
+  "id": 104094,
+  "url": "https://www.spigotmc.org/resources/skywarsffa-open-source-skywarsffa.104094/",
+  "name": "SkyWarsFFA | Open Source SkyWarsFFA",
+  "description": "You like SkyWars and you like FFA? Lets combine them.",
+  "authors": [
+    "Timeox2k"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104094.jpg?1659699347",
+  "iconCid": "bafkreib3zxrrscgrh7dk7ejwd27fpwyyoyi3viq72pq3dmpoarac4xzzga",
+  "numberOfDownloads": 152,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skywarsffa-open-source-skywarsffa.104094/history",
+  "gitUrl": "https://github.com/cubeslide-net/SkyWarsFFA/",
+  "releaseDate": 1659695640000,
+  "updateDate": 1661866440000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.12",
+    "1.16",
+    "1.18",
+    "1.19"
+  ]
+}

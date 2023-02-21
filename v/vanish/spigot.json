@@ -1,0 +1,27 @@
+{
+  "id": 107663,
+  "url": "https://www.spigotmc.org/resources/vanish.107663/",
+  "name": "Vanish",
+  "description": "Stay hidden, or expose cheaters, with the top-rated free vanish plugin",
+  "authors": [
+    "Fronsky"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107663.jpg?1676539937",
+  "iconCid": "bafkreifanfhrujlotbbu4opyfkqpreta3r5yksugxje4525cztoeogsro4",
+  "numberOfDownloads": 242,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/vanish.107663/history",
+  "gitUrl": "https://www.fronsky.com/spigot-framework",
+  "releaseDate": 1676536020000,
+  "updateDate": 1676536020000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

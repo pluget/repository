@@ -1,0 +1,24 @@
+{
+  "id": 106779,
+  "url": "https://www.spigotmc.org/resources/biome-compass.106779/",
+  "name": "Biome Compass",
+  "description": "A compass that helps players navigate to specific biomes in any dimension.",
+  "authors": [
+    "rusthero"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106779.jpg?1671251496",
+  "iconCid": "bafkreicqqdf5kwvzq5rsx7tlzxckclgsyrjernoz3fac7hd5ooowedyto4",
+  "numberOfDownloads": 251,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/biome-compass.106779/history",
+  "gitUrl": "https://github.com/rusthero/BiomeCompass",
+  "releaseDate": 1676470680000,
+  "updateDate": 1676470680000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

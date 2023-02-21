@@ -1,0 +1,31 @@
+{
+  "id": 100917,
+  "url": "https://www.spigotmc.org/resources/blocksyntaxsystem.100917/",
+  "name": "BlockSyntaxSystem",
+  "description": "Simple plugin to block \" : \"",
+  "authors": [
+    "LOl4ik"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100917.jpg?1648100318",
+  "iconCid": "bafkreiefre7wxn6mmfrvtifciz7b6kqtocqlgkgrhht2uqbq4jbcsl5lme",
+  "numberOfDownloads": 56,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blocksyntaxsystem.100917/history",
+  "releaseDate": 1648096680000,
+  "updateDate": 1662179820000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

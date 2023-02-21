@@ -1,0 +1,33 @@
+{
+  "id": 95217,
+  "url": "https://www.spigotmc.org/resources/unite.95217/",
+  "name": "Unite",
+  "description": "Support multiple party plugins",
+  "authors": [
+    "PikaMug"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95217.jpg?1628674394",
+  "iconCid": "bafkreiawgnprdreegcrxqbdlovyh2gp2shirbo55f44fk2cdr6xyhw6ipa",
+  "numberOfDownloads": 244,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/unite.95217/history",
+  "gitUrl": "https://github.com/PikaMug/Unite",
+  "releaseDate": 1676583720000,
+  "updateDate": 1676583720000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

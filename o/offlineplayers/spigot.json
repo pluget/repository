@@ -1,0 +1,23 @@
+{
+  "id": 104985,
+  "url": "https://www.spigotmc.org/resources/offlineplayers-prevent-players-from-going-offline.104985/",
+  "name": "OfflinePlayers - Prevent players from going offline!",
+  "description": "This plugin creates a clone if a player disconnects. This clone can be attacked and configured.",
+  "authors": [
+    "snap20lp"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104985.jpg?1665338246",
+  "iconCid": "bafkreibilknft5o7n66n7b5nplt6f3ub3gpfnz2jypeyxanhzeklciqeci",
+  "numberOfDownloads": 741,
+  "rating": 4,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/offlineplayers-prevent-players-from-going-offline.104985/history",
+  "gitUrl": "https://github.com/nichtfurkan/OfflinePlayers",
+  "releaseDate": 1662018840000,
+  "updateDate": 1665149100000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

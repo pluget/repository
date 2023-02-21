@@ -1,0 +1,32 @@
+{
+  "id": 96277,
+  "url": "https://www.spigotmc.org/resources/userprefix-hex-color-support-all-version.96277/",
+  "name": "UserPrefix [Hex Color Support] [All version]",
+  "description": "Lightweight, efficient, and real-time user prefix system. [Open Source]",
+  "authors": [
+    "Karmun"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96277.jpg?1631875518",
+  "iconCid": "bafkreia6o34god54ylaqk4xg42tbkka3dju2s7ib3efnz7dg354a26zdle",
+  "numberOfDownloads": 550,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/userprefix-hex-color-support-all-version.96277/history",
+  "gitUrl": "https://github.com/CarmJos/UserPrefix",
+  "releaseDate": 1631871900000,
+  "updateDate": 1675163700000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

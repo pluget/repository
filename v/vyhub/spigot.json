@@ -1,0 +1,32 @@
+{
+  "id": 103744,
+  "url": "https://www.spigotmc.org/resources/vyhub-donation-store-community-management.103744/",
+  "name": "VyHub | Donation Store | Community Management",
+  "description": "Web based community management and donation store!",
+  "authors": [
+    "VyHub"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103744.jpg?1658950422",
+  "iconCid": "bafkreidlvcz3ghc76fklh6j6tzifn6jex47riibtbfdmleql5znyp6odne",
+  "numberOfDownloads": 37,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/vyhub-donation-store-community-management.103744/history",
+  "gitUrl": "https://github.com/matbyte-com/vyhub-minecraft",
+  "releaseDate": 1658946360000,
+  "updateDate": 1658946360000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

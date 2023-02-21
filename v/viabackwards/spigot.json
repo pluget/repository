@@ -1,0 +1,30 @@
+{
+  "id": 27448,
+  "url": "https://www.spigotmc.org/resources/viabackwards.27448/",
+  "name": "ViaBackwards",
+  "description": "Allow older versions to connect to your Minecraft server.",
+  "authors": [
+    "kennytv"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/27/27448.jpg?1470406702",
+  "iconCid": "bafkreigexngedkdj7soahmlahbejcrp6uv7skquvh7c2qeqvtflbnzvcle",
+  "numberOfDownloads": 1473967,
+  "rating": 4.5,
+  "numberOfVotes": 130,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/viabackwards.27448/history",
+  "gitUrl": "https://github.com/ViaVersion/ViaBackwards/",
+  "releaseDate": 1676463780000,
+  "updateDate": 1676463780000,
+  "versions": [
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

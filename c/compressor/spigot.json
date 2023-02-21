@@ -1,0 +1,21 @@
+{
+  "id": 104079,
+  "url": "https://www.spigotmc.org/resources/compressor.104079/",
+  "name": "Compressor",
+  "description": "A simple plugin that allows for compression of items in your inventory.",
+  "authors": [
+    "SirLagsALot"
+  ],
+  "numberOfDownloads": 21,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/compressor.104079/history",
+  "releaseDate": 1659645300000,
+  "updateDate": 1659645300000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

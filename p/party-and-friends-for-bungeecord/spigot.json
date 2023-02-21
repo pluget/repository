@@ -1,0 +1,33 @@
+{
+  "id": 9531,
+  "url": "https://www.spigotmc.org/resources/party-and-friends-for-bungeecord-supports-1-7-x-to-1-19-x.9531/",
+  "name": "Party and Friends For Bungeecord | Supports 1.7.x to 1.19.x",
+  "description": "Easy to use Party and friends Plugin for Bungeecord [All languages]",
+  "authors": [
+    "simonsator"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/9/9531.jpg?1497975914",
+  "iconCid": "bafkreigq4y4jqwhqvret65f2zqpshw4gtl6sasphymklbh6czhbkyq37v4",
+  "numberOfDownloads": 59790,
+  "rating": 4.5,
+  "numberOfVotes": 122,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/party-and-friends-for-bungeecord-supports-1-7-x-to-1-19-x.9531/history",
+  "gitUrl": "https://github.com/simonsator/BungeecordPartyAndFriends",
+  "releaseDate": 1436988600000,
+  "updateDate": 1668531660000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

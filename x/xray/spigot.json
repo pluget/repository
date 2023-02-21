@@ -1,0 +1,33 @@
+{
+  "id": 42228,
+  "url": "https://www.spigotmc.org/resources/xray.42228/",
+  "name": "xRay",
+  "description": "Makes xRay a legit perk (Or admin tool)",
+  "authors": [
+    "Kyllian"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/42/42228.jpg?1548689760",
+  "iconCid": "bafkreialhkypfphbdptmkpistzqwgzee4oqcyu7ljxpslaw42dazjleg2i",
+  "numberOfDownloads": 29640,
+  "rating": 4.2,
+  "numberOfVotes": 20,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/xray.42228/history",
+  "gitUrl": "https://github.com/InstantlyMoist/xRay",
+  "releaseDate": 1497372720000,
+  "updateDate": 1675348320000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

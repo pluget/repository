@@ -1,0 +1,21 @@
+{
+  "id": 107360,
+  "url": "https://www.spigotmc.org/resources/ingotminigamesapi.107360/",
+  "name": "IngotMinigamesAPI",
+  "description": "An API designed for making minigame-based plugins a breeze to develop",
+  "authors": [
+    "Budderman18"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107360.jpg?1673571775",
+  "iconCid": "bafkreiev5nznss4igjpfwr5xbgnc7kcbnqphdke5auj2vbheenkxfo7udi",
+  "numberOfDownloads": 48,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ingotminigamesapi.107360/history",
+  "gitUrl": "https://github.com/Budderman18/IngotMinigamesAPI",
+  "releaseDate": 1673568120000,
+  "updateDate": 1673898000000,
+  "versions": [
+    "1.19"
+  ]
+}

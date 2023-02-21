@@ -1,0 +1,24 @@
+{
+  "id": 97411,
+  "url": "https://www.spigotmc.org/resources/keepitems.97411/",
+  "name": "KeepItems",
+  "description": "Keeps or removes various items in the inventory upon death.",
+  "authors": [
+    "sehrschlechtYT"
+  ],
+  "numberOfDownloads": 433,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/keepitems.97411/history",
+  "gitUrl": "https://github.com/sehrschlechtYT/KeepItems/",
+  "releaseDate": 1636127640000,
+  "updateDate": 1671646320000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

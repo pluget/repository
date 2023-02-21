@@ -1,0 +1,22 @@
+{
+  "id": 103311,
+  "url": "https://www.spigotmc.org/resources/creeperexplosionavoidance.103311/",
+  "name": "CreeperExplosionAvoidance",
+  "description": "tool to disable block destruction to creeper explosions",
+  "authors": [
+    "Paym"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103311.jpg?1657633859",
+  "iconCid": "bafkreiax54npnlrm7lb4resot6kf2zr6y6j7iikzzbdwfmeop4m2sejnui",
+  "numberOfDownloads": 37,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/creeperexplosionavoidance.103311/history",
+  "gitUrl": "https://github.com/mlhmz/creeper-explosion-avoidance",
+  "releaseDate": 1657630200000,
+  "updateDate": 1657630200000,
+  "versions": [
+    "1.8",
+    "1.19"
+  ]
+}

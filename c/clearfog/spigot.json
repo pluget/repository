@@ -1,0 +1,22 @@
+{
+  "id": 98448,
+  "url": "https://www.spigotmc.org/resources/clearfog.98448/",
+  "name": "ClearFog",
+  "description": "Unnerved by 1.18 fog? This plugin will remove it!",
+  "authors": [
+    "PloudOS"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98448.jpg?1639766187",
+  "iconCid": "bafkreie34qhahjpkmtpcalslp3l3jnpi3tedednszrxborjzyszmnrly6q",
+  "numberOfDownloads": 956,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/clearfog.98448/history",
+  "gitUrl": "https://github.com/Rapha149/ClearFog",
+  "releaseDate": 1639762440000,
+  "updateDate": 1670615940000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

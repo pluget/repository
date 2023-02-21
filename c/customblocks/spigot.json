@@ -1,0 +1,24 @@
+{
+  "id": 6478,
+  "url": "https://www.spigotmc.org/resources/customblocks.6478/",
+  "name": "CustomBlocks",
+  "description": "Create blocks/skulls with custom textures!",
+  "authors": [
+    "inventivetalent"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/6/6478.jpg?1430588305",
+  "iconCid": "bafkreicahnqxbpvy7dfwbhenwzig4msrcpeifuul4jmbxfzzu7avgp44d4",
+  "numberOfDownloads": 5445,
+  "rating": 4,
+  "numberOfVotes": 20,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/customblocks.6478/history",
+  "gitUrl": "https://github.com/InventivetalentDev/CustomBlocks",
+  "releaseDate": 1430138820000,
+  "updateDate": 1660389840000,
+  "versions": [
+    "1.9",
+    "1.13",
+    "1.15",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 105619,
+  "url": "https://www.spigotmc.org/resources/itemessentials.105619/",
+  "name": "ItemEssentials",
+  "description": "All-rounded plugin to manage your items! Lore, names, inventories, sounds, etc.",
+  "authors": [
+    "LogaaanCzech"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105619.jpg?1664898680",
+  "iconCid": "bafkreib6bv5pnuxbhgsnh3x6o46vwm6y7eitrlkykyiymcbiefkw5hulhy",
+  "numberOfDownloads": 119,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/itemessentials.105619/history",
+  "gitUrl": "https://github.com/LoganTheOverlord/ItemEssentials2",
+  "releaseDate": 1664895060000,
+  "updateDate": 1665088320000,
+  "versions": [
+    "1.19"
+  ]
+}

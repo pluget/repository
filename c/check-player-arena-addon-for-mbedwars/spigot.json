@@ -1,0 +1,32 @@
+{
+  "id": 104524,
+  "url": "https://www.spigotmc.org/resources/check-player-arena-addon-for-mbedwars.104524/",
+  "name": "Check Player Arena Addon for MBedwars",
+  "description": "Check player arena if playing a game!",
+  "authors": [
+    "dejwideek"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104524.jpg?1660401947",
+  "iconCid": "bafkreifjaox4zbrc6ag4rozherprecj7o22prdew7xiefmijl7zzyeti74",
+  "numberOfDownloads": 67,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/check-player-arena-addon-for-mbedwars.104524/history",
+  "gitUrl": "https://github.com/dejwideek-dev/MBedwarsCheckPlayerArenaAddon",
+  "releaseDate": 1660398240000,
+  "updateDate": 1672314420000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

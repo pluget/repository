@@ -1,0 +1,28 @@
+{
+  "id": 105848,
+  "url": "https://www.spigotmc.org/resources/discord-verifier.105848/",
+  "name": "Discord Verifier",
+  "description": "A plugin that allows your players to verify their Minecraft account on Discord",
+  "authors": [
+    "Pan-nav"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105848.jpg?1667944522",
+  "iconCid": "bafkreicnewo3dalscrd2v5svdidp276sxafeezjtr5liseoqslci6qwdra",
+  "numberOfDownloads": 121,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discord-verifier.105848/history",
+  "gitUrl": "https://github.com/Pan-nav/Discord-Verifier",
+  "releaseDate": 1666217640000,
+  "updateDate": 1666552860000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

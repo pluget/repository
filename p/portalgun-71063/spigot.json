@@ -1,0 +1,22 @@
+{
+  "id": 71063,
+  "url": "https://www.spigotmc.org/resources/1-19-portalgun-yes-actually.71063/",
+  "name": "[1.19] PortalGun | Yes... Actually",
+  "description": "Detailed annotation in open source code allow you to mold the plugin to your functionality.",
+  "authors": [
+    "TheTealViper"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/71/71063.jpg?1567759180",
+  "iconCid": "bafkreiegcttiaooyuhc5ojh3rv3klpfjtvfr5kxldpmoz2lzjupfsppoyq",
+  "numberOfDownloads": 1855,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/1-19-portalgun-yes-actually.71063/history",
+  "gitUrl": "https://github.com/thetealviper/Spigot_PortalGun",
+  "releaseDate": 1567755540000,
+  "updateDate": 1660854120000,
+  "versions": [
+    "1.14",
+    "1.19"
+  ]
+}

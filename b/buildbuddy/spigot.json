@@ -1,0 +1,21 @@
+{
+  "id": 103139,
+  "url": "https://www.spigotmc.org/resources/buildbuddy.103139/",
+  "name": "BuildBuddy",
+  "description": "A set of tools to help builders",
+  "authors": [
+    "chasertw123"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103139.jpg?1657425039",
+  "iconCid": "bafkreia6asr4rn32o7spf5hv6boglaf3tgsvgsu7pfdmzjybkgbx6lyn2u",
+  "numberOfDownloads": 242,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/buildbuddy.103139/history",
+  "gitUrl": "https://github.com/chasertw123/BuildBuddy",
+  "releaseDate": 1657047420000,
+  "updateDate": 1673001060000,
+  "versions": [
+    "1.19"
+  ]
+}

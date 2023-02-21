@@ -1,0 +1,32 @@
+{
+  "id": 39965,
+  "url": "https://www.spigotmc.org/resources/smoothtimber.39965/",
+  "name": "SmoothTimber",
+  "description": "Want to cut trees smooth and fast?",
+  "authors": [
+    "SourceWriters"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/39/39965.jpg?1552141514",
+  "iconCid": "bafkreiet26p7imwhit3ekh35ykfmiiipjihdoyfzfun5vjapcrpwcd4dsm",
+  "numberOfDownloads": 237062,
+  "rating": 4.1,
+  "numberOfVotes": 59,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/smoothtimber.39965/history",
+  "gitUrl": "https://github.com/SourceWriters/SmoothTimber",
+  "releaseDate": 1492976520000,
+  "updateDate": 1672821420000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

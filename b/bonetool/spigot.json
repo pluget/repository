@@ -1,0 +1,24 @@
+{
+  "id": 98867,
+  "url": "https://www.spigotmc.org/resources/bonetool-advanved-creative-edit-signs-change-fly-speed-spawner-beacon-more-editor-and-much-more.98867/",
+  "name": "BoneTool [Advanved Creative, Edit Signs, Change Fly Speed, Spawner/Beacon/More Editor and much more]",
+  "description": "A creative tool for editing block properties and more",
+  "authors": [
+    "DeZilla"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98867.jpg?1641063909",
+  "iconCid": "bafkreicgscmj64phygv27xk4qr4z3kqjvckiwlraqswzcsnep7klbr3p7m",
+  "numberOfDownloads": 157,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bonetool-advanved-creative-edit-signs-change-fly-speed-spawner-beacon-more-editor-and-much-more.98867/history",
+  "gitUrl": "https://github.com/DeZilla01/BoneTool",
+  "releaseDate": 1641060120000,
+  "updateDate": 1661105640000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

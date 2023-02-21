@@ -1,0 +1,24 @@
+{
+  "id": 104297,
+  "url": "https://www.spigotmc.org/resources/mxrank.104297/",
+  "name": "MXRank",
+  "description": "Minecraft rank-up plugin. Support only ASkyBlock and SuperiorSkyBlock",
+  "authors": [
+    "mixer.dll"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104297.jpg?1659863903",
+  "iconCid": "bafkreidfdspop24jqdfuru2simsvj7fogywlxhujgsnoclux5a7tua45nu",
+  "numberOfDownloads": 24,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mxrank.104297/history",
+  "gitUrl": "https://github.com/mixeration/MXRank",
+  "releaseDate": 1659860280000,
+  "updateDate": 1659860280000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 50360,
+  "url": "https://www.spigotmc.org/resources/townyflight.50360/",
+  "name": "TownyFlight",
+  "description": "Towny-enabled Flight",
+  "authors": [
+    "LlmDl"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/50/50360.jpg?1568393735",
+  "iconCid": "bafkreifoctbtbjjp2yifnqdhmbyzx2g3wpjg3mtbfhtheewpe7cxtofw2q",
+  "numberOfDownloads": 4826,
+  "rating": 4.8,
+  "numberOfVotes": 23,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/townyflight.50360/history",
+  "gitUrl": "https://github.com/LlmDl/TownyFlight",
+  "releaseDate": 1512418680000,
+  "updateDate": 1676209260000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

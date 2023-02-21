@@ -1,0 +1,26 @@
+{
+  "id": 77792,
+  "url": "https://www.spigotmc.org/resources/mcdeob.77792/",
+  "name": "McDeob",
+  "description": "A simple tool to deobfuscate and decompile vanilla Minecraft",
+  "authors": [
+    "ShaneBee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/77/77792.jpg?1587590207",
+  "iconCid": "bafkreidb7wbhanwm4oynf3pe73ih52bimp4lm5gune2tqs76dqtvuj44i4",
+  "numberOfDownloads": 4245,
+  "rating": 4.6,
+  "numberOfVotes": 16,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mcdeob.77792/history",
+  "gitUrl": "https://github.com/ShaneBeeStudios/McDeob",
+  "releaseDate": 1587766740000,
+  "updateDate": 1672254540000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

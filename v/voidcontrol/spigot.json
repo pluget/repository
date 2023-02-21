@@ -1,0 +1,21 @@
+{
+  "id": 105944,
+  "url": "https://www.spigotmc.org/resources/voidcontrol.105944/",
+  "name": "VoidControl",
+  "description": "Allows you to better control at which Y levels players should take void damage",
+  "authors": [
+    "sleepylessons"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105944.jpg?1666829244",
+  "iconCid": "bafkreibh627m6ahqzo4wuelgxhimlznwrltuffl4jyee4btb3nytel32my",
+  "numberOfDownloads": 34,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/voidcontrol.105944/history",
+  "gitUrl": "https://github.com/sleepylessons/VoidControl",
+  "releaseDate": 1666825620000,
+  "updateDate": 1666848060000,
+  "versions": [
+    "1.19"
+  ]
+}

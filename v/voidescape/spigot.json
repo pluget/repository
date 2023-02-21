@@ -1,0 +1,21 @@
+{
+  "id": 105170,
+  "url": "https://www.spigotmc.org/resources/voidescape.105170/",
+  "name": "VoidEscape",
+  "description": "Teleport players from void to safety",
+  "authors": [
+    "Shroomz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105170.jpg?1662761281",
+  "iconCid": "bafkreibahm4sxukypy3v37xy6fkotunqfgnn7ofpfcn37cjdpwp2xs7wnu",
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/voidescape.105170/history",
+  "gitUrl": "https://github.com/LeShroomz/VoidEscape",
+  "releaseDate": 1662757620000,
+  "updateDate": 1662757620000,
+  "versions": [
+    "1.19"
+  ]
+}

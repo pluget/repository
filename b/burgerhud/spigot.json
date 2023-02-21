@@ -1,0 +1,20 @@
+{
+  "id": 78258,
+  "url": "https://www.spigotmc.org/resources/burgerhud.78258/",
+  "name": "BurgerHud",
+  "description": "A heads up display which includes Time, Coords, Biome, Facing and Light Level",
+  "authors": [
+    "BurgerDaddy"
+  ],
+  "numberOfDownloads": 573,
+  "rating": 5,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/burgerhud.78258/history",
+  "releaseDate": 1588453440000,
+  "updateDate": 1663328220000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.19"
+  ]
+}

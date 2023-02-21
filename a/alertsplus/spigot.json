@@ -1,0 +1,32 @@
+{
+  "id": 107263,
+  "url": "https://www.spigotmc.org/resources/alertsplus.107263/",
+  "name": "AlertsPlus",
+  "description": "Want to announce something to your server? Do /alert <message>",
+  "authors": [
+    "sharkdudefin"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107263.jpg?1673112175",
+  "iconCid": "bafkreig7xj3jndqye4j3wjjprobxqvvpbrogqvm4bvseolqz2yrlzryfra",
+  "numberOfDownloads": 81,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/alertsplus.107263/history",
+  "releaseDate": 1673108520000,
+  "updateDate": 1673108520000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

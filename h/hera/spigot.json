@@ -1,0 +1,20 @@
+{
+  "id": 105049,
+  "url": "https://www.spigotmc.org/resources/hera.105049/",
+  "name": "Hera",
+  "description": "Hera is a Minecraft plugin for community server events. It facilitates the work of event managers",
+  "authors": [
+    "whitefox2232"
+  ],
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hera.105049/history",
+  "gitUrl": "https://github.com/TechDevOS/Hera",
+  "releaseDate": 1662229620000,
+  "updateDate": 1662229620000,
+  "versions": [
+    "1.8",
+    "1.12"
+  ]
+}

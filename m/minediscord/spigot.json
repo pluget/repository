@@ -1,0 +1,23 @@
+{
+  "id": 107405,
+  "url": "https://www.spigotmc.org/resources/minediscord.107405/",
+  "name": "MineDiscord",
+  "description": "Send your Server Events with a Webhook to your Discord Server!",
+  "authors": [
+    "Kess-Apps"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107405.jpg?1673855961",
+  "iconCid": "bafkreia3bcbj22ympu6p4ssewwdy3ocw6usax3dbt4bmekrijvwo2o65ii",
+  "numberOfDownloads": 77,
+  "rating": 4,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minediscord.107405/history",
+  "releaseDate": 1673852340000,
+  "updateDate": 1673852340000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

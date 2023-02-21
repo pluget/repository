@@ -1,0 +1,26 @@
+{
+  "id": 107533,
+  "url": "https://www.spigotmc.org/resources/notemusic.107533/",
+  "name": "NoteMusic",
+  "description": "Play your music by note.",
+  "authors": [
+    "CoolCLK"
+  ],
+  "numberOfDownloads": 71,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/notemusic.107533/history",
+  "gitUrl": "https://github.com/CoolCLK/NoteMusic",
+  "releaseDate": 1674364020000,
+  "updateDate": 1674490200000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

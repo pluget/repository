@@ -1,0 +1,26 @@
+{
+  "id": 103405,
+  "url": "https://www.spigotmc.org/resources/infinite-reach-extend-your-swords-range.103405/",
+  "name": "Infinite Reach | Extend your sword's range!",
+  "description": "Lightweight plugin that extends your melee attack range",
+  "authors": [
+    "Overqualified"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103405.jpg?1657958478",
+  "iconCid": "bafkreiae7inzo2lyjjpnzulpesn6uua4arcgg7z573rymjdwuhj745zgpq",
+  "numberOfDownloads": 231,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/infinite-reach-extend-your-swords-range.103405/history",
+  "releaseDate": 1657954560000,
+  "updateDate": 1658083920000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

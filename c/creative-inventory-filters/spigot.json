@@ -1,0 +1,21 @@
+{
+  "id": 106516,
+  "url": "https://www.spigotmc.org/resources/creative-inventory-filters.106516/",
+  "name": "Creative Inventory Filters",
+  "description": "A plugin that applies filters to the items that players take from the creative inventory.",
+  "authors": [
+    "Blackilykat"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106516.jpg?1669833855",
+  "iconCid": "bafkreigo7gwmlm4ahcsya5433au36l2equot3n3igo5s7g5mdtotxzd24e",
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/creative-inventory-filters.106516/history",
+  "gitUrl": "https://github.com/Blackilykat/Creative.inventory.filters",
+  "releaseDate": 1669830240000,
+  "updateDate": 1669830480000,
+  "versions": [
+    "1.19"
+  ]
+}

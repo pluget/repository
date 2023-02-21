@@ -1,0 +1,32 @@
+{
+  "id": 107803,
+  "url": "https://www.spigotmc.org/resources/servervariables-custom-data-and-variables-for-players-1-8-1-19.107803/",
+  "name": "ServerVariables | Custom Data and Variables for Players [1.8-1.19]",
+  "description": "Create your own player (and server) variables and manage their values using commands!",
+  "authors": [
+    "Ajneb97"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107803.jpg?1675454063",
+  "iconCid": "bafkreihhhwhdqlw2etq23z4nrcyxc7nnijf4syxrcuvee623dnwyuxna2q",
+  "numberOfDownloads": 187,
+  "rating": 5,
+  "numberOfVotes": 13,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/servervariables-custom-data-and-variables-for-players-1-8-1-19.107803/history",
+  "gitUrl": "https://github.com/Ajneb97/ServerVariables",
+  "releaseDate": 1676813880000,
+  "updateDate": 1676813880000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

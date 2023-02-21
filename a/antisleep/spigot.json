@@ -1,0 +1,19 @@
+{
+  "id": 105602,
+  "url": "https://www.spigotmc.org/resources/antisleep.105602/",
+  "name": "AntiSleep",
+  "description": "A plugin which prevents players from sleeping the night away.",
+  "authors": [
+    "beabyte"
+  ],
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antisleep.105602/history",
+  "gitUrl": "https://github.com/beailotus/AntiSleep",
+  "releaseDate": 1664813640000,
+  "updateDate": 1664813640000,
+  "versions": [
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 86743,
+  "url": "https://www.spigotmc.org/resources/simple-gamemode-gm-1-8-1-19.86743/",
+  "name": ">> Simple Gamemode >> /gm >> 1.8 - 1.19",
+  "description": "Simple Plugin for Changing Gamemode with /gm",
+  "authors": [
+    "LUPLUV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/86/86743.jpg?1608031994",
+  "iconCid": "bafkreia2y5ok5tyeeclsg4rctaplzgh457asj2tu4nget572dssyv2qawq",
+  "numberOfDownloads": 960,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-gamemode-gm-1-8-1-19.86743/history",
+  "gitUrl": "https://github.com/LUPLUV/SimpleGamemode/",
+  "releaseDate": 1608019800000,
+  "updateDate": 1664796060000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 107365,
+  "url": "https://www.spigotmc.org/resources/deliveryman.107365/",
+  "name": "DeliveryMan",
+  "description": "free and easy to use rewards plugin!",
+  "authors": [
+    "kloothommel14"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107365.jpg?1673608458",
+  "iconCid": "bafkreieizut5q6vfbctehglm6vwuiiutwlvmzr7o7323aasudkicya2hnq",
+  "numberOfDownloads": 77,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/deliveryman.107365/history",
+  "gitUrl": "https://github.com/1k3w/DeliveryMan/",
+  "releaseDate": 1673604720000,
+  "updateDate": 1673678580000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

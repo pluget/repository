@@ -1,0 +1,24 @@
+{
+  "id": 103466,
+  "url": "https://www.spigotmc.org/resources/adminmode-1-16-1-19.103466/",
+  "name": "AdminMode [1.16 - 1.19]",
+  "description": "Switch between Clark Kent's life and Superman's",
+  "authors": [
+    "H7KZ"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103466.jpg?1658096382",
+  "iconCid": "bafkreifmqfjc6y2q274j665hdcvcnlfqogldjjx3fejynudkhaccyr2pni",
+  "numberOfDownloads": 80,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/adminmode-1-16-1-19.103466/history",
+  "gitUrl": "https://github.com/H7KZ/AdminMode",
+  "releaseDate": 1658092140000,
+  "updateDate": 1658092140000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

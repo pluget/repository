@@ -1,0 +1,22 @@
+{
+  "id": 95202,
+  "url": "https://www.spigotmc.org/resources/terminator-ai.95202/",
+  "name": "Terminator AI",
+  "description": "Adds in a terminator AI that will relentlessly hunt you down.",
+  "authors": [
+    "strubbe06"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95202.jpg?1628628452",
+  "iconCid": "bafkreid7rggb27dmgf3dtucn5wccnnpdryqfasoworppwrpcifwldo63se",
+  "numberOfDownloads": 5855,
+  "rating": 4.8,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/terminator-ai.95202/history",
+  "gitUrl": "https://github.com/notnotnotswipez/TerminatorNPC",
+  "releaseDate": 1628624820000,
+  "updateDate": 1664305380000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

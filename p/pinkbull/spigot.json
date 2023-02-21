@@ -1,0 +1,23 @@
+{
+  "id": 102050,
+  "url": "https://www.spigotmc.org/resources/pinkbull.102050/",
+  "name": "PinkBull",
+  "description": "PinkBull verleiht Flügel! / PinkBull gives you wings.",
+  "authors": [
+    "Velnias75"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102050.jpg?1652822777",
+  "iconCid": "bafkreif6frigvsj5of7fyywhzzsg2sp5qpzojhts33r5tcrvq2hjenande",
+  "numberOfDownloads": 127,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pinkbull.102050/history",
+  "gitUrl": "https://github.com/velnias75/PinkBull",
+  "releaseDate": 1652784180000,
+  "updateDate": 1664692920000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

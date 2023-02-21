@@ -1,0 +1,24 @@
+{
+  "id": 90098,
+  "url": "https://www.spigotmc.org/resources/skulls-the-ultimate-head-database.90098/",
+  "name": "Skulls - The Ultimate Head Database",
+  "description": "Skulls is a collection of 50k+ custom textured Minecraft heads. A free alternative to Head Database",
+  "authors": [
+    "KiranHart"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90098.jpg?1615679926",
+  "iconCid": "bafkreiccj5yibpbp2mpq6fcacpda7lby3m4el5cz4ttydgilyouf4k4cru",
+  "numberOfDownloads": 30013,
+  "rating": 4.8,
+  "numberOfVotes": 36,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skulls-the-ultimate-head-database.90098/history",
+  "gitUrl": "https://github.com/Tweetzy/Skulls",
+  "releaseDate": 1676818560000,
+  "updateDate": 1676818560000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

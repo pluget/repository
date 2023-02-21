@@ -1,0 +1,23 @@
+{
+  "id": 95946,
+  "url": "https://www.spigotmc.org/resources/nottokens-placeholders-mysql.95946/",
+  "name": "NotTokens | Placeholders & MySQL",
+  "description": "Simple tokens system to run on your server",
+  "authors": [
+    "Not_Jaden"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95946.jpg?1630702810",
+  "iconCid": "bafkreic6lrwnjvzheyl7rtxykc2cefi74gjgw6olddw7xzpn4utd67jabu",
+  "numberOfDownloads": 274,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nottokens-placeholders-mysql.95946/history",
+  "gitUrl": "https://github.com/No-Not-Jaden/NotTokens",
+  "releaseDate": 1676507820000,
+  "updateDate": 1676507820000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

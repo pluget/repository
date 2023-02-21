@@ -1,0 +1,21 @@
+{
+  "id": 106939,
+  "url": "https://www.spigotmc.org/resources/teleport-scrolls.106939/",
+  "name": "Teleport Scrolls",
+  "description": "Craft a scroll, teleport to bed/spawn.",
+  "authors": [
+    "Kamida"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106939.jpg?1674823936",
+  "iconCid": "bafkreicxrmguc67z65dcm3owqku6jh2tr7mj52wqldjblmepgrrb4mi5rm",
+  "numberOfDownloads": 98,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/teleport-scrolls.106939/history",
+  "gitUrl": "https://github.com/Kamida5192/BukkitTeleportScrolls",
+  "releaseDate": 1671880080000,
+  "updateDate": 1672489140000,
+  "versions": [
+    "1.19"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 81498,
+  "url": "https://www.spigotmc.org/resources/villager-workstation-highlights.81498/",
+  "name": "Villager Workstation Highlights",
+  "description": "Allows you to find the workstation of the villager you are looking at.",
+  "authors": [
+    "JoelYahwehOfWar"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81498.jpg?1594774923",
+  "iconCid": "bafkreibqvz3vjowveuhgg7x6tx5m7q65rp6salidrrk3py6mkmcb7dv77a",
+  "numberOfDownloads": 844,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/villager-workstation-highlights.81498/history",
+  "gitUrl": "https://github.com/JoelGodOfwar/VillagerWorkstationHighlights",
+  "releaseDate": 1594771260000,
+  "updateDate": 1673685300000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 39255,
+  "url": "https://www.spigotmc.org/resources/beautyquests.39255/",
+  "name": "BeautyQuests",
+  "description": "Quest system with a simple graphical interface. Compatible with SQL databases.",
+  "authors": [
+    "SkytAsul"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/39/39255.jpg?1516565597",
+  "iconCid": "bafkreieldsqdwy6no7chrqpo5xenrzuwf7kndr46w3tzhniktup3woynkq",
+  "numberOfDownloads": 73505,
+  "rating": 4.6,
+  "numberOfVotes": 158,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/beautyquests.39255/history",
+  "gitUrl": "https://github.com/SkytAsul/BeautyQuests",
+  "releaseDate": 1491914880000,
+  "updateDate": 1669994880000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.12",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

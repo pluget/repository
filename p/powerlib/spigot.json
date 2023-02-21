@@ -1,0 +1,32 @@
+{
+  "id": 83274,
+  "url": "https://www.spigotmc.org/resources/powerlib-by-devs-for-devs-1-7x-1-18x.83274/",
+  "name": "PowerLib | By devs, for devs [1.7x-1.18x]",
+  "description": "A new fresh, powerful library for your amazing plugins!",
+  "authors": [
+    "AlbeMiglio"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83274.jpg?1598648722",
+  "iconCid": "bafkreiemvwckty4qb2uxc6hepr4fsz4h5d4xlhuox6p5icx2o3cxwsqobm",
+  "numberOfDownloads": 1259,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/powerlib-by-devs-for-devs-1-7x-1-18x.83274/history",
+  "gitUrl": "https://github.com/AlbeMiglio/PowerLib",
+  "releaseDate": 1598645100000,
+  "updateDate": 1666044240000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

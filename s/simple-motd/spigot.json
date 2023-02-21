@@ -1,0 +1,26 @@
+{
+  "id": 106106,
+  "url": "https://www.spigotmc.org/resources/simple-motd.106106/",
+  "name": "Simple MOTD",
+  "description": "Adds a simple daily message of the day!",
+  "authors": [
+    "Labrencis"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106106.jpg?1667671882",
+  "iconCid": "bafkreignid33hid6wqodrw2souuexnbndyuijujc4ugamedfmuwif6de3y",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-motd.106106/history",
+  "releaseDate": 1667668260000,
+  "updateDate": 1667671560000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13"
+  ]
+}

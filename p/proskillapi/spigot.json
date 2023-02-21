@@ -1,0 +1,24 @@
+{
+  "id": 91913,
+  "url": "https://www.spigotmc.org/resources/proskillapi-create-custom-races-classes-skills-spells-with-an-easy-online-editor.91913/",
+  "name": "Proskillapi - Create custom races, classes, skills, spells, with an easy online editor",
+  "description": "Pair this with RPG Items Pro to complete your RPG experience!",
+  "authors": [
+    "goflish"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91913.jpg?1619884288",
+  "iconCid": "bafkreidm4fvh6wc55zw2hznvuikxrklna2umlbual6egjrsmedgufwtkba",
+  "numberOfDownloads": 10059,
+  "rating": 4.7,
+  "numberOfVotes": 26,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/proskillapi-create-custom-races-classes-skills-spells-with-an-easy-online-editor.91913/history",
+  "gitUrl": "https://github.com/promcteam/proskillapi",
+  "releaseDate": 1619880600000,
+  "updateDate": 1672787460000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

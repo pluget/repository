@@ -1,0 +1,26 @@
+{
+  "id": 103374,
+  "url": "https://www.spigotmc.org/resources/titlemsg.103374/",
+  "name": "TitleMSG",
+  "description": "Show a very custom title when the player joins the server, it also shows when someone has joined!",
+  "authors": [
+    "XdStarr"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103374.jpg?1657833038",
+  "iconCid": "bafkreidspfzqwmllsoon2f6qi4mhkuhbfqzw7vywkp3ii4yme6kk3nggp4",
+  "numberOfDownloads": 112,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/titlemsg.103374/history",
+  "releaseDate": 1657828380000,
+  "updateDate": 1657901640000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

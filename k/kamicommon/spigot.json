@@ -1,0 +1,30 @@
+{
+  "id": 107347,
+  "url": "https://www.spigotmc.org/resources/kamicommon-1-8-1-19-3.107347/",
+  "name": "KamiCommon [1.8 - 1.19.3]",
+  "description": "Libs used in my own plugins, but publicly available for all to use.",
+  "authors": [
+    "KamikazeJAM_YT"
+  ],
+  "numberOfDownloads": 109,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kamicommon-1-8-1-19-3.107347/history",
+  "gitUrl": "https://github.com/Jake-Moore/KamiCommon",
+  "releaseDate": 1673508060000,
+  "updateDate": 1675578540000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

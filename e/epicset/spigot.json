@@ -1,0 +1,32 @@
+{
+  "id": 84280,
+  "url": "https://www.spigotmc.org/resources/epicset-tokens-premuim-1-8-1-19-3-mysql-based-currency-shop-more.84280/",
+  "name": "EpicSet-Tokens Premuim 1.8-1.19.3 | MySql based currency| shop & more",
+  "description": "A complete alternate economy & shop plugin based on MySQL database",
+  "authors": [
+    "Backstabber1"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84280.jpg?1601240393",
+  "iconCid": "bafkreib6snv6wy63iar4hm5jcyp2p352nb75ywzyht4qktojeljbic6ukm",
+  "numberOfDownloads": 169,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/epicset-tokens-premuim-1-8-1-19-3-mysql-based-currency-shop-more.84280/history",
+  "gitUrl": "https://bitbucket.org/DEV-backstabber/epicset-tokens",
+  "releaseDate": 1601236740000,
+  "updateDate": 1674742500000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

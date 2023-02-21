@@ -1,0 +1,27 @@
+{
+  "id": 82197,
+  "url": "https://www.spigotmc.org/resources/roulette.82197/",
+  "name": "Roulette",
+  "description": "The classic casino game now in Minecraft, no need for texture packs.",
+  "authors": [
+    "AgustinEzequiel2"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82197.jpg?1596238830",
+  "iconCid": "bafkreifbnd7bdd6mhu6fcdtzubeyf5epmaqh3geebxzfdvl3cc66nrqae4",
+  "numberOfDownloads": 4378,
+  "rating": 4.7,
+  "numberOfVotes": 53,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/roulette.82197/history",
+  "gitUrl": "https://github.com/aematsubara/Roulette",
+  "releaseDate": 1676920020000,
+  "updateDate": 1676920020000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

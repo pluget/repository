@@ -1,0 +1,22 @@
+{
+  "id": 108133,
+  "url": "https://www.spigotmc.org/resources/intensify-reforged.108133/",
+  "name": "Intensify: Reforged",
+  "description": "Intensify your items!",
+  "authors": [
+    "Louis_Quepierts"
+  ],
+  "numberOfDownloads": 7,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/intensify-reforged.108133/history",
+  "gitUrl": "https://github.com/LouisQuepierts/IntensifyReforged",
+  "releaseDate": 1676896500000,
+  "updateDate": 1676896500000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

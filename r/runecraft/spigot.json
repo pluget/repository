@@ -1,0 +1,28 @@
+{
+  "id": 39771,
+  "url": "https://www.spigotmc.org/resources/runecraft.39771/",
+  "name": "Runecraft",
+  "description": "Adds magical runes to the game for Teleportation, Construction, and Combat.",
+  "authors": [
+    "Rivkiin"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/39/39771.jpg?1492664320",
+  "iconCid": "bafkreigy3x7j3fkr3cgcfdlxhfaieaajkgi7uniwuelvbdkbwimsc7thh4",
+  "numberOfDownloads": 5335,
+  "rating": 5,
+  "numberOfVotes": 13,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/runecraft.39771/history",
+  "releaseDate": 1492660680000,
+  "updateDate": 1659471960000,
+  "versions": [
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

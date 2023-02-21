@@ -1,0 +1,27 @@
+{
+  "id": 80117,
+  "url": "https://www.spigotmc.org/resources/drsleep.80117/",
+  "name": "DrSleep",
+  "description": "A fair sleeping solution",
+  "authors": [
+    "DrBot"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80117.jpg?1592382179",
+  "iconCid": "bafkreiecw7ltplh67djo6qhhmn65fqq2daij63o624cqoibhawn5geirue",
+  "numberOfDownloads": 1283,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/drsleep.80117/history",
+  "gitUrl": "https://github.com/akdukaan/DrSleep",
+  "releaseDate": 1592025600000,
+  "updateDate": 1659840900000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

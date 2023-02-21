@@ -1,0 +1,32 @@
+{
+  "id": 107056,
+  "url": "https://www.spigotmc.org/resources/bbrains-multiworlds.107056/",
+  "name": "[BBrains] MultiWorlds",
+  "description": "Multi-worlds for your server",
+  "authors": [
+    "dayd21"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107056.jpg?1672419801",
+  "iconCid": "bafkreifjsmscwtavv264n3t5hlm5osoxn4xkmuh2yesnvrajjm7zygnub4",
+  "numberOfDownloads": 91,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bbrains-multiworlds.107056/history",
+  "gitUrl": "https://www.curseforge.com/minecraft/bukkit-plugins/bbrains-multiworlds",
+  "releaseDate": 1672410480000,
+  "updateDate": 1673670360000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

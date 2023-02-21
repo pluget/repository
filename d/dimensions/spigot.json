@@ -1,0 +1,27 @@
+{
+  "id": 57542,
+  "url": "https://www.spigotmc.org/resources/dimensions-custom-portals-demo.57542/",
+  "name": "Dimensions | Custom Portals (DEMO)",
+  "description": "Allow players to easily build portals to another world (aether, etc)",
+  "authors": [
+    "astaspasta"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/57/57542.jpg?1591790417",
+  "iconCid": "bafkreibi2vlofbwl6vhjixacmgijaurngckh4mvhbogbeh7axf3e3o2e7q",
+  "numberOfDownloads": 15096,
+  "rating": 4.8,
+  "numberOfVotes": 36,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dimensions-custom-portals-demo.57542/history",
+  "gitUrl": "https://github.com/xXastaspastaXx/Dimensions3",
+  "releaseDate": 1528442340000,
+  "updateDate": 1674395160000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

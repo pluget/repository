@@ -1,0 +1,22 @@
+{
+  "id": 103344,
+  "url": "https://www.spigotmc.org/resources/splots.103344/",
+  "name": "sPlots",
+  "description": "Ein anderes Plotplugin",
+  "authors": [
+    "schemil053"
+  ],
+  "numberOfDownloads": 308,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/splots.103344/history",
+  "gitUrl": "https://github.com/schemil053/sPlots",
+  "releaseDate": 1657736760000,
+  "updateDate": 1663608120000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

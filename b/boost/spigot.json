@@ -1,0 +1,27 @@
+{
+  "id": 75950,
+  "url": "https://www.spigotmc.org/resources/boost-unique-new-minigame-1-12-1-19-3.75950/",
+  "name": "Boost | Unique new minigame (1.12 - 1.19.3)",
+  "description": "Minigame - Boost others off their platforms to win.",
+  "authors": [
+    "pmme"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75950.jpg?1637009904",
+  "iconCid": "bafkreidccivxbwecythc5tiwfjnngheyqvrig33ug4nadj2mavhp5wjd2y",
+  "numberOfDownloads": 4420,
+  "rating": 5,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/boost-unique-new-minigame-1-12-1-19-3.75950/history",
+  "gitUrl": "https://github.com/pmme/Boost",
+  "releaseDate": 1583917140000,
+  "updateDate": 1660465020000,
+  "versions": [
+    "1.12",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

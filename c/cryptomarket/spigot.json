@@ -1,0 +1,32 @@
+{
+  "id": 69031,
+  "url": "https://www.spigotmc.org/resources/cryptomarket.69031/",
+  "name": "CryptoMarket",
+  "description": "A plugin that brings the cryptocoins market experience to your server! REAL EXCHANGE RATES!",
+  "authors": [
+    "RoinujNosde"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/69/69031.jpg?1593470993",
+  "iconCid": "bafkreicukyggynxftrxlyxpq3d35oikazo6jjhl3unpggd53aad7lpij6e",
+  "numberOfDownloads": 1524,
+  "rating": 4.8,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cryptomarket.69031/history",
+  "gitUrl": "https://github.com/RoinujNosde/CryptoMarket",
+  "releaseDate": 1562362800000,
+  "updateDate": 1669124940000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 107522,
+  "url": "https://www.spigotmc.org/resources/new-jetpack.107522/",
+  "name": "New Jetpack",
+  "description": "MineCraft jetpack",
+  "authors": [
+    "dikicsHUN"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107522.jpg?1674333970",
+  "iconCid": "bafkreihuu44kkdholpqiosmczlr3yko2iy7ezw2ti4hlxopk5mktf33i2i",
+  "numberOfDownloads": 49,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/new-jetpack.107522/history",
+  "gitUrl": "https://www.spigotmc.org/resources/add?resource_category_id=25",
+  "releaseDate": 1674330360000,
+  "updateDate": 1674375660000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

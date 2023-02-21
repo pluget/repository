@@ -1,0 +1,27 @@
+{
+  "id": 62720,
+  "url": "https://www.spigotmc.org/resources/commandblocks.62720/",
+  "name": "CommandBlocks",
+  "description": "The most advanced plugin for assigning commands to blocks!",
+  "authors": [
+    "Geitenijs"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/62/62720.jpg?1565190706",
+  "iconCid": "bafkreidqsgvxifdjyxhfwyl4vwoxxscvmk4vyjphjxcaepvk2ubed7lwt4",
+  "numberOfDownloads": 9502,
+  "rating": 4.5,
+  "numberOfVotes": 15,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/commandblocks.62720/history",
+  "gitUrl": "https://github.com/Geitenijs/CommandBlocks",
+  "releaseDate": 1543159260000,
+  "updateDate": 1674574620000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

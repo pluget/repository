@@ -1,0 +1,33 @@
+{
+  "id": 91924,
+  "url": "https://www.spigotmc.org/resources/bungeecord-prometheus-exporter-redisbungee-support.91924/",
+  "name": "Bungeecord Prometheus Exporter - RedisBungee Support",
+  "description": "A Bungee plugin which exports network stats for Prometheus.",
+  "authors": [
+    "HealPot"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91924.jpg?1619901884",
+  "iconCid": "bafkreiakkeoqrsczsy2i6kmnmr6lphm5cvzpbstcgesmwo42szepkyolcq",
+  "numberOfDownloads": 1434,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bungeecord-prometheus-exporter-redisbungee-support.91924/history",
+  "gitUrl": "https://github.com/weihao/bungeecord-prometheus-exporter",
+  "releaseDate": 1676432580000,
+  "updateDate": 1676432580000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

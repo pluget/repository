@@ -1,0 +1,23 @@
+{
+  "id": 96512,
+  "url": "https://www.spigotmc.org/resources/admincmdsb.96512/",
+  "name": "AdminCmdsB",
+  "description": "Une plugin pour administrer ton serveur en français !",
+  "authors": [
+    "mattmunich"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96512.jpg?1637673173",
+  "iconCid": "bafkreig77obsgj6idde72xf5l4yxjit3td76enakgclgkum56ff3iwj2l4",
+  "numberOfDownloads": 190,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/admincmdsb.96512/history",
+  "releaseDate": 1632840300000,
+  "updateDate": 1670771940000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

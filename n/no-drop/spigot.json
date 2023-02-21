@@ -1,0 +1,25 @@
+{
+  "id": 102104,
+  "url": "https://www.spigotmc.org/resources/no-drop.102104/",
+  "name": "No Drop",
+  "description": "Deny drop items from a player in a world",
+  "authors": [
+    "srvory"
+  ],
+  "numberOfDownloads": 106,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/no-drop.102104/history",
+  "releaseDate": 1653064500000,
+  "updateDate": 1661795460000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

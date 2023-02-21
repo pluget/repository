@@ -1,0 +1,31 @@
+{
+  "id": 101443,
+  "url": "https://www.spigotmc.org/resources/extra-damageindicator.101443/",
+  "name": "Extra-DamageIndicator",
+  "description": "Add to your minecraft world Damage Indicator",
+  "authors": [
+    "MSDevelopment"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101443.jpg?1650217292",
+  "iconCid": "bafkreif45ozgxkm3hzkf4ww2ajl7y7ekfmsx6sr3pegyczzfjzyjbfq4je",
+  "numberOfDownloads": 230,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/extra-damageindicator.101443/history",
+  "gitUrl": "https://github.com/MrABCDevelopment/Extra-DamageIndicator",
+  "releaseDate": 1650213660000,
+  "updateDate": 1659994380000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

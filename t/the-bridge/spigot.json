@@ -1,0 +1,30 @@
+{
+  "id": 87320,
+  "url": "https://www.spigotmc.org/resources/the-bridge-1-8-8-1-17.87320/",
+  "name": "The Bridge [1.8.8-1.17]",
+  "description": "[MINIGAME] 2 Modes | Big networks ready | MySQL/YAML | Placeholders | BungeeCord/Multi Arena",
+  "authors": [
+    "Tigerkatze"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87320.jpg?1609462555",
+  "iconCid": "bafkreid72x6wzxkbge7ak73jyfhfjcabrzjvpvhmrkpi4j7ahq3dfyhrra",
+  "numberOfDownloads": 13427,
+  "rating": 4.5,
+  "numberOfVotes": 44,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/the-bridge-1-8-8-1-17.87320/history",
+  "gitUrl": "https://github.com/Plugily-Projects/TheBridge",
+  "releaseDate": 1609458900000,
+  "updateDate": 1673276280000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 20701,
+  "url": "https://www.spigotmc.org/resources/plothider.20701/",
+  "name": "PlotHider",
+  "description": "Hide your creations! Is it invisible, or just a massive hole?",
+  "authors": [
+    "IntellectualSites"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/20/20701.jpg?1594210799",
+  "iconCid": "bafkreiacbje7ckejl5jmaam73wtgaxdmk4tglxuvfrjiwcnli6hcxvpzcq",
+  "numberOfDownloads": 2575,
+  "rating": 3.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/plothider.20701/history",
+  "gitUrl": "https://github.com/IntellectualSites/PlotHider",
+  "releaseDate": 1458999060000,
+  "updateDate": 1661325240000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

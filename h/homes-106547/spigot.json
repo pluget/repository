@@ -1,0 +1,33 @@
+{
+  "id": 106547,
+  "url": "https://www.spigotmc.org/resources/bbrains-homes.106547/",
+  "name": "[BBrains] Homes",
+  "description": "Set a home with one command",
+  "authors": [
+    "dayd21"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106547.jpg?1669989007",
+  "iconCid": "bafkreidb4hhc4n2hiziiuyq24yp4e7n2w3rfsjpsiwictfpb3i3qjpir6q",
+  "numberOfDownloads": 173,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bbrains-homes.106547/history",
+  "gitUrl": "https://www.curseforge.com/minecraft/bukkit-plugins/bbrains-homes",
+  "releaseDate": 1669984980000,
+  "updateDate": 1673580960000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

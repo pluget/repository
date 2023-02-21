@@ -1,0 +1,28 @@
+{
+  "id": 274,
+  "url": "https://www.spigotmc.org/resources/dynmap%C2%AE.274/",
+  "name": "Dynmap®",
+  "description": "Dynamic 'Google Maps' style web maps for your Spigot/Bukkit server",
+  "authors": [
+    "mikeprimm"
+  ],
+  "numberOfDownloads": 773341,
+  "rating": 4.4,
+  "numberOfVotes": 241,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dynmap%C2%AE.274/history",
+  "gitUrl": "https://github.com/webbukkit/dynmap",
+  "releaseDate": 1386261660000,
+  "updateDate": 1675115160000,
+  "versions": [
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

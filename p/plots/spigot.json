@@ -1,0 +1,28 @@
+{
+  "id": 44573,
+  "url": "https://www.spigotmc.org/resources/plots.44573/",
+  "name": "Plots",
+  "description": "Create plots to build on it and prevent griefing.",
+  "authors": [
+    "dagobertdu94"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/44/44573.jpg?1566395366",
+  "iconCid": "bafkreig53lbpmpu26mzpvx36ejexi4uvhhscqhoy3o25uyhhe65dasnw3q",
+  "numberOfDownloads": 26716,
+  "rating": 3.7,
+  "numberOfVotes": 25,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/plots.44573/history",
+  "releaseDate": 1676560860000,
+  "updateDate": 1676560860000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

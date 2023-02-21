@@ -1,0 +1,26 @@
+{
+  "id": 103441,
+  "url": "https://www.spigotmc.org/resources/per-mob-effects-grant-potion-effect-to-all-or-some-mobs.103441/",
+  "name": "Per Mob Effects | Grant potion effect to all (or some) mobs!",
+  "description": "Lightweight plugin that gives mobs an effect when they spawn",
+  "authors": [
+    "Overqualified"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103441.jpg?1658052249",
+  "iconCid": "bafkreiek2nco6mphxioeefsvxnlvjxtrwsbm5hrkv3k63r4f33bwuky2ve",
+  "numberOfDownloads": 39,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/per-mob-effects-grant-potion-effect-to-all-or-some-mobs.103441/history",
+  "releaseDate": 1658048040000,
+  "updateDate": 1658168280000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

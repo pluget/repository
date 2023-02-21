@@ -1,0 +1,23 @@
+{
+  "id": 105416,
+  "url": "https://www.spigotmc.org/resources/monster-slayer.105416/",
+  "name": "Monster Slayer",
+  "description": "Gives ability/items based on the last monster/mob killed",
+  "authors": [
+    "NukeGH05T"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105416.jpg?1663969146",
+  "iconCid": "bafkreihihn4p2xggef47r7fkoyoiwdlh3j23ziebyuh3kgadukwfmjwkcy",
+  "numberOfDownloads": 53,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/monster-slayer.105416/history",
+  "releaseDate": 1663965480000,
+  "updateDate": 1663965480000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

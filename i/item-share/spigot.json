@@ -1,0 +1,26 @@
+{
+  "id": 102874,
+  "url": "https://www.spigotmc.org/resources/item-share-1-13-1-19-2.102874/",
+  "name": "Item Share [1.13 - 1.19.2]",
+  "description": "Allows to share/transfer item via command",
+  "authors": [
+    "NukeGH05T"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102874.jpg?1656088826",
+  "iconCid": "bafkreigujo2rgmf64odpbgjtxgtpkxgw4vkascw5koivek6hownyzzv6xm",
+  "numberOfDownloads": 210,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/item-share-1-13-1-19-2.102874/history",
+  "releaseDate": 1656084960000,
+  "updateDate": 1664123400000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

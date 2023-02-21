@@ -1,0 +1,31 @@
+{
+  "id": 86813,
+  "url": "https://www.spigotmc.org/resources/m0-onlineplayersgui-1-8-1-18-conditional-guis.86813/",
+  "name": "M0 - OnlinePlayersGUI [1.8 - 1.18] [CONDITIONAL GUIS]",
+  "description": "Online players in a GUI.",
+  "authors": [
+    "M0dii"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/86/86813.jpg?1608238189",
+  "iconCid": "bafkreia4b3t4amak6pwafd5loib3zchbblzeqx7nq63xekuqhrpjac4kzq",
+  "numberOfDownloads": 3180,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/m0-onlineplayersgui-1-8-1-18-conditional-guis.86813/history",
+  "gitUrl": "https://github.com/M0diis/M0-OnlinePlayersGUI",
+  "releaseDate": 1608234420000,
+  "updateDate": 1667577060000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

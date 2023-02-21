@@ -1,0 +1,21 @@
+{
+  "id": 106190,
+  "url": "https://www.spigotmc.org/resources/immortalmobs.106190/",
+  "name": "ImmortalMobs",
+  "description": "Make some mobs invulnerable on damage.",
+  "authors": [
+    "fptbb"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106190.jpg?1668044088",
+  "iconCid": "bafkreidzbo2ssxvuwzlr4j43jrxaglj7zrs2nn6l7b2pwcxiqcymtnz72e",
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/immortalmobs.106190/history",
+  "gitUrl": "https://github.com/Fptbb/ImmortalMobs",
+  "releaseDate": 1668039720000,
+  "updateDate": 1668199200000,
+  "versions": [
+    "1.19"
+  ]
+}

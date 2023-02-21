@@ -1,0 +1,26 @@
+{
+  "id": 104390,
+  "url": "https://www.spigotmc.org/resources/viadisable.104390/",
+  "name": "ViaDisable",
+  "description": "A simple plugin that allows you to disable ViaVersion (+ addons). Intended for Minehut.",
+  "authors": [
+    "AbeTGT"
+  ],
+  "numberOfDownloads": 33,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/viadisable.104390/history",
+  "gitUrl": "https://github.com/AbeTGT/ViaDisable",
+  "releaseDate": 1660030380000,
+  "updateDate": 1660030380000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

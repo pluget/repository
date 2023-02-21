@@ -1,0 +1,23 @@
+{
+  "id": 106066,
+  "url": "https://www.spigotmc.org/resources/savedstructures-1-17-1-1-19-2.106066/",
+  "name": "SavedStructures [1.17.1 - 1.19.2]",
+  "description": "A fast, easy way to reset structures for maps! (Works with command blocks)",
+  "authors": [
+    "ItziSpyder"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106066.jpg?1671352215",
+  "iconCid": "bafkreieyr3epqjet2yun6tbdetutgerlaxdccmgijca34txote4rkyq5su",
+  "numberOfDownloads": 101,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/savedstructures-1-17-1-1-19-2.106066/history",
+  "gitUrl": "https://github.com/ItziSpyder/SavedStructures",
+  "releaseDate": 1667449140000,
+  "updateDate": 1672465920000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

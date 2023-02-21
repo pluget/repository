@@ -1,0 +1,27 @@
+{
+  "id": 106003,
+  "url": "https://www.spigotmc.org/resources/lighttubers-alerts-for-youtubers.106003/",
+  "name": "LightTubers | Alerts for YouTubers",
+  "description": "Notify the players about a new video or stream",
+  "authors": [
+    "kainlighty"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106003.jpg?1667151099",
+  "iconCid": "bafkreiarfkwqv3e6wdujb5uia5kse44zqmvwdr2nzhdleyxain3b5ja2na",
+  "numberOfDownloads": 135,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lighttubers-alerts-for-youtubers.106003/history",
+  "releaseDate": 1667147460000,
+  "updateDate": 1667760780000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

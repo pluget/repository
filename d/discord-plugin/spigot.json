@@ -1,0 +1,24 @@
+{
+  "id": 83566,
+  "url": "https://www.spigotmc.org/resources/discord-plugin.83566/",
+  "name": "Discord Plugin",
+  "description": "This is a special DiscordPlugin",
+  "authors": [
+    "Lars__SVW"
+  ],
+  "numberOfDownloads": 180,
+  "rating": 3.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discord-plugin.83566/history",
+  "releaseDate": 1599309840000,
+  "updateDate": 1674717660000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

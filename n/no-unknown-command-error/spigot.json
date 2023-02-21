@@ -1,0 +1,25 @@
+{
+  "id": 52331,
+  "url": "https://www.spigotmc.org/resources/minimalist-no-unknown-command-error.52331/",
+  "name": "[Minimalist] No Unknown Command Error",
+  "description": "Suppresses \"Unknown Command\" errors in chat",
+  "authors": [
+    "c-eAgle"
+  ],
+  "numberOfDownloads": 594,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minimalist-no-unknown-command-error.52331/history",
+  "releaseDate": 1516565820000,
+  "updateDate": 1658754780000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

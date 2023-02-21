@@ -1,0 +1,24 @@
+{
+  "id": 73707,
+  "url": "https://www.spigotmc.org/resources/realmines-1-14-to-1-19-3.73707/",
+  "name": "RealMines (1.14 to 1.19.3)",
+  "description": "Brand new, simple and efficient mine management plugin.",
+  "authors": [
+    "JoseGamer_PT"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/73/73707.jpg?1577205879",
+  "iconCid": "bafkreibobedei3oypf5nonanqsrbmf2omgvjmhxollbftza3ebpddvp7ju",
+  "numberOfDownloads": 29179,
+  "rating": 4.7,
+  "numberOfVotes": 31,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/realmines-1-14-to-1-19-3.73707/history",
+  "gitUrl": "https://github.com/joserodpt/RealMines",
+  "releaseDate": 1577202240000,
+  "updateDate": 1675027440000,
+  "versions": [
+    "1.14",
+    "1.16",
+    "1.17",
+    "1.19"
+  ]
+}

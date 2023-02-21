@@ -1,0 +1,31 @@
+{
+  "id": 105202,
+  "url": "https://www.spigotmc.org/resources/difficulty-core-1-8-x-1-19-x.105202/",
+  "name": "Difficulty Core [1.8.X - 1.19.X]",
+  "description": "An API to make custom difficulties!",
+  "authors": [
+    "ScriptingPhoenix"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105202.jpg?1662834954",
+  "iconCid": "bafkreigo3yhfx464ln4p2bsa3pmufixs3k6sxhqwmzpyjy3nudxrwcoeni",
+  "numberOfDownloads": 85,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/difficulty-core-1-8-x-1-19-x.105202/history",
+  "releaseDate": 1662831300000,
+  "updateDate": 1663934160000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 107163,
+  "url": "https://www.spigotmc.org/resources/reqmc-integrate-your-server-with-any-app-or-discord-bot.107163/",
+  "name": "REQMC - Integrate your server with any app or discord bot!",
+  "description": "Control your minecraft server with HTTP requests! Integrate it with app or discord bot easily.",
+  "authors": [
+    "Ando."
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107163.jpg?1672769165",
+  "iconCid": "bafkreifiz7qouw6p5ulmr2t3kt6k5hi4mj4mdm5fbk52zy7enpnzehjire",
+  "numberOfDownloads": 49,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/reqmc-integrate-your-server-with-any-app-or-discord-bot.107163/history",
+  "releaseDate": 1672765500000,
+  "updateDate": 1672832820000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

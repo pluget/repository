@@ -1,0 +1,31 @@
+{
+  "id": 97739,
+  "url": "https://www.spigotmc.org/resources/evernifecore.97739/",
+  "name": "EverNifeCore",
+  "description": "EverNife's Library for all my plugins",
+  "authors": [
+    "evernife"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97739.jpg?1648594950",
+  "iconCid": "bafkreifuzca6h2fcjjx23fmkhjqizxdscvct7pyi4w376r4dagexuk4lja",
+  "numberOfDownloads": 1195,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/evernifecore.97739/history",
+  "gitUrl": "https://github.com/evernife/EverNifeCore",
+  "releaseDate": 1637370120000,
+  "updateDate": 1676145360000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

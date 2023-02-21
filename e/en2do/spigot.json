@@ -1,0 +1,27 @@
+{
+  "id": 106761,
+  "url": "https://www.spigotmc.org/resources/en2do-mongodb-framework-easy-to-use-async.106761/",
+  "name": "en2do (MongoDB Framework | Easy-To-Use | Async)",
+  "description": "Mongodb entity database framework with support for asynchronous operations",
+  "authors": [
+    "Koboo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106761.jpg?1671187986",
+  "iconCid": "bafkreihaujdaczztnjr232xcvmrexmzwsdgnima7zeq5x46lquh7rjmc34",
+  "numberOfDownloads": 68,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/en2do-mongodb-framework-easy-to-use-async.106761/history",
+  "gitUrl": "https://github.com/Koboo/en2do",
+  "releaseDate": 1676450940000,
+  "updateDate": 1676450940000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

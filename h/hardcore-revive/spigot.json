@@ -1,0 +1,22 @@
+{
+  "id": 90274,
+  "url": "https://www.spigotmc.org/resources/hardcore-revive.90274/",
+  "name": "Hardcore Revive",
+  "description": "Revive other players in hardcore mode.",
+  "authors": [
+    "Asumji"
+  ],
+  "numberOfDownloads": 641,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hardcore-revive.90274/history",
+  "gitUrl": "https://github.com/Asumji/hardcore-revive",
+  "releaseDate": 1616010420000,
+  "updateDate": 1675447740000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

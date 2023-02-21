@@ -1,0 +1,23 @@
+{
+  "id": 104014,
+  "url": "https://www.spigotmc.org/resources/yourdurability.104014/",
+  "name": "YourDurabilitY",
+  "description": "Make custom durability for items and display it on lore.",
+  "authors": [
+    "PapaReiena2k3"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104014.jpg?1660173104",
+  "iconCid": "bafkreieut42g4f756mcbxnzin2ym7zjavv6422k5nsg3v432egayecvmia",
+  "numberOfDownloads": 56,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/yourdurability.104014/history",
+  "gitUrl": "https://github.com/PapaReiena2k3/Plugin-YourDurabilitY",
+  "releaseDate": 1659481860000,
+  "updateDate": 1660168500000,
+  "versions": [
+    "1.16",
+    "1.18",
+    "1.19"
+  ]
+}

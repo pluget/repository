@@ -1,0 +1,21 @@
+{
+  "id": 105764,
+  "url": "https://www.spigotmc.org/resources/blacklistip.105764/",
+  "name": "BlackListIP",
+  "description": "Kick,BlackList,IP",
+  "authors": [
+    "prosirius12"
+  ],
+  "numberOfDownloads": 26,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blacklistip.105764/history",
+  "releaseDate": 1665747360000,
+  "updateDate": 1665778860000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

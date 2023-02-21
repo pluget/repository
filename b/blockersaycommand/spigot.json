@@ -1,0 +1,21 @@
+{
+  "id": 76435,
+  "url": "https://www.spigotmc.org/resources/blockersaycommand.76435/",
+  "name": "BlockerSayCommand",
+  "description": "Say command blocker for server.pro",
+  "authors": [
+    "MindBurned"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/76/76435.jpg?1585023482",
+  "iconCid": "bafkreih6r2j46afw2uk253pzwqjc4ug6pp5x65yy6ybkwblwwcihid4w6m",
+  "numberOfDownloads": 312,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blockersaycommand.76435/history",
+  "gitUrl": "https://github.com/mindburned/BlockerSayCommand",
+  "releaseDate": 1585019820000,
+  "updateDate": 1667682600000,
+  "versions": [
+    "1.19"
+  ]
+}

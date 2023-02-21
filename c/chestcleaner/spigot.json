@@ -1,0 +1,27 @@
+{
+  "id": 40313,
+  "url": "https://www.spigotmc.org/resources/chestcleaner-sorting-plugin-api.40313/",
+  "name": "ChestCleaner - Sorting Plugin (+API)",
+  "description": "ChestCleaner sorts your chests and inventories. (+ Autorefill for items in the hotbar)",
+  "authors": [
+    "tom2208"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/40/40313.jpg?1559334809",
+  "iconCid": "bafkreifpsiq6sahbbc75geiub2q7zndzmwn6bie5w7ahqzx7lr7e3ztorq",
+  "numberOfDownloads": 40008,
+  "rating": 4.7,
+  "numberOfVotes": 42,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chestcleaner-sorting-plugin-api.40313/history",
+  "gitUrl": "https://github.com/tom2208/ChestCleaner",
+  "releaseDate": 1493637300000,
+  "updateDate": 1662311760000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 77631,
+  "url": "https://www.spigotmc.org/resources/phd.77631/",
+  "name": "pHD",
+  "description": "Manage holograms with intelligence",
+  "authors": [
+    "SlimeDog"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/77/77631.jpg?1676444312",
+  "iconCid": "bafkreicde64lllsbj2luzkztch5ysqn5chwrtmgkdkx5yzligzslkj2mmu",
+  "numberOfDownloads": 745,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/phd.77631/history",
+  "gitUrl": "https://github.com/SlimeDog/pHD/",
+  "releaseDate": 1587303240000,
+  "updateDate": 1674347040000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

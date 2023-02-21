@@ -1,0 +1,32 @@
+{
+  "id": 17954,
+  "url": "https://www.spigotmc.org/resources/chestoverflow.17954/",
+  "name": "ChestOverflow",
+  "description": "Chest sorting plugin",
+  "authors": [
+    "Chalk"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/17/17954.jpg?1454566234",
+  "iconCid": "bafkreifpwdhrzht3r374xqptizs6bcwdgvaypu7fg43tbkyewpio6ruo54",
+  "numberOfDownloads": 453,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chestoverflow.17954/history",
+  "gitUrl": "https://github.com/ChalkPE/ChestOverflow",
+  "releaseDate": 1454562420000,
+  "updateDate": 1674741960000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

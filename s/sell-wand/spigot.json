@@ -1,0 +1,31 @@
+{
+  "id": 87014,
+  "url": "https://www.spigotmc.org/resources/sell-wand.87014/",
+  "name": "Sell wand",
+  "description": "Sell wand plugin to sell content of your chest",
+  "authors": [
+    "Zach_FR"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87014.jpg?1608758260",
+  "iconCid": "bafkreihbcf6q5o2pxrbnqbuvmnkhdxemsteztlo7gdtl7ozjrwqkps6wh4",
+  "numberOfDownloads": 5313,
+  "rating": 4.4,
+  "numberOfVotes": 15,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sell-wand.87014/history",
+  "releaseDate": 1608754620000,
+  "updateDate": 1664395500000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

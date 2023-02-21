@@ -1,0 +1,30 @@
+{
+  "id": 33166,
+  "url": "https://www.spigotmc.org/resources/vivecraft-spigot-extensions.33166/",
+  "name": "Vivecraft Spigot Extensions",
+  "description": "VSE is a companion plugin for Vivecraft, the VR mod for Java Minecraft.",
+  "authors": [
+    "Jaron780"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/33/33166.jpg?1481693337",
+  "iconCid": "bafkreigthjozx6nkdmfkvcz4o5rti5a7bc6y76fa5dpifzyhsta765orqi",
+  "numberOfDownloads": 78143,
+  "rating": 4.5,
+  "numberOfVotes": 16,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/vivecraft-spigot-extensions.33166/history",
+  "gitUrl": "https://github.com/jrbudda/Vivecraft_Spigot_Extensions",
+  "releaseDate": 1481689680000,
+  "updateDate": 1663464780000,
+  "versions": [
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

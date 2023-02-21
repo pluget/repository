@@ -1,0 +1,24 @@
+{
+  "id": 101632,
+  "url": "https://www.spigotmc.org/resources/problockregen-regen-blocks-plants-and-crops.101632/",
+  "name": "Problockregen - Regen blocks, plants, and crops",
+  "description": "Great for RPG, Prison and any other server!",
+  "authors": [
+    "goflish"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101632.jpg?1650839093",
+  "iconCid": "bafkreidm4fvh6wc55zw2hznvuikxrklna2umlbual6egjrsmedgufwtkba",
+  "numberOfDownloads": 236,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/problockregen-regen-blocks-plants-and-crops.101632/history",
+  "gitUrl": "https://github.com/promcteam/problockregen",
+  "releaseDate": 1650835440000,
+  "updateDate": 1668109860000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

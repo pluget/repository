@@ -1,0 +1,23 @@
+{
+  "id": 100703,
+  "url": "https://www.spigotmc.org/resources/raritydisplay.100703/",
+  "name": "RarityDisplay",
+  "description": "Show the rarity of an item in lore. Supports custom items, enchantments, and more.",
+  "authors": [
+    "Auxilor"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100703.jpg?1647254229",
+  "iconCid": "bafkreiak6yor5tomuge5khgm4zhxmhntdjesxpteykwmqyylpoz3n2fuqa",
+  "numberOfDownloads": 746,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/raritydisplay.100703/history",
+  "gitUrl": "https://github.com/Auxilor/RarityDisplay",
+  "releaseDate": 1647250620000,
+  "updateDate": 1658670780000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

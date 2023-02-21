@@ -1,0 +1,29 @@
+{
+  "id": 89210,
+  "url": "https://www.spigotmc.org/resources/loginpro.89210/",
+  "name": "LoginPro",
+  "description": "Register/login",
+  "authors": [
+    "roililsrv"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89210.jpg?1652148173",
+  "iconCid": "bafkreidduatdhxeoehxacd6hw3s5jrbhqdzdw26soup52eoj7poih5pkhu",
+  "numberOfDownloads": 965,
+  "rating": 2.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/loginpro.89210/history",
+  "gitUrl": "https://github.com/roililoff/LoginPro",
+  "releaseDate": 1613697600000,
+  "updateDate": 1662771300000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

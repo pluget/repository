@@ -1,0 +1,26 @@
+{
+  "id": 102233,
+  "url": "https://www.spigotmc.org/resources/advanced-security-1-13-1-19-next-gen-server-security-plugin.102233/",
+  "name": "Advanced Security [1.13-1.19] | Next-gen server security plugin!",
+  "description": "the essential security plugin for minecraft servers.",
+  "authors": [
+    "drawnwylde"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102233.jpg?1669687596",
+  "iconCid": "bafkreidf35ayjfvw36tovwkp4q6ykf6r34gqq5zgosdfatu574oqmynnlm",
+  "numberOfDownloads": 936,
+  "rating": 4.1,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advanced-security-1-13-1-19-next-gen-server-security-plugin.102233/history",
+  "releaseDate": 1653529260000,
+  "updateDate": 1676298180000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

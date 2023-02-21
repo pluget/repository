@@ -1,0 +1,22 @@
+{
+  "id": 106793,
+  "url": "https://www.spigotmc.org/resources/inventory-drop-toggle.106793/",
+  "name": "Inventory Drop Toggle",
+  "description": "Toggle keep inventory for each player",
+  "authors": [
+    "MJDawsonyt"
+  ],
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/inventory-drop-toggle.106793/history",
+  "gitUrl": "https://github.com/MJDaws0n/inventoryDropToggle",
+  "releaseDate": 1671306000000,
+  "updateDate": 1671306000000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

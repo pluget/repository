@@ -1,0 +1,24 @@
+{
+  "id": 107198,
+  "url": "https://www.spigotmc.org/resources/faciliscommon.107198/",
+  "name": "FacilisCommon",
+  "description": "Libary for Minecraft",
+  "authors": [
+    "Dev7ex"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107198.jpg?1672863716",
+  "iconCid": "bafkreif2nzqxsnt2jlhzemy3sejqhtkiirfnzq7ax4circtzg6umrtygly",
+  "numberOfDownloads": 348,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/faciliscommon.107198/history",
+  "gitUrl": "https://github.com/Dev7ex/FacilisCommon",
+  "releaseDate": 1672857900000,
+  "updateDate": 1675592340000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

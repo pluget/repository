@@ -1,0 +1,29 @@
+{
+  "id": 47502,
+  "url": "https://www.spigotmc.org/resources/mclo-gs.47502/",
+  "name": "mclo.gs",
+  "description": "Share your Minecraft server log directly from your server with one simple command.",
+  "authors": [
+    "Aternos"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/47/47502.jpg?1506111116",
+  "iconCid": "bafkreidtj2c433iuvjouyqzybs7uutcdb5vtjmv6zsuiracv5xvq5sy2ca",
+  "numberOfDownloads": 2542,
+  "rating": 3.3,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mclo-gs.47502/history",
+  "gitUrl": "https://github.com/aternosorg/mclogs-bukkit",
+  "releaseDate": 1506107460000,
+  "updateDate": 1668606420000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

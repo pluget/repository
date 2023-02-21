@@ -1,0 +1,28 @@
+{
+  "id": 85065,
+  "url": "https://www.spigotmc.org/resources/md-point-locator.85065/",
+  "name": "MD Point Locator",
+  "description": "In-game point locator tool",
+  "authors": [
+    "chums122"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85065.jpg?1603361458",
+  "iconCid": "bafkreifnybwvstkyc6o23jxf24b3yh5y6bfmuao65hdub4vec6ohig7a3m",
+  "numberOfDownloads": 236,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/md-point-locator.85065/history",
+  "gitUrl": "https://github.com/chums122/MDPointLocator",
+  "releaseDate": 1603357740000,
+  "updateDate": 1664733060000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

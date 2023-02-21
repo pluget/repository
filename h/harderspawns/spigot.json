@@ -1,0 +1,22 @@
+{
+  "id": 107814,
+  "url": "https://www.spigotmc.org/resources/harderspawns.107814/",
+  "name": "HarderSpawns",
+  "description": "Control what health, hunger and potion effects players will respawn and first join spawn with!",
+  "authors": [
+    "Etsuni"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107814.jpg?1675500481",
+  "iconCid": "bafkreibcada5vyczm6rxonyepvtjamdbgrem63gu2nmukwfkjrozvc6lbq",
+  "numberOfDownloads": 20,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/harderspawns.107814/history",
+  "gitUrl": "https://github.com/figaustin/harderspawns",
+  "releaseDate": 1675496820000,
+  "updateDate": 1675496820000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

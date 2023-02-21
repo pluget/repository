@@ -1,0 +1,22 @@
+{
+  "id": 98139,
+  "url": "https://www.spigotmc.org/resources/consume-food-1-16-1-19.98139/",
+  "name": "Consume Food [1.16-1.19]",
+  "description": "Plugin for minecraft food",
+  "authors": [
+    "msicraft"
+  ],
+  "numberOfDownloads": 972,
+  "rating": 4.7,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/consume-food-1-16-1-19.98139/history",
+  "gitUrl": "https://github.com/msicraft/ConsumeFood-paper-based",
+  "releaseDate": 1638704820000,
+  "updateDate": 1662557040000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

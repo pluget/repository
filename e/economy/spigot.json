@@ -1,0 +1,21 @@
+{
+  "id": 107261,
+  "url": "https://www.spigotmc.org/resources/economy-1-13-2-1-19-3.107261/",
+  "name": "Economy (1.13.2 - 1.19.3)",
+  "description": "adds economy to the server",
+  "authors": [
+    "Achy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107261.jpg?1673107718",
+  "iconCid": "bafkreibpymlulvpvkzlti2fe5kp6xh3zy3ndh7excilctoh7lkvkkanurq",
+  "numberOfDownloads": 554,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/economy-1-13-2-1-19-3.107261/history",
+  "gitUrl": "https://github.com/AchyMake/Economy",
+  "releaseDate": 1673104080000,
+  "updateDate": 1675537200000,
+  "versions": [
+    "1.19"
+  ]
+}

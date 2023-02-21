@@ -1,0 +1,22 @@
+{
+  "id": 83263,
+  "url": "https://www.spigotmc.org/resources/pointscore.83263/",
+  "name": "PointsCore",
+  "description": "Incentivizing playtime on your server.",
+  "authors": [
+    "marcangeloh"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83263.jpg?1598638964",
+  "iconCid": "bafkreihexw4rh2yrtksda5nf4opocezhbczrtzatv225gyifgwaypmff2i",
+  "numberOfDownloads": 1858,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pointscore.83263/history",
+  "gitUrl": "https://github.com/marcangeloh/PointsCore",
+  "releaseDate": 1598635320000,
+  "updateDate": 1676025540000,
+  "versions": [
+    "1.16",
+    "1.19"
+  ]
+}

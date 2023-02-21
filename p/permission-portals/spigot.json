@@ -1,0 +1,25 @@
+{
+  "id": 91085,
+  "url": "https://www.spigotmc.org/resources/permission-portals-recoded-custom-perms-messages-prices-nether-end.91085/",
+  "name": "Permission Portals (RECODED) | CUSTOM PERMS/MESSAGES/PRICES | NETHER | END",
+  "description": "Only allow players with certain permissions to use end/nether portals!",
+  "authors": [
+    "VanixMc"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91085.jpg?1617903827",
+  "iconCid": "bafkreidqxrrf5l7ctk3mrrj7m3qtwjz5bfzpx2fhlp6pe4vvxaeoft3vdi",
+  "numberOfDownloads": 314,
+  "rating": 5,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/permission-portals-recoded-custom-perms-messages-prices-nether-end.91085/history",
+  "gitUrl": "https://github.com/OwnerAli/PermissionPortals-RECODE",
+  "releaseDate": 1617900180000,
+  "updateDate": 1663143120000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

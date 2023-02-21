@@ -1,0 +1,22 @@
+{
+  "id": 95182,
+  "url": "https://www.spigotmc.org/resources/discord-webhook-integration.95182/",
+  "name": "Discord Webhook Integration",
+  "description": "Display Join & Leave Messages In Your Discord Server!",
+  "authors": [
+    "SleepyStew"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95182.jpg?1628599965",
+  "iconCid": "bafkreiexswqnsweqsrsvpfoihk7cwnaoehpbo7rlbrgkoyyw5fhmrtwmme",
+  "numberOfDownloads": 496,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discord-webhook-integration.95182/history",
+  "releaseDate": 1628566200000,
+  "updateDate": 1658728980000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

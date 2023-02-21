@@ -1,0 +1,25 @@
+{
+  "id": 74063,
+  "url": "https://www.spigotmc.org/resources/smiley-player-trader.74063/",
+  "name": "Smiley Player Trader",
+  "description": "Allows you to trade with players using the Villager GUI.",
+  "authors": [
+    "Mrcomputer1"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/74/74063.jpg?1578226793",
+  "iconCid": "bafkreiemjdqxhie4j7jf4jz2h5k2fgy7otb56lgj3rv4umafoq7rqygeye",
+  "numberOfDownloads": 988,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/smiley-player-trader.74063/history",
+  "gitUrl": "https://github.com/Mrcomputer1/SmileyPlayerTrader",
+  "releaseDate": 1578223140000,
+  "updateDate": 1671777240000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

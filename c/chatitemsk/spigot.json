@@ -1,0 +1,21 @@
+{
+  "id": 83479,
+  "url": "https://www.spigotmc.org/resources/chatitem-sk.83479/",
+  "name": "ChatItem.sk",
+  "description": "Display items in the chat.",
+  "authors": [
+    "D4isDAVID"
+  ],
+  "numberOfDownloads": 1114,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatitem-sk.83479/history",
+  "gitUrl": "https://gist.github.com/D4isDAVID/57c7740c8eb835851ebee3eb8c6b00bf",
+  "releaseDate": 1599143160000,
+  "updateDate": 1667711820000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

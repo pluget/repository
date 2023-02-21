@@ -1,0 +1,22 @@
+{
+  "id": 101424,
+  "url": "https://www.spigotmc.org/resources/microkits-a-kit-for-everyone.101424/",
+  "name": "MicroKits -A kit for everyone",
+  "description": "Allow players to create their own kits to sell, share, trade, etc.",
+  "authors": [
+    "Lucasypelusa12"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101424.jpg?1650252671",
+  "iconCid": "bafkreifxcmbfptcawtfbl2u7iefehl2xqi6zlgdalo6yb34wwf5ngtxnui",
+  "numberOfDownloads": 214,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/microkits-a-kit-for-everyone.101424/history",
+  "gitUrl": "https://github.com/Paradis4432/MicroKits",
+  "releaseDate": 1650137940000,
+  "updateDate": 1676039940000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

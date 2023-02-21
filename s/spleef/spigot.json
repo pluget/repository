@@ -1,0 +1,28 @@
+{
+  "id": 107351,
+  "url": "https://www.spigotmc.org/resources/spleef.107351/",
+  "name": "Spleef",
+  "description": "Will you be the last one in the arena?",
+  "authors": [
+    "NaruseII"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107351.jpg?1673545081",
+  "iconCid": "bafkreihe2lb5bfdkxzus5cyrceivplbzujenj4inzczd6jlkekcfe2mzwy",
+  "numberOfDownloads": 148,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/spleef.107351/history",
+  "gitUrl": "https://github.com/NaruseII/Spleef",
+  "releaseDate": 1676712720000,
+  "updateDate": 1676712720000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

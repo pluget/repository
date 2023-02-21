@@ -1,0 +1,21 @@
+{
+  "id": 46807,
+  "url": "https://www.spigotmc.org/resources/serverlinks.46807/",
+  "name": "ServerLinks",
+  "description": "Add your server's different website links to a command!",
+  "authors": [
+    "Number3504"
+  ],
+  "numberOfDownloads": 5427,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/serverlinks.46807/history",
+  "gitUrl": "https://github.com/Altruiis/ServerLinks",
+  "releaseDate": 1504654620000,
+  "updateDate": 1673048880000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

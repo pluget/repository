@@ -1,0 +1,27 @@
+{
+  "id": 81706,
+  "url": "https://www.spigotmc.org/resources/worldborder-pures-fork.81706/",
+  "name": "WorldBorder (Pure's Fork)",
+  "description": "Efficient, feature-rich plugin for limiting and generating your worlds. Continuation of the original",
+  "authors": [
+    "Puremin0rez"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81706.jpg?1595196747",
+  "iconCid": "bafkreigcwmerqb2mwf5idyq7n4jwqawk3mg52c57ce2qgzjvhoiopk57gq",
+  "numberOfDownloads": 12958,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/worldborder-pures-fork.81706/history",
+  "gitUrl": "https://github.com/Puremin0rez/WorldBorder",
+  "releaseDate": 1595193120000,
+  "updateDate": 1662437640000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 32521,
+  "url": "https://www.spigotmc.org/resources/disable-friendly-fire-for-clans.32521/",
+  "name": "Disable friendly fire for Clans",
+  "description": "Prevents players from hitting each other if they are in the same clan",
+  "authors": [
+    "simonsator"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/32/32521.jpg?1497973149",
+  "iconCid": "bafkreidwmc5exy7e3o7oyvcg7pgziftlcbpozwj7gya7p26rbifbxctmim",
+  "numberOfDownloads": 353,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/disable-friendly-fire-for-clans.32521/history",
+  "gitUrl": "https://github.com/Simonsator/Clans-Disable-Friendly-Fire",
+  "releaseDate": 1480525860000,
+  "updateDate": 1664806080000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

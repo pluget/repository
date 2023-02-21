@@ -1,0 +1,23 @@
+{
+  "id": 106973,
+  "url": "https://www.spigotmc.org/resources/universalvaults-1-17-1-1-19-2.106973/",
+  "name": "UniversalVaults [1.17.1 - 1.19.2]",
+  "description": "Universal NBT vaults for items and NBT, NBT shelving and storage.",
+  "authors": [
+    "ItziSpyder"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106973.jpg?1672032599",
+  "iconCid": "bafkreibllkzpejf2idsesuv257zjlkc4jl5q3af4465znn7ahlz2wrdfhq",
+  "numberOfDownloads": 310,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/universalvaults-1-17-1-1-19-2.106973/history",
+  "gitUrl": "https://github.com/ItziSpyder/UniVault",
+  "releaseDate": 1676840340000,
+  "updateDate": 1676840340000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 31067,
+  "url": "https://www.spigotmc.org/resources/effects.31067/",
+  "name": "Effects",
+  "description": "Some permanent effects.",
+  "authors": [
+    "Photon"
+  ],
+  "numberOfDownloads": 431,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/effects.31067/history",
+  "gitUrl": "https://github.com/Photon-GitHub/Effects",
+  "releaseDate": 1477757460000,
+  "updateDate": 1673637900000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

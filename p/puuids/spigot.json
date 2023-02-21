@@ -1,0 +1,32 @@
+{
+  "id": 71496,
+  "url": "https://www.spigotmc.org/resources/puuids-%E2%80%A2-an-async-file-api.71496/",
+  "name": "PUUIDs • An Async File API",
+  "description": "A fast, reliable, and open source offline UUID and storage management API.",
+  "authors": [
+    "zach_attack"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/71/71496.jpg?1658884123",
+  "iconCid": "bafkreieqjso7eucotdoyin6ahpe465u5kh6gcc3es3i57lmafg6kcm7fi4",
+  "numberOfDownloads": 707,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/puuids-%E2%80%A2-an-async-file-api.71496/history",
+  "gitUrl": "https://github.com/zachduda/PUUIDs",
+  "releaseDate": 1569159660000,
+  "updateDate": 1668473880000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

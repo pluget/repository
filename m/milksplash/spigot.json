@@ -1,0 +1,23 @@
+{
+  "id": 106326,
+  "url": "https://www.spigotmc.org/resources/milksplash.106326/",
+  "name": "MilkSplash",
+  "description": "Lets players brew a throwable milk potion that cleanses player's effects!",
+  "authors": [
+    "Etsuni"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106326.jpg?1668840013",
+  "iconCid": "bafkreiaofsgib7wdronz6arqgqonssuk3ax2hhlwlvynhwbpwjmzuqofpi",
+  "numberOfDownloads": 196,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/milksplash.106326/history",
+  "gitUrl": "https://github.com/figaustin/MilkSplash",
+  "releaseDate": 1668836400000,
+  "updateDate": 1669500000000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

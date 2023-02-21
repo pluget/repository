@@ -1,0 +1,31 @@
+{
+  "id": 106961,
+  "url": "https://www.spigotmc.org/resources/chatcooldown.106961/",
+  "name": "ChatCooldown+",
+  "description": "A simple, lightweight skript for Chat Cooldowns!",
+  "authors": [
+    "ahmadstoryus"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106961.jpg?1671998088",
+  "iconCid": "bafkreihv3ssg2ceac6mtownidaef2zryx5v5d7zv5oiruu7p6mfd2liep4",
+  "numberOfDownloads": 60,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatcooldown.106961/history",
+  "releaseDate": 1671994440000,
+  "updateDate": 1671994440000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

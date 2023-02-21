@@ -1,0 +1,21 @@
+{
+  "id": 104483,
+  "url": "https://www.spigotmc.org/resources/laser-tag.104483/",
+  "name": "Laser Tag",
+  "description": "Extremely simple laser tag plugin made for a controlled group",
+  "authors": [
+    "srnyx"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104483.jpg?1660273559",
+  "iconCid": "bafkreiddxbw2tl5vkzyvyyu2csndyr47ywj4li2puxyduvaf56fz2mrhzm",
+  "numberOfDownloads": 51,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/laser-tag.104483/history",
+  "gitUrl": "https://github.com/Venox-Network/laser-tag/tree/0dd9d3bbbf47cceaef6fd6f41b8a1aaa9451dfa6",
+  "releaseDate": 1660269900000,
+  "updateDate": 1660270680000,
+  "versions": [
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 47561,
+  "url": "https://www.spigotmc.org/resources/quality-armory.47561/",
+  "name": "Quality Armory",
+  "description": "A quality gun plugin similar to CrackShot.",
+  "authors": [
+    "Lorenzo0111"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/47/47561.jpg?1596250992",
+  "iconCid": "bafkreig2sd76wg3qogaxm2e6iqkd5as4yd2homzvbvintikqfawzrkbeda",
+  "numberOfDownloads": 261237,
+  "rating": 4.6,
+  "numberOfVotes": 249,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/quality-armory.47561/history",
+  "gitUrl": "https://github.com/ZombieStriker/QualityArmory",
+  "releaseDate": 1506206700000,
+  "updateDate": 1672145280000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 106349,
+  "url": "https://www.spigotmc.org/resources/myazuriomrank.106349/",
+  "name": "MyAzuriomRank",
+  "description": "MyAzuriomRank allows a link between your luckperms ranks and your azuriom ranks",
+  "authors": [
+    "le_gabi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106349.jpg?1668947601",
+  "iconCid": "bafkreibzjxcansu2dkzxy4n2mrsyvufqswoudsc3upqb7kfhzetcsylara",
+  "numberOfDownloads": 30,
+  "rating": 4.3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/myazuriomrank.106349/history",
+  "gitUrl": "https://github.com/legabi/MyAzuriomRank",
+  "releaseDate": 1668943920000,
+  "updateDate": 1668965460000,
+  "versions": [
+    "1.8",
+    "1.19"
+  ]
+}

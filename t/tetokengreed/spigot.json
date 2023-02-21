@@ -1,0 +1,22 @@
+{
+  "id": 108114,
+  "url": "https://www.spigotmc.org/resources/te-tokengreed.108114/",
+  "name": "TE-TokenGreed",
+  "description": "TokenEnchant, Tokenator, TokenGreed",
+  "authors": [
+    "GodAlecs"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108114.jpg?1676838969",
+  "iconCid": "bafkreiczsvuaz6fx5axjrabg4dhpatt745gv6kgtzfgeqg23evsgvd24l4",
+  "numberOfDownloads": 8,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/te-tokengreed.108114/history",
+  "gitUrl": "https://github.com/GodAlecs/TE-TokenGreed",
+  "releaseDate": 1676835360000,
+  "updateDate": 1676835360000,
+  "versions": [
+    "1.8",
+    "1.12"
+  ]
+}

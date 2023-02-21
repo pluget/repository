@@ -1,0 +1,30 @@
+{
+  "id": 106724,
+  "url": "https://www.spigotmc.org/resources/moneyformatter.106724/",
+  "name": "MoneyFormatter",
+  "description": "Formats Vault money using PlaceholderAPI",
+  "authors": [
+    "brs73"
+  ],
+  "numberOfDownloads": 23,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/moneyformatter.106724/history",
+  "releaseDate": 1671010980000,
+  "updateDate": 1671010980000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

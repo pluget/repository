@@ -1,0 +1,22 @@
+{
+  "id": 106471,
+  "url": "https://www.spigotmc.org/resources/moonguard.106471/",
+  "name": "MoonGuard",
+  "description": "Hungarian chat moderator / Magyar chat moderátor",
+  "authors": [
+    "Berc07"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106471.jpg?1670164009",
+  "iconCid": "bafkreiatmnrbc6t7tjowevnugvz23mlaeoc4d7hhhe4pwtpsexbiwaz3gy",
+  "numberOfDownloads": 101,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/moonguard.106471/history",
+  "releaseDate": 1669579620000,
+  "updateDate": 1675599660000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 104711,
+  "url": "https://www.spigotmc.org/resources/v-antidrop-prevents-dropping-your-items-1-8-1-19.104711/",
+  "name": "V-AntiDrop | Prevents dropping your items [1.8-1.19]",
+  "description": "Plugin that cancels the drops of custom and vanilla items.",
+  "authors": [
+    "Vingma"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104711.jpg?1661064200",
+  "iconCid": "bafkreifqm5aao5buwv77tdngc5zxyozmnbrnphri2qdetggxqcrndblgxi",
+  "numberOfDownloads": 218,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/v-antidrop-prevents-dropping-your-items-1-8-1-19.104711/history",
+  "releaseDate": 1661060580000,
+  "updateDate": 1667877540000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

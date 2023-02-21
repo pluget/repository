@@ -1,0 +1,30 @@
+{
+  "id": 105150,
+  "url": "https://www.spigotmc.org/resources/just-permissions.105150/",
+  "name": "Just Permissions",
+  "description": "Just Permissions for your server",
+  "authors": [
+    "vova436612"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105150.jpg?1662660000",
+  "iconCid": "bafkreiermqp4yospyja7la4spzgpmalmrx5s2ofpiwtfahi2pamykzmpk4",
+  "numberOfDownloads": 67,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/just-permissions.105150/history",
+  "releaseDate": 1662655920000,
+  "updateDate": 1665863280000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

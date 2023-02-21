@@ -1,0 +1,31 @@
+{
+  "id": 107172,
+  "url": "https://www.spigotmc.org/resources/joinleavemessage.107172/",
+  "name": "JoinLeaveMessage",
+  "description": "A simple plugin that displays a player's Join & Quit message in chat.",
+  "authors": [
+    "DungeonFinderXD"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107172.jpg?1672777679",
+  "iconCid": "bafkreiexq54ijwib24q5djjfznzf2jcelqrgzbq5fkyv2gskpx4js4zibu",
+  "numberOfDownloads": 275,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/joinleavemessage.107172/history",
+  "releaseDate": 1672774020000,
+  "updateDate": 1675621980000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

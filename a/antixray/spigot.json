@@ -1,0 +1,22 @@
+{
+  "id": 108069,
+  "url": "https://www.spigotmc.org/resources/anti-xray.108069/",
+  "name": "Anti-Xray",
+  "description": "Prevent players from using Xray with this Anti-Xray system.",
+  "authors": [
+    "_Xedo_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108069.jpg?1676938184",
+  "iconCid": "bafkreide5et3w7yoavktbytg2nayd2glxpmqx3iut6hdlpyvfchealdnvq",
+  "numberOfDownloads": 66,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anti-xray.108069/history",
+  "releaseDate": 1676915400000,
+  "updateDate": 1676915400000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

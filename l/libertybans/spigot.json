@@ -1,0 +1,32 @@
+{
+  "id": 81063,
+  "url": "https://www.spigotmc.org/resources/libertybans.81063/",
+  "name": "LibertyBans",
+  "description": "Obedience is liberating",
+  "authors": [
+    "A248"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81063.jpg?1608314405",
+  "iconCid": "bafkreiedspgys2vzqzzt4oq5groegz5cycdkrt5xfjvayrhpm6jwwrd3be",
+  "numberOfDownloads": 3627,
+  "rating": 4.9,
+  "numberOfVotes": 22,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/libertybans.81063/history",
+  "gitUrl": "https://github.com/A248/LibertyBans",
+  "releaseDate": 1593917820000,
+  "updateDate": 1672095420000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

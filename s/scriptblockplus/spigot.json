@@ -1,0 +1,31 @@
+{
+  "id": 78413,
+  "url": "https://www.spigotmc.org/resources/scriptblockplus-1-9-1-19-x-all-servers-will-be-enhanced.78413/",
+  "name": "ScriptBlockPlus | 1.9 - 1.19.x | All servers will be enhanced!",
+  "description": "Allow you to add script to any blocks.",
+  "authors": [
+    "yuttyann44581"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/78/78413.jpg?1588774466",
+  "iconCid": "bafkreiaiyabntssrri76zwiz7qsr443nj6u6uwxa5h723s3l7fweazl7bm",
+  "numberOfDownloads": 7297,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/scriptblockplus-1-9-1-19-x-all-servers-will-be-enhanced.78413/history",
+  "gitUrl": "https://github.com/yuttyann/ScriptBlockPlus",
+  "releaseDate": 1588731960000,
+  "updateDate": 1673388720000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 87829,
+  "url": "https://www.spigotmc.org/resources/blockprot.87829/",
+  "name": "BlockProt",
+  "description": "Protect and lock Chests, Furnaces, etc. with a easy to use GUI.",
+  "authors": [
+    "spnda"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87829.jpg?1610607135",
+  "iconCid": "bafkreictq6ibs3gqheucp4bynp6x7ppcyozthtwskqpkhnng2ryg2zzhxa",
+  "numberOfDownloads": 5948,
+  "rating": 4.8,
+  "numberOfVotes": 14,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blockprot.87829/history",
+  "gitUrl": "https://github.com/spnda/BlockProt",
+  "releaseDate": 1610603520000,
+  "updateDate": 1673457480000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

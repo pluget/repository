@@ -1,0 +1,27 @@
+{
+  "id": 81490,
+  "url": "https://www.spigotmc.org/resources/besttools.81490/",
+  "name": "BestTools",
+  "description": "Best auto tool plugin + hotbar refiller! Includes auto config update, ...",
+  "authors": [
+    "mfnalex"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81490.jpg?1594760182",
+  "iconCid": "bafkreibxlmxorwzp62jb72w4ib4nwm7ae2st7gu46kwyaploppgo42mfpu",
+  "numberOfDownloads": 10111,
+  "rating": 5,
+  "numberOfVotes": 26,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/besttools.81490/history",
+  "gitUrl": "https://github.com/JEFF-Media-GbR/Spigot-BestTools",
+  "releaseDate": 1676533200000,
+  "updateDate": 1676533200000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

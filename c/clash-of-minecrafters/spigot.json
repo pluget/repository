@@ -1,0 +1,26 @@
+{
+  "id": 31180,
+  "url": "https://www.spigotmc.org/resources/clash-of-minecrafters.31180/",
+  "name": "Clash of Minecrafters",
+  "description": "The first fantastic plugin of Clash of Clans for the Minecraft world!",
+  "authors": [
+    "DavideBlade"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/31/31180.jpg?1477961078",
+  "iconCid": "bafkreiawmksdz2urcemq4woe3pfmshouen6qrzypqowz7vcbwraukd52ym",
+  "numberOfDownloads": 6491,
+  "rating": 3.7,
+  "numberOfVotes": 14,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/clash-of-minecrafters.31180/history",
+  "gitUrl": "https://github.com/DavideBlade/Clash-of-Minecrafters",
+  "releaseDate": 1477956780000,
+  "updateDate": 1669503360000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

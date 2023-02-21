@@ -1,0 +1,30 @@
+{
+  "id": 63497,
+  "url": "https://www.spigotmc.org/resources/mob-leash-teleporter-otheranimalteleport.63497/",
+  "name": "Mob Leash Teleporter (OtherAnimalTeleport)",
+  "description": "Allow users to teleport around with leashed entities!",
+  "authors": [
+    "CoolLord22"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/63/63497.jpg?1545748712",
+  "iconCid": "bafkreidsff7te3k73ndifbclcsrlihsc6h7renybrcus7i2q4ac2x4ac2i",
+  "numberOfDownloads": 5890,
+  "rating": 4.8,
+  "numberOfVotes": 13,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mob-leash-teleporter-otheranimalteleport.63497/history",
+  "gitUrl": "https://github.com/CoolLord22/OtherAnimalTeleport",
+  "releaseDate": 1545745080000,
+  "updateDate": 1675326720000,
+  "versions": [
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

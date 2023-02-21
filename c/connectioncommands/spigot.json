@@ -1,0 +1,22 @@
+{
+  "id": 107454,
+  "url": "https://www.spigotmc.org/resources/connectioncommands.107454/",
+  "name": "ConnectionCommands",
+  "description": "Run multiple commands based on players domain / IP used to connect.",
+  "authors": [
+    "Ve6om"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107454.jpg?1673999519",
+  "iconCid": "bafkreieovo5djbj7p55ljldzyqr6h2r3gzvlfhcuu5syn57gva5hqk5xxi",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/connectioncommands.107454/history",
+  "gitUrl": "https://github.com/Ve6om/ConnectionCommands",
+  "releaseDate": 1673995800000,
+  "updateDate": 1673996220000,
+  "versions": [
+    "1.16",
+    "1.19"
+  ]
+}

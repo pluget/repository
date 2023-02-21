@@ -1,0 +1,32 @@
+{
+  "id": 55765,
+  "url": "https://www.spigotmc.org/resources/monthly-crates-%E2%9E%A2-create-your-own-monthly-crates-1-8-1-19-3.55765/",
+  "name": "Monthly Crates ➢ Create Your Own Monthly Crates! [1.8-1.19.3]",
+  "description": "Create your own MonthlyCrates similar to a popular server",
+  "authors": [
+    "Splodgebox"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/55/55765.jpg?1568209259",
+  "iconCid": "bafkreicjqahjgfevd6npyhlc5pakyq4n3nzft7yb5dhxzfxcaem24omuyy",
+  "numberOfDownloads": 14582,
+  "rating": 4.4,
+  "numberOfVotes": 55,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/monthly-crates-%E2%9E%A2-create-your-own-monthly-crates-1-8-1-19-3.55765/history",
+  "gitUrl": "https://github.com/Splodgebox/MonthlyCrates",
+  "releaseDate": 1523911440000,
+  "updateDate": 1673451960000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

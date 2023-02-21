@@ -1,0 +1,27 @@
+{
+  "id": 16584,
+  "url": "https://www.spigotmc.org/resources/pvp-arena.16584/",
+  "name": "PVP Arena",
+  "description": "Enhancing PVP experience with PVP and multi-games arenas",
+  "authors": [
+    "eredrimfr"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/16/16584.jpg?1601155110",
+  "iconCid": "bafkreifnsgsrhphghdptzto5oz7osbhmrifap73llbvt7nlinjaof42jsi",
+  "numberOfDownloads": 64750,
+  "rating": 4.4,
+  "numberOfVotes": 72,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pvp-arena.16584/history",
+  "gitUrl": "https://github.com/Eredrim/pvparena",
+  "releaseDate": 1451863440000,
+  "updateDate": 1675109520000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

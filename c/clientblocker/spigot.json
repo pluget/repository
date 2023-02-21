@@ -1,0 +1,27 @@
+{
+  "id": 95331,
+  "url": "https://www.spigotmc.org/resources/clientblocker.95331/",
+  "name": "ClientBlocker",
+  "description": "Allows you to block certain clients from joining your server",
+  "authors": [
+    "tgb"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95331.jpg?1656534255",
+  "iconCid": "bafkreiebusvdqux4w6t3fjp4r5zwyqmh2i5kl5a6mect4lv3o5dhm4bwjm",
+  "numberOfDownloads": 183,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/clientblocker.95331/history",
+  "gitUrl": "https://github.com/tgb20/ClientBlocker",
+  "releaseDate": 1628967120000,
+  "updateDate": 1658582460000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 107471,
+  "url": "https://www.spigotmc.org/resources/klib-spigot-kotlin-api-lib-to-make-coding-in-kotlin-easier-better.107471/",
+  "name": "kLib - Spigot Kotlin API/Lib to make coding in Kotlin easier & better.",
+  "description": "Task chain system, coroutines, suspending functions and utilities.",
+  "authors": [
+    "ThelegendofTR"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107471.jpg?1674100170",
+  "iconCid": "bafkreihk4ldv3kkwiefvcf76wckxlr5zo6d3omp5zfchmtwwnkxsru2c7m",
+  "numberOfDownloads": 67,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/klib-spigot-kotlin-api-lib-to-make-coding-in-kotlin-easier-better.107471/history",
+  "gitUrl": "https://github.com/zorbeytorunoglu/kLib",
+  "releaseDate": 1674096480000,
+  "updateDate": 1674096480000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

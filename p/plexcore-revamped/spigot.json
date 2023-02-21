@@ -1,0 +1,23 @@
+{
+  "id": 103807,
+  "url": "https://www.spigotmc.org/resources/plexcore-revamped.103807/",
+  "name": "PlexCore Revamped",
+  "description": "Clean and effective Server Core",
+  "authors": [
+    "iMixe"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103807.jpg?1659189137",
+  "iconCid": "bafkreidmeukwpzkjzkakpvwdtzyght2wio3uuid64pslgxljhvhtoqho5q",
+  "numberOfDownloads": 153,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/plexcore-revamped.103807/history",
+  "releaseDate": 1659185460000,
+  "updateDate": 1660000860000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

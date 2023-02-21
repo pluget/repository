@@ -1,0 +1,32 @@
+{
+  "id": 106879,
+  "url": "https://www.spigotmc.org/resources/feedme.106879/",
+  "name": "FeedMe",
+  "description": "Refill your hunger with a command instead of food!",
+  "authors": [
+    "Panda4Ever"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106879.jpg?1671672943",
+  "iconCid": "bafkreicx4gtbqcpp27jipsdubypasoyt7r7congvwljys3hyjsbbaegppq",
+  "numberOfDownloads": 38,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/feedme.106879/history",
+  "gitUrl": "https://github.com/PandaUprising/FeedMe",
+  "releaseDate": 1671669300000,
+  "updateDate": 1674092460000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

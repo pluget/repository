@@ -1,0 +1,26 @@
+{
+  "id": 93430,
+  "url": "https://www.spigotmc.org/resources/theosiseconomy.93430/",
+  "name": "TheosisEconomy",
+  "description": "A fully customisable Vault-based economy provider!",
+  "authors": [
+    "Short"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93430.jpg?1624044757",
+  "iconCid": "bafkreih5yojth7s5pytuzjgnpak2xgjny2fhyibx7w3l54el2dlmmq4yya",
+  "numberOfDownloads": 1229,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/theosiseconomy.93430/history",
+  "releaseDate": 1624040460000,
+  "updateDate": 1665680700000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

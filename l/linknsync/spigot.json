@@ -1,0 +1,31 @@
+{
+  "id": 98120,
+  "url": "https://www.spigotmc.org/resources/linknsync-twitch-whitelist-plugin.98120/",
+  "name": "LinkNSync - Twitch Whitelist Plugin",
+  "description": "Making subscriber only servers easy.",
+  "authors": [
+    "Cynocles"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98120.jpg?1638656578",
+  "iconCid": "bafkreifbweauiwc63ty42g5o5spw53tcp2pvecjjtkdv4lrdjz4lepqkqy",
+  "numberOfDownloads": 723,
+  "rating": 5,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/linknsync-twitch-whitelist-plugin.98120/history",
+  "releaseDate": 1638652920000,
+  "updateDate": 1662711480000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 104861,
+  "url": "https://www.spigotmc.org/resources/tps-log.104861/",
+  "name": "TPS Log",
+  "description": "Send TPS information to Discord or Server Log",
+  "authors": [
+    "Marumasa"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104861.jpg?1661596081",
+  "iconCid": "bafkreicplk27ytmbpxacsz34j43svkcpqlnyaxod4tyzfxfo35wkrbv3da",
+  "numberOfDownloads": 145,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tps-log.104861/history",
+  "gitUrl": "https://github.com/malken21/Minecraft_TPS_Log_Spigot",
+  "releaseDate": 1661592420000,
+  "updateDate": 1661592420000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

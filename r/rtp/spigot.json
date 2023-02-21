@@ -1,0 +1,32 @@
+{
+  "id": 94812,
+  "url": "https://www.spigotmc.org/resources/rtp.94812/",
+  "name": "RTP",
+  "description": "Deterministic-Time Random Teleportation",
+  "authors": [
+    "Leaf26"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94812.jpg?1630901402",
+  "iconCid": "bafkreidhef35jfuetfr7cigpgu232vpgnm3q672ei2wydy6bdqlnkix2fm",
+  "numberOfDownloads": 124403,
+  "rating": 4.7,
+  "numberOfVotes": 17,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rtp.94812/history",
+  "gitUrl": "https://github.com/DailyStruggle/RTP",
+  "releaseDate": 1676935740000,
+  "updateDate": 1676935740000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

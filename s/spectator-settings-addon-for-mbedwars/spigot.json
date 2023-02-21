@@ -1,0 +1,32 @@
+{
+  "id": 104651,
+  "url": "https://www.spigotmc.org/resources/spectator-settings-addon-for-mbedwars.104651/",
+  "name": "Spectator Settings Addon for MBedwars",
+  "description": "Set your effects if you watching players!",
+  "authors": [
+    "dejwideek"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104651.jpg?1660845873",
+  "iconCid": "bafkreicssotipekr2uiep23esu7gwe6x5nud2kdw4hetuel43datwdygsq",
+  "numberOfDownloads": 48,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/spectator-settings-addon-for-mbedwars.104651/history",
+  "gitUrl": "https://github.com/dejwideek-dev/MBedwarsSpectatorSettingsAddon",
+  "releaseDate": 1660842240000,
+  "updateDate": 1672315560000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 106086,
+  "url": "https://www.spigotmc.org/resources/serverswitchlogger.106086/",
+  "name": "ServerSwitchLogger",
+  "description": "Sends a message to the staff, when another staff joins or changes server.",
+  "authors": [
+    "Imnothing"
+  ],
+  "numberOfDownloads": 20,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/serverswitchlogger.106086/history",
+  "gitUrl": "https://github.com/kovacs-balazs/BungeeServerSwitch",
+  "releaseDate": 1667566080000,
+  "updateDate": 1667662860000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

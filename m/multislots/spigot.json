@@ -1,0 +1,32 @@
+{
+  "id": 106333,
+  "url": "https://www.spigotmc.org/resources/multislots.106333/",
+  "name": "MultiSlots",
+  "description": "A Plugin to join on Full Servers",
+  "authors": [
+    "einkaktuslol"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106333.jpg?1668874355",
+  "iconCid": "bafkreibcr7zhpo5bkiteqqackcakayltrbfdjpnduoxj2rmnkmlnlkz6zu",
+  "numberOfDownloads": 41,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/multislots.106333/history",
+  "gitUrl": "https://github.com/EinKaktus/Multislots",
+  "releaseDate": 1668870720000,
+  "updateDate": 1675447200000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

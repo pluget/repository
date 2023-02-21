@@ -1,0 +1,25 @@
+{
+  "id": 101171,
+  "url": "https://www.spigotmc.org/resources/worldmaster.101171/",
+  "name": "WorldMaster",
+  "description": "Become the ultimate world master! Create, delete and teleport to worlds!",
+  "authors": [
+    "ManosSef"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101171.jpg?1649106507",
+  "iconCid": "bafkreigvllxq22uh42qioonmq7zsgaz5c63tqexksn7ajmgtkty6rbnub4",
+  "numberOfDownloads": 141,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/worldmaster.101171/history",
+  "releaseDate": 1649102880000,
+  "updateDate": 1658306040000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

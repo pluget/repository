@@ -1,0 +1,28 @@
+{
+  "id": 105646,
+  "url": "https://www.spigotmc.org/resources/geekrewardplus-advanced-cumulative-rewards-solution.105646/",
+  "name": "GeekRewardPlus - Advanced Cumulative Rewards Solution",
+  "description": "Add more cumulative resource rewards to your players",
+  "authors": [
+    "liaojinmin"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105646.jpg?1665069363",
+  "iconCid": "bafkreibueusvjddbev7poo33krsbfez2ttr5pe6dgkagey6uuwof4gyy5i",
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/geekrewardplus-advanced-cumulative-rewards-solution.105646/history",
+  "gitUrl": "https://github.com/liaojinmin/GeekRewardPlus",
+  "releaseDate": 1665065700000,
+  "updateDate": 1665065700000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

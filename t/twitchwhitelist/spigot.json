@@ -1,0 +1,25 @@
+{
+  "id": 100910,
+  "url": "https://www.spigotmc.org/resources/twitchwhitelist.100910/",
+  "name": "TwitchWhitelist",
+  "description": "Twitch Channel Points with Minecraft Whitelist",
+  "authors": [
+    "Georglider"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100910.jpg?1648066242",
+  "iconCid": "bafkreigldwrybzthckqx3f46nsgneam2rvejs4r37ihu66pjg26n7362k4",
+  "numberOfDownloads": 1462,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/twitchwhitelist.100910/history",
+  "gitUrl": "https://github.com/Georglider/TwitchChannelPointsWhitelist",
+  "releaseDate": 1648062600000,
+  "updateDate": 1673374080000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 103771,
+  "url": "https://www.spigotmc.org/resources/commandspy.103771/",
+  "name": "CommandSpy",
+  "description": "A plugin that allows server moderators to view the commands used by other players.",
+  "authors": [
+    "Meeples10"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103771.jpg?1659075867",
+  "iconCid": "bafkreig6j7wkpdwvotbl5wqdxwy2ctjkdr2nvpt35wfrxkovw5hjv5mvbm",
+  "numberOfDownloads": 86,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/commandspy.103771/history",
+  "gitUrl": "https://github.com/Meeples10/CommandSpy",
+  "releaseDate": 1659072240000,
+  "updateDate": 1659293580000,
+  "versions": [
+    "1.19"
+  ]
+}

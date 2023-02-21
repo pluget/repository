@@ -1,0 +1,21 @@
+{
+  "id": 106274,
+  "url": "https://www.spigotmc.org/resources/blockblocks.106274/",
+  "name": "BlockBlocks",
+  "description": "A Minecraft Spigot Plugin that can block the placement of certain Blocks (in certain Worlds)!",
+  "authors": [
+    "Blautee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106274.jpg?1668467274",
+  "iconCid": "bafkreiall7ymvtx55mkdbsgxjq2yy5dwkvm7h4gdqc6gefmjtmskxremxi",
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blockblocks.106274/history",
+  "gitUrl": "https://github.com/Blautee/BlockBlocks",
+  "releaseDate": 1668463620000,
+  "updateDate": 1668463620000,
+  "versions": [
+    "1.19"
+  ]
+}

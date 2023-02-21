@@ -1,0 +1,30 @@
+{
+  "id": 100356,
+  "url": "https://www.spigotmc.org/resources/skriptjava.100356/",
+  "name": "SkriptJava",
+  "description": "Run Java plugins without compiling!",
+  "authors": [
+    "Destial"
+  ],
+  "numberOfDownloads": 64,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skriptjava.100356/history",
+  "gitUrl": "https://github.com/destial/SkriptJava",
+  "releaseDate": 1646015220000,
+  "updateDate": 1661350200000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

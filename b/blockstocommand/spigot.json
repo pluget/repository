@@ -1,0 +1,23 @@
+{
+  "id": 103602,
+  "url": "https://www.spigotmc.org/resources/%E2%AC%9B-blockstocommand-%E2%AC%9B.103602/",
+  "name": "⬛ |BlocksToCommand |⬛",
+  "description": "Import your structures into setblock commands",
+  "authors": [
+    "Vayk"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103602.jpg?1658519896",
+  "iconCid": "bafkreia2phwvxo5vxstuljg7234gngokicaajlphvlguy7o4xliykba2wy",
+  "numberOfDownloads": 149,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%AC%9B-blockstocommand-%E2%AC%9B.103602/history",
+  "releaseDate": 1658516280000,
+  "updateDate": 1666496460000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

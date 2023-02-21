@@ -1,0 +1,27 @@
+{
+  "id": 106302,
+  "url": "https://www.spigotmc.org/resources/whitelist-attacker-control-which-users-can-do-damage-and-say-goodbye-to-annoying-users.106302/",
+  "name": "Whitelist Attacker | Control which users can do damage and say goodbye to annoying users",
+  "description": "This plugin helps control which users can do damage within the server, this is ideal if you have an",
+  "authors": [
+    "AsCrAnyelo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106302.jpg?1668702422",
+  "iconCid": "bafkreibomyibkfbemwrdi56zvupeugo3jh6g2cnn7ac2azv3rdpcdeokza",
+  "numberOfDownloads": 31,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/whitelist-attacker-control-which-users-can-do-damage-and-say-goodbye-to-annoying-users.106302/history",
+  "gitUrl": "https://github.com/Anyelo120/codes/tree/main/Whitelist_Attacker",
+  "releaseDate": 1668698700000,
+  "updateDate": 1671401760000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 78555,
+  "url": "https://www.spigotmc.org/resources/blep-fishing.78555/",
+  "name": "Blep Fishing",
+  "description": "Fishing Improvements including custom fish, tournaments, and quests!",
+  "authors": [
+    "Kunfury"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/78/78555.jpg?1660577361",
+  "iconCid": "bafkreibm3bwof4qoh23jhiunq7funtz62bqj53e64icb7ghbesct2kzzfu",
+  "numberOfDownloads": 5978,
+  "rating": 5,
+  "numberOfVotes": 27,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blep-fishing.78555/history",
+  "gitUrl": "https://github.com/Kunfury-blep/Blep-Fishing",
+  "releaseDate": 1588980060000,
+  "updateDate": 1676138520000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

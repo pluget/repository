@@ -1,0 +1,23 @@
+{
+  "id": 102903,
+  "url": "https://www.spigotmc.org/resources/zabrids-crate-maker-1-17-1-19.102903/",
+  "name": "Zabrid's Crate Maker [1.17-1.19]",
+  "description": "Create custom crates for your server instantly!",
+  "authors": [
+    "X0M"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102903.jpg?1667340525",
+  "iconCid": "bafkreieopmzkn4is5p3bommdbojqmk2ponaanpbofvk2tkigjkiaagycoq",
+  "numberOfDownloads": 484,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/zabrids-crate-maker-1-17-1-19.102903/history",
+  "gitUrl": "https://github.com/Zabrid/Zabrid-Crate-Maker",
+  "releaseDate": 1656181800000,
+  "updateDate": 1672173060000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 80165,
+  "url": "https://www.spigotmc.org/resources/scriptentityplus-1-9-1-19-2-addons-for-scriptblockplus.80165/",
+  "name": "ScriptEntityPlus | 1.9 - 1.19.2 | Addons for ScriptBlockPlus",
+  "description": "Allow you to add script to any entities.",
+  "authors": [
+    "yuttyann44581"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80165.jpg?1592123121",
+  "iconCid": "bafkreigekroskja6vrguema4udygorp6p7hvtracvm4m5kwvwoa6difpmq",
+  "numberOfDownloads": 1819,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/scriptentityplus-1-9-1-19-2-addons-for-scriptblockplus.80165/history",
+  "gitUrl": "https://github.com/yuttyann/ScriptEntityPlus",
+  "releaseDate": 1592119380000,
+  "updateDate": 1670387100000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

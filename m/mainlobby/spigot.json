@@ -1,0 +1,26 @@
+{
+  "id": 96309,
+  "url": "https://www.spigotmc.org/resources/mainlobby.96309/",
+  "name": "MainLobby",
+  "description": "All you need for your server [Lobby, Survival, etc..]",
+  "authors": [
+    "2GramsIn"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96309.jpg?1658584177",
+  "iconCid": "bafkreieizbqbezkyu73xkj5zjfi6igif5cgcb62555x4uwzc4fhthvte4u",
+  "numberOfDownloads": 267,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mainlobby.96309/history",
+  "gitUrl": "https://github.com/inoguez/MainLobby",
+  "releaseDate": 1631961480000,
+  "updateDate": 1658878320000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

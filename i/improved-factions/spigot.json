@@ -1,0 +1,24 @@
+{
+  "id": 95617,
+  "url": "https://www.spigotmc.org/resources/improved-factions.95617/",
+  "name": "Improved Factions",
+  "description": "A modern gui based faction plugin for spigot / paper. Just add new feautures with extensions",
+  "authors": [
+    "Tobero"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95617.jpg?1651913285",
+  "iconCid": "bafkreicvcctptlmch774qsgcbxumzgd56etrdolxgp5yvlgrmaefbptekm",
+  "numberOfDownloads": 8423,
+  "rating": 4.1,
+  "numberOfVotes": 14,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/improved-factions.95617/history",
+  "gitUrl": "https://github.com/ToberoCat/ImprovedFactions_new",
+  "releaseDate": 1629754500000,
+  "updateDate": 1675710600000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

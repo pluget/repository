@@ -1,0 +1,31 @@
+{
+  "id": 100851,
+  "url": "https://www.spigotmc.org/resources/randomlootchest-custom-drops-cooldowns-mysql-sqlite-yaml.100851/",
+  "name": "RandomLootChest | CUSTOM DROPS! | COOLDOWNS! | MYSQL, SQLITE YAML",
+  "description": "Add chests with total random drops to your world!",
+  "authors": [
+    "MSDevelopment"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100851.jpg?1647795355",
+  "iconCid": "bafkreiabrahduotpvx6skwmmuwytr6qs45b4f4yfqwbpl72ech7g3hzlhy",
+  "numberOfDownloads": 675,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/randomlootchest-custom-drops-cooldowns-mysql-sqlite-yaml.100851/history",
+  "gitUrl": "https://github.com/MrABCDevelopment/RandomLootChest",
+  "releaseDate": 1647791700000,
+  "updateDate": 1659358920000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

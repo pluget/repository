@@ -1,0 +1,33 @@
+{
+  "id": 90290,
+  "url": "https://www.spigotmc.org/resources/discord-economy-bridge-1-7-1-19-slashcommands-minigames-in-discord-supports-discordsrv.90290/",
+  "name": "Discord Economy Bridge - 1.7-1.19 [SlashCommands][ [Minigames in Discord] Supports DiscordSRV",
+  "description": "Discord commands to interact with your server's economy on discord",
+  "authors": [
+    "ZsoltDZ"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90290.jpg?1644269941",
+  "iconCid": "bafkreieyiewywmzdkcyvi6cyzlqemsaabcbszoiul6afvhfddzzoox5hpe",
+  "numberOfDownloads": 1508,
+  "rating": 4.9,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discord-economy-bridge-1-7-1-19-slashcommands-minigames-in-discord-supports-discordsrv.90290/history",
+  "gitUrl": "https://github.com/Pliexe/DiscordEconomyBridge",
+  "releaseDate": 1616055840000,
+  "updateDate": 1664984640000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

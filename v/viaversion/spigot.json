@@ -1,0 +1,32 @@
+{
+  "id": 19254,
+  "url": "https://www.spigotmc.org/resources/viaversion.19254/",
+  "name": "ViaVersion",
+  "description": "Allow newer versions to connect, why lose players after a Minecraft update?",
+  "authors": [
+    "FormallyMyles"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/19/19254.jpg?1475607356",
+  "iconCid": "bafkreihlv6oy2nluozlokl6kzkc7aroehp6elbwjhzqvvekuu2tbagdwpq",
+  "numberOfDownloads": 3426590,
+  "rating": 4.8,
+  "numberOfVotes": 927,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/viaversion.19254/history",
+  "gitUrl": "https://github.com/ViaVersion/ViaVersion",
+  "releaseDate": 1676463720000,
+  "updateDate": 1676463720000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

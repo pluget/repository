@@ -1,0 +1,20 @@
+{
+  "id": 103509,
+  "url": "https://www.spigotmc.org/resources/skmone.103509/",
+  "name": "skMone",
+  "description": "A Skript that has everything you need.",
+  "authors": [
+    "Moneverix"
+  ],
+  "numberOfDownloads": 24,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skmone.103509/history",
+  "gitUrl": "https://github.com/Moneverix/skMone/blob/main/skMone.skt",
+  "releaseDate": 1658257320000,
+  "updateDate": 1658257320000,
+  "versions": [
+    "1.8",
+    "1.18"
+  ]
+}

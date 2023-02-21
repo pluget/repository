@@ -1,0 +1,23 @@
+{
+  "id": 103730,
+  "url": "https://www.spigotmc.org/resources/unsafe-enchantment-table.103730/",
+  "name": "Unsafe Enchantment Table",
+  "description": "Adds unsafe enchants IN the enchantment table",
+  "authors": [
+    "caveboy36"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103730.jpg?1658907299",
+  "iconCid": "bafkreihm5l4jkdjkogqwsx3brzh2i2v47rjasssrdkiel3o5fnrdp7md3u",
+  "numberOfDownloads": 162,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/unsafe-enchantment-table.103730/history",
+  "releaseDate": 1658903640000,
+  "updateDate": 1662934800000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

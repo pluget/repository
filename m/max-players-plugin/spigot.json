@@ -1,0 +1,21 @@
+{
+  "id": 106772,
+  "url": "https://www.spigotmc.org/resources/max-players-plugin.106772/",
+  "name": "Max Players Plugin",
+  "description": "+1 to maxplayers when a player joins, -1 when a player leaves.",
+  "authors": [
+    "CraniX"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106772.jpg?1671859802",
+  "iconCid": "bafkreietxbch42ecsjxdubhcazuj6knwlwlkbgyf6ofaytichujh2k6sfu",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/max-players-plugin.106772/history",
+  "gitUrl": "https://drive.google.com/file/d/18DrABwrZCw82i4TI2HXUgkzSi6RDZi6S/view?usp=share_link",
+  "releaseDate": 1671220800000,
+  "updateDate": 1671220800000,
+  "versions": [
+    "1.19"
+  ]
+}

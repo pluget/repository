@@ -1,0 +1,27 @@
+{
+  "id": 68672,
+  "url": "https://www.spigotmc.org/resources/slock-1-13-1-19-the-simplest-minecraft-server-locker.68672/",
+  "name": "SLock | 1.13-1.19 | The simplest Minecraft server locker",
+  "description": "The simplest and most advanced locking system for your Minecraft Server",
+  "authors": [
+    "RedstonecraftHD"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/68/68672.jpg?1621879803",
+  "iconCid": "bafkreibxy3lvpnpegw6riyadmq6na2mxyfjh7kilavsdnzhzmz4ndqjvsq",
+  "numberOfDownloads": 292,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/slock-1-13-1-19-the-simplest-minecraft-server-locker.68672/history",
+  "gitUrl": "https://github.com/RedstonecraftHD/Slock",
+  "releaseDate": 1561318620000,
+  "updateDate": 1657993500000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

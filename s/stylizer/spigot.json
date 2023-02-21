@@ -1,0 +1,31 @@
+{
+  "id": 78327,
+  "url": "https://www.spigotmc.org/resources/stylizer.78327/",
+  "name": "Stylizer",
+  "description": "Stylize different aspects of the server!",
+  "authors": [
+    "OmegaWeaponDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/78/78327.jpg?1641178594",
+  "iconCid": "bafkreigmyd3hnexi34tr4jxowd3rrsorq4mkpiiakcg6vngkiul7nhcqke",
+  "numberOfDownloads": 5855,
+  "rating": 4.9,
+  "numberOfVotes": 13,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/stylizer.78327/history",
+  "gitUrl": "https://github.com/OmegaWeaponDev/Stylizer",
+  "releaseDate": 1588582260000,
+  "updateDate": 1661930640000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

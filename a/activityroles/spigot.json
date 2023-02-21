@@ -1,0 +1,24 @@
+{
+  "id": 101202,
+  "url": "https://www.spigotmc.org/resources/activityroles.101202/",
+  "name": "ActivityRoles",
+  "description": "Automatically give and remove Discord roles from players based on their play time within your server",
+  "authors": [
+    "beinginhisshadow"
+  ],
+  "numberOfDownloads": 62,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/activityroles.101202/history",
+  "gitUrl": "https://github.com/thewilloftheshadow/ActivityRoles",
+  "releaseDate": 1649247240000,
+  "updateDate": 1675699680000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

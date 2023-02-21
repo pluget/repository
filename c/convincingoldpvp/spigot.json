@@ -1,0 +1,21 @@
+{
+  "id": 107752,
+  "url": "https://www.spigotmc.org/resources/convincingoldpvp.107752/",
+  "name": "ConvincingOldPVP",
+  "description": "Very lightweight plugin that brings old pvp onto new servers.",
+  "authors": [
+    "plusleft"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107752.jpg?1675332799",
+  "iconCid": "bafkreifrgi55gg3vm75uocyckmgvx252usfgyldabpogm4iugjtthrff3a",
+  "numberOfDownloads": 28,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/convincingoldpvp.107752/history",
+  "gitUrl": "https://github.com/AdomasDauda/ConvincingOldPVP",
+  "releaseDate": 1675268340000,
+  "updateDate": 1675345860000,
+  "versions": [
+    "1.19"
+  ]
+}

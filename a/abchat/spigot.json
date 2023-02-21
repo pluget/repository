@@ -1,0 +1,32 @@
+{
+  "id": 106316,
+  "url": "https://www.spigotmc.org/resources/abchat.106316/",
+  "name": "ABChat",
+  "description": "Chat management plugin with emoji system",
+  "authors": [
+    "Douaol"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106316.jpg?1668793585",
+  "iconCid": "bafkreids2ahjrmkqpehhjuxb7f4jdk6qvodprcobuxly5jqxo4g2vny3fq",
+  "numberOfDownloads": 72,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/abchat.106316/history",
+  "gitUrl": "https://github.com/Douaol/ABChat",
+  "releaseDate": 1668789900000,
+  "updateDate": 1669003380000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

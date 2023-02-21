@@ -1,0 +1,31 @@
+{
+  "id": 78846,
+  "url": "https://www.spigotmc.org/resources/maintenance-gui-skript.78846/",
+  "name": "Maintenance + GUI [Skript]",
+  "description": "Lightweight Maintenance System with Async ServerlistPingHandler & Connectionhandler",
+  "authors": [
+    "NixNux123"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/78/78846.jpg?1612695518",
+  "iconCid": "bafkreigr7ulq7bkkqlnhbi7unwlg3jsu2outjd7yifofe3j6umj3tdyjz4",
+  "numberOfDownloads": 987,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/maintenance-gui-skript.78846/history",
+  "releaseDate": 1589527020000,
+  "updateDate": 1671523740000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

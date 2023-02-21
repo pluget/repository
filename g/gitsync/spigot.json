@@ -1,0 +1,22 @@
+{
+  "id": 103523,
+  "url": "https://www.spigotmc.org/resources/gitsync.103523/",
+  "name": "GitSync",
+  "description": "Synchronize your GitHub configuration files.",
+  "authors": [
+    "Vrganj_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103523.jpg?1658315056",
+  "iconCid": "bafkreiari2cywhoihirxxchlhngjqkew6dinzlxz63zeglxjp6xpokc2au",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gitsync.103523/history",
+  "gitUrl": "https://github.com/Vrganj/GitSync",
+  "releaseDate": 1658311440000,
+  "updateDate": 1658317860000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

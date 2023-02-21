@@ -1,0 +1,32 @@
+{
+  "id": 100633,
+  "url": "https://www.spigotmc.org/resources/dialogue.100633/",
+  "name": "Dialogue",
+  "description": "An API that completey revamps the Conversation API",
+  "authors": [
+    "C10sp"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100633.jpg?1647061968",
+  "iconCid": "bafkreieau6c4n5pp5tt66kksi4l3a7irwy4nmpubf5s372qwhtfnzmlse4",
+  "numberOfDownloads": 367,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dialogue.100633/history",
+  "gitUrl": "https://github.com/its-c10/dialogue",
+  "releaseDate": 1647058140000,
+  "updateDate": 1660408980000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

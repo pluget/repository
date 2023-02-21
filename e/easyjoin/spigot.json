@@ -1,0 +1,31 @@
+{
+  "id": 80611,
+  "url": "https://www.spigotmc.org/resources/easyjoin-%E2%9C%A8-send-actions-on-player-join.80611/",
+  "name": "EasyJoin ✨ | Send actions on player join",
+  "description": "Join and quit actions plugin with a lot of features.",
+  "authors": [
+    "Espryth"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80611.jpg?1608155727",
+  "iconCid": "bafkreie5olnipfboryiq7whtnz3pqg7qnkkcd4ppssffvlgpgs3agqgb7y",
+  "numberOfDownloads": 5756,
+  "rating": 4.5,
+  "numberOfVotes": 19,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/easyjoin-%E2%9C%A8-send-actions-on-player-join.80611/history",
+  "gitUrl": "https://github.com/Espryth/EasyJoin",
+  "releaseDate": 1592966460000,
+  "updateDate": 1667952420000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 103725,
+  "url": "https://www.spigotmc.org/resources/f-command.103725/",
+  "name": "F Command",
+  "description": "Command when you press f",
+  "authors": [
+    "Kritex"
+  ],
+  "numberOfDownloads": 40,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/f-command.103725/history",
+  "gitUrl": "https://github.com/YunussEmree/Minecraft-plugin-source-codes/tree/main/fcommand",
+  "releaseDate": 1658878080000,
+  "updateDate": 1659015600000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

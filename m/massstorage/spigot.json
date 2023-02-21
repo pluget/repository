@@ -1,0 +1,24 @@
+{
+  "id": 106803,
+  "url": "https://www.spigotmc.org/resources/massstorage.106803/",
+  "name": "MassStorage",
+  "description": "A storage plugin that stores the number of kilograms of blocks have been mined",
+  "authors": [
+    "VoChiDanh"
+  ],
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/massstorage.106803/history",
+  "releaseDate": 1671333000000,
+  "updateDate": 1671333000000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

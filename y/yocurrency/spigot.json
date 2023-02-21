@@ -1,0 +1,24 @@
+{
+  "id": 106795,
+  "url": "https://www.spigotmc.org/resources/yocurrency.106795/",
+  "name": "YoCurrency",
+  "description": "Additional currency system for your server!",
+  "authors": [
+    "Yoahim"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106795.jpg?1671357205",
+  "iconCid": "bafkreidpxbpu6muqxrmcihu5euivj3y3qi7l4yfh5hcf7wuwvcwbnsppxi",
+  "numberOfDownloads": 31,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/yocurrency.106795/history",
+  "releaseDate": 1671310260000,
+  "updateDate": 1671353220000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

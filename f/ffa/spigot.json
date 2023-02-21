@@ -1,0 +1,30 @@
+{
+  "id": 94775,
+  "url": "https://www.spigotmc.org/resources/ffa.94775/",
+  "name": "FFA",
+  "description": "FFA| 1.8 - 1.17 | Easy Setup | Full Configurable | SQLite/ MySQL | German/English",
+  "authors": [
+    "Jonas2004"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94775.jpg?1627563178",
+  "iconCid": "bafkreia5freqiydjdc2kjt4nlkjdcabl5b6ao45spbxq4qxlggwd7mnbdu",
+  "numberOfDownloads": 790,
+  "rating": 3,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ffa.94775/history",
+  "gitUrl": "https://github.com/ZilloLP/FFA",
+  "releaseDate": 1627559520000,
+  "updateDate": 1658346180000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

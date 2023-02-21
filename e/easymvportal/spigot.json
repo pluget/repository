@@ -1,0 +1,32 @@
+{
+  "id": 84816,
+  "url": "https://www.spigotmc.org/resources/easymvportal.84816/",
+  "name": "EasyMVPortal",
+  "description": "Let's create portal with one command! (easy MultiversePortals)",
+  "authors": [
+    "Necnion8"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84816.jpg?1655040897",
+  "iconCid": "bafkreichfnyogjm6ppwt54p2ll2ntzjzwe72f5bm5z7nbruz5toqwrdzly",
+  "numberOfDownloads": 292,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/easymvportal.84816/history",
+  "gitUrl": "https://github.com/Necnion8/EasyMVPortal",
+  "releaseDate": 1602726720000,
+  "updateDate": 1670983440000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

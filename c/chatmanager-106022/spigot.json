@@ -1,0 +1,33 @@
+{
+  "id": 106022,
+  "url": "https://www.spigotmc.org/resources/bbrains-chatmanager.106022/",
+  "name": "[BBrains] ChatManager",
+  "description": "A small plugin for editing the chat style on your server",
+  "authors": [
+    "dayd21"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106022.jpg?1667288594",
+  "iconCid": "bafkreia45dmhro6i3rgbdrwzvltoha22zvjll3cgwkl4tghkmwvfqk7zqy",
+  "numberOfDownloads": 198,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bbrains-chatmanager.106022/history",
+  "gitUrl": "https://www.curseforge.com/minecraft/bukkit-plugins/bbrains-chatmanager",
+  "releaseDate": 1667284980000,
+  "updateDate": 1671202620000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

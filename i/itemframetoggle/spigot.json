@@ -1,0 +1,27 @@
+{
+  "id": 95124,
+  "url": "https://www.spigotmc.org/resources/itemframetoggle.95124/",
+  "name": "ItemFrameToggle",
+  "description": "Easily toggle visibility of item frames and remove collision",
+  "authors": [
+    "OnwexryS"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95124.jpg?1628444147",
+  "iconCid": "bafkreidpa5lrubccvaoswvctnt3jv47np2oy5higczg3r7ivibhpddhalm",
+  "numberOfDownloads": 620,
+  "rating": 4.6,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/itemframetoggle.95124/history",
+  "gitUrl": "https://github.com/furkanaliunal/ItemFrameToggle",
+  "releaseDate": 1676770620000,
+  "updateDate": 1676770620000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

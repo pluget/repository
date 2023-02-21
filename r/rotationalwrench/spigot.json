@@ -1,0 +1,26 @@
+{
+  "id": 85119,
+  "url": "https://www.spigotmc.org/resources/rotationalwrench.85119/",
+  "name": "RotationalWrench",
+  "description": "Rotate some blocks.",
+  "authors": [
+    "JoelYahwehOfWar"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85119.jpg?1603516755",
+  "iconCid": "bafkreiciztolw32qwivz2xzw76n7d4fyzyp474qqchtvp6z5ybxtkhaqpi",
+  "numberOfDownloads": 585,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rotationalwrench.85119/history",
+  "gitUrl": "https://github.com/JoelGodOfwar/RotationalWrench",
+  "releaseDate": 1603513080000,
+  "updateDate": 1659401880000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 12056,
+  "url": "https://www.spigotmc.org/resources/petblocks-mysql-bungeecord-customizeable-gui-1-8-1-19.12056/",
+  "name": "PetBlocks [MySQL|BungeeCord|Customizeable GUI|1.8-1.19]",
+  "description": "Ever wanted blocks as pets in minecraft? Now you can. [Free]",
+  "authors": [
+    "Shynixn"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/12/12056.jpg?1597923099",
+  "iconCid": "bafkreifg6nwcmahrtm3b5xcwivndysb2s4q4dylxapuufooits6kodqfoa",
+  "numberOfDownloads": 71253,
+  "rating": 4.7,
+  "numberOfVotes": 99,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/petblocks-mysql-bungeecord-customizeable-gui-1-8-1-19.12056/history",
+  "gitUrl": "https://github.com/Shynixn/PetBlocks/releases",
+  "releaseDate": 1441921920000,
+  "updateDate": 1659175440000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

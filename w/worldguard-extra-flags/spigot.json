@@ -1,0 +1,21 @@
+{
+  "id": 4823,
+  "url": "https://www.spigotmc.org/resources/worldguard-extra-flags.4823/",
+  "name": "WorldGuard Extra Flags",
+  "description": "WorldGuard extension",
+  "authors": [
+    "isokissa3"
+  ],
+  "numberOfDownloads": 165239,
+  "rating": 4.2,
+  "numberOfVotes": 268,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/worldguard-extra-flags.4823/history",
+  "gitUrl": "https://github.com/aromaa/WorldGuardExtraFlags",
+  "releaseDate": 1676861820000,
+  "updateDate": 1676861820000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

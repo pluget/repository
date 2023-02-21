@@ -1,0 +1,24 @@
+{
+  "id": 107128,
+  "url": "https://www.spigotmc.org/resources/minecraftgpt-chatgpt-openai.107128/",
+  "name": "MinecraftGPT - ChatGPT (OpenAI)",
+  "description": "Talk to ChatGPT directly from minecraft",
+  "authors": [
+    "ohAlee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107128.jpg?1673176632",
+  "iconCid": "bafkreieeirgbv5s7oj3is3j7q54t7tciv3dznr53eepqda7lpcyhil7swm",
+  "numberOfDownloads": 536,
+  "rating": 4,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minecraftgpt-chatgpt-openai.107128/history",
+  "gitUrl": "https://github.com/ohAleee/MinecraftGPT",
+  "releaseDate": 1676904600000,
+  "updateDate": 1676904600000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

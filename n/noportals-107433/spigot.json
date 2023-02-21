@@ -1,0 +1,19 @@
+{
+  "id": 107433,
+  "url": "https://www.spigotmc.org/resources/noportals.107433/",
+  "name": "NoPortals",
+  "description": "用于阻止特定世界创建下界和末地传送门的插件",
+  "authors": [
+    "Nm70727"
+  ],
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/noportals.107433/history",
+  "gitUrl": "https://github.com/ApliNi/NoPortals",
+  "releaseDate": 1673953260000,
+  "updateDate": 1673953260000,
+  "versions": [
+    "1.19"
+  ]
+}

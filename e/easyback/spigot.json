@@ -1,0 +1,32 @@
+{
+  "id": 104453,
+  "url": "https://www.spigotmc.org/resources/easyback.104453/",
+  "name": "EasyBack",
+  "description": "A back point plugin whith Gui",
+  "authors": [
+    "zhangyang0204"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104453.jpg?1660212828",
+  "iconCid": "bafkreia7vim3osuppeaqaxc2ormckppqybiydrk5fc5btgtyb3pggcq3he",
+  "numberOfDownloads": 334,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/easyback.104453/history",
+  "gitUrl": "https://github.com/ZhangYang0204/easy-back",
+  "releaseDate": 1660209180000,
+  "updateDate": 1661414460000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

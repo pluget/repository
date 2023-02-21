@@ -1,0 +1,21 @@
+{
+  "id": 104704,
+  "url": "https://www.spigotmc.org/resources/connect-health.104704/",
+  "name": "Connect Health",
+  "description": "Allows to connect two players health",
+  "authors": [
+    "Jacob.Tm"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104704.jpg?1661030784",
+  "iconCid": "bafkreigutrpnqyrn2puldcto5rqr7ipez4okxhu4lkxej7nw33mh4bayxe",
+  "numberOfDownloads": 39,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/connect-health.104704/history",
+  "gitUrl": "https://github.com/Jacob1Tm/Connect-Health",
+  "releaseDate": 1661026740000,
+  "updateDate": 1661026740000,
+  "versions": [
+    "1.16"
+  ]
+}

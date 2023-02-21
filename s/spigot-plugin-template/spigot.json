@@ -1,0 +1,27 @@
+{
+  "id": 103383,
+  "url": "https://www.spigotmc.org/resources/spigot-plugin-template.103383/",
+  "name": "Spigot Plugin Template",
+  "description": "This Template plugin will help you to create plugins as fast as possible",
+  "authors": [
+    "makeevrserg"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103383.jpg?1657870952",
+  "iconCid": "bafkreifid3or6vbjw2j6tek54dfv6kn3lyuxhnswubloxenyfbwz7igkne",
+  "numberOfDownloads": 177,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/spigot-plugin-template.103383/history",
+  "gitUrl": "https://github.com/Astra-Interactive/AstraTemplate",
+  "releaseDate": 1657867320000,
+  "updateDate": 1672833300000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

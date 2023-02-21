@@ -1,0 +1,22 @@
+{
+  "id": 107920,
+  "url": "https://www.spigotmc.org/resources/lobbypvp.107920/",
+  "name": "LobbyPVP",
+  "description": "Customizable PVP in your Lobby + Custom Warden Sonic Boom Ability",
+  "authors": [
+    "WoZniaKTV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107920.jpg?1675969491",
+  "iconCid": "bafkreicpdarhox5ohpm4oq335ad4abg3iig2kw3yly56lcjuhc44dkuf3m",
+  "numberOfDownloads": 13,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lobbypvp.107920/history",
+  "gitUrl": "https://github.com/wozniaktv/Spigot-LobbyPVP",
+  "releaseDate": 1675965840000,
+  "updateDate": 1675965840000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

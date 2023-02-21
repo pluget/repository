@@ -1,0 +1,22 @@
+{
+  "id": 103005,
+  "url": "https://www.spigotmc.org/resources/arcaneprojectiles-simple-gui-shoot-any-entity-block.103005/",
+  "name": "ArcaneProjectiles | Simple GUI | Shoot any entity & block!",
+  "description": "Create custom projectiles and bind them to items with one easy to use GUI!",
+  "authors": [
+    "ArcaneMC"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103005.jpg?1656594836",
+  "iconCid": "bafkreieprnoqy5ibyh56ccqfwm3g6jfps4hgnyftb552k5nhqo5glcsbju",
+  "numberOfDownloads": 276,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/arcaneprojectiles-simple-gui-shoot-any-entity-block.103005/history",
+  "releaseDate": 1656591000000,
+  "updateDate": 1657632000000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

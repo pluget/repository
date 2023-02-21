@@ -1,0 +1,24 @@
+{
+  "id": 99766,
+  "url": "https://www.spigotmc.org/resources/teacupspro.99766/",
+  "name": "TeacupsPro",
+  "description": "Add programmable teacup attractions to your server!",
+  "authors": [
+    "Berehum"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99766.jpg?1644007643",
+  "iconCid": "bafkreicc37z6okuypp52ugg3c3ccmfddxnvvtzxxhcnnpi43y6psekwtf4",
+  "numberOfDownloads": 108,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/teacupspro.99766/history",
+  "gitUrl": "https://github.com/Berehum/teacups",
+  "releaseDate": 1644004020000,
+  "updateDate": 1659872280000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 100794,
+  "url": "https://www.spigotmc.org/resources/dmc-chat-censorship-emojis-automessages-hex-colors-bungee-support.100794/",
+  "name": "DMC-CHAT - censorship, emojis, automessages, hex colors, bungee support",
+  "description": "Chat plugin with censorship, emojis and automessages",
+  "authors": [
+    "Domiiss"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100794.jpg?1647616181",
+  "iconCid": "bafkreihisiuzguokbwbgsdlyks2n7rsxacxkhu6tl4vswwojljza7jxgni",
+  "numberOfDownloads": 154,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dmc-chat-censorship-emojis-automessages-hex-colors-bungee-support.100794/history",
+  "releaseDate": 1647612540000,
+  "updateDate": 1673441940000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

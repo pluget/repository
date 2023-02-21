@@ -1,0 +1,21 @@
+{
+  "id": 104738,
+  "url": "https://www.spigotmc.org/resources/block-commands.104738/",
+  "name": "Block Commands",
+  "description": "You can block/allow any command you want.",
+  "authors": [
+    "Lawnless"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104738.jpg?1661155998",
+  "iconCid": "bafkreihn5zmpr2txnue4hiz3utuid6kmne6lshsv73io3xrtllbswzz7te",
+  "numberOfDownloads": 49,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/block-commands.104738/history",
+  "gitUrl": "https://github.com/Lawnless/BlockCommands",
+  "releaseDate": 1661152260000,
+  "updateDate": 1661152260000,
+  "versions": [
+    "1.8"
+  ]
+}

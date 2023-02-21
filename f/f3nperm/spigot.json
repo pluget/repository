@@ -1,0 +1,31 @@
+{
+  "id": 46461,
+  "url": "https://www.spigotmc.org/resources/f3nperm.46461/",
+  "name": "F3NPerm",
+  "description": "Allows to use Hotkey F3 + N with permissions",
+  "authors": [
+    "Rodney_Mc_Kay"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/46/46461.jpg?1503948430",
+  "iconCid": "bafkreihsdlfdq6mkswvm6gqniyjqv5qa44c6b6qul2djf54gd3i3nxfjne",
+  "numberOfDownloads": 4425,
+  "rating": 4.9,
+  "numberOfVotes": 15,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/f3nperm.46461/history",
+  "gitUrl": "https://github.com/RodneyMKay/F3NPerm/",
+  "releaseDate": 1503944760000,
+  "updateDate": 1661106120000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 104933,
+  "url": "https://www.spigotmc.org/resources/teleportonjoin.104933/",
+  "name": "TeleportOnJoin",
+  "description": "Small plugin - teleport player on join to given position",
+  "authors": [
+    "Kureshik"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104933.jpg?1661849236",
+  "iconCid": "bafkreigkmu3acp7b6w2bx62psbubnb2do74t5ccuu5iv2syrlsn2rwcg7q",
+  "numberOfDownloads": 15,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/teleportonjoin.104933/history",
+  "gitUrl": "https://github.com/Kureshik/TeleportOnJoin",
+  "releaseDate": 1661845140000,
+  "updateDate": 1661845140000,
+  "versions": [
+    "1.16"
+  ]
+}

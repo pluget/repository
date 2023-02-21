@@ -1,0 +1,24 @@
+{
+  "id": 78329,
+  "url": "https://www.spigotmc.org/resources/custom-villager-modifications.78329/",
+  "name": "Custom Villager Modifications",
+  "description": "Control the entire economy of all villagers on the server.",
+  "authors": [
+    "Xyaafol"
+  ],
+  "numberOfDownloads": 9072,
+  "rating": 4.8,
+  "numberOfVotes": 24,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/custom-villager-modifications.78329/history",
+  "gitUrl": "https://github.com/Xyaafol/VilllagerModifications",
+  "releaseDate": 1588587180000,
+  "updateDate": 1662840240000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

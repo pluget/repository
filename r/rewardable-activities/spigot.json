@@ -1,0 +1,32 @@
+{
+  "id": 86090,
+  "url": "https://www.spigotmc.org/resources/rewardable-activities.86090/",
+  "name": "Rewardable Activities",
+  "description": "Reward players when they do certain activities",
+  "authors": [
+    "jaq0bb"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/86/86090.jpg?1606250645",
+  "iconCid": "bafkreiagd3jp4ooxaxf4uilaqtynlkblooyvgtn5k7i5lnkqnclgkrlfvu",
+  "numberOfDownloads": 846,
+  "rating": 4.8,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rewardable-activities.86090/history",
+  "gitUrl": "https://github.com/jaqobb/rewardable-activities",
+  "releaseDate": 1606247040000,
+  "updateDate": 1668128460000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

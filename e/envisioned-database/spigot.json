@@ -1,0 +1,33 @@
+{
+  "id": 107327,
+  "url": "https://www.spigotmc.org/resources/envisioned-database-all-around-mysql-api.107327/",
+  "name": "Envisioned Database [All Around MySQL API]",
+  "description": "An easy to use database API that supports many drivers and common clients.",
+  "authors": [
+    "DougDevelopz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107327.jpg?1673413734",
+  "iconCid": "bafkreifudhi5rcmg756stzwtojdhz3tmghipc36bg53dfdh42xpotyhzoy",
+  "numberOfDownloads": 22,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/envisioned-database-all-around-mysql-api.107327/history",
+  "gitUrl": "https://github.com/DougCodez/Envisioned-Database",
+  "releaseDate": 1673410080000,
+  "updateDate": 1673410080000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

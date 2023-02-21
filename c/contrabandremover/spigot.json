@@ -1,0 +1,21 @@
+{
+  "id": 103634,
+  "url": "https://www.spigotmc.org/resources/contrabandremover.103634/",
+  "name": "ContrabandRemover",
+  "description": "Allows blacklisting of items and recipes.",
+  "authors": [
+    "Danachu"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103634.jpg?1658625006",
+  "iconCid": "bafkreiayqqtq5ezb7uldtm7adr6b6l64ttiht7u6wyguzb2z2ymrj6ztgu",
+  "numberOfDownloads": 27,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/contrabandremover.103634/history",
+  "gitUrl": "https://github.com/danatious/ContrabandRemover",
+  "releaseDate": 1658621400000,
+  "updateDate": 1658621400000,
+  "versions": [
+    "1.19"
+  ]
+}

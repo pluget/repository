@@ -1,0 +1,27 @@
+{
+  "id": 107116,
+  "url": "https://www.spigotmc.org/resources/simple-lobby-system.107116/",
+  "name": "Simple Lobby System",
+  "description": "Ein einfach, einstellbares Lobby System",
+  "authors": [
+    "ScalingCraft.de"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107116.jpg?1672615047",
+  "iconCid": "bafkreif6kezibhg4mfjcrrffu5fo7ojmdsylyvjlvvolr445hcuoy2u23e",
+  "numberOfDownloads": 49,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-lobby-system.107116/history",
+  "releaseDate": 1672611420000,
+  "updateDate": 1672614780000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

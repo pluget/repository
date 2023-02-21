@@ -1,0 +1,21 @@
+{
+  "id": 106587,
+  "url": "https://www.spigotmc.org/resources/persistenteffects.106587/",
+  "name": "PersistentEffects",
+  "description": "Keep potion effects on death",
+  "authors": [
+    "GavvyDizzle"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106587.jpg?1670198160",
+  "iconCid": "bafkreigcleadyojirdsrl4vlpodhg7wgesophgixduajmsosffr5tivnki",
+  "numberOfDownloads": 23,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/persistenteffects.106587/history",
+  "gitUrl": "https://github.com/GavvyDizzle/PersistentEffects",
+  "releaseDate": 1670194500000,
+  "updateDate": 1670194500000,
+  "versions": [
+    "1.19"
+  ]
+}

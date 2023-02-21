@@ -1,0 +1,19 @@
+{
+  "id": 107720,
+  "url": "https://www.spigotmc.org/resources/inventoryprotector.107720/",
+  "name": "InventoryProtector",
+  "description": "If a player's cause of death was not another player, he keeps his inventory.",
+  "authors": [
+    "Daechler"
+  ],
+  "numberOfDownloads": 31,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/inventoryprotector.107720/history",
+  "gitUrl": "https://github.com/Daechler/InventoryProtector",
+  "releaseDate": 1675112820000,
+  "updateDate": 1675112820000,
+  "versions": [
+    "1.19"
+  ]
+}

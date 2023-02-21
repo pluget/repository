@@ -1,0 +1,24 @@
+{
+  "id": 100990,
+  "url": "https://www.spigotmc.org/resources/odailyquests-daily-quests-plugin-1-16-1-19.100990/",
+  "name": "ODailyQuests | Daily quests plugin (1.16 - 1.19)",
+  "description": "Dynamize your server & increase player retention with daily quests !",
+  "authors": [
+    "SamuDu24"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100990.jpg?1648344792",
+  "iconCid": "bafkreiei36kku2brg2yzy7kvc5kunrai5urv26apvwnowugfjsa5c7aq7i",
+  "numberOfDownloads": 2256,
+  "rating": 5,
+  "numberOfVotes": 18,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/odailyquests-daily-quests-plugin-1-16-1-19.100990/history",
+  "gitUrl": "https://github.com/Ordwen/ODailyQuests",
+  "releaseDate": 1676567340000,
+  "updateDate": 1676567340000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

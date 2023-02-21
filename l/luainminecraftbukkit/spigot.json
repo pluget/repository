@@ -1,0 +1,32 @@
+{
+  "id": 101915,
+  "url": "https://www.spigotmc.org/resources/luainminecraftbukkit.101915/",
+  "name": "LuaInMinecraftBukkit",
+  "description": "Using lua script to make bukkit plugin",
+  "authors": [
+    "School_Uniform"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101915.jpg?1666596626",
+  "iconCid": "bafkreidu3eztel5qamyg7s6vapmaoe3m5pcxxrbv244anyyiosnq57p46i",
+  "numberOfDownloads": 80,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/luainminecraftbukkit.101915/history",
+  "gitUrl": "https://github.com/SmileYik/LuaInMinecraftBukkt",
+  "releaseDate": 1652100840000,
+  "updateDate": 1666588080000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

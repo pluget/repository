@@ -1,0 +1,27 @@
+{
+  "id": 80595,
+  "url": "https://www.spigotmc.org/resources/nexelwilderness-an-advanced-wild-plugin-1-13-1-19-x.80595/",
+  "name": "NexelWilderness - An advanced Wild plugin [1.13 - 1.19.X]",
+  "description": "A wild plugin that allows teleporting to a random Biome, or chosen Biome's. Highly customizable.",
+  "authors": [
+    "nathandiepeveen"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80595.jpg?1592944992",
+  "iconCid": "bafkreigzc5ieszjzjcdqyctou2ehrjoanf3oxf5kqmdg5aksd2okaejstu",
+  "numberOfDownloads": 3672,
+  "rating": 4.8,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nexelwilderness-an-advanced-wild-plugin-1-13-1-19-x.80595/history",
+  "gitUrl": "https://github.com/NexelOfficial/NexelWilderness",
+  "releaseDate": 1676476200000,
+  "updateDate": 1676476200000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

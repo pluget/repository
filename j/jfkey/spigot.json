@@ -1,0 +1,31 @@
+{
+  "id": 106848,
+  "url": "https://www.spigotmc.org/resources/%E2%9C%A8-jfkey-%E2%9C%A8-per-player-f-key-command-with-mysql-sqlite-yaml-database-support-1-9-1-19-3.106848/",
+  "name": "✨ JFKey ✨ Per Player F Key Command with MySQL, SQLite & YAML Database support 1.9 - 1.19.3",
+  "description": "Per Player Press F For Command - Support version 1.9 - 1.19.3!",
+  "authors": [
+    "Josee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106848.jpg?1671556801",
+  "iconCid": "bafkreiefdg5o4wpj5cqwe24pxrradpst3rpv5ipvw4qudcubrwcimfubou",
+  "numberOfDownloads": 115,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9C%A8-jfkey-%E2%9C%A8-per-player-f-key-command-with-mysql-sqlite-yaml-database-support-1-9-1-19-3.106848/history",
+  "gitUrl": "https://github.com/josemarcellio/JFKey",
+  "releaseDate": 1671553140000,
+  "updateDate": 1672040400000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

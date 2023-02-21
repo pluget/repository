@@ -1,0 +1,32 @@
+{
+  "id": 106144,
+  "url": "https://www.spigotmc.org/resources/restart-checker.106144/",
+  "name": "Restart Checker",
+  "description": "Automatically reload the server whenever you add or modify a plugin!",
+  "authors": [
+    "Tiskua"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106144.jpg?1667785003",
+  "iconCid": "bafkreia4ukkjizx6wksddpnedsls3yhca4wafinxonszpkfmqfvy5a7qqe",
+  "numberOfDownloads": 208,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/restart-checker.106144/history",
+  "releaseDate": 1667780820000,
+  "updateDate": 1670369760000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

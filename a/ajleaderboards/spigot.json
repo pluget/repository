@@ -1,0 +1,32 @@
+{
+  "id": 85548,
+  "url": "https://www.spigotmc.org/resources/ajleaderboards.85548/",
+  "name": "ajLeaderboards",
+  "description": "Create leaderboards for almost anything!",
+  "authors": [
+    "ajgeiss0702"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85548.jpg?1646357582",
+  "iconCid": "bafkreidjw3ebgfqmbzp4rvme5p4ygxwrsttpa6glo43crih5w2vwt55huq",
+  "numberOfDownloads": 46137,
+  "rating": 4.7,
+  "numberOfVotes": 112,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ajleaderboards.85548/history",
+  "gitUrl": "https://github.com/ajgeiss0702/ajleaderboards",
+  "releaseDate": 1676725560000,
+  "updateDate": 1676725560000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

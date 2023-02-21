@@ -1,0 +1,24 @@
+{
+  "id": 99114,
+  "url": "https://www.spigotmc.org/resources/global-player-market.99114/",
+  "name": "Global Player Market",
+  "description": "Buy and sell items on global market via friendly gui and commands",
+  "authors": [
+    "makeevrserg"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99114.jpg?1641884477",
+  "iconCid": "bafkreifu2uthwulgtiby4mqd2wn77ynnpn3rhyms7s3ctbxdd4xa33eqbm",
+  "numberOfDownloads": 527,
+  "rating": 4.3,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/global-player-market.99114/history",
+  "gitUrl": "https://github.com/Astra-Interactive/AstraAuctions",
+  "releaseDate": 1641880680000,
+  "updateDate": 1674977220000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

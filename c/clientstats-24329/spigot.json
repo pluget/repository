@@ -1,0 +1,33 @@
+{
+  "id": 24329,
+  "url": "https://www.spigotmc.org/resources/clientstats-bukkit-spigot.24329/",
+  "name": "ClientStats [Bukkit/Spigot]",
+  "description": "Track how many players joined and their versions",
+  "authors": [
+    "MTC"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/24/24329.jpg?1465080810",
+  "iconCid": "bafkreicrsaum3zqqocfe2xgx4xrgthzlvfd3cwcgrxau2a7nnw5oxfj3ni",
+  "numberOfDownloads": 15451,
+  "rating": 4.9,
+  "numberOfVotes": 25,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/clientstats-bukkit-spigot.24329/history",
+  "gitUrl": "https://github.com/MineTheCube/ClientStats",
+  "releaseDate": 1465077180000,
+  "updateDate": 1670882100000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

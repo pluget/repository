@@ -1,0 +1,26 @@
+{
+  "id": 73535,
+  "url": "https://www.spigotmc.org/resources/deathwarden.73535/",
+  "name": "DeathWarden",
+  "description": "Become the DeathWarden of your server and control how people die!",
+  "authors": [
+    "OmegaWeaponDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/73/73535.jpg?1641206760",
+  "iconCid": "bafkreigmyd3hnexi34tr4jxowd3rrsorq4mkpiiakcg6vngkiul7nhcqke",
+  "numberOfDownloads": 5090,
+  "rating": 4.8,
+  "numberOfVotes": 13,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/deathwarden.73535/history",
+  "gitUrl": "https://github.com/OmegaWeaponDev/DeathWarden",
+  "releaseDate": 1576662180000,
+  "updateDate": 1661930700000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

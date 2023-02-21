@@ -1,0 +1,19 @@
+{
+  "id": 107735,
+  "url": "https://www.spigotmc.org/resources/deathchest.107735/",
+  "name": "DeathChest",
+  "description": "A chest with the player's items appears at the place of death.",
+  "authors": [
+    "Daechler"
+  ],
+  "numberOfDownloads": 129,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/deathchest.107735/history",
+  "gitUrl": "https://github.com/Daechler/DeathChest",
+  "releaseDate": 1675180800000,
+  "updateDate": 1676027280000,
+  "versions": [
+    "1.19"
+  ]
+}

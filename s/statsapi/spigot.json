@@ -1,0 +1,32 @@
+{
+  "id": 74908,
+  "url": "https://www.spigotmc.org/resources/statsapi.74908/",
+  "name": "StatsAPI",
+  "description": "API for Devlopers | MySQL | Player Cache | Fully Configurable | 1.7-1.19",
+  "authors": [
+    "DevSnx"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/74/74908.jpg?1581967917",
+  "iconCid": "bafkreiambpdw5ssv35ejksydokmfo3kib2vcdwqghoevcidngyu2d7af5u",
+  "numberOfDownloads": 2565,
+  "rating": 5,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/statsapi.74908/history",
+  "releaseDate": 1580764500000,
+  "updateDate": 1676309880000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

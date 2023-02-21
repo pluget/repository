@@ -1,0 +1,20 @@
+{
+  "id": 106096,
+  "url": "https://www.spigotmc.org/resources/greetings-plugin-1-13-1-19-2.106096/",
+  "name": "Greetings Plugin (1.13-1.19.2)",
+  "description": "Simple plugin for greetings when player join.",
+  "authors": [
+    "eripe123"
+  ],
+  "numberOfDownloads": 50,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/greetings-plugin-1-13-1-19-2.106096/history",
+  "gitUrl": "https://github.com/eripe14/GreetingMessages",
+  "releaseDate": 1667598960000,
+  "updateDate": 1667598960000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

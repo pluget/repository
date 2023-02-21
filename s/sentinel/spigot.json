@@ -1,0 +1,32 @@
+{
+  "id": 22017,
+  "url": "https://www.spigotmc.org/resources/sentinel.22017/",
+  "name": "Sentinel",
+  "description": "Combat NPCs for Spigot!",
+  "authors": [
+    "mcmonkey"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/22/22017.jpg?1465697157",
+  "iconCid": "bafkreih4tppuktxtqa2ovgtw6izss6yuqepk7z6drdb3v62toaousb6sye",
+  "numberOfDownloads": 57825,
+  "rating": 4.2,
+  "numberOfVotes": 139,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sentinel.22017/history",
+  "gitUrl": "https://github.com/mcmonkeyprojects/Sentinel",
+  "releaseDate": 1461019500000,
+  "updateDate": 1670866140000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

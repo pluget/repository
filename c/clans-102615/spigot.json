@@ -1,0 +1,22 @@
+{
+  "id": 102615,
+  "url": "https://www.spigotmc.org/resources/clans-system-1-18-1-19.102615/",
+  "name": "Clans-System 1.18 / 1.19",
+  "description": "A simple Clans-System that allows your Players to create and join clans.",
+  "authors": [
+    "Spaffel"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102615.jpg?1655214231",
+  "iconCid": "bafkreicglc5dbejbqpikxgrk5gke66qqbybkdaratjz225rycbddaq4zna",
+  "numberOfDownloads": 1810,
+  "rating": 4.2,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/clans-system-1-18-1-19.102615/history",
+  "gitUrl": "https://github.com/calvin-erfmann/Clans-Plugin",
+  "releaseDate": 1655210580000,
+  "updateDate": 1661458860000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

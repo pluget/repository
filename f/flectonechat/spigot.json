@@ -1,0 +1,24 @@
+{
+  "id": 89411,
+  "url": "https://www.spigotmc.org/resources/flectonechat.89411/",
+  "name": "FlectoneChat",
+  "description": "Provides the ability to customize chat functions for yourself",
+  "authors": [
+    "TheFaser"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89411.jpg?1645634728",
+  "iconCid": "bafkreih6qnjrgztegpmzz63bwvzxcqqvwq4nfkoel7x7mpdzw5zp3njr3e",
+  "numberOfDownloads": 468,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/flectonechat.89411/history",
+  "gitUrl": "https://github.com/Flectone/FlectoneChat",
+  "releaseDate": 1614076140000,
+  "updateDate": 1667230440000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

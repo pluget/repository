@@ -1,0 +1,22 @@
+{
+  "id": 102926,
+  "url": "https://www.spigotmc.org/resources/help-command.102926/",
+  "name": "Help Command",
+  "description": "A simple customizable help message",
+  "authors": [
+    "VoidemLIVE"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102926.jpg?1656261994",
+  "iconCid": "bafkreicwavhsv4k5ax3b7nucoxhvxg254jxhpkympuqixxsj2r65bj7g6y",
+  "numberOfDownloads": 109,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/help-command.102926/history",
+  "gitUrl": "https://github.com/VoidemLIVE/Help-Command-Plugin",
+  "releaseDate": 1656258360000,
+  "updateDate": 1669224060000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

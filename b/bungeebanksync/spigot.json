@@ -1,0 +1,20 @@
+{
+  "id": 103999,
+  "url": "https://www.spigotmc.org/resources/bungeebanksync-networkbanksync-addon-mysql-websockets-bungeecord-waterfall.103999/",
+  "name": "BungeeBankSync | NetworkBankSync Addon | MySQL | Websockets | BungeeCord | Waterfall",
+  "description": "Companion plugin for NetworkBankSync",
+  "authors": [
+    "ItsRainingHP"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103999.jpg?1659468650",
+  "iconCid": "bafkreidjwmfyxhaxs55uxrao4ejm2vqkvuwlwhzqwb3pphajptpnhraa3y",
+  "numberOfDownloads": 41,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bungeebanksync-networkbanksync-addon-mysql-websockets-bungeecord-waterfall.103999/history",
+  "releaseDate": 1659465000000,
+  "updateDate": 1659465000000,
+  "versions": [
+    "1.19"
+  ]
+}

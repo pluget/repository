@@ -1,0 +1,31 @@
+{
+  "id": 76015,
+  "url": "https://www.spigotmc.org/resources/griefprevention-stick-fix.76015/",
+  "name": "GriefPrevention Stick Fix",
+  "description": "Disables \"No one has claimed this block\" message on sticks with metadata (useful for ItemsAdder)",
+  "authors": [
+    "LoneDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/76/76015.jpg?1666086194",
+  "iconCid": "bafkreicpzb4w3cw2jsoauqswi4ehyngbbguzyisymsm4x5u7hegypynt5q",
+  "numberOfDownloads": 532,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/griefprevention-stick-fix.76015/history",
+  "releaseDate": 1584102960000,
+  "updateDate": 1665494340000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

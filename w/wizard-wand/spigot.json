@@ -1,0 +1,19 @@
+{
+  "id": 107845,
+  "url": "https://www.spigotmc.org/resources/wizard-wand.107845/",
+  "name": "Wizard Wand",
+  "description": "A simple admin plugin with OP spells",
+  "authors": [
+    "GoracioNewport"
+  ],
+  "numberOfDownloads": 32,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/wizard-wand.107845/history",
+  "gitUrl": "https://github.com/GoracioNewport/wizardy_minecraft_plugin",
+  "releaseDate": 1675605360000,
+  "updateDate": 1675605360000,
+  "versions": [
+    "1.19"
+  ]
+}

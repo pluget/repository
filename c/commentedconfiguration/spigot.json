@@ -1,0 +1,33 @@
+{
+  "id": 108075,
+  "url": "https://www.spigotmc.org/resources/commentedconfiguration.108075/",
+  "name": "CommentedConfiguration",
+  "description": "Old-school, updating config lib with features.",
+  "authors": [
+    "LlmDl"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108075.jpg?1676679943",
+  "iconCid": "bafkreihfihwqyax4zjgeefu6x2a2onvx5nlb4ssjqwzg5h43ce7r2kytvi",
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/commentedconfiguration.108075/history",
+  "gitUrl": "https://github.com/TownyAdvanced/CommentedConfiguration",
+  "releaseDate": 1676676300000,
+  "updateDate": 1676676300000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

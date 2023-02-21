@@ -1,0 +1,30 @@
+{
+  "id": 75366,
+  "url": "https://www.spigotmc.org/resources/stone-drop.75366/",
+  "name": "Stone Drop",
+  "description": "The plugin makes mining stone way more fun!",
+  "authors": [
+    "ULTUX"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75366.jpg?1616682262",
+  "iconCid": "bafkreihvorchjcads5xdl674qqx5brhvkj5wl3bfvlrxy6ybyklg34ghn4",
+  "numberOfDownloads": 17642,
+  "rating": 4,
+  "numberOfVotes": 13,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/stone-drop.75366/history",
+  "gitUrl": "https://github.com/ULTUX/StoneDropPlugin",
+  "releaseDate": 1582212840000,
+  "updateDate": 1659297300000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 106817,
+  "url": "https://www.spigotmc.org/resources/eternalparkour-1-16-5-%E2%9C%A8-region-defined-parkour-%E2%9C%A8-mysql-support.106817/",
+  "name": "EternalParkour 1.16.5+ ✨ Region Defined Parkour ✨ MySQL Support",
+  "description": "A ingame region defined parkour plugin",
+  "authors": [
+    "Oribuin"
+  ],
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/eternalparkour-1-16-5-%E2%9C%A8-region-defined-parkour-%E2%9C%A8-mysql-support.106817/history",
+  "gitUrl": "https://github.com/Oribuin/EternalParkour/",
+  "releaseDate": 1671382680000,
+  "updateDate": 1671382680000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

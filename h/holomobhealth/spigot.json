@@ -1,0 +1,32 @@
+{
+  "id": 75975,
+  "url": "https://www.spigotmc.org/resources/holomobhealth-display-mob-health-damage-indicator-client-side-javascript-formatting.75975/",
+  "name": "HoloMobHealth | Display Mob Health | Damage Indicator | Client-side | JavaScript Formatting",
+  "description": "Display mob health CLIENT-SIDE ONLY through packets! Support custom JavaScript formatting!",
+  "authors": [
+    "LOOHP"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75975.jpg?1586835602",
+  "iconCid": "bafkreia34f4eq6r3czqodgksk3qnia6yk43lxytfmcvdn4ldqtiu2lmc2u",
+  "numberOfDownloads": 28944,
+  "rating": 4.6,
+  "numberOfVotes": 59,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/holomobhealth-display-mob-health-damage-indicator-client-side-javascript-formatting.75975/history",
+  "gitUrl": "https://github.com/LOOHP/HoloMobHealth",
+  "releaseDate": 1583992140000,
+  "updateDate": 1671184920000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 30061,
+  "url": "https://www.spigotmc.org/resources/party-toggle-command-extension-for-party-and-friends.30061/",
+  "name": "Party toggle Command Extension for Party and Friends",
+  "description": "Adds the /party toggle command to Party and Friends",
+  "authors": [
+    "simonsator"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/30/30061.jpg?1497973497",
+  "iconCid": "bafkreigq4y4jqwhqvret65f2zqpshw4gtl6sasphymklbh6czhbkyq37v4",
+  "numberOfDownloads": 1376,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/party-toggle-command-extension-for-party-and-friends.30061/history",
+  "gitUrl": "https://github.com/Simonsator/Party-Toggle",
+  "releaseDate": 1475527500000,
+  "updateDate": 1670318160000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 99914,
+  "url": "https://www.spigotmc.org/resources/temporarywhitelist.99914/",
+  "name": "TemporaryWhiteList",
+  "description": "Nicknames based temporary whitelist",
+  "authors": [
+    "reosfire"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99914.jpg?1648158155",
+  "iconCid": "bafkreicubh2bvjluu6am26de2ps2aocotfcywxtpi6nras3ul7z6tlshoi",
+  "numberOfDownloads": 368,
+  "rating": 4.4,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/temporarywhitelist.99914/history",
+  "gitUrl": "https://github.com/reosfire/TemporaryWhiteList",
+  "releaseDate": 1644514020000,
+  "updateDate": 1667246100000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

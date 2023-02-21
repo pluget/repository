@@ -1,0 +1,21 @@
+{
+  "id": 107479,
+  "url": "https://www.spigotmc.org/resources/defused.107479/",
+  "name": "Defused",
+  "description": "Stop creeper block damage, but allow creeper entity damage.",
+  "authors": [
+    "NitrateOrigins"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107479.jpg?1674120673",
+  "iconCid": "bafkreieiixz7sz7izt4feyps6le6wmr2n7tqxafgnsx6tc4qguzi7yo4oq",
+  "numberOfDownloads": 60,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/defused.107479/history",
+  "gitUrl": "https://github.com/Server-Utilities",
+  "releaseDate": 1674116820000,
+  "updateDate": 1674116820000,
+  "versions": [
+    "1.19"
+  ]
+}
