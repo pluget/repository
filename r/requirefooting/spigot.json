@@ -1,0 +1,19 @@
+{
+  "id": 98625,
+  "url": "https://www.spigotmc.org/resources/requirefooting.98625/",
+  "name": "RequireFooting",
+  "description": "Prevent players from jump-placing blocks",
+  "authors": [
+    "goodkinghenry"
+  ],
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/requirefooting.98625/history",
+  "gitUrl": "https://gitlab.com/goodkinghenry/requirefooting",
+  "releaseDate": 1640290440000,
+  "updateDate": 1677042720000,
+  "versions": [
+    "1.17"
+  ]
+}

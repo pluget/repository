@@ -1,0 +1,19 @@
+{
+  "id": 98607,
+  "url": "https://www.spigotmc.org/resources/biomevisuals.98607/",
+  "name": "BiomeVisuals",
+  "description": "A plugin that allows server owners to override sent biome to clients.",
+  "authors": [
+    "Owen1212055s"
+  ],
+  "numberOfDownloads": 59,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/biomevisuals.98607/history",
+  "gitUrl": "https://github.com/Owen1212055/BiomeVisuals",
+  "releaseDate": 1677573720000,
+  "updateDate": 1677573720000,
+  "versions": [
+    "1.19"
+  ]
+}

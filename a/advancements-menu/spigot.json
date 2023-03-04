@@ -1,0 +1,21 @@
+{
+  "id": 101907,
+  "url": "https://www.spigotmc.org/resources/advancements-menu.101907/",
+  "name": "Advancements Menu",
+  "description": "Display advancements in a menu",
+  "authors": [
+    "evlad"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101907.jpg?1652677759",
+  "iconCid": "bafkreiewjdedxfax7kx63gung3niq3ctxbdustupbn7djyo3oetuuuf75i",
+  "numberOfDownloads": 108,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advancements-menu.101907/history",
+  "gitUrl": "https://github.com/emmanuelvlad/AdvancementsMenu",
+  "releaseDate": 1652045940000,
+  "updateDate": 1652674080000,
+  "versions": [
+    "1.18"
+  ]
+}

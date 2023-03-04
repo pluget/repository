@@ -1,0 +1,27 @@
+{
+  "id": 60837,
+  "url": "https://www.spigotmc.org/resources/bettersleeping.60837/",
+  "name": "BetterSleeping",
+  "description": "Makes sleeping in multiplayer useful and fun!",
+  "authors": [
+    "vallas"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/60/60837.jpg?1626636165",
+  "iconCid": "bafkreido7fjnti4swyluxgsyx2gcvxgy6vsxhgo5inl5zbpt4lv6pdbt5a",
+  "numberOfDownloads": 269468,
+  "rating": 4.3,
+  "numberOfVotes": 59,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bettersleeping.60837/history",
+  "gitUrl": "https://github.com/Nuytemans-Dieter/BetterSleeping",
+  "releaseDate": 1536933780000,
+  "updateDate": 1657468620000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

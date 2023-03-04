@@ -1,0 +1,23 @@
+{
+  "id": 93340,
+  "url": "https://www.spigotmc.org/resources/mapsync.93340/",
+  "name": "MapSync",
+  "description": "Sync players' map item across servers.",
+  "authors": [
+    "coco0325"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93340.jpg?1623763725",
+  "iconCid": "bafkreiaabrbfusg7bef5oyosbs6xpq2xkexfcodgk6tduflwmv4zyimvhu",
+  "numberOfDownloads": 483,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mapsync.93340/history",
+  "releaseDate": 1623744120000,
+  "updateDate": 1655717460000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

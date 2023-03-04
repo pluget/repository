@@ -1,0 +1,24 @@
+{
+  "id": 91007,
+  "url": "https://www.spigotmc.org/resources/placeholderchat-conditional-chat-infinite-possibilities-placeholderapi-full-support.91007/",
+  "name": "PlaceholderChat | Conditional Chat - Infinite possibilities [PlaceholderAPI full support]",
+  "description": "chat, placeholderapi, spigot, placeholderapi",
+  "authors": [
+    "Plug_And_Cree"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91007.jpg?1617725806",
+  "iconCid": "bafkreigpmycw27wrvvaz5gcizuagw7elv64pcgaunayvfrukm3owqb5l7a",
+  "numberOfDownloads": 460,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/placeholderchat-conditional-chat-infinite-possibilities-placeholderapi-full-support.91007/history",
+  "gitUrl": "https://github.com/PlugAndCree/PlaceholderChat",
+  "releaseDate": 1617722160000,
+  "updateDate": 1667042400000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

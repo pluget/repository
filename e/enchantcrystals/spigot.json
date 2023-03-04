@@ -1,0 +1,31 @@
+{
+  "id": 75155,
+  "url": "https://www.spigotmc.org/resources/enchantcrystals.75155/",
+  "name": "EnchantCrystals",
+  "description": "Removes the need for anvils, uses crystals to instantly apply enchants!",
+  "authors": [
+    "Puyodead1"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75155.jpg?1644182415",
+  "iconCid": "bafkreiczjpbo4feqvxubdpfqyjovpidoclprteulpmbfltkew6c72buhvm",
+  "numberOfDownloads": 433,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/enchantcrystals.75155/history",
+  "gitUrl": "https://github.com/Puyodead1/EnchantCrystals",
+  "releaseDate": 1581550680000,
+  "updateDate": 1656874320000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

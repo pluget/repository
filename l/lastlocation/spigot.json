@@ -1,0 +1,23 @@
+{
+  "id": 31611,
+  "url": "https://www.spigotmc.org/resources/lastlocation.31611/",
+  "name": "LastLocation",
+  "description": "Sends player to where they were in a world when using Multiverse portals or /mvtp",
+  "authors": [
+    "Strahan"
+  ],
+  "numberOfDownloads": 14014,
+  "rating": 4,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lastlocation.31611/history",
+  "releaseDate": 1478818080000,
+  "updateDate": 1655684760000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

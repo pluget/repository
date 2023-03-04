@@ -1,0 +1,22 @@
+{
+  "id": 82229,
+  "url": "https://www.spigotmc.org/resources/crashapi.82229/",
+  "name": "CrashAPI",
+  "description": "Library for CTP plugins.",
+  "authors": [
+    "crashtheparty"
+  ],
+  "numberOfDownloads": 11429,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/crashapi.82229/history",
+  "gitUrl": "https://github.com/crashtheparty/CrashAPI",
+  "releaseDate": 1596307560000,
+  "updateDate": 1655829240000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 102014,
+  "url": "https://www.spigotmc.org/resources/binklac-anti-cheat-for-bungee.102014/",
+  "name": "Binklac anti-cheat for bungee",
+  "description": "An anti-cheat mod that fights against the behavior of injecting or modifying files",
+  "authors": [
+    "VeroFess"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102014.jpg?1652617998",
+  "iconCid": "bafkreia3i2xxfcxhxicwlnittazoxzmeweixakoxfwemqz76t3fotez4va",
+  "numberOfDownloads": 56,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/binklac-anti-cheat-for-bungee.102014/history",
+  "releaseDate": 1652614380000,
+  "updateDate": 1652626440000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

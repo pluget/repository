@@ -1,0 +1,23 @@
+{
+  "id": 102270,
+  "url": "https://www.spigotmc.org/resources/mob-health-steal.102270/",
+  "name": "Mob Health Steal",
+  "description": "U get the health of the mob u kill!",
+  "authors": [
+    "KarsHaakieee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102270.jpg?1653736222",
+  "iconCid": "bafkreifnyepmlagiuudyhpeqmf3tp4pagblg4ww2bvvix5yjtubp7lbxh4",
+  "numberOfDownloads": 320,
+  "rating": 4.3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mob-health-steal.102270/history",
+  "releaseDate": 1653732420000,
+  "updateDate": 1655110980000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 97341,
+  "url": "https://www.spigotmc.org/resources/dispenserrobot.97341/",
+  "name": "DispenserRobot",
+  "description": "Allows dispensers to place, break, strip, unwax, scrape, till, and path blocks.",
+  "authors": [
+    "chendol"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97341.jpg?1640928479",
+  "iconCid": "bafkreiaq4uqfsdibtwgazh674dpxn3qbkaduzixijh6mvczirkvexzu5ve",
+  "numberOfDownloads": 425,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dispenserrobot.97341/history",
+  "gitUrl": "https://github.com/Blanktopia/DispenserRobot",
+  "releaseDate": 1635861960000,
+  "updateDate": 1654060140000,
+  "versions": [
+    "1.18"
+  ]
+}

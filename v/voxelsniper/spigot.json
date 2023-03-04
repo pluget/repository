@@ -1,0 +1,22 @@
+{
+  "id": 104989,
+  "url": "https://www.spigotmc.org/resources/voxelsniper.104989/",
+  "name": "VoxelSniper",
+  "description": "The VoxelSniper you know and love. Reimagined!",
+  "authors": [
+    "KevinDaGame"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104989.jpg?1663665961",
+  "iconCid": "bafkreiagyrakgh6av3jcajh3tw2bqvnwenmplyfs7mvbo24nfvydbigy7u",
+  "numberOfDownloads": 5224,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/voxelsniper.104989/history",
+  "gitUrl": "https://github.com/KevinDaGame/VoxelSniper",
+  "releaseDate": 1662039000000,
+  "updateDate": 1674338100000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

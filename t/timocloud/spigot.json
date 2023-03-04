@@ -1,0 +1,32 @@
+{
+  "id": 53757,
+  "url": "https://www.spigotmc.org/resources/timocloud-the-most-intelligent-cloud-system.53757/",
+  "name": "TimoCloud - The most intelligent cloud system",
+  "description": "Powerful open source server management system",
+  "authors": [
+    "TimoCrafter"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/53/53757.jpg?1519568981",
+  "iconCid": "bafkreifb5pkis6y6prbc3lsmpo4c6pperd6ctqhgimvqdrlkcokty7k7sy",
+  "numberOfDownloads": 9772,
+  "rating": 4.3,
+  "numberOfVotes": 52,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/timocloud-the-most-intelligent-cloud-system.53757/history",
+  "gitUrl": "https://github.com/TimoCloud/TimoCloud",
+  "releaseDate": 1519943520000,
+  "updateDate": 1654960860000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

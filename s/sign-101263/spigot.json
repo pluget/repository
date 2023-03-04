@@ -1,0 +1,21 @@
+{
+  "id": 101263,
+  "url": "https://www.spigotmc.org/resources/sign-100-configurable.101263/",
+  "name": "Sign (100% configurable)",
+  "description": "A plugin where you can sign an item with a command.",
+  "authors": [
+    "getUniqueID"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101263.jpg?1649554710",
+  "iconCid": "bafkreic7t6oshpbencwtkiatrcajuosxlucwqid3p5ddlbncucuo3shciu",
+  "numberOfDownloads": 54,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sign-100-configurable.101263/history",
+  "gitUrl": "https://github.com/zeroequalsone/Sign",
+  "releaseDate": 1649551080000,
+  "updateDate": 1655914140000,
+  "versions": [
+    "1.18"
+  ]
+}

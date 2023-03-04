@@ -1,0 +1,19 @@
+{
+  "id": 102301,
+  "url": "https://www.spigotmc.org/resources/lockserver.102301/",
+  "name": "LockServer",
+  "description": "Lock the server to prevent new players to join in to block fake players",
+  "authors": [
+    "SanseYooyea"
+  ],
+  "numberOfDownloads": 62,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lockserver.102301/history",
+  "gitUrl": "https://github.com/sanseyooyea/LockServer",
+  "releaseDate": 1653876600000,
+  "updateDate": 1653909360000,
+  "versions": [
+    "1.16"
+  ]
+}

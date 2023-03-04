@@ -1,0 +1,22 @@
+{
+  "id": 102978,
+  "url": "https://www.spigotmc.org/resources/nomorephantoms.102978/",
+  "name": "NoMorePhantoms",
+  "description": "A plugin that disables the natural spawning of phantoms.",
+  "authors": [
+    "FlowScript"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102978.jpg?1656470887",
+  "iconCid": "bafkreiddhc6t4se4czlvxdurvaui37v2tk2cobta4gwxqxcvrzxamazgki",
+  "numberOfDownloads": 64,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nomorephantoms.102978/history",
+  "releaseDate": 1656467220000,
+  "updateDate": 1656467220000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

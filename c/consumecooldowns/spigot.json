@@ -1,0 +1,25 @@
+{
+  "id": 102627,
+  "url": "https://www.spigotmc.org/resources/consumecooldowns.102627/",
+  "name": "ConsumeCooldowns",
+  "description": "A lightweight item cooldown system!",
+  "authors": [
+    "Flintoes"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102627.jpg?1655599024",
+  "iconCid": "bafkreifka7drdkdddryxgmnwmly7ayho32itmw3nhdsr3qjxsfz3ynodnu",
+  "numberOfDownloads": 19,
+  "rating": 4,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/consumecooldowns.102627/history",
+  "releaseDate": 1655230500000,
+  "updateDate": 1655230500000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12"
+  ]
+}

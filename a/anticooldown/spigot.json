@@ -1,0 +1,31 @@
+{
+  "id": 51321,
+  "url": "https://www.spigotmc.org/resources/anticooldown-old-pvp-1-9-1-19-2.51321/",
+  "name": "AntiCooldown - Old PVP [1.9-1.19.2]",
+  "description": "Disable hit cooldown, new sound and particle effects and add 1.8 damage and more!",
+  "authors": [
+    "YourGameSpace"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/51/51321.jpg?1629232098",
+  "iconCid": "bafkreibixmjdnyrnkeplqgmxtoukgm27a4gpahnvqezl4tsavvikdwy6py",
+  "numberOfDownloads": 45941,
+  "rating": 3.9,
+  "numberOfVotes": 35,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anticooldown-old-pvp-1-9-1-19-2.51321/history",
+  "gitUrl": "https://github.com/YourGameSpace/AntiCooldown",
+  "releaseDate": 1514481720000,
+  "updateDate": 1654618200000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

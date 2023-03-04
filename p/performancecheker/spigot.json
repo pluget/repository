@@ -1,0 +1,31 @@
+{
+  "id": 106093,
+  "url": "https://www.spigotmc.org/resources/performancecheker.106093/",
+  "name": "PerformanceCheker",
+  "description": "Check the performance of your server",
+  "authors": [
+    "7AGAM"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106093.jpg?1667600456",
+  "iconCid": "bafkreigzy7yd6tnrajzvuk6uht6ldodojsfbko77l5w6gryvjmybt7ijmy",
+  "numberOfDownloads": 58,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/performancecheker.106093/history",
+  "releaseDate": 1667596800000,
+  "updateDate": 1667596800000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

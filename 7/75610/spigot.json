@@ -1,0 +1,25 @@
+{
+  "id": 75610,
+  "url": "https://www.spigotmc.org/resources/14eredit.75610/",
+  "name": "14erEdit",
+  "description": "An extremely powerful and versatile world editor.",
+  "authors": [
+    "14er"
+  ],
+  "numberOfDownloads": 530,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/14eredit.75610/history",
+  "gitUrl": "https://github.com/14ercooper/14erEdit",
+  "releaseDate": 1582952580000,
+  "updateDate": 1655758560000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

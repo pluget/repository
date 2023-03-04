@@ -1,0 +1,19 @@
+{
+  "id": 101922,
+  "url": "https://www.spigotmc.org/resources/onlyspawners.101922/",
+  "name": "OnlySpawners",
+  "description": "this plugin is made to disable all mobs if they are not spawned by a spawner bloc",
+  "authors": [
+    "Nymoout"
+  ],
+  "numberOfDownloads": 18,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/onlyspawners.101922/history",
+  "releaseDate": 1652133600000,
+  "updateDate": 1652133600000,
+  "versions": [
+    "1.8",
+    "1.12"
+  ]
+}

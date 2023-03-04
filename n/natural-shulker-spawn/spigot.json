@@ -1,0 +1,22 @@
+{
+  "id": 102100,
+  "url": "https://www.spigotmc.org/resources/natural-shulker-spawn.102100/",
+  "name": "Natural Shulker Spawn",
+  "description": "Allows Shulkers to naturally spawn on specific blocks and more",
+  "authors": [
+    "evlad"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102100.jpg?1653056050",
+  "iconCid": "bafkreigdfc6gzeopsizgm2yxhq6aj74q54ygcwpvot7pbqfrpmp474fj6e",
+  "numberOfDownloads": 101,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/natural-shulker-spawn.102100/history",
+  "gitUrl": "https://github.com/emmanuelvlad/NaturalShulkerSpawn",
+  "releaseDate": 1653052380000,
+  "updateDate": 1654733580000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

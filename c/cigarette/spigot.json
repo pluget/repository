@@ -1,0 +1,25 @@
+{
+  "id": 95688,
+  "url": "https://www.spigotmc.org/resources/cigarette.95688/",
+  "name": "Cigarette",
+  "description": "Light a cigarette in Minecraft, inspired by the old RealCigaret plugin.",
+  "authors": [
+    "AgustinEzequiel2"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95688.jpg?1629935308",
+  "iconCid": "bafkreigqinzl5ui2af5efiaqttgxv7j2vichr2npipwcqtd5z52ninudna",
+  "numberOfDownloads": 3749,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cigarette.95688/history",
+  "gitUrl": "https://github.com/aematsubara/Cigarette",
+  "releaseDate": 1629931680000,
+  "updateDate": 1656596220000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 107260,
+  "url": "https://www.spigotmc.org/resources/effectmaster-create-beautiful-shows-in-your-server.107260/",
+  "name": "EffectMaster | Create beautiful shows in your server!",
+  "description": "Special effect and show creator for your server.",
+  "authors": [
+    "M64DiamondStar"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107260.jpg?1673106428",
+  "iconCid": "bafkreiajwpb3mswivhja2cn7awlrimhqdyy73zd3d6f2n5vlxeqcbp7b2u",
+  "numberOfDownloads": 390,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/effectmaster-create-beautiful-shows-in-your-server.107260/history",
+  "gitUrl": "https://github.com/M64DiamondStar/EffectMaster",
+  "releaseDate": 1673102760000,
+  "updateDate": 1676399400000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

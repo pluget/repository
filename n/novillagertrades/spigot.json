@@ -1,0 +1,27 @@
+{
+  "id": 103247,
+  "url": "https://www.spigotmc.org/resources/novillagertrades.103247/",
+  "name": "NoVillagerTrades",
+  "description": "Disables trading with villagers",
+  "authors": [
+    "Saymoan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103247.jpg?1657443213",
+  "iconCid": "bafkreiezuxre4nsbehlplu5gbku5dq3aacwrp4atprwot6ardem53vlzji",
+  "numberOfDownloads": 74,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/novillagertrades.103247/history",
+  "gitUrl": "https://github.com/simondumalski/NoVillagerTrades",
+  "releaseDate": 1657439580000,
+  "updateDate": 1657441260000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

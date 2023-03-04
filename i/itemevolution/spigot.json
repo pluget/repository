@@ -1,0 +1,31 @@
+{
+  "id": 102923,
+  "url": "https://www.spigotmc.org/resources/itemevolution-1-8-1-19.102923/",
+  "name": "ItemEvolution [1.8 - 1.19]",
+  "description": "A plugin that makes it possible to upgrade items to others. (Like RPG games)",
+  "authors": [
+    "OkraMT"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102923.jpg?1656671225",
+  "iconCid": "bafkreihjc56wrsbpfltsfqttybegszor5qpbtuwvgunce2gomewqhw3ume",
+  "numberOfDownloads": 145,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/itemevolution-1-8-1-19.102923/history",
+  "releaseDate": 1656255600000,
+  "updateDate": 1656700500000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 88144,
+  "url": "https://www.spigotmc.org/resources/rpdescriptions-requested-plugin.88144/",
+  "name": "RPDescriptions | Requested Plugin",
+  "description": "Adds player descriptions to your roleplay server!",
+  "authors": [
+    "HQcombatmaster"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88144.jpg?1617332216",
+  "iconCid": "bafkreihfidvoxlrwtylgxqfjsfasdbglhtnkezvtwhfdbku7u5lawgbmuy",
+  "numberOfDownloads": 434,
+  "rating": 4.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rpdescriptions-requested-plugin.88144/history",
+  "gitUrl": "https://github.com/Texxyy/RPDescriptions",
+  "releaseDate": 1611314580000,
+  "updateDate": 1656760920000,
+  "versions": [
+    "1.8",
+    "1.13",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

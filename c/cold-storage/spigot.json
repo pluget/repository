@@ -1,0 +1,22 @@
+{
+  "id": 59581,
+  "url": "https://www.spigotmc.org/resources/cold-storage.59581/",
+  "name": "Cold Storage",
+  "description": "Store large amounts of items using a GUI.",
+  "authors": [
+    "crashtheparty"
+  ],
+  "numberOfDownloads": 2798,
+  "rating": 4.4,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cold-storage.59581/history",
+  "gitUrl": "https://github.com/crashtheparty/ColdStorage/tree/master",
+  "releaseDate": 1533672540000,
+  "updateDate": 1655265900000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

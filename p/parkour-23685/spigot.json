@@ -1,0 +1,33 @@
+{
+  "id": 23685,
+  "url": "https://www.spigotmc.org/resources/parkour.23685/",
+  "name": "Parkour",
+  "description": "The ultimate Parkour plugin.",
+  "authors": [
+    "A5H73Y"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/23/23685.jpg?1626904947",
+  "iconCid": "bafkreigltwx4oownoyqrgcx3yngc6mnqzjpoptcxi3vbrrjklylz2kujbu",
+  "numberOfDownloads": 46078,
+  "rating": 4.7,
+  "numberOfVotes": 90,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/parkour.23685/history",
+  "gitUrl": "https://github.com/A5H73Y/Parkour",
+  "releaseDate": 1464003060000,
+  "updateDate": 1670528820000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

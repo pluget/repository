@@ -1,0 +1,30 @@
+{
+  "id": 99745,
+  "url": "https://www.spigotmc.org/resources/api-minimapgui.99745/",
+  "name": "[API] MiniMapGUI",
+  "description": "An easy-to-use library that implements a GUI interface within offhand maps.",
+  "authors": [
+    "byteful"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99745.jpg?1644011043",
+  "iconCid": "bafkreifhugt552jm256aqgc3oukrtwfk6rwwu4cr6zlhypbt3mx7qdtmp4",
+  "numberOfDownloads": 118,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/api-minimapgui.99745/history",
+  "gitUrl": "https://github.com/byteful/MiniMapGUI",
+  "releaseDate": 1643940540000,
+  "updateDate": 1654120200000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

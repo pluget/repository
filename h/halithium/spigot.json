@@ -1,0 +1,26 @@
+{
+  "id": 102605,
+  "url": "https://www.spigotmc.org/resources/halithium.102605/",
+  "name": "Halithium",
+  "description": "A simple economy plugin (Vault Compatible)",
+  "authors": [
+    "JavaAlexis"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102605.jpg?1655158367",
+  "iconCid": "bafkreieazb2uqmxshakr6xtelyf6lzst26vbutofa2i3c7ioi4kcjmqiem",
+  "numberOfDownloads": 93,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/halithium.102605/history",
+  "releaseDate": 1655153220000,
+  "updateDate": 1655188980000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

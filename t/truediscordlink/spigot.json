@@ -1,0 +1,28 @@
+{
+  "id": 86967,
+  "url": "https://www.spigotmc.org/resources/truediscordlink.86967/",
+  "name": "TrueDiscordLink",
+  "description": "Provides a link between Discord and your Minecraft server.",
+  "authors": [
+    "FireControl1847"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/86/86967.jpg?1608612423",
+  "iconCid": "bafkreiczbw3liawxawqosdlg5zdijdf5kpevv23gugrouy4ntlxe52x3ca",
+  "numberOfDownloads": 304,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/truediscordlink.86967/history",
+  "gitUrl": "https://github.com/FireController1847/TrueDiscordLink/",
+  "releaseDate": 1608608400000,
+  "updateDate": 1655362020000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

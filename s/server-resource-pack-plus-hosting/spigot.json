@@ -1,0 +1,25 @@
+{
+  "id": 101416,
+  "url": "https://www.spigotmc.org/resources/server-resource-pack-hosting.101416/",
+  "name": "Server Resource Pack + Hosting",
+  "description": "Plug-in that allows you to upload a server resource pack and lets all players download it upon join",
+  "authors": [
+    "knokko"
+  ],
+  "numberOfDownloads": 327,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/server-resource-pack-hosting.101416/history",
+  "gitUrl": "https://github.com/knokko/resource-pack-plugin",
+  "releaseDate": 1650124740000,
+  "updateDate": 1656771360000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

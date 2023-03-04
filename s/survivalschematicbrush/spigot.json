@@ -1,0 +1,27 @@
+{
+  "id": 102676,
+  "url": "https://www.spigotmc.org/resources/survivalschematicbrush-schematic-brush-reborn-2-add-on.102676/",
+  "name": "SurvivalSchematicBrush - Schematic Brush Reborn 2 Add-on",
+  "description": "Use Schematic Brush in survival with taking the required items from the inventory",
+  "authors": [
+    "Eldoria"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102676.jpg?1655460267",
+  "iconCid": "bafkreifoh3jceobunsdqysysrywmf4a3poc2q2ojt2sssfxsjqqbb3aznq",
+  "numberOfDownloads": 47,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/survivalschematicbrush-schematic-brush-reborn-2-add-on.102676/history",
+  "gitUrl": "https://github.com/eldoriarpg/survivalschematicbrush",
+  "releaseDate": 1655456640000,
+  "updateDate": 1655456640000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

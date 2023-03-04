@@ -1,0 +1,32 @@
+{
+  "id": 6245,
+  "url": "https://www.spigotmc.org/resources/placeholderapi.6245/",
+  "name": "PlaceholderAPI",
+  "description": "A resource that allows information from your favorite plugins be shown practically anywhere!",
+  "authors": [
+    "HelpChat"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/6/6245.jpg?1639963710",
+  "iconCid": "bafkreicxicxw4bgyk6lg2wm4eju6otfear64m5gmtwrgh5ljad2prqzloy",
+  "numberOfDownloads": 1322264,
+  "rating": 4.5,
+  "numberOfVotes": 409,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/placeholderapi.6245/history",
+  "gitUrl": "https://github.com/PlaceholderAPI/PlaceholderAPI",
+  "releaseDate": 1677432900000,
+  "updateDate": 1677432900000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

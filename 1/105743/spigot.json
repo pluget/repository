@@ -1,0 +1,27 @@
+{
+  "id": 105743,
+  "url": "https://www.spigotmc.org/resources/mysql-support-ultimate-inventory-shop-a-simple-gui-shop.105743/",
+  "name": "[MySQL Support] Ultimate Inventory Shop - A simple GUI Shop",
+  "description": "A Shop plugin with Chest GUI.",
+  "authors": [
+    "moeKiwiSAMA"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105743.jpg?1665554199",
+  "iconCid": "bafkreia2qqxc536pbsf2ztzf7tdp3jdox5npulkoisx2o5ayswd4jbwjym",
+  "numberOfDownloads": 131,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mysql-support-ultimate-inventory-shop-a-simple-gui-shop.105743/history",
+  "gitUrl": "https://github.com/Agenda-Minecraft/UltimateInventoryShop",
+  "releaseDate": 1665550560000,
+  "updateDate": 1671662580000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

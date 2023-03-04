@@ -1,0 +1,22 @@
+{
+  "id": 108311,
+  "url": "https://www.spigotmc.org/resources/translator.108311/",
+  "name": "Translator",
+  "description": "Make your server multi-language for all",
+  "authors": [
+    "Zyran"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108311.jpg?1677650056",
+  "iconCid": "bafkreibklnenpvqeqgud5egbvgzigyb7orsj42abtae3gzo4urjoqyfcxu",
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/translator.108311/history",
+  "gitUrl": "https://github.com/ZyranDev/translator",
+  "releaseDate": 1677646440000,
+  "updateDate": 1677646440000,
+  "versions": [
+    "1.8",
+    "1.18"
+  ]
+}

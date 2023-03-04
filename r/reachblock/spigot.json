@@ -1,0 +1,31 @@
+{
+  "id": 86733,
+  "url": "https://www.spigotmc.org/resources/reachblock.86733/",
+  "name": "ReachBlock",
+  "description": "Blocks most reach hacks.",
+  "authors": [
+    "JackaBoiDEV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/86/86733.jpg?1607985238",
+  "iconCid": "bafkreidc5oepls6ijisdevawi7uko5xcbudkgxjnljsgmrzmet3gu4epiq",
+  "numberOfDownloads": 243,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/reachblock.86733/history",
+  "gitUrl": "https://github.com/JackaBoiGamez/ReachBlock",
+  "releaseDate": 1607981520000,
+  "updateDate": 1654970580000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

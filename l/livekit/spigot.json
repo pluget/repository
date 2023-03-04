@@ -1,0 +1,22 @@
+{
+  "id": 88742,
+  "url": "https://www.spigotmc.org/resources/livekit.88742/",
+  "name": "LiveKit",
+  "description": "Real Time Live Map and Admin Tools",
+  "authors": [
+    "xStachelbaer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88742.jpg?1623143191",
+  "iconCid": "bafkreicr3hb5a5xr442m7s2wdca7gnxd7dbwl2wc7oq2jc62u47ltrqrqu",
+  "numberOfDownloads": 13109,
+  "rating": 4.8,
+  "numberOfVotes": 25,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/livekit.88742/history",
+  "releaseDate": 1612643100000,
+  "updateDate": 1651998120000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

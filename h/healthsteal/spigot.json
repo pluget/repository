@@ -1,0 +1,21 @@
+{
+  "id": 102822,
+  "url": "https://www.spigotmc.org/resources/healthsteal.102822/",
+  "name": "HealthSteal",
+  "description": "Steal health on damage!",
+  "authors": [
+    "IkeVoodoo"
+  ],
+  "numberOfDownloads": 48,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/healthsteal.102822/history",
+  "gitUrl": "https://github.com/IkeVoodoo/HealthSteal",
+  "releaseDate": 1655966580000,
+  "updateDate": 1655966580000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

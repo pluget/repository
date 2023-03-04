@@ -1,0 +1,27 @@
+{
+  "id": 97163,
+  "url": "https://www.spigotmc.org/resources/clanslite-1-19-3-support.97163/",
+  "name": "ClansLite | 1.19.3 SUPPORT! |",
+  "description": "A simple clans plugin for Minecraft",
+  "authors": [
+    "Loving11ish"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97163.jpg?1650107623",
+  "iconCid": "bafkreibkjyvjworbb7zckhnhat55h55im67cd6rg4ggay5xydk4jlheci4",
+  "numberOfDownloads": 3592,
+  "rating": 4.6,
+  "numberOfVotes": 13,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/clanslite-1-19-3-support.97163/history",
+  "gitUrl": "https://github.com/Loving11ish/ClansLite/tree/master",
+  "releaseDate": 1677505740000,
+  "updateDate": 1677505740000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

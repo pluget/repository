@@ -1,0 +1,27 @@
+{
+  "id": 80805,
+  "url": "https://www.spigotmc.org/resources/big-doors-opener.80805/",
+  "name": "Big Doors Opener",
+  "description": "Add-on for Big Doors. Control when a door should open by combining several conditions.",
+  "authors": [
+    "Eldoria"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80805.jpg?1603135167",
+  "iconCid": "bafkreigazkslae62j6wi25qu4tc2gsi2knr4igmg6ns4mnkhjrxtktlbxy",
+  "numberOfDownloads": 8627,
+  "rating": 4.9,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/big-doors-opener.80805/history",
+  "gitUrl": "https://github.com/eldoriarpg/BigDoorOpener",
+  "releaseDate": 1593359520000,
+  "updateDate": 1663528500000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

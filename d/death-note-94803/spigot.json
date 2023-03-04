@@ -1,0 +1,23 @@
+{
+  "id": 94803,
+  "url": "https://www.spigotmc.org/resources/death-note.94803/",
+  "name": "Death Note",
+  "description": "Kill your friends in fun and creative ways with a Death Note! Create your own deaths!",
+  "authors": [
+    "Abraxas"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94803.jpg?1627605846",
+  "iconCid": "bafkreifbg3hwbxsu5z5sencagu4z5o3k3im5mue7dctmagtnoshqwjf3vm",
+  "numberOfDownloads": 810,
+  "rating": 4,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/death-note.94803/history",
+  "gitUrl": "https://github.com/Steel-Dev/DeathNote",
+  "releaseDate": 1627602180000,
+  "updateDate": 1652921760000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

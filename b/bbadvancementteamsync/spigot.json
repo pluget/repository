@@ -1,0 +1,23 @@
+{
+  "id": 108238,
+  "url": "https://www.spigotmc.org/resources/bbadvancementteamsync.108238/",
+  "name": "BBAdvancementTeamSync",
+  "description": "Addon to sync teams between UltimateAdvancementAPI and BentoBox.",
+  "authors": [
+    "EscanorTargaryen"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108238.jpg?1677286487",
+  "iconCid": "bafkreieit4fnzlglntxkppesffdb5pigipy6ut6rzijyq365w45s5bcdxm",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bbadvancementteamsync.108238/history",
+  "gitUrl": "https://github.com/EscanorTargaryen/BBAdvancementTeamSync",
+  "releaseDate": 1677282840000,
+  "updateDate": 1677282840000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

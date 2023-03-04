@@ -1,0 +1,25 @@
+{
+  "id": 59638,
+  "url": "https://www.spigotmc.org/resources/configlib.59638/",
+  "name": "ConfigLib",
+  "description": "A Minecraft library for saving, loading, updating, and commenting YAML configuration files",
+  "authors": [
+    "Exlll"
+  ],
+  "numberOfDownloads": 339,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/configlib.59638/history",
+  "gitUrl": "https://github.com/Exlll/ConfigLib/",
+  "releaseDate": 1533774900000,
+  "updateDate": 1661170860000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

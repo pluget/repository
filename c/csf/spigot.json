@@ -1,0 +1,33 @@
+{
+  "id": 95657,
+  "url": "https://www.spigotmc.org/resources/csf-bungee-consolespamfix-in-bungeecord.95657/",
+  "name": "CSF-Bungee - ConsoleSpamFix in BungeeCord",
+  "description": "ConsoleSpamFix for BungeeCord!",
+  "authors": [
+    "Ghost_chu"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95657.jpg?1629873515",
+  "iconCid": "bafkreib6l5t7vjokn3uinx74ayuubxaf2szqsma3kv7svwopafpzeklnwu",
+  "numberOfDownloads": 421,
+  "rating": 4,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/csf-bungee-consolespamfix-in-bungeecord.95657/history",
+  "gitUrl": "https://github.com/Ghost-chu/CSF-Bungee",
+  "releaseDate": 1629869880000,
+  "updateDate": 1656507960000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

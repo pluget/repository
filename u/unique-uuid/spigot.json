@@ -1,0 +1,22 @@
+{
+  "id": 102534,
+  "url": "https://www.spigotmc.org/resources/unique-uuid.102534/",
+  "name": "Unique UUID",
+  "description": "Prevent UUID conflict on Geyser server",
+  "authors": [
+    "Fang_Zhijian"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102534.jpg?1654926492",
+  "iconCid": "bafkreickkxt64edvlynmndr5ugugq5u23xjmzo4pnde5kybjfch65dpvli",
+  "numberOfDownloads": 111,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/unique-uuid.102534/history",
+  "gitUrl": "https://github.com/klxf/UniqueUUID",
+  "releaseDate": 1654922880000,
+  "updateDate": 1655028540000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

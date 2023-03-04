@@ -1,0 +1,24 @@
+{
+  "id": 106636,
+  "url": "https://www.spigotmc.org/resources/conxeptworks-model-engine-molang-extension-meg-r3-1-1.106636/",
+  "name": "[ConxeptWorks] Model Engine MoLang Extension [MEG R3.1.1+]",
+  "description": "Add support to MoLang keyframes",
+  "authors": [
+    "Ticxo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106636.jpg?1670544417",
+  "iconCid": "bafkreidxmcm2b7z6ul7rl2x57hjz74wfest7ebiqltan7sbhselmw6ere4",
+  "numberOfDownloads": 75,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/conxeptworks-model-engine-molang-extension-meg-r3-1-1.106636/history",
+  "gitUrl": "https://git.lumine.io/mythiccraft/meg-molang-extension",
+  "releaseDate": 1677866640000,
+  "updateDate": 1677866640000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

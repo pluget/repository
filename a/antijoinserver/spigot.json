@@ -1,0 +1,30 @@
+{
+  "id": 102285,
+  "url": "https://www.spigotmc.org/resources/antijoinserver.102285/",
+  "name": "AntiJoinServer",
+  "description": "Anti your player from entering the server in maintenance mode.",
+  "authors": [
+    "konsheng"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102285.jpg?1653879923",
+  "iconCid": "bafkreidsma33mxwmqnkyijhk5i7makrbnhhn7bylldrlfxuafnbqo2ft6m",
+  "numberOfDownloads": 62,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antijoinserver.102285/history",
+  "releaseDate": 1653824700000,
+  "updateDate": 1653824700000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 108315,
+  "url": "https://www.spigotmc.org/resources/nodurability.108315/",
+  "name": "NoDurability",
+  "description": "Removes the entire durability mechanic.",
+  "authors": [
+    "Kustled"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108315.jpg?1677688720",
+  "iconCid": "bafkreignclryx2wjoytwgq4la2a3elfda7pcnbo7tskvbgoyqkmgorh6bm",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nodurability.108315/history",
+  "gitUrl": "https://github.com/Kustled/NoDurability",
+  "releaseDate": 1677685080000,
+  "updateDate": 1677685080000,
+  "versions": [
+    "1.19"
+  ]
+}

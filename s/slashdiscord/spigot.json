@@ -1,0 +1,30 @@
+{
+  "id": 102047,
+  "url": "https://www.spigotmc.org/resources/slashdiscord.102047/",
+  "name": "SlashDiscord",
+  "description": "Simple plugin that enables the use of /discord",
+  "authors": [
+    "SICKOMC"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102047.jpg?1652767556",
+  "iconCid": "bafkreieygtwklpmd6l6tr3bgucxpzm3rntwfd3chtgetz4et2moqe2ymlq",
+  "numberOfDownloads": 55,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/slashdiscord.102047/history",
+  "releaseDate": 1652763900000,
+  "updateDate": 1652864820000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

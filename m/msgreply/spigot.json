@@ -1,0 +1,30 @@
+{
+  "id": 101959,
+  "url": "https://www.spigotmc.org/resources/msgreply.101959/",
+  "name": "MsgReply",
+  "description": "Custom reply for player's message",
+  "authors": [
+    "p1xEL_mc"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101959.jpg?1652347221",
+  "iconCid": "bafkreihjrg2izfechqwuw6avgz6xkv227d2bh4jkofo35bif6qh5xhyjxi",
+  "numberOfDownloads": 33,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/msgreply.101959/history",
+  "releaseDate": 1652343600000,
+  "updateDate": 1653732540000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 94236,
+  "url": "https://www.spigotmc.org/resources/logger-1-7-1-19.94236/",
+  "name": "Logger | 1.7 ~ 1.19",
+  "description": "Log all Activities from Players and Server Side on both Bukkit and Proxy instances!",
+  "authors": [
+    "Prism3"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94236.jpg?1626212621",
+  "iconCid": "bafkreidjvxk67kz3uqnfdpfyc2q7qbv4rqyg5tq5gkxtohov3wyiihtbli",
+  "numberOfDownloads": 8830,
+  "rating": 4.9,
+  "numberOfVotes": 35,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/logger-1-7-1-19.94236/history",
+  "gitUrl": "https://github.com/ExceptedPrism3/Logger",
+  "releaseDate": 1626208740000,
+  "updateDate": 1656769080000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

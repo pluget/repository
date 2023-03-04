@@ -1,0 +1,22 @@
+{
+  "id": 97263,
+  "url": "https://www.spigotmc.org/resources/block-piglins-transformation.97263/",
+  "name": "Block Piglins Transformation",
+  "description": "Block the piglins transformation in the normal world",
+  "authors": [
+    "Ssomar"
+  ],
+  "numberOfDownloads": 57,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/block-piglins-transformation.97263/history",
+  "gitUrl": "https://github.com/Ssomar-Developement/BlockPiglinsTransformation",
+  "releaseDate": 1635589920000,
+  "updateDate": 1656058560000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

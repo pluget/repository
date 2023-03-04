@@ -1,0 +1,20 @@
+{
+  "id": 66738,
+  "url": "https://www.spigotmc.org/resources/jumpcube.66738/",
+  "name": "JumpCube",
+  "description": "Continuation of the DeathCube minigame",
+  "authors": [
+    "Kaleidox"
+  ],
+  "numberOfDownloads": 130,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/jumpcube.66738/history",
+  "gitUrl": "https://github.com/burdoto/jumpcube",
+  "releaseDate": 1555846200000,
+  "updateDate": 1656844860000,
+  "versions": [
+    "1.13",
+    "1.19"
+  ]
+}

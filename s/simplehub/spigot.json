@@ -1,0 +1,22 @@
+{
+  "id": 88930,
+  "url": "https://www.spigotmc.org/resources/simplehub.88930/",
+  "name": "SimpleHub",
+  "description": "The easiest /hub command ever.",
+  "authors": [
+    "hyperdefined"
+  ],
+  "numberOfDownloads": 136,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplehub.88930/history",
+  "gitUrl": "https://github.com/hyperdefined/SimpleHub",
+  "releaseDate": 1613084880000,
+  "updateDate": 1654736460000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

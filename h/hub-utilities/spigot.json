@@ -1,0 +1,21 @@
+{
+  "id": 102834,
+  "url": "https://www.spigotmc.org/resources/hub-utilities.102834/",
+  "name": "Hub Utilities",
+  "description": "Lobby Manager for your server",
+  "authors": [
+    "Kelopy"
+  ],
+  "numberOfDownloads": 34,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hub-utilities.102834/history",
+  "gitUrl": "https://github.com/Kelopy/hub-utilities",
+  "releaseDate": 1656003420000,
+  "updateDate": 1656003420000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14"
+  ]
+}

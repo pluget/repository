@@ -1,0 +1,26 @@
+{
+  "id": 64649,
+  "url": "https://www.spigotmc.org/resources/hubselector.64649/",
+  "name": "HubSelector",
+  "description": "A plugin that gives you a Hub Selector on login, your choice left or right click it runs a command",
+  "authors": [
+    "Ironic_8b49"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/64/64649.jpg?1644000381",
+  "iconCid": "bafkreibuibweh7tjxr3v6v4f3jzdfargrf4lx5nqfaifjbl4c66jrrjwgi",
+  "numberOfDownloads": 1099,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hubselector.64649/history",
+  "releaseDate": 1549501500000,
+  "updateDate": 1655118360000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 87062,
+  "url": "https://www.spigotmc.org/resources/mctag.87062/",
+  "name": "McTag",
+  "description": "Tag Minigame",
+  "authors": [
+    "BrandonT80"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87062.jpg?1623624089",
+  "iconCid": "bafkreiclzjgvfhpgpl444murhkelv43k5gjk74wggzq47it3wjpeqwxx7q",
+  "numberOfDownloads": 303,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mctag.87062/history",
+  "releaseDate": 1608869100000,
+  "updateDate": 1655152860000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 80409,
+  "url": "https://www.spigotmc.org/resources/random-sky-block.80409/",
+  "name": "Random Sky Block",
+  "description": "Gives players a random block or item on an interval.",
+  "authors": [
+    "Klikini"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80409.jpg?1592613892",
+  "iconCid": "bafkreiaz4sy6zf25lzma7mh6dpfqh76ligwsbeymg7t74k55qrbx5hceua",
+  "numberOfDownloads": 266,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/random-sky-block.80409/history",
+  "gitUrl": "https://gitlab.com/klikini/randomskyblock/-/tree/trunk",
+  "releaseDate": 1592610240000,
+  "updateDate": 1656285720000,
+  "versions": [
+    "1.14",
+    "1.15"
+  ]
+}

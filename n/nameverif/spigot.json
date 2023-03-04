@@ -1,0 +1,33 @@
+{
+  "id": 95719,
+  "url": "https://www.spigotmc.org/resources/nameverif.95719/",
+  "name": "NameVerif",
+  "description": "A simple plugin that checks for player names, and kicks them followed by a message!",
+  "authors": [
+    "Prism3"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95719.jpg?1630017175",
+  "iconCid": "bafkreibsokjaiwrlsj6zp7ietgamk2fqqnifxfjaof6ql2oinrjcd7vhh4",
+  "numberOfDownloads": 245,
+  "rating": 4.3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nameverif.95719/history",
+  "gitUrl": "https://github.com/ExceptedPrism3/Name-Verification",
+  "releaseDate": 1630013460000,
+  "updateDate": 1657289220000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

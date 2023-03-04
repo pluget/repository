@@ -1,0 +1,33 @@
+{
+  "id": 101415,
+  "url": "https://www.spigotmc.org/resources/gamemodecommand.101415/",
+  "name": "GamemodeCommand",
+  "description": "Easier To Change Your Gamemode",
+  "authors": [
+    "ShingWong08"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101415.jpg?1650122273",
+  "iconCid": "bafkreib4ddabu3ipozwwpt2wcm3vakpp5uipczedyz4ajtzz3dartwqrl4",
+  "numberOfDownloads": 67,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gamemodecommand.101415/history",
+  "gitUrl": "https://github.com/ShingWong08/Spigot/tree/main/Plugin",
+  "releaseDate": 1650116220000,
+  "updateDate": 1652697480000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

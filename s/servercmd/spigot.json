@@ -1,0 +1,31 @@
+{
+  "id": 75834,
+  "url": "https://www.spigotmc.org/resources/servercmd.75834/",
+  "name": "ServerCMD",
+  "description": "Makes /server cleaner",
+  "authors": [
+    "Danny2362"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75834.jpg?1583622309",
+  "iconCid": "bafkreiczqcq7fsa5o4wslzers6osiovncsaphkmhnt4jcn73icmf3kwxdm",
+  "numberOfDownloads": 2983,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/servercmd.75834/history",
+  "gitUrl": "https://github.com/DanPlayz0/ServerCMD",
+  "releaseDate": 1583618640000,
+  "updateDate": 1652926200000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

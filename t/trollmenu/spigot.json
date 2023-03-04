@@ -1,0 +1,25 @@
+{
+  "id": 102811,
+  "url": "https://www.spigotmc.org/resources/trollmenu.102811/",
+  "name": "Trollmenu",
+  "description": "Das du spieler nerven kannst :D",
+  "authors": [
+    "lolertop"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102811.jpg?1655919681",
+  "iconCid": "bafkreihr5nocbr5diz67556erku7sluwkmey6qago2nvk67nffyyctzhnm",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/trollmenu.102811/history",
+  "gitUrl": "https://github.com/lolertop/Trollmenu",
+  "releaseDate": 1655916060000,
+  "updateDate": 1655916060000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12"
+  ]
+}

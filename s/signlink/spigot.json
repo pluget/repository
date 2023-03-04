@@ -1,0 +1,32 @@
+{
+  "id": 39593,
+  "url": "https://www.spigotmc.org/resources/signlink.39593/",
+  "name": "SignLink",
+  "description": "Display generated text and variables on signs dynamically",
+  "authors": [
+    "TeamBergerhealer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/39/39593.jpg?1501016337",
+  "iconCid": "bafkreigndrrd2hkttjpdrb62vhvjgd6mkein2zaqqc6eiru6cg4etp4rba",
+  "numberOfDownloads": 10124,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/signlink.39593/history",
+  "gitUrl": "https://github.com/bergerhealer/SignLink",
+  "releaseDate": 1492388340000,
+  "updateDate": 1677106140000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

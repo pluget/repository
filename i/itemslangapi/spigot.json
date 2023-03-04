@@ -1,0 +1,32 @@
+{
+  "id": 102979,
+  "url": "https://www.spigotmc.org/resources/itemslangapi.102979/",
+  "name": "ItemsLangAPI",
+  "description": "Translate almost any game object to any language you like.",
+  "authors": [
+    "Rubix327"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102979.jpg?1656493340",
+  "iconCid": "bafkreihfevddsx7svbcyxhtycr2dbuyjdhb42d7p4ex5ox7zgqfrn4ioqq",
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/itemslangapi.102979/history",
+  "gitUrl": "https://github.com/Rubix327/ItemsLangAPI",
+  "releaseDate": 1656488940000,
+  "updateDate": 1656488940000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

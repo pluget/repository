@@ -1,0 +1,32 @@
+{
+  "id": 100393,
+  "url": "https://www.spigotmc.org/resources/otter-antivpn-unlimited-ip-checks.100393/",
+  "name": "| Otter AntiVPN | Unlimited IP Checks |",
+  "description": "No need to pay for subscriptions ANYMORE!",
+  "authors": [
+    "OwlTech"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100393.jpg?1646168840",
+  "iconCid": "bafkreigvsw34nbooxfnulledbsh2nxoxhoryyoec5cvl3ggv6qcfatkq2q",
+  "numberOfDownloads": 581,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/otter-antivpn-unlimited-ip-checks.100393/history",
+  "gitUrl": "https://github.com/Owl-Technology/AntiVPNPlugin",
+  "releaseDate": 1646165220000,
+  "updateDate": 1660693200000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

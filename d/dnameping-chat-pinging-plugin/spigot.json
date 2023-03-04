@@ -1,0 +1,25 @@
+{
+  "id": 102621,
+  "url": "https://www.spigotmc.org/resources/dnameping-chat-pinging-plugin.102621/",
+  "name": "DNamePing Chat Pinging Plugin",
+  "description": "Chat Pinging Plugin",
+  "authors": [
+    "Wersebu"
+  ],
+  "numberOfDownloads": 26,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dnameping-chat-pinging-plugin.102621/history",
+  "gitUrl": "https://github.com/Defective4/DNamePing",
+  "releaseDate": 1655223540000,
+  "updateDate": 1655223540000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

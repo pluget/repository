@@ -1,0 +1,29 @@
+{
+  "id": 37524,
+  "url": "https://www.spigotmc.org/resources/skychanger.37524/",
+  "name": "SkyChanger",
+  "description": "Change the color of your personal sky.",
+  "authors": [
+    "TheKraken7"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/37/37524.jpg?1488957168",
+  "iconCid": "bafkreiafugdyu6n57bxvp4wjm5lymrqiic6zeggjt7pspvzbkrhhvdgy3e",
+  "numberOfDownloads": 8900,
+  "rating": 4.2,
+  "numberOfVotes": 17,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skychanger.37524/history",
+  "gitUrl": "https://github.com/dscalzi/SkyChanger",
+  "releaseDate": 1488953520000,
+  "updateDate": 1652402160000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

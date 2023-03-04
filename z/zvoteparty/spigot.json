@@ -1,0 +1,32 @@
+{
+  "id": 95603,
+  "url": "https://www.spigotmc.org/resources/zvoteparty-voting-plugin.95603/",
+  "name": "zVoteParty - Voting plugin",
+  "description": "Vote Reward - Vote Party - Multi server support (with redis) !",
+  "authors": [
+    "Maxlego08"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95603.jpg?1629735205",
+  "iconCid": "bafkreiga4nwift645zfk727fn4fyi6rj5yozwkpi3k5bh2splg5xskqswy",
+  "numberOfDownloads": 2338,
+  "rating": 4.5,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/zvoteparty-voting-plugin.95603/history",
+  "gitUrl": "https://github.com/Maxlego08/zVoteParty",
+  "releaseDate": 1629731580000,
+  "updateDate": 1665906360000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

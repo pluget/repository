@@ -1,0 +1,31 @@
+{
+  "id": 73520,
+  "url": "https://www.spigotmc.org/resources/betterrandomteleport.73520/",
+  "name": "BetterRandomTeleport",
+  "description": "BRTP is a lightweight plugin to randomly teleport a player across the server's dimensions",
+  "authors": [
+    "Corazun"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/73/73520.jpg?1604856919",
+  "iconCid": "bafkreifa6y27rmtbcxbjpkjas5qfoz65uibij6oi7wjwzl6sl2mgghogw4",
+  "numberOfDownloads": 343,
+  "rating": 3.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterrandomteleport.73520/history",
+  "gitUrl": "https://github.com/Corazun/BetterRandomTeleport",
+  "releaseDate": 1576610820000,
+  "updateDate": 1654530300000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

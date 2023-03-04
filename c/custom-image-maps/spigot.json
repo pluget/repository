@@ -1,0 +1,21 @@
+{
+  "id": 103200,
+  "url": "https://www.spigotmc.org/resources/custom-image-maps.103200/",
+  "name": "Custom Image Maps",
+  "description": "A plugin that can take images from the internet and render them on in-game maps",
+  "authors": [
+    "SmexyLuke"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103200.jpg?1657256354",
+  "iconCid": "bafkreibg5xtj7aka7osbrw44eejdyzv7digignw4l73djweptk4tebb6um",
+  "numberOfDownloads": 459,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/custom-image-maps.103200/history",
+  "gitUrl": "https://github.com/nulLuke/ImageMapRenderer",
+  "releaseDate": 1657252680000,
+  "updateDate": 1657355940000,
+  "versions": [
+    "1.19"
+  ]
+}

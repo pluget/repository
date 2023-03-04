@@ -1,0 +1,22 @@
+{
+  "id": 102638,
+  "url": "https://www.spigotmc.org/resources/melted-ores-drop-1-18x-1-19.102638/",
+  "name": "Melted Ores Drop [1.18x - 1.19]",
+  "description": "This plugin will melt the items you break",
+  "authors": [
+    "SpexDark_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102638.jpg?1655273261",
+  "iconCid": "bafkreidqyr5w6ctycjs2oibik6u25tfnqrfmi6iddxpz27ymu5faebih2m",
+  "numberOfDownloads": 92,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/melted-ores-drop-1-18x-1-19.102638/history",
+  "gitUrl": "https://github.com/IftekharAhmedS/MeltedOresDrop",
+  "releaseDate": 1655269620000,
+  "updateDate": 1655996760000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

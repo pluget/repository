@@ -1,0 +1,22 @@
+{
+  "id": 98316,
+  "url": "https://www.spigotmc.org/resources/noikzfly-currently-semi-abandoned.98316/",
+  "name": "NoikzFly [CURRENTLY SEMI-ABANDONED]",
+  "description": "A fly plugin for 1.18 and 1.19",
+  "authors": [
+    "NoikzGaming"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98316.jpg?1639339570",
+  "iconCid": "bafkreic6yatkvtom3ftdwls4nv27xl3mpdcuzpqs2iuatybj5pwwocvf6q",
+  "numberOfDownloads": 81,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/noikzfly-currently-semi-abandoned.98316/history",
+  "gitUrl": "https://github.com/NoikzGaming/NoikzFly",
+  "releaseDate": 1639313940000,
+  "updateDate": 1656287520000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

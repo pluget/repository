@@ -1,0 +1,22 @@
+{
+  "id": 103259,
+  "url": "https://www.spigotmc.org/resources/cmotd.103259/",
+  "name": "CMotd",
+  "description": "Solte sua Imaginação Personalize seu Motd!",
+  "authors": [
+    "CatValentine"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103259.jpg?1657474098",
+  "iconCid": "bafkreidqgtgxdbvyw7r2okf4ojjnznnu6ey7wwjmszvs3nieijbyejrd3a",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cmotd.103259/history",
+  "gitUrl": "https://github.com/CatValentine-Dev/CMotd",
+  "releaseDate": 1657470300000,
+  "updateDate": 1657470300000,
+  "versions": [
+    "1.8",
+    "1.9"
+  ]
+}

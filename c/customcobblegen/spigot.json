@@ -1,0 +1,23 @@
+{
+  "id": 70736,
+  "url": "https://www.spigotmc.org/resources/customcobblegen-now-supports-basalt-generators-1-17-1-19.70736/",
+  "name": "CustomCobbleGen - Now Supports Basalt Generators [1.17-1.19]",
+  "description": "Make custom cobblestone generators that depend on a players tier/rank",
+  "authors": [
+    "phil14052"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/70/70736.jpg?1566733874",
+  "iconCid": "bafkreidybzqoxuzjfbgctsvoaea3wuo3xagjedkatrayxjoqoqumfhjrtu",
+  "numberOfDownloads": 9723,
+  "rating": 4.8,
+  "numberOfVotes": 20,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/customcobblegen-now-supports-basalt-generators-1-17-1-19.70736/history",
+  "gitUrl": "https://github.com/phil14052/CustomCobbleGen",
+  "releaseDate": 1566730260000,
+  "updateDate": 1674120180000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

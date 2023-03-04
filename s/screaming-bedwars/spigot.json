@@ -1,0 +1,32 @@
+{
+  "id": 63714,
+  "url": "https://www.spigotmc.org/resources/screaming-bedwars-1-8-8-1-19-2.63714/",
+  "name": "Screaming BedWars [1.8.8 - 1.19.2]",
+  "description": "BedWars/EggWars/AnchorWars/CakeWars minigame compatible with all versions since 1.8+",
+  "authors": [
+    "ScreamingSandals"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/63/63714.jpg?1548607527",
+  "iconCid": "bafkreiguujvnixt6dbpwskosctydaq77gintj2nybmeev3amwaii2gttuq",
+  "numberOfDownloads": 370952,
+  "rating": 4.5,
+  "numberOfVotes": 225,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/screaming-bedwars-1-8-8-1-19-2.63714/history",
+  "gitUrl": "https://github.com/ScreamingSandals/BedWars",
+  "releaseDate": 1546433760000,
+  "updateDate": 1670698740000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

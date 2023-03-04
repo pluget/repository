@@ -1,0 +1,23 @@
+{
+  "id": 105792,
+  "url": "https://www.spigotmc.org/resources/simpleutils.105792/",
+  "name": "SimpleUtils",
+  "description": "Screw having 69420 million plugins in your server, just use this one plugin all in one!",
+  "authors": [
+    "ItziSpyder"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105792.jpg?1667164363",
+  "iconCid": "bafkreig75tr6wvikh4yhsbyfxsioeh6bo5qz7zcw7l54dtufkslmgb6ypi",
+  "numberOfDownloads": 125,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simpleutils.105792/history",
+  "gitUrl": "https://github.com/ItziSpyder/SimpleUtils",
+  "releaseDate": 1665879540000,
+  "updateDate": 1668929280000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

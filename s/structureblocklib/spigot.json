@@ -1,0 +1,31 @@
+{
+  "id": 28550,
+  "url": "https://www.spigotmc.org/resources/structureblocklib-api-1-9-1-19.28550/",
+  "name": "StructureBlockLib [API|1.9-1.19]",
+  "description": "StructureBlockLib is a bukkit implementation for handling structures on spigot server.",
+  "authors": [
+    "Shynixn"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/28/28550.jpg?1472401528",
+  "iconCid": "bafkreigc6zjw7kyi6rg7xdh6u2bblq4vollln6xf3hbqwoumqyud4mikja",
+  "numberOfDownloads": 2083,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/structureblocklib-api-1-9-1-19.28550/history",
+  "gitUrl": "https://github.com/Shynixn/StructureBlockLib",
+  "releaseDate": 1472397540000,
+  "updateDate": 1654692120000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

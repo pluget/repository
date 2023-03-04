@@ -1,0 +1,22 @@
+{
+  "id": 102633,
+  "url": "https://www.spigotmc.org/resources/deathpacks.102633/",
+  "name": "DeathPacks",
+  "description": "Conveniently collect configured loot into a virtual pack on death :o",
+  "authors": [
+    "SenseiJu"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102633.jpg?1655249068",
+  "iconCid": "bafkreichbk32neiy24auwqjj5orsq2w34lapfcna33zqma6nknltcmljhi",
+  "numberOfDownloads": 36,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/deathpacks.102633/history",
+  "gitUrl": "https://github.com/SenseiJu/DeathPacks",
+  "releaseDate": 1655244840000,
+  "updateDate": 1655244840000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

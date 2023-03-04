@@ -1,0 +1,23 @@
+{
+  "id": 99449,
+  "url": "https://www.spigotmc.org/resources/chicken-shedder.99449/",
+  "name": "Chicken Shedder",
+  "description": "Chicken Shedder is a plugin that makes chicken sheds 1 to 3 feather when they lay egg.",
+  "authors": [
+    "vaatik"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99449.jpg?1642961727",
+  "iconCid": "bafkreif2ziux6gzu5cc5cgr7ymgusnimsmak3uqnpalgart73vjkstu2lq",
+  "numberOfDownloads": 387,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chicken-shedder.99449/history",
+  "gitUrl": "https://github.com/Vaatik/chicken-shedder",
+  "releaseDate": 1642956060000,
+  "updateDate": 1655257800000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

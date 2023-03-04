@@ -1,0 +1,24 @@
+{
+  "id": 79720,
+  "url": "https://www.spigotmc.org/resources/autoplant-world-guard-dependency-v7-0-7.79720/",
+  "name": "AutoPlant [World Guard Dependency - v7.0.7]",
+  "description": "Automatically replants crops and trees when harvested in a world guard region.",
+  "authors": [
+    "TheMindDroid"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79720.jpg?1591337633",
+  "iconCid": "bafkreidp2rotsry4zabey2sr5szqsazohnqtjzxgjcb4qkzkpcswy4lm6e",
+  "numberOfDownloads": 4484,
+  "rating": 4.5,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/autoplant-world-guard-dependency-v7-0-7.79720/history",
+  "gitUrl": "https://github.com/TheMindDroid/AutoPlant",
+  "releaseDate": 1591333980000,
+  "updateDate": 1657480020000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

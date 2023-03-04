@@ -1,0 +1,23 @@
+{
+  "id": 102564,
+  "url": "https://www.spigotmc.org/resources/discord-event-sync.102564/",
+  "name": "Discord Event Sync",
+  "description": "Sync your discord event's to your minecraft server",
+  "authors": [
+    "TheDutchRuben"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102564.jpg?1655050187",
+  "iconCid": "bafkreib7pdr5l3eqjv7sgngvccmugodfjrei43lhhtc5fj63mcbbv5rucq",
+  "numberOfDownloads": 28,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discord-event-sync.102564/history",
+  "gitUrl": "https://github.com/thedutchruben/discord-minecraft-eventsync",
+  "releaseDate": 1655046540000,
+  "updateDate": 1655046540000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 65751,
+  "url": "https://www.spigotmc.org/resources/broadcastdonate.65751/",
+  "name": "BroadcastDonate",
+  "description": "Broadcast message about new donate",
+  "authors": [
+    "SPY_me"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/65/65751.jpg?1552941711",
+  "iconCid": "bafkreiew6zusqynghu2xhgghy7uwpeur3cucagb43ycvmdpwduli3yb3qi",
+  "numberOfDownloads": 90,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/broadcastdonate.65751/history",
+  "gitUrl": "https://github.com/SPYmeYT/BroadcastDonate",
+  "releaseDate": 1552938060000,
+  "updateDate": 1671662700000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

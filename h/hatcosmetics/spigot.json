@@ -1,0 +1,24 @@
+{
+  "id": 83111,
+  "url": "https://www.spigotmc.org/resources/hatcosmetics.83111/",
+  "name": "HatCosmetics",
+  "description": "An easy way to implement resource pack models as hats!",
+  "authors": [
+    "Tonus_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83111.jpg?1598306396",
+  "iconCid": "bafkreifllvln7tthcxrfeffqs3o573lhxpnb7gvq54yzuny6srobcsoyta",
+  "numberOfDownloads": 3307,
+  "rating": 4.6,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hatcosmetics.83111/history",
+  "gitUrl": "https://gitlab.com/Tonus_/hatcosmetics",
+  "releaseDate": 1598302740000,
+  "updateDate": 1655324700000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

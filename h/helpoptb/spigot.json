@@ -1,0 +1,32 @@
+{
+  "id": 108278,
+  "url": "https://www.spigotmc.org/resources/helpoptb.108278/",
+  "name": "HelpOPTB",
+  "description": "Simple plugin to communicate with the administration.",
+  "authors": [
+    "TechBrat"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108278.jpg?1677449301",
+  "iconCid": "bafkreicic34imrvvvl5eybybxfkkisrcmzoq3yjwc3lzzmglwaarkaf64a",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/helpoptb.108278/history",
+  "gitUrl": "https://github.com/MiloszBratkowski/HelpOPTB",
+  "releaseDate": 1677445680000,
+  "updateDate": 1677445680000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 101003,
+  "url": "https://www.spigotmc.org/resources/chatcontrol.101003/",
+  "name": "ChatControl",
+  "description": "A lightweight, simple and open source chat management plugin",
+  "authors": [
+    "Busta"
+  ],
+  "numberOfDownloads": 204,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatcontrol.101003/history",
+  "gitUrl": "https://gitlab.com/artel/ChatControl",
+  "releaseDate": 1648373160000,
+  "updateDate": 1654850160000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

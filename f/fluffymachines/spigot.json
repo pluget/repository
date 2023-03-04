@@ -1,0 +1,22 @@
+{
+  "id": 87310,
+  "url": "https://www.spigotmc.org/resources/fluffymachines-a-slimefun4-addon.87310/",
+  "name": "FluffyMachines (A Slimefun4 Addon)",
+  "description": "Includes the Auto Crafting Table, Auto Ancient Altar, Ender Chest Cargo Nodes, and more!",
+  "authors": [
+    "NCBPFluffyBear"
+  ],
+  "numberOfDownloads": 596,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fluffymachines-a-slimefun4-addon.87310/history",
+  "gitUrl": "https://github.com/NCBPFluffyBear/FluffyMachines/",
+  "releaseDate": 1609442880000,
+  "updateDate": 1656215100000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

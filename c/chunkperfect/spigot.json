@@ -1,0 +1,19 @@
+{
+  "id": 108147,
+  "url": "https://www.spigotmc.org/resources/chunkperfect.108147/",
+  "name": "ChunkPerfect",
+  "description": "Generate chunks in a world and keep chunks loaded",
+  "authors": [
+    "lorenzo42p"
+  ],
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chunkperfect.108147/history",
+  "gitUrl": "https://github.com/PoiXson/ChunkPerfect-mirror",
+  "releaseDate": 1676942520000,
+  "updateDate": 1676942520000,
+  "versions": [
+    "1.19"
+  ]
+}

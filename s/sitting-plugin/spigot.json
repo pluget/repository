@@ -1,0 +1,23 @@
+{
+  "id": 87293,
+  "url": "https://www.spigotmc.org/resources/1-18-support-sitting-plugin.87293/",
+  "name": "[1.18 Support!!] Sitting Plugin",
+  "description": "Plugin that allows your character to sit on the ground.",
+  "authors": [
+    "Marvin2k0"
+  ],
+  "numberOfDownloads": 18986,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/1-18-support-sitting-plugin.87293/history",
+  "gitUrl": "https://github.com/MPlugins/MSit",
+  "releaseDate": 1609412940000,
+  "updateDate": 1653205560000,
+  "versions": [
+    "1.12",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

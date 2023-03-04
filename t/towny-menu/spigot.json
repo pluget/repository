@@ -1,0 +1,24 @@
+{
+  "id": 103260,
+  "url": "https://www.spigotmc.org/resources/towny-menu-update.103260/",
+  "name": "Towny Menu - Update",
+  "description": "Manage Towny towns and plots easily using a GUI",
+  "authors": [
+    "Cobrex"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103260.jpg?1657475711",
+  "iconCid": "bafkreieu77q2jwdseznuw2gprzhgdihf6zswo7hwg5uwjvqusqifms2yd4",
+  "numberOfDownloads": 1008,
+  "rating": 5,
+  "numberOfVotes": 14,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/towny-menu-update.103260/history",
+  "gitUrl": "https://github.com/cobrex1/TownyMenu",
+  "releaseDate": 1657472040000,
+  "updateDate": 1675443060000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

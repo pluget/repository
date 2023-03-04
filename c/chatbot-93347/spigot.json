@@ -1,0 +1,32 @@
+{
+  "id": 93347,
+  "url": "https://www.spigotmc.org/resources/chatbot-in-game-configurable.93347/",
+  "name": "ChatBot [In game configurable!]",
+  "description": "ChatBot is a bot that answers messages in the chat. Fully customizable and translatable",
+  "authors": [
+    "MatiRosen"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93347.jpg?1623777382",
+  "iconCid": "bafkreiakngrgnyy7cnlfde62gzr6tsqbobknlckhexiviyiexz6w4wfaka",
+  "numberOfDownloads": 302,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatbot-in-game-configurable.93347/history",
+  "gitUrl": "https://github.com/MatiRosen/chatbot",
+  "releaseDate": 1677368280000,
+  "updateDate": 1677368280000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

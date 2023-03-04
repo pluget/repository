@@ -1,0 +1,22 @@
+{
+  "id": 102393,
+  "url": "https://www.spigotmc.org/resources/imdiscordstaff.102393/",
+  "name": "IMDiscordStaff",
+  "description": "This is a bungeecord and spigot interaction staff login plugin.",
+  "authors": [
+    "MaxPower"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102393.jpg?1654209785",
+  "iconCid": "bafkreibqzpkydpj53tcq5ucy46tbbihi3j3r5hql4iwyjxl4se4ynvoml4",
+  "numberOfDownloads": 107,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/imdiscordstaff.102393/history",
+  "releaseDate": 1654205880000,
+  "updateDate": 1654638900000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.18"
+  ]
+}

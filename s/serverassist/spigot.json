@@ -1,0 +1,31 @@
+{
+  "id": 104389,
+  "url": "https://www.spigotmc.org/resources/serverassist.104389/",
+  "name": "ServerAssist",
+  "description": "A plugin tool to help manage your server. MORE COMING SOON!",
+  "authors": [
+    "Shulkertron"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104389.jpg?1660033372",
+  "iconCid": "bafkreickatkqhmyx33r4tnheu4g4pd6zeb2sfdibnxpyrgdgmvfqg3j22y",
+  "numberOfDownloads": 47,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/serverassist.104389/history",
+  "releaseDate": 1660029720000,
+  "updateDate": 1660736940000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

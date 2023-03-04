@@ -1,0 +1,28 @@
+{
+  "id": 89695,
+  "url": "https://www.spigotmc.org/resources/nodamageindicator.89695/",
+  "name": "NoDamageIndicator",
+  "description": "damage particle is lag so goodbye damage particle",
+  "authors": [
+    "crston"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89695.jpg?1614758871",
+  "iconCid": "bafkreiddbc3ulbfkstc7twkohcxzyh67os4r4i2shl5ad75my66dmmtagq",
+  "numberOfDownloads": 190,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nodamageindicator.89695/history",
+  "gitUrl": "https://github.com/crston/NoDamageIndicator",
+  "releaseDate": 1614755220000,
+  "updateDate": 1655406900000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

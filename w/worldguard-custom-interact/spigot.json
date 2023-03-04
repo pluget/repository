@@ -1,0 +1,21 @@
+{
+  "id": 103004,
+  "url": "https://www.spigotmc.org/resources/worldguard-custom-interact.103004/",
+  "name": "WorldGuard Custom Interact",
+  "description": "Allows for more easily customised interactions with blocks in WorldGuard regions",
+  "authors": [
+    "TheDeathlyCow"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103004.jpg?1656593234",
+  "iconCid": "bafkreif2pfrznia52sry7xati7eajk4g53x6uxlgvplfkukg7j53um7jdu",
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/worldguard-custom-interact.103004/history",
+  "gitUrl": "https://github.com/TheDeathlyCow/worldguard-custom-use",
+  "releaseDate": 1656589620000,
+  "updateDate": 1656589620000,
+  "versions": [
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 101294,
+  "url": "https://www.spigotmc.org/resources/feelinglucky-a-luck-driven-mechanics-plugin.101294/",
+  "name": "FeelingLucky - A luck driven mechanics plugin",
+  "description": "luck attribute expansion plugin",
+  "authors": [
+    "Skwirtl"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101294.jpg?1652077394",
+  "iconCid": "bafkreifdasrx6iiws57lyjgibw5ofitrjfuv2vsxujsle3esigrzjmy25y",
+  "numberOfDownloads": 361,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/feelinglucky-a-luck-driven-mechanics-plugin.101294/history",
+  "gitUrl": "https://github.com/SimplexDevelopment/FeelingLucky",
+  "releaseDate": 1649633100000,
+  "updateDate": 1655297160000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

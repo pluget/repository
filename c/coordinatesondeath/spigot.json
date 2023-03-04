@@ -1,0 +1,31 @@
+{
+  "id": 102587,
+  "url": "https://www.spigotmc.org/resources/coordinatesondeath.102587/",
+  "name": "CoordinatesOnDeath",
+  "description": "Displays the death coordinates of players to them upon death.",
+  "authors": [
+    "trapador36"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102587.jpg?1655111014",
+  "iconCid": "bafkreiea7h37vdfo472isj44m5zkimb6yyilpjxktviy2sngylposonvdm",
+  "numberOfDownloads": 133,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/coordinatesondeath.102587/history",
+  "gitUrl": "https://github.com/can-aslan/CoordinatesOnDeath",
+  "releaseDate": 1655107380000,
+  "updateDate": 1655107380000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

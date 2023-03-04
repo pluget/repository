@@ -1,0 +1,22 @@
+{
+  "id": 102955,
+  "url": "https://www.spigotmc.org/resources/heavyweapons.102955/",
+  "name": "HeavyWeapons",
+  "description": "Makes your weapons have weight!",
+  "authors": [
+    "JaddotWuzHere"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102955.jpg?1656383494",
+  "iconCid": "bafkreifwbu2wyu5itbtzt4g3ag74aj2ln6ldwv7qtzpnzkht7f7lljirau",
+  "numberOfDownloads": 53,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/heavyweapons.102955/history",
+  "gitUrl": "https://github.com/Jason-Ding19/Heavy-Weapons-Minecraft-Spigot-Plugin",
+  "releaseDate": 1656379860000,
+  "updateDate": 1656379860000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

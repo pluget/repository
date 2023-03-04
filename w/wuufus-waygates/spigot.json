@@ -1,0 +1,27 @@
+{
+  "id": 80094,
+  "url": "https://www.spigotmc.org/resources/wuufus-waygates-1-13-1-19.80094/",
+  "name": "Wuufu's Waygates [1.13 - 1.19]",
+  "description": "Inspired by Creative Gates and Stargate, players create gates/portals without commands.",
+  "authors": [
+    "Wuufu"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80094.jpg?1591987972",
+  "iconCid": "bafkreie2yfcabulkld7eudghrmsuo5dkb622rkv6tot267w5m6tf75oy2u",
+  "numberOfDownloads": 3734,
+  "rating": 5,
+  "numberOfVotes": 14,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/wuufus-waygates-1-13-1-19.80094/history",
+  "gitUrl": "https://github.com/Jarada/WuufusWaygates",
+  "releaseDate": 1591984320000,
+  "updateDate": 1663511220000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

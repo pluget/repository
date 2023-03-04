@@ -1,0 +1,23 @@
+{
+  "id": 101236,
+  "url": "https://www.spigotmc.org/resources/hungergames.101236/",
+  "name": "HungerGames",
+  "description": "Ultimate HungerGames Plugin! 36 kits and lot more",
+  "authors": [
+    "RAFAELESPADA"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101236.jpg?1649459832",
+  "iconCid": "bafkreih2hrfgzcci5b27yzwltccxomeqbjkyebw5q6bh26e22alasctata",
+  "numberOfDownloads": 96,
+  "rating": 3,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hungergames.101236/history",
+  "gitUrl": "https://github.com/RAFAELESPADA/HungerGames",
+  "releaseDate": 1649456160000,
+  "updateDate": 1655323740000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

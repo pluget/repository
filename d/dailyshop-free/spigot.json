@@ -1,0 +1,31 @@
+{
+  "id": 86907,
+  "url": "https://www.spigotmc.org/resources/dailyshop-free-an-advanced-shop-plugin.86907/",
+  "name": "DailyShop Free | An advanced shop plugin",
+  "description": "Advanced shop plugin with daily offers, dynamic prices, stock, mutiple-economies and more!",
+  "authors": [
+    "Divios"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/86/86907.jpg?1646072644",
+  "iconCid": "bafkreicwai6uq3uvc57m67jswuyigcbb2hzx77bnpwynsw4njogyon6nge",
+  "numberOfDownloads": 13078,
+  "rating": 4.4,
+  "numberOfVotes": 60,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dailyshop-free-an-advanced-shop-plugin.86907/history",
+  "gitUrl": "https://github.com/divios/DailyShop",
+  "releaseDate": 1608469800000,
+  "updateDate": 1654933500000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

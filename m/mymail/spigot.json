@@ -1,0 +1,33 @@
+{
+  "id": 108155,
+  "url": "https://www.spigotmc.org/resources/bbrains-mymail.108155/",
+  "name": "[BBrains] MyMail",
+  "description": "Improved mail system for your server",
+  "authors": [
+    "dayd21"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108155.jpg?1676975294",
+  "iconCid": "bafkreifxzb5gus2bqyglsyq44rxtbfs4u2l37uzwnwt4nb3dwzyw7x2gum",
+  "numberOfDownloads": 13,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bbrains-mymail.108155/history",
+  "gitUrl": "https://www.curseforge.com/minecraft/bukkit-plugins/bbrains-mymail",
+  "releaseDate": 1676971620000,
+  "updateDate": 1676971620000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

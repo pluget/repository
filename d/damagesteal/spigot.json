@@ -1,0 +1,23 @@
+{
+  "id": 108306,
+  "url": "https://www.spigotmc.org/resources/damagesteal.108306/",
+  "name": "DamageSteal",
+  "description": "DamageSteal allows you to steal base damage from other players by killing them much like lifesteal.",
+  "authors": [
+    "Zevcraft"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108306.jpg?1677629609",
+  "iconCid": "bafkreihlgcgb5v2if6tfdev7ygfzdb3ojh43shxncq3l3m3poikrzsqwgm",
+  "numberOfDownloads": 17,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/damagesteal.108306/history",
+  "releaseDate": 1677623400000,
+  "updateDate": 1677623400000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

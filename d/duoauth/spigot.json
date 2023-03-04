@@ -1,0 +1,28 @@
+{
+  "id": 80609,
+  "url": "https://www.spigotmc.org/resources/duoauth.80609/",
+  "name": "DuoAuth",
+  "description": "Secure and adaptive authentication with bcrypt",
+  "authors": [
+    "foncused"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80609.jpg?1592964500",
+  "iconCid": "bafkreif43htz2mfrsgx6m3xrqi5abt5e5z6nm4cgo2iowsluhiwztfc26i",
+  "numberOfDownloads": 351,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/duoauth.80609/history",
+  "gitUrl": "https://github.com/foncused/DuoAuth",
+  "releaseDate": 1592960820000,
+  "updateDate": 1655487300000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

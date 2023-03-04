@@ -1,0 +1,27 @@
+{
+  "id": 107401,
+  "url": "https://www.spigotmc.org/resources/prefix.107401/",
+  "name": "Prefix",
+  "description": "Elevate your chat and tablist with the best free prefix plugin available",
+  "authors": [
+    "Fronsky"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107401.jpg?1676539970",
+  "iconCid": "bafkreifanfhrujlotbbu4opyfkqpreta3r5yksugxje4525cztoeogsro4",
+  "numberOfDownloads": 186,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/prefix.107401/history",
+  "gitUrl": "https://www.fronsky.com/spigot-framework",
+  "releaseDate": 1673806620000,
+  "updateDate": 1674124620000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

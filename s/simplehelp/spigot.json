@@ -1,0 +1,32 @@
+{
+  "id": 101502,
+  "url": "https://www.spigotmc.org/resources/simplehelp.101502/",
+  "name": "SimpleHelp",
+  "description": "Help command with unlimited pages",
+  "authors": [
+    "JonRahm"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101502.jpg?1650402054",
+  "iconCid": "bafkreiaijm2hqaerxjudbbqec4rfkzidjyee5fkg2dlnlyvags3l6hazji",
+  "numberOfDownloads": 69,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplehelp.101502/history",
+  "gitUrl": "https://github.com/Skjolberg/SimpleHelp",
+  "releaseDate": 1650398040000,
+  "updateDate": 1657065420000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

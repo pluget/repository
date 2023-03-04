@@ -1,0 +1,28 @@
+{
+  "id": 67949,
+  "url": "https://www.spigotmc.org/resources/musicbox-custom-noteblockmusic-on-discs.67949/",
+  "name": "MusicBox - Custom NoteBlockMusic on disc's",
+  "description": "Adds noteblock disc to your server, and much more related to noteblock music",
+  "authors": [
+    "Spliterash"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/67/67949.jpg?1559497133",
+  "iconCid": "bafkreiaqep3774hvgxl4ojptckays3r7sv2ppd5mhcpg2vkrpu6r2bnwqe",
+  "numberOfDownloads": 9013,
+  "rating": 4.6,
+  "numberOfVotes": 42,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/musicbox-custom-noteblockmusic-on-discs.67949/history",
+  "gitUrl": "https://github.com/Spliterash/MusicBox",
+  "releaseDate": 1559491320000,
+  "updateDate": 1656619380000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 97041,
+  "url": "https://www.spigotmc.org/resources/nexusblock.97041/",
+  "name": "NexusBlock",
+  "description": "An easy way to make your own \"Block Nexus\" on your economy minecraft server!",
+  "authors": [
+    "xHyroM"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97041.jpg?1635171135",
+  "iconCid": "bafkreifjrw4bhd7h5jvtvawr67wlhfsrgrym6z2jnxoukjzs37z7ok5ceu",
+  "numberOfDownloads": 986,
+  "rating": 4.9,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nexusblock.97041/history",
+  "gitUrl": "https://github.com/xHyroM/NexusBlock",
+  "releaseDate": 1634980680000,
+  "updateDate": 1655318640000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

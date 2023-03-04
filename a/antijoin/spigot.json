@@ -1,0 +1,31 @@
+{
+  "id": 101787,
+  "url": "https://www.spigotmc.org/resources/antijoin.101787/",
+  "name": "AntiJoin",
+  "description": "A simple plugin to prevent player joins",
+  "authors": [
+    "p1xEL_mc"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101787.jpg?1651490826",
+  "iconCid": "bafkreicgz43bhngpwswjtns3ydo442mqovfpirmb5z2hcub5ecn63r4mc4",
+  "numberOfDownloads": 300,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antijoin.101787/history",
+  "gitUrl": "https://github.com/Ez4p1xEL/AntiJoin",
+  "releaseDate": 1651487160000,
+  "updateDate": 1653732300000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

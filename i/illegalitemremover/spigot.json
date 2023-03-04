@@ -1,0 +1,26 @@
+{
+  "id": 108222,
+  "url": "https://www.spigotmc.org/resources/illegalitemremover.108222/",
+  "name": "IllegalItemRemover",
+  "description": "Prevent unbalanced gameplay by removing items with illegal enchantments from players' inventories.",
+  "authors": [
+    "dewdgiplay"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108222.jpg?1677219818",
+  "iconCid": "bafkreiam6wttv2kd3pu4an7zm6nxvda6pv6qobahglrhlhlkrmmiso52u4",
+  "numberOfDownloads": 55,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/illegalitemremover.108222/history",
+  "releaseDate": 1677830940000,
+  "updateDate": 1677830940000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

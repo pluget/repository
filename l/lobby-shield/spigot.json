@@ -1,0 +1,25 @@
+{
+  "id": 102316,
+  "url": "https://www.spigotmc.org/resources/lobby-shield.102316/",
+  "name": "Lobby Shield",
+  "description": "Lobby, Lobbyshield, Lobbyschild, Schild, YouTuber Schild",
+  "authors": [
+    "Queleman"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102316.jpg?1654079590",
+  "iconCid": "bafkreiaz7c65rxvxx4wfemis6q6krffavrhgdq233o5moxrggd3ev5fgzi",
+  "numberOfDownloads": 52,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lobby-shield.102316/history",
+  "gitUrl": "https://github.com/QandQCoding/LobbyShield",
+  "releaseDate": 1653925560000,
+  "updateDate": 1672248900000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

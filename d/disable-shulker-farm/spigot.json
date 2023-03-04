@@ -1,0 +1,23 @@
+{
+  "id": 102592,
+  "url": "https://www.spigotmc.org/resources/disable-shulker-farm.102592/",
+  "name": "Disable Shulker Farm",
+  "description": "Disables Shulker Farm",
+  "authors": [
+    "AleksFunGames"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102592.jpg?1655127638",
+  "iconCid": "bafkreiff3jkloie34xsizdtmuc4wip6rk2vee26sq6h5iztfairdivcegu",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/disable-shulker-farm.102592/history",
+  "gitUrl": "https://github.com/AleksFunGames/DisableShulkerFarm",
+  "releaseDate": 1655124000000,
+  "updateDate": 1655124000000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 102688,
+  "url": "https://www.spigotmc.org/resources/itemsadderemojifixer.102688/",
+  "name": "ItemsAdderEmojiFixer",
+  "description": "Fix various issues with ItemAdder emoji system, especially for 1.19+",
+  "authors": [
+    "Fox2Code"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102688.jpg?1655494478",
+  "iconCid": "bafkreich5vddiahkok7zl66jhkfdlcqipmcouoamtfq2m5o2wgaj3xewce",
+  "numberOfDownloads": 364,
+  "rating": 4.3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/itemsadderemojifixer.102688/history",
+  "gitUrl": "https://github.com/Fox2Code/ItemsAdderEmojiFixer",
+  "releaseDate": 1655490840000,
+  "updateDate": 1655721900000,
+  "versions": [
+    "1.19"
+  ]
+}

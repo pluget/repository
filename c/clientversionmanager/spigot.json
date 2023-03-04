@@ -1,0 +1,33 @@
+{
+  "id": 97177,
+  "url": "https://www.spigotmc.org/resources/clientversionmanager.97177/",
+  "name": "ClientVersionManager",
+  "description": "Allowing logins to different servers from different versions of MC clients",
+  "authors": [
+    "Dymeth"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97177.jpg?1635347029",
+  "iconCid": "bafkreidxf72qxj3ejautyd3p47b4djgm2x5bkvv5rkkn6aks3glt4xw2su",
+  "numberOfDownloads": 220,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/clientversionmanager.97177/history",
+  "gitUrl": "https://gitlab.com/Dymeth/ClientVersionManager",
+  "releaseDate": 1635342540000,
+  "updateDate": 1655848020000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

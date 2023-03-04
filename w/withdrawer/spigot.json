@@ -1,0 +1,24 @@
+{
+  "id": 103986,
+  "url": "https://www.spigotmc.org/resources/withdrawer.103986/",
+  "name": "Withdrawer",
+  "description": "Withdraw money, exp and hp into items!",
+  "authors": [
+    "imlukas"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103986.jpg?1673916457",
+  "iconCid": "bafkreicvxkk5j7qmxiihemiy3j32y4xlwqexp7mhhnkpenesmzjiafziky",
+  "numberOfDownloads": 272,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/withdrawer.103986/history",
+  "gitUrl": "https://github.com/imlukas/Withdrawer/",
+  "releaseDate": 1659438300000,
+  "updateDate": 1667077680000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

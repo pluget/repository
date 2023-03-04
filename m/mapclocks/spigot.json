@@ -1,0 +1,26 @@
+{
+  "id": 106339,
+  "url": "https://www.spigotmc.org/resources/mapclocks.106339/",
+  "name": "MapClocks",
+  "description": "Real analog and digital clocks in maps!",
+  "authors": [
+    "marcelschoen"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106339.jpg?1668889419",
+  "iconCid": "bafkreihh3lzgoo7ipun5ofxnc54a52we3zkwzstyi2saervswaaujekiw4",
+  "numberOfDownloads": 48,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mapclocks.106339/history",
+  "gitUrl": "https://github.com/marcelschoen/MapClocks",
+  "releaseDate": 1668885780000,
+  "updateDate": 1668885780000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

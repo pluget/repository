@@ -1,0 +1,33 @@
+{
+  "id": 108153,
+  "url": "https://www.spigotmc.org/resources/bbrains-noobprotect.108153/",
+  "name": "[BBrains] NoobProtect",
+  "description": "Protect new players on your server from damage",
+  "authors": [
+    "dayd21"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108153.jpg?1676974701",
+  "iconCid": "bafkreig56ejjueulhlc2dnebl2yviovpzq4wyqeshmqhgnoams5bsnjstq",
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bbrains-noobprotect.108153/history",
+  "gitUrl": "https://www.curseforge.com/minecraft/bukkit-plugins/bbrains-noobprotect",
+  "releaseDate": 1676971080000,
+  "updateDate": 1676971080000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

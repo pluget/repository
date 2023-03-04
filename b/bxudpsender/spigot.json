@@ -1,0 +1,20 @@
+{
+  "id": 102185,
+  "url": "https://www.spigotmc.org/resources/bxudp_sender.102185/",
+  "name": "bxUDP_Sender",
+  "description": "UDP packet sender",
+  "authors": [
+    "BrzechiX"
+  ],
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bxudp_sender.102185/history",
+  "releaseDate": 1653333840000,
+  "updateDate": 1653333840000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

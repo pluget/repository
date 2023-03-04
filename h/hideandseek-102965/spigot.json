@@ -1,0 +1,22 @@
+{
+  "id": 102965,
+  "url": "https://www.spigotmc.org/resources/hideandseek-bungeecord-only-statssystem-mongodb-support-configureable-messages.102965/",
+  "name": "HideAndSeek [BungeeCord only] | +StatsSystem +MongoDB Support +Configureable Messages",
+  "description": "Adds the game mode hide and seek to your server",
+  "authors": [
+    "haftiAbbi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102965.jpg?1656431365",
+  "iconCid": "bafkreic3vqacck2es2cbxsobisue3o3vy6ob5onmwcl256pfill5ds6aky",
+  "numberOfDownloads": 42,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hideandseek-bungeecord-only-statssystem-mongodb-support-configureable-messages.102965/history",
+  "releaseDate": 1656427680000,
+  "updateDate": 1656427680000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 83871,
+  "url": "https://www.spigotmc.org/resources/staff-discord-integration.83871/",
+  "name": "Staff++ Discord Integration",
+  "description": "Staff++ Discord Integration plugin",
+  "authors": [
+    "Garagepoort"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83871.jpg?1602586460",
+  "iconCid": "bafkreidsyjyp56anmku6rbgiygtaeq3humgp4ud53zpv5ykirphdudwilu",
+  "numberOfDownloads": 5130,
+  "rating": 4.7,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/staff-discord-integration.83871/history",
+  "gitUrl": "https://github.com/garagepoort/StaffPlusPlus",
+  "releaseDate": 1600084020000,
+  "updateDate": 1657264920000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

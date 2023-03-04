@@ -1,0 +1,30 @@
+{
+  "id": 101913,
+  "url": "https://www.spigotmc.org/resources/afk.101913/",
+  "name": "AFK++",
+  "description": "Simple AFK Management Plugin",
+  "authors": [
+    "SICKOMC"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101913.jpg?1652102601",
+  "iconCid": "bafkreibuwhsxmw5fgxw3szjohpjbqj2ytbd22czg5fygpkoeg4mortxaki",
+  "numberOfDownloads": 214,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/afk.101913/history",
+  "releaseDate": 1652098980000,
+  "updateDate": 1652864760000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

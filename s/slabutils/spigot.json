@@ -1,0 +1,21 @@
+{
+  "id": 106923,
+  "url": "https://www.spigotmc.org/resources/slabutils.106923/",
+  "name": "SlabUtils",
+  "description": "Lightweight plugin to fix breaking slabs problem",
+  "authors": [
+    "SuperMax_8"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106923.jpg?1671827897",
+  "iconCid": "bafkreidtff3cg3tkgwjbrixyca2wpo5632fdctevvoyp4jms22epi53phq",
+  "numberOfDownloads": 37,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/slabutils.106923/history",
+  "gitUrl": "https://github.com/SuperMax8/SlabUtils",
+  "releaseDate": 1671824280000,
+  "updateDate": 1676669220000,
+  "versions": [
+    "1.19"
+  ]
+}

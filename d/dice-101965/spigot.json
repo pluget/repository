@@ -1,0 +1,30 @@
+{
+  "id": 101965,
+  "url": "https://www.spigotmc.org/resources/dice.101965/",
+  "name": "Dice",
+  "description": "A simple plugin to get random things",
+  "authors": [
+    "kiritokirigami5"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101965.jpg?1652370488",
+  "iconCid": "bafkreig2faxl2htww4ubj7qi26xjsfaf3rv6ig3mod4y2mngdam4ozrfcq",
+  "numberOfDownloads": 34,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dice.101965/history",
+  "releaseDate": 1652366760000,
+  "updateDate": 1652366760000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

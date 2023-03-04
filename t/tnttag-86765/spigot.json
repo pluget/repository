@@ -1,0 +1,32 @@
+{
+  "id": 86765,
+  "url": "https://www.spigotmc.org/resources/tnttag.86765/",
+  "name": "TNTtag",
+  "description": "Minecraft TNTtag",
+  "authors": [
+    "TimtimWinslow"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/86/86765.jpg?1608074731",
+  "iconCid": "bafkreietjqbrektzpirdii7pcczeullwdz4banroqm3u3w6ocrbhvecnv4",
+  "numberOfDownloads": 301,
+  "rating": 2.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tnttag.86765/history",
+  "gitUrl": "https://github.com/TimtimWinslow/TNTtag",
+  "releaseDate": 1608064200000,
+  "updateDate": 1655331360000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

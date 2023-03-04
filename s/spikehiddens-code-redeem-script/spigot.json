@@ -1,0 +1,22 @@
+{
+  "id": 102540,
+  "url": "https://www.spigotmc.org/resources/spikehiddens-code-redeem-script-a-denizen-script.102540/",
+  "name": "Spikehidden's Code Redeem Script - A Denizen Script",
+  "description": "A Denizen script to create redeemable codes via commands.",
+  "authors": [
+    "Spikehidden"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102540.jpg?1655240501",
+  "iconCid": "bafkreicysva4tbnsy74jk7rfepomzm6zrl7ppzfmx5twqlodcgtaeqyx54",
+  "numberOfDownloads": 34,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/spikehiddens-code-redeem-script-a-denizen-script.102540/history",
+  "gitUrl": "https://github.com/spikehidden/CodeRedeemScript",
+  "releaseDate": 1654955040000,
+  "updateDate": 1666031820000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

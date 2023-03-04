@@ -1,0 +1,21 @@
+{
+  "id": 101900,
+  "url": "https://www.spigotmc.org/resources/betterautototem.101900/",
+  "name": "BetterAutoTotem",
+  "description": "Autmatically uses totems with a timer and messages",
+  "authors": [
+    "ukeo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101900.jpg?1652035111",
+  "iconCid": "bafkreih5bxrwklj44pj3v52b7emubqjj2eankmnrbgb5j6qle5ce63ifxe",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterautototem.101900/history",
+  "gitUrl": "https://github.com/ukeo/BetterAutoTotem",
+  "releaseDate": 1652031480000,
+  "updateDate": 1652031480000,
+  "versions": [
+    "1.18"
+  ]
+}

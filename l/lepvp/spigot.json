@@ -1,0 +1,23 @@
+{
+  "id": 102239,
+  "url": "https://www.spigotmc.org/resources/lepvp.102239/",
+  "name": "Lepvp",
+  "description": "A Crystal PVP Plugin designed to improve your skills on crystal pvp or Just have fun!",
+  "authors": [
+    "manraj7235"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102239.jpg?1653568393",
+  "iconCid": "bafkreifpvhhnve75yyedh4mynqph6m2xl56a6f5z7wyhd7r3jf355v4yty",
+  "numberOfDownloads": 83,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lepvp.102239/history",
+  "gitUrl": "https://github.com/YesNoBruhbruh/Lepvp",
+  "releaseDate": 1653564780000,
+  "updateDate": 1653721680000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

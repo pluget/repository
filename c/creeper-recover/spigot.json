@@ -1,0 +1,24 @@
+{
+  "id": 98836,
+  "url": "https://www.spigotmc.org/resources/creeper-recover.98836/",
+  "name": "Creeper Recover",
+  "description": "Recovers all destroyed blocks by Creeper or other Entities",
+  "authors": [
+    "RafaDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98836.jpg?1640969121",
+  "iconCid": "bafkreifczzzlonuuss4f2mcoyu3mji6qupo4zxyozzszm2acyt4lgtocau",
+  "numberOfDownloads": 597,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/creeper-recover.98836/history",
+  "gitUrl": "https://github.com/HttpRafa/CreeperRecover",
+  "releaseDate": 1677920640000,
+  "updateDate": 1677920640000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

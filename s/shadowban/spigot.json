@@ -1,0 +1,19 @@
+{
+  "id": 102226,
+  "url": "https://www.spigotmc.org/resources/shadowban.102226/",
+  "name": "ShadowBan",
+  "description": "Ban players without them knowing",
+  "authors": [
+    "Weredime"
+  ],
+  "numberOfDownloads": 31,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/shadowban.102226/history",
+  "gitUrl": "https://github.com/Weredime/ShadowBan",
+  "releaseDate": 1653495120000,
+  "updateDate": 1653495120000,
+  "versions": [
+    "1.18"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 63307,
+  "url": "https://www.spigotmc.org/resources/discosheep.63307/",
+  "name": "DiscoSheep",
+  "description": "Sheep become disco sheep when damaged by players",
+  "authors": [
+    "foncused"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/63/63307.jpg?1545520259",
+  "iconCid": "bafkreif5lcdlmo3xutxgsvwoycr3gfr42n2ry4mnrlhoyrim5ywx5yovwy",
+  "numberOfDownloads": 640,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discosheep.63307/history",
+  "gitUrl": "https://github.com/foncused/DiscoSheep",
+  "releaseDate": 1545155760000,
+  "updateDate": 1655477640000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

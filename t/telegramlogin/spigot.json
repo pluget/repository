@@ -1,0 +1,26 @@
+{
+  "id": 97563,
+  "url": "https://www.spigotmc.org/resources/telegramlogin.97563/",
+  "name": "TelegramLogin",
+  "description": "login system based on Telegram, 2FA avaiable",
+  "authors": [
+    "iVirus"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97563.jpg?1636716854",
+  "iconCid": "bafkreib5h3tr3fj3prtskcowo4wu6likwrgazztwuzp7raa4ibbkk3puc4",
+  "numberOfDownloads": 648,
+  "rating": 4.9,
+  "numberOfVotes": 8,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/telegramlogin.97563/history",
+  "gitUrl": "https://github.com/HighVirus/TelegramLogin",
+  "releaseDate": 1636713180000,
+  "updateDate": 1653158280000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

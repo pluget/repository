@@ -1,0 +1,27 @@
+{
+  "id": 61490,
+  "url": "https://www.spigotmc.org/resources/worldguard-region-events-updated.61490/",
+  "name": "WorldGuard Region Events (Updated)",
+  "description": "WorldGuard Region Events Updated API",
+  "authors": [
+    "NetzkroneHD"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/61/61490.jpg?1609353912",
+  "iconCid": "bafkreidbmlaaitu7dlwsqj4x33pjahbc3imygi2kv6vqnxgk3xjtd3tdsa",
+  "numberOfDownloads": 2723,
+  "rating": 4.5,
+  "numberOfVotes": 8,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/worldguard-region-events-updated.61490/history",
+  "gitUrl": "https://github.com/NetzkroneHD/WGRegionEvents",
+  "releaseDate": 1539185040000,
+  "updateDate": 1656249840000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

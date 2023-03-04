@@ -1,0 +1,23 @@
+{
+  "id": 105346,
+  "url": "https://www.spigotmc.org/resources/metrofare.105346/",
+  "name": "MetroFare",
+  "description": "A plugin that creates a fare system used in subway/metro.",
+  "authors": [
+    "hasunemiku2015"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105346.jpg?1663496814",
+  "iconCid": "bafkreicsgh5ju2s2l4sbsjsp25pusvsihg4wsikb5agjarirzi2ecyh56u",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/metrofare.105346/history",
+  "gitUrl": "https://github.com/Hasunemiku2015/MetroFare/tree/master",
+  "releaseDate": 1663493160000,
+  "updateDate": 1663493160000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

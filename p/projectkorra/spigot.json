@@ -1,0 +1,24 @@
+{
+  "id": 2734,
+  "url": "https://www.spigotmc.org/resources/projectkorra-core.2734/",
+  "name": "ProjectKorra (Core)",
+  "description": "Minecraft Reimagined - Master the elements from Avatar: The Last Airbender and The Legend of Korra",
+  "authors": [
+    "ProjectKorra"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/2/2734.jpg?1500995791",
+  "iconCid": "bafkreib5quogjakcq2e5fxwn44vkvo6rz2a3ikf3wrquwhastyxdbi55ly",
+  "numberOfDownloads": 158149,
+  "rating": 4.4,
+  "numberOfVotes": 47,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/projectkorra-core.2734/history",
+  "gitUrl": "http://github.com/ProjectKorra/ProjectKorra",
+  "releaseDate": 1677743700000,
+  "updateDate": 1677743700000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

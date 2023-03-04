@@ -1,0 +1,23 @@
+{
+  "id": 96179,
+  "url": "https://www.spigotmc.org/resources/simplehomes.96179/",
+  "name": "SimpleHomes",
+  "description": "Easy-to-use Utility plugin that allows you to create homes and teleport to them",
+  "authors": [
+    "monsterman04"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96179.jpg?1631478623",
+  "iconCid": "bafkreihtjvlhemxdanfklgvlzw3ikpx2brs4jtjhpj3bmsbtphzqevgwja",
+  "numberOfDownloads": 692,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplehomes.96179/history",
+  "gitUrl": "https://github.com/monsterman04/SimpleHomes",
+  "releaseDate": 1631475000000,
+  "updateDate": 1670772180000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

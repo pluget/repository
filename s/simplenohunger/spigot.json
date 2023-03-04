@@ -1,0 +1,32 @@
+{
+  "id": 102626,
+  "url": "https://www.spigotmc.org/resources/simplenohunger.102626/",
+  "name": "SimpleNoHunger",
+  "description": "Prevents you from taking food level changes",
+  "authors": [
+    "WindLeak"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102626.jpg?1655233986",
+  "iconCid": "bafkreidbsghclfi2ot3d7a6huxojlq6yidcs6pgnktmmsei64hpvsmyd6e",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplenohunger.102626/history",
+  "releaseDate": 1655230200000,
+  "updateDate": 1655278260000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

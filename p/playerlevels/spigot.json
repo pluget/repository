@@ -1,0 +1,23 @@
+{
+  "id": 106633,
+  "url": "https://www.spigotmc.org/resources/playerlevels.106633/",
+  "name": "PlayerLevels",
+  "description": "Bukkit coding project api or Levels plugin",
+  "authors": [
+    "OyunTarayici"
+  ],
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playerlevels.106633/history",
+  "gitUrl": "https://github.com/HyperLords/PlayerLevels/tree/main/PlayerLevels",
+  "releaseDate": 1670529960000,
+  "updateDate": 1670529960000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12"
+  ]
+}

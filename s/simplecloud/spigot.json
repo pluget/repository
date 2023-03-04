@@ -1,0 +1,28 @@
+{
+  "id": 79466,
+  "url": "https://www.spigotmc.org/resources/simplecloud-simplify-your-network.79466/",
+  "name": "SimpleCloud | Simplify your network",
+  "description": "A simple alternative to other minecraft cloud systems",
+  "authors": [
+    "theSimpleCloud"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79466.jpg?1590837437",
+  "iconCid": "bafkreibl537jblvbdxbszmwaktp7im6vl4ec5gqrwzx5c6wut6hbp2urrm",
+  "numberOfDownloads": 5556,
+  "rating": 4.5,
+  "numberOfVotes": 24,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplecloud-simplify-your-network.79466/history",
+  "gitUrl": "https://github.com/theSimpleCloud/SimpleCloud/",
+  "releaseDate": 1590910260000,
+  "updateDate": 1656183420000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

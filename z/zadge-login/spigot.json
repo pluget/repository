@@ -1,0 +1,31 @@
+{
+  "id": 99796,
+  "url": "https://www.spigotmc.org/resources/zadge-login.99796/",
+  "name": "Zadge Login",
+  "description": "login-plugin",
+  "authors": [
+    "ZadgeOfficial"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99796.jpg?1657044293",
+  "iconCid": "bafkreigmbzeklgrdoepumztibvq4oswo7xq6drsb6jyngoysvvf2zcnsam",
+  "numberOfDownloads": 791,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/zadge-login.99796/history",
+  "releaseDate": 1644082740000,
+  "updateDate": 1656909840000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66089,
+  "url": "https://www.spigotmc.org/resources/anarchystats.66089/",
+  "name": "AnarchyStats",
+  "description": "Get server age, total players, and world size in a nice little command.",
+  "authors": [
+    "hyperdefined"
+  ],
+  "numberOfDownloads": 656,
+  "rating": 4.8,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anarchystats.66089/history",
+  "gitUrl": "https://github.com/hyperdefined/AnarchyStats",
+  "releaseDate": 1553999220000,
+  "updateDate": 1654532220000,
+  "versions": [
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

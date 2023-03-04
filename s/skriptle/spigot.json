@@ -1,0 +1,23 @@
+{
+  "id": 108214,
+  "url": "https://www.spigotmc.org/resources/skriptle.108214/",
+  "name": "Skriptle",
+  "description": "A terrible version of Wordle",
+  "authors": [
+    "Minkek"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108214.jpg?1677183685",
+  "iconCid": "bafkreifh5c65d522hyu7pzk2tiy4emfqz5gxxxy3zuwtzslo4vtjsif4ri",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skriptle.108214/history",
+  "releaseDate": 1677180060000,
+  "updateDate": 1677180060000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

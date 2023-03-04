@@ -1,0 +1,24 @@
+{
+  "id": 102723,
+  "url": "https://www.spigotmc.org/resources/proxybypass.102723/",
+  "name": "ProxyBypass",
+  "description": "Prevent connection directly through a subserver.",
+  "authors": [
+    "praayy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102723.jpg?1655597157",
+  "iconCid": "bafkreidax5bfiiz7netickd5r3eclz4en5vwuhxaackmybv3qmf5dkiapm",
+  "numberOfDownloads": 38,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/proxybypass.102723/history",
+  "gitUrl": "https://github.com/heystatic/ProxyBypass",
+  "releaseDate": 1655593500000,
+  "updateDate": 1655594040000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

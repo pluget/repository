@@ -1,0 +1,21 @@
+{
+  "id": 105343,
+  "url": "https://www.spigotmc.org/resources/essential-pets.105343/",
+  "name": "Essential Pets",
+  "description": "Mobs with nametags cannot be killed (with a few exceptions)",
+  "authors": [
+    "Karltroid"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105343.jpg?1663489951",
+  "iconCid": "bafkreierhnpxocoemlsf4v6xpbwnrctjkxitrinm23y7l24adh2qi5q3gi",
+  "numberOfDownloads": 61,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/essential-pets.105343/history",
+  "gitUrl": "https://github.com/Karltroid/EssentialPets",
+  "releaseDate": 1663484220000,
+  "updateDate": 1663484220000,
+  "versions": [
+    "1.19"
+  ]
+}

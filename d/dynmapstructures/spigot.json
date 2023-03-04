@@ -1,0 +1,25 @@
+{
+  "id": 39534,
+  "url": "https://www.spigotmc.org/resources/dynmap-structures.39534/",
+  "name": "dynmap-structures",
+  "description": "Shows your world's structures (such as Villages, Strongholds, and Pyramids) on Dynmap.",
+  "authors": [
+    "KovuTheHusky"
+  ],
+  "numberOfDownloads": 2948,
+  "rating": 4.6,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dynmap-structures.39534/history",
+  "gitUrl": "https://github.com/KovuTheHusky/dynmap-structures",
+  "releaseDate": 1492291680000,
+  "updateDate": 1656041160000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

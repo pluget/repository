@@ -1,0 +1,20 @@
+{
+  "id": 103017,
+  "url": "https://www.spigotmc.org/resources/unversion.103017/",
+  "name": "UnVersion",
+  "description": "Spigot plugin that hide versions",
+  "authors": [
+    "Assada"
+  ],
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/unversion.103017/history",
+  "gitUrl": "https://github.com/assada/UnVersion",
+  "releaseDate": 1656625020000,
+  "updateDate": 1656625020000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

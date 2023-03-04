@@ -1,0 +1,21 @@
+{
+  "id": 100214,
+  "url": "https://www.spigotmc.org/resources/jedcore.100214/",
+  "name": "JedCore",
+  "description": "ProjectKorra addon plugin",
+  "authors": [
+    "Robagio"
+  ],
+  "numberOfDownloads": 430,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/jedcore.100214/history",
+  "gitUrl": "https://github.com/Aztlon/JedCore",
+  "releaseDate": 1645490220000,
+  "updateDate": 1672692180000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

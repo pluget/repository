@@ -1,0 +1,28 @@
+{
+  "id": 108375,
+  "url": "https://www.spigotmc.org/resources/commandremove.108375/",
+  "name": "CommandRemove",
+  "description": "command remove",
+  "authors": [
+    "Astrix-Game"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108375.jpg?1677962828",
+  "iconCid": "bafkreiflddwtewrcrgwnnquw4jey2danhxoa52ol7los4x3n4nuh3z4yx4",
+  "numberOfDownloads": 4,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/commandremove.108375/history",
+  "gitUrl": "https://github.com/astrixgame/spigot-commandremove",
+  "releaseDate": 1677959160000,
+  "updateDate": 1677959160000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

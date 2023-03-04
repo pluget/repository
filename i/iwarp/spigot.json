@@ -1,0 +1,26 @@
+{
+  "id": 68157,
+  "url": "https://www.spigotmc.org/resources/iwarp-warps-with-upkeep-addon-to-essentialsx.68157/",
+  "name": "iWarp - warps with upkeep (addon to EssentialsX)",
+  "description": "Player warps expire unless expressly renewed",
+  "authors": [
+    "drives_a_ford"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/68/68157.jpg?1564389701",
+  "iconCid": "bafkreics22tyazzzafkpvdxbfzzxuoatpqda55wqawajcagn756fifhw3y",
+  "numberOfDownloads": 894,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/iwarp-warps-with-upkeep-addon-to-essentialsx.68157/history",
+  "gitUrl": "https://github.com/mart-r/iwarp",
+  "releaseDate": 1560081360000,
+  "updateDate": 1655404860000,
+  "versions": [
+    "1.8",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

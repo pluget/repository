@@ -1,0 +1,32 @@
+{
+  "id": 108300,
+  "url": "https://www.spigotmc.org/resources/minecraftranks.108300/",
+  "name": "MinecraftRanks",
+  "description": "A Powerful Ranking Plugin",
+  "authors": [
+    "Whomaxiswell2"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108300.jpg?1677605960",
+  "iconCid": "bafkreihz3dg6gzk7jbanulsyigfizqlql24b5s5tdktvdillai6b5rnlau",
+  "numberOfDownloads": 17,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minecraftranks.108300/history",
+  "gitUrl": "https://github.com/maxjackson2/Minecraftranks",
+  "releaseDate": 1677602340000,
+  "updateDate": 1677602340000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

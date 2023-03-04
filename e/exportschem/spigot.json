@@ -1,0 +1,19 @@
+{
+  "id": 101418,
+  "url": "https://www.spigotmc.org/resources/exportschem.101418/",
+  "name": "ExportSchem",
+  "description": "This plugin that allows for importing and exporting your WorldEdit clipboard through a web interface",
+  "authors": [
+    "TrueWinter"
+  ],
+  "numberOfDownloads": 48,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/exportschem.101418/history",
+  "gitUrl": "https://github.com/TrueWinter/ExportSchem",
+  "releaseDate": 1650128400000,
+  "updateDate": 1655131800000,
+  "versions": [
+    "1.18"
+  ]
+}

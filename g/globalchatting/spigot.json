@@ -1,0 +1,21 @@
+{
+  "id": 102730,
+  "url": "https://www.spigotmc.org/resources/globalchatting.102730/",
+  "name": "GlobalChatting",
+  "description": "Chatting via BungeeCord",
+  "authors": [
+    "rajaopak"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102730.jpg?1655619566",
+  "iconCid": "bafkreicnpma32f6rj5llrgm27q7s36a26rk4oyj76wtzezcfjhhlrixhs4",
+  "numberOfDownloads": 122,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/globalchatting.102730/history",
+  "gitUrl": "https://github.com/rajaopak/GlobalChatting",
+  "releaseDate": 1655615520000,
+  "updateDate": 1656471180000,
+  "versions": [
+    "1.19"
+  ]
+}

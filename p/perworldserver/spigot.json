@@ -1,0 +1,31 @@
+{
+  "id": 23989,
+  "url": "https://www.spigotmc.org/resources/perworldserver-per-world-tab-list-and-chat-1-8-8-1-18-1.23989/",
+  "name": "PerWorldServer | Per world tab list and chat | 1.8.8-1.18.1",
+  "description": "Allow only players from each world to chat and see to each other!",
+  "authors": [
+    "Struck713"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/23/23989.jpg?1652955514",
+  "iconCid": "bafkreifzomlo5puzdivu6pwojjfxerlartvrbzgczdok2hfwr5jb46uw7q",
+  "numberOfDownloads": 20996,
+  "rating": 4.2,
+  "numberOfVotes": 59,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/perworldserver-per-world-tab-list-and-chat-1-8-8-1-18-1.23989/history",
+  "gitUrl": "https://github.com/Struck713/PerWorldServer",
+  "releaseDate": 1464546240000,
+  "updateDate": 1652983860000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

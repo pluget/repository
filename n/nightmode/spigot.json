@@ -1,0 +1,32 @@
+{
+  "id": 102803,
+  "url": "https://www.spigotmc.org/resources/nightmode-mysql-perworld-1-8-x-1-19-x-placeholder-api.102803/",
+  "name": "NightMode | MySQL | PerWorld | 1.8.x - 1.19.x | Placeholder API",
+  "description": "Option for users to put their sky day or night. Special for lobbies!",
+  "authors": [
+    "NotMeg4_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102803.jpg?1655872967",
+  "iconCid": "bafkreichqz2pjmxzxmsadp6ihf22ixw4amu5l5j2drzjv43najstnxnzqi",
+  "numberOfDownloads": 40,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nightmode-mysql-perworld-1-8-x-1-19-x-placeholder-api.102803/history",
+  "gitUrl": "https://github.com/NotMeg4/nightmode",
+  "releaseDate": 1655869320000,
+  "updateDate": 1655901660000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 100874,
+  "url": "https://www.spigotmc.org/resources/slime-in-a-bukkit-1-15-1-19.100874/",
+  "name": "Slime in a Bukkit [1.15-1.19]",
+  "description": "locate slime chunks using a slime in a bucket item (compatible with ItemsAdder)",
+  "authors": [
+    "Danik_Vitek"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100874.jpg?1647901205",
+  "iconCid": "bafkreiagjgc2zdcbr4ytd5vywfimx5zsmunwlg6sqv6ml3o6u4p3hixnxi",
+  "numberOfDownloads": 961,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/slime-in-a-bukkit-1-15-1-19.100874/history",
+  "gitUrl": "https://github.com/DanikVitek/SlimeInABukkit",
+  "releaseDate": 1647897000000,
+  "updateDate": 1674310140000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

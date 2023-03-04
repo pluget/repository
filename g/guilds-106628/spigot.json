@@ -1,0 +1,23 @@
+{
+  "id": 106628,
+  "url": "https://www.spigotmc.org/resources/guilds.106628/",
+  "name": "Guilds",
+  "description": "Inspire your players to make friends and cooperate.",
+  "authors": [
+    "Jamm_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106628.jpg?1670519321",
+  "iconCid": "bafkreib4czizb4nsbrpxzyapux5ubitst3cuujythggxmag6ii7x4ovowi",
+  "numberOfDownloads": 214,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/guilds.106628/history",
+  "gitUrl": "https://github.com/justinmtech/Guilds",
+  "releaseDate": 1670515680000,
+  "updateDate": 1670688420000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

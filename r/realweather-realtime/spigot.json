@@ -1,0 +1,22 @@
+{
+  "id": 101599,
+  "url": "https://www.spigotmc.org/resources/realweather-realtime.101599/",
+  "name": "RealWeather / RealTime",
+  "description": "Synchronize real-world weather and/or time with your virtual world",
+  "authors": [
+    "Minecon724"
+  ],
+  "numberOfDownloads": 272,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/realweather-realtime.101599/history",
+  "gitUrl": "https://github.com/Minecon724/RealWeather",
+  "releaseDate": 1650735120000,
+  "updateDate": 1654961940000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

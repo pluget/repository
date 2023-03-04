@@ -1,0 +1,26 @@
+{
+  "id": 96771,
+  "url": "https://www.spigotmc.org/resources/mob-colors.96771/",
+  "name": "Mob Colors",
+  "description": "Manage mob colors and variants",
+  "authors": [
+    "SlimeDog"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96771.jpg?1676444280",
+  "iconCid": "bafkreigptvi3z43siigtwxvxf5fwdcacpbxbtzp3c4vqa65b57kjmplyeu",
+  "numberOfDownloads": 161,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mob-colors.96771/history",
+  "gitUrl": "https://github.com/SlimeDog/MobColors/",
+  "releaseDate": 1633978500000,
+  "updateDate": 1657461660000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

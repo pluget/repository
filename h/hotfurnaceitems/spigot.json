@@ -1,0 +1,27 @@
+{
+  "id": 101747,
+  "url": "https://www.spigotmc.org/resources/hotfurnaceitems-realistic-furnace.101747/",
+  "name": "HotFurnaceItems | Realistic Furnace",
+  "description": "This plugin adds chance that when you take an item from the furnace, it will burn you.",
+  "authors": [
+    "WINGS7"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101747.jpg?1651335421",
+  "iconCid": "bafkreigm43xcpjjgngfkpqvb44akqcwrnpjmzda55euudutsuwhxg76pdq",
+  "numberOfDownloads": 154,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hotfurnaceitems-realistic-furnace.101747/history",
+  "gitUrl": "https://github.com/WINGS7N/HotFurnaceItems",
+  "releaseDate": 1651331520000,
+  "updateDate": 1654706640000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

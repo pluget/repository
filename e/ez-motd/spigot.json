@@ -1,0 +1,33 @@
+{
+  "id": 98881,
+  "url": "https://www.spigotmc.org/resources/ez-motd-1-7-1-19.98881/",
+  "name": "Ez Motd [1.7 - 1.19]",
+  "description": "lightweight Custom MOTD , join/leave and unlimited Fake player slots messages plugin",
+  "authors": [
+    "gamingisart"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98881.jpg?1641134128",
+  "iconCid": "bafkreiexxth5caogyzaopz7ynkjdv3sdtbghl22apdckldg63jqruwndfe",
+  "numberOfDownloads": 184,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ez-motd-1-7-1-19.98881/history",
+  "gitUrl": "https://github.com/tharulYT/EzMotd/wiki",
+  "releaseDate": 1641130500000,
+  "updateDate": 1656471960000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

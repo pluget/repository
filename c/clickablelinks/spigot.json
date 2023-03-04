@@ -1,0 +1,21 @@
+{
+  "id": 105786,
+  "url": "https://www.spigotmc.org/resources/clickablelinks.105786/",
+  "name": "ClickableLinks",
+  "description": "Brings clickable links to minecraft chat",
+  "authors": [
+    "FEST_Channel"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105786.jpg?1665847753",
+  "iconCid": "bafkreidi3fovqjtyponrq2swgztqcgxioidp5kkscmqe57o7miykp6qpei",
+  "numberOfDownloads": 221,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/clickablelinks.105786/history",
+  "gitUrl": "https://github.com/festino-mc-plugins/ClickableLinks",
+  "releaseDate": 1665843180000,
+  "updateDate": 1671720480000,
+  "versions": [
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 69872,
+  "url": "https://www.spigotmc.org/resources/fraud-alts-finder-geoip-precision-update.69872/",
+  "name": "Fraud - Alts Finder - GEOIP PRECISION UPDATE",
+  "description": "Fight against alts accounts.",
+  "authors": [
+    "Rgld_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/69/69872.jpg?1564532291",
+  "iconCid": "bafkreibkqbcr23g3zxmwyhkkgftldv4fymwo4utgisjuvm7zssnna7t5qm",
+  "numberOfDownloads": 1088,
+  "rating": 3.4,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fraud-alts-finder-geoip-precision-update.69872/history",
+  "gitUrl": "https://url.rgld.fr/fraud-sc",
+  "releaseDate": 1564528620000,
+  "updateDate": 1655748060000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

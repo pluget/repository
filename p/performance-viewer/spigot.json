@@ -1,0 +1,21 @@
+{
+  "id": 108302,
+  "url": "https://www.spigotmc.org/resources/performance-viewer.108302/",
+  "name": "Performance viewer",
+  "description": "performance, TPS, MSPT, RAM, TabList, ActionBar, BossBar, Debugging",
+  "authors": [
+    "SpieleLP"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108302.jpg?1677680504",
+  "iconCid": "bafkreiembsgvo34zhvfiiljwmhhvxfjutecawgexgtcbtzj7rbkxkbkmo4",
+  "numberOfDownloads": 59,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/performance-viewer.108302/history",
+  "releaseDate": 1677698460000,
+  "updateDate": 1677698460000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

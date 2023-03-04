@@ -1,0 +1,32 @@
+{
+  "id": 90671,
+  "url": "https://www.spigotmc.org/resources/t2c-commandgui-functionsgui-spigot-bungee-1-8-x-1-19-x.90671/",
+  "name": "T2C-CommandGUI | FunctionsGUI | Spigot & Bungee [1.8.x - 1.19.x]",
+  "description": "FunctionsGUI | Custom GUIs | Use Commands | Send Messages on Player | Supports PlaceholderAPI | 1.18",
+  "authors": [
+    "JaTiTV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90671.jpg?1624296596",
+  "iconCid": "bafkreih4qmgmmep6ylep7dvpevsyeuks6rtkrxmj7xg4sidgpg3tmy4iym",
+  "numberOfDownloads": 3563,
+  "rating": 3.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/t2c-commandgui-functionsgui-spigot-bungee-1-8-x-1-19-x.90671/history",
+  "gitUrl": "https://git.t2code.net/JaTiTV/T2C-CommandGUI",
+  "releaseDate": 1616947140000,
+  "updateDate": 1671667800000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

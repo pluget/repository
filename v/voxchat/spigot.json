@@ -1,0 +1,21 @@
+{
+  "id": 82550,
+  "url": "https://www.spigotmc.org/resources/voxchat.82550/",
+  "name": "VoxChat",
+  "description": "Modern Minecraft Chat Formatter",
+  "authors": [
+    "Sxtanna"
+  ],
+  "numberOfDownloads": 358,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/voxchat.82550/history",
+  "gitUrl": "https://github.com/Sxtanna/vox-chat",
+  "releaseDate": 1596978600000,
+  "updateDate": 1652794800000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

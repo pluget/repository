@@ -1,0 +1,28 @@
+{
+  "id": 108164,
+  "url": "https://www.spigotmc.org/resources/easyteleport.108164/",
+  "name": "EasyTeleport",
+  "description": "EasyTeleport is an opensource minecraft server plugin developed by KDS.",
+  "authors": [
+    "YTKarlo"
+  ],
+  "numberOfDownloads": 16,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/easyteleport.108164/history",
+  "gitUrl": "https://github.com/KarloYT/easyteleport-source",
+  "releaseDate": 1677007560000,
+  "updateDate": 1677007560000,
+  "versions": [
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

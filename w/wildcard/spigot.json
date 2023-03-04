@@ -1,0 +1,23 @@
+{
+  "id": 97996,
+  "url": "https://www.spigotmc.org/resources/wildcard-1-8-latest.97996/",
+  "name": "Wildcard [1.8 - latest]",
+  "description": "Token based Whitelist to give away \"Keys\" to join your server",
+  "authors": [
+    "Lauriichan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97996.jpg?1638224221",
+  "iconCid": "bafkreibzaqrkgehwgd42mnon7fwdgc26bnnyn4nadrpbfpbq6zldjadqte",
+  "numberOfDownloads": 213,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/wildcard-1-8-latest.97996/history",
+  "gitUrl": "https://github.com/Lauriichan/Wildcard",
+  "releaseDate": 1638202140000,
+  "updateDate": 1653846420000,
+  "versions": [
+    "1.8",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 20221,
+  "url": "https://www.spigotmc.org/resources/explosionregeneration.20221/",
+  "name": "ExplosionRegeneration",
+  "description": "Regenerate exploded blocks",
+  "authors": [
+    "foncused"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/20/20221.jpg?1545518860",
+  "iconCid": "bafkreic5z5r2tqhr7wr3y6ymltzluvy3xk7gbkgxt3vm6c5iyzonpf56ba",
+  "numberOfDownloads": 5233,
+  "rating": 5,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/explosionregeneration.20221/history",
+  "gitUrl": "https://github.com/foncused/ExplosionRegeneration",
+  "releaseDate": 1458286200000,
+  "updateDate": 1656680940000,
+  "versions": [
+    "1.19"
+  ]
+}

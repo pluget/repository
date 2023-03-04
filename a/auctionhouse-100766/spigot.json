@@ -1,0 +1,23 @@
+{
+  "id": 100766,
+  "url": "https://www.spigotmc.org/resources/auctionhouse-classic.100766/",
+  "name": "AuctionHouse-Classic",
+  "description": "An AuctionHouse plugin for 1.13.2-1.16.5 with a familiar interface.",
+  "authors": [
+    "klugemonkey"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100766.jpg?1647513391",
+  "iconCid": "bafkreicllwzrmfhbt2ctlo6wib2cap6ft763wtwliintzdgbyfuq2gfkba",
+  "numberOfDownloads": 18923,
+  "rating": 3.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/auctionhouse-classic.100766/history",
+  "releaseDate": 1647509460000,
+  "updateDate": 1656633240000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

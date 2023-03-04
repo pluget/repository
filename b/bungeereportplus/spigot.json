@@ -1,0 +1,27 @@
+{
+  "id": 103018,
+  "url": "https://www.spigotmc.org/resources/bungeereportplus.103018/",
+  "name": "BungeeReportPlus",
+  "description": "Bungeecord Report Plugin with teleport in the target server by clicking the report",
+  "authors": [
+    "Niko_Ox"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103018.jpg?1656629568",
+  "iconCid": "bafkreibt2jyhxzjrfqs6ou3lymofa2zswhqfwzo4qyb332rigeonuje7qe",
+  "numberOfDownloads": 114,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bungeereportplus.103018/history",
+  "releaseDate": 1656625920000,
+  "updateDate": 1656625920000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

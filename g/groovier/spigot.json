@@ -1,0 +1,22 @@
+{
+  "id": 102559,
+  "url": "https://www.spigotmc.org/resources/groovier.102559/",
+  "name": "Groovier",
+  "description": "Allow deploying server components via groovy script for server, supports hot reloading.",
+  "authors": [
+    "EricLam"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102559.jpg?1655039320",
+  "iconCid": "bafkreidgj75ow2crnvja6kvljk7sfmm7uhf7sbgrxuyrifpg23nke5jqo4",
+  "numberOfDownloads": 70,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/groovier.102559/history",
+  "gitUrl": "https://github.com/groovier-minecraft/Groovier",
+  "releaseDate": 1655035680000,
+  "updateDate": 1655896740000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

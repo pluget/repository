@@ -1,0 +1,21 @@
+{
+  "id": 108209,
+  "url": "https://www.spigotmc.org/resources/aiswear.108209/",
+  "name": "AISwear",
+  "description": "An anti-swear plugin for your server!",
+  "authors": [
+    "SpaceNiklas"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108209.jpg?1677175283",
+  "iconCid": "bafkreie7sy7w2q6v3lga3ly63k4t7tqb4fbkr736qgmizgtf57legind7y",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/aiswear.108209/history",
+  "gitUrl": "https://github.com/SpaceNiklas/AISwear",
+  "releaseDate": 1677171660000,
+  "updateDate": 1677171660000,
+  "versions": [
+    "1.19"
+  ]
+}

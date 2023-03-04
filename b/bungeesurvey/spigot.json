@@ -1,0 +1,31 @@
+{
+  "id": 66271,
+  "url": "https://www.spigotmc.org/resources/bungeesurvey-bungeecord-survey-poll-plugin.66271/",
+  "name": "BungeeSurvey - Bungeecord survey / poll plugin",
+  "description": "Create surveys / polls across servers",
+  "authors": [
+    "Wolfbros"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/66/66271.jpg?1554561423",
+  "iconCid": "bafkreia4pxy3sy4vxh4vxedxj2gnvx74vminhlw4cu5ap4pnge3yczme3e",
+  "numberOfDownloads": 1488,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bungeesurvey-bungeecord-survey-poll-plugin.66271/history",
+  "releaseDate": 1554557760000,
+  "updateDate": 1655121720000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

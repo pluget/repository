@@ -1,0 +1,27 @@
+{
+  "id": 94245,
+  "url": "https://www.spigotmc.org/resources/glaciervotes.94245/",
+  "name": "GlacierVotes",
+  "description": "Receive vote from minecraftpe / bedrock voting sites if your server using allow Bedrock players",
+  "authors": [
+    "Khuirul_Huda"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94245.jpg?1626233497",
+  "iconCid": "bafkreieplvw3dfii6a2kgbl3cf2hroqutxjbl7b6utyib5z3pwaogtquau",
+  "numberOfDownloads": 146,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/glaciervotes.94245/history",
+  "gitUrl": "https://github.com/Khuirul-Huda/GlacierVotes",
+  "releaseDate": 1626229860000,
+  "updateDate": 1656910740000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 71607,
+  "url": "https://www.spigotmc.org/resources/redditcraft-reddit-forum-with-minecraft-integrations-1-8-8-1-18-1-spigot-paper.71607/",
+  "name": "RedditCraft | Reddit Forum With Minecraft Integrations [1.8.8 - 1.18.1] [Spigot & Paper]",
+  "description": "Use a subreddit with Minecraft integrations as your server forums software.",
+  "authors": [
+    "Omarathon"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/71/71607.jpg?1569829096",
+  "iconCid": "bafkreihf4vmbosfqfvj7quhowdajaphj7zirvodpqreddchzxhobnnvuga",
+  "numberOfDownloads": 1347,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/redditcraft-reddit-forum-with-minecraft-integrations-1-8-8-1-18-1-spigot-paper.71607/history",
+  "gitUrl": "https://github.com/omarathon/redditcraft",
+  "releaseDate": 1569553260000,
+  "updateDate": 1654437120000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

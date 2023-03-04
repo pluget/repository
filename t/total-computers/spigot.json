@@ -1,0 +1,24 @@
+{
+  "id": 100924,
+  "url": "https://www.spigotmc.org/resources/total-computers.100924/",
+  "name": "Total Computers",
+  "description": "Computers in vanilla minecraft",
+  "authors": [
+    "JNNGL"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100924.jpg?1648128197",
+  "iconCid": "bafkreiftyormwe6xrfwh3c2rqputiw6oiivwkd64avs4pqv7lsvuxmdgw4",
+  "numberOfDownloads": 1107,
+  "rating": 5,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/total-computers.100924/history",
+  "gitUrl": "https://github.com/JNNGL/TotalComputers/",
+  "releaseDate": 1648124400000,
+  "updateDate": 1656258300000,
+  "versions": [
+    "1.12",
+    "1.16",
+    "1.18",
+    "1.19"
+  ]
+}

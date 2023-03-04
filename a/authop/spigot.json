@@ -1,0 +1,23 @@
+{
+  "id": 103032,
+  "url": "https://www.spigotmc.org/resources/authop.103032/",
+  "name": "AuthOp",
+  "description": "AuthOp, A auth plugin for staffs and operators.",
+  "authors": [
+    "mixer.dll"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103032.jpg?1656677590",
+  "iconCid": "bafkreidntt2lboho5rrebjj3tnxv455gts4bodigzg2g474qsnz7oka3im",
+  "numberOfDownloads": 34,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/authop.103032/history",
+  "releaseDate": 1656673920000,
+  "updateDate": 1656696600000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

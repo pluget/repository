@@ -1,0 +1,22 @@
+{
+  "id": 105680,
+  "url": "https://www.spigotmc.org/resources/thirstforwater.105680/",
+  "name": "ThirstForWater",
+  "description": "A library for PaperMC 1.18 and above that adding a thirst system",
+  "authors": [
+    "kiinse"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105680.jpg?1665217976",
+  "iconCid": "bafkreialudkukrideofol4ifuoejerurveotc7lp6wjqq2l4aiowtvdzue",
+  "numberOfDownloads": 133,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/thirstforwater.105680/history",
+  "gitUrl": "https://github.com/NubilumDev/ThirstForWater",
+  "releaseDate": 1665214320000,
+  "updateDate": 1666537500000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

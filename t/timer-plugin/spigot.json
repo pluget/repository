@@ -1,0 +1,21 @@
+{
+  "id": 108243,
+  "url": "https://www.spigotmc.org/resources/timer-plugin.108243/",
+  "name": "Timer Plugin",
+  "description": "A Minecraft Timer plugin for Spigot",
+  "authors": [
+    "gokimax"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108243.jpg?1677332293",
+  "iconCid": "bafkreig7rh7a36rrhyp63qfibqyo5aeizthb7rxwry7tnlsfuef2htk6we",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/timer-plugin.108243/history",
+  "gitUrl": "https://github.com/gokiimax/timer-plugin",
+  "releaseDate": 1677328680000,
+  "updateDate": 1677328680000,
+  "versions": [
+    "1.19"
+  ]
+}

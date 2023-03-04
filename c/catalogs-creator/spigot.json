@@ -1,0 +1,22 @@
+{
+  "id": 103071,
+  "url": "https://www.spigotmc.org/resources/catalogs-creator.103071/",
+  "name": "Catalogs Creator",
+  "description": "Create custom menus!",
+  "authors": [
+    "SpGerg"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103071.jpg?1656839533",
+  "iconCid": "bafkreihmgbktvtqeoouuvm5mv2t5asmme34wc7ki5ixdur2zjxpdnpvc7m",
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/catalogs-creator.103071/history",
+  "gitUrl": "https://github.com/SpGerg/Catalogs",
+  "releaseDate": 1656832500000,
+  "updateDate": 1656832500000,
+  "versions": [
+    "1.12",
+    "1.17"
+  ]
+}

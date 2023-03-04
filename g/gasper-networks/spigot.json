@@ -1,0 +1,30 @@
+{
+  "id": 102075,
+  "url": "https://www.spigotmc.org/resources/gasper-networks.102075/",
+  "name": "Gasper Networks",
+  "description": "Basic plugin for add your social networks in your server",
+  "authors": [
+    "Didnt_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102075.jpg?1653199310",
+  "iconCid": "bafkreifv3uwpy2flgignr45omo6as7o7y6nyyovwpdbtnbkk2gyst2cphm",
+  "numberOfDownloads": 90,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gasper-networks.102075/history",
+  "releaseDate": 1652931840000,
+  "updateDate": 1653891840000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

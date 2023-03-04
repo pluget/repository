@@ -1,0 +1,22 @@
+{
+  "id": 104040,
+  "url": "https://www.spigotmc.org/resources/darkwaterapi.104040/",
+  "name": "DarkWaterAPI",
+  "description": "A library for SpigotMC 1.18 and above that aims to improve plugin code",
+  "authors": [
+    "kiinse"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104040.jpg?1659560374",
+  "iconCid": "bafkreify2pvf54id2xo4kaadhgyt52nj3vwdix4ub5mal6v4nwkrtqhwre",
+  "numberOfDownloads": 184,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/darkwaterapi.104040/history",
+  "gitUrl": "https://github.com/kiinse/DarkWaterAPI",
+  "releaseDate": 1659556680000,
+  "updateDate": 1665918600000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

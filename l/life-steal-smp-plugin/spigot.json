@@ -1,0 +1,24 @@
+{
+  "id": 94424,
+  "url": "https://www.spigotmc.org/resources/life-steal-smp-plugin.94424/",
+  "name": "Life Steal SMP Plugin",
+  "description": "When You Kill Someone, You Gain A Heart, And They Lose One.",
+  "authors": [
+    "Sir_Henry"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94424.jpg?1626662632",
+  "iconCid": "bafkreibtj4rytir6jjcefiqpau4eiabpscc673vyynaxqrpwm3fxyk5pma",
+  "numberOfDownloads": 158537,
+  "rating": 4,
+  "numberOfVotes": 13,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/life-steal-smp-plugin.94424/history",
+  "gitUrl": "https://github.com/SirHenryVII/LifeStealSMP",
+  "releaseDate": 1626658980000,
+  "updateDate": 1677215940000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

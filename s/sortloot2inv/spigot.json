@@ -1,0 +1,32 @@
+{
+  "id": 88097,
+  "url": "https://www.spigotmc.org/resources/sortloot2inv-puts-players-items-as-they-were-before-dead-on-pick-up-optimized-and-efficient.88097/",
+  "name": "SortLoot2Inv | Puts player's items as they were before dead on pick up | Optimized and efficient",
+  "description": "Set your dropped dead items as they were before dead when picked",
+  "authors": [
+    "Divios"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88097.jpg?1625438224",
+  "iconCid": "bafkreibjpev46dkueeqdvx2lekfjqo7p7lqd6s3nbk6torloh5bnvzill4",
+  "numberOfDownloads": 762,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sortloot2inv-puts-players-items-as-they-were-before-dead-on-pick-up-optimized-and-efficient.88097/history",
+  "gitUrl": "https://github.com/divios/SortLoot2Inv",
+  "releaseDate": 1611167100000,
+  "updateDate": 1655757600000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

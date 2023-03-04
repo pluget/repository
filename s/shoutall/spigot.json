@@ -1,0 +1,28 @@
+{
+  "id": 103300,
+  "url": "https://www.spigotmc.org/resources/shoutall.103300/",
+  "name": "ShoutAll",
+  "description": "Shout and invite all players in the server to play the game together!",
+  "authors": [
+    "CowNow"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103300.jpg?1657610718",
+  "iconCid": "bafkreigz3bbxsaf5kattkbyfvogeeluueiggwemkbrc54cxcvh3z5sljfi",
+  "numberOfDownloads": 160,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/shoutall.103300/history",
+  "gitUrl": "https://github.com/KapixOvO/ShoutAll",
+  "releaseDate": 1657607100000,
+  "updateDate": 1657607100000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

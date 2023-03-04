@@ -1,0 +1,26 @@
+{
+  "id": 100135,
+  "url": "https://www.spigotmc.org/resources/ui-jobs.100135/",
+  "name": "UI Jobs",
+  "description": "An Alternative Jobs System for your Survival Economy.",
+  "authors": [
+    "Corals"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100135.jpg?1645265866",
+  "iconCid": "bafkreige5gwpul24uaanux463zyjzrkrcotbtjnv2ngnlniolrz4cqovya",
+  "numberOfDownloads": 464,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ui-jobs.100135/history",
+  "releaseDate": 1645262160000,
+  "updateDate": 1676959800000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

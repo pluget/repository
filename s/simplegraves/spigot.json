@@ -1,0 +1,25 @@
+{
+  "id": 95212,
+  "url": "https://www.spigotmc.org/resources/simplegraves.95212/",
+  "name": "SimpleGraves",
+  "description": "Lightweight chest death plugin!",
+  "authors": [
+    "Silent_Program"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95212.jpg?1628648257",
+  "iconCid": "bafkreick6eeojmua7dnqh2n6255ozhkere43ojmxvewpzzmz3hfgv5ht2a",
+  "numberOfDownloads": 531,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplegraves.95212/history",
+  "gitUrl": "https://github.com/Silent-Program/SimpleGraves",
+  "releaseDate": 1628644620000,
+  "updateDate": 1652219100000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

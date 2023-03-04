@@ -1,0 +1,19 @@
+{
+  "id": 99940,
+  "url": "https://www.spigotmc.org/resources/cobalt-core.99940/",
+  "name": "Cobalt Core",
+  "description": "Cobalt Core is the library used for all plugins in the Cobalt family",
+  "authors": [
+    "Fusion1013"
+  ],
+  "numberOfDownloads": 36,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cobalt-core.99940/history",
+  "gitUrl": "https://github.com/Fusion1013/CobaltCore",
+  "releaseDate": 1644606420000,
+  "updateDate": 1652057580000,
+  "versions": [
+    "1.18"
+  ]
+}

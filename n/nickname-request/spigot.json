@@ -1,0 +1,26 @@
+{
+  "id": 6982,
+  "url": "https://www.spigotmc.org/resources/nickname-request.6982/",
+  "name": "Nickname Request",
+  "description": "A simple Nickname Request System - Making nicknaming easier!",
+  "authors": [
+    "TMFKSOFT"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/6/6982.jpg?1462553671",
+  "iconCid": "bafkreigiotcuzq5iq5oggqqsivzfrjc7f736iu7mp6uunzyjb4tljlfx6i",
+  "numberOfDownloads": 7272,
+  "rating": 4.8,
+  "numberOfVotes": 16,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nickname-request.6982/history",
+  "gitUrl": "https://github.com/tmfksoft/NicknameRequest",
+  "releaseDate": 1431384660000,
+  "updateDate": 1654463880000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.18"
+  ]
+}

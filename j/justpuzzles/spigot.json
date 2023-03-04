@@ -1,0 +1,27 @@
+{
+  "id": 30188,
+  "url": "https://www.spigotmc.org/resources/justpuzzles.30188/",
+  "name": "JustPuzzles",
+  "description": "Chat game with math and text questions",
+  "authors": [
+    "SPY_me"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/30/30188.jpg?1477217914",
+  "iconCid": "bafkreih5tmlgrvu2pcblg27twmm3gnnomdidc4fz22gt4mqtqeva6vdnri",
+  "numberOfDownloads": 673,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/justpuzzles.30188/history",
+  "gitUrl": "https://github.com/SPYmesu/JustPuzzles",
+  "releaseDate": 1475921580000,
+  "updateDate": 1671671160000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

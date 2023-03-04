@@ -1,0 +1,27 @@
+{
+  "id": 102567,
+  "url": "https://www.spigotmc.org/resources/chat-minecraft-chat-plugin.102567/",
+  "name": "Chat+ - Minecraft Chat Plugin",
+  "description": "The simple minecraft plugin of Chat.",
+  "authors": [
+    "Adrii97"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102567.jpg?1655055727",
+  "iconCid": "bafkreibfi6cf3tyavgmsov35xcatbn6da2veeciz7gqd6u6hifliqyx3bi",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chat-minecraft-chat-plugin.102567/history",
+  "releaseDate": 1655052060000,
+  "updateDate": 1655052060000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15"
+  ]
+}

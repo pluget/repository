@@ -1,0 +1,25 @@
+{
+  "id": 94886,
+  "url": "https://www.spigotmc.org/resources/opcommandlogger.94886/",
+  "name": "OPCommandLogger",
+  "description": "Log all commands, ran by a server operator.",
+  "authors": [
+    "SomeonesSon"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94886.jpg?1627836142",
+  "iconCid": "bafkreiai33fzbhz5m3rep5r4e52udrc7wv4fxvx52ufc2gnazw5vkw6sam",
+  "numberOfDownloads": 140,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/opcommandlogger.94886/history",
+  "releaseDate": 1627832460000,
+  "updateDate": 1656566340000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

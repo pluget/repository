@@ -1,0 +1,24 @@
+{
+  "id": 87115,
+  "url": "https://www.spigotmc.org/resources/thisway.87115/",
+  "name": "Thisway",
+  "description": "A simple Spigot teleportation plugin for 1.6-1.16.",
+  "authors": [
+    "Toydotgam"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87115.jpg?1614646296",
+  "iconCid": "bafkreibfpojhx5hbahbc2ejckrvyvdqhtecqyor4we5etbpduenzlzbmru",
+  "numberOfDownloads": 262,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/thisway.87115/history",
+  "gitUrl": "https://github.com/toydotgame/Thisway",
+  "releaseDate": 1609021440000,
+  "updateDate": 1653207360000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.16"
+  ]
+}

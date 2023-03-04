@@ -1,0 +1,30 @@
+{
+  "id": 106882,
+  "url": "https://www.spigotmc.org/resources/playerstatssync-1-9-x-1-19-x.106882/",
+  "name": "PlayerStatsSync - 1.9.x-1.19.x",
+  "description": "Synchronization of vanilla player statistics across multiple servers",
+  "authors": [
+    "Dakir"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106882.jpg?1671703278",
+  "iconCid": "bafkreieebqjci7sijvarkqwpz32uw3qroz3gdga5hsc6sy2ejafj7prtua",
+  "numberOfDownloads": 51,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playerstatssync-1-9-x-1-19-x.106882/history",
+  "releaseDate": 1671699660000,
+  "updateDate": 1671700020000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

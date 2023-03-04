@@ -1,0 +1,30 @@
+{
+  "id": 101912,
+  "url": "https://www.spigotmc.org/resources/simple-join-leave-messages.101912/",
+  "name": "Simple Join/Leave Messages",
+  "description": "Simple plugin that prints join/leave messages",
+  "authors": [
+    "SICKOMC"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101912.jpg?1652097560",
+  "iconCid": "bafkreifngdkomouqyfvdgk7u3cby6sdiszwpmu7u74mxcsqlkqqp5ycgvm",
+  "numberOfDownloads": 79,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-join-leave-messages.101912/history",
+  "releaseDate": 1652093940000,
+  "updateDate": 1652864700000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

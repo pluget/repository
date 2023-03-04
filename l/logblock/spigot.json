@@ -1,0 +1,21 @@
+{
+  "id": 67333,
+  "url": "https://www.spigotmc.org/resources/logblock.67333/",
+  "name": "LogBlock",
+  "description": "Log block changes, entity kills and more",
+  "authors": [
+    "Brokkonaut"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/67/67333.jpg?1557709541",
+  "iconCid": "bafkreibyedlwshl7iij3smvzrvn57q4xl6pebs6z4p5joljzvc2niwvtni",
+  "numberOfDownloads": 175319,
+  "rating": 3.8,
+  "numberOfVotes": 19,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/logblock.67333/history",
+  "gitUrl": "https://github.com/LogBlock/LogBlock",
+  "releaseDate": 1557705900000,
+  "updateDate": 1656823860000,
+  "versions": [
+    "1.19"
+  ]
+}

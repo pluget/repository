@@ -1,0 +1,31 @@
+{
+  "id": 94246,
+  "url": "https://www.spigotmc.org/resources/voicechat-renewed.94246/",
+  "name": "VoiceChat Renewed",
+  "description": "VoiceChat Renewed - voice chat in Minecraft - no mods",
+  "authors": [
+    "EmnichtdaYT"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94246.jpg?1626239025",
+  "iconCid": "bafkreigygv4twnsmlq5jt7zixp6eb3task2lfkwuucskp3rj64kt34ql4y",
+  "numberOfDownloads": 957,
+  "rating": 3,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/voicechat-renewed.94246/history",
+  "gitUrl": "https://github.com/EmnichtdaYT/VoiceChatRenewed/",
+  "releaseDate": 1626235320000,
+  "updateDate": 1654177920000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 77224,
+  "url": "https://www.spigotmc.org/resources/beesplus.77224/",
+  "name": "BeesPlus",
+  "description": "Enhance your experience in the Bees update!",
+  "authors": [
+    "Attlantiz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/77/77224.jpg?1586484063",
+  "iconCid": "bafkreicc6r5cp3z4pesjtrpbtbysoscljh24phjnrckll6i5qwpl5ngyri",
+  "numberOfDownloads": 1251,
+  "rating": 4.7,
+  "numberOfVotes": 15,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/beesplus.77224/history",
+  "gitUrl": "https://github.com/tomasff/BeesPlus",
+  "releaseDate": 1586480400000,
+  "updateDate": 1655745780000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

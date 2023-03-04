@@ -1,0 +1,23 @@
+{
+  "id": 101022,
+  "url": "https://www.spigotmc.org/resources/intents.101022/",
+  "name": "Intents",
+  "description": "A simple (Bukkit/Spigot/Paper) plugin!",
+  "authors": [
+    "ddanio"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101022.jpg?1657473999",
+  "iconCid": "bafkreid5oizpzqbw75s3axvdho2lo4wchldgsbzlf5w6j2dtum3nd3i6hi",
+  "numberOfDownloads": 40,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/intents.101022/history",
+  "releaseDate": 1648469520000,
+  "updateDate": 1657470660000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.18",
+    "1.19"
+  ]
+}

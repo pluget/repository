@@ -1,0 +1,31 @@
+{
+  "id": 3239,
+  "url": "https://www.spigotmc.org/resources/autorank.3239/",
+  "name": "Autorank",
+  "description": "An automatic ranking plugin that allows you to set automatic rank-ups with special requirements.",
+  "authors": [
+    "Ironic_8b49"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/3/3239.jpg?1421522828",
+  "iconCid": "bafkreifjvpykk3bd2pmne7ukwncriuumefnv4rgukzyjipf3yyoqv5weha",
+  "numberOfDownloads": 73064,
+  "rating": 3.9,
+  "numberOfVotes": 182,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/autorank.3239/history",
+  "gitUrl": "https://github.com/Ironic8b498/Autorank",
+  "releaseDate": 1421517780000,
+  "updateDate": 1677331560000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

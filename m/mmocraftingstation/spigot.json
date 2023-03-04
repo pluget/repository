@@ -1,0 +1,22 @@
+{
+  "id": 105349,
+  "url": "https://www.spigotmc.org/resources/mmocraftingstation.105349/",
+  "name": "MMOCraftingStation",
+  "description": "MMOItems Addon | Custom command to open stations without op or with custom permission",
+  "authors": [
+    "VoChiDanh"
+  ],
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mmocraftingstation.105349/history",
+  "gitUrl": "https://github.com/VoChiDanh/MMOCraftingStation",
+  "releaseDate": 1663503000000,
+  "updateDate": 1663503000000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

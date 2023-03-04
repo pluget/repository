@@ -1,0 +1,31 @@
+{
+  "id": 85531,
+  "url": "https://www.spigotmc.org/resources/zitemstacker-stack-yours-items.85531/",
+  "name": "zItemStacker - Stack yours items",
+  "description": "Allows you to stack your items to reduce the number of items on the floor",
+  "authors": [
+    "Maxlego08"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85531.jpg?1604693045",
+  "iconCid": "bafkreigtme5xbqvvngvhiemmepimc2sd4kkrmqtfbps7yizmee5eussepq",
+  "numberOfDownloads": 8689,
+  "rating": 5,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/zitemstacker-stack-yours-items.85531/history",
+  "gitUrl": "https://github.com/Maxlego08/zItemStacker",
+  "releaseDate": 1604689380000,
+  "updateDate": 1655480820000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

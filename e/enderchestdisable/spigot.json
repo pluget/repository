@@ -1,0 +1,30 @@
+{
+  "id": 101909,
+  "url": "https://www.spigotmc.org/resources/enderchestdisable.101909/",
+  "name": "EnderChestDisable",
+  "description": "Simple plugin that disables the use of ender chests",
+  "authors": [
+    "SICKOMC"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101909.jpg?1652087748",
+  "iconCid": "bafkreigg6ax5hrs7glghbesmqlmmh6m45iawt6wybpit3r53faf7psypma",
+  "numberOfDownloads": 70,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/enderchestdisable.101909/history",
+  "releaseDate": 1652084100000,
+  "updateDate": 1652940420000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

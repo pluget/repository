@@ -1,0 +1,30 @@
+{
+  "id": 57992,
+  "url": "https://www.spigotmc.org/resources/simpleorm.57992/",
+  "name": "SimpleORM",
+  "description": "A Bukkit plugin provides a central ORM Manager.",
+  "authors": [
+    "caoli5288"
+  ],
+  "numberOfDownloads": 538,
+  "rating": 1,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simpleorm.57992/history",
+  "gitUrl": "https://github.com/caoli5288/simpleorm",
+  "releaseDate": 1529679360000,
+  "updateDate": 1671717540000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

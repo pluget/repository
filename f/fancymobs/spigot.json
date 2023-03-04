@@ -1,0 +1,25 @@
+{
+  "id": 95079,
+  "url": "https://www.spigotmc.org/resources/fancymobs.95079/",
+  "name": "FancyMobs",
+  "description": "The Fancy series of plugins process data about mob.",
+  "authors": [
+    "s99889989"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95079.jpg?1628341699",
+  "iconCid": "bafkreiezxwaeivybl2iwybyzs5izwhh4swmxazzhiuxoznyx3lnfqoryee",
+  "numberOfDownloads": 407,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fancymobs.95079/history",
+  "gitUrl": "https://github.com/s99889989/FancyMobs",
+  "releaseDate": 1628338080000,
+  "updateDate": 1655985180000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 81184,
+  "url": "https://www.spigotmc.org/resources/smallpets.81184/",
+  "name": "SmallPets",
+  "description": "Pets with abilites [1.12 - 1.19]",
+  "authors": [
+    "SmallCode"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81184.jpg?1594133884",
+  "iconCid": "bafkreih7jj2zd6pothe4gfg4wipbfaorvunukqo2uh7jdorugdb6nevsyy",
+  "numberOfDownloads": 30788,
+  "rating": 4.1,
+  "numberOfVotes": 46,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/smallpets.81184/history",
+  "gitUrl": "https://github.com/hannest03/SmallPets",
+  "releaseDate": 1594130220000,
+  "updateDate": 1657365720000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

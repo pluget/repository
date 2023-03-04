@@ -1,0 +1,24 @@
+{
+  "id": 87060,
+  "url": "https://www.spigotmc.org/resources/hypercrate.87060/",
+  "name": "HyperCrate",
+  "description": "The best free crate plugin!",
+  "authors": [
+    "tererun1"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87060.jpg?1608860663",
+  "iconCid": "bafkreicwgzfg3jcjwb5g2b35ud3fiaijufbx5ubugteoz4caxzymcgzvgu",
+  "numberOfDownloads": 667,
+  "rating": 4.7,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hypercrate.87060/history",
+  "gitUrl": "https://github.com/tererun/HyperCrate",
+  "releaseDate": 1608857040000,
+  "updateDate": 1656717960000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

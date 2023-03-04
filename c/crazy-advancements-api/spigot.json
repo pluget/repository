@@ -1,0 +1,21 @@
+{
+  "id": 51741,
+  "url": "https://www.spigotmc.org/resources/crazy-advancements-api.51741/",
+  "name": "Crazy Advancements API",
+  "description": "Add your own custom Advancements programmatically or through JSON files",
+  "authors": [
+    "ZockerAxel"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/51/51741.jpg?1515266014",
+  "iconCid": "bafkreifibqa7axn5jtxib72cvbjn7lablo42y3ffnfaxdraglxpcnm3ndq",
+  "numberOfDownloads": 10943,
+  "rating": 4.9,
+  "numberOfVotes": 13,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/crazy-advancements-api.51741/history",
+  "gitUrl": "https://github.com/ZockerAxel/CrazyAdvancementsAPI",
+  "releaseDate": 1515259860000,
+  "updateDate": 1670694300000,
+  "versions": [
+    "1.19"
+  ]
+}

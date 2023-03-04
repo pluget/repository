@@ -1,0 +1,26 @@
+{
+  "id": 101927,
+  "url": "https://www.spigotmc.org/resources/jsonconfigapi.101927/",
+  "name": "JSONConfigAPI",
+  "description": "Simplest API for JSON-config.",
+  "authors": [
+    "Neros2k"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101927.jpg?1652184470",
+  "iconCid": "bafkreicikudalu4vxnddtxj67sqqoi4fxlcs6malxqs2xxid25mt56zg7y",
+  "numberOfDownloads": 47,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/jsonconfigapi.101927/history",
+  "gitUrl": "https://github.com/neros2k/JSONConfigAPI",
+  "releaseDate": 1652180640000,
+  "updateDate": 1652181000000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

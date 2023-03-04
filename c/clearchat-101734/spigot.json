@@ -1,0 +1,32 @@
+{
+  "id": 101734,
+  "url": "https://www.spigotmc.org/resources/clearchat.101734/",
+  "name": "ClearChat",
+  "description": "Plugin that allows you to wipe the chat of a single user or the entire server.",
+  "authors": [
+    "12893"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101734.jpg?1651265598",
+  "iconCid": "bafkreicccap3dds5glvbekhx5nwy43vwmnrzualxmsvtojolahxa3zykiy",
+  "numberOfDownloads": 235,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/clearchat.101734/history",
+  "gitUrl": "https://github.com/128931/ClearChat",
+  "releaseDate": 1651261860000,
+  "updateDate": 1652785380000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

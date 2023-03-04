@@ -1,0 +1,32 @@
+{
+  "id": 100948,
+  "url": "https://www.spigotmc.org/resources/stop-vine-growing.100948/",
+  "name": "Stop Vine Growing",
+  "description": "Stop the growing of the vines, bamboo, cave vines and more using shears",
+  "authors": [
+    "HappierGore"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100948.jpg?1665785291",
+  "iconCid": "bafkreif3lswb7zbcsydpa7cf56kceau7jkermc3d7asfqwqnxneaqof6mi",
+  "numberOfDownloads": 259,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/stop-vine-growing.100948/history",
+  "gitUrl": "https://github.com/HappierGore/StopVainGroring",
+  "releaseDate": 1648180800000,
+  "updateDate": 1666033620000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

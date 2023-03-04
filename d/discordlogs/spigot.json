@@ -1,0 +1,26 @@
+{
+  "id": 102306,
+  "url": "https://www.spigotmc.org/resources/discordlogs-lite.102306/",
+  "name": "DiscordLogs \"Lite\"",
+  "description": "Add Discord Logs via Webhook to your spigot Server",
+  "authors": [
+    "Gaming_HD6"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102306.jpg?1653915935",
+  "iconCid": "bafkreidcr4xgl4eedc3ppncruheumujp62nse624hsmdzjimjouotpyz7m",
+  "numberOfDownloads": 131,
+  "rating": 3,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discordlogs-lite.102306/history",
+  "releaseDate": 1653912300000,
+  "updateDate": 1655307780000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

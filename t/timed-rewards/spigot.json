@@ -1,0 +1,25 @@
+{
+  "id": 34008,
+  "url": "https://www.spigotmc.org/resources/timed-rewards.34008/",
+  "name": "Timed Rewards",
+  "description": "Allow players to claim custom rewards over set periods of time.",
+  "authors": [
+    "Bradley"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/34/34008.jpg?1540096706",
+  "iconCid": "bafkreiccdamkbjpt5fg2r5oocgu7bvnkycuc3a452m4azbifgsbvnhalr4",
+  "numberOfDownloads": 15430,
+  "rating": 4.5,
+  "numberOfVotes": 39,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/timed-rewards.34008/history",
+  "releaseDate": 1483113840000,
+  "updateDate": 1654080240000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

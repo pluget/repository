@@ -1,0 +1,30 @@
+{
+  "id": 96396,
+  "url": "https://www.spigotmc.org/resources/soulpoints.96396/",
+  "name": "SoulPoints",
+  "description": "Protect Inventory, PvE/PvP, Support MythicMobs, Vanilla Mobs, Placeholder and other features.....",
+  "authors": [
+    "VoChiDanh"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96396.jpg?1638623634",
+  "iconCid": "bafkreicvphk5lejjyohloumen6titulnkiftzll7n6y3blzb6tmc44534u",
+  "numberOfDownloads": 835,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/soulpoints.96396/history",
+  "gitUrl": "https://github.com/VoChiDanh/SoulPoints",
+  "releaseDate": 1632320220000,
+  "updateDate": 1654691520000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

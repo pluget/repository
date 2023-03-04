@@ -1,0 +1,22 @@
+{
+  "id": 102026,
+  "url": "https://www.spigotmc.org/resources/rainmanng.102026/",
+  "name": "RainManNG",
+  "description": "Controlling rain frequency and length",
+  "authors": [
+    "Velnias75"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102026.jpg?1652680401",
+  "iconCid": "bafkreicfc3iblfsiwgucsrwbvhrjbdq7avbuath7fhcqe3mebfzpgdz7dy",
+  "numberOfDownloads": 138,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rainmanng.102026/history",
+  "gitUrl": "https://github.com/velnias75/RainManNG",
+  "releaseDate": 1652676780000,
+  "updateDate": 1654929300000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

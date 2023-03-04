@@ -1,0 +1,32 @@
+{
+  "id": 101325,
+  "url": "https://www.spigotmc.org/resources/topper.101325/",
+  "name": "Topper",
+  "description": "Another leaderboard plugin with better features and performance",
+  "authors": [
+    "HSGamer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101325.jpg?1649780274",
+  "iconCid": "bafkreiec7jjcmxgrwncp6a2gc36k2l2oxly3uezveyefpxfn2s2e24ps7e",
+  "numberOfDownloads": 322,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/topper.101325/history",
+  "gitUrl": "https://github.com/HSGamer/Topper",
+  "releaseDate": 1649776620000,
+  "updateDate": 1654656840000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

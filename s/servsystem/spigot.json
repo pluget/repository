@@ -1,0 +1,29 @@
+{
+  "id": 89128,
+  "url": "https://www.spigotmc.org/resources/servsystem.89128/",
+  "name": "ServSystem",
+  "description": "ServSytem / For A Minecraft Server",
+  "authors": [
+    "Gigantoxx"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89128.jpg?1613557416",
+  "iconCid": "bafkreibkapoom7jrc3bf6pp2nbeoyzukgybq2eqy6ccns5ixhy7ccipfga",
+  "numberOfDownloads": 72,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/servsystem.89128/history",
+  "releaseDate": 1613553720000,
+  "updateDate": 1674184500000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

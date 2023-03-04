@@ -1,0 +1,22 @@
+{
+  "id": 102977,
+  "url": "https://www.spigotmc.org/resources/nevertooexpensive.102977/",
+  "name": "NeverTooExpensive",
+  "description": "A plugin that disables the \"Too Expensive\" limitation on anvils.",
+  "authors": [
+    "FlowScript"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102977.jpg?1656470165",
+  "iconCid": "bafkreic2kn7g4zentgfsqmljoekkrj7v2swwwm3acf635ijtqoupwh3hky",
+  "numberOfDownloads": 217,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nevertooexpensive.102977/history",
+  "releaseDate": 1656466500000,
+  "updateDate": 1656617880000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 96224,
+  "url": "https://www.spigotmc.org/resources/ats-andret-tools-system-explosive-potion-craft-throwable-potion-that-explodes.96224/",
+  "name": "[ATS] Andret Tools System | Explosive potion | Craft throwable potion that explodes",
+  "description": "Craft throwable potion that explodes",
+  "authors": [
+    "Andret2344"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96224.jpg?1643043109",
+  "iconCid": "bafkreidns7ipy52co5mjtr4q5att6652bke7stcu5hxikh3hhclsrgpwpm",
+  "numberOfDownloads": 85,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ats-andret-tools-system-explosive-potion-craft-throwable-potion-that-explodes.96224/history",
+  "gitUrl": "https://gitlab.com/andret-tools-system/spigot/ats-explosive-potion/",
+  "releaseDate": 1631630700000,
+  "updateDate": 1655024520000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

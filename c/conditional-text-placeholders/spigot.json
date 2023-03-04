@@ -1,0 +1,30 @@
+{
+  "id": 82920,
+  "url": "https://www.spigotmc.org/resources/conditional-text-placeholders.82920/",
+  "name": "Conditional Text Placeholders",
+  "description": "A way to display custom text based on placeholder values.",
+  "authors": [
+    "Wertik1206"
+  ],
+  "numberOfDownloads": 905,
+  "rating": 5,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/conditional-text-placeholders.82920/history",
+  "gitUrl": "https://github.com/Wertik/ConditionalText",
+  "releaseDate": 1597848900000,
+  "updateDate": 1655223720000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

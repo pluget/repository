@@ -1,0 +1,28 @@
+{
+  "id": 73626,
+  "url": "https://www.spigotmc.org/resources/lasers-enigma-light-puzzles-editor.73626/",
+  "name": "Lasers Enigma - Light Puzzles editor",
+  "description": "✨ Create solve and share puzzles based on light ✨",
+  "authors": [
+    "bZx"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/73/73626.jpg?1576957565",
+  "iconCid": "bafkreicbzpkqvuxmbm4t77soguv4ld7nyjez7xbogv7veifmdw5dlccfxu",
+  "numberOfDownloads": 1317,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lasers-enigma-light-puzzles-editor.73626/history",
+  "gitUrl": "https://gitlab.com/lasersenigma/lasersenigma",
+  "releaseDate": 1576953900000,
+  "updateDate": 1655832840000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 3082,
+  "url": "https://www.spigotmc.org/resources/brewery.3082/",
+  "name": "Brewery",
+  "description": "Brewery is a plugin for an alternate brewing process, including alcoholic Potions.",
+  "authors": [
+    "Sn0wStorm"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/3/3082.jpg?1420929778",
+  "iconCid": "bafkreibt7cuj2yuxfzyyb3kv3fqyiijqt3x6ntfozxqkgvwimhepq74ora",
+  "numberOfDownloads": 48051,
+  "rating": 4.7,
+  "numberOfVotes": 52,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/brewery.3082/history",
+  "gitUrl": "https://github.com/DieReicheErethons/Brewery",
+  "releaseDate": 1420926120000,
+  "updateDate": 1657465740000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

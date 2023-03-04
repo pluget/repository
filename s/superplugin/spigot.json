@@ -1,0 +1,22 @@
+{
+  "id": 108246,
+  "url": "https://www.spigotmc.org/resources/superplugin.108246/",
+  "name": "Superplugin",
+  "description": "Das Plugin fügt viele Commands Hinzu",
+  "authors": [
+    "Loni_Dev2"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108246.jpg?1677345746",
+  "iconCid": "bafkreihrbxbjrkyci2hk63httdg5fgrgaipdgbuqed23bjwx5ul5zmql54",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/superplugin.108246/history",
+  "releaseDate": 1677342120000,
+  "updateDate": 1677342120000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

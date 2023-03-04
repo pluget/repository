@@ -1,0 +1,32 @@
+{
+  "id": 108352,
+  "url": "https://www.spigotmc.org/resources/risencombatlog.108352/",
+  "name": "RisenCombatLog",
+  "description": "A simple plugin that denies players to log out while in combat.",
+  "authors": [
+    "Kuosai"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108352.jpg?1677883796",
+  "iconCid": "bafkreicokxr6emi7mwby335mjxxg46kkvw7li2kzgmmu66qmwinrclqkly",
+  "numberOfDownloads": 8,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/risencombatlog.108352/history",
+  "gitUrl": "https://github.com/RisenTeam/RisenCombatLog",
+  "releaseDate": 1677880140000,
+  "updateDate": 1677880140000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

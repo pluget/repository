@@ -1,0 +1,32 @@
+{
+  "id": 103015,
+  "url": "https://www.spigotmc.org/resources/%E2%9A%A1-antiitemmove%E2%9A%A1-gui-highly-configurable-%E2%9A%A1.103015/",
+  "name": "⚡ AntiItemMove⚡ [GUI] [Highly Configurable] ⚡",
+  "description": "Prevent your players to move vanilla and custom items to another inventory",
+  "authors": [
+    "Rubix327"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103015.jpg?1656623321",
+  "iconCid": "bafkreid6ri2xf4riql5tz6ofhpvcoqa6gremtqa75un3ebcrrmgiflstxq",
+  "numberOfDownloads": 22,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9A%A1-antiitemmove%E2%9A%A1-gui-highly-configurable-%E2%9A%A1.103015/history",
+  "gitUrl": "https://github.com/Rubix327/AntiItemMove",
+  "releaseDate": 1656619680000,
+  "updateDate": 1656619680000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

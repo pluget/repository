@@ -1,0 +1,29 @@
+{
+  "id": 67282,
+  "url": "https://www.spigotmc.org/resources/orerandomizer.67282/",
+  "name": "OreRandomizer",
+  "description": "OreRandomizer creates ores upon lava/water interaction instead of cobblestone/stone/obsidian.",
+  "authors": [
+    "paulwearspjs"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/67/67282.jpg?1623508529",
+  "iconCid": "bafkreibhloiqot4m7wnc2udub2ptx3qbvprcogyoytf4fv5e337px3zf3a",
+  "numberOfDownloads": 4457,
+  "rating": 4.8,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/orerandomizer.67282/history",
+  "gitUrl": "https://github.com/crusopaul/OreRandomizer",
+  "releaseDate": 1557593460000,
+  "updateDate": 1670541060000,
+  "versions": [
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

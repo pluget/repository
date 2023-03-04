@@ -1,0 +1,30 @@
+{
+  "id": 66378,
+  "url": "https://www.spigotmc.org/resources/scautobroadcaster.66378/",
+  "name": "SCAutoBroadcaster",
+  "description": "Cool message auto broadcaster for your BungeeCord network!",
+  "authors": [
+    "sidecrew"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/66/66378.jpg?1554837998",
+  "iconCid": "bafkreialoaw3uquvch3i6vik5jraetqbd6o2frc66glq2ro7vkrn7jgvge",
+  "numberOfDownloads": 1256,
+  "rating": 4.7,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/scautobroadcaster.66378/history",
+  "releaseDate": 1554834360000,
+  "updateDate": 1653853800000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

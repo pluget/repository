@@ -1,0 +1,26 @@
+{
+  "id": 98872,
+  "url": "https://www.spigotmc.org/resources/spawnercontrol.98872/",
+  "name": "SpawnerControl",
+  "description": "Take Control Of Your Spawners",
+  "authors": [
+    "stumper66"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98872.jpg?1641913853",
+  "iconCid": "bafkreiehb2osn2ihqkdwxt4myz2s47s5i2vjp4mxgqf4rwtrvnfakwysfm",
+  "numberOfDownloads": 371,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/spawnercontrol.98872/history",
+  "gitUrl": "https://github.com/stumper66/SpawnerControl",
+  "releaseDate": 1641079740000,
+  "updateDate": 1655409120000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

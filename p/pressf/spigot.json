@@ -1,0 +1,23 @@
+{
+  "id": 102450,
+  "url": "https://www.spigotmc.org/resources/pressf.102450/",
+  "name": "PressF",
+  "description": "Press F to pay respects, without the spam. Includes leaderboards!",
+  "authors": [
+    "RyzenFromFire"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102450.jpg?1654455480",
+  "iconCid": "bafkreigtlpruvufpw5nb5wyc3hdfklfij7af3julwagf736heyiuo6iuw4",
+  "numberOfDownloads": 97,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pressf.102450/history",
+  "gitUrl": "https://github.com/RyzenFromFire/PressF",
+  "releaseDate": 1654451820000,
+  "updateDate": 1654451820000,
+  "versions": [
+    "1.16",
+    "1.18",
+    "1.19"
+  ]
+}

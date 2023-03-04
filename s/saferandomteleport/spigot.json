@@ -1,0 +1,22 @@
+{
+  "id": 101893,
+  "url": "https://www.spigotmc.org/resources/saferandomteleport.101893/",
+  "name": "SafeRandomTeleport",
+  "description": "A small plugin that will allow pvp-compatible, safe random teleports.",
+  "authors": [
+    "Blautee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101893.jpg?1652016174",
+  "iconCid": "bafkreifq3rzcgz4onrwiqq6wkygrbomktkyfp2pe4oq6hgeuzmxenlxi64",
+  "numberOfDownloads": 36,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/saferandomteleport.101893/history",
+  "gitUrl": "https://github.com/Blautee/SafeRandomTeleport",
+  "releaseDate": 1652012520000,
+  "updateDate": 1652012520000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

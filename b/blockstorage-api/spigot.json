@@ -1,0 +1,27 @@
+{
+  "id": 108248,
+  "url": "https://www.spigotmc.org/resources/blockstorage-api.108248/",
+  "name": "BlockStorage API",
+  "description": "Allows you to store the data for each block in files",
+  "authors": [
+    "WhiteIntent"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108248.jpg?1677363950",
+  "iconCid": "bafkreigb2eil45sh35t7a5iwu3ydl2yhg6zj2k56xn5jikzggznqyhgxzm",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blockstorage-api.108248/history",
+  "gitUrl": "https://github.com/WhiteIntento/BlockStorage",
+  "releaseDate": 1677344340000,
+  "updateDate": 1677344340000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

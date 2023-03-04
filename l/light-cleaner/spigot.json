@@ -1,0 +1,32 @@
+{
+  "id": 42469,
+  "url": "https://www.spigotmc.org/resources/light-cleaner.42469/",
+  "name": "Light Cleaner",
+  "description": "Regenerates light levels in your world, fixing bugged lighting such as black cliffs",
+  "authors": [
+    "TeamBergerhealer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/42/42469.jpg?1497750869",
+  "iconCid": "bafkreielbbbihp5fgjjickg67hktaduqgoce5wmoq74mpwhz65ny23sdja",
+  "numberOfDownloads": 35610,
+  "rating": 4.8,
+  "numberOfVotes": 128,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/light-cleaner.42469/history",
+  "gitUrl": "https://github.com/bergerhealer/Light-Cleaner",
+  "releaseDate": 1497747240000,
+  "updateDate": 1677106320000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

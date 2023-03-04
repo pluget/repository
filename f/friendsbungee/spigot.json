@@ -1,0 +1,21 @@
+{
+  "id": 103013,
+  "url": "https://www.spigotmc.org/resources/friendsbungee.103013/",
+  "name": "FriendsBungee",
+  "description": "FriendsBungee is a free plugin that allows you to add players as friends.",
+  "authors": [
+    "PataPom"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103013.jpg?1656683214",
+  "iconCid": "bafkreifqccsxdx5yjytibx4pv7itjvpp3vbminidcqpgetkt2xvo2mgsmm",
+  "numberOfDownloads": 136,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/friendsbungee.103013/history",
+  "gitUrl": "https://github.com/Dylandt1/FriendsBungee.git",
+  "releaseDate": 1656617040000,
+  "updateDate": 1656682920000,
+  "versions": [
+    "1.18"
+  ]
+}

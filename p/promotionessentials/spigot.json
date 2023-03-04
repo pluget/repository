@@ -1,0 +1,28 @@
+{
+  "id": 1184,
+  "url": "https://www.spigotmc.org/resources/promotionessentials.1184/",
+  "name": "PromotionEssentials",
+  "description": "Promote players with Time, Signs, Passwords, Tokens, Money and Kills!",
+  "authors": [
+    "ephan"
+  ],
+  "numberOfDownloads": 38401,
+  "rating": 4.2,
+  "numberOfVotes": 17,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/promotionessentials.1184/history",
+  "gitUrl": "https://github.com/ethsmith/PromotionEssentials2",
+  "releaseDate": 1411159440000,
+  "updateDate": 1653142500000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 102493,
+  "url": "https://www.spigotmc.org/resources/knapsacktogo4-powerful-cross-server-data-synchronization-plug-in-generation-4.102493/",
+  "name": "KnapsackToGo4:Powerful cross server data synchronization plug-in generation 4",
+  "description": "强大的跨服数据同步插件第4代。 可在多个服务器之间同步玩家数据，支持多种同步方式。 使用KnapsackToGo4可以轻松的完成多服务器之间的数据同步。",
+  "authors": [
+    "jianjianai"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102493.jpg?1654666416",
+  "iconCid": "bafkreiepcvwxidwijqprhrk4g2qg5w5jd5q374wtuyeglhfdihz5jfwwca",
+  "numberOfDownloads": 46,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/knapsacktogo4-powerful-cross-server-data-synchronization-plug-in-generation-4.102493/history",
+  "gitUrl": "https://gitee.com/jja8/KnapsackToGo4",
+  "releaseDate": 1654662780000,
+  "updateDate": 1654662780000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

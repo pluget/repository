@@ -1,0 +1,32 @@
+{
+  "id": 65417,
+  "url": "https://www.spigotmc.org/resources/minegag.65417/",
+  "name": "MineGag",
+  "description": "View memes in minecraft",
+  "authors": [
+    "Kyllian"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/65/65417.jpg?1551869127",
+  "iconCid": "bafkreibe4rmvf75k3yk6xtaeyrzitbbvpjg4awf3wsblfzc2dheuldaici",
+  "numberOfDownloads": 407,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minegag.65417/history",
+  "gitUrl": "https://github.com/InstantlyMoist/MineGag",
+  "releaseDate": 1677602520000,
+  "updateDate": 1677602520000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

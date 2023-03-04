@@ -1,0 +1,32 @@
+{
+  "id": 8610,
+  "url": "https://www.spigotmc.org/resources/tokenmanager.8610/",
+  "name": "TokenManager",
+  "description": "An ultimate token management plugin with amazing features.",
+  "authors": [
+    "Realized"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/8/8610.jpg?1435151379",
+  "iconCid": "bafkreicmdywek3d32vj4yddbyshwvl2jmsbtv3bwfwednpnhzwtppnu3o4",
+  "numberOfDownloads": 35601,
+  "rating": 4.2,
+  "numberOfVotes": 110,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tokenmanager.8610/history",
+  "gitUrl": "https://github.com/Realizedd/TokenManager",
+  "releaseDate": 1677413640000,
+  "updateDate": 1677413640000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

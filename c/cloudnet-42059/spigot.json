@@ -1,0 +1,32 @@
+{
+  "id": 42059,
+  "url": "https://www.spigotmc.org/resources/cloudnet-v3-the-cloud-network-environment-technology.42059/",
+  "name": "CloudNet v3 | The Cloud Network Environment Technology",
+  "description": "The alternative Minecraft Java and Bedrock server management solution",
+  "authors": [
+    "CloudNetService"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/42/42059.jpg?1544261161",
+  "iconCid": "bafkreieqex6gkulwcexbf7zfvdrmn5ttz3vpgcpmrwlhgllfgercm72xye",
+  "numberOfDownloads": 110225,
+  "rating": 4.7,
+  "numberOfVotes": 390,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cloudnet-v3-the-cloud-network-environment-technology.42059/history",
+  "gitUrl": "https://github.com/CloudNetService/CloudNet-v3",
+  "releaseDate": 1497119820000,
+  "updateDate": 1656081480000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

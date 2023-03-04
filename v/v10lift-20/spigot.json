@@ -1,0 +1,30 @@
+{
+  "id": 72317,
+  "url": "https://www.spigotmc.org/resources/v10lift-2-0-continuation-of-v10lift.72317/",
+  "name": "V10Lift 2.0 [Continuation of V10Lift]",
+  "description": "A realistic lift plugin for Spigot!",
+  "authors": [
+    "stijnb1234"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/72/72317.jpg?1572177630",
+  "iconCid": "bafkreiflmumx6gtljoy62f2qum44ddcurb2kryeq2gyhxtvi2mldeo2mvq",
+  "numberOfDownloads": 2916,
+  "rating": 4.9,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/v10lift-2-0-continuation-of-v10lift.72317/history",
+  "gitUrl": "https://github.com/SBDPlugins/V10Lift",
+  "releaseDate": 1572165000000,
+  "updateDate": 1655282400000,
+  "versions": [
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

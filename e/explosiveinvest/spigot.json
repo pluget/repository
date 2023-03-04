@@ -1,0 +1,28 @@
+{
+  "id": 102494,
+  "url": "https://www.spigotmc.org/resources/explosiveinvest.102494/",
+  "name": "ExplosiveInvest",
+  "description": "The easiest plugin to invest in minecraft",
+  "authors": [
+    "Nikwas"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102494.jpg?1654672330",
+  "iconCid": "bafkreiatmij3tdk2zxu3xtkyztm34lv6spxk74awsfbytds6pe5ufddoum",
+  "numberOfDownloads": 22,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/explosiveinvest.102494/history",
+  "releaseDate": 1654668720000,
+  "updateDate": 1654668840000,
+  "versions": [
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

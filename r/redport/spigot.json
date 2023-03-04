@@ -1,0 +1,32 @@
+{
+  "id": 101194,
+  "url": "https://www.spigotmc.org/resources/redport.101194/",
+  "name": "Redport",
+  "description": "Simple Report System",
+  "authors": [
+    "Snowii"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101194.jpg?1649191166",
+  "iconCid": "bafkreic3lpxvwxqbtu4wvi4po7573b7p5wx3t4u5dyqsp2besuccpqcag4",
+  "numberOfDownloads": 72,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/redport.101194/history",
+  "releaseDate": 1649187540000,
+  "updateDate": 1655220000000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

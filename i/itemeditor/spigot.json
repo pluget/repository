@@ -1,0 +1,20 @@
+{
+  "id": 102341,
+  "url": "https://www.spigotmc.org/resources/itemeditor.102341/",
+  "name": "ItemEditor",
+  "description": "Edit item names and lore with a simple command!",
+  "authors": [
+    "JamieIsGeek"
+  ],
+  "numberOfDownloads": 56,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/itemeditor.102341/history",
+  "gitUrl": "https://github.com/JamieIsGeek/ItemEditor",
+  "releaseDate": 1654014420000,
+  "updateDate": 1654014420000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

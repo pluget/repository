@@ -1,0 +1,27 @@
+{
+  "id": 92962,
+  "url": "https://www.spigotmc.org/resources/mcmmo-overhaul-quests-module.92962/",
+  "name": "mcMMO Overhaul Quests Module",
+  "description": "Quests module for mcMMO Overhaul",
+  "authors": [
+    "Browsit"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92962.jpg?1622691703",
+  "iconCid": "bafkreigigyvnn3dwj4ibnsdj64m67tgygdmssvtcp6ap2iqe6r4udhpjnu",
+  "numberOfDownloads": 557,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mcmmo-overhaul-quests-module.92962/history",
+  "gitUrl": "https://github.com/Browsit/mcMMOQuestsModule",
+  "releaseDate": 1622688060000,
+  "updateDate": 1656889140000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

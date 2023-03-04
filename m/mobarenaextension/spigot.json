@@ -1,0 +1,20 @@
+{
+  "id": 106125,
+  "url": "https://www.spigotmc.org/resources/mobarenaextension.106125/",
+  "name": "MobArenaExtension",
+  "description": "Extend 3rd pt plugins support and additional features for MobArena",
+  "authors": [
+    "SaitDev"
+  ],
+  "numberOfDownloads": 50,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mobarenaextension.106125/history",
+  "gitUrl": "https://github.com/SaitDev/MobArenaExtension",
+  "releaseDate": 1667736660000,
+  "updateDate": 1670488680000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

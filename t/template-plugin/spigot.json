@@ -1,0 +1,32 @@
+{
+  "id": 68134,
+  "url": "https://www.spigotmc.org/resources/template-plugin-template-for-plugin-creation.68134/",
+  "name": "Template Plugin - Template for plugin creation",
+  "description": "Template for plugin creation - 1.8 - 1.19",
+  "authors": [
+    "Maxlego08"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/68/68134.jpg?1631037940",
+  "iconCid": "bafkreibgg4cc4mfo6wgekfia3obxk7j6waupextjh6wnbfgqobbxu4z2eu",
+  "numberOfDownloads": 2312,
+  "rating": 3.9,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/template-plugin-template-for-plugin-creation.68134/history",
+  "gitUrl": "https://github.com/Maxlego08/TemplatePlugin",
+  "releaseDate": 1560020040000,
+  "updateDate": 1655379120000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

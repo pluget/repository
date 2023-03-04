@@ -1,0 +1,21 @@
+{
+  "id": 102349,
+  "url": "https://www.spigotmc.org/resources/structure-generation-rate.102349/",
+  "name": "Structure Generation Rate",
+  "description": "Allows you to adjust the generation rate of structures",
+  "authors": [
+    "Dexuby"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102349.jpg?1654050512",
+  "iconCid": "bafkreiaifj5iyljd6s4owkqj4auboui634x6u4hsnfxwezm2d4dtbgq4re",
+  "numberOfDownloads": 55,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/structure-generation-rate.102349/history",
+  "gitUrl": "https://github.com/dexuby/StructureGenerationRate",
+  "releaseDate": 1654046280000,
+  "updateDate": 1654046280000,
+  "versions": [
+    "1.18"
+  ]
+}

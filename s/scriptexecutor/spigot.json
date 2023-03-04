@@ -1,0 +1,27 @@
+{
+  "id": 82529,
+  "url": "https://www.spigotmc.org/resources/scriptexecutor.82529/",
+  "name": "ScriptExecutor",
+  "description": "Execute scripts/commands on the server's host system",
+  "authors": [
+    "W4545"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82529.jpg?1652750550",
+  "iconCid": "bafkreihmkwgxq2dgsehthu6imkb5uaegtvx3jhkttoswcgcivh37npkx5i",
+  "numberOfDownloads": 379,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/scriptexecutor.82529/history",
+  "gitUrl": "https://github.com/W4545/ScriptExecutor",
+  "releaseDate": 1596910860000,
+  "updateDate": 1652672100000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 15964,
+  "url": "https://www.spigotmc.org/resources/headdrops-1-8-1-18.15964/",
+  "name": "HeadDrops [1.8 - 1.18+]",
+  "description": "A bare-bones head-dropping plugin.",
+  "authors": [
+    "EvanTheSurfer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/15/15964.jpg?1609223848",
+  "iconCid": "bafkreigx74d2fqbuti2fmpy5ga754uvaj5v2tffwpus2lchf2gvxnnihuu",
+  "numberOfDownloads": 84527,
+  "rating": 4.7,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/headdrops-1-8-1-18.15964/history",
+  "gitUrl": "https://github.com/evancolewright/HeadDrops",
+  "releaseDate": 1450749780000,
+  "updateDate": 1655156940000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

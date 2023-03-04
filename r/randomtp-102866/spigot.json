@@ -1,0 +1,21 @@
+{
+  "id": 102866,
+  "url": "https://www.spigotmc.org/resources/randomtp.102866/",
+  "name": "RandomTP",
+  "description": "Teleport randomly around the world!",
+  "authors": [
+    "Kelopy"
+  ],
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/randomtp.102866/history",
+  "gitUrl": "https://github.com/Kelopy/randomtp-plugin",
+  "releaseDate": 1656068940000,
+  "updateDate": 1656068940000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14"
+  ]
+}

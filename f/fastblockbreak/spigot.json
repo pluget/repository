@@ -1,0 +1,32 @@
+{
+  "id": 101985,
+  "url": "https://www.spigotmc.org/resources/fastblockbreak-1-8-1-19.101985/",
+  "name": "FastBlockBreak [1.8-1.19]",
+  "description": "|| Lightweight utility to break blocks faster than spigot/bukkit allows! ||",
+  "authors": [
+    "iLucaH"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101985.jpg?1652501653",
+  "iconCid": "bafkreie3j3bx6o27dv2pupkk3pfsi4tfxhw2xnzujjrizvnry7sb7x4w2u",
+  "numberOfDownloads": 77,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fastblockbreak-1-8-1-19.101985/history",
+  "gitUrl": "https://github.com/iLucaH/FastBlockBreak",
+  "releaseDate": 1652497980000,
+  "updateDate": 1654897260000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

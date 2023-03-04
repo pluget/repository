@@ -1,0 +1,31 @@
+{
+  "id": 102294,
+  "url": "https://www.spigotmc.org/resources/ministands.102294/",
+  "name": "MiniStands",
+  "description": "Place a mini version of an armorstand!",
+  "authors": [
+    "jonathanDEV101"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102294.jpg?1653843075",
+  "iconCid": "bafkreib3aszkq7ghl5hey57wtxxxrgjtku4pyyec37siqinf5n66tktqni",
+  "numberOfDownloads": 75,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ministands.102294/history",
+  "releaseDate": 1653839460000,
+  "updateDate": 1655063520000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

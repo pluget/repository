@@ -1,0 +1,32 @@
+{
+  "id": 102403,
+  "url": "https://www.spigotmc.org/resources/%E2%9C%A6-redisserverlink-%E2%9C%A6-register-servers-in-bungeecord-instantly.102403/",
+  "name": "✦ RedisServerLink ✦ Register servers in BungeeCord instantly!",
+  "description": "It simply adds your server to yours proxies intantly using Redis.",
+  "authors": [
+    "Ailakks"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102403.jpg?1654278705",
+  "iconCid": "bafkreiboo3wrftr7xilfcbzcfj6np776uq7tq5plts2kyhqte5m6lybt6q",
+  "numberOfDownloads": 37,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9C%A6-redisserverlink-%E2%9C%A6-register-servers-in-bungeecord-instantly.102403/history",
+  "gitUrl": "https://github.com/Ailakks-Resources/ServerRedisLink",
+  "releaseDate": 1654274940000,
+  "updateDate": 1654290000000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 74850,
+  "url": "https://www.spigotmc.org/resources/buyable-player-chests.74850/",
+  "name": "Buyable Player Chests",
+  "description": "Create chests large or small that players can buy and store their items in.",
+  "authors": [
+    "ojnoonan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/74/74850.jpg?1580561957",
+  "iconCid": "bafkreigxcqmh45rr2il2z27cuaia6nx7fetkaltwa2y2tdvqdbin5iivii",
+  "numberOfDownloads": 172,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/buyable-player-chests.74850/history",
+  "releaseDate": 1580558280000,
+  "updateDate": 1655105100000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 101638,
+  "url": "https://www.spigotmc.org/resources/regionaccess-1-13-1-19-permission-based-regions.101638/",
+  "name": "RegionAccess [1.13-1.19] | Permission Based Regions",
+  "description": "Permission based region entry",
+  "authors": [
+    "AdriftBuffalo74"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101638.jpg?1650856686",
+  "iconCid": "bafkreihtngso2m4ljkzemqpuloeqgg3k62ud6su4w4sdqdv4twx6m4p4wa",
+  "numberOfDownloads": 242,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/regionaccess-1-13-1-19-permission-based-regions.101638/history",
+  "gitUrl": "https://github.com/ItsAdrift/RegionAccess",
+  "releaseDate": 1650853020000,
+  "updateDate": 1656847920000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 66591,
+  "url": "https://www.spigotmc.org/resources/alwaysonline.66591/",
+  "name": "AlwaysOnline",
+  "description": "Keep your server running while mojang is offline, Supports all server versions!",
+  "authors": [
+    "Dablakbandit"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/66/66591.jpg?1555424346",
+  "iconCid": "bafkreiezp2tbpxorqesxf3hlrsqhxslnjfsdofhpav74gxztvqv4rpqyza",
+  "numberOfDownloads": 188708,
+  "rating": 4.8,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/alwaysonline.66591/history",
+  "gitUrl": "https://github.com/Dablakbandit/always-online",
+  "releaseDate": 1555420680000,
+  "updateDate": 1656274020000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

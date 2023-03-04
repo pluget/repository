@@ -1,0 +1,21 @@
+{
+  "id": 107782,
+  "url": "https://www.spigotmc.org/resources/randomteleport.107782/",
+  "name": "RandomTeleport",
+  "description": "Teleports a player to a random Location in a range of blocks",
+  "authors": [
+    "derio739278"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107782.jpg?1675369505",
+  "iconCid": "bafkreifzalrsbn5iewlgu46zz23k6324nh3lj3563jwiwux4fho3auqvha",
+  "numberOfDownloads": 33,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/randomteleport.107782/history",
+  "gitUrl": "https://github.com/Derio1234/RandomTeleport/tree/main/Sourcecode",
+  "releaseDate": 1675365840000,
+  "updateDate": 1675447620000,
+  "versions": [
+    "1.19"
+  ]
+}

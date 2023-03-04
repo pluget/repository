@@ -1,0 +1,25 @@
+{
+  "id": 108213,
+  "url": "https://www.spigotmc.org/resources/guilogin-skript.108213/",
+  "name": "GuiLogin [Skript]",
+  "description": "A Gui login Skript inspired by the AdvancedLogin plugin",
+  "authors": [
+    "omijica"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108213.jpg?1677182945",
+  "iconCid": "bafkreibj42zi35xj7vjsfrdzaantoywg3uijq2h6ymyzy3ybr2dqguwiy4",
+  "numberOfDownloads": 67,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/guilogin-skript.108213/history",
+  "releaseDate": 1677680400000,
+  "updateDate": 1677680400000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

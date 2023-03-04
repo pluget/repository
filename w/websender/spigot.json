@@ -1,0 +1,28 @@
+{
+  "id": 33909,
+  "url": "https://www.spigotmc.org/resources/websender-send-command-with-php-bungee-and-bukkit-support.33909/",
+  "name": "WebSender | Send Command with PHP (Bungee and Bukkit Support!)",
+  "description": "Send Command With PHP! For Bungee or Bukkit! Its Free!",
+  "authors": [
+    "MediaRise"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/33/33909.jpg?1482952245",
+  "iconCid": "bafkreihiycpaoa4sh7j445mdc44imlk3kjdjgkl3n5c7pryxoknp7ia6fa",
+  "numberOfDownloads": 13502,
+  "rating": 4.6,
+  "numberOfVotes": 31,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/websender-send-command-with-php-bungee-and-bukkit-support.33909/history",
+  "gitUrl": "https://github.com/yyunusyigit/websender",
+  "releaseDate": 1482948600000,
+  "updateDate": 1656614700000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14"
+  ]
+}

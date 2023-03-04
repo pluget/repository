@@ -1,0 +1,22 @@
+{
+  "id": 99383,
+  "url": "https://www.spigotmc.org/resources/talismancreator.99383/",
+  "name": "TalismanCreator",
+  "description": "Make and give talismans that gives potion effects to players.",
+  "authors": [
+    "GABRYCA"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99383.jpg?1642781650",
+  "iconCid": "bafkreignvihvblchjed3xnujlmis4gh3uhsq2zjguj62h3r6zigisbsojq",
+  "numberOfDownloads": 424,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/talismancreator.99383/history",
+  "gitUrl": "https://github.com/GABRYCA/TalismanCreator",
+  "releaseDate": 1642778040000,
+  "updateDate": 1657141740000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

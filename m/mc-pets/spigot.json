@@ -1,0 +1,23 @@
+{
+  "id": 97628,
+  "url": "https://www.spigotmc.org/resources/mc-pets-3d-model-pets-mounts.97628/",
+  "name": "MC Pets - 3D-model pets & mounts",
+  "description": "Create wonderful mounts and pets for your server",
+  "authors": [
+    "Aracneon"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97628.jpg?1663325929",
+  "iconCid": "bafkreiegqbi462cjz6yv7e3kilq2ra3hqwpxvsyza3evvhjyjviifsoxcy",
+  "numberOfDownloads": 14429,
+  "rating": 4.2,
+  "numberOfVotes": 38,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mc-pets-3d-model-pets-mounts.97628/history",
+  "gitUrl": "https://github.com/MC-Models/mcpets",
+  "releaseDate": 1677375240000,
+  "updateDate": 1677375240000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

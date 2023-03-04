@@ -1,0 +1,29 @@
+{
+  "id": 102213,
+  "url": "https://www.spigotmc.org/resources/damageholo-1-11-1-19.102213/",
+  "name": "DamageHolo [1.11 - 1.19]",
+  "description": "pvp damage hologram displayer!",
+  "authors": [
+    "NoScape"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102213.jpg?1653427999",
+  "iconCid": "bafkreierqeuyh4dmsmmrp4p2yh2cfui7fozhyurn6dvtprxuxd4cxwfn5y",
+  "numberOfDownloads": 231,
+  "rating": 4,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/damageholo-1-11-1-19.102213/history",
+  "gitUrl": "https://github.com/NoScapeDev/DamageHolo",
+  "releaseDate": 1653423540000,
+  "updateDate": 1655669220000,
+  "versions": [
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 101609,
+  "url": "https://www.spigotmc.org/resources/mccosmetics-beta-version.101609/",
+  "name": "MCCosmetics (Beta Version)",
+  "description": "The Ultimate Cosmetic Plugin - by MythicCraft and MCModels",
+  "authors": [
+    "Xikage"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101609.jpg?1650762905",
+  "iconCid": "bafkreihkxpf43ogdpqvsj7sop6z6uy43jzevum6ucxkj5m627nnmnyjg4m",
+  "numberOfDownloads": 3883,
+  "rating": 3,
+  "numberOfVotes": 16,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mccosmetics-beta-version.101609/history",
+  "gitUrl": "https://git.lumine.io/mythiccraft/mccosmetics/",
+  "releaseDate": 1650759240000,
+  "updateDate": 1655522400000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

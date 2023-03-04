@@ -1,0 +1,32 @@
+{
+  "id": 69247,
+  "url": "https://www.spigotmc.org/resources/makeitday.69247/",
+  "name": "MakeItDay",
+  "description": "Make it day if one player sleeps!",
+  "authors": [
+    "AdventurePandah"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/69/69247.jpg?1562929688",
+  "iconCid": "bafkreiazns5izp43kgydxbxaffxta5g355moi42kkpym4tpejnbg7vifni",
+  "numberOfDownloads": 9902,
+  "rating": 4.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/makeitday.69247/history",
+  "gitUrl": "https://github.com/AdventurePandah/MakeItDay",
+  "releaseDate": 1677312840000,
+  "updateDate": 1677312840000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

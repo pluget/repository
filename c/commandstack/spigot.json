@@ -1,0 +1,22 @@
+{
+  "id": 102817,
+  "url": "https://www.spigotmc.org/resources/commandstack.102817/",
+  "name": "CommandStack",
+  "description": "A simple utility to assign commands to items",
+  "authors": [
+    "OLLIE-Z4"
+  ],
+  "numberOfDownloads": 34,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/commandstack.102817/history",
+  "gitUrl": "https://github.com/Z4OLLIEZ4/CommandStack",
+  "releaseDate": 1655934060000,
+  "updateDate": 1655935260000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

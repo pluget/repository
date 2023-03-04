@@ -1,0 +1,21 @@
+{
+  "id": 98602,
+  "url": "https://www.spigotmc.org/resources/playerlore.98602/",
+  "name": "PlayerLore",
+  "description": "This open source plugin is intended to allow players to add lore to their items in Minecraft.",
+  "authors": [
+    "DanTheTechMan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98602.jpg?1640208345",
+  "iconCid": "bafkreibwoorwp57m7jnecsxizkjpwu7j6vjklcwq6jlqfl3bx5ynfg5l7y",
+  "numberOfDownloads": 157,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playerlore.98602/history",
+  "gitUrl": "https://github.com/dmccoystephenson/PlayerLore",
+  "releaseDate": 1640203920000,
+  "updateDate": 1656823980000,
+  "versions": [
+    "1.18"
+  ]
+}

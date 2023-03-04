@@ -1,0 +1,32 @@
+{
+  "id": 65485,
+  "url": "https://www.spigotmc.org/resources/cookieclicker.65485/",
+  "name": "CookieClicker",
+  "description": "CookieClicker | Vault Support | Easy Setup | Full Configurable | SQLite/ MySQL | German/English",
+  "authors": [
+    "Jonas2004"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/65/65485.jpg?1588867319",
+  "iconCid": "bafkreihiv36jnl643hus6oix35kmg7cykzb6bayg5js4zmgajitd2eswga",
+  "numberOfDownloads": 4731,
+  "rating": 4.3,
+  "numberOfVotes": 47,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cookieclicker.65485/history",
+  "gitUrl": "https://github.com/ZilloLP/CookieClicker",
+  "releaseDate": 1552134300000,
+  "updateDate": 1670506080000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

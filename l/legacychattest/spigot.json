@@ -1,0 +1,21 @@
+{
+  "id": 80783,
+  "url": "https://www.spigotmc.org/resources/legacychattest.80783/",
+  "name": "LegacyChatTest",
+  "description": "Easily test how legacy-formatted messages will look in chat.",
+  "authors": [
+    "TehBrian"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80783.jpg?1593316114",
+  "iconCid": "bafkreicdksxl3ag6jvpjfydbhsbgixmwhwfzy52yysatdcq27xewlvk5ve",
+  "numberOfDownloads": 173,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/legacychattest.80783/history",
+  "gitUrl": "https://github.com/TehBrian/LegacyChatTest",
+  "releaseDate": 1593310620000,
+  "updateDate": 1655920680000,
+  "versions": [
+    "1.18"
+  ]
+}

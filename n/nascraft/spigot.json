@@ -1,0 +1,27 @@
+{
+  "id": 108216,
+  "url": "https://www.spigotmc.org/resources/nascraft-the-items-exchange-1-13-2-1-19-3.108216/",
+  "name": "Nascraft - The items exchange [1.13.2 - 1.19.3]",
+  "description": "[AGUI] Create a shop with dynamic prices (Supply & demand) and graphs in-game without resourcepack!",
+  "authors": [
+    "Bownser"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108216.jpg?1677188678",
+  "iconCid": "bafkreiadskdhlrhozmrxbtrv4imabxojktg62hnpfn3uiy3fxr3zxkydim",
+  "numberOfDownloads": 61,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nascraft-the-items-exchange-1-13-2-1-19-3.108216/history",
+  "gitUrl": "https://github.com/Bounser/Nascraft",
+  "releaseDate": 1677185040000,
+  "updateDate": 1677185040000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

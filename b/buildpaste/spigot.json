@@ -1,0 +1,24 @@
+{
+  "id": 90541,
+  "url": "https://www.spigotmc.org/resources/buildpaste.90541/",
+  "name": "BuildPaste",
+  "description": "Copy and Paste builds from a huge database into your world",
+  "authors": [
+    "mistrx"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90541.jpg?1616615905",
+  "iconCid": "bafkreigtt2rnjlzuslj2qjqnweutcyr3v5ckikojcnw2bcjf6kism3jyqq",
+  "numberOfDownloads": 7498,
+  "rating": 4.6,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/buildpaste.90541/history",
+  "releaseDate": 1616612280000,
+  "updateDate": 1656168180000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

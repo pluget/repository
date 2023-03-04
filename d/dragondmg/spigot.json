@@ -1,0 +1,23 @@
+{
+  "id": 99041,
+  "url": "https://www.spigotmc.org/resources/dragon-dmg.99041/",
+  "name": "Dragon-dmg",
+  "description": "Leaderboard and rewards for Ender Dragon damage during dragon fights.",
+  "authors": [
+    "Hraponssi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99041.jpg?1641576111",
+  "iconCid": "bafkreie6ewkkcj2s76pd7ptciyryzyodgquuxeumpgignbh7b57y3ej7y4",
+  "numberOfDownloads": 297,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dragon-dmg.99041/history",
+  "gitUrl": "https://github.com/hraponssi/Dragon-dmg",
+  "releaseDate": 1641572460000,
+  "updateDate": 1671827760000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

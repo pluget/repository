@@ -1,0 +1,21 @@
+{
+  "id": 108211,
+  "url": "https://www.spigotmc.org/resources/skript-public-bans.108211/",
+  "name": "[SKRIPT] Public Bans",
+  "description": "Auto Bans known Cheaters and Bad Players on a list",
+  "authors": [
+    "nenderson77"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108211.jpg?1677245311",
+  "iconCid": "bafkreih5eoruqpsjl6o6kmjdhfdpvrqcczdzb4blzpwdl7rkaywya5bi34",
+  "numberOfDownloads": 28,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skript-public-bans.108211/history",
+  "gitUrl": "https://github.com/nenderson/SkriptPublicBans",
+  "releaseDate": 1677173160000,
+  "updateDate": 1677185460000,
+  "versions": [
+    "1.19"
+  ]
+}

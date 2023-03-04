@@ -1,0 +1,23 @@
+{
+  "id": 97612,
+  "url": "https://www.spigotmc.org/resources/silverskillz.97612/",
+  "name": "SilverSkillz",
+  "description": "Excite your Minecraft experience with multiple new skills!",
+  "authors": [
+    "GamerCoder215"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97612.jpg?1636869288",
+  "iconCid": "bafkreidzhlngshp7ezex27tfztcmhywzh62knkbjb6zauxeojxfdlqmgey",
+  "numberOfDownloads": 247,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/silverskillz.97612/history",
+  "gitUrl": "https://github.com/Team-Inceptus/SilverSkillz",
+  "releaseDate": 1636865640000,
+  "updateDate": 1653944700000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

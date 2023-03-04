@@ -1,0 +1,33 @@
+{
+  "id": 70785,
+  "url": "https://www.spigotmc.org/resources/teleport-portal-blocker-free-1-7-2-1-19-3.70785/",
+  "name": "Teleport/Portal Blocker Free [1.7.2-1.19.3]",
+  "description": "Block teleport/portal use, until a certain contition is completed",
+  "authors": [
+    "RelumCommunity"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/70/70785.jpg?1603119147",
+  "iconCid": "bafkreiepolfip3tpe2ejot26iywenlx5zz5sonaj2nvewjryfhnlj2foqi",
+  "numberOfDownloads": 1021,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/teleport-portal-blocker-free-1-7-2-1-19-3.70785/history",
+  "gitUrl": "https://github.com/RelumCommunity/Teleport-Portal-Blocker-Free",
+  "releaseDate": 1677951360000,
+  "updateDate": 1677951360000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

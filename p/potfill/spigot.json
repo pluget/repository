@@ -1,0 +1,21 @@
+{
+  "id": 102054,
+  "url": "https://www.spigotmc.org/resources/potfill.102054/",
+  "name": "Potfill",
+  "description": "Allows players to fill their inventories with potions with a simple command.",
+  "authors": [
+    "i01"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102054.jpg?1652806794",
+  "iconCid": "bafkreih5azpzitzki7h42d4bpmwppr5x4pjuwewiqmbcyoklxxgjor2do4",
+  "numberOfDownloads": 36,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/potfill.102054/history",
+  "gitUrl": "https://github.com/i0dev/PotFill",
+  "releaseDate": 1652803140000,
+  "updateDate": 1652935260000,
+  "versions": [
+    "1.8"
+  ]
+}

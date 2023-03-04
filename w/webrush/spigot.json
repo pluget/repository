@@ -1,0 +1,26 @@
+{
+  "id": 75646,
+  "url": "https://www.spigotmc.org/resources/webrush.75646/",
+  "name": "WeBrush",
+  "description": "Additional functions for WorldEdit.",
+  "authors": [
+    "BloodEko"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75646.jpg?1583054099",
+  "iconCid": "bafkreiaj3nkvtkea2auwcwr7qvjr6dz3utp5ympduaju5bcsynycdo752u",
+  "numberOfDownloads": 690,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/webrush.75646/history",
+  "releaseDate": 1583049180000,
+  "updateDate": 1674321960000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

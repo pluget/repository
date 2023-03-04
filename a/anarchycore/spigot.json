@@ -1,0 +1,22 @@
+{
+  "id": 101703,
+  "url": "https://www.spigotmc.org/resources/anarchycore.101703/",
+  "name": "AnarchyCore",
+  "description": "For anarchy server",
+  "authors": [
+    "TumuIDLE"
+  ],
+  "numberOfDownloads": 75,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anarchycore.101703/history",
+  "releaseDate": 1651138140000,
+  "updateDate": 1655100960000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

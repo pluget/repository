@@ -1,0 +1,30 @@
+{
+  "id": 93337,
+  "url": "https://www.spigotmc.org/resources/chunkspawnerlimiter.93337/",
+  "name": "ChunkSpawnerLimiter",
+  "description": "Limit the number of mobs that can spawn in a chunk",
+  "authors": [
+    "Puyodead1"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93337.jpg?1623732231",
+  "iconCid": "bafkreibxteb2bkdnxnmjojulkfmepns7bmtym3ccluzrl26aai5mb7aupe",
+  "numberOfDownloads": 499,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chunkspawnerlimiter.93337/history",
+  "gitUrl": "https://github.com/Puyodead1/ChunkSpawnerLimiter/",
+  "releaseDate": 1623728580000,
+  "updateDate": 1656892560000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

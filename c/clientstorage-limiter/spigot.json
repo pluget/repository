@@ -1,0 +1,21 @@
+{
+  "id": 106883,
+  "url": "https://www.spigotmc.org/resources/clientstorage-limiter.106883/",
+  "name": "ClientStorage Limiter",
+  "description": "Limit ClientStorage mod easily!",
+  "authors": [
+    "samolego"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106883.jpg?1671704071",
+  "iconCid": "bafkreiefpwi5vnucxjmfd3dojkkpb5gitjse4da24ra4a7sf6moxssdqua",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/clientstorage-limiter.106883/history",
+  "gitUrl": "https://github.com/samolego/ClientStorage",
+  "releaseDate": 1671700440000,
+  "updateDate": 1671700440000,
+  "versions": [
+    "1.19"
+  ]
+}

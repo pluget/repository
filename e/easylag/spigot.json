@@ -1,0 +1,33 @@
+{
+  "id": 20195,
+  "url": "https://www.spigotmc.org/resources/easylag-know-the-stability-of-your-server.20195/",
+  "name": "EasyLag - Know the stability of your server",
+  "description": "Offer to your players the possibility to know the stability of your server",
+  "authors": [
+    "MasqueOu"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/20/20195.jpg?1627337983",
+  "iconCid": "bafkreib2ndyccqgo76mme4qoyvia6qlpxffu44yhte4zw64iarfrgahqcy",
+  "numberOfDownloads": 859,
+  "rating": 4.4,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/easylag-know-the-stability-of-your-server.20195/history",
+  "gitUrl": "https://github.com/MasqueOu/EasyLag",
+  "releaseDate": 1677769320000,
+  "updateDate": 1677769320000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

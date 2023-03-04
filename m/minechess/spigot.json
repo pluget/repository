@@ -1,0 +1,32 @@
+{
+  "id": 74178,
+  "url": "https://www.spigotmc.org/resources/minechess-minigame-1-8-1-19.74178/",
+  "name": "MineChess | Minigame [1.8-1.19]",
+  "description": "Chess recreated in Minecraft, play with friends and test your logic!",
+  "authors": [
+    "Ajneb97"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/74/74178.jpg?1578669335",
+  "iconCid": "bafkreiee5fdjwnhhl7sa2inhi7vr76kem6ph54ihfgkhos5xta3bcdcbkm",
+  "numberOfDownloads": 11821,
+  "rating": 4.9,
+  "numberOfVotes": 88,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minechess-minigame-1-8-1-19.74178/history",
+  "gitUrl": "https://github.com/Ajneb97/MineChess",
+  "releaseDate": 1578665700000,
+  "updateDate": 1655819760000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

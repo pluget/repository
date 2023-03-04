@@ -1,0 +1,22 @@
+{
+  "id": 103205,
+  "url": "https://www.spigotmc.org/resources/whitelistmanager.103205/",
+  "name": "WhitelistManager",
+  "description": "Easily manage your whitelisted and unwhitelisted players in one GUI",
+  "authors": [
+    "Bossslime"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103205.jpg?1657291944",
+  "iconCid": "bafkreicxsanhnxsydybvxkyjk3y6yhz4iugjwnmbljnc6o6inns6sm5sja",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/whitelistmanager.103205/history",
+  "gitUrl": "https://github.com/Bossslime/WhitelistManager",
+  "releaseDate": 1657288320000,
+  "updateDate": 1657288320000,
+  "versions": [
+    "1.8",
+    "1.18"
+  ]
+}

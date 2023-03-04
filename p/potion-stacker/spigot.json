@@ -1,0 +1,24 @@
+{
+  "id": 66168,
+  "url": "https://www.spigotmc.org/resources/potion-stacker.66168/",
+  "name": "Potion Stacker",
+  "description": "Stacking potions and splash potions",
+  "authors": [
+    "drives_a_ford"
+  ],
+  "numberOfDownloads": 1185,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/potion-stacker.66168/history",
+  "gitUrl": "https://bitbucket.org/martratas/potionstacker/",
+  "releaseDate": 1554238020000,
+  "updateDate": 1655241120000,
+  "versions": [
+    "1.8",
+    "1.13",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 102483,
+  "url": "https://www.spigotmc.org/resources/trading.102483/",
+  "name": "Trading",
+  "description": "An easy way for players to exchange items.",
+  "authors": [
+    "Duckulus"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102483.jpg?1654586375",
+  "iconCid": "bafkreibs4exyvgxidorfs77sq6cdefzaccldydfw5gkzfwotuligqxuc6a",
+  "numberOfDownloads": 466,
+  "rating": 3.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/trading.102483/history",
+  "gitUrl": "https://github.com/Duckulus/Trading",
+  "releaseDate": 1654582740000,
+  "updateDate": 1657451940000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

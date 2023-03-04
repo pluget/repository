@@ -1,0 +1,24 @@
+{
+  "id": 92196,
+  "url": "https://www.spigotmc.org/resources/secureserverbackup.92196/",
+  "name": "SecureServerBackup",
+  "description": "Upload backups safe via SFTP and FTPS to multiple server at one",
+  "authors": [
+    "KastenKlicker"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92196.jpg?1620567197",
+  "iconCid": "bafkreic5g6tbzuyktvttstqrp6bbdpoooc2lurd4npnb4n3drijo3jpa7y",
+  "numberOfDownloads": 580,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/secureserverbackup.92196/history",
+  "gitUrl": "https://github.com/KastenKlicker/SecureServerBackup",
+  "releaseDate": 1620563580000,
+  "updateDate": 1654372560000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

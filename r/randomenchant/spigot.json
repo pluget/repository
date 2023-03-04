@@ -1,0 +1,24 @@
+{
+  "id": 89994,
+  "url": "https://www.spigotmc.org/resources/randomenchant.89994/",
+  "name": "RandomEnchant",
+  "description": "Randomly enchant tools and armor when you craft them.",
+  "authors": [
+    "hyperdefined"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89994.jpg?1645223177",
+  "iconCid": "bafkreigffsdtwwmyldgm7qqm5jevjwzmbmf4aca3up67ggg7pt77zyy5k4",
+  "numberOfDownloads": 967,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/randomenchant.89994/history",
+  "gitUrl": "https://github.com/hyperdefined/RandomEnchant",
+  "releaseDate": 1615500060000,
+  "updateDate": 1654637340000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

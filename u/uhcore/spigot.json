@@ -1,0 +1,22 @@
+{
+  "id": 105384,
+  "url": "https://www.spigotmc.org/resources/uhcore-uhc-core-1-7-1-8.105384/",
+  "name": "UhCore (UHC Core) - 1.7 - 1.8",
+  "description": "The Ultimate Minecraft UHC Plugin.",
+  "authors": [
+    "InfernoNicks"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105384.jpg?1663708224",
+  "iconCid": "bafkreidxenzpdhqcjps7hve3v6sbdwwvjfx7s2nlcoi7ujexungasgijqa",
+  "numberOfDownloads": 190,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/uhcore-uhc-core-1-7-1-8.105384/history",
+  "gitUrl": "https://github.com/nichxlas98/uhcore-minecraft",
+  "releaseDate": 1677875580000,
+  "updateDate": 1677875580000,
+  "versions": [
+    "1.7",
+    "1.8"
+  ]
+}

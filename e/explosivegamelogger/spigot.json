@@ -1,0 +1,29 @@
+{
+  "id": 102355,
+  "url": "https://www.spigotmc.org/resources/explosivegamelogger.102355/",
+  "name": "ExplosiveGameLogger",
+  "description": "A simple game data logger for your server",
+  "authors": [
+    "Nikwas"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102355.jpg?1654066119",
+  "iconCid": "bafkreidqju4esg2cp36v5777ujnyurdpldsvp4a3ovqlzdiht2b4gioqzy",
+  "numberOfDownloads": 223,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/explosivegamelogger.102355/history",
+  "releaseDate": 1654062480000,
+  "updateDate": 1654357380000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 101405,
+  "url": "https://www.spigotmc.org/resources/byebyeinventory.101405/",
+  "name": "ByeByeInventory",
+  "description": "Delete player inventories upon death!",
+  "authors": [
+    "_NickV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101405.jpg?1650068438",
+  "iconCid": "bafkreib74gzxw23dxvsm3e3ou2vvsqyuw66gl2l43uilycjlhaunclymze",
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/byebyeinventory.101405/history",
+  "gitUrl": "https://github.com/Nicholas-Vo/ByeByeInventory",
+  "releaseDate": 1650064800000,
+  "updateDate": 1653174000000,
+  "versions": [
+    "1.18"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 68075,
+  "url": "https://www.spigotmc.org/resources/safenbt-1-8-1-19-%E2%80%94-cross-version-resource-for-nbt-tags-%E2%80%94-with-commands.68075/",
+  "name": "SafeNBT [1.8 - 1.19] — cross-version resource for NBT tags — with commands!",
+  "description": "A simple cross-version API for editing NBT tags, safe for many versions of Minecraft! +Commands",
+  "authors": [
+    "jojodmo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/68/68075.jpg?1559898738",
+  "iconCid": "bafkreieyebs6e653res2xw5pifpx5gazfeiea54fklq72wzjewo6fx4enq",
+  "numberOfDownloads": 1495,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/safenbt-1-8-1-19-%E2%80%94-cross-version-resource-for-nbt-tags-%E2%80%94-with-commands.68075/history",
+  "gitUrl": "https://github.com/jojodmo/SafeNBT",
+  "releaseDate": 1559894700000,
+  "updateDate": 1655322300000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

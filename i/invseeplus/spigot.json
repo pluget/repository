@@ -1,0 +1,30 @@
+{
+  "id": 102323,
+  "url": "https://www.spigotmc.org/resources/invseeplus.102323/",
+  "name": "InvseePlus",
+  "description": "An improved and 100% customizable version of Invsee.",
+  "authors": [
+    "YuZe152"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102323.jpg?1653935450",
+  "iconCid": "bafkreifhui73kee5jklekfuja65lbppzlmabgbor4rgqh2tpv2vjvbxrjm",
+  "numberOfDownloads": 60,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/invseeplus.102323/history",
+  "gitUrl": "https://github.com/YuZe152/InvseePlus",
+  "releaseDate": 1653931800000,
+  "updateDate": 1653931800000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

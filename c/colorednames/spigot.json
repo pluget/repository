@@ -1,0 +1,26 @@
+{
+  "id": 4914,
+  "url": "https://www.spigotmc.org/resources/colorednames.4914/",
+  "name": "ColoredNames",
+  "description": "Colored nametags via scoreboards",
+  "authors": [
+    "foncused"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/4/4914.jpg?1545518493",
+  "iconCid": "bafkreia3yubfhcxjzy7l3vu5but4w73fllmo5tuomygulcjkosbf4xu33y",
+  "numberOfDownloads": 6306,
+  "rating": 4.3,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/colorednames.4914/history",
+  "gitUrl": "https://github.com/foncused/ColoredNames",
+  "releaseDate": 1426462620000,
+  "updateDate": 1655483100000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

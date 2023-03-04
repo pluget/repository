@@ -1,0 +1,24 @@
+{
+  "id": 103250,
+  "url": "https://www.spigotmc.org/resources/healther.103250/",
+  "name": "Healther",
+  "description": "Make your life easier with advanced /heal and /feed command!",
+  "authors": [
+    "d1axowy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103250.jpg?1657451222",
+  "iconCid": "bafkreiezlamxfnzbeomupmilocy3yniro4c7f7jgfpvgmseq6fyeway6wu",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/healther.103250/history",
+  "releaseDate": 1657447560000,
+  "updateDate": 1657545000000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

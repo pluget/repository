@@ -1,0 +1,21 @@
+{
+  "id": 104400,
+  "url": "https://www.spigotmc.org/resources/noencryption-remastered.104400/",
+  "name": "NoEncryption REMASTERED",
+  "description": "Strips signatures from player messages for ease of mind",
+  "authors": [
+    "V1nc3ntWasTaken"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104400.jpg?1660073895",
+  "iconCid": "bafkreiehy5vuthxylgkzpqnoys7rclogxdwearzbowbmf3yw3tp7jpopr4",
+  "numberOfDownloads": 471,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/noencryption-remastered.104400/history",
+  "gitUrl": "https://github.com/V1nc3ntWasTaken/NoEncryption",
+  "releaseDate": 1660069200000,
+  "updateDate": 1663469040000,
+  "versions": [
+    "1.19"
+  ]
+}

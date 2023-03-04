@@ -1,0 +1,31 @@
+{
+  "id": 102221,
+  "url": "https://www.spigotmc.org/resources/vote.102221/",
+  "name": "Vote",
+  "description": "a ez vote plugin",
+  "authors": [
+    "p1xEL_mc"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102221.jpg?1653481793",
+  "iconCid": "bafkreih7akb4y644ca36ebxsnfvberxdmytw356agkeznswy3v7ujwvgtm",
+  "numberOfDownloads": 214,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/vote.102221/history",
+  "gitUrl": "https://github.com/Ez4p1xEL/Vote",
+  "releaseDate": 1653478140000,
+  "updateDate": 1653803880000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

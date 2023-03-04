@@ -1,0 +1,32 @@
+{
+  "id": 96577,
+  "url": "https://www.spigotmc.org/resources/playertimelimit-1-8-1-19.96577/",
+  "name": "PlayerTimeLimit | [1.8-1.19]",
+  "description": "Limit the amount of time a user can play on your server each day!",
+  "authors": [
+    "Ajneb97"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96577.jpg?1633109649",
+  "iconCid": "bafkreibebeadvncvxumapbngajhbfyqco2aiswbqpipnxulbmoetzclmry",
+  "numberOfDownloads": 20422,
+  "rating": 4.9,
+  "numberOfVotes": 30,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playertimelimit-1-8-1-19.96577/history",
+  "gitUrl": "https://github.com/Ajneb97/PlayerTimeLimit",
+  "releaseDate": 1633105980000,
+  "updateDate": 1654694820000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

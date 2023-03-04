@@ -1,0 +1,21 @@
+{
+  "id": 102862,
+  "url": "https://www.spigotmc.org/resources/chatcontroller.102862/",
+  "name": "ChatController",
+  "description": "A lightweight chat controller plugin for your server",
+  "authors": [
+    "Tigierrei"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102862.jpg?1656058969",
+  "iconCid": "bafkreia2qly6znee6vdfz2b6b75xs3rnwueqrk6i23h5ocgusr4sxdi3ji",
+  "numberOfDownloads": 34,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatcontroller.102862/history",
+  "gitUrl": "https://github.com/filocava99/ChatController",
+  "releaseDate": 1656055320000,
+  "updateDate": 1656055320000,
+  "versions": [
+    "1.19"
+  ]
+}

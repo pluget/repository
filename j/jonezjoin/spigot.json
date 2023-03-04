@@ -1,0 +1,22 @@
+{
+  "id": 92931,
+  "url": "https://www.spigotmc.org/resources/jonezjoin.92931/",
+  "name": "JonEzJoin",
+  "description": "Allows offline players to join as offline without affecting premium players (BungeeCord)",
+  "authors": [
+    "jonathanfi"
+  ],
+  "numberOfDownloads": 242,
+  "rating": 3.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/jonezjoin.92931/history",
+  "gitUrl": "https://github.com/JonnygamingTv/JLAC/tree/main/JezJoin",
+  "releaseDate": 1622618220000,
+  "updateDate": 1655549640000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

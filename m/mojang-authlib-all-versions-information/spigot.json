@@ -1,0 +1,33 @@
+{
+  "id": 102297,
+  "url": "https://www.spigotmc.org/resources/mojang-authlib-all-versions-information.102297/",
+  "name": "Mojang Authlib All Versions Information",
+  "description": "Mojang Auth Lib",
+  "authors": [
+    "Rogelio7"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102297.jpg?1653853413",
+  "iconCid": "bafkreifitj6hnfpw4ccwc4rre7uw7f3vncofewmbjqhv6ev7w3tczp74be",
+  "numberOfDownloads": 86,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mojang-authlib-all-versions-information.102297/history",
+  "gitUrl": "https://github.com/HappyRogelio7/MojangAuthlibAllVersions1",
+  "releaseDate": 1653849780000,
+  "updateDate": 1653849780000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

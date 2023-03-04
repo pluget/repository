@@ -1,0 +1,20 @@
+{
+  "id": 102816,
+  "url": "https://www.spigotmc.org/resources/twitchannounce.102816/",
+  "name": "TwitchAnnounce",
+  "description": "Announce live streamers in your server",
+  "authors": [
+    "Pilati_"
+  ],
+  "numberOfDownloads": 36,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/twitchannounce.102816/history",
+  "gitUrl": "https://github.com/eduardopilati/TwitchAnnounce",
+  "releaseDate": 1655930280000,
+  "updateDate": 1655930280000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

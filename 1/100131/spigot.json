@@ -1,0 +1,24 @@
+{
+  "id": 100131,
+  "url": "https://www.spigotmc.org/resources/%E2%AD%90-wordle-%E2%AD%90-in-gui%E2%9C%A8-model-data-%E2%9C%A8-mysql-json.100131/",
+  "name": "⭐ WORDLE ⭐ IN GUI✨ MODEL DATA ✨ MYSQL & JSON",
+  "description": "A Minecraft GUI minigame based on Wordle from Josh Wardle",
+  "authors": [
+    "DiegoNighty"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100131.jpg?1645249198",
+  "iconCid": "bafkreidk3fidvydtanes4gyrsxtwkcgaofyzlcddk2jdyk4gh4znd3bcym",
+  "numberOfDownloads": 314,
+  "rating": 4.8,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%AD%90-wordle-%E2%AD%90-in-gui%E2%9C%A8-model-data-%E2%9C%A8-mysql-json.100131/history",
+  "gitUrl": "https://github.com/HypoxTeam/wordle",
+  "releaseDate": 1645245540000,
+  "updateDate": 1653184440000,
+  "versions": [
+    "1.12",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

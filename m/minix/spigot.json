@@ -1,0 +1,21 @@
+{
+  "id": 97423,
+  "url": "https://www.spigotmc.org/resources/minix-async-kotlin-performant-coroutines.97423/",
+  "name": "Minix - Async, Kotlin, Performant, Coroutines",
+  "description": "The modern Kotlin based, performance focused Library",
+  "authors": [
+    "Racci"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97423.jpg?1636269274",
+  "iconCid": "bafkreih74bjnvgyutks7ocdnjw6cbttmj2dlbnvfznv33u7bfv3wqrc7ny",
+  "numberOfDownloads": 164,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minix-async-kotlin-performant-coroutines.97423/history",
+  "gitUrl": "https://github.com/DaRacci/Minix",
+  "releaseDate": 1636174500000,
+  "updateDate": 1653231780000,
+  "versions": [
+    "1.18"
+  ]
+}

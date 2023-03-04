@@ -1,0 +1,27 @@
+{
+  "id": 108371,
+  "url": "https://www.spigotmc.org/resources/bossbarads.108371/",
+  "name": "BossbarAds",
+  "description": "Send ads to your Players with fully customizable BossBars.",
+  "authors": [
+    "WoZniaKTV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108371.jpg?1677954330",
+  "iconCid": "bafkreid7ayukq2fktfxvvslduagfmwsbvmgp4vqdazy7h2rnihbij3a6b4",
+  "numberOfDownloads": 4,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bossbarads.108371/history",
+  "releaseDate": 1677950460000,
+  "updateDate": 1677950460000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

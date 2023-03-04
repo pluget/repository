@@ -1,0 +1,26 @@
+{
+  "id": 71734,
+  "url": "https://www.spigotmc.org/resources/betterchair.71734/",
+  "name": "BetterChair",
+  "description": "Sit on almost everything",
+  "authors": [
+    "Kurfat"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/71/71734.jpg?1569950788",
+  "iconCid": "bafkreiggg3ztsluttokobf7pgwg5qj4hjezqhy26zcpfmemsnuabghypgi",
+  "numberOfDownloads": 26083,
+  "rating": 4.6,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterchair.71734/history",
+  "gitUrl": "https://github.com/Xevenut/BetterChair",
+  "releaseDate": 1569947160000,
+  "updateDate": 1655909520000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

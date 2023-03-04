@@ -1,0 +1,32 @@
+{
+  "id": 39594,
+  "url": "https://www.spigotmc.org/resources/myworlds.39594/",
+  "name": "MyWorlds",
+  "description": "World Management - Simplified",
+  "authors": [
+    "TeamBergerhealer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/39/39594.jpg?1500733855",
+  "iconCid": "bafkreienlt5qnhdjk4lc2vtlrz52momustkgoyhkdmxjof4nvgo46tplja",
+  "numberOfDownloads": 28747,
+  "rating": 4.6,
+  "numberOfVotes": 44,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/myworlds.39594/history",
+  "gitUrl": "https://github.com/bergerhealer/MyWorlds",
+  "releaseDate": 1492390140000,
+  "updateDate": 1677106380000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

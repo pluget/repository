@@ -1,0 +1,20 @@
+{
+  "id": 102891,
+  "url": "https://www.spigotmc.org/resources/redirect-legacy-commands.102891/",
+  "name": "Redirect Legacy Commands",
+  "description": "Redirect old (1.12 or earlier) command syntaxes to new style",
+  "authors": [
+    "wmp71"
+  ],
+  "numberOfDownloads": 17,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/redirect-legacy-commands.102891/history",
+  "gitUrl": "https://github.com/wmp71/spigot-plugin-redirect-legacy-commands",
+  "releaseDate": 1656152220000,
+  "updateDate": 1656152220000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

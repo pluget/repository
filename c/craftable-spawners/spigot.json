@@ -1,0 +1,23 @@
+{
+  "id": 87642,
+  "url": "https://www.spigotmc.org/resources/craftable-spawners.87642/",
+  "name": "Craftable Spawners",
+  "description": "Craft Spawners using Condensed Items",
+  "authors": [
+    "Sl3GE"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87642.jpg?1619666847",
+  "iconCid": "bafkreiajpcoutwhmruqphsfyejbvzljzdrwnv42gcbrm3o2vkuvg7rldzq",
+  "numberOfDownloads": 470,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/craftable-spawners.87642/history",
+  "gitUrl": "https://github.com/Sl3GE/Craftable-Spawners",
+  "releaseDate": 1610157960000,
+  "updateDate": 1655589120000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 92510,
+  "url": "https://www.spigotmc.org/resources/easytimesync-sync-your-minecraft-time-with-reallife.92510/",
+  "name": "EasyTimeSync - Sync your minecraft time with reallife!",
+  "description": "Small script that will sync your minecraft time with the reallife time.",
+  "authors": [
+    "CordeFramework"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92510.jpg?1621433868",
+  "iconCid": "bafkreicwfbv6ht65zen5ommpljsc6qo5ngebesilflhycm57bu52ezx6q4",
+  "numberOfDownloads": 356,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/easytimesync-sync-your-minecraft-time-with-reallife.92510/history",
+  "releaseDate": 1621430220000,
+  "updateDate": 1670537580000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

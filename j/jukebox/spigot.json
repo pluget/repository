@@ -1,0 +1,32 @@
+{
+  "id": 40580,
+  "url": "https://www.spigotmc.org/resources/jukebox-music-plugin.40580/",
+  "name": "JukeBox - Music Plugin",
+  "description": "A plugin which allows you to propose note block songs/musics to your players. SQL integration!",
+  "authors": [
+    "SkytAsul"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/40/40580.jpg?1494178436",
+  "iconCid": "bafkreifjth2gdpq5yw3cvtmkpfgpmlxcah5wwsa4m3lhdspiko5ditl5ai",
+  "numberOfDownloads": 74213,
+  "rating": 4.6,
+  "numberOfVotes": 115,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/jukebox-music-plugin.40580/history",
+  "gitUrl": "https://github.com/SkytAsul/JukeBox",
+  "releaseDate": 1494174780000,
+  "updateDate": 1655026020000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

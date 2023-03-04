@@ -1,0 +1,19 @@
+{
+  "id": 102040,
+  "url": "https://www.spigotmc.org/resources/dev-plugin-template.102040/",
+  "name": "DEV-Plugin-Template",
+  "description": "advanced template plugin for spigotmc",
+  "authors": [
+    "TorbenK"
+  ],
+  "numberOfDownloads": 38,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dev-plugin-template.102040/history",
+  "gitUrl": "https://github.com/Torben0612/TornadoK-Plugin-Template",
+  "releaseDate": 1652728500000,
+  "updateDate": 1652728500000,
+  "versions": [
+    "1.16"
+  ]
+}

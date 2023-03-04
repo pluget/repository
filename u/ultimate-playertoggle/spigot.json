@@ -1,0 +1,33 @@
+{
+  "id": 6281,
+  "url": "https://www.spigotmc.org/resources/ultimate-playertoggle.6281/",
+  "name": "Ultimate PlayerToggle",
+  "description": "Add a complete customizable PlayerToggle Item and GUI for your server!",
+  "authors": [
+    "herby2212"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/6/6281.jpg?1429646610",
+  "iconCid": "bafkreih5odcvelwtsi6gvi2s2kijhru4pae3sszq6wmspw674vyx4lfzju",
+  "numberOfDownloads": 5767,
+  "rating": 4.7,
+  "numberOfVotes": 19,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ultimate-playertoggle.6281/history",
+  "gitUrl": "https://github.com/herby2212/PlayerToggler",
+  "releaseDate": 1429642980000,
+  "updateDate": 1654956480000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

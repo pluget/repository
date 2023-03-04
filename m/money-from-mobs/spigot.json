@@ -1,0 +1,28 @@
+{
+  "id": 79137,
+  "url": "https://www.spigotmc.org/resources/money-from-mobs-1-12-1-19.79137/",
+  "name": "Money From Mobs | 1.12 - 1.19",
+  "description": "Make money drop from mobs with a Looting Enchant multiplier and Mythic Mobs support",
+  "authors": [
+    "chocolf"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79137.jpg?1597301265",
+  "iconCid": "bafkreih6s3pafmebwuuxfemuprbwsjqtgpgstaqf6hu6uehufgjizpqtgm",
+  "numberOfDownloads": 30638,
+  "rating": 4.4,
+  "numberOfVotes": 60,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/money-from-mobs-1-12-1-19.79137/history",
+  "gitUrl": "https://github.com/chocolf/MoneyFromMobs",
+  "releaseDate": 1590157440000,
+  "updateDate": 1654668720000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

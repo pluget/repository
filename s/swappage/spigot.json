@@ -1,0 +1,32 @@
+{
+  "id": 102551,
+  "url": "https://www.spigotmc.org/resources/swappage-bedwars1058-addon.102551/",
+  "name": "Swappage | Bedwars1058 Addon",
+  "description": "Swap to your opponent's team with ease!",
+  "authors": [
+    "Tofpu"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102551.jpg?1655005503",
+  "iconCid": "bafkreifsinl2mmk252ewwirf6futhezf5uxo2z5anpba5gdzuxc5ro6gcu",
+  "numberOfDownloads": 464,
+  "rating": 5,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/swappage-bedwars1058-addon.102551/history",
+  "gitUrl": "https://github.com/Tofpu/bedwars-swap-addon",
+  "releaseDate": 1655001780000,
+  "updateDate": 1656333600000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

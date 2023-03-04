@@ -1,0 +1,26 @@
+{
+  "id": 80869,
+  "url": "https://www.spigotmc.org/resources/gordonramsay.80869/",
+  "name": "GordonRamsay",
+  "description": "Berate your players for eating raw food!",
+  "authors": [
+    "Hwiggy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80869.jpg?1593483841",
+  "iconCid": "bafkreigpzdwxgopdsfsoyk6wovyeuqku42zad3iaub3g6dh763v2a6bvfi",
+  "numberOfDownloads": 404,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gordonramsay.80869/history",
+  "gitUrl": "https://git.mcdevs.us/MCDEVS/SpigotPlugins/GordonRamsay",
+  "releaseDate": 1593480180000,
+  "updateDate": 1652994840000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

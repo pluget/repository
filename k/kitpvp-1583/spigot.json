@@ -1,0 +1,27 @@
+{
+  "id": 1583,
+  "url": "https://www.spigotmc.org/resources/kitpvp-ffa-1vs1.1583/",
+  "name": "KitPvP [FFA, 1vs1]",
+  "description": "Minecraft KitPvP - FFA and 1vs1 with funny kits.",
+  "authors": [
+    "TEEAGE"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/1/1583.jpg?1522150653",
+  "iconCid": "bafkreig2uu7q473ql7ee2fbz7csewhceqseibauadxausffkvpfrduzdhy",
+  "numberOfDownloads": 162009,
+  "rating": 4.2,
+  "numberOfVotes": 96,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kitpvp-ffa-1vs1.1583/history",
+  "releaseDate": 1414260540000,
+  "updateDate": 1655131200000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 104612,
+  "url": "https://www.spigotmc.org/resources/pingskript.104612/",
+  "name": "PingSkript",
+  "description": "A light-weight, customisable chat plugin!",
+  "authors": [
+    "PienAppel"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104612.jpg?1660729350",
+  "iconCid": "bafkreieegrjcnpweuiwpxs3gqddj224jq7c3dy25cddvxtkyewsi42h5im",
+  "numberOfDownloads": 59,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pingskript.104612/history",
+  "releaseDate": 1660725720000,
+  "updateDate": 1660725720000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

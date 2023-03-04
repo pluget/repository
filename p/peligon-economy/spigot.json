@@ -1,0 +1,27 @@
+{
+  "id": 100259,
+  "url": "https://www.spigotmc.org/resources/peligon-economy.100259/",
+  "name": "Peligon Economy",
+  "description": "An economy that every server owner needs.",
+  "authors": [
+    "Peligon"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100259.jpg?1646853731",
+  "iconCid": "bafkreihx36vuhh7w2nv33pd6syphdlpbe7hsyrbsyborwveiblqc4qpcj4",
+  "numberOfDownloads": 124,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/peligon-economy.100259/history",
+  "gitUrl": "https://github.com/Darkw1nged/Peligon-Plugins",
+  "releaseDate": 1645632720000,
+  "updateDate": 1652907780000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

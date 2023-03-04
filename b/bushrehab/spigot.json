@@ -1,0 +1,22 @@
+{
+  "id": 102578,
+  "url": "https://www.spigotmc.org/resources/bushrehab.102578/",
+  "name": "BushRehab",
+  "description": "Rehabilitate dead bushes into random saplings!",
+  "authors": [
+    "Keyblade_Crafter"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102578.jpg?1655069326",
+  "iconCid": "bafkreieazpm3nlcdf3wx3iy7ebdler7qeac75diexeli5dmgkr2q3knq2q",
+  "numberOfDownloads": 148,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bushrehab.102578/history",
+  "gitUrl": "https://github.com/KeybladeCrafter/BushRehab",
+  "releaseDate": 1655065080000,
+  "updateDate": 1657063380000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

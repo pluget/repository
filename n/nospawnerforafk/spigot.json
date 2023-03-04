@@ -1,0 +1,23 @@
+{
+  "id": 76302,
+  "url": "https://www.spigotmc.org/resources/nospawnerforafk.76302/",
+  "name": "NoSpawnerForAfk",
+  "description": "Stop spawners from spawning when all nearby players are AFK according to Essentials",
+  "authors": [
+    "pmme"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/76/76302.jpg?1585714587",
+  "iconCid": "bafkreig4xu7puxdxaqr6q46i243qb4r5ypz73uxkb2lwqnfqx6hhs732iy",
+  "numberOfDownloads": 285,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nospawnerforafk.76302/history",
+  "gitUrl": "https://github.com/pmme/NoSpawnerForAfk",
+  "releaseDate": 1584778560000,
+  "updateDate": 1653209940000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.18"
+  ]
+}

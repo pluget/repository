@@ -1,0 +1,25 @@
+{
+  "id": 81250,
+  "url": "https://www.spigotmc.org/resources/yeet-the-chat.81250/",
+  "name": "YEET The Chat",
+  "description": "A funny twist on a chat-clearing plugin.",
+  "authors": [
+    "cayoten"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81250.jpg?1594267685",
+  "iconCid": "bafkreibireo4j7ag4v35xprvadfa75ldrfrvwcurmt4gft7yf5ip6g43q4",
+  "numberOfDownloads": 158,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/yeet-the-chat.81250/history",
+  "gitUrl": "https://github.com/cayoten/yeetchat",
+  "releaseDate": 1594264020000,
+  "updateDate": 1656354120000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

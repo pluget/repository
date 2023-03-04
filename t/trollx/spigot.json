@@ -1,0 +1,23 @@
+{
+  "id": 103167,
+  "url": "https://www.spigotmc.org/resources/trollx.103167/",
+  "name": "TrollX",
+  "description": "TrollPlugin",
+  "authors": [
+    "Noel071554"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103167.jpg?1657137818",
+  "iconCid": "bafkreifu2oibnz3njxynwbuigtyhxifxcqbzrv4qxqejhe2oxqrx37srui",
+  "numberOfDownloads": 51,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/trollx.103167/history",
+  "gitUrl": "https://github.com/Noel071554/TrollX",
+  "releaseDate": 1657133880000,
+  "updateDate": 1657133880000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

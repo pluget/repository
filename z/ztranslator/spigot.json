@@ -1,0 +1,31 @@
+{
+  "id": 99994,
+  "url": "https://www.spigotmc.org/resources/ztranslator.99994/",
+  "name": "zTranslator",
+  "description": "Translates items into your language",
+  "authors": [
+    "Maxlego08"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99994.jpg?1644836058",
+  "iconCid": "bafkreiavowt3juxbbal564uyutsx7tqonvrl5fanxni3qwsg2co7thhegy",
+  "numberOfDownloads": 239,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ztranslator.99994/history",
+  "gitUrl": "https://github.com/Maxlego08/zTranslator",
+  "releaseDate": 1644832440000,
+  "updateDate": 1655381280000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

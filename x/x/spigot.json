@@ -1,0 +1,32 @@
+{
+  "id": 101172,
+  "url": "https://www.spigotmc.org/resources/x-ray-alerts-anti-xray-new-gui.101172/",
+  "name": "X-Ray Alerts || Anti-XRay (NEW GUI)",
+  "description": "Get alerts when someone mines an ore",
+  "authors": [
+    "theking188"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101172.jpg?1649113066",
+  "iconCid": "bafkreieas3ykquhat262fpr6x2cyqstmzwumrn2423ab5tfu7ibkfbxso4",
+  "numberOfDownloads": 682,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/x-ray-alerts-anti-xray-new-gui.101172/history",
+  "releaseDate": 1649109420000,
+  "updateDate": 1656446400000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

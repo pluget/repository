@@ -1,0 +1,32 @@
+{
+  "id": 89848,
+  "url": "https://www.spigotmc.org/resources/%E2%9C%A8-particlelib-%E2%9C%A8-1-8-1-19-3-%E2%9C%A8-colored-textured-and-more-%E2%9C%A8.89848/",
+  "name": "✨ ParticleLib ✨ 1.8-1.19.3 ✨ Colored, Textured and more ✨",
+  "description": "A Spigot library for particles.",
+  "authors": [
+    "CreepyCode"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89848.jpg?1615133075",
+  "iconCid": "bafkreibluyqs5uenjutwktlic2jexye43qbz42weabzzjtb77okvpqjpcm",
+  "numberOfDownloads": 1288,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9C%A8-particlelib-%E2%9C%A8-1-8-1-19-3-%E2%9C%A8-colored-textured-and-more-%E2%9C%A8.89848/history",
+  "gitUrl": "https://github.com/ByteZ1337/ParticleLib",
+  "releaseDate": 1615129440000,
+  "updateDate": 1655105460000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

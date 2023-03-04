@@ -1,0 +1,21 @@
+{
+  "id": 102030,
+  "url": "https://www.spigotmc.org/resources/healerplus.102030/",
+  "name": "HealerPlus+",
+  "description": "This plugin will add a /heal Command!",
+  "authors": [
+    "Nethergaming"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102030.jpg?1652706868",
+  "iconCid": "bafkreiegplzsozm4x2g3fhhnfshtciytyr6of6pqsgjqyv2gykbvwvskbu",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/healerplus.102030/history",
+  "releaseDate": 1652701980000,
+  "updateDate": 1652702520000,
+  "versions": [
+    "1.16",
+    "1.17"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 94284,
+  "url": "https://www.spigotmc.org/resources/pyroshot-minigame.94284/",
+  "name": "Pyroshot Minigame",
+  "description": "A new minigame that allows players to fire fireballs from bows and some minigame essentials.",
+  "authors": [
+    "trumpetplayer2"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94284.jpg?1636770673",
+  "iconCid": "bafkreiajw7cjgvj3dhk5zg4tshoecuwnqrsmz6psazdvf6ibkbod7vzv6q",
+  "numberOfDownloads": 153,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pyroshot-minigame.94284/history",
+  "gitUrl": "https://github.com/trumpetplayer2/Pyroshot",
+  "releaseDate": 1626303900000,
+  "updateDate": 1654806480000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

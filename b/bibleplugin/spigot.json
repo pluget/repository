@@ -1,0 +1,27 @@
+{
+  "id": 79513,
+  "url": "https://www.spigotmc.org/resources/bibleplugin.79513/",
+  "name": "BiblePlugin",
+  "description": "A Minecraft plugin to interact with the sacred text.",
+  "authors": [
+    "CMarco"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79513.jpg?1597778488",
+  "iconCid": "bafkreigeg7xmo6ssjknujd3tkt7vs4xnqwtqacttsr3fskdvs7rrbmc6p4",
+  "numberOfDownloads": 472,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bibleplugin.79513/history",
+  "gitUrl": "https://github.com/TheViperShow/BiblePlugin",
+  "releaseDate": 1590956940000,
+  "updateDate": 1656277980000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

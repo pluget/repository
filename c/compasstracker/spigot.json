@@ -1,0 +1,27 @@
+{
+  "id": 79938,
+  "url": "https://www.spigotmc.org/resources/compasstracker.79938/",
+  "name": "CompassTracker",
+  "description": "A hunter vs. speedrunner plugin.",
+  "authors": [
+    "hyperdefined"
+  ],
+  "numberOfDownloads": 718,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/compasstracker.79938/history",
+  "gitUrl": "https://github.com/hyperdefined/CompassTracker",
+  "releaseDate": 1591671180000,
+  "updateDate": 1654637100000,
+  "versions": [
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

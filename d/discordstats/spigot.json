@@ -1,0 +1,25 @@
+{
+  "id": 100071,
+  "url": "https://www.spigotmc.org/resources/discordstats.100071/",
+  "name": "DiscordStats",
+  "description": "A plugin for players to view their stats with a built in discord bot",
+  "authors": [
+    "JuicySeals"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100071.jpg?1645049133",
+  "iconCid": "bafkreihgkt634y6c54dbk2symi6czpk7etxbgfsz75mdchdquxjfzhxwtm",
+  "numberOfDownloads": 276,
+  "rating": 2.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discordstats.100071/history",
+  "gitUrl": "https://github.com/JuicySeals/DiscordStats",
+  "releaseDate": 1645045500000,
+  "updateDate": 1653327480000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.15",
+    "1.16",
+    "1.18"
+  ]
+}

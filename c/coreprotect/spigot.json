@@ -1,0 +1,26 @@
+{
+  "id": 8631,
+  "url": "https://www.spigotmc.org/resources/coreprotect.8631/",
+  "name": "CoreProtect",
+  "description": "Fast, efficient block logging, rollbacks, and restores",
+  "authors": [
+    "Intelli"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/8/8631.jpg?1592445883",
+  "iconCid": "bafkreihsi6pp27uyf43wn7dqkqqczbuewcyffyvqsvjryc2d4u2svkrrky",
+  "numberOfDownloads": 800088,
+  "rating": 4.5,
+  "numberOfVotes": 410,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/coreprotect.8631/history",
+  "gitUrl": "https://github.com/PlayPro/CoreProtect/",
+  "releaseDate": 1435180380000,
+  "updateDate": 1670701380000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 108281,
+  "url": "https://www.spigotmc.org/resources/anti-autoclicker.108281/",
+  "name": "Anti-Autoclicker",
+  "description": "This plugin kicks players that are using an auto-clicker against entities",
+  "authors": [
+    "Nick_the_block"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108281.jpg?1677486476",
+  "iconCid": "bafkreifhzatxe7bap7odfwxunoxqyknhg4ux3agwu6ypibj73ys5fezwdm",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anti-autoclicker.108281/history",
+  "gitUrl": "https://github.com/NickAwrist/Anti-autoclicker",
+  "releaseDate": 1677482820000,
+  "updateDate": 1677482820000,
+  "versions": [
+    "1.19"
+  ]
+}

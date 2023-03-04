@@ -1,0 +1,32 @@
+{
+  "id": 100619,
+  "url": "https://www.spigotmc.org/resources/speedbridge-v2-bridge-practice-plugin.100619/",
+  "name": "SpeedBridge v2 - Bridge Practice Plugin",
+  "description": "Hop into an island, bridge from one island to another, and try to get the lowest score possible!",
+  "authors": [
+    "Tofpu"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100619.jpg?1647031844",
+  "iconCid": "bafkreiexj2g6ppj7cdeuffm3wivp37k46aoqlzw2esjezykhehefxjhsam",
+  "numberOfDownloads": 1644,
+  "rating": 5,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/speedbridge-v2-bridge-practice-plugin.100619/history",
+  "gitUrl": "https://github.com/Tofpu/SpeedBridge2",
+  "releaseDate": 1647016860000,
+  "updateDate": 1655722500000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

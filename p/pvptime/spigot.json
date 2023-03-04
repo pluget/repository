@@ -1,0 +1,27 @@
+{
+  "id": 102510,
+  "url": "https://www.spigotmc.org/resources/pvptime.102510/",
+  "name": "PvpTime",
+  "description": "#Pvp",
+  "authors": [
+    "ursuarsenie"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102510.jpg?1654766058",
+  "iconCid": "bafkreidqrr5sic5jjt2657osy2dnrynbotluxe3abkql7qntazpigdmjqq",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pvptime.102510/history",
+  "gitUrl": "https://github.com/xSenny/PvPTime",
+  "releaseDate": 1654762380000,
+  "updateDate": 1654762380000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

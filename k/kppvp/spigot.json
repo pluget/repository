@@ -1,0 +1,32 @@
+{
+  "id": 50969,
+  "url": "https://www.spigotmc.org/resources/kp-pvp-the-ultimate-kitpvp-plugin.50969/",
+  "name": "KP-PVP (The ultimate kitpvp plugin)",
+  "description": "KitPvP Plugin that has many features and multiworld support!",
+  "authors": [
+    "RAFAELESPADA"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/50/50969.jpg?1513790708",
+  "iconCid": "bafkreiagiyc7rt6wbflqnjgqjoazdvnxc6gur5tnz62vsulxgqmkidveiu",
+  "numberOfDownloads": 37588,
+  "rating": 4.4,
+  "numberOfVotes": 82,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kp-pvp-the-ultimate-kitpvp-plugin.50969/history",
+  "gitUrl": "https://gitlab.com/k3310/kp-pvp",
+  "releaseDate": 1513785780000,
+  "updateDate": 1662465480000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

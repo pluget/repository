@@ -1,0 +1,25 @@
+{
+  "id": 88161,
+  "url": "https://www.spigotmc.org/resources/finelog-rotate-logs-stems-stripped-logs.88161/",
+  "name": "FineLog (Rotate logs/stems/stripped logs)",
+  "description": "Helps rotate logs after placement, and can lock place orientation.",
+  "authors": [
+    "Steampunk_Sam"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88161.jpg?1611358220",
+  "iconCid": "bafkreicolnz6fp4jahi2f4bpc3azquwdgasujt7asuscj4rn2xwyq5drce",
+  "numberOfDownloads": 168,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/finelog-rotate-logs-stems-stripped-logs.88161/history",
+  "releaseDate": 1611349560000,
+  "updateDate": 1656041220000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

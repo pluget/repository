@@ -1,0 +1,31 @@
+{
+  "id": 102525,
+  "url": "https://www.spigotmc.org/resources/phatloots-quests-module.102525/",
+  "name": "PhatLoots Quests Module",
+  "description": "Quests module for PhatLoots",
+  "authors": [
+    "Browsit"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102525.jpg?1654867570",
+  "iconCid": "bafkreigigyvnn3dwj4ibnsdj64m67tgygdmssvtcp6ap2iqe6r4udhpjnu",
+  "numberOfDownloads": 67,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/phatloots-quests-module.102525/history",
+  "gitUrl": "https://github.com/Browsit/PhatLootsQuestsModule",
+  "releaseDate": 1654863540000,
+  "updateDate": 1654863540000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

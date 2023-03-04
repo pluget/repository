@@ -1,0 +1,20 @@
+{
+  "id": 102725,
+  "url": "https://www.spigotmc.org/resources/utilsapi.102725/",
+  "name": "UtilsAPI",
+  "description": "UtilsAPI is a API for my plugins & can be used by you too",
+  "authors": [
+    "DrachenfeuerHD"
+  ],
+  "numberOfDownloads": 69,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/utilsapi.102725/history",
+  "gitUrl": "https://github.com/DrachenfeuerHD/UtilsAPI",
+  "releaseDate": 1655594400000,
+  "updateDate": 1655815620000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

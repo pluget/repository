@@ -1,0 +1,33 @@
+{
+  "id": 84167,
+  "url": "https://www.spigotmc.org/resources/commanddefender.84167/",
+  "name": "CommandDefender",
+  "description": "[1.7-1.19] Block & hide commands from your users, with blacklists, whitelists, and much more!",
+  "authors": [
+    "lokka30"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84167.jpg?1632224085",
+  "iconCid": "bafkreihon3jzr5hk5k35ahne3si6r3hugfa3l4yqdpr3rirpqrv2gmns6m",
+  "numberOfDownloads": 4147,
+  "rating": 4.9,
+  "numberOfVotes": 14,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/commanddefender.84167/history",
+  "gitUrl": "https://github.com/lokka30/CommandDefender",
+  "releaseDate": 1600955160000,
+  "updateDate": 1655078520000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

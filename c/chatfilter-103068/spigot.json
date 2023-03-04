@@ -1,0 +1,25 @@
+{
+  "id": 103068,
+  "url": "https://www.spigotmc.org/resources/chatfilter.103068/",
+  "name": "ChatFilter!",
+  "description": "A lightweight plugin that simply filters out curse words from your server!",
+  "authors": [
+    "snatbrr"
+  ],
+  "numberOfDownloads": 39,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatfilter.103068/history",
+  "gitUrl": "https://github.com/snatlol/ChatFilter",
+  "releaseDate": 1656813180000,
+  "updateDate": 1656813180000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

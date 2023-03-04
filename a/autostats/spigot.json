@@ -1,0 +1,20 @@
+{
+  "id": 108218,
+  "url": "https://www.spigotmc.org/resources/autostats.108218/",
+  "name": "AutoStats",
+  "description": "data plugin working with MySql database for more reliable data on the players and the commands",
+  "authors": [
+    "Lumi_"
+  ],
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/autostats.108218/history",
+  "releaseDate": 1677189720000,
+  "updateDate": 1677190740000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

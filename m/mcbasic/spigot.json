@@ -1,0 +1,21 @@
+{
+  "id": 85523,
+  "url": "https://www.spigotmc.org/resources/mcbasic.85523/",
+  "name": "MCBasic",
+  "description": "A simple plugin for Minecraft",
+  "authors": [
+    "Marbanz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85523.jpg?1604677748",
+  "iconCid": "bafkreihfxwlkjbrsuaol4ucaphirhkh77qmy5n26lwhq27urydqfanouvq",
+  "numberOfDownloads": 802,
+  "rating": 3,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mcbasic.85523/history",
+  "gitUrl": "https://github.com/Marbanz/MCBasic",
+  "releaseDate": 1604672760000,
+  "updateDate": 1656270840000,
+  "versions": [
+    "1.19"
+  ]
+}

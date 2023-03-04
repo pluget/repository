@@ -1,0 +1,32 @@
+{
+  "id": 100041,
+  "url": "https://www.spigotmc.org/resources/bedwars1058-cloudnet-addon.100041/",
+  "name": "BedWars1058 CloudNet Addon",
+  "description": "BedWars1058 CloudNet Addon",
+  "authors": [
+    "savalet"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100041.jpg?1645035840",
+  "iconCid": "bafkreiczqsqppocu56276irw6qzbq5iyfbttakn4mzwxq6jy36zrdspr3q",
+  "numberOfDownloads": 258,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bedwars1058-cloudnet-addon.100041/history",
+  "releaseDate": 1644968400000,
+  "updateDate": 1655887380000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 102679,
+  "url": "https://www.spigotmc.org/resources/chatprefix.102679/",
+  "name": "ChatPrefix",
+  "description": "Change the chat, join and quit format using the rank prefix",
+  "authors": [
+    "Ducki0210"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102679.jpg?1655549149",
+  "iconCid": "bafkreidyga66q3zhenqpci3kgxahera7eydh7lrbqdphxe6a3xknzftpru",
+  "numberOfDownloads": 184,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatprefix.102679/history",
+  "releaseDate": 1655468820000,
+  "updateDate": 1655550600000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 102079,
+  "url": "https://www.spigotmc.org/resources/filemanager-1-13-x-1-18-x.102079/",
+  "name": "FileManager [1.13.x-1.18.x]",
+  "description": "Edit your files easily ingame!",
+  "authors": [
+    "Mxrlin1"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102079.jpg?1652979322",
+  "iconCid": "bafkreifbowt752jgz2m4vvhltl6algprueregqhuadvq26v5b5o23jtjsm",
+  "numberOfDownloads": 351,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/filemanager-1-13-x-1-18-x.102079/history",
+  "gitUrl": "https://github.com/DeveloperMxrlin/FileManager",
+  "releaseDate": 1652975700000,
+  "updateDate": 1655743560000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

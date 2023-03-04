@@ -1,0 +1,24 @@
+{
+  "id": 102929,
+  "url": "https://www.spigotmc.org/resources/samirlib.102929/",
+  "name": "SamirLib",
+  "description": "An open source library/API for my plugins",
+  "authors": [
+    "conmcdi"
+  ],
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/samirlib.102929/history",
+  "gitUrl": "https://github.com/ItzSamirr/SamirLib",
+  "releaseDate": 1656263760000,
+  "updateDate": 1656263760000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13"
+  ]
+}

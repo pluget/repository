@@ -1,0 +1,22 @@
+{
+  "id": 102413,
+  "url": "https://www.spigotmc.org/resources/misc-commands.102413/",
+  "name": "Misc Commands",
+  "description": "Some basic commands I made in half an hour",
+  "authors": [
+    "thediamonder11"
+  ],
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/misc-commands.102413/history",
+  "gitUrl": "https://github.com/thediamonder11/Misc-Commands",
+  "releaseDate": 1654298160000,
+  "updateDate": 1654298160000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

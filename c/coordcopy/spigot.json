@@ -1,0 +1,30 @@
+{
+  "id": 102737,
+  "url": "https://www.spigotmc.org/resources/coordcopy.102737/",
+  "name": "CoordCopy",
+  "description": "Minecraft Bukkit/Spigot plugin for very easy and convenient entity/block coordinates grabbing",
+  "authors": [
+    "TheMaking"
+  ],
+  "numberOfDownloads": 17,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/coordcopy.102737/history",
+  "gitUrl": "https://github.com/dmkng/CoordCopy",
+  "releaseDate": 1655630400000,
+  "updateDate": 1655630400000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

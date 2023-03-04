@@ -1,0 +1,24 @@
+{
+  "id": 95118,
+  "url": "https://www.spigotmc.org/resources/headdatabase.95118/",
+  "name": "HeadDatabase",
+  "description": "Simple & Free-To-Use HeadDatabase plugin",
+  "authors": [
+    "PierreSchwang"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95118.jpg?1628427598",
+  "iconCid": "bafkreigwf64d7rdceq42ofcgrwbsdxtfdyn2ccqehm2l57e3imupmjzby4",
+  "numberOfDownloads": 925,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/headdatabase.95118/history",
+  "gitUrl": "https://github.com/PierreSchwang/HeadDatabase",
+  "releaseDate": 1628423940000,
+  "updateDate": 1651956420000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

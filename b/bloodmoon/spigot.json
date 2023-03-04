@@ -1,0 +1,23 @@
+{
+  "id": 74270,
+  "url": "https://www.spigotmc.org/resources/bloodmoon.74270/",
+  "name": "BloodMoon",
+  "description": "A BloodMoon shines every couple of nights",
+  "authors": [
+    "SpectralMemories"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/74/74270.jpg?1579365075",
+  "iconCid": "bafkreiajiendn6dctivyxxn4szwtkhfh6wekkgj5xdh6huyqveyxn5gc2e",
+  "numberOfDownloads": 69744,
+  "rating": 4.7,
+  "numberOfVotes": 70,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bloodmoon.74270/history",
+  "gitUrl": "https://gitlab.com/SpectralMemories/bloodmoon",
+  "releaseDate": 1578849300000,
+  "updateDate": 1652012940000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

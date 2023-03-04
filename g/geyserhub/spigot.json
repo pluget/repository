@@ -1,0 +1,25 @@
+{
+  "id": 95455,
+  "url": "https://www.spigotmc.org/resources/geyserhub.95455/",
+  "name": "GeyserHub",
+  "description": "Customizable server and command menus for Java and Bedrock players utilizing Bedrock Forms",
+  "authors": [
+    "konica"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95455.jpg?1629303655",
+  "iconCid": "bafkreigwaktrxftqnreafkqjzrz6ig7zecy76xxosc4qk7kkbhnpa7jbta",
+  "numberOfDownloads": 1064,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/geyserhub.95455/history",
+  "gitUrl": "https://github.com/kejonaMC/GeyserHub",
+  "releaseDate": 1629299760000,
+  "updateDate": 1655328660000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

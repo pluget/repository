@@ -1,0 +1,26 @@
+{
+  "id": 99838,
+  "url": "https://www.spigotmc.org/resources/mcsync-twitch-whitelist-manager.99838/",
+  "name": "MCSync - Twitch Whitelist Manager",
+  "description": "Making Sub & Follower Only Servers Simple",
+  "authors": [
+    "ChronicSquid"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99838.jpg?1644344931",
+  "iconCid": "bafkreibrwxqagtymmsg54cw4cir7hidjqntsyfuevcekkcaf7sxpnwt3ay",
+  "numberOfDownloads": 170,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mcsync-twitch-whitelist-manager.99838/history",
+  "releaseDate": 1644167940000,
+  "updateDate": 1654985280000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

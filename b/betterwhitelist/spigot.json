@@ -1,0 +1,19 @@
+{
+  "id": 101614,
+  "url": "https://www.spigotmc.org/resources/betterwhitelist.101614/",
+  "name": "BetterWhitelist",
+  "description": "A Minecraft Spigot plugin for better whitelist",
+  "authors": [
+    "CZghost"
+  ],
+  "numberOfDownloads": 125,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterwhitelist.101614/history",
+  "gitUrl": "https://github.com/Polda18/BetterWhitelist",
+  "releaseDate": 1650787620000,
+  "updateDate": 1653819120000,
+  "versions": [
+    "1.18"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 102909,
+  "url": "https://www.spigotmc.org/resources/guihomes-1-13-%C2%BB-1-19-manage-homes-using-guis.102909/",
+  "name": "GUIHomes | 1.13 » 1.19 | Manage Homes Using GUIs!",
+  "description": "GUIHomes is a lightweight home plugin that utilises GUIs for increased usability.",
+  "authors": [
+    "BenKeoghCGD"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102909.jpg?1656194427",
+  "iconCid": "bafkreie7pirvxu6gafvgl2bkgmyub7umgcmrf7elbcxpzfy46bfnkdg3cq",
+  "numberOfDownloads": 541,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/guihomes-1-13-%C2%BB-1-19-manage-homes-using-guis.102909/history",
+  "gitUrl": "https://github.com/BenKeoghCGD/GUIHomes",
+  "releaseDate": 1656190740000,
+  "updateDate": 1657308900000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

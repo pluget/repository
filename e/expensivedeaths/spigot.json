@@ -1,0 +1,24 @@
+{
+  "id": 96065,
+  "url": "https://www.spigotmc.org/resources/expensivedeaths.96065/",
+  "name": "ExpensiveDeaths",
+  "description": "Take money from people's balances when they die!",
+  "authors": [
+    "JasonHorkles"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96065.jpg?1664248919",
+  "iconCid": "bafkreicmar53dnu7hu55siwep6q2ta4qki5lxbnkitrdskb7m4kn352oyu",
+  "numberOfDownloads": 334,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/expensivedeaths.96065/history",
+  "gitUrl": "https://github.com/SilverstoneMC/ExpensiveDeaths",
+  "releaseDate": 1677806220000,
+  "updateDate": 1677806220000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 102631,
+  "url": "https://www.spigotmc.org/resources/serverspecs.102631/",
+  "name": "ServerSpecs",
+  "description": "See your server's specification, Like: storage, gpu, cpu, memory and more!",
+  "authors": [
+    "jonathanDEV101"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102631.jpg?1655244317",
+  "iconCid": "bafkreibnbpd3uqan2snijzfubhvl2tkaomybkdsysjk5v62fua2rzvgulq",
+  "numberOfDownloads": 271,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/serverspecs.102631/history",
+  "releaseDate": 1655240700000,
+  "updateDate": 1657487400000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

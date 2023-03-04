@@ -1,0 +1,24 @@
+{
+  "id": 96494,
+  "url": "https://www.spigotmc.org/resources/qqbungee.96494/",
+  "name": "QQBungee",
+  "description": "A QQ link Bungee(MC) plugin",
+  "authors": [
+    "BlackWings"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96494.jpg?1632761709",
+  "iconCid": "bafkreibfvge34kxz5oswxqrtzpn4cufzosiawvfgffyio5dtu4jnaebyl4",
+  "numberOfDownloads": 344,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/qqbungee.96494/history",
+  "releaseDate": 1632758040000,
+  "updateDate": 1655887380000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

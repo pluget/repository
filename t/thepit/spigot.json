@@ -1,0 +1,27 @@
+{
+  "id": 61016,
+  "url": "https://www.spigotmc.org/resources/thepit-bounties-killstreaks-upgrades-perks-adminmode-free-more.61016/",
+  "name": "ThePit - Bounties - Killstreaks - Upgrades - Perks - Adminmode - Free - & more!",
+  "description": "A free but advanced ThePit plugin inspired from a famous server",
+  "authors": [
+    "LagBug"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/61/61016.jpg?1537563817",
+  "iconCid": "bafkreig3jwv5ga4inbbqtrbytxyrzzo3crgtghlbezbcrqswkeybkbejpe",
+  "numberOfDownloads": 3901,
+  "rating": 4.6,
+  "numberOfVotes": 16,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/thepit-bounties-killstreaks-upgrades-perks-adminmode-free-more.61016/history",
+  "gitUrl": "https://github.com/LagBug/ThePit",
+  "releaseDate": 1537560180000,
+  "updateDate": 1654590000000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14"
+  ]
+}

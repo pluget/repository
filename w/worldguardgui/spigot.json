@@ -1,0 +1,25 @@
+{
+  "id": 95870,
+  "url": "https://www.spigotmc.org/resources/worldguardgui-1-8-8-1-19-2.95870/",
+  "name": "WorldGuardGUI [1.8.8 - 1.19.2]",
+  "description": "Manage your WorldGuard Regions in a simple to use GUI!",
+  "authors": [
+    "osmanfurkan115"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95870.jpg?1630435175",
+  "iconCid": "bafkreiaygx7oxhxsssyip3hywbr5w4rgq7ggcdu5c47huib4nchlpt7mty",
+  "numberOfDownloads": 13370,
+  "rating": 4.6,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/worldguardgui-1-8-8-1-19-2.95870/history",
+  "gitUrl": "https://github.com/osmanfurkan115/WorldGuardGUI",
+  "releaseDate": 1630431540000,
+  "updateDate": 1655139840000,
+  "versions": [
+    "1.8",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

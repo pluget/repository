@@ -1,0 +1,31 @@
+{
+  "id": 100575,
+  "url": "https://www.spigotmc.org/resources/prxluckperms-prisonranksx-addon.100575/",
+  "name": "PRXLuckPerms (PrisonRanksX Addon)",
+  "description": "Fully integrate PrisonRanksX to work with LuckPerms with group tracks support.",
+  "authors": [
+    "Sandwicha"
+  ],
+  "numberOfDownloads": 80,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/prxluckperms-prisonranksx-addon.100575/history",
+  "gitUrl": "https://github.com/TheGaming999/PRXLuckPerms",
+  "releaseDate": 1646838060000,
+  "updateDate": 1656144660000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

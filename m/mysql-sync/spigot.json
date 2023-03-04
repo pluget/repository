@@ -1,0 +1,23 @@
+{
+  "id": 101554,
+  "url": "https://www.spigotmc.org/resources/mysql-sync.101554/",
+  "name": "MySQL Sync",
+  "description": "Sync the data of your Players between several servers with MySQL Sync.",
+  "authors": [
+    "Sphinx_HD"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101554.jpg?1650570768",
+  "iconCid": "bafkreieejnuly6gwvaswvyklvltrl5kp6bwfho56rmajvrcfmnptfyrg2a",
+  "numberOfDownloads": 136,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mysql-sync.101554/history",
+  "gitUrl": "https://github.com/SphinxHD/MySQL-Sync",
+  "releaseDate": 1650567120000,
+  "updateDate": 1677151440000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

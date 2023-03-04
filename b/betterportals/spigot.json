@@ -1,0 +1,27 @@
+{
+  "id": 75409,
+  "url": "https://www.spigotmc.org/resources/betterportals.75409/",
+  "name": "BetterPortals",
+  "description": "Portals you can see through!",
+  "authors": [
+    "_TheProff_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75409.jpg?1583251589",
+  "iconCid": "bafkreihyvmmntzpg2kkql35ies42mgq4odbcyoktgnwo6he5dl6qjtwewy",
+  "numberOfDownloads": 49873,
+  "rating": 4.7,
+  "numberOfVotes": 69,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterportals.75409/history",
+  "gitUrl": "https://github.com/Lauriethefish/BetterPortals",
+  "releaseDate": 1582353660000,
+  "updateDate": 1657456560000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

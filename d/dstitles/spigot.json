@@ -1,0 +1,23 @@
+{
+  "id": 96043,
+  "url": "https://www.spigotmc.org/resources/dstitles.96043/",
+  "name": "dsTitles",
+  "description": "Create your own Titles that may be granted to users as rewards! With MySQL!",
+  "authors": [
+    "DrkMatr1984"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96043.jpg?1631046480",
+  "iconCid": "bafkreibrijporwl4l7oxibsalejbtxtzz7qqu5eoou5pdj3go3bmth5l5q",
+  "numberOfDownloads": 165,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dstitles.96043/history",
+  "gitUrl": "https://github.com/DrkMatr1984/dsTitles",
+  "releaseDate": 1631042640000,
+  "updateDate": 1654284120000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

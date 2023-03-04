@@ -1,0 +1,25 @@
+{
+  "id": 88466,
+  "url": "https://www.spigotmc.org/resources/send-console-message.88466/",
+  "name": "Send Console Message",
+  "description": "Send configurable console messages with a simple command!",
+  "authors": [
+    "OnyxianSoul"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88466.jpg?1612016369",
+  "iconCid": "bafkreih6feaiyeqffeswd4kg3lkgnkwffort43f4tyuzgpxfvcz3txl43m",
+  "numberOfDownloads": 281,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/send-console-message.88466/history",
+  "gitUrl": "https://github.com/OnyxianSoul/SendConsoleMessage",
+  "releaseDate": 1612012740000,
+  "updateDate": 1670716860000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.16",
+    "1.17",
+    "1.19"
+  ]
+}

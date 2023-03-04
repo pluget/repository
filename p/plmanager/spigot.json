@@ -1,0 +1,23 @@
+{
+  "id": 106682,
+  "url": "https://www.spigotmc.org/resources/plmanager.106682/",
+  "name": "PLManager",
+  "description": "Plugin management.",
+  "authors": [
+    "mqchinee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106682.jpg?1670749505",
+  "iconCid": "bafkreihr5gr5wd35wxoxe75xqy2abalay4ccu7dm62cayxlgy3sy634tly",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/plmanager.106682/history",
+  "gitUrl": "https://github.com/mqchinee/PLManager",
+  "releaseDate": 1670745840000,
+  "updateDate": 1670745840000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

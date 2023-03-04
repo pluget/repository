@@ -1,0 +1,23 @@
+{
+  "id": 102234,
+  "url": "https://www.spigotmc.org/resources/%EF%B8%8Fshield-break-noise-shield-break-sound-%EF%B8%8F-free-open-source.102234/",
+  "name": "️Shield Break Noise (Shield Break Sound) ️| FREE | OPEN SOURCE",
+  "description": "Adds a sound when your opponent's shield breaks",
+  "authors": [
+    "SkipTurn"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102234.jpg?1653535608",
+  "iconCid": "bafkreih4cbv5jvdk5nyycz7qkd7faeermjbknpjz4g7arze3pprt4seqrm",
+  "numberOfDownloads": 103,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%EF%B8%8Fshield-break-noise-shield-break-sound-%EF%B8%8F-free-open-source.102234/history",
+  "gitUrl": "https://github.com/JosTheDude/shield-break-sound/",
+  "releaseDate": 1653531960000,
+  "updateDate": 1654296120000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

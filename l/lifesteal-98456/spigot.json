@@ -1,0 +1,21 @@
+{
+  "id": 98456,
+  "url": "https://www.spigotmc.org/resources/lifesteal.98456/",
+  "name": "Lifesteal",
+  "description": "A bit like hardcore, but different",
+  "authors": [
+    "UnleqitQ"
+  ],
+  "numberOfDownloads": 25328,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lifesteal.98456/history",
+  "gitUrl": "https://github.com/UnleqitQ/LifeSteal",
+  "releaseDate": 1639779960000,
+  "updateDate": 1660683420000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

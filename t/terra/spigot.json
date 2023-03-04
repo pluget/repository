@@ -1,0 +1,27 @@
+{
+  "id": 85151,
+  "url": "https://www.spigotmc.org/resources/terra.85151/",
+  "name": "Terra",
+  "description": "World generation modding/configuration platform",
+  "authors": [
+    "dfsek"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85151.jpg?1607358986",
+  "iconCid": "bafkreia2wdhmehwwggjsmsu6nswjvzz6qw6ffyzqnnw2cnlxazzcd6sqhy",
+  "numberOfDownloads": 76578,
+  "rating": 4.5,
+  "numberOfVotes": 124,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/terra.85151/history",
+  "gitUrl": "https://github.com/PolyhedralDev/Terra",
+  "releaseDate": 1603612500000,
+  "updateDate": 1671687900000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 102077,
+  "url": "https://www.spigotmc.org/resources/drinks-closed.102077/",
+  "name": "Drinks++ [CLOSED]",
+  "description": "Plugin for drinks in minecraft",
+  "authors": [
+    "_Jodex_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102077.jpg?1652943254",
+  "iconCid": "bafkreiefywvvdxd36vqj7zbue5ubog2afs6aj32vommtg6z22lbh4a3vpi",
+  "numberOfDownloads": 79,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/drinks-closed.102077/history",
+  "releaseDate": 1652939640000,
+  "updateDate": 1652939640000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

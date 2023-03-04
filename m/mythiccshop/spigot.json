@@ -1,0 +1,30 @@
+{
+  "id": 102553,
+  "url": "https://www.spigotmc.org/resources/mythiccshop.102553/",
+  "name": "MythiccShop",
+  "description": "Create multi shop to buy/sell MythicMobs's items",
+  "authors": [
+    "VoChiDanh"
+  ],
+  "numberOfDownloads": 93,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mythiccshop.102553/history",
+  "gitUrl": "https://github.com/D-x-Z/MythiccShop",
+  "releaseDate": 1655007900000,
+  "updateDate": 1655641320000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

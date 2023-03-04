@@ -1,0 +1,32 @@
+{
+  "id": 38513,
+  "url": "https://www.spigotmc.org/resources/advanced-armor-stands.38513/",
+  "name": "Advanced Armor Stands",
+  "description": "Easy editing of armor stands and player heads!",
+  "authors": [
+    "Falyrion"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/38/38513.jpg?1598360294",
+  "iconCid": "bafkreidhqt5utz2gn3betuwlvcrl2oe7bluhl4pz36kk3uegcmirkey4ky",
+  "numberOfDownloads": 56419,
+  "rating": 4.4,
+  "numberOfVotes": 21,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advanced-armor-stands.38513/history",
+  "gitUrl": "https://github.com/Falyrion/AdvancedArmorStands",
+  "releaseDate": 1490591340000,
+  "updateDate": 1656623940000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

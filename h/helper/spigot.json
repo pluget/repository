@@ -1,0 +1,23 @@
+{
+  "id": 102513,
+  "url": "https://www.spigotmc.org/resources/helper.102513/",
+  "name": "Helper",
+  "description": "Server Helper | Discord, In Game Path Editors, Manage your server without afraid !",
+  "authors": [
+    "mixer.dll"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102513.jpg?1654794490",
+  "iconCid": "bafkreidfdspop24jqdfuru2simsvj7fogywlxhujgsnoclux5a7tua45nu",
+  "numberOfDownloads": 99,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/helper.102513/history",
+  "gitUrl": "https://github.com/EuropexStudio/Helper",
+  "releaseDate": 1654790820000,
+  "updateDate": 1655129220000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

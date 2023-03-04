@@ -1,0 +1,27 @@
+{
+  "id": 51856,
+  "url": "https://www.spigotmc.org/resources/chestshop.51856/",
+  "name": "ChestShop",
+  "description": "A simple, yet very powerful system for making physical shops using signs and chests!",
+  "authors": [
+    "Phoenix616"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/51/51856.jpg?1515539478",
+  "iconCid": "bafkreihesmitgeyxbzkqizsayva5ykz74wcz2s64tlfkzetpolgsvuwgcq",
+  "numberOfDownloads": 245645,
+  "rating": 4.4,
+  "numberOfVotes": 68,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chestshop.51856/history",
+  "gitUrl": "https://github.com/ChestShop-authors/ChestShop-3",
+  "releaseDate": 1515535860000,
+  "updateDate": 1656423300000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

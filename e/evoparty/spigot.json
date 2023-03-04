@@ -1,0 +1,23 @@
+{
+  "id": 100237,
+  "url": "https://www.spigotmc.org/resources/evoparty.100237/",
+  "name": "EvoParty",
+  "description": "A Party Plugin Including Hud, PartyChat, LFG, PartyTP, Permissions and More!",
+  "authors": [
+    "Dumond98"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100237.jpg?1645561273",
+  "iconCid": "bafkreicvelcbybdzpmubbudp472rn4t72k2wt4s5e55k5p6x5dulsj5wa4",
+  "numberOfDownloads": 103,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/evoparty.100237/history",
+  "gitUrl": "https://github.com/Dumond93/EvoParty",
+  "releaseDate": 1645557540000,
+  "updateDate": 1653657360000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

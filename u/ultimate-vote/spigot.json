@@ -1,0 +1,24 @@
+{
+  "id": 18078,
+  "url": "https://www.spigotmc.org/resources/ultimate-vote.18078/",
+  "name": "Ultimate Vote",
+  "description": "This plugin allow the players to vote for kick,ban,unban,timeDay,timeNight.",
+  "authors": [
+    "AlaDyn172"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/18/18078.jpg?1454798798",
+  "iconCid": "bafkreic2sdqdmz64aczhql54e6xt654gmwhgx7sgx4x623nzcgilmfvtrm",
+  "numberOfDownloads": 4062,
+  "rating": 4.7,
+  "numberOfVotes": 14,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ultimate-vote.18078/history",
+  "releaseDate": 1454795100000,
+  "updateDate": 1655921460000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

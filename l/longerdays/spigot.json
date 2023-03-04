@@ -1,0 +1,25 @@
+{
+  "id": 80610,
+  "url": "https://www.spigotmc.org/resources/longerdays.80610/",
+  "name": "LongerDays",
+  "description": "Adjust day and night time cycle intervals",
+  "authors": [
+    "foncused"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80610.jpg?1592970130",
+  "iconCid": "bafkreia2gqniowbehyw7uswm6myjsjodg7byah4syromb25tykbxeeniiu",
+  "numberOfDownloads": 2471,
+  "rating": 4.4,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/longerdays.80610/history",
+  "gitUrl": "https://github.com/foncused/LongerDays",
+  "releaseDate": 1592965020000,
+  "updateDate": 1656442260000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

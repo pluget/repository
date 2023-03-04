@@ -1,0 +1,27 @@
+{
+  "id": 98400,
+  "url": "https://www.spigotmc.org/resources/shopkeepers-addon-navigation-economy-plotsquared-vault-integration.98400/",
+  "name": "Shopkeepers Addon | Navigation | Economy - Plotsquared, Vault Integration",
+  "description": "No more searching the shopkeepers marketplace to buy your favorite items.",
+  "authors": [
+    "_w41k3r"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98400.jpg?1654859421",
+  "iconCid": "bafkreidqxhc6yz7j53quojlr3k7hngoka7txotyzhw6y7z6fvlvwcdr6cy",
+  "numberOfDownloads": 9181,
+  "rating": 4.9,
+  "numberOfVotes": 15,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/shopkeepers-addon-navigation-economy-plotsquared-vault-integration.98400/history",
+  "gitUrl": "https://github.com/the-w41k3r/ShopkeepersAddon",
+  "releaseDate": 1639575600000,
+  "updateDate": 1656615060000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

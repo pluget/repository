@@ -1,0 +1,27 @@
+{
+  "id": 99282,
+  "url": "https://www.spigotmc.org/resources/plutochat.99282/",
+  "name": "PlutoChat",
+  "description": "Upgrade your Chat Management to another World!",
+  "authors": [
+    "GamerCoder215"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99282.jpg?1642381413",
+  "iconCid": "bafkreihinfyi2r75ynya3rp2trtctmaqnhitf5x5rjstpt2vpxirit3buy",
+  "numberOfDownloads": 58,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/plutochat.99282/history",
+  "gitUrl": "https://github.com/Team-Inceptus/PlutoChat",
+  "releaseDate": 1642377780000,
+  "updateDate": 1654463700000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

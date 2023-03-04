@@ -1,0 +1,22 @@
+{
+  "id": 100510,
+  "url": "https://www.spigotmc.org/resources/1-18-1-19-3-autofishing.100510/",
+  "name": "[1.18 - 1.19.3] AutoFishing",
+  "description": "Allow players to automatically fish!",
+  "authors": [
+    "WMGameLive"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100510.jpg?1646560825",
+  "iconCid": "bafkreihsh56wkxxmaz7qb6623ygys72kt7zcidc3ahi7o4ztafbmxv5tou",
+  "numberOfDownloads": 2605,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/1-18-1-19-3-autofishing.100510/history",
+  "gitUrl": "https://github.com/WMGameLive/AutoFishing",
+  "releaseDate": 1646557200000,
+  "updateDate": 1670456880000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

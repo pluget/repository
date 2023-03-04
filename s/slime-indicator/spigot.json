@@ -1,0 +1,26 @@
+{
+  "id": 93368,
+  "url": "https://www.spigotmc.org/resources/slime-indicator.93368/",
+  "name": "Slime Indicator",
+  "description": "Don't know if your in a slime chunk? Well now you can easily check with one command!",
+  "authors": [
+    "MrButtersDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93368.jpg?1623813430",
+  "iconCid": "bafkreia5gtqe4pmtxmykqkqtf3367bcywiaqdydnqdxfm5du5736o7igrm",
+  "numberOfDownloads": 327,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/slime-indicator.93368/history",
+  "gitUrl": "https://github.com/MrButtersDEV/Slime-Indicator",
+  "releaseDate": 1623809760000,
+  "updateDate": 1655254620000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

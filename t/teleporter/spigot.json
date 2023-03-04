@@ -1,0 +1,25 @@
+{
+  "id": 108365,
+  "url": "https://www.spigotmc.org/resources/teleporter.108365/",
+  "name": "Teleporter",
+  "description": "Set locations and teleport them with a GUI menu",
+  "authors": [
+    "IwwwWwwwI"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108365.jpg?1677936932",
+  "iconCid": "bafkreibloue6gktfca4apcasiu2dxfsccczvu3g7jiyn4y3w7ylslrdc6i",
+  "numberOfDownloads": 3,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/teleporter.108365/history",
+  "releaseDate": 1677933300000,
+  "updateDate": 1677933300000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

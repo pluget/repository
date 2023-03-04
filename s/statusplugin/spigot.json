@@ -1,0 +1,21 @@
+{
+  "id": 103156,
+  "url": "https://www.spigotmc.org/resources/statusplugin.103156/",
+  "name": "StatusPlugin",
+  "description": "Set Statuses to display what you are doing. Fully customizable.",
+  "authors": [
+    "Fynnyx"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103156.jpg?1657107052",
+  "iconCid": "bafkreigny2cs5vb6ik6xosaepsybznuicyu66rres2koapgulg7nicqevy",
+  "numberOfDownloads": 141,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/statusplugin.103156/history",
+  "gitUrl": "https://github.com/Fynnyx/StatusPlugin",
+  "releaseDate": 1657103340000,
+  "updateDate": 1657614720000,
+  "versions": [
+    "1.19"
+  ]
+}

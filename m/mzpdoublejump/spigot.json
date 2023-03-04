@@ -1,0 +1,23 @@
+{
+  "id": 89907,
+  "url": "https://www.spigotmc.org/resources/mzp-doublejump-give-your-players-the-super-jump-ability-1-8-1-18.89907/",
+  "name": "MZP-DoubleJump | Give your players the super jump ability [1.8 - 1.18]",
+  "description": "Implement on your server the double jump ability with custom effect and sound. Perfect for lobbys!",
+  "authors": [
+    "ludgart"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89907.jpg?1615304276",
+  "iconCid": "bafkreiaa2ztosaq7x6tpgdaffabanqczpdpcasurbiod2if5cu52wgtqey",
+  "numberOfDownloads": 187,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mzp-doublejump-give-your-players-the-super-jump-ability-1-8-1-18.89907/history",
+  "gitUrl": "https://github.com/Minecraft-Zocker-Pro/MZP-DoubleJump",
+  "releaseDate": 1615300620000,
+  "updateDate": 1653565080000,
+  "versions": [
+    "1.8",
+    "1.17",
+    "1.18"
+  ]
+}

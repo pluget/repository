@@ -1,0 +1,22 @@
+{
+  "id": 101606,
+  "url": "https://www.spigotmc.org/resources/showcase.101606/",
+  "name": "Showcase",
+  "description": "Allows players to show off their prized possessions.",
+  "authors": [
+    "Naspo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101606.jpg?1650747780",
+  "iconCid": "bafkreig4q3tvdt7upwl44jfupqhd2kdiacyulcgyai67almnbcym5myxhu",
+  "numberOfDownloads": 220,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/showcase.101606/history",
+  "gitUrl": "https://github.com/NaspoDev/Showcase",
+  "releaseDate": 1650744120000,
+  "updateDate": 1671827100000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

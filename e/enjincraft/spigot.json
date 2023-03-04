@@ -1,0 +1,27 @@
+{
+  "id": 79408,
+  "url": "https://www.spigotmc.org/resources/enjincraft.79408/",
+  "name": "EnjinCraft",
+  "description": "Enjin's EnjinCraft plugin brings the power of blockchain technology to Minecraft.",
+  "authors": [
+    "Enjin"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79408.jpg?1590702681",
+  "iconCid": "bafkreiaahyp24mddvv5dqtpshdlz5jktqu47psdla37yopoffl7zrpempq",
+  "numberOfDownloads": 3276,
+  "rating": 4,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/enjincraft.79408/history",
+  "gitUrl": "https://github.com/enjin/enjincraft",
+  "releaseDate": 1590699060000,
+  "updateDate": 1655749860000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

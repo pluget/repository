@@ -1,0 +1,24 @@
+{
+  "id": 92944,
+  "url": "https://www.spigotmc.org/resources/fredhunt.92944/",
+  "name": "FredHunt",
+  "description": "a 1.16-1.19 Easy To Use Manhunt Plugin",
+  "authors": [
+    "Fredthedoggy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92944.jpg?1622647570",
+  "iconCid": "bafkreidq4grqndzgg7shzt2m3mcl44guvctelvgc74ns5sce3bjknar7eq",
+  "numberOfDownloads": 1009,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fredhunt.92944/history",
+  "gitUrl": "https://github.com/Fredthedoggy/FredHunt",
+  "releaseDate": 1622643960000,
+  "updateDate": 1676686800000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

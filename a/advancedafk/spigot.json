@@ -1,0 +1,26 @@
+{
+  "id": 60761,
+  "url": "https://www.spigotmc.org/resources/advancedafk.60761/",
+  "name": "AdvancedAFK",
+  "description": "Advanced, customizable and lightweight AFK mode plugin with antiAFK detection.",
+  "authors": [
+    "Prunt"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/60/60761.jpg?1536648386",
+  "iconCid": "bafkreiabbggpqnjjdxr5xiqykxuxhhknz2gs7fplrkn7e6jqbuahwemzpa",
+  "numberOfDownloads": 158,
+  "rating": 3.9,
+  "numberOfVotes": 15,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advancedafk.60761/history",
+  "releaseDate": 1538481960000,
+  "updateDate": 1657106640000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

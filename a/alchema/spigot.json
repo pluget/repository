@@ -1,0 +1,23 @@
+{
+  "id": 87078,
+  "url": "https://www.spigotmc.org/resources/alchema.87078/",
+  "name": "Alchema",
+  "description": "In-world cauldron crafting, witchcraft and sorcery",
+  "authors": [
+    "Choco"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87078.jpg?1608919002",
+  "iconCid": "bafkreicztjfnwg3h7qi6uygzcfd72lbw63upcgte5hn23ugcclg45mh2dm",
+  "numberOfDownloads": 1236,
+  "rating": 5,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/alchema.87078/history",
+  "gitUrl": "https://github.com/2008Choco/Alchema/",
+  "releaseDate": 1608915360000,
+  "updateDate": 1652655960000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

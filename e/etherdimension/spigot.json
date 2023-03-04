@@ -1,0 +1,27 @@
+{
+  "id": 108364,
+  "url": "https://www.spigotmc.org/resources/etherdimension.108364/",
+  "name": "EtherDimension",
+  "description": "adds the Ether get in with /function minecraft:main",
+  "authors": [
+    "MayaKribson"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108364.jpg?1677932847",
+  "iconCid": "bafkreic2cbzn3dpm5xtahm6otg35ms72zclxrsgtirxqs2cfhl5josefce",
+  "numberOfDownloads": 4,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/etherdimension.108364/history",
+  "releaseDate": 1677929220000,
+  "updateDate": 1677929220000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

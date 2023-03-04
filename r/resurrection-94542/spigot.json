@@ -1,0 +1,31 @@
+{
+  "id": 94542,
+  "url": "https://www.spigotmc.org/resources/resurrection.94542/",
+  "name": "Resurrection",
+  "description": "Force your players to wait a certain time before respawning!",
+  "authors": [
+    "bryzinga"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94542.jpg?1626928479",
+  "iconCid": "bafkreiavhznz3wgamggpox6yjulhaufokq5jwgie3l75dexfb7fvkyhr6i",
+  "numberOfDownloads": 498,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/resurrection.94542/history",
+  "gitUrl": "https://github.com/brysonsteck/resurrection",
+  "releaseDate": 1626923580000,
+  "updateDate": 1653857520000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

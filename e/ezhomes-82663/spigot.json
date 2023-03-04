@@ -1,0 +1,27 @@
+{
+  "id": 82663,
+  "url": "https://www.spigotmc.org/resources/ezhomes.82663/",
+  "name": "EzHomes",
+  "description": "A super easy to use home plugin.",
+  "authors": [
+    "hyperdefined"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82663.jpg?1642974714",
+  "iconCid": "bafkreicah77zuenv4svteesimneu5ef2udfqpiztixmheyi5svhanowiou",
+  "numberOfDownloads": 5658,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ezhomes.82663/history",
+  "gitUrl": "https://github.com/hyperdefined/EzHomes",
+  "releaseDate": 1597215300000,
+  "updateDate": 1652303220000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

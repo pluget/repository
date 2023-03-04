@@ -1,0 +1,23 @@
+{
+  "id": 89127,
+  "url": "https://www.spigotmc.org/resources/skjade.89127/",
+  "name": "SkJade",
+  "description": "SkJade is a Skript add-on which provides custom syntax to your scripts!",
+  "authors": [
+    "Ankoki"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89127.jpg?1613557276",
+  "iconCid": "bafkreihmbfohrz4zaw5lcuex4s6u6w4nbtususmrarzlg632p6qh6jccje",
+  "numberOfDownloads": 1196,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skjade.89127/history",
+  "gitUrl": "https://www.github.com/Ankoki-Dev/SkJade",
+  "releaseDate": 1613553660000,
+  "updateDate": 1656334440000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

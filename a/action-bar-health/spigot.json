@@ -1,0 +1,32 @@
+{
+  "id": 2661,
+  "url": "https://www.spigotmc.org/resources/action-bar-health.2661/",
+  "name": "Action Bar Health",
+  "description": "ActionHealth is a health plugin that utilizes the action bar to display player and mob health.",
+  "authors": [
+    "ZeeZee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/2/2661.jpg?1586131253",
+  "iconCid": "bafkreicgklhw7juq5ay64mwjreofry4ojlqmulg3lrloeoef6su5lcsp5y",
+  "numberOfDownloads": 482053,
+  "rating": 4.8,
+  "numberOfVotes": 117,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/action-bar-health.2661/history",
+  "gitUrl": "https://github.com/zeshan321/ActionHealth/",
+  "releaseDate": 1419570840000,
+  "updateDate": 1655056200000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 102876,
+  "url": "https://www.spigotmc.org/resources/system.102876/",
+  "name": "System",
+  "description": "A utility plugin with all the features needed to create a server! A new EssentialsX!",
+  "authors": [
+    "MIOR"
+  ],
+  "numberOfDownloads": 1220,
+  "rating": 2.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/system.102876/history",
+  "gitUrl": "https://github.com/eduardo-mior/System",
+  "releaseDate": 1656092880000,
+  "updateDate": 1656092880000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

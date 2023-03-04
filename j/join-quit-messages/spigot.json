@@ -1,0 +1,27 @@
+{
+  "id": 102563,
+  "url": "https://www.spigotmc.org/resources/join-quit-messages.102563/",
+  "name": "Join & Quit Messages",
+  "description": "This plugin allows you to make custom global and personal messages.",
+  "authors": [
+    "MaxMeitnerFur"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102563.jpg?1655049743",
+  "iconCid": "bafkreihqvcs2djlkrrhf4r67m644kjrejezjrjpko6svupgdekn5vhw3uq",
+  "numberOfDownloads": 183,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/join-quit-messages.102563/history",
+  "releaseDate": 1655046120000,
+  "updateDate": 1655555940000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

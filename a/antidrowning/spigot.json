@@ -1,0 +1,21 @@
+{
+  "id": 102912,
+  "url": "https://www.spigotmc.org/resources/antidrowning.102912/",
+  "name": "AntiDrowning",
+  "description": "Disables damage from staying in water for a long time",
+  "authors": [
+    "Roggy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102912.jpg?1656200143",
+  "iconCid": "bafkreigcvrzbcyyzmunyv56kckhvud6nxdejwvbwjaexscojkyng4xutpq",
+  "numberOfDownloads": 25,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antidrowning.102912/history",
+  "releaseDate": 1656196440000,
+  "updateDate": 1656196440000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

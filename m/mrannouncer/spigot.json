@@ -1,0 +1,23 @@
+{
+  "id": 101456,
+  "url": "https://www.spigotmc.org/resources/mrannouncer.101456/",
+  "name": "MrAnnouncer",
+  "description": "A Discord integration Minecraft Plugin",
+  "authors": [
+    "Nergly"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101456.jpg?1650259848",
+  "iconCid": "bafkreick26cgl4lhyht4swms4xaq3khpiisl3jhx354baiy3i6l63tqhs4",
+  "numberOfDownloads": 192,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mrannouncer.101456/history",
+  "releaseDate": 1650256140000,
+  "updateDate": 1654865520000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

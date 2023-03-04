@@ -1,0 +1,31 @@
+{
+  "id": 95853,
+  "url": "https://www.spigotmc.org/resources/servertools-%E2%9E%9C-modular-server-management-1-8-1-18-2-open-source.95853/",
+  "name": "ServerTools ➜ Modular Server Management | [1.8-1.18.2+] (Open Source)",
+  "description": "Properly Tested for 100+ most common server requirements",
+  "authors": [
+    "Reecescups"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95853.jpg?1630385111",
+  "iconCid": "bafkreic6tcicfxmyhmo2zi4pc6hup7z6o2hvb4tp44xaetsmk6ee27znmy",
+  "numberOfDownloads": 2448,
+  "rating": 4.5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/servertools-%E2%9E%9C-modular-server-management-1-8-1-18-2-open-source.95853/history",
+  "gitUrl": "https://github.com/Reecepbcups/ServerTools-MC",
+  "releaseDate": 1630381380000,
+  "updateDate": 1655080980000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 102622,
+  "url": "https://www.spigotmc.org/resources/datamanager-bungeecord-spigot.102622/",
+  "name": "DataManager (Bungeecord/Spigot)",
+  "description": "API for some of the Mipcraft plugins for saving and loading data from MySql",
+  "authors": [
+    "MipCraft"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102622.jpg?1655231839",
+  "iconCid": "bafkreicdy2jv6weje65knvnfkyortbrxuemqahle2qt5yoivbk2qrkipkm",
+  "numberOfDownloads": 106,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/datamanager-bungeecord-spigot.102622/history",
+  "releaseDate": 1655228220000,
+  "updateDate": 1655228220000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

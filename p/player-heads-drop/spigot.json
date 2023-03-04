@@ -1,0 +1,27 @@
+{
+  "id": 108319,
+  "url": "https://www.spigotmc.org/resources/player-heads-drop-%E2%9A%94%EF%B8%8F-drop-heads-on-player-death-%E2%9A%94%EF%B8%8F-drag-drop.108319/",
+  "name": "Player Heads Drop ⚔️ Drop Heads on Player Death ⚔️ Drag & Drop",
+  "description": "Simply drop a player's head when they die",
+  "authors": [
+    "SkipTurn"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108319.jpg?1677715691",
+  "iconCid": "bafkreicqcahsej5r52fk7dv6vbajsacewzddcbxyrgcs7wvtnqa2sabihy",
+  "numberOfDownloads": 38,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/player-heads-drop-%E2%9A%94%EF%B8%8F-drop-heads-on-player-death-%E2%9A%94%EF%B8%8F-drag-drop.108319/history",
+  "gitUrl": "https://github.com/JosTheDude/PlayerHeadDrops",
+  "releaseDate": 1677712080000,
+  "updateDate": 1677712080000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

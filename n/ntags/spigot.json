@@ -1,0 +1,22 @@
+{
+  "id": 101579,
+  "url": "https://www.spigotmc.org/resources/ntags-%E2%80%93-powerful-tool-for-management-nametags.101579/",
+  "name": "nTags – Powerful tool for management nametags",
+  "description": "Powerful hide player nametags plugin.",
+  "authors": [
+    "Neros2k"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101579.jpg?1650674392",
+  "iconCid": "bafkreifmjidknuwuccc3vxi4uxltvlnevufufikwcjcbnrqqklgiz4rrue",
+  "numberOfDownloads": 99,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ntags-%E2%80%93-powerful-tool-for-management-nametags.101579/history",
+  "gitUrl": "https://github.com/neros2k/nTags",
+  "releaseDate": 1650670680000,
+  "updateDate": 1652146980000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

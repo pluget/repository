@@ -1,0 +1,31 @@
+{
+  "id": 104089,
+  "url": "https://www.spigotmc.org/resources/neoconfig.104089/",
+  "name": "NeoConfig",
+  "description": "The ultimate tool to take control of your server's configuration files",
+  "authors": [
+    "KyTDK"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/104/104089.jpg?1659693312",
+  "iconCid": "bafkreibjeayjjlajucift4krzss4jrlshzrbz2avgcbu2k6urcgtcqy7hi",
+  "numberOfDownloads": 758,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/neoconfig.104089/history",
+  "releaseDate": 1659689520000,
+  "updateDate": 1672153560000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

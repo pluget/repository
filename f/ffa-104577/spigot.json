@@ -1,0 +1,22 @@
+{
+  "id": 104577,
+  "url": "https://www.spigotmc.org/resources/ffa.104577/",
+  "name": "FFA",
+  "description": "A simple ffa plugin",
+  "authors": [
+    "Nek__"
+  ],
+  "numberOfDownloads": 55,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ffa.104577/history",
+  "gitUrl": "https://github.com/da-Nek/Very-Simple-FFA-By-Nek",
+  "releaseDate": 1660575360000,
+  "updateDate": 1660742280000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

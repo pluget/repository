@@ -1,0 +1,22 @@
+{
+  "id": 103029,
+  "url": "https://www.spigotmc.org/resources/ssb-aswm_lite.103029/",
+  "name": "SSB-ASWM_Lite",
+  "description": "SuperiorSkyBlock Addon that allows you to manage the world of the islands through the Slime Region",
+  "authors": [
+    "xSavior_of_God"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103029.jpg?1656657267",
+  "iconCid": "bafkreihwoznt2peeoetnpfdy22pckg47ygmcldwo4hwf4n5vscisy2sj4m",
+  "numberOfDownloads": 43,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ssb-aswm_lite.103029/history",
+  "gitUrl": "https://github.com/xSavior-of-God/SSB-ASWM_Lite",
+  "releaseDate": 1656653340000,
+  "updateDate": 1670525580000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

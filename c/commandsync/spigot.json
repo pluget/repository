@@ -1,0 +1,31 @@
+{
+  "id": 52093,
+  "url": "https://www.spigotmc.org/resources/commandsync.52093/",
+  "name": "CommandSync",
+  "description": "Unofficial update",
+  "authors": [
+    "glavrak"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/52/52093.jpg?1516104382",
+  "iconCid": "bafkreibyh5giis2vq5gifklu7fwtvdbduwpyt4tg37prkbl2e5xycj2aji",
+  "numberOfDownloads": 3322,
+  "rating": 4.7,
+  "numberOfVotes": 31,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/commandsync.52093/history",
+  "gitUrl": "https://github.com/SawFowl/CommandSync",
+  "releaseDate": 1516100760000,
+  "updateDate": 1654008240000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

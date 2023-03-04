@@ -1,0 +1,31 @@
+{
+  "id": 97008,
+  "url": "https://www.spigotmc.org/resources/clientchecker.97008/",
+  "name": "ClientChecker",
+  "description": "Check the clients of players that join your server",
+  "authors": [
+    "Destial"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97008.jpg?1634889401",
+  "iconCid": "bafkreieqf266rbr4e7zasaxflu2qm6mydjgdqorklk5j2g6doayvr7v7ey",
+  "numberOfDownloads": 608,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/clientchecker.97008/history",
+  "releaseDate": 1634885760000,
+  "updateDate": 1655694960000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

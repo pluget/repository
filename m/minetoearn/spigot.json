@@ -1,0 +1,28 @@
+{
+  "id": 63899,
+  "url": "https://www.spigotmc.org/resources/minetoearn.63899/",
+  "name": "MineToEarn",
+  "description": "Mine blocks to get Money.",
+  "authors": [
+    "SPY_me"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/63/63899.jpg?1547053469",
+  "iconCid": "bafkreicqyf4dwehyt5o34hjdvez344cmhepguperdh6vougzjvgsdzfble",
+  "numberOfDownloads": 227,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minetoearn.63899/history",
+  "gitUrl": "https://github.com/SPYmeYT/MineToEarn",
+  "releaseDate": 1547049780000,
+  "updateDate": 1671663780000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

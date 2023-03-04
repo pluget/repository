@@ -1,0 +1,23 @@
+{
+  "id": 21696,
+  "url": "https://www.spigotmc.org/resources/passlock-the-new-security-lock-generation.21696/",
+  "name": "PassLock - The new security lock generation",
+  "description": "Smart block protection !",
+  "authors": [
+    "Kamereon"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/21/21696.jpg?1488926450",
+  "iconCid": "bafkreihiqlyuys4nh6vczdqkjgssbgo667tmkewprlxbor26k6qdx2dy2i",
+  "numberOfDownloads": 7579,
+  "rating": 4.8,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/passlock-the-new-security-lock-generation.21696/history",
+  "gitUrl": "https://github.com/StealthyKamereon/passlock",
+  "releaseDate": 1460502960000,
+  "updateDate": 1652287320000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

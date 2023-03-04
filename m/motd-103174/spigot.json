@@ -1,0 +1,23 @@
+{
+  "id": 103174,
+  "url": "https://www.spigotmc.org/resources/motd.103174/",
+  "name": "MOTD",
+  "description": "A simple chat MOTD plugin",
+  "authors": [
+    "Brand0n_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103174.jpg?1657150296",
+  "iconCid": "bafkreigfpunaddmt23jq5yalqlv25yztcksoyu7cijhq76xo32uz27tz7e",
+  "numberOfDownloads": 176,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/motd.103174/history",
+  "releaseDate": 1657146660000,
+  "updateDate": 1657146660000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

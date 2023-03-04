@@ -1,0 +1,31 @@
+{
+  "id": 108317,
+  "url": "https://www.spigotmc.org/resources/discord.108317/",
+  "name": "Discord",
+  "description": "Good solution to have the /discord command in your server",
+  "authors": [
+    "ManyGlue"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108317.jpg?1677705103",
+  "iconCid": "bafkreiexmmg5gxjzczjlbyiqrd5qs224lrhrwnawslshdaaoesgdcxalru",
+  "numberOfDownloads": 33,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discord.108317/history",
+  "releaseDate": 1677788280000,
+  "updateDate": 1677788280000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

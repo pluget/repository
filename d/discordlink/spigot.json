@@ -1,0 +1,22 @@
+{
+  "id": 95837,
+  "url": "https://www.spigotmc.org/resources/discordlink.95837/",
+  "name": "DiscordLink",
+  "description": "Configurable Discord Link Plugin",
+  "authors": [
+    "WoodsGeorgeJr"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95837.jpg?1630353577",
+  "iconCid": "bafkreihqolav6lbfmujpgrjx6cravzlgpywoc4io2olr5koihlvavl7ii4",
+  "numberOfDownloads": 205,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discordlink.95837/history",
+  "releaseDate": 1630349940000,
+  "updateDate": 1655657760000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

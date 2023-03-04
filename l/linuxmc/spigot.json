@@ -1,0 +1,19 @@
+{
+  "id": 104885,
+  "url": "https://www.spigotmc.org/resources/linuxmc.104885/",
+  "name": "LinuxMC",
+  "description": "Allows you to launch shell commands in-game (BE CAREFUL WITH THAT).",
+  "authors": [
+    "Olafcio"
+  ],
+  "numberOfDownloads": 100,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/linuxmc.104885/history",
+  "gitUrl": "https://github.com/Olafcio1/LinuxMC",
+  "releaseDate": 1661690280000,
+  "updateDate": 1663490160000,
+  "versions": [
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 102508,
+  "url": "https://www.spigotmc.org/resources/portalsuppressor.102508/",
+  "name": "PortalSuppressor",
+  "description": "Prevents mobs from spawning in portals.",
+  "authors": [
+    "Tis_awesomeness"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102508.jpg?1654741836",
+  "iconCid": "bafkreidiv5x6fqdgjy7xfrtjvoxpw57vdgepo74e25c2shqfu7n47kk3pi",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/portalsuppressor.102508/history",
+  "gitUrl": "https://github.com/Tisawesomeness/PortalSuppressor",
+  "releaseDate": 1654738140000,
+  "updateDate": 1654738140000,
+  "versions": [
+    "1.19"
+  ]
+}

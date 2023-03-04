@@ -1,0 +1,26 @@
+{
+  "id": 80936,
+  "url": "https://www.spigotmc.org/resources/staff-summoner.80936/",
+  "name": "Staff Summoner",
+  "description": "Summon a staffer online when a player needs help.",
+  "authors": [
+    "MrAlby"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80936.jpg?1593640859",
+  "iconCid": "bafkreihsmnxphkfkay4m53dr62xiaejveamdidvi6kno6jjz6ix3bwkdcu",
+  "numberOfDownloads": 315,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/staff-summoner.80936/history",
+  "releaseDate": 1593637200000,
+  "updateDate": 1677276360000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

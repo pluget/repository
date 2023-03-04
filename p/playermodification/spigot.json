@@ -1,0 +1,27 @@
+{
+  "id": 66451,
+  "url": "https://www.spigotmc.org/resources/playermodification-modify-per-world-players-health-movement-speed-old-pvp-mechanics-and-more.66451/",
+  "name": "PlayerModification [Modify per-world players' Health, Movement speed, Old PVP mechanics, and more]",
+  "description": "Modify per-world players' Health, Speed, Old PVP mechanics, Allow-PVP, and more]",
+  "authors": [
+    "MrDefault"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/66/66451.jpg?1555138434",
+  "iconCid": "bafkreihgner4jlp75qnoph3h6tvoputtg4klmwqokrotc37h6u2sh5r23u",
+  "numberOfDownloads": 616,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playermodification-modify-per-world-players-health-movement-speed-old-pvp-mechanics-and-more.66451/history",
+  "gitUrl": "https://github.com/MrDefaults/PlayerModification",
+  "releaseDate": 1555070640000,
+  "updateDate": 1654602000000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

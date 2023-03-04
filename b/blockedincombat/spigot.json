@@ -1,0 +1,27 @@
+{
+  "id": 79717,
+  "url": "https://www.spigotmc.org/resources/blockedincombat-1-13-1-19-gui-fully-configurable.79717/",
+  "name": "BlockedInCombat [1.13-1.19] GUI - Fully Configurable",
+  "description": "A mini-game that consists of fighting in an arena that is randomly generated, find your stuff!",
+  "authors": [
+    "Kinj14"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79717.jpg?1591326346",
+  "iconCid": "bafkreih57vcmwug3dkyqfwqz7j5hgir2sln7mw6ceu3qrnktd4oj4d7pku",
+  "numberOfDownloads": 353,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blockedincombat-1-13-1-19-gui-fully-configurable.79717/history",
+  "gitUrl": "https://github.com/Linj1k/BlockedInCombat",
+  "releaseDate": 1591322700000,
+  "updateDate": 1655965380000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

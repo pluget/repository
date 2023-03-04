@@ -1,0 +1,22 @@
+{
+  "id": 85018,
+  "url": "https://www.spigotmc.org/resources/pluralkitmc.85018/",
+  "name": "PluralKitMC",
+  "description": "Minecraft interface for PluralKit",
+  "authors": [
+    "Allymonies"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85018.jpg?1604969040",
+  "iconCid": "bafkreicgragz5ikf4tifvpem2ui44dapmgkdztjm4m32xs3qtqqb5224cq",
+  "numberOfDownloads": 923,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pluralkitmc.85018/history",
+  "gitUrl": "https://github.com/Omnipico/PluralKitMC",
+  "releaseDate": 1603229760000,
+  "updateDate": 1660709880000,
+  "versions": [
+    "1.16",
+    "1.18"
+  ]
+}

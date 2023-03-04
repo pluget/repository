@@ -1,0 +1,23 @@
+{
+  "id": 100043,
+  "url": "https://www.spigotmc.org/resources/shifthotkey.100043/",
+  "name": "ShiftHotkey",
+  "description": "Press shift and hotkey button to run a command!",
+  "authors": [
+    "Koko_red"
+  ],
+  "numberOfDownloads": 247,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/shifthotkey.100043/history",
+  "gitUrl": "https://github.com/KokoMinecraftPlugins/ShiftHotkey",
+  "releaseDate": 1644985500000,
+  "updateDate": 1655394900000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

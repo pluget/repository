@@ -1,0 +1,22 @@
+{
+  "id": 102607,
+  "url": "https://www.spigotmc.org/resources/chatrestrict.102607/",
+  "name": "ChatRestrict",
+  "description": "Block Chat, Books, Signs and Commands on a schedule by day and time for certain players",
+  "authors": [
+    "stifflered"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102607.jpg?1655158484",
+  "iconCid": "bafkreifr6zzcykfaznbwv4hf76vxrmgg66enedt6ifr2erzbvu5b2ffgcq",
+  "numberOfDownloads": 31,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatrestrict.102607/history",
+  "gitUrl": "https://github.com/cafestifflered/ChatRestrict",
+  "releaseDate": 1655154840000,
+  "updateDate": 1655340780000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

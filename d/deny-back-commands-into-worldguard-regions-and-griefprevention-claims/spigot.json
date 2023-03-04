@@ -1,0 +1,26 @@
+{
+  "id": 90759,
+  "url": "https://www.spigotmc.org/resources/deny-back-commands-into-worldguard-regions-and-griefprevention-claims.90759/",
+  "name": "Deny /back commands into WorldGuard regions and GriefPrevention claims",
+  "description": "Adds WorldGuard flag to deny all /back commands | Checks for GriefPrevention claims as well",
+  "authors": [
+    "Not_Jaden"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90759.jpg?1617162971",
+  "iconCid": "bafkreice7td7utbn6v5h2ginw2nuv5czhwcna44fcjabcwlcxo6dkkbs2i",
+  "numberOfDownloads": 208,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/deny-back-commands-into-worldguard-regions-and-griefprevention-claims.90759/history",
+  "gitUrl": "https://github.com/No-Not-Jaden/denyback",
+  "releaseDate": 1677790620000,
+  "updateDate": 1677790620000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 98962,
+  "url": "https://www.spigotmc.org/resources/techtree.98962/",
+  "name": "TechTree",
+  "description": "Unique progression for your server!",
+  "authors": [
+    "ASangarin"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98962.jpg?1641324650",
+  "iconCid": "bafkreifdtor6sdptwziaoi7afiqpc37vbpuoj4imzais6vcvebwsb5fsyu",
+  "numberOfDownloads": 508,
+  "rating": 4.7,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/techtree.98962/history",
+  "releaseDate": 1641321000000,
+  "updateDate": 1655838180000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

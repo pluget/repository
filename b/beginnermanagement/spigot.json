@@ -1,0 +1,27 @@
+{
+  "id": 96843,
+  "url": "https://www.spigotmc.org/resources/beginnermanagement-automatic-vandalism-protection.96843/",
+  "name": "BeginnerManagement - Automatic vandalism protection!",
+  "description": "Prevent trolls by new players.",
+  "authors": [
+    "rypengu23"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96843.jpg?1634221487",
+  "iconCid": "bafkreiadn35d5yujizahbdh44of3hrweiulfcklklevnzsrcl5bhrstpre",
+  "numberOfDownloads": 80,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/beginnermanagement-automatic-vandalism-protection.96843/history",
+  "gitUrl": "https://github.com/rypengu23/BeginnerManagement",
+  "releaseDate": 1634214960000,
+  "updateDate": 1654680240000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

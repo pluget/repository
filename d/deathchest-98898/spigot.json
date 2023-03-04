@@ -1,0 +1,23 @@
+{
+  "id": 98898,
+  "url": "https://www.spigotmc.org/resources/deathchest.98898/",
+  "name": "DeathChest",
+  "description": "save your loot in a chest after death",
+  "authors": [
+    "WoodsGeorgeJr"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98898.jpg?1641157821",
+  "iconCid": "bafkreie5acalp7bed3jbcl25cycp6liabxcqhshudmlodoq2je2nofb674",
+  "numberOfDownloads": 782,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/deathchest.98898/history",
+  "gitUrl": "https://github.com/WoodsMc09/DeathChest",
+  "releaseDate": 1641154200000,
+  "updateDate": 1656602100000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

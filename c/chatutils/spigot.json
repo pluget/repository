@@ -1,0 +1,32 @@
+{
+  "id": 49326,
+  "url": "https://www.spigotmc.org/resources/chatutils-all-your-server-needs-to-manage-commands-and-chat-create-replace-spy-1-8-1-19.49326/",
+  "name": "ChatUtils > All your server needs to manage commands and chat > Create, replace, spy > [1.8 - 1.19]",
+  "description": "An easy-to-use plugin which helps you to manage your chat and commands",
+  "authors": [
+    "LagBug"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/49/49326.jpg?1564502203",
+  "iconCid": "bafkreihip3koiu5c5em2wkdxzcmqfhwasv326josxmbf4ks5m25imdad3m",
+  "numberOfDownloads": 1352,
+  "rating": 4.9,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatutils-all-your-server-needs-to-manage-commands-and-chat-create-replace-spy-1-8-1-19.49326/history",
+  "gitUrl": "https://github.com/LagBug/ChatUtilites",
+  "releaseDate": 1510155720000,
+  "updateDate": 1656075660000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 105802,
+  "url": "https://www.spigotmc.org/resources/special-arrows.105802/",
+  "name": "Special Arrows",
+  "description": "Add new arrows to your minecraft server",
+  "authors": [
+    "TheDutchRuben"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105802.jpg?1665924236",
+  "iconCid": "bafkreiauti3qlvaimwupoone6ujw7z5mc6nrweemzbpy4hdfvlihknpaby",
+  "numberOfDownloads": 63,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/special-arrows.105802/history",
+  "gitUrl": "https://github.com/thedutchruben/special-arrows",
+  "releaseDate": 1665920580000,
+  "updateDate": 1665920580000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

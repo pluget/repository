@@ -1,0 +1,21 @@
+{
+  "id": 102901,
+  "url": "https://www.spigotmc.org/resources/logindelay.102901/",
+  "name": "LoginDelay",
+  "description": "A delay to prevent players from relogging to quick",
+  "authors": [
+    "Rebix_hd"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102901.jpg?1656431672",
+  "iconCid": "bafkreib4oivlkd7lwkjzdysyzpanovpxmtoac4xqap6ykr5trluibnq2pi",
+  "numberOfDownloads": 39,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/logindelay.102901/history",
+  "gitUrl": "https://github.com/Reebix/LoginDelay",
+  "releaseDate": 1656181140000,
+  "updateDate": 1656426480000,
+  "versions": [
+    "1.19"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 96062,
+  "url": "https://www.spigotmc.org/resources/punishmanager-%C2%BB-advanced-features-multi-lang-discord-gui-bungee-velocity-spigot.96062/",
+  "name": "PunishManager » Advanced Features / Multi Lang / Discord / GUI / Bungee / Velocity / Spigot",
+  "description": "Advanced punish plugin that offers many features to servers.",
+  "authors": [
+    "Mehmet_27"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96062.jpg?1631468003",
+  "iconCid": "bafkreideel2ovsubranm6hjf7fijpby5sjzi7hfm4bv7xul5afp2hxie6i",
+  "numberOfDownloads": 2077,
+  "rating": 5,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/punishmanager-%C2%BB-advanced-features-multi-lang-discord-gui-bungee-velocity-spigot.96062/history",
+  "gitUrl": "https://github.com/mehmet-27/PunishManager",
+  "releaseDate": 1631125260000,
+  "updateDate": 1675285620000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 102852,
+  "url": "https://www.spigotmc.org/resources/axiuscore.102852/",
+  "name": "AxiusCore",
+  "description": "A lightweight plugin development API",
+  "authors": [
+    "BenKeoghCGD"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102852.jpg?1656082213",
+  "iconCid": "bafkreieqbvxkihog2657ngp7hct6v42kij7lbo3wsdhak4iqaftxbteawi",
+  "numberOfDownloads": 308,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/axiuscore.102852/history",
+  "gitUrl": "https://github.com/BenKeoghCGD/AxiusCore",
+  "releaseDate": 1656031680000,
+  "updateDate": 1657122600000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

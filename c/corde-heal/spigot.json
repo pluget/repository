@@ -1,0 +1,21 @@
+{
+  "id": 108279,
+  "url": "https://www.spigotmc.org/resources/corde-heal.108279/",
+  "name": "Corde Heal",
+  "description": "Heal and Feed commands with cooldown, bypass, and customize messages",
+  "authors": [
+    "KapToH"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108279.jpg?1677469082",
+  "iconCid": "bafkreiafzxyvtbu27kotjhrl3ps47w7ceyluik7qwnctdkqtkiycmmsveu",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/corde-heal.108279/history",
+  "gitUrl": "https://github.com/corderun/CordeHeal",
+  "releaseDate": 1677465420000,
+  "updateDate": 1677465420000,
+  "versions": [
+    "1.19"
+  ]
+}

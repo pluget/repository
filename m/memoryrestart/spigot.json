@@ -1,0 +1,27 @@
+{
+  "id": 105979,
+  "url": "https://www.spigotmc.org/resources/memoryrestart.105979/",
+  "name": "MemoryRestart",
+  "description": "Monitor the server's memory and restart it when appropriate.",
+  "authors": [
+    "D_Sketon"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/105/105979.jpg?1667025379",
+  "iconCid": "bafkreibpeyrjz4a4d2u42i4d5d2agoyc6igwthkdtllafh4qlqq5vvtepy",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/memoryrestart.105979/history",
+  "gitUrl": "https://github.com/D-Sketon/MemoryRestart",
+  "releaseDate": 1667021760000,
+  "updateDate": 1667021760000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

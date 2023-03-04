@@ -1,0 +1,19 @@
+{
+  "id": 102546,
+  "url": "https://www.spigotmc.org/resources/playtime.102546/",
+  "name": "playtime",
+  "description": "Store the playtime of your users globally. This plugin requires a mysql database",
+  "authors": [
+    "GueniPlayz"
+  ],
+  "numberOfDownloads": 52,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playtime.102546/history",
+  "gitUrl": "https://github.com/GueniPlayz/playtime",
+  "releaseDate": 1654979700000,
+  "updateDate": 1654979700000,
+  "versions": [
+    "1.18"
+  ]
+}

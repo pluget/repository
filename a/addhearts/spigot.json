@@ -1,0 +1,23 @@
+{
+  "id": 100878,
+  "url": "https://www.spigotmc.org/resources/addhearts.100878/",
+  "name": "AddHearts",
+  "description": "Change The Amount of Hearts You Have!",
+  "authors": [
+    "GH05TYPLAYz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100878.jpg?1647920028",
+  "iconCid": "bafkreidynrim7vywooghuvd3gv26tknzqc3jc3bzbljywyahdsv3tpcxce",
+  "numberOfDownloads": 277,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/addhearts.100878/history",
+  "gitUrl": "https://github.com/SakshamG7/AddHearts",
+  "releaseDate": 1647916380000,
+  "updateDate": 1668900480000,
+  "versions": [
+    "1.8",
+    "1.18",
+    "1.19"
+  ]
+}

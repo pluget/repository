@@ -1,0 +1,26 @@
+{
+  "id": 102149,
+  "url": "https://www.spigotmc.org/resources/disable-spawner-breaking.102149/",
+  "name": "Disable Spawner Breaking",
+  "description": "Add this plugin to your server to disable spawner breaking.",
+  "authors": [
+    "GreenArrow99"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102149.jpg?1653241730",
+  "iconCid": "bafkreiacd6hvpfbzt6yfeztm7qgu5ivm72ap7xtgss5632rtw3c2zxu6qi",
+  "numberOfDownloads": 85,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/disable-spawner-breaking.102149/history",
+  "releaseDate": 1653237300000,
+  "updateDate": 1653245460000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

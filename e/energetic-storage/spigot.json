@@ -1,0 +1,26 @@
+{
+  "id": 80605,
+  "url": "https://www.spigotmc.org/resources/energetic-storage.80605/",
+  "name": "Energetic Storage",
+  "description": "Applied Energistics 2 for your SpigotMC server.",
+  "authors": [
+    "SeanOMik"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80605.jpg?1594237192",
+  "iconCid": "bafkreifosfsiyaxho3vx5rctx4ac6athomokphdvamrqenhofc576pfxeu",
+  "numberOfDownloads": 2005,
+  "rating": 4.4,
+  "numberOfVotes": 16,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/energetic-storage.80605/history",
+  "gitUrl": "https://github.com/SeanOMik/EnergeticStorage",
+  "releaseDate": 1592951340000,
+  "updateDate": 1656390420000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

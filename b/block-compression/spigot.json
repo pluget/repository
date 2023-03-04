@@ -1,0 +1,23 @@
+{
+  "id": 98164,
+  "url": "https://www.spigotmc.org/resources/block-compression.98164/",
+  "name": "Block Compression",
+  "description": "Compress stacks to save inventory space.",
+  "authors": [
+    "EllieFops"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98164.jpg?1638808320",
+  "iconCid": "bafkreia746ua2rfubm5v5p2eu2fj6zjt5meaphh2sqfdunl7tmwpudkovy",
+  "numberOfDownloads": 529,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/block-compression.98164/history",
+  "gitUrl": "https://github.com/Foxcapades/Spigot-Compression-Plugin",
+  "releaseDate": 1638804660000,
+  "updateDate": 1656277680000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

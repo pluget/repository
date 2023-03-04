@@ -1,0 +1,23 @@
+{
+  "id": 97332,
+  "url": "https://www.spigotmc.org/resources/armorswap-swap-items-by-right-clicking.97332/",
+  "name": "ArmorSwap - Swap items by right clicking",
+  "description": "Swap item to armor stand, item frame, player armor slot",
+  "authors": [
+    "Taggernation"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97332.jpg?1645430369",
+  "iconCid": "bafkreiavbksfrqy55qq6ajaacbrqzhtprd3p2dwaauv7ngvb5d2vmmaxhi",
+  "numberOfDownloads": 605,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/armorswap-swap-items-by-right-clicking.97332/history",
+  "gitUrl": "https://github.com/taggernation/ArmorSwap",
+  "releaseDate": 1635855180000,
+  "updateDate": 1654782780000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

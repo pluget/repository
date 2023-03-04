@@ -1,0 +1,24 @@
+{
+  "id": 100132,
+  "url": "https://www.spigotmc.org/resources/discordconnection.100132/",
+  "name": "DiscordConnection",
+  "description": "Connect your Discord TextChannel to Minecraft",
+  "authors": [
+    "_Coin"
+  ],
+  "numberOfDownloads": 150,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discordconnection.100132/history",
+  "gitUrl": "https://github.com/CoinVeil4065852/DiscordConnection",
+  "releaseDate": 1645246860000,
+  "updateDate": 1653272400000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

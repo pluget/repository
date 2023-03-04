@@ -1,0 +1,23 @@
+{
+  "id": 102145,
+  "url": "https://www.spigotmc.org/resources/luckprefix-1-16.102145/",
+  "name": "LuckPrefix [1.16+]",
+  "description": "A LuckPerms addon for Tab and Chat Prefix",
+  "authors": [
+    "ezTxmMC"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102145.jpg?1656576197",
+  "iconCid": "bafkreieqzgogfnsxn3axspi5tdhfrkaj6dackpgbk4zjky4blip72ht57u",
+  "numberOfDownloads": 53,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/luckprefix-1-16.102145/history",
+  "releaseDate": 1653227220000,
+  "updateDate": 1653227220000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

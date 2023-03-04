@@ -1,0 +1,31 @@
+{
+  "id": 103073,
+  "url": "https://www.spigotmc.org/resources/run-command-as-op-sudo-without-granting-perms.103073/",
+  "name": "Run Command As OP | Sudo without granting perms!",
+  "description": "Force player to run command as if they had admin permissions",
+  "authors": [
+    "Overqualified"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103073.jpg?1656839846",
+  "iconCid": "bafkreidqxsidgvbfwftxnoryi3tvsp6knlxcryeljma6o5wyq3jr7aecpm",
+  "numberOfDownloads": 138,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/run-command-as-op-sudo-without-granting-perms.103073/history",
+  "releaseDate": 1656835740000,
+  "updateDate": 1656835740000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

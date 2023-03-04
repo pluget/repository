@@ -1,0 +1,23 @@
+{
+  "id": 102255,
+  "url": "https://www.spigotmc.org/resources/cryjoin.102255/",
+  "name": "CryJoin",
+  "description": "Customize your users login",
+  "authors": [
+    "Leo1512Gamers"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102255.jpg?1653675698",
+  "iconCid": "bafkreigrdypon5s2w7wnnci76532alvu52pwodxkcrldc6ty5t2bqvm4be",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cryjoin.102255/history",
+  "gitUrl": "https://github.com/TheBoykiss/CryJoinMessage/",
+  "releaseDate": 1653672060000,
+  "updateDate": 1653672060000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 84331,
+  "url": "https://www.spigotmc.org/resources/lockeddimension-have-freedom-over-your-dimensions.84331/",
+  "name": "LockedDimension - Have freedom over your dimensions",
+  "description": "You could disable, lock dimensions behind permissions nodes, and much more!",
+  "authors": [
+    "Tofpu"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84331.jpg?1609652078",
+  "iconCid": "bafkreidfdytt37bn43d23ohnn26klxu2qggx5ux26n4iwwvqkpweszw6gy",
+  "numberOfDownloads": 965,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lockeddimension-have-freedom-over-your-dimensions.84331/history",
+  "gitUrl": "https://github.com/Tofpu/LockedDimension",
+  "releaseDate": 1601431740000,
+  "updateDate": 1652678760000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

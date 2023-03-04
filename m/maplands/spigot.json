@@ -1,0 +1,32 @@
+{
+  "id": 46404,
+  "url": "https://www.spigotmc.org/resources/maplands.46404/",
+  "name": "Maplands",
+  "description": "Minecraft worlds in the map dimension",
+  "authors": [
+    "TeamBergerhealer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/46/46404.jpg?1504458823",
+  "iconCid": "bafkreid5bcdqmgemrzzdmuurepxi6hrjhpsbvrgc5qzi6odp645xkhpfai",
+  "numberOfDownloads": 14927,
+  "rating": 5,
+  "numberOfVotes": 18,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/maplands.46404/history",
+  "gitUrl": "https://github.com/bergerhealer/Maplands",
+  "releaseDate": 1503848760000,
+  "updateDate": 1677106260000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

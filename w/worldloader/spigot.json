@@ -1,0 +1,26 @@
+{
+  "id": 96891,
+  "url": "https://www.spigotmc.org/resources/worldloader.96891/",
+  "name": "WorldLoader",
+  "description": "Loads all worlds on your server without any dependies",
+  "authors": [
+    "Alihan"
+  ],
+  "numberOfDownloads": 94,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/worldloader.96891/history",
+  "releaseDate": 1634394420000,
+  "updateDate": 1654974720000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

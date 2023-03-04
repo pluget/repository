@@ -1,0 +1,21 @@
+{
+  "id": 102533,
+  "url": "https://www.spigotmc.org/resources/simplelifesteal.102533/",
+  "name": "SimpleLifeSteal",
+  "description": "A simple Life Steal plugin that has a small config!",
+  "authors": [
+    "the5gi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102533.jpg?1654990004",
+  "iconCid": "bafkreibe6jrldajb36bitwqqosbhuszbk4wyaxkoolyyrlpcj4gbl2r4lm",
+  "numberOfDownloads": 152,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplelifesteal.102533/history",
+  "gitUrl": "https://github.com/the5gi/SimpleLifeSteal",
+  "releaseDate": 1654910940000,
+  "updateDate": 1656127980000,
+  "versions": [
+    "1.19"
+  ]
+}

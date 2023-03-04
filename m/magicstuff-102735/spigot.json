@@ -1,0 +1,22 @@
+{
+  "id": 102735,
+  "url": "https://www.spigotmc.org/resources/magicstuff.102735/",
+  "name": "MagicStuff",
+  "description": "Some stuff with magic",
+  "authors": [
+    "Cric_Hammel"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102735.jpg?1655631650",
+  "iconCid": "bafkreigtbdvgxsd7jdxejpd22tokprrkjqqg2n67zdtforjtmjgaqgn4cm",
+  "numberOfDownloads": 74,
+  "rating": 3.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/magicstuff.102735/history",
+  "gitUrl": "https://github.com/CricHammel/MagicStuff",
+  "releaseDate": 1655628000000,
+  "updateDate": 1656076020000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

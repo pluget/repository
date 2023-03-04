@@ -1,0 +1,28 @@
+{
+  "id": 42790,
+  "url": "https://www.spigotmc.org/resources/restrictedcreative.42790/",
+  "name": "RestrictedCreative",
+  "description": "Lightweight, but fully-featured and customizable Creative mode limiter.",
+  "authors": [
+    "Prunt"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/42/42790.jpg?1498331637",
+  "iconCid": "bafkreihhqudzcbhcf5zz6evhud2udrx52fezw5s2k6r3c6qghlsn2pfpd4",
+  "numberOfDownloads": 540,
+  "rating": 4.4,
+  "numberOfVotes": 43,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/restrictedcreative.42790/history",
+  "releaseDate": 1498865100000,
+  "updateDate": 1657104660000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

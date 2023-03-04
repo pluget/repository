@@ -1,0 +1,32 @@
+{
+  "id": 71157,
+  "url": "https://www.spigotmc.org/resources/admin-gui.71157/",
+  "name": "Admin GUI",
+  "description": "Easy way to manage your Minecraft server.",
+  "authors": [
+    "ziga"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/71/71157.jpg?1572820339",
+  "iconCid": "bafkreiaedm7pybjkdxekbdl2dx6jsteggbhni74mkloynptq7anjw7v7pq",
+  "numberOfDownloads": 163422,
+  "rating": 4.6,
+  "numberOfVotes": 35,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/admin-gui.71157/history",
+  "gitUrl": "https://github.com/zigazajc007/AdminGUI",
+  "releaseDate": 1567977720000,
+  "updateDate": 1656479100000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 102670,
+  "url": "https://www.spigotmc.org/resources/disable-elytra.102670/",
+  "name": "Disable Elytra",
+  "description": "Allows you to prohibit players from using elytra",
+  "authors": [
+    "Metanol"
+  ],
+  "numberOfDownloads": 203,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/disable-elytra.102670/history",
+  "gitUrl": "https://github.com/omnikeycard/disable-elytra",
+  "releaseDate": 1655422260000,
+  "updateDate": 1655425560000,
+  "versions": [
+    "1.18"
+  ]
+}

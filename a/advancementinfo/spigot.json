@@ -1,0 +1,28 @@
+{
+  "id": 101295,
+  "url": "https://www.spigotmc.org/resources/advancementinfo%E3%80%8C-1-12-1-19-%E3%80%8D%E2%9C%8D-chat-utility.101295/",
+  "name": "AdvancementInfo「 1.12 - 1.19 」✍ Chat Utility",
+  "description": "Gets the information of an advancement. Works with data packs.",
+  "authors": [
+    "CroaBeast"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101295.jpg?1649647947",
+  "iconCid": "bafkreicv4qitqzwfkgh6swgzhia6uttb4jp6ohb5v7yterjieh3blr46b4",
+  "numberOfDownloads": 123,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advancementinfo%E3%80%8C-1-12-1-19-%E3%80%8D%E2%9C%8D-chat-utility.101295/history",
+  "gitUrl": "https://github.com/CroaBeast/AdvancementInfo",
+  "releaseDate": 1649644080000,
+  "updateDate": 1652635200000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

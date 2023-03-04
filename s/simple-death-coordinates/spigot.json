@@ -1,0 +1,20 @@
+{
+  "id": 99899,
+  "url": "https://www.spigotmc.org/resources/simple-death-coordinates.99899/",
+  "name": "Simple Death Coordinates",
+  "description": "Provides coordinates when a player dies.",
+  "authors": [
+    "Lucyn"
+  ],
+  "numberOfDownloads": 336,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-death-coordinates.99899/history",
+  "gitUrl": "https://github.com/Lucyndifer/SimpleDeathCoords",
+  "releaseDate": 1644457080000,
+  "updateDate": 1655593440000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

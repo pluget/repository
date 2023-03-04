@@ -1,0 +1,31 @@
+{
+  "id": 9212,
+  "url": "https://www.spigotmc.org/resources/head-sweeper-1-17-1-19.9212/",
+  "name": "Head Sweeper [1.17 - 1.19]",
+  "description": "A mine sweeper implementation for minecraft using custom skinned heads from heads.freshcoal.com",
+  "authors": [
+    "cc007"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/9/9212.jpg?1480016858",
+  "iconCid": "bafkreiaolypofui6p64w5jybg2vgifxhihs6vlrg5wvvtgjcyzdbfq7hoa",
+  "numberOfDownloads": 2747,
+  "rating": 4.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/head-sweeper-1-17-1-19.9212/history",
+  "releaseDate": 1436447820000,
+  "updateDate": 1665924000000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 102350,
+  "url": "https://www.spigotmc.org/resources/item-qualities.102350/",
+  "name": "Item Qualities",
+  "description": "Add a Quality system to items! Create your own Qualities!",
+  "authors": [
+    "Abraxas"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102350.jpg?1654056971",
+  "iconCid": "bafkreibg4yeo37iw4o7jjhevbzjvv7d6irkbssgk3rzy2tokzb46vwf2li",
+  "numberOfDownloads": 2259,
+  "rating": 4.8,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/item-qualities.102350/history",
+  "gitUrl": "https://github.com/Steel-Dev/ItemQualities",
+  "releaseDate": 1654047420000,
+  "updateDate": 1656555480000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

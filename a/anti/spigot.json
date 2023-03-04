@@ -1,0 +1,21 @@
+{
+  "id": 102863,
+  "url": "https://www.spigotmc.org/resources/anti-message-reports.102863/",
+  "name": "Anti-Message Reports",
+  "description": "A plugin that takes player messages and sends them from the server, bypassing chat reporting.",
+  "authors": [
+    "Mars_Bear"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102863.jpg?1656062866",
+  "iconCid": "bafkreiatirfjqdwrhvrehxhfwtn3luq7mjwyg74h6bc3hmois7gft5pshi",
+  "numberOfDownloads": 156,
+  "rating": 1.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anti-message-reports.102863/history",
+  "gitUrl": "https://github.com/BearFromMars/AntiMessageReports",
+  "releaseDate": 1656059220000,
+  "updateDate": 1656059220000,
+  "versions": [
+    "1.19"
+  ]
+}

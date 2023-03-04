@@ -1,0 +1,27 @@
+{
+  "id": 73435,
+  "url": "https://www.spigotmc.org/resources/battlemusic-1-12-1-18.73435/",
+  "name": "BattleMusic (1.12-1.18)",
+  "description": "Some epic custom music for your fight !",
+  "authors": [
+    "LouShunt55"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/73/73435.jpg?1651843979",
+  "iconCid": "bafkreia7e5zqywi2bevu2kt52u3oaegpf4wofsq5fz4d6r3vo3dxbfn2by",
+  "numberOfDownloads": 5858,
+  "rating": 4.3,
+  "numberOfVotes": 22,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/battlemusic-1-12-1-18.73435/history",
+  "gitUrl": "https://github.com/LoukaG/BattleMusic",
+  "releaseDate": 1576385940000,
+  "updateDate": 1652144100000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

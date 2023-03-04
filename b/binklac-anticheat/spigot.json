@@ -1,0 +1,22 @@
+{
+  "id": 102013,
+  "url": "https://www.spigotmc.org/resources/binklac-anti-cheat.102013/",
+  "name": "Binklac anti-cheat",
+  "description": "An anti-cheat mod that fights against the behavior of injecting or modifying files",
+  "authors": [
+    "VeroFess"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102013.jpg?1652617598",
+  "iconCid": "bafkreia3i2xxfcxhxicwlnittazoxzmeweixakoxfwemqz76t3fotez4va",
+  "numberOfDownloads": 103,
+  "rating": 3,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/binklac-anti-cheat.102013/history",
+  "releaseDate": 1652613480000,
+  "updateDate": 1652626560000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

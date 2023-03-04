@@ -1,0 +1,33 @@
+{
+  "id": 108154,
+  "url": "https://www.spigotmc.org/resources/bbrains-flying-armor.108154/",
+  "name": "[BBrains] Flying Armor",
+  "description": "Collect a set of armor and get flying!",
+  "authors": [
+    "dayd21"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108154.jpg?1676975066",
+  "iconCid": "bafkreibfgodruj7vk6vewo5h6p463fub6vhnumeiq5ngr6kl4rqet6udsy",
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bbrains-flying-armor.108154/history",
+  "gitUrl": "https://www.curseforge.com/minecraft/bukkit-plugins/bbrains-flying-armor",
+  "releaseDate": 1676971440000,
+  "updateDate": 1676971440000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

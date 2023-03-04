@@ -1,0 +1,27 @@
+{
+  "id": 85633,
+  "url": "https://www.spigotmc.org/resources/svkm.85633/",
+  "name": "SVKM",
+  "description": "Бот ркон без включения ркона",
+  "authors": [
+    "TheHelpix"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85633.jpg?1655966037",
+  "iconCid": "bafkreih6cl3ezqjjynhr2zbsqfp4ubcgrzqpwgsujwbv35symeyai66r3q",
+  "numberOfDownloads": 1821,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/svkm.85633/history",
+  "releaseDate": 1604938140000,
+  "updateDate": 1656351780000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

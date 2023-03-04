@@ -1,0 +1,25 @@
+{
+  "id": 102472,
+  "url": "https://www.spigotmc.org/resources/antibuild-lightweight-solution-to-protect-worlds.102472/",
+  "name": "AntiBuild | LightWeight solution to protect worlds.",
+  "description": "Easy to use, open-source plugin. Simple way to protect your worlds.",
+  "authors": [
+    "D1ggySvk"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102472.jpg?1654541412",
+  "iconCid": "bafkreib6vwnazwlkn55u5prv6n43vnap5a2dxvqnoyncpix2isxnhlmbge",
+  "numberOfDownloads": 91,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antibuild-lightweight-solution-to-protect-worlds.102472/history",
+  "gitUrl": "https://github.com/Adreez/AntiBuild",
+  "releaseDate": 1654533480000,
+  "updateDate": 1655655840000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

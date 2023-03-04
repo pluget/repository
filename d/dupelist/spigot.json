@@ -1,0 +1,27 @@
+{
+  "id": 102678,
+  "url": "https://www.spigotmc.org/resources/dupelist.102678/",
+  "name": "DupeList",
+  "description": "Very advanced anti duplication plugin!",
+  "authors": [
+    "DerJul1xn"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102678.jpg?1655468779",
+  "iconCid": "bafkreigfnzmnkwzdfgoqvzvxg7fvjjktvakmazmscza3c4zxsktmigieiy",
+  "numberOfDownloads": 57,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dupelist.102678/history",
+  "releaseDate": 1655465160000,
+  "updateDate": 1655465160000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

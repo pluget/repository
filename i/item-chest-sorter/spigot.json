@@ -1,0 +1,24 @@
+{
+  "id": 75964,
+  "url": "https://www.spigotmc.org/resources/item-chest-sorter.75964/",
+  "name": "Item Chest Sorter",
+  "description": "sort your messy items into separate, dedicated chests.",
+  "authors": [
+    "flokol120"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75964.jpg?1631204091",
+  "iconCid": "bafkreifbrhsxir7r6yqjwppoyxkjrnh2ja3ljb5ctifcguav3xgzjb4mau",
+  "numberOfDownloads": 1834,
+  "rating": 4.9,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/item-chest-sorter.75964/history",
+  "gitUrl": "https://github.com/flokol120/Spigot-Item-Chest-Sorter",
+  "releaseDate": 1583950200000,
+  "updateDate": 1656344100000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

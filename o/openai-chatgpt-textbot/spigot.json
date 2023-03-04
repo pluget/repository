@@ -1,0 +1,21 @@
+{
+  "id": 106876,
+  "url": "https://www.spigotmc.org/resources/openai-chatgpt-textbot.106876/",
+  "name": "OpenAI ChatGPT TextBot",
+  "description": "A Minecraft chat bot which uses the ChatGPT artificial intelligence to answer questions.",
+  "authors": [
+    "SkyzzyTV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106876.jpg?1671660478",
+  "iconCid": "bafkreihq76qk3yrjlgffag44vorskfh3reshp2jy7c2nbfb5c6qsjniyza",
+  "numberOfDownloads": 198,
+  "rating": 4.7,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/openai-chatgpt-textbot.106876/history",
+  "gitUrl": "https://github.com/NikolasRummel/ChatGPTBot/",
+  "releaseDate": 1671656700000,
+  "updateDate": 1671720900000,
+  "versions": [
+    "1.19"
+  ]
+}

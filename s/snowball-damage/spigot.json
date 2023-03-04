@@ -1,0 +1,31 @@
+{
+  "id": 102501,
+  "url": "https://www.spigotmc.org/resources/snowball-damage.102501/",
+  "name": "Snowball Damage",
+  "description": "Simple plugin to add damage to snowballs",
+  "authors": [
+    "MrRockis"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102501.jpg?1654703912",
+  "iconCid": "bafkreidzlmlxz3otqfav6vpss5dmaaiifjduvm3m3ijsyrce7ndmoyvogq",
+  "numberOfDownloads": 244,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/snowball-damage.102501/history",
+  "releaseDate": 1654700280000,
+  "updateDate": 1654700280000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

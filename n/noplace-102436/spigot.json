@@ -1,0 +1,24 @@
+{
+  "id": 102436,
+  "url": "https://www.spigotmc.org/resources/noplace-1-19-supported.102436/",
+  "name": "NoPlace - 1.19 Supported",
+  "description": "blacklist blocks to prevent them from being placed!",
+  "authors": [
+    "Ubiniti"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102436.jpg?1654389847",
+  "iconCid": "bafkreibgxqn4xfxiwnpl3inknakunngt75stqi5pih2hhv3eff7jkt7t2a",
+  "numberOfDownloads": 45,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/noplace-1-19-supported.102436/history",
+  "gitUrl": "https://github.com/BryceSh/NoPlacePlugin",
+  "releaseDate": 1654386180000,
+  "updateDate": 1654707720000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

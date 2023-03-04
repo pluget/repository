@@ -1,0 +1,24 @@
+{
+  "id": 99792,
+  "url": "https://www.spigotmc.org/resources/%E2%9C%85-commandfactory-%E2%96%B6-command-manager.99792/",
+  "name": "✅ CommandFactory ▶ Command Manager",
+  "description": "⚡ Add your own command aliases ⚡",
+  "authors": [
+    "Efnilite"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99792.jpg?1644080442",
+  "iconCid": "bafkreigpnwdsyhaer56o5fzznqj3skjvrgbocl6cjjfjunecguytxau33u",
+  "numberOfDownloads": 553,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9C%85-commandfactory-%E2%96%B6-command-manager.99792/history",
+  "gitUrl": "https://github.com/Efnilite/CommandFactory",
+  "releaseDate": 1644076800000,
+  "updateDate": 1656336060000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 59556,
+  "url": "https://www.spigotmc.org/resources/enchantment-solution.59556/",
+  "name": "Enchantment Solution",
+  "description": "The All-In-One Custom Enchanting Plugin!",
+  "authors": [
+    "crashtheparty"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/59/59556.jpg?1557031387",
+  "iconCid": "bafkreiatm373gvadwcgo3usavhka4ie77xldhe5cjnjof6z7fm5prx53ii",
+  "numberOfDownloads": 49185,
+  "rating": 4.4,
+  "numberOfVotes": 77,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/enchantment-solution.59556/history",
+  "gitUrl": "https://github.com/crashtheparty/EnchantmentSolution/tree/master",
+  "releaseDate": 1533624060000,
+  "updateDate": 1655829300000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

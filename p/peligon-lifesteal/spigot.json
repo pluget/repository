@@ -1,0 +1,27 @@
+{
+  "id": 100900,
+  "url": "https://www.spigotmc.org/resources/peligon-lifesteal.100900/",
+  "name": "Peligon LifeSteal",
+  "description": "Gives players a limited number of lives",
+  "authors": [
+    "Peligon"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100900.jpg?1651690513",
+  "iconCid": "bafkreid5atykaeu6hkpeouum6r3yanmeqxlpywupd42ypmvjrhg2bseswm",
+  "numberOfDownloads": 213,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/peligon-lifesteal.100900/history",
+  "gitUrl": "https://github.com/Darkw1nged/Peligon-Plugins",
+  "releaseDate": 1648042980000,
+  "updateDate": 1657273740000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

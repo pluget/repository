@@ -1,0 +1,32 @@
+{
+  "id": 102629,
+  "url": "https://www.spigotmc.org/resources/simplenodamage.102629/",
+  "name": "SimpleNoDamage",
+  "description": "Prevents you from taking any kind of damage",
+  "authors": [
+    "WindLeak"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102629.jpg?1655234601",
+  "iconCid": "bafkreiddwof3dtxoozis2fkmii6mjnuu25i2pxgfyzjfjmmz3hxbtjvo4m",
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplenodamage.102629/history",
+  "releaseDate": 1655230980000,
+  "updateDate": 1655278440000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

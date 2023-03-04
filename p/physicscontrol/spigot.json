@@ -1,0 +1,32 @@
+{
+  "id": 72124,
+  "url": "https://www.spigotmc.org/resources/physicscontrol-1-8-1-19.72124/",
+  "name": "PhysicsControl [1.8-1.19]",
+  "description": "Control any worlds mechanics!",
+  "authors": [
+    "Dymeth"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/72/72124.jpg?1571694064",
+  "iconCid": "bafkreiflyksbmicko4luqxqlm5gylahwifo7ih2kpmlksmelqhkmjb2fca",
+  "numberOfDownloads": 6159,
+  "rating": 4.8,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/physicscontrol-1-8-1-19.72124/history",
+  "gitUrl": "https://gitlab.com/Dymeth/PhysicsControl",
+  "releaseDate": 1571481300000,
+  "updateDate": 1655168700000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

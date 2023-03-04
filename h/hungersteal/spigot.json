@@ -1,0 +1,23 @@
+{
+  "id": 108322,
+  "url": "https://www.spigotmc.org/resources/hungersteal-steal-and-share-hunger-in-minecraft.108322/",
+  "name": "HungerSteal - Steal and Share Hunger in Minecraft",
+  "description": "HungerSteal is a unique plugin that adds a new twist to the gameplay in Minecraft",
+  "authors": [
+    "AdriangamingYT"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108322.jpg?1677745409",
+  "iconCid": "bafkreib4ewvn5scjdjseeu6hikboyp73pp5xkj2xub3o5wu6thrmzpn6ku",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hungersteal-steal-and-share-hunger-in-minecraft.108322/history",
+  "gitUrl": "https://github.com/CrystalVoxy/HungerSteal",
+  "releaseDate": 1677782160000,
+  "updateDate": 1677782160000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

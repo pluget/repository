@@ -1,0 +1,31 @@
+{
+  "id": 82710,
+  "url": "https://www.spigotmc.org/resources/orebfuscator-anti-x-ray.82710/",
+  "name": "Orebfuscator (Anti X-Ray)",
+  "description": "High-Performance Anti X-Ray plugin",
+  "authors": [
+    "ingrim4"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82710.jpg?1597339128",
+  "iconCid": "bafkreig6hq3hcf7wn5au27kt6b456qqwqvdsaxdgmyfspve3j3mvurfnbm",
+  "numberOfDownloads": 124223,
+  "rating": 4,
+  "numberOfVotes": 55,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/orebfuscator-anti-x-ray.82710/history",
+  "gitUrl": "https://github.com/Imprex-Development/Orebfuscator",
+  "releaseDate": 1597318500000,
+  "updateDate": 1670724120000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

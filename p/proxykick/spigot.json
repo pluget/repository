@@ -1,0 +1,21 @@
+{
+  "id": 102225,
+  "url": "https://www.spigotmc.org/resources/proxykick.102225/",
+  "name": "ProxyKick",
+  "description": "Plugin to kick players from the entire bungee network & more.",
+  "authors": [
+    "Augustin37"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102225.jpg?1653496782",
+  "iconCid": "bafkreigyg5oabz5ww364bmcxpit7d3vjoelhyahxumucj6vajteqrvhgn4",
+  "numberOfDownloads": 60,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/proxykick.102225/history",
+  "gitUrl": "https://github.com/augstb/ProxyKick",
+  "releaseDate": 1653493140000,
+  "updateDate": 1654536420000,
+  "versions": [
+    "1.18"
+  ]
+}

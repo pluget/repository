@@ -1,0 +1,23 @@
+{
+  "id": 102335,
+  "url": "https://www.spigotmc.org/resources/quickvoid-1-8x-1-18x.102335/",
+  "name": "QuickVoid [1.8x - 1.18x]",
+  "description": "Create vanilla void worlds!",
+  "authors": [
+    "inc0g"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102335.jpg?1654007542",
+  "iconCid": "bafkreig55x3iejxmunu36kbvoodk7iff5tblb66sltn63d6wi2utmpouqa",
+  "numberOfDownloads": 45,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/quickvoid-1-8x-1-18x.102335/history",
+  "gitUrl": "https://github.com/inc0g-repoz/QuickVoid",
+  "releaseDate": 1654003920000,
+  "updateDate": 1654003920000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.18"
+  ]
+}

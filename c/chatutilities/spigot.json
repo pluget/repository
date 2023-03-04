@@ -1,0 +1,22 @@
+{
+  "id": 100689,
+  "url": "https://www.spigotmc.org/resources/chatutilities.100689/",
+  "name": "ChatUtilities",
+  "description": "An easy-to-use chat management tool for your Minecraft server!",
+  "authors": [
+    "hufi2301"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100689.jpg?1648982584",
+  "iconCid": "bafkreicntrjk7t6oziuybq3nmqcqsvyftmaexoxhc6kw2r6q5cfuoauiuu",
+  "numberOfDownloads": 407,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatutilities.100689/history",
+  "releaseDate": 1647197340000,
+  "updateDate": 1655109180000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

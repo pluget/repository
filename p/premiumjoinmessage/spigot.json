@@ -1,0 +1,27 @@
+{
+  "id": 103077,
+  "url": "https://www.spigotmc.org/resources/premiumjoinmessage-1-13-%C2%BB-1-19-individual-join-messages-for-players-and-groups.103077/",
+  "name": "PremiumJoinMessage | 1.13 » 1.19 | Individual Join Messages for Players and Groups",
+  "description": "A super lightweight join and leave message handler",
+  "authors": [
+    "BenKeoghCGD"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103077.jpg?1656856616",
+  "iconCid": "bafkreic6k7mcgzlcwita2gk76eagbwdlxqosqs6vu7dcc2vp3veofmnwde",
+  "numberOfDownloads": 119,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/premiumjoinmessage-1-13-%C2%BB-1-19-individual-join-messages-for-players-and-groups.103077/history",
+  "gitUrl": "https://github.com/BenKeoghCGD/PremiumJoinMessage",
+  "releaseDate": 1656852960000,
+  "updateDate": 1657126740000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

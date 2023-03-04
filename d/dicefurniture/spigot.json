@@ -1,0 +1,31 @@
+{
+  "id": 6006,
+  "url": "https://www.spigotmc.org/resources/dicefurniture-plugin-m%C3%B6bel-plugin.6006/",
+  "name": "DiceFurniture Plugin / Möbel Plugin",
+  "description": "Furniture, ArmorStand, ProtocolLib, FurnitureLib, Möbel",
+  "authors": [
+    "Ste3et_C0st"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/6/6006.jpg?1543447082",
+  "iconCid": "bafkreia4w542gljk3zlaljqvdvjywrinzdm2uak37gygvx2w2w6dc6gdbu",
+  "numberOfDownloads": 283402,
+  "rating": 4.4,
+  "numberOfVotes": 312,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dicefurniture-plugin-m%C3%B6bel-plugin.6006/history",
+  "gitUrl": "https://github.com/Ste3et/furniture",
+  "releaseDate": 1428954120000,
+  "updateDate": 1663524720000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

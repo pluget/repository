@@ -1,0 +1,21 @@
+{
+  "id": 95962,
+  "url": "https://www.spigotmc.org/resources/kotlinlib.95962/",
+  "name": "KotlinLib",
+  "description": "Loads the Kotlin libraries inside the server classpath to allow plugins to use Kotlin",
+  "authors": [
+    "Tigierrei"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95962.jpg?1630764306",
+  "iconCid": "bafkreiahm2nbhf2di24thz7r2hpmnkrq2tha57wsf2v3y6jygxitzfdcju",
+  "numberOfDownloads": 238,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kotlinlib.95962/history",
+  "gitUrl": "https://github.com/Filocava99/KotlinLib",
+  "releaseDate": 1630760640000,
+  "updateDate": 1655993700000,
+  "versions": [
+    "1.19"
+  ]
+}

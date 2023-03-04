@@ -1,0 +1,32 @@
+{
+  "id": 96716,
+  "url": "https://www.spigotmc.org/resources/disable-villager-trade.96716/",
+  "name": "Disable Villager Trade",
+  "description": "Disable villager trade on your server!",
+  "authors": [
+    "dodoflix"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96716.jpg?1633727994",
+  "iconCid": "bafkreiafmgluxjcls5f6jkzheplc6uxwvwk3vhgdzrhkxf3sor7gsfn3su",
+  "numberOfDownloads": 7579,
+  "rating": 4.6,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/disable-villager-trade.96716/history",
+  "gitUrl": "https://github.com/dodoflix/DisableVillagerTrade",
+  "releaseDate": 1677863400000,
+  "updateDate": 1677863400000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 72592,
+  "url": "https://www.spigotmc.org/resources/%E2%AD%90-plotborder-%E2%AD%90-plotsquared-wall-and-border-changer.72592/",
+  "name": "⭐ PlotBorder ⭐ | PlotSquared wall and border changer",
+  "description": "Changes the border and wall of your plot via a GUI",
+  "authors": [
+    "Nononitas"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/72/72592.jpg?1573153140",
+  "iconCid": "bafkreics22rr45nbhv4cmtshlgfhg6tqq5ejzfks7nna5ukjf3cyfd5gzu",
+  "numberOfDownloads": 8660,
+  "rating": 4.6,
+  "numberOfVotes": 22,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%AD%90-plotborder-%E2%AD%90-plotsquared-wall-and-border-changer.72592/history",
+  "gitUrl": "https://github.com/Nononitas/PlotBorder",
+  "releaseDate": 1573149480000,
+  "updateDate": 1656348540000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

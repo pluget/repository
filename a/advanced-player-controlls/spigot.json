@@ -1,0 +1,25 @@
+{
+  "id": 102593,
+  "url": "https://www.spigotmc.org/resources/advanced-player-controlls.102593/",
+  "name": "Advanced Player Controlls",
+  "description": "easy way to controll players by a gui",
+  "authors": [
+    "jaimyjackson"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102593.jpg?1655128372",
+  "iconCid": "bafkreif3pcvcxzxnzcjqobj5ehxfcymajhjttlncu6kiystlha3gyjijvu",
+  "numberOfDownloads": 226,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advanced-player-controlls.102593/history",
+  "releaseDate": 1655124720000,
+  "updateDate": 1655396400000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

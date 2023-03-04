@@ -1,0 +1,21 @@
+{
+  "id": 106753,
+  "url": "https://www.spigotmc.org/resources/nrcore.106753/",
+  "name": "NRCore",
+  "description": "The plugin for Server owners and Develoeprs",
+  "authors": [
+    "Ntdi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106753.jpg?1671138827",
+  "iconCid": "bafkreiawlwghax734cdyfjcom5pgcytrwvqsnrsraxynq5sqc7krb363da",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nrcore.106753/history",
+  "gitUrl": "https://github.com/tazpvp/NR-Core",
+  "releaseDate": 1671135180000,
+  "updateDate": 1671311400000,
+  "versions": [
+    "1.19"
+  ]
+}

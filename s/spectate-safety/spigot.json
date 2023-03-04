@@ -1,0 +1,22 @@
+{
+  "id": 98654,
+  "url": "https://www.spigotmc.org/resources/spectate-safety.98654/",
+  "name": "Spectate Safety",
+  "description": "A spectator plugin for events",
+  "authors": [
+    "AlfieOnSpig"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98654.jpg?1641259361",
+  "iconCid": "bafkreic5n7hp67dsrxruwzd5nrg2v5aitj6wz4r3fjx6ougdt3wpemepzy",
+  "numberOfDownloads": 82,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/spectate-safety.98654/history",
+  "gitUrl": "https://github.com/AlfieOnGit/SpectateSafety",
+  "releaseDate": 1640368260000,
+  "updateDate": 1655600640000,
+  "versions": [
+    "1.16",
+    "1.18"
+  ]
+}

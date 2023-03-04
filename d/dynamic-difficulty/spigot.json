@@ -1,0 +1,27 @@
+{
+  "id": 92025,
+  "url": "https://www.spigotmc.org/resources/dynamic-difficulty.92025/",
+  "name": "Dynamic Difficulty",
+  "description": "Allows new & experienced players to play on the same server without difficulty issues!",
+  "authors": [
+    "SkinnyJeans"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92025.jpg?1620212043",
+  "iconCid": "bafkreiev4rt7zi6snoitnopg4pykqznmecrxsst4lyf5hmjmi2f7kpdkhe",
+  "numberOfDownloads": 2359,
+  "rating": 4.9,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dynamic-difficulty.92025/history",
+  "gitUrl": "https://github.com/JeannotM/DynamicDifficulty",
+  "releaseDate": 1620133920000,
+  "updateDate": 1656269520000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

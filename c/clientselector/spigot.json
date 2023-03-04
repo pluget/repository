@@ -1,0 +1,30 @@
+{
+  "id": 95700,
+  "url": "https://www.spigotmc.org/resources/clientselector.95700/",
+  "name": "ClientSelector",
+  "description": "ClientSelector, only the clients you want can join!",
+  "authors": [
+    "mixer.dll"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95700.jpg?1629968674",
+  "iconCid": "bafkreihtcfpiujpj5d4zkjjrmte77azz6mapgt72w2yx6t42jiy5ozhovq",
+  "numberOfDownloads": 76,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/clientselector.95700/history",
+  "releaseDate": 1629965040000,
+  "updateDate": 1655187060000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 100516,
+  "url": "https://www.spigotmc.org/resources/storage.100516/",
+  "name": "Storage",
+  "description": "A virtual vault to hold the blocks that players mine and many others features",
+  "authors": [
+    "VoChiDanh"
+  ],
+  "numberOfDownloads": 1374,
+  "rating": 4.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/storage.100516/history",
+  "gitUrl": "https://github.com/VoChiDanh/Storage",
+  "releaseDate": 1646563140000,
+  "updateDate": 1655983800000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

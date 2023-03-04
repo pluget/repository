@@ -1,0 +1,22 @@
+{
+  "id": 101834,
+  "url": "https://www.spigotmc.org/resources/menuframework.101834/",
+  "name": "MenuFramework",
+  "description": "Hotbars, Anvil Menus, Villager / Trader Menus and Inventory Menus of any kind",
+  "authors": [
+    "CubeCrafters"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101834.jpg?1651755655",
+  "iconCid": "bafkreihbppp5phawlqpjbii6opaobt7aatzfeuc3m5ylerc4uh2w4qiu6a",
+  "numberOfDownloads": 141,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/menuframework.101834/history",
+  "gitUrl": "https://github.com/CubBossa/MenuFramework",
+  "releaseDate": 1651752000000,
+  "updateDate": 1652602200000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

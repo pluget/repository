@@ -1,0 +1,32 @@
+{
+  "id": 107418,
+  "url": "https://www.spigotmc.org/resources/reflectionapi.107418/",
+  "name": "ReflectionAPI",
+  "description": "Yet another api to handle reflection",
+  "authors": [
+    "YeetManLord"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/107/107418.jpg?1673905449",
+  "iconCid": "bafkreigejkoxkjd2bqi547ipwnr2gwlpgkcpfyz5ecyuooscztfcxk4vfu",
+  "numberOfDownloads": 50,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/reflectionapi.107418/history",
+  "gitUrl": "https://github.com/YeetmanLord/ReflectionAPI",
+  "releaseDate": 1673901780000,
+  "updateDate": 1675444920000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

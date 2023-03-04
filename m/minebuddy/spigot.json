@@ -1,0 +1,27 @@
+{
+  "id": 106626,
+  "url": "https://www.spigotmc.org/resources/minebuddy.106626/",
+  "name": "Minebuddy",
+  "description": "Monitor your Minecraft server with a modern Discord bot plugin.",
+  "authors": [
+    "Jamm_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/106/106626.jpg?1670518552",
+  "iconCid": "bafkreidn2d5rrl2jpwc5uobja6t7lq5v65b3gjxbfr7sabuqsilbked4wu",
+  "numberOfDownloads": 58,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minebuddy.106626/history",
+  "gitUrl": "https://github.com/justinmtech/Minebuddy",
+  "releaseDate": 1670514900000,
+  "updateDate": 1670548800000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

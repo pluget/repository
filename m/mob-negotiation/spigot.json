@@ -1,0 +1,23 @@
+{
+  "id": 103055,
+  "url": "https://www.spigotmc.org/resources/mob-negotiation.103055/",
+  "name": "Mob Negotiation",
+  "description": "Bargain with mobs for power, items, or money in exchange for their lives.",
+  "authors": [
+    "Zazsona"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103055.jpg?1656771478",
+  "iconCid": "bafkreiestubqtwfcqp77e3o4pflpfrxijkwyllm57zyw6xuevob4m5xyzq",
+  "numberOfDownloads": 46,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mob-negotiation.103055/history",
+  "gitUrl": "https://github.com/Zazsona/Mob-Negotiation",
+  "releaseDate": 1656767820000,
+  "updateDate": 1656767820000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

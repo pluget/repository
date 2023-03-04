@@ -1,0 +1,29 @@
+{
+  "id": 108229,
+  "url": "https://www.spigotmc.org/resources/simplechat.108229/",
+  "name": "SimpleChat",
+  "description": "Customize your chat for all of your worlds !",
+  "authors": [
+    "ZeyCode"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108229.jpg?1677260264",
+  "iconCid": "bafkreieonqtghamlsnbt4oxmiync5oaqlbzh5ciel2cf6bpngd4fqbx5n4",
+  "numberOfDownloads": 67,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplechat.108229/history",
+  "releaseDate": 1677255300000,
+  "updateDate": 1677255300000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 70386,
+  "url": "https://www.spigotmc.org/resources/hdropremover-1-8-1-18-x.70386/",
+  "name": "hDropRemover [1.8 - 1.18.x]",
+  "description": "Remove all drops within the time you set",
+  "authors": [
+    "hakankargin"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/70/70386.jpg?1565856977",
+  "iconCid": "bafkreie5eediczgaxneojg6o4l2hbzvbzvotwogafrzvbwswbznhr6n7dm",
+  "numberOfDownloads": 3121,
+  "rating": 4.8,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hdropremover-1-8-1-18-x.70386/history",
+  "gitUrl": "https://github.com/hakan-krgn/hDropRemover",
+  "releaseDate": 1565853360000,
+  "updateDate": 1653845400000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

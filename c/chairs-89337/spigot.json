@@ -1,0 +1,22 @@
+{
+  "id": 89337,
+  "url": "https://www.spigotmc.org/resources/chairs.89337/",
+  "name": "Chairs",
+  "description": "A simple plugin allowing you to sit on specific block types",
+  "authors": [
+    "stormer3428"
+  ],
+  "numberOfDownloads": 422,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chairs.89337/history",
+  "gitUrl": "https://github.com/stormer3428/Chairs/",
+  "releaseDate": 1613905680000,
+  "updateDate": 1654672800000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

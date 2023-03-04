@@ -1,0 +1,22 @@
+{
+  "id": 71581,
+  "url": "https://www.spigotmc.org/resources/reportplus.71581/",
+  "name": "ReportPlus",
+  "description": "Simplistic, easy to use, reporting system with GUI capabilities for managing reports.",
+  "authors": [
+    "ZeppelinForDays"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/71/71581.jpg?1571331967",
+  "iconCid": "bafkreigaandurwj3q3l437m2gml6g2wehwewm2bkik7yjrwh62t4btx5ze",
+  "numberOfDownloads": 7222,
+  "rating": 4.9,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/reportplus.71581/history",
+  "gitUrl": "https://github.com/ZeppelinForDays/ReportPlus.git",
+  "releaseDate": 1569450720000,
+  "updateDate": 1655487960000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

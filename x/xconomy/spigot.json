@@ -1,0 +1,32 @@
+{
+  "id": 75669,
+  "url": "https://www.spigotmc.org/resources/xconomy.75669/",
+  "name": "XConomy",
+  "description": "An economy plugin that supports Bungeecord synchronization",
+  "authors": [
+    "YiC"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75669.jpg?1603716876",
+  "iconCid": "bafkreidamtbc7a7mz5qekljtjiqvkbenmiztameufhlixkcthhjab7nsfa",
+  "numberOfDownloads": 42658,
+  "rating": 4.6,
+  "numberOfVotes": 51,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/xconomy.75669/history",
+  "gitUrl": "https://github.com/YiC200333/XConomy",
+  "releaseDate": 1583155560000,
+  "updateDate": 1660731660000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

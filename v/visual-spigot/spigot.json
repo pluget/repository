@@ -1,0 +1,31 @@
+{
+  "id": 87912,
+  "url": "https://www.spigotmc.org/resources/visual-spigot.87912/",
+  "name": "Visual Spigot",
+  "description": "Minecraft Server Wrapper",
+  "authors": [
+    "lostdeception"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87912.jpg?1610789618",
+  "iconCid": "bafkreihedwjamssds6u6rfzast5kornxwawz7momew3oiogikrshrbp6ia",
+  "numberOfDownloads": 4811,
+  "rating": 4.4,
+  "numberOfVotes": 20,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/visual-spigot.87912/history",
+  "releaseDate": 1610834640000,
+  "updateDate": 1654555920000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

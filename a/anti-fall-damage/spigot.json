@@ -1,0 +1,23 @@
+{
+  "id": 102451,
+  "url": "https://www.spigotmc.org/resources/anti-fall-damage.102451/",
+  "name": "Anti Fall Damage",
+  "description": "Removes fall damage!",
+  "authors": [
+    "KarsHaakieee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102451.jpg?1654465113",
+  "iconCid": "bafkreib63n77nzee2k2fq2tfpmz5xrgt33am5zzb4qbfi2xjvo7djmy6hi",
+  "numberOfDownloads": 59,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anti-fall-damage.102451/history",
+  "releaseDate": 1654461360000,
+  "updateDate": 1655188080000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

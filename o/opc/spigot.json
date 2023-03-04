@@ -1,0 +1,19 @@
+{
+  "id": 104626,
+  "url": "https://www.spigotmc.org/resources/opc.104626/",
+  "name": "OpC",
+  "description": "All-in-one Core, which allows you to quickly create Commands, Events, Inventories and more!",
+  "authors": [
+    "OpKarol"
+  ],
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/opc.104626/history",
+  "gitUrl": "https://github.com/ThisKarolGajda/OpC",
+  "releaseDate": 1660745160000,
+  "updateDate": 1660745160000,
+  "versions": [
+    "1.19"
+  ]
+}

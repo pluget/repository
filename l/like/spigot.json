@@ -1,0 +1,31 @@
+{
+  "id": 102307,
+  "url": "https://www.spigotmc.org/resources/like.102307/",
+  "name": "Like",
+  "description": "give a like to your friend!",
+  "authors": [
+    "p1xEL_mc"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102307.jpg?1653918919",
+  "iconCid": "bafkreif2hgx3qc2reeutzphx5onqcujhyj5vmrqxt7hxq3szdyxcscfqiq",
+  "numberOfDownloads": 77,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/like.102307/history",
+  "gitUrl": "https://github.com/Ez4p1xEL/Like",
+  "releaseDate": 1653914880000,
+  "updateDate": 1654080900000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

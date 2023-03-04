@@ -1,0 +1,26 @@
+{
+  "id": 93387,
+  "url": "https://www.spigotmc.org/resources/wrappersapi-a-library-for-easy-addition-of-custom-enchantments.93387/",
+  "name": "WrappersAPI - A library for easy addition of custom enchantments",
+  "description": "A useful API that lets plugin creators add their own custom enchantments very easily!",
+  "authors": [
+    "ManosSef"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93387.jpg?1623867002",
+  "iconCid": "bafkreif2h2wiyk3cfqvendxylrp5c53c6m3hw375jc4hkhm65tloery5ye",
+  "numberOfDownloads": 94,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/wrappersapi-a-library-for-easy-addition-of-custom-enchantments.93387/history",
+  "releaseDate": 1623863340000,
+  "updateDate": 1657130580000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 101358,
+  "url": "https://www.spigotmc.org/resources/gap-cooldown.101358/",
+  "name": "Gap Cooldown",
+  "description": "Food based cooldown system",
+  "authors": [
+    "MC_Cloud"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101358.jpg?1649906012",
+  "iconCid": "bafkreicwjnor7pazgpup5u6a47fy6xf7pgiefj3bpjhoif5tirikm3ndta",
+  "numberOfDownloads": 101,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gap-cooldown.101358/history",
+  "gitUrl": "https://github.com/ACM02/GapCooldown",
+  "releaseDate": 1649898600000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

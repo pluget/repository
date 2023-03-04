@@ -1,0 +1,33 @@
+{
+  "id": 99692,
+  "url": "https://www.spigotmc.org/resources/coloredarmor.99692/",
+  "name": "ColoredArmor",
+  "description": "Give you leather armor in all colors",
+  "authors": [
+    "ezTxmMC"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99692.jpg?1656577730",
+  "iconCid": "bafkreiaj7ydm2hcchefzsx2ttjflwzv34a6gk6p7vrytqr3h432u4745c4",
+  "numberOfDownloads": 54,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/coloredarmor.99692/history",
+  "gitUrl": "https://github.com/ezTxmMC/ColoredArmor",
+  "releaseDate": 1643742720000,
+  "updateDate": 1652208360000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

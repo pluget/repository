@@ -1,0 +1,31 @@
+{
+  "id": 102785,
+  "url": "https://www.spigotmc.org/resources/extradrops.102785/",
+  "name": "ExtraDrops",
+  "description": "This plugin allows you to get more drops from mobs",
+  "authors": [
+    "ImNotVirgola"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102785.jpg?1655825723",
+  "iconCid": "bafkreiaadrvvl5w2dppio34iye6sc5qkmmwqygvrrglpkdcbq4co7gq65q",
+  "numberOfDownloads": 139,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/extradrops.102785/history",
+  "gitUrl": "https://github.com/ImNotVirgola/ExtraDrops",
+  "releaseDate": 1655821980000,
+  "updateDate": 1655821980000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

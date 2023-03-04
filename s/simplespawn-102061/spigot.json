@@ -1,0 +1,30 @@
+{
+  "id": 102061,
+  "url": "https://www.spigotmc.org/resources/simplespawn.102061/",
+  "name": "SimpleSpawn",
+  "description": "Plugin that allows you to manage your world spawn with many features!",
+  "authors": [
+    "SICKOMC"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102061.jpg?1652864685",
+  "iconCid": "bafkreibusn5z4bqdbhafhqiqudrjrhorzlmcttra26h7cgh3noenkefedu",
+  "numberOfDownloads": 87,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplespawn.102061/history",
+  "releaseDate": 1652861040000,
+  "updateDate": 1652864880000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

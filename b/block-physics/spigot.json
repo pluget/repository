@@ -1,0 +1,22 @@
+{
+  "id": 100629,
+  "url": "https://www.spigotmc.org/resources/block-physics.100629/",
+  "name": "Block Physics",
+  "description": "Makes all blocks act like sand and gravel",
+  "authors": [
+    "TristanDaSavage"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100629.jpg?1647041707",
+  "iconCid": "bafkreiauwhcqog2hedhqfhep2eb2toght3fa2ttjlhuem5jlq2pva4h36m",
+  "numberOfDownloads": 296,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/block-physics.100629/history",
+  "gitUrl": "https://github.com/hypercodec/Block-Physics",
+  "releaseDate": 1647037740000,
+  "updateDate": 1654876500000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

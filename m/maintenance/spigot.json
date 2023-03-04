@@ -1,0 +1,30 @@
+{
+  "id": 91706,
+  "url": "https://www.spigotmc.org/resources/maintenance-system-motd-spigot.91706/",
+  "name": "Maintenance-System + MOTD | Spigot",
+  "description": "This plugin takes care of the MOTD and for server work a maintenance mode",
+  "authors": [
+    "TntTastisch"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91706.jpg?1619360456",
+  "iconCid": "bafkreifrxf4aymevmrtkh2tbmk5vjittuu2zxos3kksl7kobfvedecg6lq",
+  "numberOfDownloads": 367,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/maintenance-system-motd-spigot.91706/history",
+  "gitUrl": "https://github.com/TntTastisch/SpigotMaintenanceSystem",
+  "releaseDate": 1619356680000,
+  "updateDate": 1652010840000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

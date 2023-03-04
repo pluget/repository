@@ -1,0 +1,25 @@
+{
+  "id": 100150,
+  "url": "https://www.spigotmc.org/resources/iorace.100150/",
+  "name": "IORace",
+  "description": "A racing challenge - get as far as you can on foot!",
+  "authors": [
+    "Doctacosa"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100150.jpg?1645289874",
+  "iconCid": "bafkreigsc3sfn2xhlv23kli2k3eylaw4wwfs2x7tzvx56xshk34rvzyj3y",
+  "numberOfDownloads": 31,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/iorace.100150/history",
+  "gitUrl": "https://github.com/Doctacosa/IORace",
+  "releaseDate": 1645286220000,
+  "updateDate": 1654133220000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 96521,
+  "url": "https://www.spigotmc.org/resources/watchblock.96521/",
+  "name": "WatchBlock",
+  "description": "Per user automatic block-by-block grief protection.",
+  "authors": [
+    "TH3_GR13F"
+  ],
+  "numberOfDownloads": 398,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/watchblock.96521/history",
+  "gitUrl": "https://gitlab.com/thomaslegan13/watchblock",
+  "releaseDate": 1632885660000,
+  "updateDate": 1654199220000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

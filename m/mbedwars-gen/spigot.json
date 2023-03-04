@@ -1,0 +1,30 @@
+{
+  "id": 90316,
+  "url": "https://www.spigotmc.org/resources/mbedwars-gen-splitter-addon.90316/",
+  "name": "MBedwars Gen-Splitter Addon",
+  "description": "Generator Splitting for MBedwars!",
+  "authors": [
+    "MetallicGoat"
+  ],
+  "numberOfDownloads": 525,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mbedwars-gen-splitter-addon.90316/history",
+  "gitUrl": "https://github.com/MetallicGoat/Gen-Splitting",
+  "releaseDate": 1616105220000,
+  "updateDate": 1671724740000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

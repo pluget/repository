@@ -1,0 +1,22 @@
+{
+  "id": 98479,
+  "url": "https://www.spigotmc.org/resources/end-reset-1-18.98479/",
+  "name": "End Reset [1.18+]",
+  "description": "Reset the End dimension with just one command!",
+  "authors": [
+    "TeakIvy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98479.jpg?1639873269",
+  "iconCid": "bafkreictzsuhncdcq57gqfvsc7q3xau6opmuowu3mkar3lmbdr2rq2u3km",
+  "numberOfDownloads": 768,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/end-reset-1-18.98479/history",
+  "gitUrl": "https://github.com/teakivy/end-reset",
+  "releaseDate": 1639869660000,
+  "updateDate": 1656549240000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

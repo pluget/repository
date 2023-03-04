@@ -1,0 +1,27 @@
+{
+  "id": 98792,
+  "url": "https://www.spigotmc.org/resources/bettermobs.98792/",
+  "name": "BetterMobs",
+  "description": "A Minecraft bukkit plugin to make normal Minecraft mobs stronger and more interesting to fight.",
+  "authors": [
+    "Vepnar"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98792.jpg?1640871668",
+  "iconCid": "bafkreics53laulqdfwkrx446fyeqzv3oeadyr5esm6cics4dvwd2fc6i6e",
+  "numberOfDownloads": 911,
+  "rating": 5,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bettermobs.98792/history",
+  "gitUrl": "https://github.com/Vepnar/BetterMobs",
+  "releaseDate": 1640867700000,
+  "updateDate": 1655404320000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

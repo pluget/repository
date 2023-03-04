@@ -1,0 +1,22 @@
+{
+  "id": 102351,
+  "url": "https://www.spigotmc.org/resources/playernotes.102351/",
+  "name": "PlayerNotes",
+  "description": "A simple plugin to attach notes to players with multi-server support.",
+  "authors": [
+    "Declyn"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102351.jpg?1654054625",
+  "iconCid": "bafkreic7j7pziawcbyw43lz7ahcmbfu4jlk25mh2vbgmrkiciqurxrxnny",
+  "numberOfDownloads": 57,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playernotes.102351/history",
+  "gitUrl": "https://github.com/Declyn/PlayerNotes/",
+  "releaseDate": 1654050900000,
+  "updateDate": 1654124340000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

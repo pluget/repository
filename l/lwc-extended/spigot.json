@@ -1,0 +1,32 @@
+{
+  "id": 69551,
+  "url": "https://www.spigotmc.org/resources/lwc-extended.69551/",
+  "name": "LWC Extended",
+  "description": "An actively maintained version of the LWC block protection plugin",
+  "authors": [
+    "pop4959"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/69/69551.jpg?1612438539",
+  "iconCid": "bafkreibl3purmwbv5ti4wnmdifqv22z4pzbxdzhbhli7con66ksitn6kmi",
+  "numberOfDownloads": 42650,
+  "rating": 4.7,
+  "numberOfVotes": 51,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lwc-extended.69551/history",
+  "gitUrl": "https://github.com/pop4959/LWCX",
+  "releaseDate": 1563682860000,
+  "updateDate": 1656395280000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 100596,
+  "url": "https://www.spigotmc.org/resources/simplebombs.100596/",
+  "name": "SimpleBombs",
+  "description": "Simple, configurable and easy to use bombs for prison and other various types of servers.",
+  "authors": [
+    "M0dii"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100596.jpg?1646908560",
+  "iconCid": "bafkreigdwhsmhb7fytssdkn3j7fawblmbqk4juw3bk56p7ij5cchc7gpbu",
+  "numberOfDownloads": 279,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplebombs.100596/history",
+  "gitUrl": "https://github.com/M0diis/SimpleBombs",
+  "releaseDate": 1646904900000,
+  "updateDate": 1653294600000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

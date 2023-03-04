@@ -1,0 +1,21 @@
+{
+  "id": 35065,
+  "url": "https://www.spigotmc.org/resources/afk.35065/",
+  "name": "AFK+",
+  "description": "AFK for professional servers",
+  "authors": [
+    "dart2112"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/35/35065.jpg?1484899820",
+  "iconCid": "bafkreieb5yytmzrvjcerhtixyd4mn4vddiubekc4ruyzza2xz6lr54okzy",
+  "numberOfDownloads": 167086,
+  "rating": 4.7,
+  "numberOfVotes": 39,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/afk.35065/history",
+  "gitUrl": "https://github.com/LapisPlugins/AFKPlus",
+  "releaseDate": 1484893260000,
+  "updateDate": 1656228240000,
+  "versions": [
+    "1.19"
+  ]
+}

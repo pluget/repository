@@ -1,0 +1,26 @@
+{
+  "id": 100546,
+  "url": "https://www.spigotmc.org/resources/censure.100546/",
+  "name": "Censure",
+  "description": "[GUI] Personalized display of swear words in chat",
+  "authors": [
+    "Millida"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100546.jpg?1646687541",
+  "iconCid": "bafkreic7dkfii3afaxmnedrtbzywcazzxwzcilj7gb6or64cc2prukwcyq",
+  "numberOfDownloads": 752,
+  "rating": 4,
+  "numberOfVotes": 15,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/censure.100546/history",
+  "releaseDate": 1646678520000,
+  "updateDate": 1654383540000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

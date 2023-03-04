@@ -1,0 +1,21 @@
+{
+  "id": 96876,
+  "url": "https://www.spigotmc.org/resources/devtools.96876/",
+  "name": "DevTools",
+  "description": "Tools to make the life of a Java Plugin Developer way easier!",
+  "authors": [
+    "Floxyi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96876.jpg?1650395558",
+  "iconCid": "bafkreiexjatcjcdykgv4snli2ofzgmgsuojnid4mb7oislavjmmclorut4",
+  "numberOfDownloads": 161,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/devtools.96876/history",
+  "gitUrl": "https://github.com/Floxyi/DevTools",
+  "releaseDate": 1634331660000,
+  "updateDate": 1653137280000,
+  "versions": [
+    "1.18"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 102006,
+  "url": "https://www.spigotmc.org/resources/streamalert.102006/",
+  "name": "StreamAlert",
+  "description": "This is a plugin that can alert the players in the server when there is an streamer o stream",
+  "authors": [
+    "angelillo1508"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102006.jpg?1652610803",
+  "iconCid": "bafkreieqvthx7gkmuusncrcevtkxqtgaaijxjdvztqlo35akmllmnb73ny",
+  "numberOfDownloads": 75,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/streamalert.102006/history",
+  "releaseDate": 1652569920000,
+  "updateDate": 1652621880000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

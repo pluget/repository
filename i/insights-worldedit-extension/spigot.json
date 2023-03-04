@@ -1,0 +1,21 @@
+{
+  "id": 88948,
+  "url": "https://www.spigotmc.org/resources/insights-worldedit-extension.88948/",
+  "name": "Insights WorldEdit Extension",
+  "description": "Blocks and filters materials from WorldEdit modifications.",
+  "authors": [
+    "FrankHeijden"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88948.jpg?1613148275",
+  "iconCid": "bafkreidcyxhbd3o64gbevyljbfmlg3enmf5jov3kpi6vgat5shb25t3mvy",
+  "numberOfDownloads": 440,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/insights-worldedit-extension.88948/history",
+  "gitUrl": "https://github.com/InsightsPlugin/InsightsWorldEditExtension",
+  "releaseDate": 1613144640000,
+  "updateDate": 1654035960000,
+  "versions": [
+    "1.18"
+  ]
+}

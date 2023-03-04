@@ -1,0 +1,28 @@
+{
+  "id": 93999,
+  "url": "https://www.spigotmc.org/resources/minetracker.93999/",
+  "name": "MineTracker",
+  "description": "Announce mined ores to staff",
+  "authors": [
+    "BrandonT80"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93999.jpg?1625607123",
+  "iconCid": "bafkreih26ugwcw4f4ukkdhmmcpagu6qiwvjzojtsiire53nrkxlechsprm",
+  "numberOfDownloads": 741,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minetracker.93999/history",
+  "gitUrl": "https://github.com/BrandonT80/MineTracker",
+  "releaseDate": 1625602260000,
+  "updateDate": 1670537160000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

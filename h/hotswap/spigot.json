@@ -1,0 +1,20 @@
+{
+  "id": 79203,
+  "url": "https://www.spigotmc.org/resources/hotswap.79203/",
+  "name": "Hotswap",
+  "description": "Hotswap allows players to quickly swap their armor.",
+  "authors": [
+    "killerdean13"
+  ],
+  "numberOfDownloads": 313,
+  "rating": 4.3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hotswap.79203/history",
+  "gitUrl": "https://github.com/Ryxians/Hotswap",
+  "releaseDate": 1590265560000,
+  "updateDate": 1653492240000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

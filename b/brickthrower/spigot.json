@@ -1,0 +1,32 @@
+{
+  "id": 87384,
+  "url": "https://www.spigotmc.org/resources/brickthrower.87384/",
+  "name": "BrickThrower",
+  "description": "A plugin to throw bricks!",
+  "authors": [
+    "TurtlesAreHot"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87384.jpg?1612039846",
+  "iconCid": "bafkreicsrpwgieplvpkeptkekt5tcbinfm5evrykkseuizsohod2pdgfpu",
+  "numberOfDownloads": 484,
+  "rating": 4,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/brickthrower.87384/history",
+  "gitUrl": "https://github.com/Twocoolguy/BrickThrower",
+  "releaseDate": 1609618860000,
+  "updateDate": 1677181560000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 103108,
+  "url": "https://www.spigotmc.org/resources/nosparkinpurpur.103108/",
+  "name": "NoSparkInPurpur",
+  "description": "Prevent purpur from downloading spark when the user doesn't need it.",
+  "authors": [
+    "DreamVoid"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103108.jpg?1656944173",
+  "iconCid": "bafkreih4stvsny4jquseywg2pelwruhkmstw2g5lyz2iw5rtwtn4ryin7u",
+  "numberOfDownloads": 102,
+  "rating": 4.3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nosparkinpurpur.103108/history",
+  "gitUrl": "https://github.com/DreamVoid/NoSparkInPurpur",
+  "releaseDate": 1656940560000,
+  "updateDate": 1656951360000,
+  "versions": [
+    "1.19"
+  ]
+}

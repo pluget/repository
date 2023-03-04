@@ -1,0 +1,26 @@
+{
+  "id": 98373,
+  "url": "https://www.spigotmc.org/resources/nodewar.98373/",
+  "name": "Nodewar",
+  "description": "A persistent Worldguard based territory system",
+  "authors": [
+    "Rosstail"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98373.jpg?1639433462",
+  "iconCid": "bafkreibgk3vubgvv5tjpe2cmovdc7d6arcjdlhrntkjiix55iw3q7im27a",
+  "numberOfDownloads": 250,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nodewar.98373/history",
+  "gitUrl": "https://github.com/Rosstail/NodeWar",
+  "releaseDate": 1639429800000,
+  "updateDate": 1653494820000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

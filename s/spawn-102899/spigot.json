@@ -1,0 +1,24 @@
+{
+  "id": 102899,
+  "url": "https://www.spigotmc.org/resources/spawn.102899/",
+  "name": "Spawn",
+  "description": "The spawn command plugin.",
+  "authors": [
+    "CarlosTavria"
+  ],
+  "numberOfDownloads": 137,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/spawn.102899/history",
+  "gitUrl": "https://github.com/CarloSTaDEV/spawn-plugin",
+  "releaseDate": 1656174360000,
+  "updateDate": 1656174360000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12"
+  ]
+}

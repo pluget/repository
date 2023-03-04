@@ -1,0 +1,32 @@
+{
+  "id": 97509,
+  "url": "https://www.spigotmc.org/resources/winstreak-bedwars1058-add-on.97509/",
+  "name": "WinStreak | BedWars1058 add-on",
+  "description": "Streak system for BedWars players",
+  "authors": [
+    "reussy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97509.jpg?1655134209",
+  "iconCid": "bafkreib3tvlvite5qiyt44vh44ullyy4z23fl4mgsouhuo6ozo4y4ptu2i",
+  "numberOfDownloads": 1021,
+  "rating": 2.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/winstreak-bedwars1058-add-on.97509/history",
+  "gitUrl": "https://github.com/reussy/BedWars1058-WinStreak",
+  "releaseDate": 1636485600000,
+  "updateDate": 1655130660000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

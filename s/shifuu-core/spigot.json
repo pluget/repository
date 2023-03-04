@@ -1,0 +1,32 @@
+{
+  "id": 101455,
+  "url": "https://www.spigotmc.org/resources/shifuu-core-1-8x-1-19x-advanced-server-core-essentials-staff-rank-manager-chat-manager.101455/",
+  "name": "Shifuu Core [1.8x - 1.19x] | Advanced Server Core | Essentials, Staff, Rank Manager, Chat Manager",
+  "description": "An almost fully customizable core that wasn't made in 2 hours :)",
+  "authors": [
+    "Shifuu"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101455.jpg?1650258431",
+  "iconCid": "bafkreigg2cv6yj76idbzjpqp5hxnhgongw46uz5fpqbgrke5vbts2akz34",
+  "numberOfDownloads": 176,
+  "rating": 4,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/shifuu-core-1-8x-1-19x-advanced-server-core-essentials-staff-rank-manager-chat-manager.101455/history",
+  "gitUrl": "https://github.com/tehShifu/sCore",
+  "releaseDate": 1650254820000,
+  "updateDate": 1676997360000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

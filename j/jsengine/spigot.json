@@ -1,0 +1,33 @@
+{
+  "id": 92709,
+  "url": "https://www.spigotmc.org/resources/jsengine.92709/",
+  "name": "JSEngine",
+  "description": "Wrapper for Nashorn JavaScript engine",
+  "authors": [
+    "vk2gpz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92709.jpg?1621994175",
+  "iconCid": "bafkreiabxc2ggcxap7knknzgod7xqnm7fu3rbm75eqqgmhsnicwd66ci3y",
+  "numberOfDownloads": 2545,
+  "rating": 3,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/jsengine.92709/history",
+  "gitUrl": "https://github.com/TeamVK/JSEngine",
+  "releaseDate": 1677502440000,
+  "updateDate": 1677502440000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

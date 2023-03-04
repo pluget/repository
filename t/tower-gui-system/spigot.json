@@ -1,0 +1,28 @@
+{
+  "id": 76667,
+  "url": "https://www.spigotmc.org/resources/tower-gui-system-tgs.76667/",
+  "name": "Tower Gui System (TGS)",
+  "description": "DynamicGui, CloudNet",
+  "authors": [
+    "Armatura"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/76/76667.jpg?1585512057",
+  "iconCid": "bafkreidhef5s3focjmilan3fkucs7uq3xsc3b2xvgn35vrfvfscizrex3y",
+  "numberOfDownloads": 538,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tower-gui-system-tgs.76667/history",
+  "releaseDate": 1585506300000,
+  "updateDate": 1655725740000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

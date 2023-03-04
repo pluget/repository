@@ -1,0 +1,33 @@
+{
+  "id": 102430,
+  "url": "https://www.spigotmc.org/resources/server-uptime.102430/",
+  "name": "Server Uptime",
+  "description": "Check how long the server has been running",
+  "authors": [
+    "DeluxerPanda"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102430.jpg?1654415393",
+  "iconCid": "bafkreidz6vd5mln6moyvbxwcc3m5ftek4z77ma7mto4mf4uhlcahovli2y",
+  "numberOfDownloads": 195,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/server-uptime.102430/history",
+  "gitUrl": "https://github.com/DeluxerPanda/ServerUptime",
+  "releaseDate": 1654364400000,
+  "updateDate": 1667028300000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 98655,
+  "url": "https://www.spigotmc.org/resources/kitx.98655/",
+  "name": "KitX",
+  "description": "An advanced lightweight kits plugin.",
+  "authors": [
+    "Prodeathmaster"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98655.jpg?1640404267",
+  "iconCid": "bafkreihamw74rh4sfih77cutmykg4cjbkicuhzkphxapuvufmm6dktwt7a",
+  "numberOfDownloads": 132,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kitx.98655/history",
+  "gitUrl": "https://github.com/Prorickey/KitX",
+  "releaseDate": 1640377680000,
+  "updateDate": 1653874020000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

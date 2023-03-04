@@ -1,0 +1,20 @@
+{
+  "id": 101096,
+  "url": "https://www.spigotmc.org/resources/firework-trail-colors.101096/",
+  "name": "Firework Trail Colors",
+  "description": "A 1.18.2-1.19 Paper plugin. Adds a customizable particle trail while rocket boosting with an Elytra",
+  "authors": [
+    "Lilyp3892"
+  ],
+  "numberOfDownloads": 49,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/firework-trail-colors.101096/history",
+  "gitUrl": "https://github.com/Lilyp3892/FireworkTrailColors",
+  "releaseDate": 1648769340000,
+  "updateDate": 1656382980000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

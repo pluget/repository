@@ -1,0 +1,24 @@
+{
+  "id": 102776,
+  "url": "https://www.spigotmc.org/resources/wg-anarchy.102776/",
+  "name": "WG - Anarchy",
+  "description": "Fix wither, pistons, creepers, and allow them to grief WorldGuard and ProtectionStones regions",
+  "authors": [
+    "Roggy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102776.jpg?1655781523",
+  "iconCid": "bafkreigukqslepa73ihns7vsnfhtwbfes2hvbmz2ombqazh6lzzwloy7hy",
+  "numberOfDownloads": 51,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/wg-anarchy.102776/history",
+  "releaseDate": 1655777880000,
+  "updateDate": 1655777880000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": 93367,
+  "url": "https://www.spigotmc.org/resources/suicide.93367/",
+  "name": "Suicide",
+  "description": "A suicide command with some cool features.",
+  "authors": [
+    "Prism3"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93367.jpg?1623808436",
+  "iconCid": "bafkreifvqtme4pumov5fpl5lsreuwecpzqaohvbkmt4ui4433pzw4mmkq4",
+  "numberOfDownloads": 1349,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/suicide.93367/history",
+  "gitUrl": "https://github.com/ExceptedPrism3/Suicide",
+  "releaseDate": 1623804780000,
+  "updateDate": 1656458280000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

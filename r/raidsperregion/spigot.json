@@ -1,0 +1,22 @@
+{
+  "id": 87585,
+  "url": "https://www.spigotmc.org/resources/raidsperregion.87585/",
+  "name": "RaidsPerRegion",
+  "description": "Custom Sever Event - MythicMobs Addon [Towny Compatible]",
+  "authors": [
+    "ShermansWorld"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87585.jpg?1610055229",
+  "iconCid": "bafkreiefvztd6h6jz7zdqvbsco7bawj6ipxyddssuoccltbkqr2swt5dei",
+  "numberOfDownloads": 519,
+  "rating": 4.2,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/raidsperregion.87585/history",
+  "gitUrl": "https://github.com/ShermansWorld/RaidsPerRegion",
+  "releaseDate": 1610051580000,
+  "updateDate": 1652552880000,
+  "versions": [
+    "1.16",
+    "1.18"
+  ]
+}

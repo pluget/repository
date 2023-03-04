@@ -1,0 +1,27 @@
+{
+  "id": 44398,
+  "url": "https://www.spigotmc.org/resources/landlord-4.44398/",
+  "name": "Landlord 4",
+  "description": "Protect land, protect animals, protect it all, with Landlord.",
+  "authors": [
+    "Eldoria"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/44/44398.jpg?1545564910",
+  "iconCid": "bafkreihgpm7srr2y4lmbqkn27ur2k75d7rrczofyu6qucme7rgjoveg6gu",
+  "numberOfDownloads": 30546,
+  "rating": 4.6,
+  "numberOfVotes": 63,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/landlord-4.44398/history",
+  "gitUrl": "https://github.com/LandlordPlugin/LandLord",
+  "releaseDate": 1500842400000,
+  "updateDate": 1655659920000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

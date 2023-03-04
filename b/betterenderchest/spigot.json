@@ -1,0 +1,21 @@
+{
+  "id": 2073,
+  "url": "https://www.spigotmc.org/resources/betterenderchest.2073/",
+  "name": "BetterEnderChest",
+  "description": "Making Ender Chests multiplayer-friendly",
+  "authors": [
+    "rutgerkok"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/2/2073.jpg?1417285315",
+  "iconCid": "bafkreib7cjrlmbknudmcoaql4sptnip4xkhdjezilpfussjey23d6ax5su",
+  "numberOfDownloads": 17185,
+  "rating": 4.3,
+  "numberOfVotes": 27,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterenderchest.2073/history",
+  "gitUrl": "https://github.com/rutgerkok/BetterEnderChest",
+  "releaseDate": 1417281660000,
+  "updateDate": 1670702340000,
+  "versions": [
+    "1.19"
+  ]
+}

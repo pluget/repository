@@ -1,0 +1,32 @@
+{
+  "id": 108254,
+  "url": "https://www.spigotmc.org/resources/sqlitelib.108254/",
+  "name": "SQLiteLib",
+  "description": "SQLite Library in a Plugin",
+  "authors": [
+    "GiorgioWester"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108254.jpg?1677374096",
+  "iconCid": "bafkreihz3cioqe5dj6amebhd452h3vmae7izkw6qyyr26wt5oyrim3oqcm",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sqlitelib.108254/history",
+  "gitUrl": "https://github.com/MoonDevelopment-Gio/SQLiteLib/",
+  "releaseDate": 1677370440000,
+  "updateDate": 1677370440000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

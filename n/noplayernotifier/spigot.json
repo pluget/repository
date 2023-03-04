@@ -1,0 +1,22 @@
+{
+  "id": 98053,
+  "url": "https://www.spigotmc.org/resources/noplayernotifier.98053/",
+  "name": "NoPlayerNotifier",
+  "description": "A simple plugin that allows the server to notify a player when they are talking to themselves.",
+  "authors": [
+    "QuickWrite"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98053.jpg?1638385562",
+  "iconCid": "bafkreih2rvqfibtfeerrccqf332orsv5iapg3gwokvclc7dxdbfnnmlcou",
+  "numberOfDownloads": 80,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/noplayernotifier.98053/history",
+  "gitUrl": "https://github.com/QuickWrite/NoPlayerNotifier/",
+  "releaseDate": 1638381120000,
+  "updateDate": 1652041260000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

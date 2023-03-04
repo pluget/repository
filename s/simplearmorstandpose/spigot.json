@@ -1,0 +1,27 @@
+{
+  "id": 99032,
+  "url": "https://www.spigotmc.org/resources/simplearmorstandpose-1-13-1-19.99032/",
+  "name": "SimpleArmorStandPose [1.13 - 1.19]",
+  "description": "Poses for armor stands straight from Minecraft Bedrock",
+  "authors": [
+    "KessPen"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99032.jpg?1641559699",
+  "iconCid": "bafkreifdi6k7sh6h43spykzqhvberjllrfhvkdybcp5ax5lwantesm4wzi",
+  "numberOfDownloads": 449,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplearmorstandpose-1-13-1-19.99032/history",
+  "gitUrl": "https://github.com/KessPenGames/SimpleArmorStandPose",
+  "releaseDate": 1641555660000,
+  "updateDate": 1655459580000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

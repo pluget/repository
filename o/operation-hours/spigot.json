@@ -1,0 +1,31 @@
+{
+  "id": 108252,
+  "url": "https://www.spigotmc.org/resources/operation-hours.108252/",
+  "name": "Operation Hours",
+  "description": "Limit hours/days when your server is open",
+  "authors": [
+    "Strahan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108252.jpg?1677359311",
+  "iconCid": "bafkreicfi2b2mpt6ko3r7ro7h3klyacu4bpgko7hzfgwbuh772nb65wzru",
+  "numberOfDownloads": 43,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/operation-hours.108252/history",
+  "releaseDate": 1677618780000,
+  "updateDate": 1677618780000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

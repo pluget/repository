@@ -1,0 +1,32 @@
+{
+  "id": 97433,
+  "url": "https://www.spigotmc.org/resources/discordutils-discord-bot-for-your-minecraft-server.97433/",
+  "name": "DiscordUtils / Discord bot for your Minecraft server",
+  "description": "Discord bot for your Minecraft server",
+  "authors": [
+    "cayote20"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97433.jpg?1636220244",
+  "iconCid": "bafkreideuj5eohhgeovty6k7ss5a75p4pu6ffekgoyz5t5s4vpzwrxs6pm",
+  "numberOfDownloads": 3167,
+  "rating": 4.7,
+  "numberOfVotes": 16,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discordutils-discord-bot-for-your-minecraft-server.97433/history",
+  "gitUrl": "https://github.com/mirrerror/DiscordUtils",
+  "releaseDate": 1636216620000,
+  "updateDate": 1655276400000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

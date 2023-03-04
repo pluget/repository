@@ -1,0 +1,25 @@
+{
+  "id": 93187,
+  "url": "https://www.spigotmc.org/resources/damage-notifications.93187/",
+  "name": "Damage Notifications",
+  "description": "Get notified about how you took damage every time you do so!",
+  "authors": [
+    "ManosSef"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93187.jpg?1623402865",
+  "iconCid": "bafkreiaugn3gslzqgnf3mhrsnekv6jjt64hcjkxu4elsugz3otz5lqz4um",
+  "numberOfDownloads": 118,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/damage-notifications.93187/history",
+  "releaseDate": 1623399180000,
+  "updateDate": 1653640680000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

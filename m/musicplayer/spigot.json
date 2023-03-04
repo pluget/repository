@@ -1,0 +1,25 @@
+{
+  "id": 90321,
+  "url": "https://www.spigotmc.org/resources/musicplayer.90321/",
+  "name": "MusicPlayer",
+  "description": "Play Music",
+  "authors": [
+    "RilyAbyss"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90321.jpg?1616219933",
+  "iconCid": "bafkreicxcna6hmynbxhoqgnb5ty7dhzntekj77f2v2g46gp7thkyqff63e",
+  "numberOfDownloads": 209,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/musicplayer.90321/history",
+  "gitUrl": "https://github.com/RilyAbyssD/MusicPlayer",
+  "releaseDate": 1616136120000,
+  "updateDate": 1660737780000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

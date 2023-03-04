@@ -1,0 +1,22 @@
+{
+  "id": 44820,
+  "url": "https://www.spigotmc.org/resources/multiarena-duels-1v1-open-source-leaderboard.44820/",
+  "name": "MultiArena Duels [1v1] [Open Source] [Leaderboard]",
+  "description": "1v1 Duels! Now featuring customizable kits, a leaderboard, and more!",
+  "authors": [
+    "Dartanman"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/44/44820.jpg?1631298711",
+  "iconCid": "bafkreiaykxf6qslrwg2q7lu5vldapthjszs4em4ydqbxau4w3akqipkbyu",
+  "numberOfDownloads": 18613,
+  "rating": 4.2,
+  "numberOfVotes": 22,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/multiarena-duels-1v1-open-source-leaderboard.44820/history",
+  "gitUrl": "https://github.com/Dartanman/Duels",
+  "releaseDate": 1501466580000,
+  "updateDate": 1652913780000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

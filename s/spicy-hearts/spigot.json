@@ -1,0 +1,22 @@
+{
+  "id": 86698,
+  "url": "https://www.spigotmc.org/resources/spicy-hearts.86698/",
+  "name": "Spicy Hearts",
+  "description": "Start at half a heart; eat food to gain hearts",
+  "authors": [
+    "Adrakaris"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/86/86698.jpg?1607893018",
+  "iconCid": "bafkreicii2cxmhwguwbhx2tn5276qk3j7gppzbzl4r4lmtxwj6tncztz3i",
+  "numberOfDownloads": 109,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/spicy-hearts.86698/history",
+  "gitUrl": "https://github.com/Adrakaris/spigot-spicyhearts",
+  "releaseDate": 1607889360000,
+  "updateDate": 1656269040000,
+  "versions": [
+    "1.16",
+    "1.17"
+  ]
+}

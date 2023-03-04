@@ -1,0 +1,23 @@
+{
+  "id": 102489,
+  "url": "https://www.spigotmc.org/resources/privateserver.102489/",
+  "name": "PrivateServer",
+  "description": "A plugin to restrict non-staff players from joining a server",
+  "authors": [
+    "sidgames5"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102489.jpg?1654617837",
+  "iconCid": "bafkreifeiwlxlfu6zttdnrvvpqrkr3ud2z62c4zy4jdrtuwuisl4vc55ny",
+  "numberOfDownloads": 53,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/privateserver.102489/history",
+  "gitUrl": "https://github.com/MLG-Land/PrivateServer",
+  "releaseDate": 1654614180000,
+  "updateDate": 1654636860000,
+  "versions": [
+    "1.8",
+    "1.18",
+    "1.19"
+  ]
+}

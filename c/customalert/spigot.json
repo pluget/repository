@@ -1,0 +1,21 @@
+{
+  "id": 102602,
+  "url": "https://www.spigotmc.org/resources/customalert.102602/",
+  "name": "CustomAlert",
+  "description": "Remove the default /alert, full on custom one!",
+  "authors": [
+    "ChrisLewis"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102602.jpg?1655143766",
+  "iconCid": "bafkreictxm3s6ywnvl6apdgsfmskoqo2bncw5rpobfjx6ndkkjhbtoqpcm",
+  "numberOfDownloads": 109,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/customalert.102602/history",
+  "gitUrl": "https://github.com/Experimental-Development/CustomAlert",
+  "releaseDate": 1655140020000,
+  "updateDate": 1656108600000,
+  "versions": [
+    "1.18"
+  ]
+}

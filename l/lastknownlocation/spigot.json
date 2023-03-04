@@ -1,0 +1,26 @@
+{
+  "id": 102758,
+  "url": "https://www.spigotmc.org/resources/lastknownlocation-light.102758/",
+  "name": "LastKnownLocation [Light]",
+  "description": "The most simple plugin for saving players last location!",
+  "authors": [
+    "LukeC0de"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102758.jpg?1655884730",
+  "iconCid": "bafkreihia7ppe66qnirso47aouu6nqr6sxw4chlfnzjfd4xyyx2mitse3a",
+  "numberOfDownloads": 44,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lastknownlocation-light.102758/history",
+  "releaseDate": 1655662320000,
+  "updateDate": 1655662320000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

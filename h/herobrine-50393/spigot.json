@@ -1,0 +1,24 @@
+{
+  "id": 50393,
+  "url": "https://www.spigotmc.org/resources/herobrine.50393/",
+  "name": "Herobrine",
+  "description": "Add Herobrine to your Spigot Server",
+  "authors": [
+    "DavidBBukkit"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/50/50393.jpg?1512527557",
+  "iconCid": "bafkreifv3sb6r55bcdhininyjkinj7vof2xl7lk4dhiakuylwjvla4kznu",
+  "numberOfDownloads": 42930,
+  "rating": 3.8,
+  "numberOfVotes": 64,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/herobrine.50393/history",
+  "gitUrl": "https://bitbucket.org/David-B/herobrine-for-bukkit-or-spigot",
+  "releaseDate": 1512523920000,
+  "updateDate": 1655338140000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

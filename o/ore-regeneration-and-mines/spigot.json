@@ -1,0 +1,24 @@
+{
+  "id": 88679,
+  "url": "https://www.spigotmc.org/resources/ore-regeneration-and-mines.88679/",
+  "name": "Ore Regeneration and Mines",
+  "description": "Mines and regenerating ore nodes",
+  "authors": [
+    "Meap"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88679.jpg?1612541031",
+  "iconCid": "bafkreigb5rfrl4jb7z7pf5rk5327zvawn3mfojjxyndqwu2zd6nccdrpxy",
+  "numberOfDownloads": 3046,
+  "rating": 5,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ore-regeneration-and-mines.88679/history",
+  "releaseDate": 1612484280000,
+  "updateDate": 1657228320000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

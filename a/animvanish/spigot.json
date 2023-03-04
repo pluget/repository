@@ -1,0 +1,22 @@
+{
+  "id": 102183,
+  "url": "https://www.spigotmc.org/resources/animvanish-1-19-animated-vanishing.102183/",
+  "name": "AnimVanish - 1.19 | Animated Vanishing",
+  "description": "Plugin that provides large library of pre-made effects to your vanish",
+  "authors": [
+    "ArikSquadMC"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102183.jpg?1653417854",
+  "iconCid": "bafkreicp2l5p7ngqofs4blesa4ewk5zlk54j3t5suo7yg7u4mrorz52qae",
+  "numberOfDownloads": 749,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/animvanish-1-19-animated-vanishing.102183/history",
+  "gitUrl": "https://github.com/ArikSquad/AnimVanish",
+  "releaseDate": 1653329280000,
+  "updateDate": 1655836260000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

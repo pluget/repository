@@ -1,0 +1,23 @@
+{
+  "id": 21628,
+  "url": "https://www.spigotmc.org/resources/mcrealistic-1-17.21628/",
+  "name": "MCRealistic [1.17+]",
+  "description": "Cold? Thirst? Old Adventure Mode? Falling trees? The possibilities are endless!",
+  "authors": [
+    "SamB440"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/21/21628.jpg?1531211933",
+  "iconCid": "bafkreifk63h2fhykfmlhdkwz2oqquehuenlhrkzq5jqa4g7wxx5rtphmfq",
+  "numberOfDownloads": 64164,
+  "rating": 4.7,
+  "numberOfVotes": 59,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mcrealistic-1-17.21628/history",
+  "gitUrl": "https://gitlab.com/SamB440/MCRealisticPlus-2",
+  "releaseDate": 1460385720000,
+  "updateDate": 1656700560000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

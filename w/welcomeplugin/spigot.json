@@ -1,0 +1,20 @@
+{
+  "id": 101942,
+  "url": "https://www.spigotmc.org/resources/welcomeplugin.101942/",
+  "name": "WelcomePlugin",
+  "description": "Plugin that will greet the player when entering, you can change the messages, good config plugin.",
+  "authors": [
+    "rexxedq"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101942.jpg?1652274084",
+  "iconCid": "bafkreibwdhiw34pty6fpawdv74jj6jizyvm7bchk7rart5nwwjsyi3uvgi",
+  "numberOfDownloads": 57,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/welcomeplugin.101942/history",
+  "releaseDate": 1652270460000,
+  "updateDate": 1652270460000,
+  "versions": [
+    "1.8"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 102173,
+  "url": "https://www.spigotmc.org/resources/simplechunkteleport.102173/",
+  "name": "SimpleChunkTeleport",
+  "description": "Allows teleporting to a chunk",
+  "authors": [
+    "JonRahm"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102173.jpg?1653323292",
+  "iconCid": "bafkreiheplgoixanj7ewco7zxy6t7cjijzru2k5uymfdspr7qbeipmpvgu",
+  "numberOfDownloads": 41,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplechunkteleport.102173/history",
+  "gitUrl": "https://github.com/Skjolberg/SimpleChunkTeleport",
+  "releaseDate": 1653319680000,
+  "updateDate": 1657065360000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

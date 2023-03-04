@@ -1,0 +1,31 @@
+{
+  "id": 100382,
+  "url": "https://www.spigotmc.org/resources/srvcron-1-8-1-18-scheduler-events-jobs-conditions-spigot-bungee.100382/",
+  "name": "SRVCron (1.8-1.18) [Scheduler | Events | Jobs | Conditions | Spigot/Bungee]",
+  "description": "Create tasks, schedule everything you need. Control what happens on your server. Manage everything.",
+  "authors": [
+    "M0dii"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100382.jpg?1646125334",
+  "iconCid": "bafkreicjrty6crkjjbgfazpoa3e6kmai7fauc2hamln2f5v3wqalzmnoq4",
+  "numberOfDownloads": 507,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/srvcron-1-8-1-18-scheduler-events-jobs-conditions-spigot-bungee.100382/history",
+  "gitUrl": "https://github.com/M0diis/SRV-Cron",
+  "releaseDate": 1646121660000,
+  "updateDate": 1652714280000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}
