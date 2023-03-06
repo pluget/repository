@@ -1,0 +1,32 @@
+{
+  "id": 101541,
+  "url": "https://www.spigotmc.org/resources/serverlinks.101541/",
+  "name": "ServerLinks",
+  "description": "Add social Links to your server",
+  "authors": [
+    "7AGAM"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101541.jpg?1650566959",
+  "iconCid": "bafkreid4f6wxqdftutv42fcyjkpmv4avl7u5e6dxh7qglh75i4wzgevy5u",
+  "numberOfDownloads": 63,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/serverlinks.101541/history",
+  "releaseDate": 1650539280000,
+  "updateDate": 1650562320000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

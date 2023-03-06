@@ -1,0 +1,32 @@
+{
+  "id": 55011,
+  "url": "https://www.spigotmc.org/resources/playerbalancer.55011/",
+  "name": "PlayerBalancer",
+  "description": "Distribute your players across multiple servers. Advanced features and very customizable",
+  "authors": [
+    "BGHDDevelopment"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/55/55011.jpg?1522260298",
+  "iconCid": "bafkreihgs7hf7n7gncg6srijrpzpx6wathc76v2cujqvdu4a7yrjysmpv4",
+  "numberOfDownloads": 3317,
+  "rating": 4.8,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playerbalancer.55011/history",
+  "gitUrl": "https://github.com/BGHDDevelopment/PlayerBalancer",
+  "releaseDate": 1522256640000,
+  "updateDate": 1649605560000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

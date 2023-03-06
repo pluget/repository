@@ -1,0 +1,22 @@
+{
+  "id": 101023,
+  "url": "https://www.spigotmc.org/resources/infinite-blocks.101023/",
+  "name": "Infinite Blocks",
+  "description": "Create blocks that are infinite (just like creative mode) and give them to other players",
+  "authors": [
+    "Fabsi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101023.jpg?1648483469",
+  "iconCid": "bafkreiesl74pxgxbnmxd7xc2hawvuw72barxboaiu4renpiubcdjrgjenu",
+  "numberOfDownloads": 113,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/infinite-blocks.101023/history",
+  "gitUrl": "https://github.com/Fabsi23/Infinite-Blocks",
+  "releaseDate": 1648478700000,
+  "updateDate": 1648478700000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

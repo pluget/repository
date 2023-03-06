@@ -1,0 +1,21 @@
+{
+  "id": 101015,
+  "url": "https://www.spigotmc.org/resources/votemod.101015/",
+  "name": "VoteMod",
+  "description": "Allows users to whitelist and ban people from a server through a voting system",
+  "authors": [
+    "JCox"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101015.jpg?1648423122",
+  "iconCid": "bafkreifha7avgw7whbexxgaytdyd74ctydna5jgqsajf7gkaemssiui4im",
+  "numberOfDownloads": 44,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/votemod.101015/history",
+  "gitUrl": "https://github.com/JCox06/VoteMod",
+  "releaseDate": 1648414800000,
+  "updateDate": 1648417560000,
+  "versions": [
+    "1.18"
+  ]
+}

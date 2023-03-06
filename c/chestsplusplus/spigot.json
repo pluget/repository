@@ -1,0 +1,23 @@
+{
+  "id": 71355,
+  "url": "https://www.spigotmc.org/resources/chests-now-with-autocrafting-chest-linking-hopper-filtering-remote-chests-menus.71355/",
+  "name": "Chests++ | [Now with AutoCrafting!!] Chest Linking, Hopper Filtering, Remote Chests & Menus!",
+  "description": "Minecraft Spigot mod that enhances chests and hoppers, with ChestLinks and Hopper filters!",
+  "authors": [
+    "jameslfc19"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/71/71355.jpg?1568665849",
+  "iconCid": "bafkreicsayrxoamnp5t57y6dhqn656adv3w4xtnmm5u6dy45anhaixpxa4",
+  "numberOfDownloads": 3617,
+  "rating": 4.8,
+  "numberOfVotes": 25,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chests-now-with-autocrafting-chest-linking-hopper-filtering-remote-chests-menus.71355/history",
+  "gitUrl": "https://github.com/JamesPeters98/ChestsPlusPlus",
+  "releaseDate": 1568662200000,
+  "updateDate": 1653397380000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

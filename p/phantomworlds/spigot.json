@@ -1,0 +1,33 @@
+{
+  "id": 84099,
+  "url": "https://www.spigotmc.org/resources/phantomworlds.84099/",
+  "name": "PhantomWorlds",
+  "description": "[1.7-1.19] A powerful, lightweight & reliable world manager plugin.",
+  "authors": [
+    "lokka30"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84099.jpg?1632224072",
+  "iconCid": "bafkreie4czelp3twtw2aajvuz74chir2bm6tzotvj4hzqdmduuzd73t4pi",
+  "numberOfDownloads": 2108,
+  "rating": 5,
+  "numberOfVotes": 15,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/phantomworlds.84099/history",
+  "gitUrl": "https://github.com/lokka30/PhantomWorlds",
+  "releaseDate": 1600778640000,
+  "updateDate": 1650074520000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

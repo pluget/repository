@@ -1,0 +1,25 @@
+{
+  "id": 87850,
+  "url": "https://www.spigotmc.org/resources/keycard-and-keypad-plugin.87850/",
+  "name": "Keycard and Keypad Plugin",
+  "description": "secure your server with a keycard reader of different levels",
+  "authors": [
+    "moneyghostYT"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87850.jpg?1610659565",
+  "iconCid": "bafkreiav2hy7da5ton553mhicogzg6hsaf76la7w2mp3xbqhsxyoggzesy",
+  "numberOfDownloads": 5693,
+  "rating": 4.6,
+  "numberOfVotes": 14,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/keycard-and-keypad-plugin.87850/history",
+  "releaseDate": 1610655840000,
+  "updateDate": 1644269580000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

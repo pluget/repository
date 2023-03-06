@@ -1,0 +1,21 @@
+{
+  "id": 101256,
+  "url": "https://www.spigotmc.org/resources/villagertradelock.101256/",
+  "name": "VillagerTradeLock",
+  "description": "trade",
+  "authors": [
+    "ShutItDown_"
+  ],
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/villagertradelock.101256/history",
+  "gitUrl": "https://github.com/MusabKral/VillagerTradeLock",
+  "releaseDate": 1649533560000,
+  "updateDate": 1649533560000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

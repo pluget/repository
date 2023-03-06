@@ -1,0 +1,22 @@
+{
+  "id": 100661,
+  "url": "https://www.spigotmc.org/resources/perplayerdripleaf.100661/",
+  "name": "PerPlayerDripleaf",
+  "description": "Client-side big dripleaf interactions",
+  "authors": [
+    "jaylawl"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100661.jpg?1647124522",
+  "iconCid": "bafkreiev2jtrovx4dn45lghea7pxdlt5zu3ymoajfaa4hjb3spoj6l54h4",
+  "numberOfDownloads": 28,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/perplayerdripleaf.100661/history",
+  "gitUrl": "https://github.com/jaylawl/PerPlayerDripleaf",
+  "releaseDate": 1647120780000,
+  "updateDate": 1647120780000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

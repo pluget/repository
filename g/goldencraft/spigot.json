@@ -1,0 +1,30 @@
+{
+  "id": 100531,
+  "url": "https://www.spigotmc.org/resources/goldencraft.100531/",
+  "name": "GoldenCraft",
+  "description": "Official GoldenCraft plugin",
+  "authors": [
+    "gtggames_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100531.jpg?1646604217",
+  "iconCid": "bafkreih4wix4ciple5aslcevtp4lzdthn5f6upfop6hilaijkmcyr7tcxq",
+  "numberOfDownloads": 56,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/goldencraft.100531/history",
+  "releaseDate": 1646600580000,
+  "updateDate": 1646852280000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

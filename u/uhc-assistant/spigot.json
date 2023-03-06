@@ -1,0 +1,31 @@
+{
+  "id": 99924,
+  "url": "https://www.spigotmc.org/resources/uhc-assistant.99924/",
+  "name": "UHC Assistant",
+  "description": "UHC Spigot/Bukkit plugin with team systems, custom scoreboard and more vanilla functionalities!",
+  "authors": [
+    "Legadyn"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99924.jpg?1644555250",
+  "iconCid": "bafkreid2txvxy6x3lgebdp2j4n42o7xv72m5yeg7cbdu3r5qocskjfyh5e",
+  "numberOfDownloads": 140,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/uhc-assistant.99924/history",
+  "gitUrl": "https://github.com/Legadyn/UHC-Assistant-Plugin",
+  "releaseDate": 1644551520000,
+  "updateDate": 1644551520000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

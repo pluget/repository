@@ -1,0 +1,26 @@
+{
+  "id": 100009,
+  "url": "https://www.spigotmc.org/resources/skpower-series-%E2%9C%94-motd-antibot-pingpcha-%E2%9C%94.100009/",
+  "name": "SkPower series | ✔ MOTD+, AntiBot, Pingpcha ✔",
+  "description": "Basic, functional, simple and lightweight solution to MOTD (serverlist) and bot reduction.",
+  "authors": [
+    "LogaaanCzech"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100009.jpg?1644878073",
+  "iconCid": "bafkreignwtlauanat2zlr63pezehxiykqllou72dpcqcvhrw6p22nmmh6q",
+  "numberOfDownloads": 76,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skpower-series-%E2%9C%94-motd-antibot-pingpcha-%E2%9C%94.100009/history",
+  "releaseDate": 1644874440000,
+  "updateDate": 1644928140000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

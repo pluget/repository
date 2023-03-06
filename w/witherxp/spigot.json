@@ -1,0 +1,24 @@
+{
+  "id": 67947,
+  "url": "https://www.spigotmc.org/resources/witherxp.67947/",
+  "name": "WitherXP",
+  "description": "Make mobs drop XP when killed with Wither Rose, Magma block, Lava or Cramming",
+  "authors": [
+    "klugemonkey"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/67/67947.jpg?1559492529",
+  "iconCid": "bafkreicllwzrmfhbt2ctlo6wib2cap6ft763wtwliintzdgbyfuq2gfkba",
+  "numberOfDownloads": 1558,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/witherxp.67947/history",
+  "releaseDate": 1559488860000,
+  "updateDate": 1647485400000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

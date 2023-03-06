@@ -1,0 +1,29 @@
+{
+  "id": 20171,
+  "url": "https://www.spigotmc.org/resources/duels.20171/",
+  "name": "Duels",
+  "description": "Everything you need for a duel system.",
+  "authors": [
+    "Realized"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/20/20171.jpg?1458188995",
+  "iconCid": "bafkreiebmre6rkzliylt2t5tf7idqcxfakmsjs73xt66c3ptvyzn36ygca",
+  "numberOfDownloads": 128986,
+  "rating": 4.7,
+  "numberOfVotes": 247,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/duels.20171/history",
+  "gitUrl": "https://github.com/Realizedd/Duels",
+  "releaseDate": 1458185280000,
+  "updateDate": 1647350580000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

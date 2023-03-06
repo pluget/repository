@@ -1,0 +1,22 @@
+{
+  "id": 96459,
+  "url": "https://www.spigotmc.org/resources/refractor.96459/",
+  "name": "Refractor",
+  "description": "A small lightweight utilites plugin",
+  "authors": [
+    "thebozzz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96459.jpg?1632633580",
+  "iconCid": "bafkreiadeedijrg7kfevitaqwwmyvw5lu4h5mtbjsdsrns3ittjvgs5orm",
+  "numberOfDownloads": 267,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/refractor.96459/history",
+  "gitUrl": "https://github.com/TheBozzz34/Refractor",
+  "releaseDate": 1632619560000,
+  "updateDate": 1646704320000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

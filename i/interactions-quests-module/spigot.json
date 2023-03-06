@@ -1,0 +1,32 @@
+{
+  "id": 92421,
+  "url": "https://www.spigotmc.org/resources/interactions-quests-module.92421/",
+  "name": "Interactions Quests Module",
+  "description": "Quests module for Interactions",
+  "authors": [
+    "Browsit"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92421.jpg?1621131431",
+  "iconCid": "bafkreigigyvnn3dwj4ibnsdj64m67tgygdmssvtcp6ap2iqe6r4udhpjnu",
+  "numberOfDownloads": 658,
+  "rating": 3,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/interactions-quests-module.92421/history",
+  "gitUrl": "https://github.com/Browsit/InteractionsQuestsModule",
+  "releaseDate": 1621127760000,
+  "updateDate": 1650788760000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

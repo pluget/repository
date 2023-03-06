@@ -1,0 +1,29 @@
+{
+  "id": 99497,
+  "url": "https://www.spigotmc.org/resources/killstats.99497/",
+  "name": "KillStats",
+  "description": "The new and refreshed kill stats plugin",
+  "authors": [
+    "TheKingerGamer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99497.jpg?1643063486",
+  "iconCid": "bafkreib45qbganputrwr32t7imbap4xvsgshsl7o44jnqybhto6ot2xxmu",
+  "numberOfDownloads": 297,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/killstats.99497/history",
+  "gitUrl": "https://github.com/ImFound/KillStats",
+  "releaseDate": 1643059860000,
+  "updateDate": 1643059860000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 101770,
+  "url": "https://www.spigotmc.org/resources/joinleave.101770/",
+  "name": "JoinLeave",
+  "description": "Changes the Join and Leave messages",
+  "authors": [
+    "relyt2010"
+  ],
+  "numberOfDownloads": 77,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/joinleave.101770/history",
+  "releaseDate": 1651415100000,
+  "updateDate": 1651421760000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

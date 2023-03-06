@@ -1,0 +1,26 @@
+{
+  "id": 36387,
+  "url": "https://www.spigotmc.org/resources/moar-bows.36387/",
+  "name": "Moar Bows",
+  "description": "Add 25+ unique bows to your server!",
+  "authors": [
+    "Indyuce"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/36/36387.jpg?1495736985",
+  "iconCid": "bafkreifccouqdpdq6pywmb4vf52uygyflftzkgvh6kkw3ir3kjdbwiorna",
+  "numberOfDownloads": 118768,
+  "rating": 4.7,
+  "numberOfVotes": 53,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/moar-bows.36387/history",
+  "gitUrl": "https://github.com/Indyuce/moar-bows",
+  "releaseDate": 1487184300000,
+  "updateDate": 1647633420000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

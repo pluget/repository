@@ -1,0 +1,26 @@
+{
+  "id": 98576,
+  "url": "https://www.spigotmc.org/resources/life-steal-smp-player-lives.98576/",
+  "name": "Life Steal | SMP | Player Lives",
+  "description": "Manage lives of players on your server!",
+  "authors": [
+    "Pijok"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98576.jpg?1640550340",
+  "iconCid": "bafkreibdic27pxpygwwrde5feu7f4ucex6v6hfjdvcjfx63nwisojfjjme",
+  "numberOfDownloads": 858,
+  "rating": 5,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/life-steal-smp-player-lives.98576/history",
+  "gitUrl": "https://github.com/Pijook/PlayerLives",
+  "releaseDate": 1640120820000,
+  "updateDate": 1642974840000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

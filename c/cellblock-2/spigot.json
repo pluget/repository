@@ -1,0 +1,24 @@
+{
+  "id": 100211,
+  "url": "https://www.spigotmc.org/resources/skript-cellblock-2.100211/",
+  "name": "[Skript] Cellblock 2",
+  "description": "Cellblock - a Skript based region manager",
+  "authors": [
+    "nfell2009"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100211.jpg?1645480550",
+  "iconCid": "bafkreifmc7rixwn4wtlunfwlbe6lmvwuqfhzlmb53xe3q3asy73abdwe64",
+  "numberOfDownloads": 79,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skript-cellblock-2.100211/history",
+  "releaseDate": 1645476900000,
+  "updateDate": 1645476900000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

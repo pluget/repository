@@ -1,0 +1,22 @@
+{
+  "id": 102976,
+  "url": "https://www.spigotmc.org/resources/playermention.102976/",
+  "name": "PlayerMention",
+  "description": "A plugin that allows you to mention other players in chat.",
+  "authors": [
+    "FlowScript"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102976.jpg?1656469427",
+  "iconCid": "bafkreifvc36emo6vlhgaqg75o466etfkng2n5oa4hzebe2hzd3ouapox5a",
+  "numberOfDownloads": 194,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playermention.102976/history",
+  "releaseDate": 1656465780000,
+  "updateDate": 1657223640000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

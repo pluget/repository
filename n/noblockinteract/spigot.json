@@ -1,0 +1,19 @@
+{
+  "id": 99341,
+  "url": "https://www.spigotmc.org/resources/noblockinteract.99341/",
+  "name": "NoBlockInteract",
+  "description": "Mange what permission groups can break and place blocks",
+  "authors": [
+    "Mbarrr"
+  ],
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/noblockinteract.99341/history",
+  "gitUrl": "https://github.com/MBarrr/NoBlockInteract",
+  "releaseDate": 1642602360000,
+  "updateDate": 1642602360000,
+  "versions": [
+    "1.16"
+  ]
+}

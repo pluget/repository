@@ -1,0 +1,20 @@
+{
+  "id": 101408,
+  "url": "https://www.spigotmc.org/resources/blockbreakmessage.101408/",
+  "name": "BlockBreakMessage",
+  "description": "Plugin that allows you to write a chat message when breaking blocks",
+  "authors": [
+    "Igromen"
+  ],
+  "numberOfDownloads": 17,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blockbreakmessage.101408/history",
+  "releaseDate": 1650091740000,
+  "updateDate": 1650091740000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

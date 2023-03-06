@@ -1,0 +1,21 @@
+{
+  "id": 100474,
+  "url": "https://www.spigotmc.org/resources/boatinertia.100474/",
+  "name": "BoatInertia",
+  "description": "A simple plugin to adjust the maximum speed of boats.",
+  "authors": [
+    "danvb10"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100474.jpg?1646426476",
+  "iconCid": "bafkreidrheowufla2rizwojklqpr56f5eqdg2jxvir3a72whd3sosdp6sq",
+  "numberOfDownloads": 63,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/boatinertia.100474/history",
+  "gitUrl": "https://github.com/danvanbueren/BoatInertia",
+  "releaseDate": 1646422800000,
+  "updateDate": 1646422800000,
+  "versions": [
+    "1.18"
+  ]
+}

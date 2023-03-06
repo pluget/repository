@@ -1,0 +1,21 @@
+{
+  "id": 99954,
+  "url": "https://www.spigotmc.org/resources/abandoned-midnight-core-skript.99954/",
+  "name": "(ABANDONED) Midnight Core [SKRIPT]",
+  "description": "Midnight Core is a Skript server core with punishments, scoreboard, gamemode, and more!",
+  "authors": [
+    "koqel"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99954.jpg?1644683563",
+  "iconCid": "bafkreig7duzf5hqsdh5yconxqjwjelyv2kgajyh474krmwu7vvfcgxehlu",
+  "numberOfDownloads": 131,
+  "rating": 3.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/abandoned-midnight-core-skript.99954/history",
+  "gitUrl": "https://github.com/Diplodocolus/MidnightCore/blob/main/MidnightCore.sk",
+  "releaseDate": 1644679920000,
+  "updateDate": 1646253780000,
+  "versions": [
+    "1.17"
+  ]
+}

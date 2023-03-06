@@ -1,0 +1,31 @@
+{
+  "id": 97346,
+  "url": "https://www.spigotmc.org/resources/streamx.97346/",
+  "name": "StreamX",
+  "description": "Show your stream to all the players!",
+  "authors": [
+    "kiritokirigami5"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97346.jpg?1636038350",
+  "iconCid": "bafkreig7vx5fcsoahj4sxi3ng4kcoxxojjio64djlhol64furwb43gier4",
+  "numberOfDownloads": 701,
+  "rating": 3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/streamx.97346/history",
+  "gitUrl": "https://github.com/kiritokirigami5/StreamX",
+  "releaseDate": 1635867120000,
+  "updateDate": 1649588880000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

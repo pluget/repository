@@ -1,0 +1,30 @@
+{
+  "id": 99133,
+  "url": "https://www.spigotmc.org/resources/towerdefense-autojoin.99133/",
+  "name": "TowerDefense-AutoJoin",
+  "description": "Allows you to automatically join the TowerDefense Lobby!",
+  "authors": [
+    "dev_what"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99133.jpg?1641957393",
+  "iconCid": "bafkreiebysegiblwtopetmkcarqum3hvv25psjuuus6o5iiokyti7ivek4",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/towerdefense-autojoin.99133/history",
+  "releaseDate": 1641953760000,
+  "updateDate": 1641953760000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

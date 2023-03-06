@@ -1,0 +1,25 @@
+{
+  "id": 99529,
+  "url": "https://www.spigotmc.org/resources/speedrunnergame.99529/",
+  "name": "SpeedrunnerGame",
+  "description": "An open source remake of the famous \"ManHunt\" created by the youtuber Dream.",
+  "authors": [
+    "Santres"
+  ],
+  "numberOfDownloads": 13,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/speedrunnergame.99529/history",
+  "gitUrl": "https://github.com/reszkojr/SpeedrunnerPlugin",
+  "releaseDate": 1643201460000,
+  "updateDate": 1643201460000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

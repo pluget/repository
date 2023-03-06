@@ -1,0 +1,32 @@
+{
+  "id": 98562,
+  "url": "https://www.spigotmc.org/resources/essentialsk-1-5-2-1-18-1.98562/",
+  "name": "EssentialsK [1.5.2-1.18.1]",
+  "description": "A core system for minecraft server that supports most versions (1.5.2 - 1.18.1).",
+  "authors": [
+    "GilbertoDamim"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98562.jpg?1644524294",
+  "iconCid": "bafkreihjd5m2fvza6wrdxkijvfmkg7labyj3jswq3w7edmbtdvffbzjvwq",
+  "numberOfDownloads": 739,
+  "rating": 3.8,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/essentialsk-1-5-2-1-18-1.98562/history",
+  "gitUrl": "https://github.com/GilbertoKPL/EssentialsK",
+  "releaseDate": 1640091480000,
+  "updateDate": 1644603060000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

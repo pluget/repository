@@ -1,0 +1,31 @@
+{
+  "id": 98507,
+  "url": "https://www.spigotmc.org/resources/synccommands.98507/",
+  "name": "SyncCommands",
+  "description": "MySQL Based command sync, full configurable, Spigot/Bungee",
+  "authors": [
+    "_ItsWagPvP"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98507.jpg?1639951577",
+  "iconCid": "bafkreiab4kirhp776dcdrkb25wsqdi2nl4u4catnw2zljslt3ysgp6ftne",
+  "numberOfDownloads": 144,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/synccommands.98507/history",
+  "gitUrl": "https://github.com/ItsWagPvP/SyncCommands",
+  "releaseDate": 1639947960000,
+  "updateDate": 1642195080000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

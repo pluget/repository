@@ -1,0 +1,23 @@
+{
+  "id": 92896,
+  "url": "https://www.spigotmc.org/resources/servicestatechanger-for-cloudnet-v3.92896/",
+  "name": "ServiceStateChanger for CloudNet v3",
+  "description": "Change the service state of CloudNet v3 services",
+  "authors": [
+    "jandie1505"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92896.jpg?1622486247",
+  "iconCid": "bafkreif6ncgzbul7ood7vgvnukzfo2riowudao4sttlzmyffxzn4byw6ii",
+  "numberOfDownloads": 83,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/servicestatechanger-for-cloudnet-v3.92896/history",
+  "gitUrl": "https://github.com/jandie1505/ServiceStateChanger2",
+  "releaseDate": 1622482620000,
+  "updateDate": 1646852880000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

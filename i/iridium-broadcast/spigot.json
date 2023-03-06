@@ -1,0 +1,23 @@
+{
+  "id": 101975,
+  "url": "https://www.spigotmc.org/resources/iridium-broadcast-moderate-the-ads.101975/",
+  "name": "Iridium Broadcast | Moderate the ads",
+  "description": "Ad moderation, cooldowns, price and other things...",
+  "authors": [
+    "IridiumStudio"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101975.jpg?1652431628",
+  "iconCid": "bafkreic7vef4swn7w53z6gu4zuxw7wwxhcftnyrad2lgrs763e7peevxo4",
+  "numberOfDownloads": 44,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/iridium-broadcast-moderate-the-ads.101975/history",
+  "gitUrl": "https://github.com/xflyiwnl/IridiumBroadcast",
+  "releaseDate": 1652427960000,
+  "updateDate": 1652427960000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

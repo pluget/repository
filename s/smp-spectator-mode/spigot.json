@@ -1,0 +1,22 @@
+{
+  "id": 77267,
+  "url": "https://www.spigotmc.org/resources/smp-spectator-mode-1-19-support.77267/",
+  "name": "SMP Spectator Mode - 1.19 Support",
+  "description": "Enables players to use spectator mode but not allow them to teleport, despawn mobs, and more!",
+  "authors": [
+    "ohowe12"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/77/77267.jpg?1586561134",
+  "iconCid": "bafkreieuvcx2ide2d4u6zf5oyp7ogo2cwy3r5nup2fz7x7e4im2qa5iacm",
+  "numberOfDownloads": 14768,
+  "rating": 4.9,
+  "numberOfVotes": 15,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/smp-spectator-mode-1-19-support.77267/history",
+  "gitUrl": "https://github.com/ohowe1/SpectatorModeRewrite",
+  "releaseDate": 1586557500000,
+  "updateDate": 1642026660000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

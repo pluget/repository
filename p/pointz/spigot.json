@@ -1,0 +1,31 @@
+{
+  "id": 62187,
+  "url": "https://www.spigotmc.org/resources/pointz-cms-manage-points-1-8-1-18.62187/",
+  "name": "Pointz : CMS -> manage points [1.8 - 1.18]",
+  "description": "CMS Mineweb, Only mineweb",
+  "authors": [
+    "nivcoo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/62/62187.jpg?1547848403",
+  "iconCid": "bafkreicrkbcvujhnl3meuij5r7gtdf3mv5pwdog4folpbsjwaiiced6a6q",
+  "numberOfDownloads": 1772,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pointz-cms-manage-points-1-8-1-18.62187/history",
+  "gitUrl": "https://github.com/nivcoo/Spigot-Pointz",
+  "releaseDate": 1541601060000,
+  "updateDate": 1646866620000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

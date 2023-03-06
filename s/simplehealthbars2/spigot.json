@@ -1,0 +1,21 @@
+{
+  "id": 75018,
+  "url": "https://www.spigotmc.org/resources/simplehealthbars2.75018/",
+  "name": "SimpleHealthbars2",
+  "description": "Simple, easy-to-use healthbar plugin with optional player and mob healthbars",
+  "authors": [
+    "tee_jay"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75018.jpg?1581141422",
+  "iconCid": "bafkreidkpof57dhrcikadnqszogyzd5dikbn6uizcvgnl4q3sla6h4nizu",
+  "numberOfDownloads": 3165,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplehealthbars2.75018/history",
+  "gitUrl": "https://github.com/SimpleMC/SimpleHealthbars2",
+  "releaseDate": 1581137100000,
+  "updateDate": 1647210600000,
+  "versions": [
+    "1.18"
+  ]
+}

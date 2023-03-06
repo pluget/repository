@@ -1,0 +1,23 @@
+{
+  "id": 82088,
+  "url": "https://www.spigotmc.org/resources/twings-a-simple-yet-powerful-particle-cosmetics-spigot-plugin.82088/",
+  "name": "TWINGS | a simple yet powerful particle cosmetics Spigot plugin!",
+  "description": "While its main purpose is just to give you a couple of fancy wings on your back, there's much more!",
+  "authors": [
+    "PixelStrace"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82088.jpg?1623280923",
+  "iconCid": "bafkreif66qd3233czcq6w25xcnrsyna5j4xa2tw3kpv2a7jzlltel6g3ly",
+  "numberOfDownloads": 5810,
+  "rating": 4.8,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/twings-a-simple-yet-powerful-particle-cosmetics-spigot-plugin.82088/history",
+  "gitUrl": "https://github.com/MrStrace/TWINGS",
+  "releaseDate": 1595998440000,
+  "updateDate": 1642939500000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

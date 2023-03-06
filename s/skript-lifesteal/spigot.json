@@ -1,0 +1,23 @@
+{
+  "id": 100105,
+  "url": "https://www.spigotmc.org/resources/skript-lifesteal-configurable.100105/",
+  "name": "Skript Lifesteal (Configurable)",
+  "description": "This program is a Gui based lifesteal plugin",
+  "authors": [
+    "Almondzzz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100105.jpg?1645146613",
+  "iconCid": "bafkreicknikwrpj4aualpw7f3max3vkaoacypw2ucbcsvziaedp6hh6cu4",
+  "numberOfDownloads": 497,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skript-lifesteal-configurable.100105/history",
+  "gitUrl": "https://github.com/EldariaDevelopment/Skript-LifeSteal",
+  "releaseDate": 1645142820000,
+  "updateDate": 1650425640000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

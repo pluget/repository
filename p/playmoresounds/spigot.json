@@ -1,0 +1,22 @@
+{
+  "id": 37429,
+  "url": "https://www.spigotmc.org/resources/playmoresounds-assign-sounds-to-player-events.37429/",
+  "name": "PlayMoreSounds | Assign sounds to player events",
+  "description": "Plays sounds when an event is triggered.",
+  "authors": [
+    "Epicnicity2016"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/37/37429.jpg?1504406828",
+  "iconCid": "bafkreicgdyie4u77kgpep3vntnrpgh3cvaiqdsgv4aa4d5gs3fzdvac4om",
+  "numberOfDownloads": 29942,
+  "rating": 4.8,
+  "numberOfVotes": 55,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playmoresounds-assign-sounds-to-player-events.37429/history",
+  "gitUrl": "https://github.com/Epicnicity322/PlayMoreSounds",
+  "releaseDate": 1488786840000,
+  "updateDate": 1646525160000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

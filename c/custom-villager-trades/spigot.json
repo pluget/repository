@@ -1,0 +1,21 @@
+{
+  "id": 99540,
+  "url": "https://www.spigotmc.org/resources/custom-villager-trades.99540/",
+  "name": "Custom Villager Trades",
+  "description": "Add custom trades that villagers can acquire just like Vanilla Minecraft trades",
+  "authors": [
+    "Reldeam"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99540.jpg?1643245530",
+  "iconCid": "bafkreiaosme7qby2xh5bbhxp73xuf44mf6m42ultdk7wwlijtvkk7wi4xq",
+  "numberOfDownloads": 1428,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/custom-villager-trades.99540/history",
+  "gitUrl": "https://github.com/Reldeam/CustomVillagerTrades/archive/refs/tags/v1.0-SNAPSHOT.zip",
+  "releaseDate": 1643241900000,
+  "updateDate": 1646811060000,
+  "versions": [
+    "1.18"
+  ]
+}

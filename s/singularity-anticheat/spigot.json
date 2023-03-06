@@ -1,0 +1,21 @@
+{
+  "id": 97779,
+  "url": "https://www.spigotmc.org/resources/singularity-anticheat.97779/",
+  "name": "Singularity AntiCheat",
+  "description": "Movement anticheat solution for minecraft servers.",
+  "authors": [
+    "AkosVR"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97779.jpg?1637487499",
+  "iconCid": "bafkreiafsaj2imht4q6mv4ge2isls7vs6vfs4iyz43mzd7cclfvpy4auma",
+  "numberOfDownloads": 526,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/singularity-anticheat.97779/history",
+  "releaseDate": 1637483880000,
+  "updateDate": 1645556640000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

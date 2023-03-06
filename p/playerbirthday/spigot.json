@@ -1,0 +1,30 @@
+{
+  "id": 73424,
+  "url": "https://www.spigotmc.org/resources/playerbirthday.73424/",
+  "name": "PlayerBirthday",
+  "description": "The best birthday plugin",
+  "authors": [
+    "KarmaDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/73/73424.jpg?1576363666",
+  "iconCid": "bafkreifbohp3ylomutut3ez5qk3gcdsle2ssxd4qvja4olgbjbfjpttxha",
+  "numberOfDownloads": 3997,
+  "rating": 4.3,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playerbirthday.73424/history",
+  "gitUrl": "https://github.com/KarmaConfigs/PlayerBTH",
+  "releaseDate": 1576359960000,
+  "updateDate": 1642282200000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

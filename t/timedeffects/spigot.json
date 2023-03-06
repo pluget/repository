@@ -1,0 +1,24 @@
+{
+  "id": 101346,
+  "url": "https://www.spigotmc.org/resources/timedeffects.101346/",
+  "name": "TimedEffects",
+  "description": "Gives random effects every minute.",
+  "authors": [
+    "LeVraiGabin"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101346.jpg?1649855475",
+  "iconCid": "bafkreigz7vuucjuu7vznrn4nxuv6xcynwn4xwrs3j4u43jtgcpqcsyt56q",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/timedeffects.101346/history",
+  "releaseDate": 1649851860000,
+  "updateDate": 1649851860000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 101345,
+  "url": "https://www.spigotmc.org/resources/basics.101345/",
+  "name": "Basics",
+  "description": "a Simple LightWeight Minecraft Plugin just for the Basics",
+  "authors": [
+    "TominoLP"
+  ],
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/basics.101345/history",
+  "gitUrl": "https://github.com/TominoLP/Basics",
+  "releaseDate": 1649844960000,
+  "updateDate": 1649844960000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

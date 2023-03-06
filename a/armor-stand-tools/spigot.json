@@ -1,0 +1,31 @@
+{
+  "id": 2237,
+  "url": "https://www.spigotmc.org/resources/armor-stand-tools.2237/",
+  "name": "Armor Stand Tools",
+  "description": "A full suite of armor stand manipulation tools",
+  "authors": [
+    "St3venAU"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/2/2237.jpg?1417964103",
+  "iconCid": "bafkreibu24wtyxtzraku76rc5nutciucywkhxpezopxpoapzpvgno7xpmq",
+  "numberOfDownloads": 219863,
+  "rating": 4.5,
+  "numberOfVotes": 152,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/armor-stand-tools.2237/history",
+  "releaseDate": 1417960440000,
+  "updateDate": 1642316340000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

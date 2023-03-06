@@ -1,0 +1,25 @@
+{
+  "id": 100067,
+  "url": "https://www.spigotmc.org/resources/swingthroughgrass.100067/",
+  "name": "SwingThroughGrass",
+  "description": "Allows hitting mobs in tall grass",
+  "authors": [
+    "ascpixel"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100067.jpg?1645045786",
+  "iconCid": "bafkreifxgfddqmm73osdjnw5mcvp3g7djuysmtins4ougleepmrjf35la4",
+  "numberOfDownloads": 297,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/swingthroughgrass.100067/history",
+  "gitUrl": "https://github.com/ascpixi/swingthroughgrass",
+  "releaseDate": 1645042140000,
+  "updateDate": 1645198680000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

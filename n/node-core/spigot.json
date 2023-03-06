@@ -1,0 +1,20 @@
+{
+  "id": 100202,
+  "url": "https://www.spigotmc.org/resources/node-core.100202/",
+  "name": "Node Core",
+  "description": "Custom Skripted Minecraft core!",
+  "authors": [
+    "gamernic07"
+  ],
+  "numberOfDownloads": 165,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/node-core.100202/history",
+  "releaseDate": 1645458480000,
+  "updateDate": 1650157740000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

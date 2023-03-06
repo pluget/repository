@@ -1,0 +1,19 @@
+{
+  "id": 100732,
+  "url": "https://www.spigotmc.org/resources/rebug-permanent-potion-breeding.100732/",
+  "name": "Rebug: Permanent Potion Breeding",
+  "description": "Causes MCPE-81890 (Horse breeding speed potion bug) on Java servers",
+  "authors": [
+    "Moterius"
+  ],
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rebug-permanent-potion-breeding.100732/history",
+  "gitUrl": "https://github.com/Moterius/return_speed_potion_horse_breeding",
+  "releaseDate": 1647364800000,
+  "updateDate": 1647364800000,
+  "versions": [
+    "1.18"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 102196,
+  "url": "https://www.spigotmc.org/resources/itemban.102196/",
+  "name": "ItemBan",
+  "description": "Simple lightweight plugin allowing you to ban the crafting, placing, breaking and pickup of items",
+  "authors": [
+    "fergydanny"
+  ],
+  "numberOfDownloads": 79,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/itemban.102196/history",
+  "gitUrl": "https://github.com/itsfergydanny/ItemBan",
+  "releaseDate": 1653361020000,
+  "updateDate": 1653361020000,
+  "versions": [
+    "1.18"
+  ]
+}

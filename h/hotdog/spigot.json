@@ -1,0 +1,24 @@
+{
+  "id": 99174,
+  "url": "https://www.spigotmc.org/resources/hotdog-experimental.99174/",
+  "name": "HotDog [EXPERIMENTAL]",
+  "description": "Easy to use, good AntiCheat!",
+  "authors": [
+    "ESMCScriptTeam"
+  ],
+  "numberOfDownloads": 53,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hotdog-experimental.99174/history",
+  "gitUrl": "https://github.com/ESMCCommunity/Scripts/blob/main/Scripts/hotdog.sk",
+  "releaseDate": 1642098420000,
+  "updateDate": 1642099200000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14"
+  ]
+}

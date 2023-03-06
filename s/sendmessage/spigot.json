@@ -1,0 +1,29 @@
+{
+  "id": 20861,
+  "url": "https://www.spigotmc.org/resources/sendmessage.20861/",
+  "name": "SendMessage",
+  "description": "Send messages to your players with no trace of the sender",
+  "authors": [
+    "Datatags"
+  ],
+  "numberOfDownloads": 612,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sendmessage.20861/history",
+  "gitUrl": "https://github.com/datatags/SendMessage",
+  "releaseDate": 1459204380000,
+  "updateDate": 1650756540000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 57385,
+  "url": "https://www.spigotmc.org/resources/minetopiafarms.57385/",
+  "name": "MinetopiaFarms",
+  "description": "Een plugin met houthakkers, mijnen en farmen.",
+  "authors": [
+    "MrWouter"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/57/57385.jpg?1527950873",
+  "iconCid": "bafkreihvush55rjf3knv6n4pdwxulx7b3hginsg2zleqd3vfnj3yf75j3a",
+  "numberOfDownloads": 5555,
+  "rating": 4.4,
+  "numberOfVotes": 31,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minetopiafarms.57385/history",
+  "gitUrl": "https://github.com/MrWouterNL/MinetopiaFarms/",
+  "releaseDate": 1527947220000,
+  "updateDate": 1648562820000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

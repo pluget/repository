@@ -1,0 +1,26 @@
+{
+  "id": 100151,
+  "url": "https://www.spigotmc.org/resources/iogrindatron.100151/",
+  "name": "IOGrindatron",
+  "description": "Find the item, return the item, every four hours. Enjoy the grind!",
+  "authors": [
+    "Doctacosa"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100151.jpg?1645290149",
+  "iconCid": "bafkreiesl44d7lcuadblsaondwzdvyhrgbkp6j4eh6r4qqyqnxirfztwmm",
+  "numberOfDownloads": 41,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/iogrindatron.100151/history",
+  "gitUrl": "https://github.com/Doctacosa/IOGrindatron",
+  "releaseDate": 1645286520000,
+  "updateDate": 1646178060000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

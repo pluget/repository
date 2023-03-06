@@ -1,0 +1,21 @@
+{
+  "id": 99983,
+  "url": "https://www.spigotmc.org/resources/ipinfo.99983/",
+  "name": "IPInfo",
+  "description": "Simple tool to get anyone's IP-address and see DETAILED infos!",
+  "authors": [
+    "Jupiter79"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99983.jpg?1644794587",
+  "iconCid": "bafkreiagcoviarbaxleobrpmpp6xebkwdxzewmbjof4ndgy426ztwvebne",
+  "numberOfDownloads": 46,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ipinfo.99983/history",
+  "gitUrl": "https://github.com/Jupiter79/IPInfo",
+  "releaseDate": 1644790920000,
+  "updateDate": 1644790920000,
+  "versions": [
+    "1.18"
+  ]
+}

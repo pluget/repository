@@ -1,0 +1,31 @@
+{
+  "id": 31544,
+  "url": "https://www.spigotmc.org/resources/inventoryfull.31544/",
+  "name": "InventoryFull+",
+  "description": "Notify players when their inventory is full",
+  "authors": [
+    "ItsLewizzz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/31/31544.jpg?1567174285",
+  "iconCid": "bafkreic52cmehrh363mas5nienb5iqmziyalscinm7lebqikhzvs5gm2tq",
+  "numberOfDownloads": 23344,
+  "rating": 4.9,
+  "numberOfVotes": 23,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/inventoryfull.31544/history",
+  "gitUrl": "https://github.com/ItsLewizzz/InventoryFullPlus",
+  "releaseDate": 1478716140000,
+  "updateDate": 1645014180000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

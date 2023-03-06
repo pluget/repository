@@ -1,0 +1,21 @@
+{
+  "id": 100242,
+  "url": "https://www.spigotmc.org/resources/killcounter.100242/",
+  "name": "KillCounter",
+  "description": "Count kills with database and PlaceHolderAPI support",
+  "authors": [
+    "HappierGore"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100242.jpg?1645590149",
+  "iconCid": "bafkreiaj7253f72yxdjocbglul2l66mc4vmiimujowt72nuqolfop2w6oa",
+  "numberOfDownloads": 88,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/killcounter.100242/history",
+  "gitUrl": "https://github.com/HappierGore/KillCounter",
+  "releaseDate": 1645586520000,
+  "updateDate": 1645747200000,
+  "versions": [
+    "1.18"
+  ]
+}

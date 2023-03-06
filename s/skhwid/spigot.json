@@ -1,0 +1,24 @@
+{
+  "id": 80137,
+  "url": "https://www.spigotmc.org/resources/skhwid.80137/",
+  "name": "skHWID",
+  "description": "Convert UTF-8 String to Hex.",
+  "authors": [
+    "p_X1_a"
+  ],
+  "numberOfDownloads": 328,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skhwid.80137/history",
+  "gitUrl": "https://github.com/nuko6925/skHWID",
+  "releaseDate": 1592062440000,
+  "updateDate": 1651312200000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.14"
+  ]
+}

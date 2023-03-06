@@ -1,0 +1,25 @@
+{
+  "id": 100932,
+  "url": "https://www.spigotmc.org/resources/bottledexpgui.100932/",
+  "name": "BottledExpGUI",
+  "description": "A GUI-Plugin that allows you to fill your XP into a bottle-container",
+  "authors": [
+    "xNoNAmeHDx"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100932.jpg?1648141884",
+  "iconCid": "bafkreief4w7aj24ozhkiuwfgpfx5yxpm5bypkho7xkvgbelqiky7bnaz5y",
+  "numberOfDownloads": 59,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bottledexpgui.100932/history",
+  "gitUrl": "https://github.com/NoNameHDx/BottledExpGUI",
+  "releaseDate": 1648138260000,
+  "updateDate": 1648138260000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

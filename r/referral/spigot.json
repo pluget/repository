@@ -1,0 +1,32 @@
+{
+  "id": 72219,
+  "url": "https://www.spigotmc.org/resources/referral-1-7-1-18.72219/",
+  "name": "Referral [1.7-1.18]",
+  "description": "Refer a friend for custom rewards",
+  "authors": [
+    "Teenaapje"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/72/72219.jpg?1588940142",
+  "iconCid": "bafkreidbjoztuc7j46nbwxdlphowzmj4pxd3nis2d26czix2gxun3g4ury",
+  "numberOfDownloads": 4485,
+  "rating": 4.7,
+  "numberOfVotes": 15,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/referral-1-7-1-18.72219/history",
+  "gitUrl": "https://github.com/jordyvandijken/Referral",
+  "releaseDate": 1571838000000,
+  "updateDate": 1651859520000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

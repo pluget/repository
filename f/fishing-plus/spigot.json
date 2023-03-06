@@ -1,0 +1,21 @@
+{
+  "id": 101487,
+  "url": "https://www.spigotmc.org/resources/fishing-plus.101487/",
+  "name": "Fishing Plus",
+  "description": "Updated fishing system",
+  "authors": [
+    "Igromen"
+  ],
+  "numberOfDownloads": 71,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fishing-plus.101487/history",
+  "gitUrl": "https://github.com/KelsiF/FishingPlus",
+  "releaseDate": 1650366780000,
+  "updateDate": 1650382920000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

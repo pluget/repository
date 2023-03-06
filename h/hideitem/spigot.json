@@ -1,0 +1,25 @@
+{
+  "id": 98149,
+  "url": "https://www.spigotmc.org/resources/hideitem-1-14-1-18.98149/",
+  "name": "HideItem [1.14 - 1.18]",
+  "description": "Adds an item to hide and show other players",
+  "authors": [
+    "sehrschlechtYT"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98149.jpg?1638735065",
+  "iconCid": "bafkreig63smta3tao3ebunfxtcyl2j44pphxb23lliqflzre7ncd4vm244",
+  "numberOfDownloads": 230,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hideitem-1-14-1-18.98149/history",
+  "gitUrl": "https://github.com/sehrschlechtYT/HideItem",
+  "releaseDate": 1638731400000,
+  "updateDate": 1642193820000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

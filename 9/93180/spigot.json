@@ -1,0 +1,23 @@
+{
+  "id": 93180,
+  "url": "https://www.spigotmc.org/resources/project-moved-bungee-command-blocker.93180/",
+  "name": "[Project Moved] Bungee Command Blocker",
+  "description": "Completely blocks commands matching regex & permissions",
+  "authors": [
+    "Tau"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93180.jpg?1623376659",
+  "iconCid": "bafkreihkspibxafvqhfnfm56wv4ejxhn7ldtwfhwf56ctjom63n6vm7bp4",
+  "numberOfDownloads": 1035,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/project-moved-bungee-command-blocker.93180/history",
+  "gitUrl": "https://gitlab.com/TauCu/bungee-command-blocker",
+  "releaseDate": 1623373020000,
+  "updateDate": 1642453500000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

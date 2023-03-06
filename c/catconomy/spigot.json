@@ -1,0 +1,26 @@
+{
+  "id": 97210,
+  "url": "https://www.spigotmc.org/resources/catconomy.97210/",
+  "name": "CatConomy",
+  "description": "a simple modular economy plugin with a transaction logger and database addon support",
+  "authors": [
+    "NikoTheNya"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97210.jpg?1635454438",
+  "iconCid": "bafkreidkmihyoe7d2uowxh3caw2ebf56nrpodgjflz2mp7tpvcpp4cyhtq",
+  "numberOfDownloads": 326,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/catconomy.97210/history",
+  "gitUrl": "https://github.com/NinekoTheCat/Catconomy",
+  "releaseDate": 1635450780000,
+  "updateDate": 1642008180000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

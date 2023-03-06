@@ -1,0 +1,32 @@
+{
+  "id": 98271,
+  "url": "https://www.spigotmc.org/resources/liteinvitation-1-7-1-18-invitationsystem-mysql-papi-anti-alt-accounts.98271/",
+  "name": "LiteInvitation [1.7-1.18] InvitationSystem| MySQL|PAPI|Anti alt accounts",
+  "description": "Let your players invite others to your server!",
+  "authors": [
+    "MC_Durham"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98271.jpg?1639192250",
+  "iconCid": "bafkreie2nfafen52cyq2thueyv2bqwyzsdkdzwv4eziohdeeocryfnzwzu",
+  "numberOfDownloads": 412,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/liteinvitation-1-7-1-18-invitationsystem-mysql-papi-anti-alt-accounts.98271/history",
+  "gitUrl": "https://github.com/AllDurham/LiteInvitation",
+  "releaseDate": 1639188600000,
+  "updateDate": 1641816840000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

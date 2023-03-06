@@ -1,0 +1,21 @@
+{
+  "id": 101662,
+  "url": "https://www.spigotmc.org/resources/messagesender.101662/",
+  "name": "MessageSender",
+  "description": "Simple message/title/actionbar sender. Supports PlaceholderAPI!",
+  "authors": [
+    "p1xEL_mc"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101662.jpg?1650965529",
+  "iconCid": "bafkreifx2jlcjyr6bip77jdaxbf3elfjeeaufqao2mffej7j5rg57hf3yq",
+  "numberOfDownloads": 77,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/messagesender.101662/history",
+  "gitUrl": "https://github.com/Ez4p1xEL/MessageSender",
+  "releaseDate": 1650961860000,
+  "updateDate": 1651300860000,
+  "versions": [
+    "1.18"
+  ]
+}

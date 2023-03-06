@@ -1,0 +1,23 @@
+{
+  "id": 78669,
+  "url": "https://www.spigotmc.org/resources/quickshop-addon-shopitemonly.78669/",
+  "name": "[QuickShop Addon] ShopItemOnly",
+  "description": "Block player put items that not shop trading into shop container.",
+  "authors": [
+    "sandtechnology"
+  ],
+  "numberOfDownloads": 534,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/quickshop-addon-shopitemonly.78669/history",
+  "gitUrl": "https://github.com/PotatoCraft-Studio/QuickShopAddon-ShopItemOnly/",
+  "releaseDate": 1589174040000,
+  "updateDate": 1644330120000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

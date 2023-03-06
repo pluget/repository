@@ -1,0 +1,32 @@
+{
+  "id": 51220,
+  "url": "https://www.spigotmc.org/resources/playerbalanceraddon.51220/",
+  "name": "PlayerBalancerAddon",
+  "description": "An addon for interacting with the plugin PlayerBalancer from the server side",
+  "authors": [
+    "BGHDDevelopment"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/51/51220.jpg?1514289686",
+  "iconCid": "bafkreihgs7hf7n7gncg6srijrpzpx6wathc76v2cujqvdu4a7yrjysmpv4",
+  "numberOfDownloads": 899,
+  "rating": 4.6,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playerbalanceraddon.51220/history",
+  "gitUrl": "https://github.com/BGHDDevelopment/PlayerBalancer",
+  "releaseDate": 1514285760000,
+  "updateDate": 1649605500000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

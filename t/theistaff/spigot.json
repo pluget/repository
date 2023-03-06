@@ -1,0 +1,29 @@
+{
+  "id": 85012,
+  "url": "https://www.spigotmc.org/resources/theistaff.85012/",
+  "name": "TheIStaff",
+  "description": "Admin, Staff, Warn, Chat",
+  "authors": [
+    "TheIgoro"
+  ],
+  "numberOfDownloads": 42,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/theistaff.85012/history",
+  "gitUrl": "https://github.com/IgorVinoski/TheIStaff",
+  "releaseDate": 1603218960000,
+  "updateDate": 1642194120000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

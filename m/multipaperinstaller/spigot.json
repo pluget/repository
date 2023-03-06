@@ -1,0 +1,23 @@
+{
+  "id": 99669,
+  "url": "https://www.spigotmc.org/resources/multipaperinstaller.99669/",
+  "name": "MultiPaperInstaller",
+  "description": "Just shows you Discord and Github for now",
+  "authors": [
+    "D1p4k"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99669.jpg?1643682075",
+  "iconCid": "bafkreiaf57vkohn7ti3ti2s6ogyekjppnl7fjsnqo2sfhpkhs3u7suuqmu",
+  "numberOfDownloads": 53,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/multipaperinstaller.99669/history",
+  "releaseDate": 1643678460000,
+  "updateDate": 1643681940000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

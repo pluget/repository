@@ -1,0 +1,28 @@
+{
+  "id": 96070,
+  "url": "https://www.spigotmc.org/resources/midens-bounties-simple-bounty-system.96070/",
+  "name": "Miden's Bounties || Simple Bounty System!",
+  "description": "A simple and easy to use Bounty plugin that is up-to-date!",
+  "authors": [
+    "champion12800"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96070.jpg?1631155944",
+  "iconCid": "bafkreiaxeegnrzwxs6hfuccbdt4na55vgzvrcbwy7mq4nclqajiglcd74m",
+  "numberOfDownloads": 231,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/midens-bounties-simple-bounty-system.96070/history",
+  "gitUrl": "https://github.com/MidenTheDev/MidensBounties",
+  "releaseDate": 1631152320000,
+  "updateDate": 1649516940000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

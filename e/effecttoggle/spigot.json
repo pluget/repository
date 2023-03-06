@@ -1,0 +1,21 @@
+{
+  "id": 101257,
+  "url": "https://www.spigotmc.org/resources/effecttoggle.101257/",
+  "name": "EffectToggle",
+  "description": "Toggle individual potion effects with a command",
+  "authors": [
+    "GaOrGame"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101257.jpg?1649541313",
+  "iconCid": "bafkreigcxaqlf2zgjjz4e6yfiokqc6fcfskemh22qi7rlmbm5cuucyrxku",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/effecttoggle.101257/history",
+  "releaseDate": 1649537160000,
+  "updateDate": 1649537160000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

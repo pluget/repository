@@ -1,0 +1,29 @@
+{
+  "id": 101018,
+  "url": "https://www.spigotmc.org/resources/monster.101018/",
+  "name": "monster",
+  "description": "A simple plug-in for customizing and enhancing the original monsters",
+  "authors": [
+    "xiongliu"
+  ],
+  "numberOfDownloads": 911,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/monster.101018/history",
+  "gitUrl": "https://gitee.com/server-ct/monster",
+  "releaseDate": 1648456620000,
+  "updateDate": 1648459020000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

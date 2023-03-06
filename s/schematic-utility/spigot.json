@@ -1,0 +1,23 @@
+{
+  "id": 98658,
+  "url": "https://www.spigotmc.org/resources/schematic-utility.98658/",
+  "name": "Schematic Utility",
+  "description": "WorldEdit schematic manager",
+  "authors": [
+    "rctfan1999"
+  ],
+  "numberOfDownloads": 217,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/schematic-utility.98658/history",
+  "gitUrl": "https://github.com/ImagineeringParks/schematic-utility",
+  "releaseDate": 1640388180000,
+  "updateDate": 1643393580000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

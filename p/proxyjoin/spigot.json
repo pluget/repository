@@ -1,0 +1,22 @@
+{
+  "id": 100240,
+  "url": "https://www.spigotmc.org/resources/proxyjoin.100240/",
+  "name": "ProxyJoin",
+  "description": "Proxy Security",
+  "authors": [
+    "Partymann2000"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100240.jpg?1645575315",
+  "iconCid": "bafkreidlnu4il46schcdwq2rkqeetiw3iaas6zionn4vor7zz3b3gqzd64",
+  "numberOfDownloads": 25,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/proxyjoin.100240/history",
+  "releaseDate": 1645571640000,
+  "updateDate": 1645571640000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

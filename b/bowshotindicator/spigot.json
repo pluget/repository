@@ -1,0 +1,24 @@
+{
+  "id": 101750,
+  "url": "https://www.spigotmc.org/resources/bowshotindicator.101750/",
+  "name": "BowshotIndicator",
+  "description": "Plugin that notifies you whenever you hit another player with a bow! 1.13+",
+  "authors": [
+    "Highpurity"
+  ],
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bowshotindicator.101750/history",
+  "gitUrl": "https://github.com/Highpurity/Bowindicator/tree/master",
+  "releaseDate": 1651337220000,
+  "updateDate": 1651337220000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

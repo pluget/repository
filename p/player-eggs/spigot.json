@@ -1,0 +1,24 @@
+{
+  "id": 98720,
+  "url": "https://www.spigotmc.org/resources/player-eggs-beta.98720/",
+  "name": "Player Eggs [BETA]",
+  "description": "Spawn players from eggs",
+  "authors": [
+    "danelegend"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98720.jpg?1640608398",
+  "iconCid": "bafkreic3xwxeq6wnsrzj2piwi4wqzuvjrcbd72jw3eqe2qhikbg2gfrxfm",
+  "numberOfDownloads": 89,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/player-eggs-beta.98720/history",
+  "gitUrl": "https://github.com/Danelegend/PlayerEggs",
+  "releaseDate": 1640604780000,
+  "updateDate": 1641384960000,
+  "versions": [
+    "1.12",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

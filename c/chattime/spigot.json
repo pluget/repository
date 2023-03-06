@@ -1,0 +1,22 @@
+{
+  "id": 100824,
+  "url": "https://www.spigotmc.org/resources/chattime.100824/",
+  "name": "ChatTime",
+  "description": "Displays sent time in chat messages",
+  "authors": [
+    "wmp71"
+  ],
+  "numberOfDownloads": 34,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chattime.100824/history",
+  "gitUrl": "https://github.com/wmp71/spigot-plugin-chattime",
+  "releaseDate": 1647721140000,
+  "updateDate": 1647721140000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.18",
+    "1.19"
+  ]
+}

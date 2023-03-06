@@ -1,0 +1,22 @@
+{
+  "id": 101604,
+  "url": "https://www.spigotmc.org/resources/discordsrv-linkchannel.101604/",
+  "name": "DiscordSRV LinkChannel",
+  "description": "A DiscordSRV addon allowing linking via a Discord channel.",
+  "authors": [
+    "GeleVla"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101604.jpg?1650745916",
+  "iconCid": "bafkreihzupe5nwfpjddqbth7lcwwndr34l564vo762wozndattqzawdyfy",
+  "numberOfDownloads": 283,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discordsrv-linkchannel.101604/history",
+  "gitUrl": "https://github.com/GeleVla/DiscordSRV-LinkChannel",
+  "releaseDate": 1650742260000,
+  "updateDate": 1650784500000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

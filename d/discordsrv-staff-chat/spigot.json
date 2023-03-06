@@ -1,0 +1,26 @@
+{
+  "id": 44245,
+  "url": "https://www.spigotmc.org/resources/discordsrv-staff-chat.44245/",
+  "name": "DiscordSRV Staff Chat",
+  "description": "DiscordSRV addon that connects in-game staff chat to a discord channel.",
+  "authors": [
+    "Rezz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/44/44245.jpg?1500612745",
+  "iconCid": "bafkreidsgborp5shg55nxbq56pwaaxeniuvk3fbxi3e3yrb3nvxatamtfi",
+  "numberOfDownloads": 19209,
+  "rating": 4.9,
+  "numberOfVotes": 23,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discordsrv-staff-chat.44245/history",
+  "gitUrl": "https://github.com/DiscordSRV/Staff-Chat/",
+  "releaseDate": 1500609120000,
+  "updateDate": 1647230220000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

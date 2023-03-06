@@ -1,0 +1,24 @@
+{
+  "id": 83347,
+  "url": "https://www.spigotmc.org/resources/bell-tower.83347/",
+  "name": "Bell Tower",
+  "description": "Provides real time clock tolls each hour",
+  "authors": [
+    "Ameldx"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83347.jpg?1598813082",
+  "iconCid": "bafkreicbw4xdq36fpjzwi2xsue3bqy37vjuzy2sz4wkqagjr2yq5bcwsni",
+  "numberOfDownloads": 666,
+  "rating": 5,
+  "numberOfVotes": 8,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bell-tower.83347/history",
+  "releaseDate": 1598809200000,
+  "updateDate": 1643155740000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

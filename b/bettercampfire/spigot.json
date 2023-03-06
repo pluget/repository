@@ -1,0 +1,21 @@
+{
+  "id": 108380,
+  "url": "https://www.spigotmc.org/resources/bettercampfire.108380/",
+  "name": "BetterCampfire",
+  "description": "BetterCampfire is a Minecraft Spigot/Paper plugin that enhances the vanilla campfire functionality",
+  "authors": [
+    "pixel4r"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108380.jpg?1677994142",
+  "iconCid": "bafkreia4yvwehre7dgfmliqpf64occtkzy3rsazx6wgwlequyybwpk2dfe",
+  "numberOfDownloads": 21,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bettercampfire.108380/history",
+  "gitUrl": "https://github.com/pixel4r/BetterCampfire",
+  "releaseDate": 1678002840000,
+  "updateDate": 1678002840000,
+  "versions": [
+    "1.19"
+  ]
+}

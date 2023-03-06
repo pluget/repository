@@ -1,0 +1,31 @@
+{
+  "id": 69233,
+  "url": "https://www.spigotmc.org/resources/xpbottles-convert-exp-into-bottles.69233/",
+  "name": "XpBottles - Convert exp into bottles!",
+  "description": "Advanced exp bottle plugin!",
+  "authors": [
+    "CodedRed"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/69/69233.jpg?1573103461",
+  "iconCid": "bafkreidpdotasg2rkcmyezwe6v7nr35jkjshlttid4tudfsgp7wicwss4y",
+  "numberOfDownloads": 10387,
+  "rating": 4.4,
+  "numberOfVotes": 25,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/xpbottles-convert-exp-into-bottles.69233/history",
+  "gitUrl": "https://github.com/CodedRed-Spigot/XpBottles",
+  "releaseDate": 1562878500000,
+  "updateDate": 1649202300000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

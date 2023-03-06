@@ -1,0 +1,21 @@
+{
+  "id": 99794,
+  "url": "https://www.spigotmc.org/resources/bpchat.99794/",
+  "name": "bPChat",
+  "description": "A simple chat plugin.",
+  "authors": [
+    "rbstsoul"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99794.jpg?1644084894",
+  "iconCid": "bafkreibgct453ql77k2xp4eetgme5ovnf57h2a5hinqu4pfwccx5pymw4i",
+  "numberOfDownloads": 51,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bpchat.99794/history",
+  "gitUrl": "https://github.com/rbstsoul/bPChat",
+  "releaseDate": 1644080640000,
+  "updateDate": 1644138060000,
+  "versions": [
+    "1.18"
+  ]
+}

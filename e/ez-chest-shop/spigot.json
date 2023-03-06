@@ -1,0 +1,26 @@
+{
+  "id": 90411,
+  "url": "https://www.spigotmc.org/resources/ez-chest-shop-ecs-1-14-x-1-19-x.90411/",
+  "name": "Ez Chest Shop [ECS] [1.14.x - 1.19.x]",
+  "description": "Probably the best and the easiest [Player] chest shop plugin in the entire Minecraft history",
+  "authors": [
+    "Dead_Light"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90411.jpg?1661972646",
+  "iconCid": "bafkreigqd3zujmrkwjgkxbsyzhpthgkbh3lykeib2tnfaflvrcuhbu7zvu",
+  "numberOfDownloads": 6575,
+  "rating": 5,
+  "numberOfVotes": 22,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ez-chest-shop-ecs-1-14-x-1-19-x.90411/history",
+  "gitUrl": "https://github.com/ItzAmirreza/EzChestShop",
+  "releaseDate": 1678007820000,
+  "updateDate": 1678007820000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

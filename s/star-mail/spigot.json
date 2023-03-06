@@ -1,0 +1,31 @@
+{
+  "id": 73406,
+  "url": "https://www.spigotmc.org/resources/star-mail.73406/",
+  "name": "Star Mail",
+  "description": "the honorable and dependable letter carrier",
+  "authors": [
+    "sword7"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/73/73406.jpg?1576302511",
+  "iconCid": "bafkreiermwjqdv7ikunltatepovfgrb3qsdihn5fwuxanuy33xxseaipz4",
+  "numberOfDownloads": 3876,
+  "rating": 4.5,
+  "numberOfVotes": 32,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/star-mail.73406/history",
+  "gitUrl": "https://gitlab.com/sword7/starmail",
+  "releaseDate": 1576298880000,
+  "updateDate": 1641568560000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

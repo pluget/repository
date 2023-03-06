@@ -1,0 +1,31 @@
+{
+  "id": 100318,
+  "url": "https://www.spigotmc.org/resources/timaspec.100318/",
+  "name": "TimaSpec",
+  "description": "Plugin for spectating players",
+  "authors": [
+    "timurroot"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100318.jpg?1645903243",
+  "iconCid": "bafkreievey7cl3esgp2qgivmdktkyrcv24g4uy5bxbxdozttop26a2pcym",
+  "numberOfDownloads": 53,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/timaspec.100318/history",
+  "releaseDate": 1645899600000,
+  "updateDate": 1645899600000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 100299,
+  "url": "https://www.spigotmc.org/resources/utilities.100299/",
+  "name": "Utilities",
+  "description": "Free Spigot server plugin",
+  "authors": [
+    "Mtn16"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100299.jpg?1645826866",
+  "iconCid": "bafkreib7xvs7bw5pikj7emyesfxjthzvoyhpl2xiuw2atue5ki5aj4ud3y",
+  "numberOfDownloads": 159,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/utilities.100299/history",
+  "releaseDate": 1645823100000,
+  "updateDate": 1646332800000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

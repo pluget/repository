@@ -1,0 +1,19 @@
+{
+  "id": 99181,
+  "url": "https://www.spigotmc.org/resources/cursed-item.99181/",
+  "name": "Cursed Item",
+  "description": "Provides an enchanted item that cannot be disposed of unless passed to another user",
+  "authors": [
+    "adri205"
+  ],
+  "numberOfDownloads": 99,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cursed-item.99181/history",
+  "gitUrl": "https://github.com/adri4555/spigot-plugin-CursedItem.git",
+  "releaseDate": 1642112040000,
+  "updateDate": 1642112040000,
+  "versions": [
+    "1.18"
+  ]
+}

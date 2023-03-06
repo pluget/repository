@@ -1,0 +1,25 @@
+{
+  "id": 91658,
+  "url": "https://www.spigotmc.org/resources/diemessage-custom-death-message.91658/",
+  "name": "Diemessage | Custom death message!",
+  "description": "Custom death message!Make death message more interesting!",
+  "authors": [
+    "Zao_chen"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91658.jpg?1619231049",
+  "iconCid": "bafkreidmhsecb4ghbdfs7zr43icko33fz7c4kxqmnqrcrvyyl5emalqmya",
+  "numberOfDownloads": 953,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/diemessage-custom-death-message.91658/history",
+  "gitUrl": "https://github.com/Zao-chen/Diemessage",
+  "releaseDate": 1619227380000,
+  "updateDate": 1647847680000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

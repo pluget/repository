@@ -1,0 +1,23 @@
+{
+  "id": 98559,
+  "url": "https://www.spigotmc.org/resources/fiefs-early-access.98559/",
+  "name": "Fiefs (Early Access)",
+  "description": "An expansion for Medieval Factions that allows faction members to create fiefs.",
+  "authors": [
+    "DanTheTechMan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98559.jpg?1640087968",
+  "iconCid": "bafkreicfk2cdc5nlky4gpmqewmuc5orxkfluoskklkhj5prmp3hjlhniva",
+  "numberOfDownloads": 262,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fiefs-early-access.98559/history",
+  "gitUrl": "https://github.com/dmccoystephenson/Fiefs",
+  "releaseDate": 1640084040000,
+  "updateDate": 1646192940000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

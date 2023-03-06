@@ -1,0 +1,27 @@
+{
+  "id": 64696,
+  "url": "https://www.spigotmc.org/resources/powerranks.64696/",
+  "name": "PowerRanks",
+  "description": "A rank based permissions plugin for Minecraft servers",
+  "authors": [
+    "svenar"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/64/64696.jpg?1623160516",
+  "iconCid": "bafkreiaxd62illruc73stflzryesgfiskdcvferhq6j2bmasefglwfycuy",
+  "numberOfDownloads": 577270,
+  "rating": 4.2,
+  "numberOfVotes": 59,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/powerranks.64696/history",
+  "gitUrl": "https://github.com/svenar-nl/PowerRanks",
+  "releaseDate": 1549665600000,
+  "updateDate": 1648042500000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 97603,
+  "url": "https://www.spigotmc.org/resources/lcraft-apis.97603/",
+  "name": "Lcraft APIs",
+  "description": "lcraft-apis",
+  "authors": [
+    "LPDMinecraft"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97603.jpg?1636834872",
+  "iconCid": "bafkreicqykdlzu2dfiesxg3axhvmexqjbnctpq2m7fq4b6ui67sbk6ik7e",
+  "numberOfDownloads": 141,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lcraft-apis.97603/history",
+  "gitUrl": "https://github.com/Lcraft-Developers/Lcraft-APIs/",
+  "releaseDate": 1636831200000,
+  "updateDate": 1646414640000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

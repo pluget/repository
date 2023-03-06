@@ -1,0 +1,29 @@
+{
+  "id": 98738,
+  "url": "https://www.spigotmc.org/resources/lsrvbungeevkpost.98738/",
+  "name": "LSRVBungeeVKPost",
+  "description": "Плагин на уведомление о новом посте в группе в ВК для BungeeCord",
+  "authors": [
+    "Lymon_Mine"
+  ],
+  "numberOfDownloads": 79,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lsrvbungeevkpost.98738/history",
+  "gitUrl": "https://github.com/LymonMine/LSRVBungeeVKPost",
+  "releaseDate": 1640671560000,
+  "updateDate": 1641390900000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 101340,
+  "url": "https://www.spigotmc.org/resources/mbedwars-spectate-addon.101340/",
+  "name": "MBedwars Spectate Addon",
+  "description": "An addon that lets staff spectate specified players in MBedwars",
+  "authors": [
+    "Prinke"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101340.jpg?1649815722",
+  "iconCid": "bafkreigee5su4x62673eeuq7a2k23rljx4qkyes72jqflx7kfnihdxhm3y",
+  "numberOfDownloads": 36,
+  "rating": 3.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mbedwars-spectate-addon.101340/history",
+  "gitUrl": "https://github.com/Kyoku-git/SpectateAddon",
+  "releaseDate": 1649811360000,
+  "updateDate": 1649877240000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

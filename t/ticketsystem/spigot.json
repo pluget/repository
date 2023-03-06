@@ -1,0 +1,27 @@
+{
+  "id": 99324,
+  "url": "https://www.spigotmc.org/resources/ticketsystem.99324/",
+  "name": "TicketSystem",
+  "description": "Ticket system, reports and suggestions.",
+  "authors": [
+    "Moacir_Henrique"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99324.jpg?1642910758",
+  "iconCid": "bafkreihv7l4jb7fmw5caki7pjgfwb4bzm23oner5ecm7l4vb67akhu2i6i",
+  "numberOfDownloads": 199,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ticketsystem.99324/history",
+  "gitUrl": "https://github.com/henriquemb/TicketSystem",
+  "releaseDate": 1642532940000,
+  "updateDate": 1642961460000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

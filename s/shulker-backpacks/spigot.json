@@ -1,0 +1,27 @@
+{
+  "id": 67466,
+  "url": "https://www.spigotmc.org/resources/shulker-backpacks-1-13-1-19.67466/",
+  "name": "Shulker Backpacks [1.13-1.19]",
+  "description": "Open shulker boxes without placing them down",
+  "authors": [
+    "DarkMonolith"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/67/67466.jpg?1569098639",
+  "iconCid": "bafkreifkulk6r5tlotbeez43j3qljnmaxn6ovutk2brqsbv2b5qir3pcia",
+  "numberOfDownloads": 19640,
+  "rating": 4.5,
+  "numberOfVotes": 32,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/shulker-backpacks-1-13-1-19.67466/history",
+  "gitUrl": "https://github.com/christopherwalkerml/ShulkerPacks",
+  "releaseDate": 1558120020000,
+  "updateDate": 1643392500000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

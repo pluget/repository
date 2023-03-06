@@ -1,0 +1,20 @@
+{
+  "id": 100439,
+  "url": "https://www.spigotmc.org/resources/dcp.100439/",
+  "name": "DCP",
+  "description": "A plugin for configuring Minecraft death behaviour.",
+  "authors": [
+    "Qusarun"
+  ],
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dcp.100439/history",
+  "gitUrl": "https://github.com/Qusarun/DCP",
+  "releaseDate": 1646313240000,
+  "updateDate": 1646313240000,
+  "versions": [
+    "1.8",
+    "1.12"
+  ]
+}

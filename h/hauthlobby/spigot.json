@@ -1,0 +1,31 @@
+{
+  "id": 101386,
+  "url": "https://www.spigotmc.org/resources/hauthlobby-best-auth-lobby-plugin-multi-lang-support.101386/",
+  "name": "hAuthLobby - Best Auth Lobby Plugin Multi Lang Support",
+  "description": "authlobby, lobby, plugin, auth lobby",
+  "authors": [
+    "HamsiDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101386.jpg?1650025933",
+  "iconCid": "bafkreiecrzjswggix7nyljvae6bh42cutqjhawbx2xxec63exflabfw5ve",
+  "numberOfDownloads": 75,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hauthlobby-best-auth-lobby-plugin-multi-lang-support.101386/history",
+  "gitUrl": "https://github.com/HamsiDev/SuperAuthLobby",
+  "releaseDate": 1650022260000,
+  "updateDate": 1650022260000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

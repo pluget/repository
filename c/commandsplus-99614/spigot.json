@@ -1,0 +1,26 @@
+{
+  "id": 99614,
+  "url": "https://www.spigotmc.org/resources/commands-%E2%AD%95-punishment-system-%E2%9A%A1-100-configurable-%E2%9A%A1%E3%80%8C1-13-1-18%E3%80%8D.99614/",
+  "name": "Commands+ ⭕ Punishment System ⚡ 100% Configurable ⚡「1.13 - 1.18」",
+  "description": "A plugin that can help you manage your sever on the easy way.",
+  "authors": [
+    "gdalia"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99614.jpg?1643508268",
+  "iconCid": "bafkreibr6yfrnsyr34hhhmusefrsb6geyxdq5u7r3qgmhankj4wcrrhwsq",
+  "numberOfDownloads": 266,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/commands-%E2%AD%95-punishment-system-%E2%9A%A1-100-configurable-%E2%9A%A1%E3%80%8C1-13-1-18%E3%80%8D.99614/history",
+  "gitUrl": "https://github.com/ofirtim/CommandsPlus",
+  "releaseDate": 1643504640000,
+  "updateDate": 1648802220000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

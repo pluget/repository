@@ -1,0 +1,22 @@
+{
+  "id": 101318,
+  "url": "https://www.spigotmc.org/resources/antipiglinzombification.101318/",
+  "name": "AntiPiglinZombification",
+  "description": "If a Piglin picks up a golden apple, it no longer will zombify in the overworld.",
+  "authors": [
+    "Blautee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101318.jpg?1649767023",
+  "iconCid": "bafkreic6jes6urt2la5l67ufzyvcru2otpmhhdtvxdwoqh276c3cyjexiu",
+  "numberOfDownloads": 22,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antipiglinzombification.101318/history",
+  "gitUrl": "https://github.com/Blautee/AntiPiglinZombification",
+  "releaseDate": 1649754960000,
+  "updateDate": 1649754960000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

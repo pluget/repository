@@ -1,0 +1,30 @@
+{
+  "id": 100773,
+  "url": "https://www.spigotmc.org/resources/randomentrypro.100773/",
+  "name": "RandomEntryPro",
+  "description": "Random Item Lore",
+  "authors": [
+    "AC_Long"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100773.jpg?1647523578",
+  "iconCid": "bafkreieoeenixk23xyjlmen3lowh5gmnct3x6lmjs2r6pvsmzq3vn7feke",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/randomentrypro.100773/history",
+  "gitUrl": "https://github.com/BingZi-233/RandomEntryPro/releases",
+  "releaseDate": 1647519540000,
+  "updateDate": 1647519540000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

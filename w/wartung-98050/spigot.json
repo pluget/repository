@@ -1,0 +1,22 @@
+{
+  "id": 98050,
+  "url": "https://www.spigotmc.org/resources/wartung.98050/",
+  "name": "Wartung",
+  "description": "Activate maintenance mode on your server!",
+  "authors": [
+    "thisisnico007"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98050.jpg?1638380098",
+  "iconCid": "bafkreibgeievuk527jilms7y7fctuyr2gqqgotxebh7btz33iimd7nn7sq",
+  "numberOfDownloads": 168,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/wartung.98050/history",
+  "releaseDate": 1638376440000,
+  "updateDate": 1651072620000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

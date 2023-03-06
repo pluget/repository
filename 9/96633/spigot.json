@@ -1,0 +1,25 @@
+{
+  "id": 96633,
+  "url": "https://www.spigotmc.org/resources/jointp.96633/",
+  "name": "JoinTP",
+  "description": "Teleport players when they join!",
+  "authors": [
+    "Michielo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96633.jpg?1633432400",
+  "iconCid": "bafkreigm4gk3hdbhwvuats3q4dgdrdnxqfngdsyv2w5fylgscipwpwiysq",
+  "numberOfDownloads": 135,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/jointp.96633/history",
+  "releaseDate": 1633355460000,
+  "updateDate": 1641806820000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

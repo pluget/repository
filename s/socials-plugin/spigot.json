@@ -1,0 +1,31 @@
+{
+  "id": 95366,
+  "url": "https://www.spigotmc.org/resources/socials-plugin.95366/",
+  "name": "Socials Plugin",
+  "description": "Commands for your social media",
+  "authors": [
+    "VoidemLIVE"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95366.jpg?1629062553",
+  "iconCid": "bafkreigj7ruh4mpjf5vhhukouafybk25o4jhvi6qsbptoknk43lpwlj5ey",
+  "numberOfDownloads": 142,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/socials-plugin.95366/history",
+  "gitUrl": "https://github.com/Voidem-Network/SocialsPlugin",
+  "releaseDate": 1629058920000,
+  "updateDate": 1643401380000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

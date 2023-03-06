@@ -1,0 +1,25 @@
+{
+  "id": 100022,
+  "url": "https://www.spigotmc.org/resources/voidboosting.100022/",
+  "name": "VoidBoosting",
+  "description": "BowBoosting",
+  "authors": [
+    "NeptuneServices"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100022.jpg?1644940675",
+  "iconCid": "bafkreih6zuweurlddqkmab44ud35tzcoxxjxidyiuz7xuhlu64yo3rmd2q",
+  "numberOfDownloads": 126,
+  "rating": 3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/voidboosting.100022/history",
+  "releaseDate": 1678019160000,
+  "updateDate": 1678019160000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

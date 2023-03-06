@@ -1,0 +1,31 @@
+{
+  "id": 99464,
+  "url": "https://www.spigotmc.org/resources/hiderplayers-1-8-1-18.99464/",
+  "name": "HiderPlayers [1.8 - 1.18]",
+  "description": "Hide the players for more performance for your PC.",
+  "authors": [
+    "iAlqjDV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99464.jpg?1642977231",
+  "iconCid": "bafkreifva5ljoil3v2ruszi2lqlz3snoyepuzvp4kptsrzhzgzlsfld4ay",
+  "numberOfDownloads": 47,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hiderplayers-1-8-1-18.99464/history",
+  "gitUrl": "https://github.com/ialqjdv/HiderPlayers",
+  "releaseDate": 1642973580000,
+  "updateDate": 1642973580000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

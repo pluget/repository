@@ -1,0 +1,31 @@
+{
+  "id": 88601,
+  "url": "https://www.spigotmc.org/resources/storyline.88601/",
+  "name": "Storyline",
+  "description": "A roleplay plugin that allows your players to create stories and share with others.",
+  "authors": [
+    "_ReflexShow_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88601.jpg?1612309069",
+  "iconCid": "bafkreid2xfh64by4siusggd3y5abdjbgy3iuldpv2o2x67sucxhu2whule",
+  "numberOfDownloads": 324,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/storyline.88601/history",
+  "releaseDate": 1612305420000,
+  "updateDate": 1647882840000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

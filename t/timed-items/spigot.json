@@ -1,0 +1,27 @@
+{
+  "id": 100522,
+  "url": "https://www.spigotmc.org/resources/timed-items.100522/",
+  "name": "Timed Items",
+  "description": "Make players receive random items in a configurable interval",
+  "authors": [
+    "Fabsi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100522.jpg?1646582425",
+  "iconCid": "bafkreidp6t75gjbivk7ehtylju3ux4ba3wq3wnm354sc7nu7lvthm236cq",
+  "numberOfDownloads": 37,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/timed-items.100522/history",
+  "gitUrl": "https://github.com/Fabsi23/Timed-Items",
+  "releaseDate": 1646578800000,
+  "updateDate": 1646578800000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

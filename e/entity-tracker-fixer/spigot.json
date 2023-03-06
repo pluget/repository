@@ -1,0 +1,20 @@
+{
+  "id": 101145,
+  "url": "https://www.spigotmc.org/resources/entity-tracker-fixer-2-1-18-1-1-18-2.101145/",
+  "name": "Entity Tracker Fixer 2 [1.18.1 - 1.18.2]",
+  "description": "Untrack entities that are not used at all by the server",
+  "authors": [
+    "mitchngwen"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101145.jpg?1649201816",
+  "iconCid": "bafkreieqen4ziuyfwyauzutzjk7kqxfhujom7qlmofif67hpswfpqrzfje",
+  "numberOfDownloads": 488,
+  "rating": 4,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/entity-tracker-fixer-2-1-18-1-1-18-2.101145/history",
+  "releaseDate": 1648993740000,
+  "updateDate": 1649077560000,
+  "versions": [
+    "1.18"
+  ]
+}

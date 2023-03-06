@@ -1,0 +1,22 @@
+{
+  "id": 26585,
+  "url": "https://www.spigotmc.org/resources/imageonmap.26585/",
+  "name": "ImageOnMap",
+  "description": "Have you ever wanted to view an image on an ingame map? ImageOnMap provides just that.",
+  "authors": [
+    "AmauryPi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/26/26585.jpg?1468865831",
+  "iconCid": "bafkreie43d2ye5kere52bwavaqruw6qajtjgpmxxmfqiebawfrgwdeijwi",
+  "numberOfDownloads": 455369,
+  "rating": 4.1,
+  "numberOfVotes": 128,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/imageonmap.26585/history",
+  "gitUrl": "https://github.com/zDevelopers/ImageOnMap",
+  "releaseDate": 1677874020000,
+  "updateDate": 1677874020000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

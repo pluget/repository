@@ -1,0 +1,30 @@
+{
+  "id": 100616,
+  "url": "https://www.spigotmc.org/resources/light-anticaps.100616/",
+  "name": "Light AntiCAPS",
+  "description": "This plugin automatically kicks people who have full CAPS LOCK names.",
+  "authors": [
+    "User_pt"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100616.jpg?1647008771",
+  "iconCid": "bafkreidroy65po6rlkpijjgjwl4jndy3xq6ka5dmfendhlqzt4cel65wum",
+  "numberOfDownloads": 27,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/light-anticaps.100616/history",
+  "releaseDate": 1647005100000,
+  "updateDate": 1647005100000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

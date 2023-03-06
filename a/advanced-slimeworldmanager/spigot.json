@@ -1,0 +1,22 @@
+{
+  "id": 87209,
+  "url": "https://www.spigotmc.org/resources/advanced-slimeworldmanager.87209/",
+  "name": "Advanced SlimeWorldManager",
+  "description": "Load your worlds faster, and store them using less space! (Also on Database!)",
+  "authors": [
+    "Paul19988"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87209.jpg?1609254072",
+  "iconCid": "bafkreibzdlg2twqchny5mtlyisut2mjlvpu3zigfbilf7jbzj5xnqh362e",
+  "numberOfDownloads": 2263,
+  "rating": 4.8,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/advanced-slimeworldmanager.87209/history",
+  "gitUrl": "https://github.com/Paul19988/Advanced-Slime-World-Manager",
+  "releaseDate": 1609250460000,
+  "updateDate": 1651657440000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

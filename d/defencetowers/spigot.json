@@ -1,0 +1,21 @@
+{
+  "id": 99999,
+  "url": "https://www.spigotmc.org/resources/defencetowers.99999/",
+  "name": "DefenceTowers",
+  "description": "Create custom towers that will automatically shoot at nearby entities.",
+  "authors": [
+    "IsaacsToes"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99999.jpg?1648969110",
+  "iconCid": "bafkreibry7ji32354jujgqfkkzqozxqtjfs7q37q35jdmuxi2xpccyi32q",
+  "numberOfDownloads": 549,
+  "rating": 4.4,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/defencetowers.99999/history",
+  "releaseDate": 1644843240000,
+  "updateDate": 1650055920000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

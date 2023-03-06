@@ -1,0 +1,19 @@
+{
+  "id": 101374,
+  "url": "https://www.spigotmc.org/resources/stop-for-fdo.101374/",
+  "name": "Stop For Fdo",
+  "description": "Using the /stop command you can send a warning to a player to stop",
+  "authors": [
+    "vildakkino"
+  ],
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/stop-for-fdo.101374/history",
+  "releaseDate": 1649960280000,
+  "updateDate": 1649960280000,
+  "versions": [
+    "1.12",
+    "1.16"
+  ]
+}

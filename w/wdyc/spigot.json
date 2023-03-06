@@ -1,0 +1,21 @@
+{
+  "id": 99581,
+  "url": "https://www.spigotmc.org/resources/wdyc.99581/",
+  "name": "WDYC",
+  "description": "allows you to have reports and related logs, it is also implemented a command for screenshare",
+  "authors": [
+    "Juro_mc"
+  ],
+  "numberOfDownloads": 49,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/wdyc.99581/history",
+  "gitUrl": "https://github.com/AJstudiosit/wdyc-plugin",
+  "releaseDate": 1643404020000,
+  "updateDate": 1643404020000,
+  "versions": [
+    "1.8",
+    "1.16",
+    "1.17"
+  ]
+}

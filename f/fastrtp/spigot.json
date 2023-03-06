@@ -1,0 +1,32 @@
+{
+  "id": 99494,
+  "url": "https://www.spigotmc.org/resources/fastrtp.99494/",
+  "name": "FastRTP",
+  "description": "An optimized plugin to randomly teleport to the world.",
+  "authors": [
+    "SkyfightTV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99494.jpg?1643058014",
+  "iconCid": "bafkreifacumxlx2g2dmag7pffqoeqn7ollcrmtrs4sodesczrt6ojhsc5q",
+  "numberOfDownloads": 87,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fastrtp.99494/history",
+  "gitUrl": "https://github.com/SkyfightTV/FastRTP",
+  "releaseDate": 1643054220000,
+  "updateDate": 1643054700000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

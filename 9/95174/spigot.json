@@ -1,0 +1,25 @@
+{
+  "id": 95174,
+  "url": "https://www.spigotmc.org/resources/1-18-support-sitting-plugin-msit.95174/",
+  "name": "[1.18 Support] Sitting Plugin (MSit)",
+  "description": "Plugin that allows your players to sit on the ground or on chairs.",
+  "authors": [
+    "mplugins.org"
+  ],
+  "numberOfDownloads": 7981,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/1-18-support-sitting-plugin-msit.95174/history",
+  "gitUrl": "https://mplugins.net/code/MSit",
+  "releaseDate": 1628530140000,
+  "updateDate": 1653068760000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

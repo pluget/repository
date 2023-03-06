@@ -1,0 +1,25 @@
+{
+  "id": 100730,
+  "url": "https://www.spigotmc.org/resources/nations-for-your-server-naciones-para-tu-servidor.100730/",
+  "name": "Nations for your server | Naciones para tu servidor",
+  "description": "Country flags for your server | Banderas de países para tu servidor",
+  "authors": [
+    "eloso"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100730.jpg?1647365569",
+  "iconCid": "bafkreib6ufq5p3dqzfwus6xbnwipdke75n6plaj2vmgk3sy6rv6kiltwdy",
+  "numberOfDownloads": 47,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nations-for-your-server-naciones-para-tu-servidor.100730/history",
+  "releaseDate": 1647361920000,
+  "updateDate": 1647361920000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

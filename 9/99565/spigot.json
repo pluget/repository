@@ -1,0 +1,32 @@
+{
+  "id": 99565,
+  "url": "https://www.spigotmc.org/resources/sm-votifier.99565/",
+  "name": "SM-Votifier",
+  "description": "Simple Votifier for rewarding users from serwery-minecraft.pl",
+  "authors": [
+    "kaziu687"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99565.jpg?1643373982",
+  "iconCid": "bafkreihpcuqmfhojywamumjvtcpxp6zdbmynqxwsyk6gxjebqyzun5c4di",
+  "numberOfDownloads": 115,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sm-votifier.99565/history",
+  "gitUrl": "https://github.com/kaziu687/SM-Votifier",
+  "releaseDate": 1643370360000,
+  "updateDate": 1643370360000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 108390,
+  "url": "https://www.spigotmc.org/resources/telegram-notifier.108390/",
+  "name": "Telegram Notifier",
+  "description": "This plugin provides a way to receive notifications on a Telegram chat when a player joins or quits",
+  "authors": [
+    "eone666"
+  ],
+  "numberOfDownloads": 5,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/telegram-notifier.108390/history",
+  "gitUrl": "https://github.com/eone666/telegram-notifier",
+  "releaseDate": 1678032180000,
+  "updateDate": 1678032180000,
+  "versions": [
+    "1.19"
+  ]
+}

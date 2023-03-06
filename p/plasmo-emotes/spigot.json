@@ -1,0 +1,22 @@
+{
+  "id": 100598,
+  "url": "https://www.spigotmc.org/resources/plasmo-emotes.100598/",
+  "name": "Plasmo Emotes",
+  "description": "Plugin that automatically generates a resource pack that contains custom chat emotes",
+  "authors": [
+    "KPidS"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100598.jpg?1646913665",
+  "iconCid": "bafkreibwuaoxgzqdzim2zdtz234kuskkncyxyetdmrf3t3cxe5pfz35ikq",
+  "numberOfDownloads": 447,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/plasmo-emotes.100598/history",
+  "gitUrl": "https://github.com/plasmoapp/plasmo-emotes/",
+  "releaseDate": 1646910000000,
+  "updateDate": 1647015060000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

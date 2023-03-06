@@ -1,0 +1,28 @@
+{
+  "id": 34336,
+  "url": "https://www.spigotmc.org/resources/plugin-folder-swapper.34336/",
+  "name": "Plugin Folder Swapper",
+  "description": "Run plugins from any folders!",
+  "authors": [
+    "AuroraLS3"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/34/34336.jpg?1483633018",
+  "iconCid": "bafkreiabq6g4q7to4kuqr4j2zsydry3qbtapw75cgyamukehsdzoy245re",
+  "numberOfDownloads": 868,
+  "rating": 3.5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/plugin-folder-swapper.34336/history",
+  "releaseDate": 1483629360000,
+  "updateDate": 1645254480000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 34401,
+  "url": "https://www.spigotmc.org/resources/bettershutdown-reloaded-1-7-10-1-15-1-14-1-15-supported.34401/",
+  "name": "BetterShutdown Reloaded (1.7.10-1.15) 1.14 & 1.15 SUPPORTED",
+  "description": "Kick players to a random lobby safely before stopping and configure it in a server-by-server basis.",
+  "authors": [
+    "JJ99_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/34/34401.jpg?1483726452",
+  "iconCid": "bafkreifpkciyftiol4cqkfbkpfkvgpmczfgfvo54ugw67l6wz5iyvxvc4q",
+  "numberOfDownloads": 1669,
+  "rating": 4,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bettershutdown-reloaded-1-7-10-1-15-1-14-1-15-supported.34401/history",
+  "releaseDate": 1483722600000,
+  "updateDate": 1642785060000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 65112,
+  "url": "https://www.spigotmc.org/resources/treasurehunt.65112/",
+  "name": "TreasureHunt",
+  "description": "Add some treasure's on your server!",
+  "authors": [
+    "Gnusmas"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/65/65112.jpg?1555703812",
+  "iconCid": "bafkreicnmpkb7vuagmrjfozwwavy4bjwianw4giefvgokywxf77i3jq4wu",
+  "numberOfDownloads": 2505,
+  "rating": 4.5,
+  "numberOfVotes": 14,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/treasurehunt.65112/history",
+  "releaseDate": 1550869560000,
+  "updateDate": 1648851960000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

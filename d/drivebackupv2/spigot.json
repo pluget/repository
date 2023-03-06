@@ -1,0 +1,32 @@
+{
+  "id": 79519,
+  "url": "https://www.spigotmc.org/resources/drivebackupv2.79519/",
+  "name": "DriveBackupV2",
+  "description": "Uploads backups to Google Drive/OneDrive or by (S)FTP, now a lot easier to set up!",
+  "authors": [
+    "MaxTheGinus"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79519.jpg?1590971667",
+  "iconCid": "bafkreiclhiao3iyyxlkhlhy5yegctpjsrd2bngq4a6rjcw3zihugbqc6fi",
+  "numberOfDownloads": 13462,
+  "rating": 4.3,
+  "numberOfVotes": 35,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/drivebackupv2.79519/history",
+  "gitUrl": "https://github.com/MaxMaeder/DriveBackupV2",
+  "releaseDate": 1590968040000,
+  "updateDate": 1647115980000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

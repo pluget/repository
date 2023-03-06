@@ -1,0 +1,22 @@
+{
+  "id": 108384,
+  "url": "https://www.spigotmc.org/resources/lockblood.108384/",
+  "name": "lockblood",
+  "description": "lock all player`s blood and hungry to 20",
+  "authors": [
+    "Papklp"
+  ],
+  "numberOfDownloads": 4,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lockblood.108384/history",
+  "gitUrl": "https://github.com/Papklp/lockblood/",
+  "releaseDate": 1678016580000,
+  "updateDate": 1678016580000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

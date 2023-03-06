@@ -1,0 +1,23 @@
+{
+  "id": 100333,
+  "url": "https://www.spigotmc.org/resources/classicterrain.100333/",
+  "name": "ClassicTerrain",
+  "description": "A plugin that adds older Minecraft terrain to your server",
+  "authors": [
+    "Welcome_234"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100333.jpg?1647381302",
+  "iconCid": "bafkreidtyioxgzpmuj7aqemomunktwq5wbvsmq7zddz53v6rm52cfa7c5a",
+  "numberOfDownloads": 287,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/classicterrain.100333/history",
+  "releaseDate": 1645959180000,
+  "updateDate": 1647543000000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

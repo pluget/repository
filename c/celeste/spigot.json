@@ -1,0 +1,25 @@
+{
+  "id": 81862,
+  "url": "https://www.spigotmc.org/resources/celeste.81862/",
+  "name": "Celeste",
+  "description": "Add shooting stars to your Minecraft server! ✨",
+  "authors": [
+    "Idrees"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81862.jpg?1595535857",
+  "iconCid": "bafkreigcknu2l6wamkzsfzyaw6tmsfgmqbsnzg6azov3yecsht64hct2vy",
+  "numberOfDownloads": 3515,
+  "rating": 5,
+  "numberOfVotes": 30,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/celeste.81862/history",
+  "gitUrl": "https://github.com/IdreesInc/Celeste",
+  "releaseDate": 1595532240000,
+  "updateDate": 1647291480000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

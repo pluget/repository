@@ -1,0 +1,23 @@
+{
+  "id": 91319,
+  "url": "https://www.spigotmc.org/resources/anvilrestrict-1-16-x-1-18-x.91319/",
+  "name": "AnvilRestrict [1.16.x-1.18.x]",
+  "description": "Disable item placing/renaming in the anvil GUI!",
+  "authors": [
+    "Baterka"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91319.jpg?1618442146",
+  "iconCid": "bafkreihi236wpusm3m4w6snn2chyf5s55wxc2rq4dnxdn4csixoky4z7wa",
+  "numberOfDownloads": 217,
+  "rating": 1.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anvilrestrict-1-16-x-1-18-x.91319/history",
+  "gitUrl": "https://github.com/Baterka/AnvilRestrict",
+  "releaseDate": 1618438500000,
+  "updateDate": 1648810800000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

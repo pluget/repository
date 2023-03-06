@@ -1,0 +1,25 @@
+{
+  "id": 65200,
+  "url": "https://www.spigotmc.org/resources/anvil.65200/",
+  "name": "Anvil",
+  "description": "Minecraft endless anvil and enchanting plugin",
+  "authors": [
+    "PhizzleCoder"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/65/65200.jpg?1590095220",
+  "iconCid": "bafkreigvizi7isndznmljn5draqtkdepi6ulm2n65dz5567jfuzpajxugi",
+  "numberOfDownloads": 1081,
+  "rating": 4.5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anvil.65200/history",
+  "releaseDate": 1551108000000,
+  "updateDate": 1651431960000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

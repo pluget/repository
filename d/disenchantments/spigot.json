@@ -1,0 +1,23 @@
+{
+  "id": 87282,
+  "url": "https://www.spigotmc.org/resources/disenchantments.87282/",
+  "name": "Disenchantments",
+  "description": "Disenchant your items at the price of XP!",
+  "authors": [
+    "peterhenryd"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87282.jpg?1609384027",
+  "iconCid": "bafkreibs4guriolkayppkiiwcar75mk5azkwlnx2tel7twr2mmepg5kdiq",
+  "numberOfDownloads": 252,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/disenchantments.87282/history",
+  "gitUrl": "https://github.com/7we/Disenchantments",
+  "releaseDate": 1609380360000,
+  "updateDate": 1651368660000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 99418,
+  "url": "https://www.spigotmc.org/resources/filemanager-api.99418/",
+  "name": "FileManager API",
+  "description": "an api to easily manage your files if you write an plugin by your self",
+  "authors": [
+    "LofentBlack"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99418.jpg?1642875833",
+  "iconCid": "bafkreihgwfwsegqdeavu3rtl6op27cmemrueyvcimjycvapfr4tz7uuvnu",
+  "numberOfDownloads": 212,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/filemanager-api.99418/history",
+  "releaseDate": 1642866060000,
+  "updateDate": 1657202940000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

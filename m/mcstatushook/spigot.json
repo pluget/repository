@@ -1,0 +1,19 @@
+{
+  "id": 101001,
+  "url": "https://www.spigotmc.org/resources/mcstatushook.101001/",
+  "name": "MCStatusHook",
+  "description": "A simple and lightweight plugin to send server status messages to Discord as webhooks.",
+  "authors": [
+    "Carolina2k22"
+  ],
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mcstatushook.101001/history",
+  "gitUrl": "https://github.com/Carolina2k22/MCStatusHook",
+  "releaseDate": 1648364340000,
+  "updateDate": 1648364340000,
+  "versions": [
+    "1.18"
+  ]
+}

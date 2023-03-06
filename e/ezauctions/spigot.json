@@ -1,0 +1,28 @@
+{
+  "id": 42574,
+  "url": "https://www.spigotmc.org/resources/ezauctions.42574/",
+  "name": "ezAuctions",
+  "description": "A simple, text-based auction system",
+  "authors": [
+    "Elian"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/42/42574.jpg?1499382596",
+  "iconCid": "bafkreib4iw2kn3ppsqa7rqa4tdseczeujwtt7avx4t2fealjuncpsp5o4m",
+  "numberOfDownloads": 14737,
+  "rating": 4.8,
+  "numberOfVotes": 26,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ezauctions.42574/history",
+  "gitUrl": "https://github.com/elian1203/ezAuctions",
+  "releaseDate": 1497911520000,
+  "updateDate": 1650744780000,
+  "versions": [
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

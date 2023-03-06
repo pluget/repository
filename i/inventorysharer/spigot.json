@@ -1,0 +1,21 @@
+{
+  "id": 63276,
+  "url": "https://www.spigotmc.org/resources/inventorysharer-1-18-clean-chat-implementation.63276/",
+  "name": "// InventorySharer | [1.18] | [Clean Chat Implementation!] \\\\",
+  "description": "Allow players to share their inventories in a clickable chat message!",
+  "authors": [
+    "TheTealViper"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/63/63276.jpg?1545023132",
+  "iconCid": "bafkreif7hcfmtsakdjpnnsn7ip7tntmjcrzy4stlk3dydojeiafumazea4",
+  "numberOfDownloads": 311,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/inventorysharer-1-18-clean-chat-implementation.63276/history",
+  "gitUrl": "https://github.com/thetealviper/Spigot_InventorySharer",
+  "releaseDate": 1545019500000,
+  "updateDate": 1650840060000,
+  "versions": [
+    "1.18"
+  ]
+}

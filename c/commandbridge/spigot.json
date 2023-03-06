@@ -1,0 +1,22 @@
+{
+  "id": 87335,
+  "url": "https://www.spigotmc.org/resources/commandbridge-bungeecord-1-8-1-17-x.87335/",
+  "name": "CommandBridge - BungeeCord [1.8-1.17.x]",
+  "description": "Send Spigot command to BungeeCord!",
+  "authors": [
+    "jingwenMC"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87335.jpg?1609518983",
+  "iconCid": "bafkreiebu2iqlzsbvazopl4c2ambpw6bv7u2pgqlotfw44i4eslyqlsx7u",
+  "numberOfDownloads": 496,
+  "rating": 4.2,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/commandbridge-bungeecord-1-8-1-17-x.87335/history",
+  "gitUrl": "https://github.com/AriaCraftMC/CommandBridge",
+  "releaseDate": 1609514880000,
+  "updateDate": 1646557680000,
+  "versions": [
+    "1.16",
+    "1.17"
+  ]
+}

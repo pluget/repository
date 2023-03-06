@@ -1,0 +1,22 @@
+{
+  "id": 101828,
+  "url": "https://www.spigotmc.org/resources/proceduraldungeon.101828/",
+  "name": "ProceduralDungeon",
+  "description": "Generate dungeons in a line with random rooms option",
+  "authors": [
+    "PetitMinou12"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101828.jpg?1651708434",
+  "iconCid": "bafkreigdffupyumltssmm7gkkewomt7nliq6ax3v6vwwmnns2ddbrfuuai",
+  "numberOfDownloads": 230,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/proceduraldungeon.101828/history",
+  "gitUrl": "https://github.com/Zarinoow/ProceduralDungeon",
+  "releaseDate": 1651704780000,
+  "updateDate": 1651704780000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

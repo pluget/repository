@@ -1,0 +1,24 @@
+{
+  "id": 102001,
+  "url": "https://www.spigotmc.org/resources/adventure-dungeon.102001/",
+  "name": "Adventure Dungeon",
+  "description": "explore procedurally generated structures",
+  "authors": [
+    "sword7"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/102/102001.jpg?1652551216",
+  "iconCid": "bafkreibprgbcz4mpiq3x5thfvhktqrvvoqrdkbiph2iorogbryhggnrjba",
+  "numberOfDownloads": 415,
+  "rating": 3.7,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/adventure-dungeon.102001/history",
+  "gitUrl": "https://gitlab.com/sword7/adventuredungeon",
+  "releaseDate": 1652547540000,
+  "updateDate": 1652547540000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

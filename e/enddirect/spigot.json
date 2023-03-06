@@ -1,0 +1,26 @@
+{
+  "id": 99790,
+  "url": "https://www.spigotmc.org/resources/enddirect-1-13-1-18.99790/",
+  "name": "EndDirect [1.13-1.18]",
+  "description": "Allow Direct Travel Between The End And Overworld",
+  "authors": [
+    "bennythebest1970"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99790.jpg?1644079342",
+  "iconCid": "bafkreicsqem4avt6pkczmar6b6rnez3lpj76psgsyflqm5ybfxvngivjge",
+  "numberOfDownloads": 119,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/enddirect-1-13-1-18.99790/history",
+  "gitUrl": "https://github.com/SwagSteve/EndDirect",
+  "releaseDate": 1644075720000,
+  "updateDate": 1644609660000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

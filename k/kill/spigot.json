@@ -1,0 +1,29 @@
+{
+  "id": 97981,
+  "url": "https://www.spigotmc.org/resources/kill-rewards-plugin-1-8-x-1-18-x.97981/",
+  "name": "Kill-Rewards-Plugin (1.8.x - 1.18.x)",
+  "description": "A plugin for Spigot which rewards players with money for killing entitys.",
+  "authors": [
+    "Patrick260"
+  ],
+  "numberOfDownloads": 927,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kill-rewards-plugin-1-8-x-1-18-x.97981/history",
+  "gitUrl": "https://github.com/Patrick260/Kill-Rewards-Plugin",
+  "releaseDate": 1638126480000,
+  "updateDate": 1643553540000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

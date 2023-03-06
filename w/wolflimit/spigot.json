@@ -1,0 +1,22 @@
+{
+  "id": 49386,
+  "url": "https://www.spigotmc.org/resources/wolflimit.49386/",
+  "name": "WolfLimit",
+  "description": "Limit how many dogs a player can have tamed at a time",
+  "authors": [
+    "ScarabCoder"
+  ],
+  "numberOfDownloads": 187,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/wolflimit.49386/history",
+  "releaseDate": 1510244400000,
+  "updateDate": 1644005460000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12"
+  ]
+}

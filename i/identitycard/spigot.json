@@ -1,0 +1,25 @@
+{
+  "id": 98908,
+  "url": "https://www.spigotmc.org/resources/identitycard-1-17-1-18-placeholderapi-and-mysql-support.98908/",
+  "name": "IdentityCard [1.17-1.18] - PlaceholderAPI and MySQL Support!",
+  "description": "IdentityCard plugin for roleplay servers",
+  "authors": [
+    "TairoDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98908.jpg?1641182688",
+  "iconCid": "bafkreih4xkghziyxyfkts6lk3rk6ji45iklbuizizb7kl3rw42cmzsuc24",
+  "numberOfDownloads": 237,
+  "rating": 4,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/identitycard-1-17-1-18-placeholderapi-and-mysql-support.98908/history",
+  "releaseDate": 1641178320000,
+  "updateDate": 1641682500000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

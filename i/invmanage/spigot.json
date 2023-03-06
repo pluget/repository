@@ -1,0 +1,21 @@
+{
+  "id": 98598,
+  "url": "https://www.spigotmc.org/resources/invmanage.98598/",
+  "name": "InvManage",
+  "description": "Easily manage inventories with simple commands!",
+  "authors": [
+    "Mxtery"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98598.jpg?1640203453",
+  "iconCid": "bafkreiat6nblvh3cxmsoghvzqy6eb5l3dlz6sjofofrqhmkgnzqtdahaey",
+  "numberOfDownloads": 125,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/invmanage.98598/history",
+  "gitUrl": "https://github.com/Mystery135/InvManageCommands",
+  "releaseDate": 1640199780000,
+  "updateDate": 1647810120000,
+  "versions": [
+    "1.18"
+  ]
+}

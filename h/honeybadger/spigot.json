@@ -1,0 +1,21 @@
+{
+  "id": 100179,
+  "url": "https://www.spigotmc.org/resources/honeybadger-anticheat-3-4-reach-detection.100179/",
+  "name": "HoneyBadger Anticheat (3.4 Reach Detection)",
+  "description": "1.8.X - 1.12.2 Client Support, Packet Based, Reliable Checks",
+  "authors": [
+    "SalersFR"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100179.jpg?1645372171",
+  "iconCid": "bafkreicv6sni4h4ctg5z77uq4iiy4nrhzdx3ch2smadav5djkkvbauvr74",
+  "numberOfDownloads": 81,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/honeybadger-anticheat-3-4-reach-detection.100179/history",
+  "gitUrl": "https://github.com/SalersFR/HBAC/tree/main/src",
+  "releaseDate": 1645368480000,
+  "updateDate": 1645368480000,
+  "versions": [
+    "1.8"
+  ]
+}

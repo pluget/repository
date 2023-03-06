@@ -1,0 +1,30 @@
+{
+  "id": 96618,
+  "url": "https://www.spigotmc.org/resources/epicchat.96618/",
+  "name": "EpicChat",
+  "description": "A chat very different from others and interactive + Join/Leave message interactive .",
+  "authors": [
+    "RaxTheLag"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96618.jpg?1633290609",
+  "iconCid": "bafkreie7anz7pxqszzmfmab3izwvnsynma7hiucyboi253eb23aq75zfpm",
+  "numberOfDownloads": 422,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/epicchat.96618/history",
+  "releaseDate": 1633286940000,
+  "updateDate": 1654308840000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

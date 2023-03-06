@@ -1,0 +1,26 @@
+{
+  "id": 88310,
+  "url": "https://www.spigotmc.org/resources/zenchantmentcore.88310/",
+  "name": "ZEnchantmentCore",
+  "description": "Event-based API for creating custom enchantments.",
+  "authors": [
+    "zivoric"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88310.jpg?1611642533",
+  "iconCid": "bafkreigoua2cnce3jwlbx4nzrjeaxkfx7xwfu63e4gk5gl42ypx5c4b3v4",
+  "numberOfDownloads": 372,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/zenchantmentcore.88310/history",
+  "gitUrl": "https://github.com/zivoric/ZEnchantmentCore",
+  "releaseDate": 1611638880000,
+  "updateDate": 1641562860000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

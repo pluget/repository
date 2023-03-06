@@ -1,0 +1,24 @@
+{
+  "id": 66275,
+  "url": "https://www.spigotmc.org/resources/tablistping.66275/",
+  "name": "TabListPing",
+  "description": "Shows players' ping times in the tab list",
+  "authors": [
+    "Bobcat00"
+  ],
+  "numberOfDownloads": 14650,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tablistping.66275/history",
+  "gitUrl": "https://github.com/Bobcat00/TabListPing",
+  "releaseDate": 1554563340000,
+  "updateDate": 1642076280000,
+  "versions": [
+    "1.12",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

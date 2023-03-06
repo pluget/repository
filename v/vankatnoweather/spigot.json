@@ -1,0 +1,28 @@
+{
+  "id": 100608,
+  "url": "https://www.spigotmc.org/resources/vankatnoweather.100608/",
+  "name": "VanKaTNoWeather",
+  "description": "This plugin serves to completely disable all weather on the server.",
+  "authors": [
+    "iqVanKaT001"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100608.jpg?1646973563",
+  "iconCid": "bafkreidxjtwffg4yf5wuzhd7lt5c5b6i4rhxynbjs6sjz4355a6pvi7pia",
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/vankatnoweather.100608/history",
+  "releaseDate": 1646969880000,
+  "updateDate": 1646969880000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

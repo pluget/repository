@@ -1,0 +1,21 @@
+{
+  "id": 14472,
+  "url": "https://www.spigotmc.org/resources/itemsxl.14472/",
+  "name": "ItemsXL",
+  "description": "[1.8.8-1.18.2] A plugin to create and (de-) serialize custom items and mobs.",
+  "authors": [
+    "Sataniel"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/14/14472.jpg?1447919263",
+  "iconCid": "bafkreifdgnibsnxb7nsj3l6fuoajw5elor3wqwyped2e2uatevjte5lyi4",
+  "numberOfDownloads": 37953,
+  "rating": 4.4,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/itemsxl.14472/history",
+  "gitUrl": "https://github.com/DRE2N/CaliburnAPI",
+  "releaseDate": 1447258920000,
+  "updateDate": 1649093820000,
+  "versions": [
+    "1.18"
+  ]
+}

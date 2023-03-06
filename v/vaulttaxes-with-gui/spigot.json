@@ -1,0 +1,21 @@
+{
+  "id": 100515,
+  "url": "https://www.spigotmc.org/resources/vaulttaxes-with-gui.100515/",
+  "name": "VaultTaxes With GUI",
+  "description": "A Vault addon which taxes users on the money they earned",
+  "authors": [
+    "ORANG3I"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100515.jpg?1646572412",
+  "iconCid": "bafkreicuwzomtg7axdghmudk3us3xy4splazfaymj3znpykubbmppyeyei",
+  "numberOfDownloads": 79,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/vaulttaxes-with-gui.100515/history",
+  "gitUrl": "https://github.com/orang3i/VaultTax",
+  "releaseDate": 1646563020000,
+  "updateDate": 1646563020000,
+  "versions": [
+    "1.18"
+  ]
+}

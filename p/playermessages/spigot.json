@@ -1,0 +1,24 @@
+{
+  "id": 101611,
+  "url": "https://www.spigotmc.org/resources/playermessages.101611/",
+  "name": "PlayerMessages",
+  "description": "Plugin that customizes player join and quit events! 1.13+",
+  "authors": [
+    "Highpurity"
+  ],
+  "numberOfDownloads": 48,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playermessages.101611/history",
+  "gitUrl": "https://github.com/Highpurity/PlayerMessages",
+  "releaseDate": 1650764940000,
+  "updateDate": 1650833280000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

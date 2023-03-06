@@ -1,0 +1,31 @@
+{
+  "id": 99876,
+  "url": "https://www.spigotmc.org/resources/inventory-lock.99876/",
+  "name": "Inventory Lock",
+  "description": "Lock players from using their inventory. Useful for hub management.",
+  "authors": [
+    "ARR4NN"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99876.jpg?1644343502",
+  "iconCid": "bafkreifkchgv3ycs7fbxgr32ch4xkprmgnhgayu5kmk2sq6lrvf4wz24g4",
+  "numberOfDownloads": 109,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/inventory-lock.99876/history",
+  "releaseDate": 1644339840000,
+  "updateDate": 1644349920000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

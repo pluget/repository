@@ -1,0 +1,21 @@
+{
+  "id": 101299,
+  "url": "https://www.spigotmc.org/resources/player-tracker.101299/",
+  "name": "Player Tracker",
+  "description": "This plugin allows players to track players using a compass!",
+  "authors": [
+    "Shalev0034"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101299.jpg?1649673754",
+  "iconCid": "bafkreiam3zzuniezjius3le3bw5vehvyjt66su5p7iwn7rdubazvr6dbne",
+  "numberOfDownloads": 103,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/player-tracker.101299/history",
+  "gitUrl": "https://github.com/ShalevDev/PlayerTracker",
+  "releaseDate": 1649670120000,
+  "updateDate": 1649670120000,
+  "versions": [
+    "1.18"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 81836,
+  "url": "https://www.spigotmc.org/resources/medieval-economy.81836/",
+  "name": "Medieval Economy",
+  "description": "Provides a virtual coinpurse and a physical currency item for the purpose of simulating an economy.",
+  "authors": [
+    "DanTheTechMan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81836.jpg?1630566987",
+  "iconCid": "bafkreih3tbbe4buabvl6fv5nu5ud73xbtp3veghp4mpdlad3wqo3w6pgv4",
+  "numberOfDownloads": 576,
+  "rating": 4.5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/medieval-economy.81836/history",
+  "gitUrl": "https://github.com/DansPlugins/Medieval-Economy",
+  "releaseDate": 1595481360000,
+  "updateDate": 1657166880000,
+  "versions": [
+    "1.18"
+  ]
+}

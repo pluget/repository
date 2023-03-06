@@ -1,0 +1,25 @@
+{
+  "id": 108392,
+  "url": "https://www.spigotmc.org/resources/worldeditnotifier.108392/",
+  "name": "WorldEditNotifier",
+  "description": "A Minecraft plugin which notifies admins when a user is using WorldEdit.",
+  "authors": [
+    "kpopnate"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108392.jpg?1678036951",
+  "iconCid": "bafkreigera5svvn3fup6cpqizhag2j2tq7h7liewwasrxvy33wu6dyfc54",
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/worldeditnotifier.108392/history",
+  "gitUrl": "https://github.com/nateinmarkdown/worldeditnotifier/tree/1.0.0-snapshot",
+  "releaseDate": 1678033320000,
+  "updateDate": 1678033320000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

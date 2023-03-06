@@ -1,0 +1,27 @@
+{
+  "id": 74552,
+  "url": "https://www.spigotmc.org/resources/volleyball-a-simple-volleyball-minigame.74552/",
+  "name": "VolleyBall | A simple volleyball minigame",
+  "description": "Add a working volleyball court anywhere in your server!",
+  "authors": [
+    "Jeremaster101"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/74/74552.jpg?1615488280",
+  "iconCid": "bafkreiaa35zezc2rwekwl7ukh6kls72pewemwmik4ysqgq5ork3uquhhva",
+  "numberOfDownloads": 926,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/volleyball-a-simple-volleyball-minigame.74552/history",
+  "gitUrl": "https://github.com/jeremynoesen/VolleyBall",
+  "releaseDate": 1579747440000,
+  "updateDate": 1650219540000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 99619,
+  "url": "https://www.spigotmc.org/resources/blockseats-%E2%89%AB-add-chairs-to-your-world.99619/",
+  "name": "BlockSeats ≫ Add chairs to your world",
+  "description": "Allows players to easily create seats out of stairs and slabs so that they can sit on them.",
+  "authors": [
+    "TheJsUser"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99619.jpg?1643533349",
+  "iconCid": "bafkreida4dhjhggi5vsnwh3mpni4orp76msokagrlbh6rtxfi4brk6ayhe",
+  "numberOfDownloads": 130,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blockseats-%E2%89%AB-add-chairs-to-your-world.99619/history",
+  "gitUrl": "https://github.com/Jeshuakrc/BlockSeatsSpigot",
+  "releaseDate": 1643529660000,
+  "updateDate": 1643568240000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

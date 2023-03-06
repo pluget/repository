@@ -1,0 +1,32 @@
+{
+  "id": 54297,
+  "url": "https://www.spigotmc.org/resources/worldchangescreenremover.54297/",
+  "name": "WorldChangeScreenRemover",
+  "description": "Removes the dirt screen that appears when changing worlds.",
+  "authors": [
+    "zombie_striker"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/54/54297.jpg?1520633062",
+  "iconCid": "bafkreigzfi2wvrug45ukx6lx2jj722xp6skuchalszc2rsbehr3k3c42um",
+  "numberOfDownloads": 3746,
+  "rating": 4.3,
+  "numberOfVotes": 38,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/worldchangescreenremover.54297/history",
+  "gitUrl": "https://github.com/ZombieStriker/WorldChangeScreenRemover",
+  "releaseDate": 1520629440000,
+  "updateDate": 1641521700000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

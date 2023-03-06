@@ -1,0 +1,32 @@
+{
+  "id": 101097,
+  "url": "https://www.spigotmc.org/resources/close-server-but-not-complete-closed-bungee.101097/",
+  "name": "Close Server but not complete closed(Bungee)",
+  "description": "Close Server but not complete closed 关服并没有完全关闭",
+  "authors": [
+    "LanternStudio"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101097.jpg?1648803418",
+  "iconCid": "bafkreigvsghkemzc27fncbjpay6xqupf7cphhf3todeergswzabkqgj5rm",
+  "numberOfDownloads": 28,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/close-server-but-not-complete-closed-bungee.101097/history",
+  "gitUrl": "https://github.com/Lantern-MC/Allfools/tree/main",
+  "releaseDate": 1648795140000,
+  "updateDate": 1648795140000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 80279,
+  "url": "https://www.spigotmc.org/resources/packetevents-api.80279/",
+  "name": "PacketEvents API",
+  "description": "PacketEvents is an open-source Packet API. (1.7.10 -> 1.18.2 support)",
+  "authors": [
+    "retrooper"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80279.jpg?1608486586",
+  "iconCid": "bafkreiakaoxdyc4h3sbfwsjcbkjpvzhasfcxjye2vels37jliaan5545by",
+  "numberOfDownloads": 3655,
+  "rating": 5,
+  "numberOfVotes": 18,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/packetevents-api.80279/history",
+  "gitUrl": "https://github.com/retrooper/packetevents/",
+  "releaseDate": 1592316060000,
+  "updateDate": 1651077840000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

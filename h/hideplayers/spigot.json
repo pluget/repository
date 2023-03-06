@@ -1,0 +1,26 @@
+{
+  "id": 99883,
+  "url": "https://www.spigotmc.org/resources/hideplayers.99883/",
+  "name": "HidePlayers",
+  "description": "An elegant way to hide players, with cooldown. This plugin support PlaceholderAPI",
+  "authors": [
+    "SergiitoxHDYT"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99883.jpg?1644366135",
+  "iconCid": "bafkreiaas7zznzflnfdi4ti7kmdarm3kum4bmawygycpesdojzpxjtuigu",
+  "numberOfDownloads": 115,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hideplayers.99883/history",
+  "releaseDate": 1644362400000,
+  "updateDate": 1644385980000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

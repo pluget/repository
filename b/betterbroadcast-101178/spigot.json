@@ -1,0 +1,21 @@
+{
+  "id": 101178,
+  "url": "https://www.spigotmc.org/resources/betterbroadcast.101178/",
+  "name": "BetterBroadcast",
+  "description": "Broadcast plugin",
+  "authors": [
+    "Geuxy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101178.jpg?1653810871",
+  "iconCid": "bafkreihle6r6u3ottizpbhwjdfjcls2brlaj4frgwrlnlzivs4ypuqxpya",
+  "numberOfDownloads": 78,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterbroadcast.101178/history",
+  "gitUrl": "https://github.com/Geuxy/broadcast-plugin",
+  "releaseDate": 1649153340000,
+  "updateDate": 1651643160000,
+  "versions": [
+    "1.8"
+  ]
+}

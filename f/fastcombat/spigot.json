@@ -1,0 +1,32 @@
+{
+  "id": 99511,
+  "url": "https://www.spigotmc.org/resources/fastcombat.99511/",
+  "name": "FastCombat",
+  "description": "A plugin optimized for PvP with a combat system to avoid combat logout or commands.",
+  "authors": [
+    "SkyfightTV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99511.jpg?1643129994",
+  "iconCid": "bafkreif2hwq4wecnfoyckiss3dwfqva6x7no2wa5x5l5khlybhe6kvekyi",
+  "numberOfDownloads": 43,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fastcombat.99511/history",
+  "gitUrl": "https://github.com/SkyfightTV/FastCombat",
+  "releaseDate": 1643126220000,
+  "updateDate": 1643126220000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

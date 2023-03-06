@@ -1,0 +1,26 @@
+{
+  "id": 85831,
+  "url": "https://www.spigotmc.org/resources/dead-by-moonlight-blindness.85831/",
+  "name": "Dead by Moonlight - Blindness",
+  "description": "A simple DbM module which gives every Player the Blindness Potion Effect.",
+  "authors": [
+    "Kikikan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85831.jpg?1605538029",
+  "iconCid": "bafkreibhwwpl53eulfxbcf46xbeclupsjqjpeqnivm2bnhflo2mkutsq6m",
+  "numberOfDownloads": 141,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dead-by-moonlight-blindness.85831/history",
+  "gitUrl": "https://github.com/Kikikan/DbMBlindness",
+  "releaseDate": 1605534420000,
+  "updateDate": 1645179060000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 99230,
+  "url": "https://www.spigotmc.org/resources/worldjoincommands.99230/",
+  "name": "WorldJoinCommands",
+  "description": "Execute a commands when a player joins a world.",
+  "authors": [
+    "jurian32e"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99230.jpg?1650300564",
+  "iconCid": "bafkreig3g7qwb6732zzaxhdj6fcywjmrqyrbcpnbmoayfivkgvhnnuiwzi",
+  "numberOfDownloads": 97,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/worldjoincommands.99230/history",
+  "gitUrl": "https://github.com/jurian112211/WorldJoinCommands",
+  "releaseDate": 1642264140000,
+  "updateDate": 1650296940000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

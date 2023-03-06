@@ -1,0 +1,29 @@
+{
+  "id": 85067,
+  "url": "https://www.spigotmc.org/resources/rediskript-communicate-between-servers-with-ease.85067/",
+  "name": "RediSkript - communicate between servers with ease!",
+  "description": "Skript addon for Redis communication between servers in Skript",
+  "authors": [
+    "Govindas"
+  ],
+  "numberOfDownloads": 575,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rediskript-communicate-between-servers-with-ease.85067/history",
+  "gitUrl": "https://git.limework.net/Limework/RediSkript",
+  "releaseDate": 1603360020000,
+  "updateDate": 1648041840000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

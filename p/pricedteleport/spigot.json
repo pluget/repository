@@ -1,0 +1,22 @@
+{
+  "id": 91382,
+  "url": "https://www.spigotmc.org/resources/pricedteleport-free-open-source.91382/",
+  "name": "PricedTeleport [FREE] [OPEN SOURCE]",
+  "description": "Pay to teleport to specific locations",
+  "authors": [
+    "Endsmasher"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91382.jpg?1618576152",
+  "iconCid": "bafkreidul67gqcvrfrzittsxs2wksqtafwwadil4tj35vlm24pzo57hcme",
+  "numberOfDownloads": 199,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pricedteleport-free-open-source.91382/history",
+  "gitUrl": "https://github.com/Endsmasher/PricedTeleport",
+  "releaseDate": 1618572480000,
+  "updateDate": 1641322740000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

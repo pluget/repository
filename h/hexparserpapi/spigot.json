@@ -1,0 +1,31 @@
+{
+  "id": 101398,
+  "url": "https://www.spigotmc.org/resources/hexparserpapi.101398/",
+  "name": "HexParserPAPI",
+  "description": "A placeholderAPI expansion for parsing HexCodes",
+  "authors": [
+    "DibyajyotiDey"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101398.jpg?1650042732",
+  "iconCid": "bafkreihmhdoncda3zyrhlv4kaorq27hckkqwidndwrnnebuc5n52dl3phe",
+  "numberOfDownloads": 23,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hexparserpapi.101398/history",
+  "gitUrl": "https://github.com/MrF1yn/HexParserPAPI",
+  "releaseDate": 1650039060000,
+  "updateDate": 1650039060000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

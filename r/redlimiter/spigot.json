@@ -1,0 +1,22 @@
+{
+  "id": 98761,
+  "url": "https://www.spigotmc.org/resources/redlimiter.98761/",
+  "name": "RedLimiter",
+  "description": "Lag machines begone, but keep your redstone!",
+  "authors": [
+    "Kiteflow"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98761.jpg?1640735052",
+  "iconCid": "bafkreia2bzejtitytkw4tv424psbh5ifgrx3knmrfpregvnakh4lbybpbq",
+  "numberOfDownloads": 378,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/redlimiter.98761/history",
+  "gitUrl": "https://github.com/Kiteflow/RedLimiter/",
+  "releaseDate": 1640731440000,
+  "updateDate": 1643488620000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 101063,
+  "url": "https://www.spigotmc.org/resources/bbv-boss-bar-for-vanish.101063/",
+  "name": "BBV >> Boss Bar for Vanish",
+  "description": "This plugin adds Boss Bar to players who are invisible.",
+  "authors": [
+    "Haskins"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101063.jpg?1648668734",
+  "iconCid": "bafkreied6cbo5jnxagzmqvufwy4a5kidh2u7hhrhxjnlu2zfinh63lhwu4",
+  "numberOfDownloads": 154,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bbv-boss-bar-for-vanish.101063/history",
+  "releaseDate": 1648665120000,
+  "updateDate": 1650118620000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

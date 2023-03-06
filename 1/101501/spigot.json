@@ -1,0 +1,24 @@
+{
+  "id": 101501,
+  "url": "https://www.spigotmc.org/resources/3d-models-axe-itemsadder-addon.101501/",
+  "name": "[3D Models] Axe - ItemsAdder addon",
+  "description": "3D Models - Axe made by OscarCompany - ItemsAdder addon",
+  "authors": [
+    "OscarCompany"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101501.jpg?1650398060",
+  "iconCid": "bafkreidwlw2ohefogy5qqnrhjivjakdkfojilkfsukhmaaqekgnsbjqhxi",
+  "numberOfDownloads": 512,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/3d-models-axe-itemsadder-addon.101501/history",
+  "releaseDate": 1650394440000,
+  "updateDate": 1650394440000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

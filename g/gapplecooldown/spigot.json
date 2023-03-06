@@ -1,0 +1,26 @@
+{
+  "id": 99706,
+  "url": "https://www.spigotmc.org/resources/gapplecooldown.99706/",
+  "name": "GappleCooldown",
+  "description": "Add cooldowns to players using Enchanted Golden Apples (Gapples)",
+  "authors": [
+    "pdev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99706.jpg?1646869403",
+  "iconCid": "bafkreigzazeqpmrmyvb3rbcima7zgulpwvo6h5nkrfjtc3bzkgwdn6on64",
+  "numberOfDownloads": 128,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gapplecooldown.99706/history",
+  "gitUrl": "https://github.com/pdev-op/GappleCooldown",
+  "releaseDate": 1643824680000,
+  "updateDate": 1646866560000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

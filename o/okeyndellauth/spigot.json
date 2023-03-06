@@ -1,0 +1,26 @@
+{
+  "id": 98772,
+  "url": "https://www.spigotmc.org/resources/okeyndellauth.98772/",
+  "name": "OkeyndellAuth",
+  "description": "File authentication to your server!",
+  "authors": [
+    "MrLion"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98772.jpg?1640786062",
+  "iconCid": "bafkreibba7rgzkgtv4plvafp3fn3x7su2epbgt2hsfc6aj2hiuqpymrxvm",
+  "numberOfDownloads": 163,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/okeyndellauth.98772/history",
+  "releaseDate": 1640782440000,
+  "updateDate": 1641479940000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

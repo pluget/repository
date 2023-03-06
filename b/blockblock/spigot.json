@@ -1,0 +1,19 @@
+{
+  "id": 100957,
+  "url": "https://www.spigotmc.org/resources/blockblock.100957/",
+  "name": "BlockBlock",
+  "description": "A Plugin that can block block breaking or placement based on permissions.",
+  "authors": [
+    "tharvoil"
+  ],
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blockblock.100957/history",
+  "gitUrl": "https://github.com/tharvoil/BlockBlock",
+  "releaseDate": 1648251480000,
+  "updateDate": 1648251480000,
+  "versions": [
+    "1.18"
+  ]
+}

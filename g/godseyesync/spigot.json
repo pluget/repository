@@ -1,0 +1,28 @@
+{
+  "id": 78815,
+  "url": "https://www.spigotmc.org/resources/godseyesync-data-synchronization-and-bungeecord-velocity-alerts.78815/",
+  "name": "GodsEyeSync | Data synchronization and Bungeecord/Velocity Alerts",
+  "description": "Data and Bungeecord synchronization for GodsEye Anticheat",
+  "authors": [
+    "GoodTimes14"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/78/78815.jpg?1617298903",
+  "iconCid": "bafkreiec6evcijzpqivkmrdlyqw27rb6vy6wsn3aeurxnfgi6hcenavjey",
+  "numberOfDownloads": 667,
+  "rating": 4,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/godseyesync-data-synchronization-and-bungeecord-velocity-alerts.78815/history",
+  "releaseDate": 1589458200000,
+  "updateDate": 1646580600000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 100315,
+  "url": "https://www.spigotmc.org/resources/mentionalerts-lightweight-ping-system.100315/",
+  "name": "MentionAlerts - Lightweight Ping System",
+  "description": "Ping players when their name was mentioned in chat!",
+  "authors": [
+    "InTheRiches"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100315.jpg?1645895562",
+  "iconCid": "bafkreifaxs5kcfnehq464chthop43mzcek7zjyqs3udeyzdkmatl6lhim4",
+  "numberOfDownloads": 100,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mentionalerts-lightweight-ping-system.100315/history",
+  "releaseDate": 1645891920000,
+  "updateDate": 1645891920000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

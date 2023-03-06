@@ -1,0 +1,30 @@
+{
+  "id": 101721,
+  "url": "https://www.spigotmc.org/resources/skenchants-skript-addon-for-creating-custom-enchants.101721/",
+  "name": "SkEnchants (Skript Addon for creating Custom Enchants)",
+  "description": "Suite of helpful functions that help creating custom enchants easy (Proper Skript addon indev)",
+  "authors": [
+    "SlamTheHam"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101721.jpg?1651231984",
+  "iconCid": "bafkreiehu2zobgxwq5ibkpbcvkms5kl56aqj6tvaohqmkevtegkp2vp6u4",
+  "numberOfDownloads": 202,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skenchants-skript-addon-for-creating-custom-enchants.101721/history",
+  "releaseDate": 1651228260000,
+  "updateDate": 1651230060000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

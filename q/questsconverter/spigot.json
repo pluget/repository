@@ -1,0 +1,32 @@
+{
+  "id": 86165,
+  "url": "https://www.spigotmc.org/resources/questsconverter.86165/",
+  "name": "QuestsConverter",
+  "description": "Convert storage types for use with Quests",
+  "authors": [
+    "PikaMug"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/86/86165.jpg?1615883649",
+  "iconCid": "bafkreibs4o42h5jbaaxevrmcgomslzx4tamyrmkq6mhzubwmslvoj7aiju",
+  "numberOfDownloads": 182,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/questsconverter.86165/history",
+  "gitUrl": "https://github.com/PikaMug/QuestsConverter",
+  "releaseDate": 1606468860000,
+  "updateDate": 1647049980000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

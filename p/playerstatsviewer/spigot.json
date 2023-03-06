@@ -1,0 +1,22 @@
+{
+  "id": 99567,
+  "url": "https://www.spigotmc.org/resources/playerstatsviewer.99567/",
+  "name": "PlayerStatsViewer",
+  "description": "View a player's stats in a clean GUI interface",
+  "authors": [
+    "Lumiobyte"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99567.jpg?1643425618",
+  "iconCid": "bafkreiarlerwblmuhbj3vzsr5tqyiq4kayfby4eso3dahqnl2zbjmify4i",
+  "numberOfDownloads": 550,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playerstatsviewer.99567/history",
+  "releaseDate": 1643373540000,
+  "updateDate": 1644486660000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

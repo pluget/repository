@@ -1,0 +1,23 @@
+{
+  "id": 87512,
+  "url": "https://www.spigotmc.org/resources/launchme.87512/",
+  "name": "LaunchMe",
+  "description": "Ride on top of projectiles you shoot or throw!",
+  "authors": [
+    "ASTRELION"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87512.jpg?1657126830",
+  "iconCid": "bafkreignuwwd7b2jhx5yhici34iaqu34pe2cp2642z3e57trdl4nnrb42e",
+  "numberOfDownloads": 335,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/launchme.87512/history",
+  "gitUrl": "https://gitlab.com/ASTRELION/launchme",
+  "releaseDate": 1609899420000,
+  "updateDate": 1657220460000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

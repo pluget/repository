@@ -1,0 +1,24 @@
+{
+  "id": 92369,
+  "url": "https://www.spigotmc.org/resources/signsearch.92369/",
+  "name": "SignSearch",
+  "description": "Asynchronously search signs matching text near you",
+  "authors": [
+    "William27528"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92369.jpg?1623275281",
+  "iconCid": "bafkreihkqmcgeawjhnmj5losferziygxdadf4f6xxxbnvenwoje3ywkiou",
+  "numberOfDownloads": 127,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/signsearch.92369/history",
+  "gitUrl": "https://github.com/WiIIiam278/SignSearch",
+  "releaseDate": 1621004880000,
+  "updateDate": 1646598240000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 100160,
+  "url": "https://www.spigotmc.org/resources/jagil.100160/",
+  "name": "JAGIL",
+  "description": "just another generic inventory library",
+  "authors": [
+    "Keksnet"
+  ],
+  "numberOfDownloads": 49,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/jagil.100160/history",
+  "gitUrl": "https://github.com/Keksnet/JAGIL-Loader",
+  "releaseDate": 1645300380000,
+  "updateDate": 1648918680000,
+  "versions": [
+    "1.8",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

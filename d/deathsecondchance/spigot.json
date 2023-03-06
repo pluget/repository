@@ -1,0 +1,24 @@
+{
+  "id": 100528,
+  "url": "https://www.spigotmc.org/resources/deathsecondchance.100528/",
+  "name": "DeathSecondChance",
+  "description": "The player must pass a test after death, which decides whether he will be left with his resources",
+  "authors": [
+    "niqita"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100528.jpg?1646596910",
+  "iconCid": "bafkreiccqpvlnx5r6ipydiei5t72kgccuqqb57q3ecmrpsre5qloyrntwu",
+  "numberOfDownloads": 77,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/deathsecondchance.100528/history",
+  "releaseDate": 1646593260000,
+  "updateDate": 1646593260000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

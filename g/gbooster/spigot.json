@@ -1,0 +1,23 @@
+{
+  "id": 89069,
+  "url": "https://www.spigotmc.org/resources/gbooster.89069/",
+  "name": "GBooster",
+  "description": "Global Booster Plugin (Jobs/McMMO/Minecraft)",
+  "authors": [
+    "leop2"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89069.jpg?1634617977",
+  "iconCid": "bafkreiakxbdyysqlfpzux33kcklhkiv5vep7iw256vuonysanozdj3tisq",
+  "numberOfDownloads": 7359,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gbooster.89069/history",
+  "gitUrl": "https://github.com/LeoMeinel/GBooster",
+  "releaseDate": 1613426340000,
+  "updateDate": 1648053780000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

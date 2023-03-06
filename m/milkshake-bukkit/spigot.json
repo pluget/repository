@@ -1,0 +1,32 @@
+{
+  "id": 101518,
+  "url": "https://www.spigotmc.org/resources/milkshake-bukkit-mongodb-odm.101518/",
+  "name": "Milkshake Bukkit | MongoDB ODM",
+  "description": "Milkshake wrapper, a modern ODM for MongoDB.",
+  "authors": [
+    "Sammwy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101518.jpg?1650471926",
+  "iconCid": "bafkreig2zatsp5sdywicxqergeltn65ma4kpi6c2alki6i7cjjd4vtayim",
+  "numberOfDownloads": 66,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/milkshake-bukkit-mongodb-odm.101518/history",
+  "gitUrl": "https://github.com/2lstudios-mc/milkshake-bukkit",
+  "releaseDate": 1650468300000,
+  "updateDate": 1650468300000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 100153,
+  "url": "https://www.spigotmc.org/resources/fac-addon-feral-reports.100153/",
+  "name": "FAC Addon: Feral Reports",
+  "description": "Feral Reports is an addon for FAC that adds a report system and gui",
+  "authors": [
+    "DuxPVP"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100153.jpg?1645293291",
+  "iconCid": "bafkreidnhgm23cv67uglksidvewwijbmku3ejudghuzv74c436ntqhofou",
+  "numberOfDownloads": 41,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fac-addon-feral-reports.100153/history",
+  "releaseDate": 1645289640000,
+  "updateDate": 1645289640000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

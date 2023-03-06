@@ -1,0 +1,31 @@
+{
+  "id": 22408,
+  "url": "https://www.spigotmc.org/resources/dice-roller-roleplay-dice-random-player-selector.22408/",
+  "name": "Dice Roller (Roleplay Dice & Random Player Selector!)",
+  "description": "Roll dice on your server! Perfect for a Role Playing server!",
+  "authors": [
+    "Inamine"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/22/22408.jpg?1461693779",
+  "iconCid": "bafkreid4gqrjgc64xpa5aal6rez3dbkzfte47ubp44nwsr2mjihelmtaqe",
+  "numberOfDownloads": 3418,
+  "rating": 4.9,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dice-roller-roleplay-dice-random-player-selector.22408/history",
+  "gitUrl": "https://github.com/InamineDev/DiceRoller",
+  "releaseDate": 1461690120000,
+  "updateDate": 1644435600000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

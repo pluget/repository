@@ -1,0 +1,19 @@
+{
+  "id": 99483,
+  "url": "https://www.spigotmc.org/resources/lobbyprotection.99483/",
+  "name": "LobbyProtection",
+  "description": "Simple server protection plugin with complete config control. Use /build to bypass all protections.",
+  "authors": [
+    "170"
+  ],
+  "numberOfDownloads": 45,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lobbyprotection.99483/history",
+  "gitUrl": "https://github.com/170yt/LobbyProtection",
+  "releaseDate": 1643040300000,
+  "updateDate": 1643140620000,
+  "versions": [
+    "1.8"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 63513,
+  "url": "https://www.spigotmc.org/resources/stopminingdrops.63513/",
+  "name": "StopMiningDrops",
+  "description": "Stops drops and xp from specified mined blocks in a list of worlds.",
+  "authors": [
+    "Weaves"
+  ],
+  "numberOfDownloads": 270,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/stopminingdrops.63513/history",
+  "gitUrl": "https://github.com/weaves7/StopMiningDrops",
+  "releaseDate": 1545794580000,
+  "updateDate": 1645410900000,
+  "versions": [
+    "1.13",
+    "1.18"
+  ]
+}

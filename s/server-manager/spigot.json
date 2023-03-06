@@ -1,0 +1,21 @@
+{
+  "id": 99559,
+  "url": "https://www.spigotmc.org/resources/server-manager-lobby-command-for-bungee-clearchat.99559/",
+  "name": "Server Manager - /lobby command for Bungee + /clearchat",
+  "description": "Use /lobby on any server and be sent to your lobby.You can customise your Lobby server in the config",
+  "authors": [
+    "SquareWings928"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99559.jpg?1643334118",
+  "iconCid": "bafkreiayiicdolyf5dzmamghtfdnrx6fecaahh6yahc7ia7kk3onhohoci",
+  "numberOfDownloads": 109,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/server-manager-lobby-command-for-bungee-clearchat.99559/history",
+  "releaseDate": 1643330460000,
+  "updateDate": 1643781960000,
+  "versions": [
+    "1.8",
+    "1.9"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 101281,
+  "url": "https://www.spigotmc.org/resources/simpletrashbin.101281/",
+  "name": "SimpleTrashBin",
+  "description": "Simple trash bin in minecraft!",
+  "authors": [
+    "ZeusDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101281.jpg?1649603503",
+  "iconCid": "bafkreify5yhtprtt7sjyzm5zeldvazrf7d5qkqeqyzzqvus7npstu7mjbm",
+  "numberOfDownloads": 208,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simpletrashbin.101281/history",
+  "gitUrl": "https://github.com/ZeusSeinGrossopa/SimpleTrashBin",
+  "releaseDate": 1649599800000,
+  "updateDate": 1649608800000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

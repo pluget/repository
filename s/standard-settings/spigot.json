@@ -1,0 +1,32 @@
+{
+  "id": 71078,
+  "url": "https://www.spigotmc.org/resources/standard-settings-for-party-and-friends-bungeecord-spigot.71078/",
+  "name": "Standard Settings for Party and Friends BungeeCord/Spigot",
+  "description": "Enables you to set default settings for players with a given permission",
+  "authors": [
+    "simonsator"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/71/71078.jpg?1567799623",
+  "iconCid": "bafkreigq4y4jqwhqvret65f2zqpshw4gtl6sasphymklbh6czhbkyq37v4",
+  "numberOfDownloads": 340,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/standard-settings-for-party-and-friends-bungeecord-spigot.71078/history",
+  "gitUrl": "https://github.com/Simonsator/PartyFriendsStandardSettings",
+  "releaseDate": 1567795980000,
+  "updateDate": 1643370480000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

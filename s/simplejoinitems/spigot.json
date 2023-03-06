@@ -1,0 +1,24 @@
+{
+  "id": 71965,
+  "url": "https://www.spigotmc.org/resources/simplejoinitems.71965/",
+  "name": "SimpleJoinItems",
+  "description": "Provides simple and lightweight functionality to give players set of items on join",
+  "authors": [
+    "stuvanya"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/71/71965.jpg?1570875676",
+  "iconCid": "bafkreihy5zffimzdbnwgmg2xqjstovjbguwhrsmoukhpujl4ecek7iusam",
+  "numberOfDownloads": 393,
+  "rating": 4.6,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplejoinitems.71965/history",
+  "releaseDate": 1570780440000,
+  "updateDate": 1644145620000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

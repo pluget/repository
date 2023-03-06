@@ -1,0 +1,32 @@
+{
+  "id": 101777,
+  "url": "https://www.spigotmc.org/resources/autoreboot.101777/",
+  "name": "AutoReboot",
+  "description": "A reboot plugin for Minecraft servers (Spigot/Paper)",
+  "authors": [
+    "lilborgo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101777.jpg?1651435240",
+  "iconCid": "bafkreidzp25nkp4h3uegfkvom2k3kusjfyf4gxnto5olmr4skvr6swj2by",
+  "numberOfDownloads": 58,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/autoreboot.101777/history",
+  "gitUrl": "https://github.com/lilborgo/AutoReboot",
+  "releaseDate": 1651430640000,
+  "updateDate": 1651430640000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

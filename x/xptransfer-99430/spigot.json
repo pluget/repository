@@ -1,0 +1,19 @@
+{
+  "id": 99430,
+  "url": "https://www.spigotmc.org/resources/xptransfer.99430/",
+  "name": "XPTransfer",
+  "description": "A spigot plugin that allows players to transfer their XP Levels to other players",
+  "authors": [
+    "ISTFG_"
+  ],
+  "numberOfDownloads": 44,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/xptransfer.99430/history",
+  "gitUrl": "https://github.com/AzamServer/XPTransfer/",
+  "releaseDate": 1642893180000,
+  "updateDate": 1642893180000,
+  "versions": [
+    "1.18"
+  ]
+}

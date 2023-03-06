@@ -1,0 +1,27 @@
+{
+  "id": 101737,
+  "url": "https://www.spigotmc.org/resources/ankaore-old.101737/",
+  "name": "AnkaOre [OLD]",
+  "description": "When mining ore, the script gives the player money",
+  "authors": [
+    "Islam1705"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101737.jpg?1651300342",
+  "iconCid": "bafkreibeg5ipleszqzt3aw25vqrmsc7qy35f7no4vjbpzaohifejhtd5b4",
+  "numberOfDownloads": 37,
+  "rating": 1,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ankaore-old.101737/history",
+  "releaseDate": 1651296660000,
+  "updateDate": 1651296660000,
+  "versions": [
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

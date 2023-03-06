@@ -1,0 +1,24 @@
+{
+  "id": 65176,
+  "url": "https://www.spigotmc.org/resources/worldguard-events.65176/",
+  "name": "WorldGuard Events",
+  "description": "Easy way to get per-player region entry/departure events.",
+  "authors": [
+    "Weby"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/65/65176.jpg?1551030386",
+  "iconCid": "bafkreierzjjkhiyw3waho4udlfvrufvkouid3isozgb3zxrix7o6v4rnfm",
+  "numberOfDownloads": 6237,
+  "rating": 4.4,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/worldguard-events.65176/history",
+  "gitUrl": "https://github.com/Webbeh/WorldGuard-Events",
+  "releaseDate": 1551026760000,
+  "updateDate": 1644154980000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 99660,
+  "url": "https://www.spigotmc.org/resources/customjoinmessage-join-leave-messages-support-title-actionbar-placeholderapi.99660/",
+  "name": "CustomJoinMessage (Join leave Messages support Title & Actionbar & PlaceholderAPI)",
+  "description": "Custom your join / leave message with Message, Title or Actionbar",
+  "authors": [
+    "p1xEL_mc"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99660.jpg?1643639720",
+  "iconCid": "bafkreigqcum7wvqcvx5jedbkkcc5wmtm5r4rwn2wi4v6m7sraof7ffdl3y",
+  "numberOfDownloads": 54,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/customjoinmessage-join-leave-messages-support-title-actionbar-placeholderapi.99660/history",
+  "releaseDate": 1643635860000,
+  "updateDate": 1643635860000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 83541,
+  "url": "https://www.spigotmc.org/resources/pistonqueue.83541/",
+  "name": "PistonQueue",
+  "description": "Best queue plugin out there! :D",
+  "authors": [
+    "Pistonmaster"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83541.jpg?1612613940",
+  "iconCid": "bafkreib33s25fx64tliakgpagc6cbnckuddaqp24qigqot3c64gfnhsaee",
+  "numberOfDownloads": 3333,
+  "rating": 4.5,
+  "numberOfVotes": 15,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pistonqueue.83541/history",
+  "gitUrl": "https://github.com/AlexProgrammerDE/PistonQueue",
+  "releaseDate": 1599243360000,
+  "updateDate": 1642186500000,
+  "versions": [
+    "1.12",
+    "1.18"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 71235,
+  "url": "https://www.spigotmc.org/resources/dragondropelytra2.71235/",
+  "name": "DragonDropElytra2",
+  "description": "When the Ender dragon is killed an Elytra is dropped.",
+  "authors": [
+    "JoelYahwehOfWar"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/71/71235.jpg?1568789868",
+  "iconCid": "bafkreihvc35jdkubs7xfx2opuplbedgk4jcpjebir65dbjrbwkvzxvpffy",
+  "numberOfDownloads": 11205,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dragondropelytra2.71235/history",
+  "gitUrl": "https://github.com/JoelGodOfwar/DragonDropElytra",
+  "releaseDate": 1568346420000,
+  "updateDate": 1643418300000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

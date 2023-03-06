@@ -1,0 +1,25 @@
+{
+  "id": 101215,
+  "url": "https://www.spigotmc.org/resources/moneyconvert.101215/",
+  "name": "MoneyConvert",
+  "description": "This plugin allows players to convert digital balance into in-game notes!",
+  "authors": [
+    "Shalev0034"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101215.jpg?1649674259",
+  "iconCid": "bafkreidbl6wlijql2g2wn3qqdxjzkn4g6gds56d727aydb2lmlnyo6kpnm",
+  "numberOfDownloads": 34,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/moneyconvert.101215/history",
+  "gitUrl": "https://github.com/ShalevDev/MoneyConvert",
+  "releaseDate": 1649365200000,
+  "updateDate": 1649365200000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

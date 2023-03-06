@@ -1,0 +1,24 @@
+{
+  "id": 99710,
+  "url": "https://www.spigotmc.org/resources/seed-protect.99710/",
+  "name": "Seed Protect",
+  "description": "Forbid players from entering your server seed in chat, set reprecussions.",
+  "authors": [
+    "mrstanley"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99710.jpg?1643836504",
+  "iconCid": "bafkreihawrdqlnnusxlqael2nmny3bk7kwbas62zxxmaqqfgzojoghaoge",
+  "numberOfDownloads": 97,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/seed-protect.99710/history",
+  "gitUrl": "https://github.com/SeedProtect",
+  "releaseDate": 1643832840000,
+  "updateDate": 1643832840000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

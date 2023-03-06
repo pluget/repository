@@ -1,0 +1,22 @@
+{
+  "id": 100406,
+  "url": "https://www.spigotmc.org/resources/survival-lights.100406/",
+  "name": "Survival Lights",
+  "description": "Craftable light source blocks in survival.",
+  "authors": [
+    "Robella"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100406.jpg?1646221665",
+  "iconCid": "bafkreidg53c5r26qmayzhlngpapbc7l2r2t35vxihadhdxgnmnwbybhdt4",
+  "numberOfDownloads": 86,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/survival-lights.100406/history",
+  "gitUrl": "https://github.com/RobellaMC/SurvivalLights",
+  "releaseDate": 1646218020000,
+  "updateDate": 1646218020000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 99093,
+  "url": "https://www.spigotmc.org/resources/scoreboard-health-api.99093/",
+  "name": "Scoreboard health API",
+  "description": "Shows the player's health beneath their name",
+  "authors": [
+    "Tiskua"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99093.jpg?1654807927",
+  "iconCid": "bafkreifjjyzak7tkadano7nisdajawjtnl2kllej5f5dpcpkggchwqd3eq",
+  "numberOfDownloads": 196,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/scoreboard-health-api.99093/history",
+  "releaseDate": 1641779100000,
+  "updateDate": 1649954940000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

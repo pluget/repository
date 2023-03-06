@@ -1,0 +1,20 @@
+{
+  "id": 101004,
+  "url": "https://www.spigotmc.org/resources/1-8-lifesteal-version-1-1.101004/",
+  "name": "1.8 Lifesteal Version 1.1",
+  "description": "A very customizable lifesteal plugin developed for 1.8",
+  "authors": [
+    "9636Dev"
+  ],
+  "numberOfDownloads": 214,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/1-8-lifesteal-version-1-1.101004/history",
+  "gitUrl": "https://github.com/9636Dev/Lifesteal",
+  "releaseDate": 1648373520000,
+  "updateDate": 1648373520000,
+  "versions": [
+    "1.8",
+    "1.9"
+  ]
+}

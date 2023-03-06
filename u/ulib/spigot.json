@@ -1,0 +1,23 @@
+{
+  "id": 93413,
+  "url": "https://www.spigotmc.org/resources/ulib-standalone-spigot-bungeecord-velocity-library.93413/",
+  "name": "uLib - Standalone, Spigot, BungeeCord & Velocity Library",
+  "description": "A library for standalone applications, BungeeCord, Velocity and Spigot plugins.",
+  "authors": [
+    "fluse1367"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93413.jpg?1623974884",
+  "iconCid": "bafkreibyf3dunrmey3phfdkrg2kyc2n5helb2sv35sxuxwtv7autsom46a",
+  "numberOfDownloads": 684,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ulib-standalone-spigot-bungeecord-velocity-library.93413/history",
+  "gitUrl": "https://gitlab.com/software4you.eu/ulib",
+  "releaseDate": 1623971220000,
+  "updateDate": 1646436600000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

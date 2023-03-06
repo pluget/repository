@@ -1,0 +1,23 @@
+{
+  "id": 100224,
+  "url": "https://www.spigotmc.org/resources/chatmod.100224/",
+  "name": "ChatMod",
+  "description": "Smart Chat Moderation for when you need it!",
+  "authors": [
+    "pennacap"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100224.jpg?1645809600",
+  "iconCid": "bafkreihtwvhx3gdsrzorywjowkm2gpqcb7s22qsw5yxhy2rot6s4enxmp4",
+  "numberOfDownloads": 59,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatmod.100224/history",
+  "gitUrl": "https://github.com/pennacap/ChatMod/tree/1.1",
+  "releaseDate": 1645526940000,
+  "updateDate": 1645543260000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

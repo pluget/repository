@@ -1,0 +1,31 @@
+{
+  "id": 95573,
+  "url": "https://www.spigotmc.org/resources/plutonscheduler-multi-commands-1-8-1-18.95573/",
+  "name": "PlutonScheduler | Multi Commands | 1.8-1.18",
+  "description": "Easily schedule commands [1.8-1.16.5]",
+  "authors": [
+    "BrandonGOUW"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95573.jpg?1629643698",
+  "iconCid": "bafkreibbyxfbi4zjhceo3zg3wdyyxufh7ce7vzy52zrfltfvyefavpc634",
+  "numberOfDownloads": 168,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/plutonscheduler-multi-commands-1-8-1-18.95573/history",
+  "gitUrl": "https://github.com/BrandonGouw/PlutonSchedulerV2",
+  "releaseDate": 1629640080000,
+  "updateDate": 1642209300000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

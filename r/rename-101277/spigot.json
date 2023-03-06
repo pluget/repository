@@ -1,0 +1,21 @@
+{
+  "id": 101277,
+  "url": "https://www.spigotmc.org/resources/rename-100-configurable.101277/",
+  "name": "Rename (100% configurable)",
+  "description": "A plugin where you can rename an item with a command.",
+  "authors": [
+    "getUniqueID"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101277.jpg?1649598332",
+  "iconCid": "bafkreiddoweo7salu5bljxv7xstdi7m2vktpnewldes2mdg3oxitlyogmm",
+  "numberOfDownloads": 27,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rename-100-configurable.101277/history",
+  "gitUrl": "https://github.com/zeroequalsone/Rename",
+  "releaseDate": 1649594400000,
+  "updateDate": 1649594400000,
+  "versions": [
+    "1.18"
+  ]
+}

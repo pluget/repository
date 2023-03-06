@@ -1,0 +1,23 @@
+{
+  "id": 99046,
+  "url": "https://www.spigotmc.org/resources/nochatlagserver-fixes-chat-lag-spikes.99046/",
+  "name": "NoChatLagServer | Fixes chat lag spikes",
+  "description": "NoChatLag fixes lagspikes caused by chat by removing the sender UUID from the chat packet.",
+  "authors": [
+    "NoahvdAa"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99046.jpg?1641597020",
+  "iconCid": "bafkreia4ozqath5aup2j2a5vc7zwmpc3bel7bujnhm6hzwn4sifbvo4dhi",
+  "numberOfDownloads": 1133,
+  "rating": 5,
+  "numberOfVotes": 13,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nochatlagserver-fixes-chat-lag-spikes.99046/history",
+  "gitUrl": "https://github.com/NoahvdAa/NoChatLagServer",
+  "releaseDate": 1641593340000,
+  "updateDate": 1648640280000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

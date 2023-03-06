@@ -1,0 +1,25 @@
+{
+  "id": 101189,
+  "url": "https://www.spigotmc.org/resources/jfixlectern-fix-crash-server-with-lectern.101189/",
+  "name": "JFixLectern - Fix Crash Server With Lectern",
+  "description": "#fix #exploit #crash",
+  "authors": [
+    "eghbal"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101189.jpg?1649182613",
+  "iconCid": "bafkreich5w66yd3raxu4hk2jhoxx4jn3xwq3xcfibh35wezjrfyt2tvufq",
+  "numberOfDownloads": 769,
+  "rating": 4.7,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/jfixlectern-fix-crash-server-with-lectern.101189/history",
+  "gitUrl": "https://github.com/eghbalTG/JFixLectern",
+  "releaseDate": 1649178900000,
+  "updateDate": 1649542500000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

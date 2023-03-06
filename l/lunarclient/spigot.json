@@ -1,0 +1,32 @@
+{
+  "id": 100392,
+  "url": "https://www.spigotmc.org/resources/lunarclient-bungeecord-server-star.100392/",
+  "name": "LunarClient BungeeCord Server Star",
+  "description": "LunarClient Star",
+  "authors": [
+    "LyMarket"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100392.jpg?1646167362",
+  "iconCid": "bafkreibg4s5wyszhbiugekzh2u6aspor6qicx6hdl52fsjakfnzcqjrrcy",
+  "numberOfDownloads": 541,
+  "rating": 4.3,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lunarclient-bungeecord-server-star.100392/history",
+  "gitUrl": "https://github.com/Lydark-Studio/LyLunarStar",
+  "releaseDate": 1646163600000,
+  "updateDate": 1646701740000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

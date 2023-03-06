@@ -1,0 +1,25 @@
+{
+  "id": 101649,
+  "url": "https://www.spigotmc.org/resources/vizor-auto-broadcast.101649/",
+  "name": "Vizor - Auto Broadcast",
+  "description": "Automated Broadcasts",
+  "authors": [
+    "Vizor_DEV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101649.jpg?1650903389",
+  "iconCid": "bafkreicxgqr3gpgczlhctupcjvh344es2ahk3ojaf4hr5j2s3jiuavnzi4",
+  "numberOfDownloads": 28,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/vizor-auto-broadcast.101649/history",
+  "releaseDate": 1650899760000,
+  "updateDate": 1650899760000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

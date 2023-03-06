@@ -1,0 +1,25 @@
+{
+  "id": 57178,
+  "url": "https://www.spigotmc.org/resources/messages-%E2%96%B6-skript-messaging-system.57178/",
+  "name": "Messages ▶ Skript Messaging System",
+  "description": "⚡ Customize /msg and /r, disable DMs and spy on people's messages ⚡",
+  "authors": [
+    "Efnilite"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/57/57178.jpg?1641517477",
+  "iconCid": "bafkreigxvrer5mf5zfdegknkn4hijj4sw7mknux6y27piqtbcxwposgin4",
+  "numberOfDownloads": 716,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/messages-%E2%96%B6-skript-messaging-system.57178/history",
+  "releaseDate": 1527336000000,
+  "updateDate": 1641513720000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

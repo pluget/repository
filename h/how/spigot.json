@@ -1,0 +1,30 @@
+{
+  "id": 87045,
+  "url": "https://www.spigotmc.org/resources/how.87045/",
+  "name": "How",
+  "description": "Simple, Lightweight help/text menus using command `/how [subject]`",
+  "authors": [
+    "_ReflexShow_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87045.jpg?1608836825",
+  "iconCid": "bafkreihy6dcqxvyyjrmsrvetwnyshb5myfabzpfyae2tmrsmlxjdnpjcr4",
+  "numberOfDownloads": 283,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/how.87045/history",
+  "releaseDate": 1608833100000,
+  "updateDate": 1647882840000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

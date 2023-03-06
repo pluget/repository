@@ -1,0 +1,23 @@
+{
+  "id": 100279,
+  "url": "https://www.spigotmc.org/resources/dans-plugin-manager-early-access.100279/",
+  "name": "Dan's Plugin Manager (Early Access)",
+  "description": "This plugin is intended to allow operators to easily download my plugins.",
+  "authors": [
+    "DanTheTechMan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100279.jpg?1645752076",
+  "iconCid": "bafkreibtsuqmkhfpqswgmzrgkw6eqglgjklfrsoiymjpnpogr4dqytmggq",
+  "numberOfDownloads": 34,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dans-plugin-manager-early-access.100279/history",
+  "gitUrl": "https://github.com/Dans-Plugins/Dans-Plugin-Manager",
+  "releaseDate": 1645745100000,
+  "updateDate": 1645745100000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

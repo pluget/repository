@@ -1,0 +1,21 @@
+{
+  "id": 93226,
+  "url": "https://www.spigotmc.org/resources/afi-anti-freecam-interactions.93226/",
+  "name": "AFI - Anti Freecam Interactions",
+  "description": "Stops players from breaking blocks and opening chests, lecterns etc. through walls/solid blocks",
+  "authors": [
+    "HasJamOn"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93226.jpg?1623505218",
+  "iconCid": "bafkreifv36wloqwti2e4apxs2qegiygihycl4d2haixfhcvhvzcqob3t54",
+  "numberOfDownloads": 152,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/afi-anti-freecam-interactions.93226/history",
+  "gitUrl": "https://github.com/Block4Block/AntiFreecamInteractions",
+  "releaseDate": 1623501600000,
+  "updateDate": 1645652040000,
+  "versions": [
+    "1.18"
+  ]
+}

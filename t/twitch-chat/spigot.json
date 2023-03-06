@@ -1,0 +1,19 @@
+{
+  "id": 100618,
+  "url": "https://www.spigotmc.org/resources/twitch-chat.100618/",
+  "name": "Twitch Chat",
+  "description": "A customizable twitch chat plugin",
+  "authors": [
+    "quoopie"
+  ],
+  "numberOfDownloads": 131,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/twitch-chat.100618/history",
+  "gitUrl": "https://gitlab.com/quoopie/minecraft-twitch-plugin",
+  "releaseDate": 1647014940000,
+  "updateDate": 1647014940000,
+  "versions": [
+    "1.18"
+  ]
+}

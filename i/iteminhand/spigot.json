@@ -1,0 +1,26 @@
+{
+  "id": 101862,
+  "url": "https://www.spigotmc.org/resources/iteminhand.101862/",
+  "name": "ItemInHand",
+  "description": "What is the item in player hand?",
+  "authors": [
+    "FakeSwape"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101862.jpg?1651875717",
+  "iconCid": "bafkreiffldybw3hfpiptjqoqryh3g564iw6npjdftpwo67nhnlw3jjzyua",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/iteminhand.101862/history",
+  "gitUrl": "https://github.com/SwapeXs/ItemInHand",
+  "releaseDate": 1651871640000,
+  "updateDate": 1651871640000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

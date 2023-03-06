@@ -1,0 +1,30 @@
+{
+  "id": 41074,
+  "url": "https://www.spigotmc.org/resources/jdaspigot.41074/",
+  "name": "JDASpigot",
+  "description": "JDA packed in a plugin [ for developer ]",
+  "authors": [
+    "Porama6400"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/41/41074.jpg?1495283628",
+  "iconCid": "bafkreienfnqcyappgud2yn5skmw2dqxymhytvmaznsss7dx6dctlewmbsa",
+  "numberOfDownloads": 7443,
+  "rating": 4.4,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/jdaspigot.41074/history",
+  "releaseDate": 1495277760000,
+  "updateDate": 1646116020000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

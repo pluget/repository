@@ -1,0 +1,31 @@
+{
+  "id": 100884,
+  "url": "https://www.spigotmc.org/resources/duels.100884/",
+  "name": "Duels",
+  "description": "MySQL/Yaml/SQLite | MultiArena | Holograms | Leaderboard | Rewards | Achievements | Kits",
+  "authors": [
+    "vreecoaster619"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100884.jpg?1647963334",
+  "iconCid": "bafkreiamo5oj6ygpwe3ayzlenjlzn3oqlldm5wvsvxwegi3ns42geudnw4",
+  "numberOfDownloads": 297,
+  "rating": 3.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/duels.100884/history",
+  "gitUrl": "https://github.com/crafter23456/Duels",
+  "releaseDate": 1647946800000,
+  "updateDate": 1647946800000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 101676,
+  "url": "https://www.spigotmc.org/resources/levelchat.101676/",
+  "name": "LevelChat",
+  "description": "A plugin for showing the level changes in chat, title and prefix.",
+  "authors": [
+    "ansontsang1112"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101676.jpg?1651056464",
+  "iconCid": "bafkreievl6wgtk5ht4ubywzd7daxo23flyrrxqm7kjmtydfhj64kae4dei",
+  "numberOfDownloads": 62,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/levelchat.101676/history",
+  "gitUrl": "https://github.com/ansontsang1112/LevelChat",
+  "releaseDate": 1651052820000,
+  "updateDate": 1651052820000,
+  "versions": [
+    "1.18"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 100846,
+  "url": "https://www.spigotmc.org/resources/waypointchat-1-12-2-1-18-2.100846/",
+  "name": "WayPointChat [1.12.2 - 1.18.2]",
+  "description": "An all you need, full customizable chatmanager plugin !",
+  "authors": [
+    "Stefandeman"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100846.jpg?1647784572",
+  "iconCid": "bafkreihclg5ymc2sb25azhzilgvjfshnzrnl35gowyyrnmhbubbttkwpjm",
+  "numberOfDownloads": 129,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/waypointchat-1-12-2-1-18-2.100846/history",
+  "gitUrl": "https://github.com/Branchyz/WayPointChat",
+  "releaseDate": 1647780960000,
+  "updateDate": 1650400440000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 92682,
+  "url": "https://www.spigotmc.org/resources/ieconomy.92682/",
+  "name": "IEconomy",
+  "description": "Simple Economy plugin for multiple server without MySQL etc",
+  "authors": [
+    "Ancash"
+  ],
+  "numberOfDownloads": 757,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ieconomy.92682/history",
+  "gitUrl": "https://github.com/Ancash/IEconomy",
+  "releaseDate": 1621932720000,
+  "updateDate": 1653064320000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

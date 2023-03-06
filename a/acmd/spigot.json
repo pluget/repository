@@ -1,0 +1,25 @@
+{
+  "id": 100090,
+  "url": "https://www.spigotmc.org/resources/acmd-%E2%8F%B0-%E2%8F%B3-autocommands-1-15-1-18.100090/",
+  "name": "ACMD ⏰ ⏳ (AutoCommands) 1.15 - 1.18",
+  "description": "AutoCommands is a Spigot plugin which allows you to create and automate commands for your servers !",
+  "authors": [
+    "Lumi_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100090.jpg?1645139323",
+  "iconCid": "bafkreie37s7bez5qy2rpvivmgfi6m2wt4iglzawfeharzphecllq3yjsii",
+  "numberOfDownloads": 548,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/acmd-%E2%8F%B0-%E2%8F%B3-autocommands-1-15-1-18.100090/history",
+  "releaseDate": 1645103880000,
+  "updateDate": 1650112020000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

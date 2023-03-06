@@ -1,0 +1,27 @@
+{
+  "id": 83245,
+  "url": "https://www.spigotmc.org/resources/agmcore.83245/",
+  "name": "AGMCore",
+  "description": "Basic API for AGMPlugins",
+  "authors": [
+    "MMC2019"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83245.jpg?1598620972",
+  "iconCid": "bafkreicr5tgohpzvuwt7ehf4bb4zzqiyc37bcjljg2jhuy6j7f2cptmmb4",
+  "numberOfDownloads": 1382,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/agmcore.83245/history",
+  "gitUrl": "https://git.agmdev.xyz/AGMCore",
+  "releaseDate": 1598617080000,
+  "updateDate": 1650627840000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

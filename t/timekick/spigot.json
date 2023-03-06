@@ -1,0 +1,18 @@
+{
+  "id": 99200,
+  "url": "https://www.spigotmc.org/resources/timekick.99200/",
+  "name": "TimeKick",
+  "description": "Kicks players if they try to join too soon after starting the server",
+  "authors": [
+    "Strahan"
+  ],
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/timekick.99200/history",
+  "releaseDate": 1642180020000,
+  "updateDate": 1642180020000,
+  "versions": [
+    "1.18"
+  ]
+}

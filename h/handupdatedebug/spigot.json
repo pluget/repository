@@ -1,0 +1,24 @@
+{
+  "id": 101786,
+  "url": "https://www.spigotmc.org/resources/handupdatedebug.101786/",
+  "name": "HandUpdateDebug",
+  "description": "Can find a malfunction from which the item in hand is updated",
+  "authors": [
+    "Kornet_Official"
+  ],
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/handupdatedebug.101786/history",
+  "gitUrl": "https://gitlab.com/Dymeth/HandUpdateDebug",
+  "releaseDate": 1651484460000,
+  "updateDate": 1651484460000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

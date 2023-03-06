@@ -1,0 +1,26 @@
+{
+  "id": 69923,
+  "url": "https://www.spigotmc.org/resources/ore-regeneration.69923/",
+  "name": "Ore Regeneration",
+  "description": "Customizable async ore regeneration plugin for Spigot",
+  "authors": [
+    "HydroTekZ"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/69/69923.jpg?1564656020",
+  "iconCid": "bafkreigsejjbylhpqtfjuedaulotk7sbkkjisopo45ki32cwtlxp4qhsou",
+  "numberOfDownloads": 1650,
+  "rating": 4,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ore-regeneration.69923/history",
+  "gitUrl": "https://github.com/SpillereNO/OreRegeneration",
+  "releaseDate": 1564652160000,
+  "updateDate": 1641630840000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

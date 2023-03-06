@@ -1,0 +1,31 @@
+{
+  "id": 99746,
+  "url": "https://www.spigotmc.org/resources/api-dynamicjson.99746/",
+  "name": "[API] DynamicJson",
+  "description": "Json messaging API",
+  "authors": [
+    "PerryPlaysMC"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99746.jpg?1643949225",
+  "iconCid": "bafkreiavrcriu2sgaxwrvekuu324afxvtgdi5tdv5mghas7egwoxbhj22y",
+  "numberOfDownloads": 94,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/api-dynamicjson.99746/history",
+  "gitUrl": "https://github.com/PerryPlaysMC/DynamicJson",
+  "releaseDate": 1643945580000,
+  "updateDate": 1644202260000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

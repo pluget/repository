@@ -1,0 +1,27 @@
+{
+  "id": 100901,
+  "url": "https://www.spigotmc.org/resources/server-status-vk.100901/",
+  "name": "Server Status (VK)",
+  "description": "Плагин, который показывает онлайн сервера в статусе вашей группы ВК",
+  "authors": [
+    "MrLion"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100901.jpg?1648047222",
+  "iconCid": "bafkreiangwjq3phnzd6635oerzkgx3h5xzatgaeg65tcjfjhqsaokhydhe",
+  "numberOfDownloads": 152,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/server-status-vk.100901/history",
+  "gitUrl": "https://github.com/lkapitman/ServerStatus",
+  "releaseDate": 1648043580000,
+  "updateDate": 1648060440000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

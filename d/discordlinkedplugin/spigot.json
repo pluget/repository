@@ -1,0 +1,19 @@
+{
+  "id": 99630,
+  "url": "https://www.spigotmc.org/resources/discordlinkedplugin.99630/",
+  "name": "DiscordLinkedPlugin",
+  "description": "A simple minecraft plugin running on Spigot 1.18.1 using a Discord bot to play with your friends.",
+  "authors": [
+    "ollprogram"
+  ],
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discordlinkedplugin.99630/history",
+  "gitUrl": "https://github.com/ollprogram/Minecraft-DiscordLinkedPlugin",
+  "releaseDate": 1643547360000,
+  "updateDate": 1643547360000,
+  "versions": [
+    "1.18"
+  ]
+}

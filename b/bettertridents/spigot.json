@@ -1,0 +1,24 @@
+{
+  "id": 92656,
+  "url": "https://www.spigotmc.org/resources/bettertridents.92656/",
+  "name": "BetterTridents",
+  "description": "Improves tridents, 100 % configurable, auto config update, etc.",
+  "authors": [
+    "mfnalex"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92656.jpg?1628155458",
+  "iconCid": "bafkreidgb2emhqkeqre4ooxkt64v3kiiw27qvdr2tfuny427cmam27ayia",
+  "numberOfDownloads": 3307,
+  "rating": 5,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bettertridents.92656/history",
+  "gitUrl": "https://github.com/JEFF-Media-GbR/BetterTridents",
+  "releaseDate": 1621853880000,
+  "updateDate": 1646103300000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

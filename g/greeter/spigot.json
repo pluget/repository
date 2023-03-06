@@ -1,0 +1,31 @@
+{
+  "id": 100062,
+  "url": "https://www.spigotmc.org/resources/greeter.100062/",
+  "name": "Greeter",
+  "description": "Greeting message, Title message and Parting message",
+  "authors": [
+    "aandrosov"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100062.jpg?1645039120",
+  "iconCid": "bafkreiam2cjnmva3zqt6slpuh3mp7mfzsrji4ywvru2g4j7cyuodw7v4hy",
+  "numberOfDownloads": 40,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/greeter.100062/history",
+  "gitUrl": "https://github.com/aandrosov0/GreeterPlugin",
+  "releaseDate": 1645035480000,
+  "updateDate": 1645035480000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

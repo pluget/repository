@@ -1,0 +1,26 @@
+{
+  "id": 79256,
+  "url": "https://www.spigotmc.org/resources/nether-water-enable-water-in-nether-worlds.79256/",
+  "name": "Nether Water - enable water in nether worlds!",
+  "description": "Do you want to have a water in nether and some new features around it? Try this plugin!",
+  "authors": [
+    "ceskyDJ"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79256.jpg?1610479808",
+  "iconCid": "bafkreia3asvsacrwtbaimndzqaps2c7rvwknrdiafn6tha7zz7xqe5avmi",
+  "numberOfDownloads": 1781,
+  "rating": 4,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nether-water-enable-water-in-nether-worlds.79256/history",
+  "gitUrl": "https://github.com/ceskyDJ/NetherWater",
+  "releaseDate": 1590362820000,
+  "updateDate": 1649458320000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

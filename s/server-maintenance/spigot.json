@@ -1,0 +1,30 @@
+{
+  "id": 101708,
+  "url": "https://www.spigotmc.org/resources/server-maintenance-server-wartung.101708/",
+  "name": "Server maintenance | Server Wartung",
+  "description": "a simple plugin to set ur Server in a maintenance that only permissioned People can join!",
+  "authors": [
+    "JoFundy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101708.jpg?1651158371",
+  "iconCid": "bafkreibl4bwyapfku4woojxnieb5zxt7x6w6br5v5ted26mogo6jzpg7bq",
+  "numberOfDownloads": 67,
+  "rating": 3,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/server-maintenance-server-wartung.101708/history",
+  "releaseDate": 1651154580000,
+  "updateDate": 1651154580000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

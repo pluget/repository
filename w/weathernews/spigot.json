@@ -1,0 +1,31 @@
+{
+  "id": 68529,
+  "url": "https://www.spigotmc.org/resources/weathernews.68529/",
+  "name": "WeatherNews",
+  "description": "WeatherNews is a simple plugin that shows weather information in chat as it changes.",
+  "authors": [
+    "rmellis"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/68/68529.jpg?1561089189",
+  "iconCid": "bafkreib74rgno53tkjq3kxanuv3r2fqbqpxhm5o5cenemwhdnkns6lshiy",
+  "numberOfDownloads": 4364,
+  "rating": 4.6,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/weathernews.68529/history",
+  "releaseDate": 1561085520000,
+  "updateDate": 1645027260000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

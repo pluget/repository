@@ -1,0 +1,30 @@
+{
+  "id": 97190,
+  "url": "https://www.spigotmc.org/resources/candysearch.97190/",
+  "name": "CandySearch",
+  "description": "Halloween, Candy, Search, Heads",
+  "authors": [
+    "IndexOutOfMJ"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97190.jpg?1635367370",
+  "iconCid": "bafkreich5ynvr4jqfxqfzyxq3li2de73gnlmzdv4lhjvingojrqfi2nocm",
+  "numberOfDownloads": 216,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/candysearch.97190/history",
+  "gitUrl": "https://git.indexoutofmj.net/IndexOutOfMJ/CandySearch",
+  "releaseDate": 1635363720000,
+  "updateDate": 1643562060000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

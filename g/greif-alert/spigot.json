@@ -1,0 +1,19 @@
+{
+  "id": 101173,
+  "url": "https://www.spigotmc.org/resources/greif-alert-w-teleport.101173/",
+  "name": "Greif Alert w/Teleport",
+  "description": "A plugin that notifed ops of a player breaking a block another user placed with telport.",
+  "authors": [
+    "SoraXRoxas1"
+  ],
+  "numberOfDownloads": 42,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/greif-alert-w-teleport.101173/history",
+  "gitUrl": "https://github.com/WalkingLibrary/GriefAlert",
+  "releaseDate": 1649115900000,
+  "updateDate": 1649115900000,
+  "versions": [
+    "1.18"
+  ]
+}

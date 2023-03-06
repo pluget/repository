@@ -1,0 +1,24 @@
+{
+  "id": 83517,
+  "url": "https://www.spigotmc.org/resources/atom-in-game-file-editor-gui.83517/",
+  "name": "Atom | In-game File Editor + GUI",
+  "description": "Edit server files while in-game",
+  "authors": [
+    "UnlimitedNinjas"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83517.jpg?1599217932",
+  "iconCid": "bafkreihms3r2iuyboyjncx56wq4y7ueyjg4tzisccmwtzibth5oj7rnzn4",
+  "numberOfDownloads": 394,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/atom-in-game-file-editor-gui.83517/history",
+  "gitUrl": "https://github.com/TheSilentPro/Atom",
+  "releaseDate": 1599214320000,
+  "updateDate": 1642283820000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

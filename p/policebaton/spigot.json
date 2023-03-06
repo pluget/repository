@@ -1,0 +1,23 @@
+{
+  "id": 99657,
+  "url": "https://www.spigotmc.org/resources/policebaton-freezing-baton.99657/",
+  "name": "PoliceBaton | Freezing baton",
+  "description": "Adds a freezing baton for policemen",
+  "authors": [
+    "MrH1tech"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99657.jpg?1643632208",
+  "iconCid": "bafkreifomaxbp7jlwugu4v7gt4hfwwgudgx54wfswr7wyj2e62o55rytd4",
+  "numberOfDownloads": 103,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/policebaton-freezing-baton.99657/history",
+  "gitUrl": "https://github.com/MrH1tech/PoliceBaton",
+  "releaseDate": 1643628540000,
+  "updateDate": 1643962140000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

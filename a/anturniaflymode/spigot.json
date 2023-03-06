@@ -1,0 +1,22 @@
+{
+  "id": 100025,
+  "url": "https://www.spigotmc.org/resources/anturniaflymode.100025/",
+  "name": "AnturniaFlyMode",
+  "description": "A plugin to change your fly-mode with custom message support.",
+  "authors": [
+    "FrinshHD"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100025.jpg?1644943840",
+  "iconCid": "bafkreiebhgfbzo3jqv7nnojyf3peksoyaxpmm75nnyhylx4verykfqqptm",
+  "numberOfDownloads": 67,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anturniaflymode.100025/history",
+  "releaseDate": 1644940200000,
+  "updateDate": 1646465220000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

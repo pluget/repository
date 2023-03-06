@@ -1,0 +1,31 @@
+{
+  "id": 39601,
+  "url": "https://www.spigotmc.org/resources/loginplus.39601/",
+  "name": "LoginPlus",
+  "description": "Authentication, Redefined. LoginPlus offers a secure and easy to use alternative.",
+  "authors": [
+    "SourceWriters"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/39/39601.jpg?1604930258",
+  "iconCid": "bafkreifypnx7o3j6oovktjevk4tir44jtrmpdlpo63pshnhin4takkuqci",
+  "numberOfDownloads": 136246,
+  "rating": 4,
+  "numberOfVotes": 35,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/loginplus.39601/history",
+  "gitUrl": "https://github.com/SourceWriters/LoginPlus",
+  "releaseDate": 1492412880000,
+  "updateDate": 1644049980000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

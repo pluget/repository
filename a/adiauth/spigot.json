@@ -1,0 +1,31 @@
+{
+  "id": 95828,
+  "url": "https://www.spigotmc.org/resources/adiauth.95828/",
+  "name": "AdiAuth",
+  "description": "A hybrid auth plugin for bungeecord, cracked and premium!",
+  "authors": [
+    "ad1tya2"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95828.jpg?1630324756",
+  "iconCid": "bafkreib3yevipundkzkil3jhw6zetgioxqcbco5cg6ndwtrtst4etmdrmu",
+  "numberOfDownloads": 585,
+  "rating": 4.4,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/adiauth.95828/history",
+  "gitUrl": "https://github.com/ad1tya2/AdiAuth",
+  "releaseDate": 1630315860000,
+  "updateDate": 1642658100000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

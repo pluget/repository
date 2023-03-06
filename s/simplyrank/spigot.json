@@ -1,0 +1,21 @@
+{
+  "id": 101115,
+  "url": "https://www.spigotmc.org/resources/simplyrank.101115/",
+  "name": "SimplyRank",
+  "description": "A permission-less ranking plugin for cosmetics only.",
+  "authors": [
+    "Netherwhal"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101115.jpg?1649572264",
+  "iconCid": "bafkreig76zre2kyvwdqk4gwo3kqoyeuytmd43axz6dsbrdd5dlqciuktni",
+  "numberOfDownloads": 75,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplyrank.101115/history",
+  "gitUrl": "https://github.com/SimplyVanilla/SimplyRank",
+  "releaseDate": 1648850160000,
+  "updateDate": 1648928280000,
+  "versions": [
+    "1.18"
+  ]
+}

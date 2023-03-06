@@ -1,0 +1,26 @@
+{
+  "id": 10079,
+  "url": "https://www.spigotmc.org/resources/simplejail.10079/",
+  "name": "SimpleJail",
+  "description": "Very simple plugin to jail rulebreakers for a specified time!",
+  "authors": [
+    "Prunt"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/10/10079.jpg?1484238276",
+  "iconCid": "bafkreia72m2oelpvefoypszfnd2c65oimuldyxvfetox3272hzra5foe5e",
+  "numberOfDownloads": 54533,
+  "rating": 3.9,
+  "numberOfVotes": 33,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplejail.10079/history",
+  "gitUrl": "https://github.com/hankur/SimpleJail",
+  "releaseDate": 1437930780000,
+  "updateDate": 1646137860000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.16"
+  ]
+}

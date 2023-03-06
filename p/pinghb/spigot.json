@@ -1,0 +1,21 @@
+{
+  "id": 100477,
+  "url": "https://www.spigotmc.org/resources/pinghb.100477/",
+  "name": "PingHB",
+  "description": "Control ping on your server",
+  "authors": [
+    "HubiSm4_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100477.jpg?1646435009",
+  "iconCid": "bafkreieytg676r46sg33tux3mlkqz72pl3j4rqo6aw7el6kv5b5mqn5vky",
+  "numberOfDownloads": 30,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pinghb.100477/history",
+  "gitUrl": "https://github.com/HubiSm4/PingHB",
+  "releaseDate": 1646431380000,
+  "updateDate": 1646431380000,
+  "versions": [
+    "1.16"
+  ]
+}

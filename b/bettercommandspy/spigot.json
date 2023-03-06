@@ -1,0 +1,33 @@
+{
+  "id": 84030,
+  "url": "https://www.spigotmc.org/resources/bettercommandspy.84030/",
+  "name": "BetterCommandSpy",
+  "description": "[1.7-1.19] The Ultimate CommandSpy Solution. Catch more rulebreakers, check on your staff!",
+  "authors": [
+    "lokka30"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84030.jpg?1632224025",
+  "iconCid": "bafkreiglpozz5cooznhesqggop7s3o2swr2zwgyuubvxnbiph6agrsgn74",
+  "numberOfDownloads": 5250,
+  "rating": 4.8,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bettercommandspy.84030/history",
+  "gitUrl": "https://github.com/lokka30/BetterCommandSpy",
+  "releaseDate": 1600559820000,
+  "updateDate": 1650610980000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

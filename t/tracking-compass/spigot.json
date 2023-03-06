@@ -1,0 +1,24 @@
+{
+  "id": 79777,
+  "url": "https://www.spigotmc.org/resources/tracking-compass.79777/",
+  "name": "Tracking Compass",
+  "description": "Track Players and Waypoints with a Compass!",
+  "authors": [
+    "ZDavePlays"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79777.jpg?1591410901",
+  "iconCid": "bafkreiadcnaiwxilv3kjj5bbezgio522rvlb2snthlhhmnrlzdyx5f2tra",
+  "numberOfDownloads": 70479,
+  "rating": 3.5,
+  "numberOfVotes": 24,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tracking-compass.79777/history",
+  "releaseDate": 1591407240000,
+  "updateDate": 1648400640000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

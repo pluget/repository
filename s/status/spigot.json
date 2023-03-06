@@ -1,0 +1,32 @@
+{
+  "id": 34706,
+  "url": "https://www.spigotmc.org/resources/status-for-party-and-friends-for-bungeecord-extended-edition.34706/",
+  "name": "Status for Party and Friends for BungeeCord Extended Edition",
+  "description": "This plugin adds the command /status and let you see the status in the GUI",
+  "authors": [
+    "simonsator"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/34/34706.jpg?1497973344",
+  "iconCid": "bafkreieujxqokmfwnddclqx5h6istl3o67g4776knn7alorwz6gihym4o4",
+  "numberOfDownloads": 948,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/status-for-party-and-friends-for-bungeecord-extended-edition.34706/history",
+  "gitUrl": "https://github.com/Simonsator/Status-for-PAF",
+  "releaseDate": 1484252400000,
+  "updateDate": 1645434300000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

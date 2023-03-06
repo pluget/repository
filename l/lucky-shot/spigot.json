@@ -1,0 +1,28 @@
+{
+  "id": 100111,
+  "url": "https://www.spigotmc.org/resources/lucky-shot-daily-rewards-minigame.100111/",
+  "name": "Lucky Shot >> Daily rewards minigame",
+  "description": "Shoot at the targets and get rewarded",
+  "authors": [
+    "BiiGBosSZ"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100111.jpg?1645178893",
+  "iconCid": "bafkreih6todwtndhmltmn4m333hzfvuogcteqdzsc2p2eqs6hub6ajvhem",
+  "numberOfDownloads": 82,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lucky-shot-daily-rewards-minigame.100111/history",
+  "releaseDate": 1645175220000,
+  "updateDate": 1645370460000,
+  "versions": [
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

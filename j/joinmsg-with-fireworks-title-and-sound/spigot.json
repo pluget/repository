@@ -1,0 +1,23 @@
+{
+  "id": 99363,
+  "url": "https://www.spigotmc.org/resources/joinmsg-with-fireworks-title-and-sound.99363/",
+  "name": "JoinMSG with Fireworks, Title and Sound",
+  "description": "Create custom join, quit and first join messages for your people",
+  "authors": [
+    "Nooxian"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99363.jpg?1642713115",
+  "iconCid": "bafkreiawodjjima4untnmyrzhmfyee4hhesqyov7a3fgvrqsvb4p7b5fcy",
+  "numberOfDownloads": 135,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/joinmsg-with-fireworks-title-and-sound.99363/history",
+  "gitUrl": "https://github.com/NotTrixxie/JoinMSG",
+  "releaseDate": 1642709460000,
+  "updateDate": 1642796220000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

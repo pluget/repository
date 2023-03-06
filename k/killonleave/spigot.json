@@ -1,0 +1,26 @@
+{
+  "id": 99165,
+  "url": "https://www.spigotmc.org/resources/killonleave.99165/",
+  "name": "KillOnLeave",
+  "description": "This plugin kills players when they leave a server",
+  "authors": [
+    "GreenArrow99"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99165.jpg?1642086099",
+  "iconCid": "bafkreifb5jedbeqvqlxbpabubh5gpdtsgac5hmwsspljodjup6nuiubpyi",
+  "numberOfDownloads": 27,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/killonleave.99165/history",
+  "releaseDate": 1642082460000,
+  "updateDate": 1642082460000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

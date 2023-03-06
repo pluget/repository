@@ -1,0 +1,23 @@
+{
+  "id": 96976,
+  "url": "https://www.spigotmc.org/resources/opaskban.96976/",
+  "name": "OpAskBan",
+  "description": "Automatically ban any player that asks for OP",
+  "authors": [
+    "Professorninja"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96976.jpg?1634868703",
+  "iconCid": "bafkreifkebdg57bxq54x2hyhpu7ozrtm4kx7fm3jgxb5ztvcnbsejuaqee",
+  "numberOfDownloads": 341,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/opaskban.96976/history",
+  "gitUrl": "https://github.com/coder0987/OPAskBan",
+  "releaseDate": 1634697060000,
+  "updateDate": 1646876460000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

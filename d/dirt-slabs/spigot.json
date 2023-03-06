@@ -1,0 +1,22 @@
+{
+  "id": 100475,
+  "url": "https://www.spigotmc.org/resources/dirt-slabs.100475/",
+  "name": "Dirt Slabs",
+  "description": "Makes dirt slabs craftable in survival Minecraft (resource pack needed).",
+  "authors": [
+    "Robella"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100475.jpg?1646430106",
+  "iconCid": "bafkreicfbjptcbukxvsqjyednvlm3golkqe5q5ravngowyxfeeu7lpjf5y",
+  "numberOfDownloads": 45,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dirt-slabs.100475/history",
+  "gitUrl": "https://github.com/RobellaMC/DirtSlabs",
+  "releaseDate": 1646426460000,
+  "updateDate": 1646426460000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

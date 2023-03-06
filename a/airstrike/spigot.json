@@ -1,0 +1,30 @@
+{
+  "id": 100624,
+  "url": "https://www.spigotmc.org/resources/airstrike.100624/",
+  "name": "AirStrike",
+  "description": "Ein AirStrike Plugin",
+  "authors": [
+    "einkaktuslol"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100624.jpg?1647035238",
+  "iconCid": "bafkreifbioxe3fdk7v5vopgk3hr4ptq3zz6yugsdudd6yh6kgsp37soc74",
+  "numberOfDownloads": 52,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/airstrike.100624/history",
+  "releaseDate": 1647031620000,
+  "updateDate": 1647031620000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

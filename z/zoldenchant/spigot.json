@@ -1,0 +1,31 @@
+{
+  "id": 99756,
+  "url": "https://www.spigotmc.org/resources/zoldenchant.99756/",
+  "name": "zOldEnchant",
+  "description": "Revives 1.7 enchanting [1.8 - 1.18]",
+  "authors": [
+    "Maxlego08"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99756.jpg?1643990998",
+  "iconCid": "bafkreidublviwzdzwqmtgvzncrupwislzwmycwh2ufcwo6dcucbzbbsocu",
+  "numberOfDownloads": 56,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/zoldenchant.99756/history",
+  "gitUrl": "https://github.com/Maxlego08/zOldEnchant",
+  "releaseDate": 1643987340000,
+  "updateDate": 1644078600000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

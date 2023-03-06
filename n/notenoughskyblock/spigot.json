@@ -1,0 +1,25 @@
+{
+  "id": 93415,
+  "url": "https://www.spigotmc.org/resources/notenoughskyblock-custom-skyblock-items.93415/",
+  "name": "NotEnoughSkyBlock | Custom SkyBlock Items",
+  "description": "Powerful, fun, and familiar SkyBlock items for your Spigot server!",
+  "authors": [
+    "ThirtyVirus"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93415.jpg?1623985251",
+  "iconCid": "bafkreifdjusg2nbwfr2ts77voc4idz267cq3cqfmuaassg72ut7o5xt4be",
+  "numberOfDownloads": 4454,
+  "rating": 4.1,
+  "numberOfVotes": 15,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/notenoughskyblock-custom-skyblock-items.93415/history",
+  "gitUrl": "https://github.com/ThirtyVirus/Not_Enough_SkyBlock",
+  "releaseDate": 1678053960000,
+  "updateDate": 1678053960000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

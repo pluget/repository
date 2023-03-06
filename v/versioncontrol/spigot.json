@@ -1,0 +1,20 @@
+{
+  "id": 95878,
+  "url": "https://www.spigotmc.org/resources/versioncontrol-viaversion-addon.95878/",
+  "name": "VersionControl [ViaVersion addon]",
+  "description": "Control the versions of the servers in your network",
+  "authors": [
+    "SpielefreakJ"
+  ],
+  "numberOfDownloads": 497,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/versioncontrol-viaversion-addon.95878/history",
+  "releaseDate": 1630460580000,
+  "updateDate": 1641731760000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

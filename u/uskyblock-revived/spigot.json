@@ -1,0 +1,25 @@
+{
+  "id": 66795,
+  "url": "https://www.spigotmc.org/resources/uskyblock-revived.66795/",
+  "name": "uSkyBlock Revived",
+  "description": "The best Skyblock out there...",
+  "authors": [
+    "Linkforsoad"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/66/66795.jpg?1556053068",
+  "iconCid": "bafkreibyll66mtidhwjjgt47teioxmyh7px4l3ahac6xfp7urhu222cgqi",
+  "numberOfDownloads": 82886,
+  "rating": 4.4,
+  "numberOfVotes": 35,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/uskyblock-revived.66795/history",
+  "gitUrl": "https://github.com/uskyblock/uSkyBlock",
+  "releaseDate": 1556022720000,
+  "updateDate": 1641394500000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

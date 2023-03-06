@@ -1,0 +1,21 @@
+{
+  "id": 103151,
+  "url": "https://www.spigotmc.org/resources/openbooks.103151/",
+  "name": "OpenBooks",
+  "description": "Automatically open books when user joins server",
+  "authors": [
+    "gooday2die"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103151.jpg?1657090321",
+  "iconCid": "bafkreienozqe6wabl4qqc52cxkliprcp4tujhnk4nmkakyaps473d3wfbe",
+  "numberOfDownloads": 70,
+  "rating": 4,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/openbooks.103151/history",
+  "gitUrl": "https://github.com/gooday2die/OpenBooks/",
+  "releaseDate": 1657086660000,
+  "updateDate": 1657429440000,
+  "versions": [
+    "1.19"
+  ]
+}

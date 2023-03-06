@@ -1,0 +1,25 @@
+{
+  "id": 96995,
+  "url": "https://www.spigotmc.org/resources/havencore.96995/",
+  "name": "HavenCore",
+  "description": "Add Custom Items, Emojis, GUIs & More!",
+  "authors": [
+    "FlopsiBunny"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96995.jpg?1634807909",
+  "iconCid": "bafkreibomnv6tb45u7qvcpirl3cfz2rfzaztbpxb6e7gluvjpsjnpurdze",
+  "numberOfDownloads": 2060,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/havencore.96995/history",
+  "gitUrl": "https://git.randamonium.co.nz/HavenRealms/HavenCore",
+  "releaseDate": 1634804280000,
+  "updateDate": 1648422300000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

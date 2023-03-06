@@ -1,0 +1,31 @@
+{
+  "id": 101588,
+  "url": "https://www.spigotmc.org/resources/npcdestinations-quests-module.101588/",
+  "name": "NPCDestinations Quests Module",
+  "description": "Quests module for NPCDestinations",
+  "authors": [
+    "Browsit"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101588.jpg?1650697784",
+  "iconCid": "bafkreigigyvnn3dwj4ibnsdj64m67tgygdmssvtcp6ap2iqe6r4udhpjnu",
+  "numberOfDownloads": 151,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/npcdestinations-quests-module.101588/history",
+  "gitUrl": "https://github.com/Browsit/NPCDestinationsQuestsModule",
+  "releaseDate": 1650694020000,
+  "updateDate": 1650694020000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 100338,
+  "url": "https://www.spigotmc.org/resources/economy.100338/",
+  "name": "Economy",
+  "description": "A simple economy system wich saves money in an .yml file.",
+  "authors": [
+    "LordLorse"
+  ],
+  "numberOfDownloads": 583,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/economy.100338/history",
+  "releaseDate": 1645961760000,
+  "updateDate": 1646665860000,
+  "versions": [
+    "1.16"
+  ]
+}

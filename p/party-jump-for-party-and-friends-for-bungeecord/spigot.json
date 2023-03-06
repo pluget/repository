@@ -1,0 +1,32 @@
+{
+  "id": 39579,
+  "url": "https://www.spigotmc.org/resources/party-jump-for-party-and-friends-for-bungeecord.39579/",
+  "name": "Party Jump for Party and Friends for BungeeCord",
+  "description": "Adds the command /party jump to jump to the party leader",
+  "authors": [
+    "simonsator"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/39/39579.jpg?1497975969",
+  "iconCid": "bafkreigq4y4jqwhqvret65f2zqpshw4gtl6sasphymklbh6czhbkyq37v4",
+  "numberOfDownloads": 1195,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/party-jump-for-party-and-friends-for-bungeecord.39579/history",
+  "gitUrl": "https://github.com/Simonsator/Party-Jump",
+  "releaseDate": 1492368120000,
+  "updateDate": 1641727800000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

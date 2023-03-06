@@ -1,0 +1,21 @@
+{
+  "id": 99140,
+  "url": "https://www.spigotmc.org/resources/pingkick-kick-players-with-high-pings-1-18-x.99140/",
+  "name": "PingKick - Kick players with high pings [1.18.X]",
+  "description": "Kick players with high pings, customizable in config!",
+  "authors": [
+    "etcroot"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99140.jpg?1641995290",
+  "iconCid": "bafkreifey5frh4iptjnyi7vewbb6fa27cxpkjcg2vhfwfd4j5xobzb7oqu",
+  "numberOfDownloads": 333,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pingkick-kick-players-with-high-pings-1-18-x.99140/history",
+  "gitUrl": "https://github.com/etcroot/PingKick",
+  "releaseDate": 1641990600000,
+  "updateDate": 1643311620000,
+  "versions": [
+    "1.18"
+  ]
+}

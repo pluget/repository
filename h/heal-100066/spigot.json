@@ -1,0 +1,20 @@
+{
+  "id": 100066,
+  "url": "https://www.spigotmc.org/resources/heal.100066/",
+  "name": "Heal",
+  "description": "Gameserver Only",
+  "authors": [
+    "NickyM25"
+  ],
+  "numberOfDownloads": 25,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/heal.100066/history",
+  "releaseDate": 1645041780000,
+  "updateDate": 1645041780000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

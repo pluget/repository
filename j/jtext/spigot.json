@@ -1,0 +1,29 @@
+{
+  "id": 99377,
+  "url": "https://www.spigotmc.org/resources/jtext.99377/",
+  "name": "jText",
+  "description": "Api to easily parse text on spigot",
+  "authors": [
+    "Divios"
+  ],
+  "numberOfDownloads": 33,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/jtext.99377/history",
+  "gitUrl": "https://github.com/divios/jText",
+  "releaseDate": 1642763760000,
+  "updateDate": 1642763760000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

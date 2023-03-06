@@ -1,0 +1,32 @@
+{
+  "id": 6961,
+  "url": "https://www.spigotmc.org/resources/blockwhitelist-1-8-1-19.6961/",
+  "name": "BlockWhitelist [1.8 - 1.19]",
+  "description": "Define special Blocks that can't be broken!",
+  "authors": [
+    "herby2212"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/6/6961.jpg?1431356315",
+  "iconCid": "bafkreihmq6paggz2teykwast4ci2qruppmuulp7q6ng7rmqql6ee3c7ehu",
+  "numberOfDownloads": 590,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blockwhitelist-1-8-1-19.6961/history",
+  "gitUrl": "https://github.com/herby2212/BlockWhitelist",
+  "releaseDate": 1431352680000,
+  "updateDate": 1649069400000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

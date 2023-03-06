@@ -1,0 +1,25 @@
+{
+  "id": 18360,
+  "url": "https://www.spigotmc.org/resources/myinfo.18360/",
+  "name": "Myinfo",
+  "description": "highly configurable | Tells info about you! From ping to gamemode to player name! | Free",
+  "authors": [
+    "Brammie260"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/18/18360.jpg?1642641035",
+  "iconCid": "bafkreidytzrkypkdokvuurzad2eeb6ahfjywfwjmcb34nvljq33kdnrdv4",
+  "numberOfDownloads": 693,
+  "rating": 2.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/myinfo.18360/history",
+  "releaseDate": 1455293100000,
+  "updateDate": 1642889400000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

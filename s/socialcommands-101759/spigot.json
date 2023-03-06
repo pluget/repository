@@ -1,0 +1,24 @@
+{
+  "id": 101759,
+  "url": "https://www.spigotmc.org/resources/socialcommands.101759/",
+  "name": "SocialCommands",
+  "description": "Plugin that allows you to advertise your various social media profiles!",
+  "authors": [
+    "Highpurity"
+  ],
+  "numberOfDownloads": 31,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/socialcommands.101759/history",
+  "gitUrl": "https://github.com/Highpurity/Social-Commands/tree/master",
+  "releaseDate": 1651378500000,
+  "updateDate": 1651378500000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

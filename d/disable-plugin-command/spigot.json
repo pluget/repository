@@ -1,0 +1,29 @@
+{
+  "id": 72786,
+  "url": "https://www.spigotmc.org/resources/disable-plugin-command.72786/",
+  "name": "Disable Plugin Command",
+  "description": "Disables /pl, /plugins, /about, /version, etc",
+  "authors": [
+    "BGHDDevelopment"
+  ],
+  "numberOfDownloads": 3031,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/disable-plugin-command.72786/history",
+  "gitUrl": "https://github.com/BGHDDevelopment/NoPluginCommand",
+  "releaseDate": 1573944120000,
+  "updateDate": 1649609160000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

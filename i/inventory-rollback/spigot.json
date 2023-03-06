@@ -1,0 +1,31 @@
+{
+  "id": 93436,
+  "url": "https://www.spigotmc.org/resources/inventory-rollback-continued.93436/",
+  "name": "Inventory Rollback: Continued",
+  "description": "Restore players' items after they are (tragically) lost",
+  "authors": [
+    "Sidpatchy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93436.jpg?1638852895",
+  "iconCid": "bafkreihtfls5lvnexfd6v2ysoerkuqvvd4q4mzrbe26fr2whw2yg5dmr74",
+  "numberOfDownloads": 568,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/inventory-rollback-continued.93436/history",
+  "gitUrl": "https://github.com/Sidpatchy/InventoryRollback-Continued",
+  "releaseDate": 1624053360000,
+  "updateDate": 1649796300000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

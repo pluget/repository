@@ -1,0 +1,21 @@
+{
+  "id": 99875,
+  "url": "https://www.spigotmc.org/resources/voterestart-ultimateautorestart-addon.99875/",
+  "name": "VoteRestart UltimateAutoRestart Addon",
+  "description": "An addon for the UltimateAutoRestart plugin which allows users to delay the restart with vote",
+  "authors": [
+    "ORANG3I"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99875.jpg?1644411922",
+  "iconCid": "bafkreib2r4freuoiczp6ryvee7pawxmrnp4tiwxbhrlru7fw2v2xgjwcve",
+  "numberOfDownloads": 68,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/voterestart-ultimateautorestart-addon.99875/history",
+  "gitUrl": "https://github.com/orange-spigot/VoteRestart_UAR_ADDON",
+  "releaseDate": 1644331260000,
+  "updateDate": 1644407460000,
+  "versions": [
+    "1.18"
+  ]
+}

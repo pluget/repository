@@ -1,0 +1,25 @@
+{
+  "id": 95422,
+  "url": "https://www.spigotmc.org/resources/largeraids-1-14-x-1-18-x.95422/",
+  "name": "LargeRaids [1.14.x - 1.18.x]",
+  "description": "Multiplayer raid experience with higher omen levels, more raiders, more waves and higher rewards!",
+  "authors": [
+    "SolarRabbit"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95422.jpg?1633184781",
+  "iconCid": "bafkreig2rs4v2wwoik6op4q6qnnpx5tfn2qrafrlwcdctnlgoxi27uq7ie",
+  "numberOfDownloads": 5406,
+  "rating": 4.8,
+  "numberOfVotes": 19,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/largeraids-1-14-x-1-18-x.95422/history",
+  "gitUrl": "https://github.com/zhenghanlee/LargeRaids",
+  "releaseDate": 1629223080000,
+  "updateDate": 1648980960000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

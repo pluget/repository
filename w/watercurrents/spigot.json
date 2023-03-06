@@ -1,0 +1,20 @@
+{
+  "id": 88401,
+  "url": "https://www.spigotmc.org/resources/watercurrents.88401/",
+  "name": "WaterCurrents",
+  "description": "Make water currents to move players!",
+  "authors": [
+    "Keyblade_Crafter"
+  ],
+  "numberOfDownloads": 67,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/watercurrents.88401/history",
+  "gitUrl": "https://github.com/KeybladeCrafter/WaterCurrents",
+  "releaseDate": 1611859560000,
+  "updateDate": 1649429400000,
+  "versions": [
+    "1.16",
+    "1.18"
+  ]
+}

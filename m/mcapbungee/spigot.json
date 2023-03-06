@@ -1,0 +1,21 @@
+{
+  "id": 100609,
+  "url": "https://www.spigotmc.org/resources/mcapbungee.100609/",
+  "name": "MCAPBungee",
+  "description": "Don't kick player from Bungeecord when using MCAP.",
+  "authors": [
+    "stopper"
+  ],
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mcapbungee.100609/history",
+  "gitUrl": "https://github.com/molniya0207/MCAPBungee",
+  "releaseDate": 1646973660000,
+  "updateDate": 1646973660000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

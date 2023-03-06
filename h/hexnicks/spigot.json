@@ -1,0 +1,23 @@
+{
+  "id": 83554,
+  "url": "https://www.spigotmc.org/resources/hexnicks-easy-nicknames-with-gradients.83554/",
+  "name": "HexNicks - Easy nicknames with gradients!",
+  "description": "Allow players to easily change their nickname and utilize hex color codes and gradients.",
+  "authors": [
+    "Majekdor"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83554.jpg?1599281663",
+  "iconCid": "bafkreihicggh3ix6k36wga64fyhq3dnn7b3duggbue6eqdamdd4rm7qr44",
+  "numberOfDownloads": 11876,
+  "rating": 4.7,
+  "numberOfVotes": 19,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hexnicks-easy-nicknames-with-gradients.83554/history",
+  "gitUrl": "https://github.com/MajekDev/HexNicks",
+  "releaseDate": 1599277980000,
+  "updateDate": 1642128960000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

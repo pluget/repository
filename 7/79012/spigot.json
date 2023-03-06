@@ -1,0 +1,24 @@
+{
+  "id": 79012,
+  "url": "https://www.spigotmc.org/resources/addon-itemsadder-worldedit.79012/",
+  "name": "[Addon] Itemsadder WorldEdit",
+  "description": "Adds ItemsAdder blocks compatibility to WorldEdit",
+  "authors": [
+    "LoneDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79012.jpg?1589896516",
+  "iconCid": "bafkreigs7kekcxubzi24uf6ohnj2ajelq6noqp762wrzlatvpuk5a7mgxe",
+  "numberOfDownloads": 2469,
+  "rating": 4.3,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/addon-itemsadder-worldedit.79012/history",
+  "releaseDate": 1589892900000,
+  "updateDate": 1652437560000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

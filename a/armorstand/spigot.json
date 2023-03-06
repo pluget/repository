@@ -1,0 +1,32 @@
+{
+  "id": 86706,
+  "url": "https://www.spigotmc.org/resources/armorstand-limiter.86706/",
+  "name": "ArmorStand-Limiter",
+  "description": "Problems with tps? Is it ArmorStand's fault? Use ArmorStandLimiter to prevent your server from crash",
+  "authors": [
+    "xSavior_of_God"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/86/86706.jpg?1607910974",
+  "iconCid": "bafkreigumxuvujb7pehgs6qxzopmlwtsah3hezald6a3zfnzfyqm6yqlgi",
+  "numberOfDownloads": 2685,
+  "rating": 5,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/armorstand-limiter.86706/history",
+  "gitUrl": "https://github.com/xSavior-of-God/ArmorStand-Limiter",
+  "releaseDate": 1607907300000,
+  "updateDate": 1648305180000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

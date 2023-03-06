@@ -1,0 +1,23 @@
+{
+  "id": 99885,
+  "url": "https://www.spigotmc.org/resources/serverstatus-redis-required.99885/",
+  "name": "ServerStatus | REDIS REQUIRED",
+  "description": "Notify all operators whenever a server goes online or offline.",
+  "authors": [
+    "GamerProPlaysYT"
+  ],
+  "numberOfDownloads": 27,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/serverstatus-redis-required.99885/history",
+  "releaseDate": 1644405780000,
+  "updateDate": 1644405780000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12"
+  ]
+}

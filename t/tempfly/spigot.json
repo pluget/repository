@@ -1,0 +1,31 @@
+{
+  "id": 54987,
+  "url": "https://www.spigotmc.org/resources/tempfly-now-includes-factions-fly.54987/",
+  "name": "TempFly (Now includes Factions Fly)",
+  "description": "Treat flight time as a currency!",
+  "authors": [
+    "ChiefMoneyBags"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/54/54987.jpg?1522188940",
+  "iconCid": "bafkreidxwe5jp3d574yqrju6wycvcp7drq7bxnh3263idxx3xqlqzp4kae",
+  "numberOfDownloads": 14953,
+  "rating": 4.4,
+  "numberOfVotes": 96,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tempfly-now-includes-factions-fly.54987/history",
+  "gitUrl": "https://github.com/ChiefMoneyBags/TempFly",
+  "releaseDate": 1522185300000,
+  "updateDate": 1649944740000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

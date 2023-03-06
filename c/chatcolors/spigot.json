@@ -1,0 +1,31 @@
+{
+  "id": 100788,
+  "url": "https://www.spigotmc.org/resources/chatcolors.100788/",
+  "name": "ChatColors",
+  "description": "A plugin to change your color in chat",
+  "authors": [
+    "Sundeep"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100788.jpg?1647599574",
+  "iconCid": "bafkreiaab3aw2sz4dsgb5dc4ll5aciztbwpxjexmxem44dyl32m5reqn7e",
+  "numberOfDownloads": 267,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatcolors.100788/history",
+  "releaseDate": 1647595920000,
+  "updateDate": 1648669260000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

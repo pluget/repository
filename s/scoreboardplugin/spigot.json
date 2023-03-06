@@ -1,0 +1,30 @@
+{
+  "id": 88360,
+  "url": "https://www.spigotmc.org/resources/scoreboardplugin.88360/",
+  "name": "ScoreboardPlugin",
+  "description": "Animations, Non-flashing scoreboard, Per world & player scoreboard!",
+  "authors": [
+    "TheDevTec"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88360.jpg?1611773725",
+  "iconCid": "bafkreih4k6e3lnzfj3ubrhqihxdticrvcq5ro7niwb7ih27d2kr7nzpa34",
+  "numberOfDownloads": 396,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/scoreboardplugin.88360/history",
+  "releaseDate": 1611770100000,
+  "updateDate": 1648226460000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

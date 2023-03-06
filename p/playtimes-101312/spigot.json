@@ -1,0 +1,21 @@
+{
+  "id": 101312,
+  "url": "https://www.spigotmc.org/resources/playtimes-skript.101312/",
+  "name": "Playtimes [SKRIPT]",
+  "description": "Provide pretty lag free player times",
+  "authors": [
+    "Warpedtimes"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101312.jpg?1649754229",
+  "iconCid": "bafkreifcfcmu6vxbybzrc2yh2fivmqzzzzvlfqf3q3vxxwz4jngjb7lple",
+  "numberOfDownloads": 106,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playtimes-skript.101312/history",
+  "gitUrl": "https://github.com/Warpedtimes/Skript/blob/main/Playtime.sk",
+  "releaseDate": 1649709480000,
+  "updateDate": 1649709480000,
+  "versions": [
+    "1.18"
+  ]
+}

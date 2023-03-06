@@ -1,0 +1,31 @@
+{
+  "id": 66703,
+  "url": "https://www.spigotmc.org/resources/dungeonsxl-quests-module.66703/",
+  "name": "DungeonsXL Quests Module",
+  "description": "Quests module for DungeonsXL",
+  "authors": [
+    "PikaMug"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/66/66703.jpg?1613877300",
+  "iconCid": "bafkreigigyvnn3dwj4ibnsdj64m67tgygdmssvtcp6ap2iqe6r4udhpjnu",
+  "numberOfDownloads": 2734,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dungeonsxl-quests-module.66703/history",
+  "gitUrl": "https://github.com/PikaMug/DungeonsXLQuestsModule",
+  "releaseDate": 1555730820000,
+  "updateDate": 1650764640000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

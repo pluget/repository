@@ -1,0 +1,28 @@
+{
+  "id": 100473,
+  "url": "https://www.spigotmc.org/resources/envoys-the-ultimate-supply-drop-plugin.100473/",
+  "name": "Envoys - The Ultimate Supply Drop Plugin",
+  "description": "Random locations, tiers, holograms, simple in-game config editing, Placeholder API support and more",
+  "authors": [
+    "DotRar"
+  ],
+  "numberOfDownloads": 158,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/envoys-the-ultimate-supply-drop-plugin.100473/history",
+  "gitUrl": "https://github.com/EnvoysDev/Envoys",
+  "releaseDate": 1646421660000,
+  "updateDate": 1646421660000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

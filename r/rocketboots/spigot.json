@@ -1,0 +1,31 @@
+{
+  "id": 13529,
+  "url": "https://www.spigotmc.org/resources/rocketboots.13529/",
+  "name": "RocketBoots",
+  "description": "Various rocket boots, fun and useful, for flying around your server.",
+  "authors": [
+    "Gamerboy59"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/13/13529.jpg?1445279554",
+  "iconCid": "bafkreigxtruaip7zdumeelxj6n5mqj7omyumikrvl4ayogojsqs2rckigu",
+  "numberOfDownloads": 982,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rocketboots.13529/history",
+  "gitUrl": "https://github.com/Gamerboy59/RocketBoots",
+  "releaseDate": 1445275920000,
+  "updateDate": 1645004160000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

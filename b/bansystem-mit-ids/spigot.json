@@ -1,0 +1,33 @@
+{
+  "id": 65863,
+  "url": "https://www.spigotmc.org/resources/bansystem-mit-ids-spigot-bungeecord.65863/",
+  "name": "BanSystem mit IDs [Spigot/Bungeecord]",
+  "description": "Bansystem, IDs, Strafensystem, Bungeecord, Kostenlos, Spigot, MySQL, SQLite, Ban, Mute, Punish",
+  "authors": [
+    "EnderKohle_HD"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/65/65863.jpg?1561923292",
+  "iconCid": "bafkreibjgrdg4zyhxyvj3uywwbdu25vkqyejehd2u7vcolg64ualsb5sua",
+  "numberOfDownloads": 11780,
+  "rating": 4.4,
+  "numberOfVotes": 58,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bansystem-mit-ids-spigot-bungeecord.65863/history",
+  "gitUrl": "https://github.com/antisocialtobi/BanSystem-v2",
+  "releaseDate": 1553358780000,
+  "updateDate": 1645471020000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

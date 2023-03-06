@@ -1,0 +1,27 @@
+{
+  "id": 80201,
+  "url": "https://www.spigotmc.org/resources/jakes-rtp.80201/",
+  "name": "Jake's RTP",
+  "description": "It teleports you, randomly! (Lots of settings, multiple worlds and configs supported)",
+  "authors": [
+    "JakeTS"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80201.jpg?1592680981",
+  "iconCid": "bafkreibnkzunte35hwzef2ei22sqk5tf4jv2p2haq4k474ush2g665j2de",
+  "numberOfDownloads": 12219,
+  "rating": 4.8,
+  "numberOfVotes": 18,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/jakes-rtp.80201/history",
+  "gitUrl": "https://github.com/donvi-bz/JakesRTP",
+  "releaseDate": 1592167380000,
+  "updateDate": 1649887620000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 103210,
+  "url": "https://www.spigotmc.org/resources/proxypackfix.103210/",
+  "name": "ProxyPackFix",
+  "description": "Prevents resourcepack reinstall on server switch & other actions",
+  "authors": [
+    "Feniks_HD"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103210.jpg?1657308604",
+  "iconCid": "bafkreiftr3jcz7yh4enskua4kncjdlaee7tpwffbwbyxfoetihhjfxaqoe",
+  "numberOfDownloads": 77,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/proxypackfix.103210/history",
+  "gitUrl": "https://github.com/Feniksovich/ProxyPackFix",
+  "releaseDate": 1657304940000,
+  "updateDate": 1657304940000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

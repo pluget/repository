@@ -1,0 +1,31 @@
+{
+  "id": 68165,
+  "url": "https://www.spigotmc.org/resources/warp-magic.68165/",
+  "name": "Warp Magic",
+  "description": "Where did you learn how to teleport?",
+  "authors": [
+    "sword7"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/68/68165.jpg?1560100150",
+  "iconCid": "bafkreiffyowfckyjo4u3okqknldlaekaxgjjrppeh2ujusnktk76xpw6te",
+  "numberOfDownloads": 6128,
+  "rating": 4.8,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/warp-magic.68165/history",
+  "gitUrl": "https://gitlab.com/sword7/warpmagic",
+  "releaseDate": 1560096540000,
+  "updateDate": 1641566640000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

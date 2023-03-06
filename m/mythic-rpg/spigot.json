@@ -1,0 +1,21 @@
+{
+  "id": 101348,
+  "url": "https://www.spigotmc.org/resources/mythic-rpg.101348/",
+  "name": "Mythic RPG",
+  "description": "Simple RPG Plugin for Spigot Servers",
+  "authors": [
+    "AlterStepix"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101348.jpg?1649868747",
+  "iconCid": "bafkreiaf2qog3gx7jorvhh5q4ttwrbsus3o3st3iw3dnwiqvx3p3xe3zja",
+  "numberOfDownloads": 224,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mythic-rpg.101348/history",
+  "gitUrl": "https://github.com/AlterStepix/MythicRPG",
+  "releaseDate": 1649864700000,
+  "updateDate": 1651593660000,
+  "versions": [
+    "1.18"
+  ]
+}

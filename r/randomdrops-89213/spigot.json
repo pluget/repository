@@ -1,0 +1,25 @@
+{
+  "id": 89213,
+  "url": "https://www.spigotmc.org/resources/randomdrops.89213/",
+  "name": "RandomDrops",
+  "description": "Randomize your drops !",
+  "authors": [
+    "RedBoard"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89213.jpg?1613721564",
+  "iconCid": "bafkreib5t4c2moxnvyystv2fwakkirilir3jtmtftsok4kzhlylfakqqx4",
+  "numberOfDownloads": 767,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/randomdrops.89213/history",
+  "releaseDate": 1613717940000,
+  "updateDate": 1645283760000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

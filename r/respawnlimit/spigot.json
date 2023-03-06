@@ -1,0 +1,20 @@
+{
+  "id": 100832,
+  "url": "https://www.spigotmc.org/resources/respawnlimit.100832/",
+  "name": "RespawnLimit",
+  "description": "allows you to set a X number of lives for all players can be changed via config",
+  "authors": [
+    "OmgaX"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100832.jpg?1647741560",
+  "iconCid": "bafkreiavlmzza64wayr6hu6wbm4iu2zyhiz2wksnem3y5hbrg5d5gnpo2e",
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/respawnlimit.100832/history",
+  "releaseDate": 1647737340000,
+  "updateDate": 1647739800000,
+  "versions": [
+    "1.18"
+  ]
+}

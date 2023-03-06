@@ -1,0 +1,24 @@
+{
+  "id": 82877,
+  "url": "https://www.spigotmc.org/resources/enderdragontweaks.82877/",
+  "name": "EnderDragonTweaks",
+  "description": "Simple & configurable tweaks for the Ender Dragon in multiplayer",
+  "authors": [
+    "Evs"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82877.jpg?1597762563",
+  "iconCid": "bafkreibh3gdmw6yzcmx5wjtbrqi5eh4t3abyacjl753gksrnjph4ugoxkm",
+  "numberOfDownloads": 1028,
+  "rating": 4.9,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/enderdragontweaks.82877/history",
+  "gitUrl": "https://github.com/evs-dev/EnderDragonTweaks",
+  "releaseDate": 1597758900000,
+  "updateDate": 1653071520000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

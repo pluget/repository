@@ -1,0 +1,25 @@
+{
+  "id": 92355,
+  "url": "https://www.spigotmc.org/resources/hubplus-1-13-x-1-18-x.92355/",
+  "name": "HubPlus [1.13.X-1.18.X]",
+  "description": "A simple /hub, /lobby or /spawn plugin (fully customizable) for Bungee or Local Worlds",
+  "authors": [
+    "Partymann2000"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92355.jpg?1635005374",
+  "iconCid": "bafkreihroniv4jurfy3qtpefvxu7zy74na6jsyooecqjw4rygya43q7szu",
+  "numberOfDownloads": 977,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hubplus-1-13-x-1-18-x.92355/history",
+  "releaseDate": 1620990360000,
+  "updateDate": 1646680260000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

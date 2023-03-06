@@ -1,0 +1,31 @@
+{
+  "id": 78318,
+  "url": "https://www.spigotmc.org/resources/fjetpack.78318/",
+  "name": "FJetpack",
+  "description": "Simple a Jetpack Plugin - Lightweight - Fuel System - Multi Jetpack with customizable configuration",
+  "authors": [
+    "PhantomXCraft"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/78/78318.jpg?1588570789",
+  "iconCid": "bafkreiavxml4jc6kf24e3fguqdvxne7orbj75aofmtmdfowsyekxt3vyxe",
+  "numberOfDownloads": 3123,
+  "rating": 4.4,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fjetpack.78318/history",
+  "gitUrl": "https://github.com/adi-itgg/FJetpack",
+  "releaseDate": 1588567140000,
+  "updateDate": 1647702780000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

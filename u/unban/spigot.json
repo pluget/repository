@@ -1,0 +1,20 @@
+{
+  "id": 95970,
+  "url": "https://www.spigotmc.org/resources/unban.95970/",
+  "name": "Unban",
+  "description": "A simple plugin to unban Players with \"/unban\" instead of \"/pardon\"",
+  "authors": [
+    "OfficerYoda"
+  ],
+  "numberOfDownloads": 292,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/unban.95970/history",
+  "gitUrl": "https://github.com/OfficerYoda/Unban",
+  "releaseDate": 1630781760000,
+  "updateDate": 1642182780000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

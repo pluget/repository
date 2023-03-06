@@ -1,0 +1,25 @@
+{
+  "id": 93296,
+  "url": "https://www.spigotmc.org/resources/challenges-mongoconnector.93296/",
+  "name": "Challenges MongoConnector",
+  "description": "MongoDB dependency plugin for our challenges plugin",
+  "authors": [
+    "KxmischesDomi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93296.jpg?1647192228",
+  "iconCid": "bafkreih3od77525e6hpefs54dh436ortom7khjsqdbr6xtgmfafadhyedm",
+  "numberOfDownloads": 84,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/challenges-mongoconnector.93296/history",
+  "gitUrl": "https://github.com/anweisen/Challenges",
+  "releaseDate": 1623613320000,
+  "updateDate": 1647171840000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

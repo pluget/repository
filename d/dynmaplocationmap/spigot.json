@@ -1,0 +1,23 @@
+{
+  "id": 99095,
+  "url": "https://www.spigotmc.org/resources/dynmaplocationmap.99095/",
+  "name": "DynmapLocationMap",
+  "description": "A plugin that takes a dynmap link, and formats it into a location link.",
+  "authors": [
+    "V1nc3ntWasTaken"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99095.jpg?1641789773",
+  "iconCid": "bafkreibk2w3zyr75ita2bzk3bcprglofajeksdalj4uawwxiufyer3w2py",
+  "numberOfDownloads": 165,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dynmaplocationmap.99095/history",
+  "gitUrl": "https://github.com/V1nc3ntWasTaken/DynmapLocationMap",
+  "releaseDate": 1641786120000,
+  "updateDate": 1642276860000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 100388,
+  "url": "https://www.spigotmc.org/resources/build-realm.100388/",
+  "name": "Build Realm",
+  "description": "Allows players to create world drafts, collaborate and group them.",
+  "authors": [
+    "Gerolmed"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100388.jpg?1646147180",
+  "iconCid": "bafkreiexoqe2xovqp3vy743l6fpystxngvm6yc3y7eod7up6i2cufwzdce",
+  "numberOfDownloads": 94,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/build-realm.100388/history",
+  "gitUrl": "https://github.com/Gerolmed/BuildRealm",
+  "releaseDate": 1646143560000,
+  "updateDate": 1646574240000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

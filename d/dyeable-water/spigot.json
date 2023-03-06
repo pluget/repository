@@ -1,0 +1,23 @@
+{
+  "id": 73694,
+  "url": "https://www.spigotmc.org/resources/dyeable-water.73694/",
+  "name": "Dyeable Water",
+  "description": "Brings dyeable water, lava and potion brewing to cauldrons in Minecraft Java Edition",
+  "authors": [
+    "eccentric"
+  ],
+  "numberOfDownloads": 1977,
+  "rating": 3.6,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dyeable-water.73694/history",
+  "gitUrl": "https://github.com/eccentricdevotion/DyeableWater",
+  "releaseDate": 1577141640000,
+  "updateDate": 1648337400000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

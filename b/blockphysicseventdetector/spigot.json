@@ -1,0 +1,24 @@
+{
+  "id": 84854,
+  "url": "https://www.spigotmc.org/resources/blockphysicseventdetector.84854/",
+  "name": "BlockPhysicsEventDetector",
+  "description": "Detect lagging BlockPhysicsEvents",
+  "authors": [
+    "LoneDev"
+  ],
+  "numberOfDownloads": 276,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blockphysicseventdetector.84854/history",
+  "releaseDate": 1602862620000,
+  "updateDate": 1642592160000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

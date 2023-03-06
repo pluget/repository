@@ -1,0 +1,28 @@
+{
+  "id": 108367,
+  "url": "https://www.spigotmc.org/resources/actionbarannouncements.108367/",
+  "name": "ActionbarAnnouncements",
+  "description": "Easy automatic announcements that will be sent trough actionbar",
+  "authors": [
+    "WoZniaKTV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108367.jpg?1677954596",
+  "iconCid": "bafkreif6pr3gbiikdn4avqdnxvauf24qr6qejwnuacqjkm7xxijdrzeqau",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/actionbarannouncements.108367/history",
+  "gitUrl": "https://t.me/WoZDev",
+  "releaseDate": 1677938820000,
+  "updateDate": 1677938820000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

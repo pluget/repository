@@ -1,0 +1,31 @@
+{
+  "id": 68409,
+  "url": "https://www.spigotmc.org/resources/ajantixray.68409/",
+  "name": "ajAntiXray",
+  "description": "Get a notification about possible xrayers!",
+  "authors": [
+    "ajgeiss0702"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/68/68409.jpg?1646361387",
+  "iconCid": "bafkreih37mxb3tupwz6yid6ue5wyfm5lx2nzjvriegg4kg45sazj42qfzy",
+  "numberOfDownloads": 27316,
+  "rating": 4.8,
+  "numberOfVotes": 16,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ajantixray.68409/history",
+  "releaseDate": 1560782640000,
+  "updateDate": 1650141060000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

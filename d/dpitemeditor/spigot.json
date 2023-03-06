@@ -1,0 +1,27 @@
+{
+  "id": 100380,
+  "url": "https://www.spigotmc.org/resources/dp-itemeditor-1-12-1-18.100380/",
+  "name": "DP-ItemEditor [1.12~1.18]",
+  "description": "ItemStack editor, display name, lore, enchant, NBT",
+  "authors": [
+    "DEADPOOLIO"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100380.jpg?1646115667",
+  "iconCid": "bafkreieabs2bbyrfc7nxqip5phtrmcgqhyjrkxqslisl3atbethpwxjcda",
+  "numberOfDownloads": 98,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dp-itemeditor-1-12-1-18.100380/history",
+  "gitUrl": "https://github.com/darksoldier1404/DP-ItemEditor/",
+  "releaseDate": 1646111100000,
+  "updateDate": 1646510160000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

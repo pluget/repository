@@ -1,0 +1,31 @@
+{
+  "id": 101433,
+  "url": "https://www.spigotmc.org/resources/socialx-abbandoned.101433/",
+  "name": "SocialX [ABBANDONED]",
+  "description": "A simple plugin to tell your server's players to follow its social medias",
+  "authors": [
+    "Sgattix"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101433.jpg?1650185048",
+  "iconCid": "bafkreichmsjh7z3l7vpstlnl454rpafryfjstir66p7x5pshw7to22pqvy",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/socialx-abbandoned.101433/history",
+  "gitUrl": "https://github.com/Regent20/SocialX",
+  "releaseDate": 1650181440000,
+  "updateDate": 1650181440000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

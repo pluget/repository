@@ -1,0 +1,22 @@
+{
+  "id": 101482,
+  "url": "https://www.spigotmc.org/resources/governor.101482/",
+  "name": "Governor",
+  "description": "An Unofficial Towny Expansion Plugin",
+  "authors": [
+    "ShermansWorld"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101482.jpg?1650335820",
+  "iconCid": "bafkreihcxco7xdf5uutzocts2ctj5j6ukftr2cu25oagd3j3mvg73emlmy",
+  "numberOfDownloads": 159,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/governor.101482/history",
+  "gitUrl": "https://github.com/ShermansWorld/Governor",
+  "releaseDate": 1650332160000,
+  "updateDate": 1651803060000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 99403,
+  "url": "https://www.spigotmc.org/resources/betterlogin.99403/",
+  "name": "BetterLogin",
+  "description": "Minecraft Server login authentication/protection plugin",
+  "authors": [
+    "AspectGaming0018"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99403.jpg?1642824026",
+  "iconCid": "bafkreib4ug2dygcqnsbprlgftzlhe3ibhpmitokfhxkuhxrnrc3a2ecbq4",
+  "numberOfDownloads": 95,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterlogin.99403/history",
+  "gitUrl": "https://github.com/aspectluv/BetterLogin.git",
+  "releaseDate": 1642820400000,
+  "updateDate": 1642820400000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

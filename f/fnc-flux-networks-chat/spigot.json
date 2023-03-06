@@ -1,0 +1,31 @@
+{
+  "id": 100404,
+  "url": "https://www.spigotmc.org/resources/fnc-flux-networks-chat.100404/",
+  "name": "FNC - Flux Networks Chat",
+  "description": "Flux Networks Chat is a Formatting Plugin for LuckPerms",
+  "authors": [
+    "IncasedDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100404.jpg?1646216924",
+  "iconCid": "bafkreiewns6what7ggvvasdr6icx45il7rima657pvq6scn3it453ihxpa",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fnc-flux-networks-chat.100404/history",
+  "gitUrl": "https://github.com/IncasedDevelopment/FNC",
+  "releaseDate": 1646213280000,
+  "updateDate": 1646213280000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

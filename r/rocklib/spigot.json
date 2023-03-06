@@ -1,0 +1,23 @@
+{
+  "id": 101046,
+  "url": "https://www.spigotmc.org/resources/rocklib.101046/",
+  "name": "RockLib",
+  "description": "A small, experimental, general use library!",
+  "authors": [
+    "rockyers"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101046.jpg?1648613365",
+  "iconCid": "bafkreifdcwdo6hkkyfmemkwyugdp4dh6irier554cnuxusrxv3345rmdxi",
+  "numberOfDownloads": 20,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rocklib.101046/history",
+  "gitUrl": "https://github.com/Rockyers/RockLib",
+  "releaseDate": 1648609740000,
+  "updateDate": 1648609740000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

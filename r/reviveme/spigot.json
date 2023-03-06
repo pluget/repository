@@ -1,0 +1,25 @@
+{
+  "id": 78184,
+  "url": "https://www.spigotmc.org/resources/reviveme-beta.78184/",
+  "name": "ReviveMe [Beta]",
+  "description": "revive players before they die!",
+  "authors": [
+    "FavioFlashMc"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/78/78184.jpg?1588585628",
+  "iconCid": "bafkreidxcpyo5p3qfmvg6ce2je3imhns6rlnhr62l4tctfouslbu5zui2i",
+  "numberOfDownloads": 75550,
+  "rating": 4.6,
+  "numberOfVotes": 94,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/reviveme-beta.78184/history",
+  "releaseDate": 1588272060000,
+  "updateDate": 1649866020000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

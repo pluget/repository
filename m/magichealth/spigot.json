@@ -1,0 +1,24 @@
+{
+  "id": 97199,
+  "url": "https://www.spigotmc.org/resources/magichealth.97199/",
+  "name": "MagicHealth",
+  "description": "Zelda like health expansion.",
+  "authors": [
+    "portalsam"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97199.jpg?1635396312",
+  "iconCid": "bafkreicmjjscbtncvaixtgfpp2d6u7rhm3e3bofefbx3u3ofr3yw5obiuy",
+  "numberOfDownloads": 565,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/magichealth.97199/history",
+  "gitUrl": "https://github.com/portalsam1/MagicHealth",
+  "releaseDate": 1635392700000,
+  "updateDate": 1642023180000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

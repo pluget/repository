@@ -1,0 +1,21 @@
+{
+  "id": 92395,
+  "url": "https://www.spigotmc.org/resources/simple-anti-lava-cast.92395/",
+  "name": "Simple Anti Lava Cast",
+  "description": "Ruin a griefers day by disabling lava casting",
+  "authors": [
+    "OllieJW"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92395.jpg?1621105553",
+  "iconCid": "bafkreiaihojizeltp6ak4ansqxcpo6to2aqv4manjtzafxgld3ywyrgo6m",
+  "numberOfDownloads": 373,
+  "rating": 4.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-anti-lava-cast.92395/history",
+  "gitUrl": "https://github.com/OllieJW/AntiLavaCast",
+  "releaseDate": 1621086840000,
+  "updateDate": 1643752200000,
+  "versions": [
+    "1.16"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 50392,
+  "url": "https://www.spigotmc.org/resources/ticketmanager-1-18-fully-custom-gui-interface-sql-support.50392/",
+  "name": "// TicketManager | [1.18] | [FULLY CUSTOM GUI INTERFACE] | [SQL SUPPORT] \\\\",
+  "description": "Allow players creation of / staff management of tickets easily and orderly! 99% Customizeable!",
+  "authors": [
+    "TheTealViper"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/50/50392.jpg?1512527052",
+  "iconCid": "bafkreif6uxm37wxun4q5jrrift5zruvqm2eygueefqqzdw4754twjnqgmq",
+  "numberOfDownloads": 2448,
+  "rating": 4.5,
+  "numberOfVotes": 15,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ticketmanager-1-18-fully-custom-gui-interface-sql-support.50392/history",
+  "gitUrl": "https://github.com/thetealviper/Spigot_TicketManager",
+  "releaseDate": 1512523380000,
+  "updateDate": 1642042260000,
+  "versions": [
+    "1.18"
+  ]
+}

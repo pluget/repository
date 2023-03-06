@@ -1,0 +1,32 @@
+{
+  "id": 327,
+  "url": "https://www.spigotmc.org/resources/asyncworldedit.327/",
+  "name": "AsyncWorldEdit",
+  "description": "Async WorldEdit - Edit millions of blocks without lag!",
+  "authors": [
+    "SB_prime"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/0/327.jpg?1391290736",
+  "iconCid": "bafkreihbcafp2wthbd3x4exdewzd5zheqmtqth7bwc6onksumf4a3oodqy",
+  "numberOfDownloads": 304352,
+  "rating": 4.2,
+  "numberOfVotes": 205,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/asyncworldedit.327/history",
+  "gitUrl": "https://github.com/SBPrime/AsyncWorldEdit/",
+  "releaseDate": 1391287080000,
+  "updateDate": 1642446600000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

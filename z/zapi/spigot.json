@@ -1,0 +1,19 @@
+{
+  "id": 100221,
+  "url": "https://www.spigotmc.org/resources/zapi-advanced-integrated-api-for-plugins.100221/",
+  "name": "zAPI | Advanced Integrated API for Plugins",
+  "description": "Advanced Integrated API for Plugins",
+  "authors": [
+    "ziue"
+  ],
+  "numberOfDownloads": 36,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/zapi-advanced-integrated-api-for-plugins.100221/history",
+  "gitUrl": "https://github.com/ziuee/zAPI",
+  "releaseDate": 1645516560000,
+  "updateDate": 1645516560000,
+  "versions": [
+    "1.8"
+  ]
+}

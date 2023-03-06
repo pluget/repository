@@ -1,0 +1,30 @@
+{
+  "id": 99647,
+  "url": "https://www.spigotmc.org/resources/pettransportation.99647/",
+  "name": "PetTransportation",
+  "description": "An easy way to bring pets with you",
+  "authors": [
+    "kirkTWM"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99647.jpg?1644021860",
+  "iconCid": "bafkreidjn6wohdkjoowm3dosvnh5cor6k7vya4rgpcvzycmgkgnrevrjcu",
+  "numberOfDownloads": 93,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pettransportation.99647/history",
+  "gitUrl": "https://github.com/Kirk-Fox/PetTransportation",
+  "releaseDate": 1643563800000,
+  "updateDate": 1644550620000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

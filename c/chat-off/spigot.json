@@ -1,0 +1,31 @@
+{
+  "id": 100273,
+  "url": "https://www.spigotmc.org/resources/chat-off-on-cc-clear.100273/",
+  "name": "Chat off/on/cc/clear",
+  "description": "The best simple chat plugin. Chat off/on/cc/clear",
+  "authors": [
+    "rCode"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100273.jpg?1645824849",
+  "iconCid": "bafkreidvx25nhpw5w57hmfvqkgm35nk3dnqni56rbm65bduvt2c26i6334",
+  "numberOfDownloads": 170,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chat-off-on-cc-clear.100273/history",
+  "gitUrl": "https://github.com/rcode-pro/RCodeChat",
+  "releaseDate": 1645710540000,
+  "updateDate": 1645962900000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": 99893,
+  "url": "https://www.spigotmc.org/resources/custom-join-leave-messages.99893/",
+  "name": "Custom Join/Leave Message's",
+  "description": "Customise or disable join messages on your server",
+  "authors": [
+    "ARR4NN"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99893.jpg?1644432118",
+  "iconCid": "bafkreibu7c64yj7xipcfegmotb62xcmzwxh3x5qpgmuo3zyzgwskqycdti",
+  "numberOfDownloads": 102,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/custom-join-leave-messages.99893/history",
+  "releaseDate": 1644428460000,
+  "updateDate": 1644428460000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

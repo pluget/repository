@@ -1,0 +1,29 @@
+{
+  "id": 99420,
+  "url": "https://www.spigotmc.org/resources/jevents.99420/",
+  "name": "jEvents",
+  "description": "Create spigot events on the go.",
+  "authors": [
+    "Divios"
+  ],
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/jevents.99420/history",
+  "gitUrl": "https://github.com/divios/jEvents",
+  "releaseDate": 1642872660000,
+  "updateDate": 1642872660000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

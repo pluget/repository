@@ -1,0 +1,33 @@
+{
+  "id": 84017,
+  "url": "https://www.spigotmc.org/resources/microlib.84017/",
+  "name": "MicroLib",
+  "description": "[1.7-1.19] A nifty library to suit your plugin development needs! | Shaded or Dependency",
+  "authors": [
+    "lokka30"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84017.jpg?1632224054",
+  "iconCid": "bafkreialaptaj3kqq4dtx4pyflzzt3lh5es3ket6rv4eu4yrb3bz7iaima",
+  "numberOfDownloads": 1194,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/microlib.84017/history",
+  "gitUrl": "https://github.com/lokka30/MicroLib",
+  "releaseDate": 1600519140000,
+  "updateDate": 1648889040000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

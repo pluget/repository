@@ -1,0 +1,21 @@
+{
+  "id": 101430,
+  "url": "https://www.spigotmc.org/resources/api-%E2%8F%A9-redispluginmessages-%E2%9C%85-simple-plugin-messaging-system-%E2%AD%95-easier-messaging-between-servers.101430/",
+  "name": "API ⏩ RedisPluginMessages ✅ Simple Plugin Messaging System ⭕ Easier Messaging Between Servers!",
+  "description": "Spigot/BungeeCord plugin for PluginMessaging without a player using Redis, an in-memory database.",
+  "authors": [
+    "amata1219"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101430.jpg?1650183139",
+  "iconCid": "bafkreibag7lkbllva4buthbhbcaymmsizyi7eavghyv37vi3bq2st2m3nq",
+  "numberOfDownloads": 44,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/api-%E2%8F%A9-redispluginmessages-%E2%9C%85-simple-plugin-messaging-system-%E2%AD%95-easier-messaging-between-servers.101430/history",
+  "gitUrl": "https://github.com/amata1219/RedisPluginMessages",
+  "releaseDate": 1650172380000,
+  "updateDate": 1650172380000,
+  "versions": [
+    "1.18"
+  ]
+}

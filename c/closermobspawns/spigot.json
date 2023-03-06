@@ -1,0 +1,25 @@
+{
+  "id": 99694,
+  "url": "https://www.spigotmc.org/resources/closermobspawns.99694/",
+  "name": "CloserMobSpawns",
+  "description": "Prevent mobs from spawning in caves far away from everyone",
+  "authors": [
+    "barfuzzle99"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99694.jpg?1643902389",
+  "iconCid": "bafkreih7acofp6eihpazex4whzqe3p4bsipr3yhpcbb3ofoq5jxhq43hl4",
+  "numberOfDownloads": 152,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/closermobspawns.99694/history",
+  "releaseDate": 1643754000000,
+  "updateDate": 1644094860000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

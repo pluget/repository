@@ -1,0 +1,24 @@
+{
+  "id": 74104,
+  "url": "https://www.spigotmc.org/resources/the-piggy-bank.74104/",
+  "name": "The Piggy Bank",
+  "description": "a simple custom item based economy",
+  "authors": [
+    "klugemonkey"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/74/74104.jpg?1578353503",
+  "iconCid": "bafkreiendpsdbx2udzlgglpd5qobiek6zdkap7czlh4pcbyifp3fhiz3am",
+  "numberOfDownloads": 3526,
+  "rating": 4.1,
+  "numberOfVotes": 22,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/the-piggy-bank.74104/history",
+  "releaseDate": 1578349860000,
+  "updateDate": 1651769700000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

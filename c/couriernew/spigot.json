@@ -1,0 +1,26 @@
+{
+  "id": 68099,
+  "url": "https://www.spigotmc.org/resources/couriernew-a-unique-mail-system.68099/",
+  "name": "CourierNew | A unique mail system",
+  "description": "Send and receive physical letters with a courier!",
+  "authors": [
+    "Jeremaster101"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/68/68099.jpg?1615488268",
+  "iconCid": "bafkreief2oh4254yluh4vcomv75noa447ijeazrdjnfhv33qeujtd5kxle",
+  "numberOfDownloads": 1360,
+  "rating": 4.5,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/couriernew-a-unique-mail-system.68099/history",
+  "gitUrl": "https://github.com/jeremynoesen/CourierNew",
+  "releaseDate": 1559937240000,
+  "updateDate": 1651159740000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

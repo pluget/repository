@@ -1,0 +1,20 @@
+{
+  "id": 98991,
+  "url": "https://www.spigotmc.org/resources/sethome.98991/",
+  "name": "SetHome",
+  "description": "Set locations to teleport to",
+  "authors": [
+    "Chronospace"
+  ],
+  "numberOfDownloads": 749,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sethome.98991/history",
+  "gitUrl": "https://github.com/Chronocrisp/McSethome",
+  "releaseDate": 1641411900000,
+  "updateDate": 1646473500000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

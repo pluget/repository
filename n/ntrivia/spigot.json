@@ -1,0 +1,30 @@
+{
+  "id": 79789,
+  "url": "https://www.spigotmc.org/resources/ntrivia.79789/",
+  "name": "nTrivia",
+  "description": "Make your server chat more alive with random trivia questions.",
+  "authors": [
+    "NoahvdAa"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79789.jpg?1591453612",
+  "iconCid": "bafkreiauxglesg56iveutfzvzz573d6eawvfx3tjdj6fq2lvdq6o2umcyy",
+  "numberOfDownloads": 271,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ntrivia.79789/history",
+  "gitUrl": "https://github.com/NoahvdAa/nTrivia",
+  "releaseDate": 1591449960000,
+  "updateDate": 1652455500000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

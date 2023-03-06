@@ -1,0 +1,26 @@
+{
+  "id": 99591,
+  "url": "https://www.spigotmc.org/resources/qr-code-map.99591/",
+  "name": "QR Code Map",
+  "description": "Allows you to create a QR-Сode maps with any text or link",
+  "authors": [
+    "rapust"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99591.jpg?1643454260",
+  "iconCid": "bafkreib4wuc6zh3x5pluadz24dfqdono46knyvnqjrvyqfhjy4qjsi4imm",
+  "numberOfDownloads": 70,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/qr-code-map.99591/history",
+  "gitUrl": "https://github.com/rapust/QRCodeMap",
+  "releaseDate": 1643450460000,
+  "updateDate": 1643450460000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

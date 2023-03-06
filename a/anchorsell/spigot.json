@@ -1,0 +1,23 @@
+{
+  "id": 90038,
+  "url": "https://www.spigotmc.org/resources/anchorsell-earn-money-automatically-1-16-x-1-18-x.90038/",
+  "name": "AnchorSell - Earn money automatically (1.16.x - 1.18.x)",
+  "description": "Earn money using respawn anchors. Upgrade the anchors to earn more money!",
+  "authors": [
+    "DadoGamer13"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90038.jpg?1639751721",
+  "iconCid": "bafkreibmldby55lvbgwliyrpqbe45465qroj4amjfbgmaw52hmevxpeptm",
+  "numberOfDownloads": 880,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anchorsell-earn-money-automatically-1-16-x-1-18-x.90038/history",
+  "gitUrl": "https://github.com/FranciscoDadone/AnchorSell",
+  "releaseDate": 1615566480000,
+  "updateDate": 1643644560000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

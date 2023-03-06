@@ -1,0 +1,21 @@
+{
+  "id": 101619,
+  "url": "https://www.spigotmc.org/resources/%E2%9C%A8-removing-heart-effects-%E2%9C%A8-1-16-x.101619/",
+  "name": "✨ Removing Heart effects! ✨ [1.16.x]",
+  "description": "This plugin removing the heart effects via protocollib",
+  "authors": [
+    "_KatilCivciv_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101619.jpg?1650811609",
+  "iconCid": "bafkreicp45yv7x5fecdhdej5thc3nasas3uq4x7vo32d5yonyygfvhhscq",
+  "numberOfDownloads": 40,
+  "rating": 5,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9C%A8-removing-heart-effects-%E2%9C%A8-1-16-x.101619/history",
+  "gitUrl": "https://github.com/YunussEmree/Minecraft-plugin-source-codes/tree/main/No-Hearts",
+  "releaseDate": 1650807960000,
+  "updateDate": 1650807960000,
+  "versions": [
+    "1.16"
+  ]
+}

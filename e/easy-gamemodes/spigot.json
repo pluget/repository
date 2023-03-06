@@ -1,0 +1,23 @@
+{
+  "id": 101751,
+  "url": "https://www.spigotmc.org/resources/easy-gamemodes.101751/",
+  "name": "Easy Gamemodes",
+  "description": "Makes switching gamemodes simpler",
+  "authors": [
+    "Bladestorme1011"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101751.jpg?1651341712",
+  "iconCid": "bafkreid4tq5jurl3utgsapu32cxvybtnzcbjbqj334ktus27zyurvew7ye",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/easy-gamemodes.101751/history",
+  "gitUrl": "https://github.com/UntrustedTech/Easy-Gamemode/releases",
+  "releaseDate": 1651338060000,
+  "updateDate": 1651338060000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

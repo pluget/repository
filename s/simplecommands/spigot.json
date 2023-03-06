@@ -1,0 +1,20 @@
+{
+  "id": 99975,
+  "url": "https://www.spigotmc.org/resources/simplecommands.99975/",
+  "name": "SimpleCommands",
+  "description": "Simple commands that every server needs.",
+  "authors": [
+    "ImAle"
+  ],
+  "numberOfDownloads": 28,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplecommands.99975/history",
+  "gitUrl": "https://github.com/HexyeDEV/SimpleCommands",
+  "releaseDate": 1644758040000,
+  "updateDate": 1644758040000,
+  "versions": [
+    "1.8",
+    "1.9"
+  ]
+}

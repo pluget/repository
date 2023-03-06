@@ -1,0 +1,27 @@
+{
+  "id": 81484,
+  "url": "https://www.spigotmc.org/resources/admin-tools.81484/",
+  "name": "Admin Tools",
+  "description": "Minecraft administration tools - RCON , Server and Api status",
+  "authors": [
+    "Lukeonuke"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81484.jpg?1615930042",
+  "iconCid": "bafkreicvona6jyvw6wqto5wsnq26ko3wflkbrgzkhmq4m5cn7zcqyy746i",
+  "numberOfDownloads": 1483,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/admin-tools.81484/history",
+  "gitUrl": "https://github.com/LukeOnuke/AdminTools",
+  "releaseDate": 1594885560000,
+  "updateDate": 1647631620000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

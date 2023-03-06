@@ -1,0 +1,31 @@
+{
+  "id": 91756,
+  "url": "https://www.spigotmc.org/resources/skinsevolved.91756/",
+  "name": "SkinsEvolved",
+  "description": "Easy to use skin manipulation plugin",
+  "authors": [
+    "Lauriichan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91756.jpg?1642952975",
+  "iconCid": "bafkreif5lmucf6jgql46pp2cv5k4rd4sewnr2mqfbfnfgwoaj5intc6a54",
+  "numberOfDownloads": 418,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skinsevolved.91756/history",
+  "gitUrl": "https://github.com/Lauriichan/SkinsEvolved",
+  "releaseDate": 1619453040000,
+  "updateDate": 1649600940000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

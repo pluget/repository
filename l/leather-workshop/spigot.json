@@ -1,0 +1,21 @@
+{
+  "id": 101986,
+  "url": "https://www.spigotmc.org/resources/leather-workshop.101986/",
+  "name": "Leather Workshop",
+  "description": "Cook ROTTEN_FLESH items into leather.",
+  "authors": [
+    "traugdor"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101986.jpg?1652513139",
+  "iconCid": "bafkreifgbxwfojfyk22nidhvqych7i44xloe4wjxzoukeioprbtndngnfa",
+  "numberOfDownloads": 235,
+  "rating": 4.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/leather-workshop.101986/history",
+  "gitUrl": "https://github.com/traugdor/LeatherWorkshop",
+  "releaseDate": 1652509500000,
+  "updateDate": 1652538180000,
+  "versions": [
+    "1.18"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 73827,
+  "url": "https://www.spigotmc.org/resources/peconomy.73827/",
+  "name": "PEconomy",
+  "description": "Minecraft economy plugin with unlimited currencies & more features",
+  "authors": [
+    "SoKnight"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/73/73827.jpg?1640027762",
+  "iconCid": "bafkreif2lyn2cf6sonywzyfsmo63qgbchsbckkooxxq7gygg7vdlkrpfwe",
+  "numberOfDownloads": 1792,
+  "rating": 4.3,
+  "numberOfVotes": 8,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/peconomy.73827/history",
+  "gitUrl": "https://github.com/SoKnight/PEconomy",
+  "releaseDate": 1677777600000,
+  "updateDate": 1677777600000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

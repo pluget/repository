@@ -1,0 +1,26 @@
+{
+  "id": 100305,
+  "url": "https://www.spigotmc.org/resources/keep-inventory-xp.100305/",
+  "name": "Keep Inventory XP",
+  "description": "Keep the player's inventory and experience upon death",
+  "authors": [
+    "KerryLam"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100305.jpg?1645857798",
+  "iconCid": "bafkreigify5rzwbnckmddhsbn3ax55gp5by4i4zhdxhgxwc64hu3uhygw4",
+  "numberOfDownloads": 99,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/keep-inventory-xp.100305/history",
+  "gitUrl": "https://github.com/vinhuptoday/keepip",
+  "releaseDate": 1645854180000,
+  "updateDate": 1645854180000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

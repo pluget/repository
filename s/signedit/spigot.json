@@ -1,0 +1,21 @@
+{
+  "id": 99036,
+  "url": "https://www.spigotmc.org/resources/signedit.99036/",
+  "name": "SignEdit",
+  "description": "Copy and edit signs!",
+  "authors": [
+    "EdenUnited"
+  ],
+  "numberOfDownloads": 221,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/signedit.99036/history",
+  "gitUrl": "https://github.com/EdenUnited/SignEdit",
+  "releaseDate": 1641562560000,
+  "updateDate": 1651004280000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

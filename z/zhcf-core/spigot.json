@@ -1,0 +1,21 @@
+{
+  "id": 101225,
+  "url": "https://www.spigotmc.org/resources/hcf-zhcf-core.101225/",
+  "name": "[HCF] zHCF Core",
+  "description": "A simple hcf core for starting server, might post src soon!",
+  "authors": [
+    "Lucalmao"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101225.jpg?1649426392",
+  "iconCid": "bafkreigkwsljkvc3ldkttqt4q27c5ooa7wilr3wmwbzocgcvgbz6muhr5y",
+  "numberOfDownloads": 166,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hcf-zhcf-core.101225/history",
+  "releaseDate": 1649419920000,
+  "updateDate": 1649419920000,
+  "versions": [
+    "1.7",
+    "1.8"
+  ]
+}

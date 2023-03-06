@@ -1,0 +1,22 @@
+{
+  "id": 99827,
+  "url": "https://www.spigotmc.org/resources/block-skyblock-commands.99827/",
+  "name": "Block Skyblock commands",
+  "description": "Allows you to block certain skyblock commands through a list variable.",
+  "authors": [
+    "zNotVoid"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99827.jpg?1644158019",
+  "iconCid": "bafkreihjyv7ggxnslr2e7xcfkuuxtg57ikflsudfmye5c4d2a6s77e4o74",
+  "numberOfDownloads": 44,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/block-skyblock-commands.99827/history",
+  "releaseDate": 1644154380000,
+  "updateDate": 1644154380000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.16"
+  ]
+}

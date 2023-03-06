@@ -1,0 +1,23 @@
+{
+  "id": 99476,
+  "url": "https://www.spigotmc.org/resources/entitycages.99476/",
+  "name": "EntityCages",
+  "description": "Pick up entites and store them in an item",
+  "authors": [
+    "Mbarrr"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99476.jpg?1643031268",
+  "iconCid": "bafkreicfj5xztrqm2uzcdzucj7thd4hcgsm77uzoghbkf2mr22imqyon6q",
+  "numberOfDownloads": 256,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/entitycages.99476/history",
+  "gitUrl": "https://github.com/MBarrr/EntityCages",
+  "releaseDate": 1643026980000,
+  "updateDate": 1644479880000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 99491,
+  "url": "https://www.spigotmc.org/resources/embellish-easily-colour-text-with-hex-codes.99491/",
+  "name": "Embellish | Easily colour text with hex codes!",
+  "description": "Configurable and simple to use command for Spigot servers to generate colour codes for text",
+  "authors": [
+    "diademiemi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99491.jpg?1643054706",
+  "iconCid": "bafkreigaemfexu5u7swhtjmp3snfwrv2pa5dewvtfydpuuvwzjlfunvvqu",
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/embellish-easily-colour-text-with-hex-codes.99491/history",
+  "gitUrl": "https://github.com/diademiemi/Embellish",
+  "releaseDate": 1643051040000,
+  "updateDate": 1643100420000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

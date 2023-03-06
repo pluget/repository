@@ -1,0 +1,19 @@
+{
+  "id": 99012,
+  "url": "https://www.spigotmc.org/resources/resourcepacktools.99012/",
+  "name": "ResourcePackTools",
+  "description": "A plugin that allows you to force players to apply a resource pack on a server.",
+  "authors": [
+    "BrunoRM"
+  ],
+  "numberOfDownloads": 27,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/resourcepacktools.99012/history",
+  "gitUrl": "https://github.com/TheBrunoRM/ResourcePackTools",
+  "releaseDate": 1641485340000,
+  "updateDate": 1641485340000,
+  "versions": [
+    "1.8"
+  ]
+}

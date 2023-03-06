@@ -1,0 +1,32 @@
+{
+  "id": 30671,
+  "url": "https://www.spigotmc.org/resources/mute-all-command-extension-for-party-and-friends.30671/",
+  "name": "Mute All Command extension for Party and Friends",
+  "description": "Adds the /friend muteall command to Party and Friends",
+  "authors": [
+    "simonsator"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/30/30671.jpg?1497976184",
+  "iconCid": "bafkreigq4y4jqwhqvret65f2zqpshw4gtl6sasphymklbh6czhbkyq37v4",
+  "numberOfDownloads": 772,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mute-all-command-extension-for-party-and-friends.30671/history",
+  "gitUrl": "https://github.com/Simonsator/Mute-All-For-PAF",
+  "releaseDate": 1476988860000,
+  "updateDate": 1642939740000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

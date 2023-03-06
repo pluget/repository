@@ -1,0 +1,22 @@
+{
+  "id": 89857,
+  "url": "https://www.spigotmc.org/resources/%E2%9A%A1-midi-player-%E2%9A%A1.89857/",
+  "name": "⚡ MIDI player ⚡",
+  "description": "MIDI visualization, play midi file",
+  "authors": [
+    "JacekWoln"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89857.jpg?1615148596",
+  "iconCid": "bafkreibwfxcssckr54j63bdlq2sybra4zz32ohm24k7h4nf64d3lr26wmm",
+  "numberOfDownloads": 575,
+  "rating": 4.9,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9A%A1-midi-player-%E2%9A%A1.89857/history",
+  "gitUrl": "https://github.com/jwdeveloper/JW_PianoPlayer",
+  "releaseDate": 1615144980000,
+  "updateDate": 1641356040000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 99952,
+  "url": "https://www.spigotmc.org/resources/1vs1-duel-bungeecord-support-multiple-arena-mysql-stats-scaleable.99952/",
+  "name": "1vs1 / Duel - Bungeecord support, Multiple arena, MySql, Stats, Scaleable",
+  "description": "Instead of hosting per server one 1vs1 game, does this plugin it reversed",
+  "authors": [
+    "ProfSam"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99952.jpg?1646826862",
+  "iconCid": "bafkreieshritxy6y6uehtfsgj4vmvaa4u6hs52hethmplv7hqelnn63y6u",
+  "numberOfDownloads": 201,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/1vs1-duel-bungeecord-support-multiple-arena-mysql-stats-scaleable.99952/history",
+  "gitUrl": "https://github.com/ProfessorSam/1vs1",
+  "releaseDate": 1644674640000,
+  "updateDate": 1647778680000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

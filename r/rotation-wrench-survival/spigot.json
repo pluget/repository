@@ -1,0 +1,24 @@
+{
+  "id": 80166,
+  "url": "https://www.spigotmc.org/resources/rotation-wrench-survival-friendly-block-rotation.80166/",
+  "name": "Rotation Wrench - Survival-Friendly Block Rotation",
+  "description": "Adds a wrench that allows you to rotate almost any block",
+  "authors": [
+    "Klausar"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80166.jpg?1592598008",
+  "iconCid": "bafkreidpwczfedizxbu7kkhiijtgrbu7l52acvfie4ouz4wunzvxyxrkuy",
+  "numberOfDownloads": 1261,
+  "rating": 4.8,
+  "numberOfVotes": 13,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rotation-wrench-survival-friendly-block-rotation.80166/history",
+  "releaseDate": 1592125740000,
+  "updateDate": 1651352940000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 93782,
+  "url": "https://www.spigotmc.org/resources/uniporter.93782/",
+  "name": "Uniporter",
+  "description": "Add a http server on port 25565!",
+  "authors": [
+    "lj2000lj"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93782.jpg?1625120416",
+  "iconCid": "bafkreidswj5dkjirw773eofdibyqrg24s2p6qhm2h4shy2azjqhhczsrqi",
+  "numberOfDownloads": 6853,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/uniporter.93782/history",
+  "gitUrl": "https://github.com/Apisium/Uniporter/",
+  "releaseDate": 1625116800000,
+  "updateDate": 1657031880000,
+  "versions": [
+    "1.12",
+    "1.17",
+    "1.18"
+  ]
+}

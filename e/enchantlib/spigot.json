@@ -1,0 +1,21 @@
+{
+  "id": 98769,
+  "url": "https://www.spigotmc.org/resources/enchantlib.98769/",
+  "name": "EnchantLib",
+  "description": "A custom enchant library for spigot",
+  "authors": [
+    "rggcrafthost"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98769.jpg?1640783842",
+  "iconCid": "bafkreid3jzcadha3rdf7oa2spr2wfnp4zuv2hk4q7z5ueckc2i5iwdhanq",
+  "numberOfDownloads": 273,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/enchantlib.98769/history",
+  "gitUrl": "https://github.com/BoyStijn/EnchantLib",
+  "releaseDate": 1640770380000,
+  "updateDate": 1650137100000,
+  "versions": [
+    "1.18"
+  ]
+}

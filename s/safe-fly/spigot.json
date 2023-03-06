@@ -1,0 +1,21 @@
+{
+  "id": 86512,
+  "url": "https://www.spigotmc.org/resources/safe-fly-1-13-1-18.86512/",
+  "name": "Safe Fly | 1.13 - 1.18",
+  "description": "Limit a player's ability to PvP, PvE, Use Items, Place Blocks and more when they are flying",
+  "authors": [
+    "chocolf"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/86/86512.jpg?1607359010",
+  "iconCid": "bafkreib6mxigcaeeoyfyigoai5ne6lc7prs35byueh3rffmyc4penvvvsa",
+  "numberOfDownloads": 1332,
+  "rating": 4.4,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/safe-fly-1-13-1-18.86512/history",
+  "gitUrl": "https://github.com/chocolf/SafeFly",
+  "releaseDate": 1607355360000,
+  "updateDate": 1650190140000,
+  "versions": [
+    "1.18"
+  ]
+}

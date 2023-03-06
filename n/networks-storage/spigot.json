@@ -1,0 +1,22 @@
+{
+  "id": 99547,
+  "url": "https://www.spigotmc.org/resources/networks-storage.99547/",
+  "name": "Networks Storage",
+  "description": "Similar to AE2/Refined Storage, a simple yet powerful storage network system for Slimefun",
+  "authors": [
+    "Sefiraat"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99547.jpg?1643280011",
+  "iconCid": "bafkreickdqjos52xnbbyokrqphi4esnxtz4rinuzfotbxyszb4is3pxybq",
+  "numberOfDownloads": 481,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/networks-storage.99547/history",
+  "gitUrl": "https://github.com/Sefiraat/Networks",
+  "releaseDate": 1643276340000,
+  "updateDate": 1645376340000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

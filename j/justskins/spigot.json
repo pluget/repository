@@ -1,0 +1,23 @@
+{
+  "id": 101507,
+  "url": "https://www.spigotmc.org/resources/justskins.101507/",
+  "name": "JustSkins",
+  "description": "Плагин позволяет превратить скины из SkinsRestorer в головы которые можно одевать.",
+  "authors": [
+    "SashaBrine"
+  ],
+  "numberOfDownloads": 53,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/justskins.101507/history",
+  "gitUrl": "https://github.com/FortiBBrine/JustSkins",
+  "releaseDate": 1650431520000,
+  "updateDate": 1650433380000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

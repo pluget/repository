@@ -1,0 +1,33 @@
+{
+  "id": 18431,
+  "url": "https://www.spigotmc.org/resources/wilderness-tp.18431/",
+  "name": "Wilderness-Tp",
+  "description": "Teleports to random location with cost and cooldown",
+  "authors": [
+    "Qball"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/18/18431.jpg?1547951800",
+  "iconCid": "bafkreicmcymxxrr32lfddxadpy3xrwovd5irp27jdyoi2sh6nkmai7b7dq",
+  "numberOfDownloads": 78816,
+  "rating": 4,
+  "numberOfVotes": 150,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/wilderness-tp.18431/history",
+  "gitUrl": "https://github.com/Qballl/WildernessTp",
+  "releaseDate": 1455406260000,
+  "updateDate": 1647140460000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

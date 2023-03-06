@@ -1,0 +1,26 @@
+{
+  "id": 94472,
+  "url": "https://www.spigotmc.org/resources/townymission-a-must-have-addition-to-towny-servers.94472/",
+  "name": "TownyMission: A Must Have Addition to Towny Servers",
+  "description": "A peaceful, mission-based competition mechanism among Towny towns",
+  "authors": [
+    "Barbadosian"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94472.jpg?1626766590",
+  "iconCid": "bafkreihb5tmy54dznwqgbzwy52yybkm4zvsrcbzq2k6aom7ngeywn3d4ym",
+  "numberOfDownloads": 1052,
+  "rating": 4.3,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/townymission-a-must-have-addition-to-towny-servers.94472/history",
+  "gitUrl": "https://git.naturecraft.world/naturecraft-dev/townymission",
+  "releaseDate": 1626762960000,
+  "updateDate": 1642657800000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

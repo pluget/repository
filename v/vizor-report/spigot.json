@@ -1,0 +1,22 @@
+{
+  "id": 101568,
+  "url": "https://www.spigotmc.org/resources/vizor-report.101568/",
+  "name": "Vizor - Report",
+  "description": "Report a bug or player to your server.",
+  "authors": [
+    "Vizor_DEV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101568.jpg?1650651511",
+  "iconCid": "bafkreicxgqr3gpgczlhctupcjvh344es2ahk3ojaf4hr5j2s3jiuavnzi4",
+  "numberOfDownloads": 42,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/vizor-report.101568/history",
+  "releaseDate": 1650647880000,
+  "updateDate": 1650647880000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

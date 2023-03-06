@@ -1,0 +1,30 @@
+{
+  "id": 99436,
+  "url": "https://www.spigotmc.org/resources/muteglobalchat.99436/",
+  "name": "MuteGlobalChat",
+  "description": "A simple Plugin to mute your whole server",
+  "authors": [
+    "WarmIcy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99436.jpg?1642918673",
+  "iconCid": "bafkreie5vgkjdkba4znn636taikcswztgjjkjvgtifx52nomuobixcb6um",
+  "numberOfDownloads": 45,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/muteglobalchat.99436/history",
+  "releaseDate": 1642914960000,
+  "updateDate": 1642914960000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

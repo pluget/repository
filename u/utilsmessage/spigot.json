@@ -1,0 +1,31 @@
+{
+  "id": 100973,
+  "url": "https://www.spigotmc.org/resources/utilsmessage.100973/",
+  "name": "UtilsMessage",
+  "description": "Usefull automatic message for your Minecraft server.",
+  "authors": [
+    "Scarlxrd_d"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100973.jpg?1648314108",
+  "iconCid": "bafkreidk3i3uvxlobkngofjn3s5ault7rfw5inq4bfqa3wexrzhhwt7jcu",
+  "numberOfDownloads": 91,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/utilsmessage.100973/history",
+  "releaseDate": 1648310460000,
+  "updateDate": 1648338420000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

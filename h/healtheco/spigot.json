@@ -1,0 +1,22 @@
+{
+  "id": 99344,
+  "url": "https://www.spigotmc.org/resources/healtheco.99344/",
+  "name": "HealthEco",
+  "description": "An economy plugin thats designed to turn player health into a currency.",
+  "authors": [
+    "kragleh"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99344.jpg?1642623318",
+  "iconCid": "bafkreig4p7xqoouijklsdwx4l5zzgsl4cke5cvl2v466a6d7blct7oes6u",
+  "numberOfDownloads": 73,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/healtheco.99344/history",
+  "releaseDate": 1642614540000,
+  "updateDate": 1642674960000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

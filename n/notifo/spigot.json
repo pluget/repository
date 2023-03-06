@@ -1,0 +1,21 @@
+{
+  "id": 99429,
+  "url": "https://www.spigotmc.org/resources/notifo.99429/",
+  "name": "Notifo",
+  "description": "A spigot plugin that plays a sound when another player sends a message in the chat",
+  "authors": [
+    "jawa"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99429.jpg?1642896761",
+  "iconCid": "bafkreif4aomff42vlourthpoq23o56x3fbjzu34qd6osjwhi3qcyub2mve",
+  "numberOfDownloads": 31,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/notifo.99429/history",
+  "gitUrl": "https://github.com/jawa2401/notifo",
+  "releaseDate": 1642893120000,
+  "updateDate": 1642893120000,
+  "versions": [
+    "1.18"
+  ]
+}

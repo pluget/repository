@@ -1,0 +1,31 @@
+{
+  "id": 85755,
+  "url": "https://www.spigotmc.org/resources/combatlogger.85755/",
+  "name": "CombatLogger",
+  "description": "Tired of people disconnecting while fighting? Well look no more!",
+  "authors": [
+    "TheBigDude5"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85755.jpg?1638589406",
+  "iconCid": "bafkreiaulx6u6dem3fl6gmxfe443jui26mcb7fxs5lk2drgicv5y6yyjiu",
+  "numberOfDownloads": 15783,
+  "rating": 4.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/combatlogger.85755/history",
+  "gitUrl": "https://github.com/Keurig-Creator/Combatlogger",
+  "releaseDate": 1605339420000,
+  "updateDate": 1648410420000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 97759,
+  "url": "https://www.spigotmc.org/resources/eluckyblock.97759/",
+  "name": "eLuckyBlock",
+  "description": "The LuckyBlock Plugin you needed! For Prison, SkyBlock, etc..",
+  "authors": [
+    "zS0bye"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97759.jpg?1637432533",
+  "iconCid": "bafkreid3inzp2uvh5yif3lwb5crp2mpntssyhahcdnfn6j7cgyox3vsv5e",
+  "numberOfDownloads": 432,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/eluckyblock.97759/history",
+  "gitUrl": "https://github.com/KyotoResources/eLuckyBlock",
+  "releaseDate": 1637428860000,
+  "updateDate": 1648848840000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 99705,
+  "url": "https://www.spigotmc.org/resources/roleplaymessage-rpmessage.99705/",
+  "name": "RolePlayMessage | RPMessage",
+  "description": "Chat RolePlay Role Play Commands RP RPMessage Role Play Message Chat Commands",
+  "authors": [
+    "TheDiVa_Zo"
+  ],
+  "numberOfDownloads": 29,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/roleplaymessage-rpmessage.99705/history",
+  "gitUrl": "https://github.com/TheDiVaZo/RPMessage",
+  "releaseDate": 1643822340000,
+  "updateDate": 1643822340000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

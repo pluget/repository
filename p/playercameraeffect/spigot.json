@@ -1,0 +1,31 @@
+{
+  "id": 25864,
+  "url": "https://www.spigotmc.org/resources/playercameraeffect-opensource.25864/",
+  "name": "PlayerCameraEffect [OpenSource]",
+  "description": "*Literally* customize the way the players complete screen looks like!",
+  "authors": [
+    "Marcely99"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/25/25864.jpg?1654202049",
+  "iconCid": "bafkreihx7a3yny7dzi5urav7sb3sl2r4bblqzzbectpb7xhmconthnwtfe",
+  "numberOfDownloads": 909,
+  "rating": 3,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playercameraeffect-opensource.25864/history",
+  "gitUrl": "https://github.com/Marcely1199/PlayerCameraEffect",
+  "releaseDate": 1467635040000,
+  "updateDate": 1646241960000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

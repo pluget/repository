@@ -1,0 +1,21 @@
+{
+  "id": 101165,
+  "url": "https://www.spigotmc.org/resources/custom-day-length.101165/",
+  "name": "Custom Day Length",
+  "description": "Set the length of in-game days and nights.",
+  "authors": [
+    "EquaFerrous"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101165.jpg?1649079774",
+  "iconCid": "bafkreictyluubyat7qdk4moeccj3jqnnvjtw6ri5d6u24uojnyxu47jmbm",
+  "numberOfDownloads": 72,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/custom-day-length.101165/history",
+  "gitUrl": "https://github.com/EquaFerrous/CustomDayLength",
+  "releaseDate": 1649076120000,
+  "updateDate": 1649076120000,
+  "versions": [
+    "1.18"
+  ]
+}

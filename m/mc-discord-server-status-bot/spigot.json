@@ -1,0 +1,29 @@
+{
+  "id": 96831,
+  "url": "https://www.spigotmc.org/resources/mc-discord-server-status-bot.96831/",
+  "name": "MC Discord Server Status Bot",
+  "description": "A Discord Bot to provide your community with the status of your server!",
+  "authors": [
+    "Lukeos11"
+  ],
+  "numberOfDownloads": 1009,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mc-discord-server-status-bot.96831/history",
+  "gitUrl": "https://github.com/Lukeos11/MC-Server-Status-Bot",
+  "releaseDate": 1634175360000,
+  "updateDate": 1644569640000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

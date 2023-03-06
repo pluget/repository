@@ -1,0 +1,30 @@
+{
+  "id": 96652,
+  "url": "https://www.spigotmc.org/resources/sternal-hypercore-very-necessary.96652/",
+  "name": "[Sternal] HyperCore | Very necessary!",
+  "description": "A plugin that will make life easier for network creators!",
+  "authors": [
+    "velociXD"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96652.jpg?1633461379",
+  "iconCid": "bafkreih5fjxqmg74drw4dp5gpiqzsbtjdikyychdxb2h275kikilk3oyme",
+  "numberOfDownloads": 96,
+  "rating": 4.6,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sternal-hypercore-very-necessary.96652/history",
+  "gitUrl": "https://github.com/bixgamer707/HyperCore",
+  "releaseDate": 1633457700000,
+  "updateDate": 1643281800000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

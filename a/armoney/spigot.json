@@ -1,0 +1,23 @@
+{
+  "id": 97991,
+  "url": "https://www.spigotmc.org/resources/armoney-1-17-1-19.97991/",
+  "name": "ARmoney [1.17-1.19]",
+  "description": "Minecraft plugin that adds a virtual currency in the form of diamond ore (AR) to the server.",
+  "authors": [
+    "Fox_creeper"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97991.jpg?1638187948",
+  "iconCid": "bafkreiaudoeqlphkd65jiatxrfud2y3xhsocucxtzshprmqzvyzlqru3nu",
+  "numberOfDownloads": 193,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/armoney-1-17-1-19.97991/history",
+  "gitUrl": "https://github.com/B1RDOW/ARmoney",
+  "releaseDate": 1638184320000,
+  "updateDate": 1642177440000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

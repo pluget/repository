@@ -1,0 +1,20 @@
+{
+  "id": 99304,
+  "url": "https://www.spigotmc.org/resources/towny-plot-lock.99304/",
+  "name": "Towny Plot Lock",
+  "description": "Adds a command to the Towny plugin to block outlaws from entering your plot.",
+  "authors": [
+    "KyGuy2002"
+  ],
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/towny-plot-lock.99304/history",
+  "gitUrl": "https://github.com/KyGuy2002/TownyPlotLock",
+  "releaseDate": 1642464600000,
+  "updateDate": 1642464600000,
+  "versions": [
+    "1.16",
+    "1.17"
+  ]
+}

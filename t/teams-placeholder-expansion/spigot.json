@@ -1,0 +1,23 @@
+{
+  "id": 90773,
+  "url": "https://www.spigotmc.org/resources/teams-placeholder-expansion.90773/",
+  "name": "Teams Placeholder Expansion",
+  "description": "Expansion for PlaceholderAPI adds support for getting team name, colour, prefix and suffix.",
+  "authors": [
+    "Paul19988"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90773.jpg?1617200253",
+  "iconCid": "bafkreigf2wrsfk6vvveytz3zmdiowpjzb2ewdnvtgt5eqkqkhu5jdg2bdi",
+  "numberOfDownloads": 219,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/teams-placeholder-expansion.90773/history",
+  "gitUrl": "https://github.com/Paul19988/TeamsExpansion",
+  "releaseDate": 1617196620000,
+  "updateDate": 1646489460000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

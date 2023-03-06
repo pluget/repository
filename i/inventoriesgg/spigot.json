@@ -1,0 +1,22 @@
+{
+  "id": 98566,
+  "url": "https://www.spigotmc.org/resources/inventories-gg-1-17-1-18.98566/",
+  "name": "Inventories.gg [1.17-1.18]",
+  "description": "Allow players to share, view, and browse the inventory contents of other players on your server!",
+  "authors": [
+    "Xwaffle"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98566.jpg?1640101530",
+  "iconCid": "bafkreidgrf6brtuagaronw66rbsgdksaiwwjp5cxhklqdf5f24mroaucxe",
+  "numberOfDownloads": 224,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/inventories-gg-1-17-1-18.98566/history",
+  "gitUrl": "https://github.com/Xwaffle1/inventories-gg-plugin",
+  "releaseDate": 1640097780000,
+  "updateDate": 1643498460000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

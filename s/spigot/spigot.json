@@ -1,0 +1,30 @@
+{
+  "id": 101435,
+  "url": "https://www.spigotmc.org/resources/spigot-webserver-for-minecraft.101435/",
+  "name": "Spigot - WebServer for Minecraft",
+  "description": "WebServer, Website Launcher, Spigot 1.8 - 1.18.2",
+  "authors": [
+    "JoFundy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101435.jpg?1650886791",
+  "iconCid": "bafkreibbwwie5av4ispgohrcvutws7lxng7e27y55n2t3wxikaoei4n56q",
+  "numberOfDownloads": 470,
+  "rating": 4,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/spigot-webserver-for-minecraft.101435/history",
+  "releaseDate": 1650186480000,
+  "updateDate": 1651068240000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

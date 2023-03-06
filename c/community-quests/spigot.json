@@ -1,0 +1,27 @@
+{
+  "id": 90798,
+  "url": "https://www.spigotmc.org/resources/community-quests-1-12-2-1-18-2-%E2%AD%90run-server-wide-quests-%E2%AD%90.90798/",
+  "name": "Community Quests [1.12.2 - 1.18.2] ⭐Run Server-Wide Quests ⭐",
+  "description": "Create custom objectives for players on your server to complete together!",
+  "authors": [
+    "wonka01"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90798.jpg?1617239398",
+  "iconCid": "bafkreidydfaxzio6db2ge33frrbwkjoprixss35ad2katthxodkjfpxghe",
+  "numberOfDownloads": 863,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/community-quests-1-12-2-1-18-2-%E2%AD%90run-server-wide-quests-%E2%AD%90.90798/history",
+  "gitUrl": "https://github.com/wsaada19/CommunityQuests",
+  "releaseDate": 1617235740000,
+  "updateDate": 1651838880000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

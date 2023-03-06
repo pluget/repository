@@ -1,0 +1,21 @@
+{
+  "id": 101772,
+  "url": "https://www.spigotmc.org/resources/status-plugin.101772/",
+  "name": "Status Plugin",
+  "description": "A Status Plugin like CraftAttack with a config to configurate all",
+  "authors": [
+    "ezTxmMC"
+  ],
+  "numberOfDownloads": 80,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/status-plugin.101772/history",
+  "gitUrl": "https://github.com/ezTxmMC/Status",
+  "releaseDate": 1651418040000,
+  "updateDate": 1651418040000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

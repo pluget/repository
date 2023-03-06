@@ -1,0 +1,27 @@
+{
+  "id": 98740,
+  "url": "https://www.spigotmc.org/resources/lsrvvkpost.98740/",
+  "name": "LSRVVKPost",
+  "description": "LSRVVKPost - плагин на уведомление о новом посте в группе в ВК для Spigot",
+  "authors": [
+    "Lymon_Mine"
+  ],
+  "numberOfDownloads": 100,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lsrvvkpost.98740/history",
+  "gitUrl": "https://github.com/LymonMine/LSRVVKPost",
+  "releaseDate": 1640681760000,
+  "updateDate": 1641488640000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

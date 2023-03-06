@@ -1,0 +1,23 @@
+{
+  "id": 27456,
+  "url": "https://www.spigotmc.org/resources/reportgui.27456/",
+  "name": "ReportGUI",
+  "description": "A customizable reportplugin with a gui",
+  "authors": [
+    "Plugin_Dev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/27/27456.jpg?1470415903",
+  "iconCid": "bafkreiai4tihuh4dei2k5i63rvmzqeopqmjw2abdd3an4wmmi7a3xzeluu",
+  "numberOfDownloads": 959,
+  "rating": 4.2,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/reportgui.27456/history",
+  "releaseDate": 1470412260000,
+  "updateDate": 1646475180000,
+  "versions": [
+    "1.8",
+    "1.11",
+    "1.14",
+    "1.18"
+  ]
+}

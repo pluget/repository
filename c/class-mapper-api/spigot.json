@@ -1,0 +1,21 @@
+{
+  "id": 90302,
+  "url": "https://www.spigotmc.org/resources/api-class-mapper-api.90302/",
+  "name": "[API] Class Mapper Api",
+  "description": "Speed up your plugins develpment: Commands, Tasks, Mobs...",
+  "authors": [
+    "jaimetruman"
+  ],
+  "numberOfDownloads": 412,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/api-class-mapper-api.90302/history",
+  "gitUrl": "https://github.com/JaimeTruman/Easy-Bukkit-CommandManager",
+  "releaseDate": 1616077920000,
+  "updateDate": 1651175640000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

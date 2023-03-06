@@ -1,0 +1,31 @@
+{
+  "id": 108394,
+  "url": "https://www.spigotmc.org/resources/fastannounce.108394/",
+  "name": "FastAnnounce",
+  "description": "Simple solution to have ads in your own server",
+  "authors": [
+    "ManyGlue"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108394.jpg?1678049652",
+  "iconCid": "bafkreie7oya4vfbofoevsskgr5zklyqfn3kvyj67zq6kpntrkfm4bo2sne",
+  "numberOfDownloads": 2,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fastannounce.108394/history",
+  "releaseDate": 1678046040000,
+  "updateDate": 1678046040000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

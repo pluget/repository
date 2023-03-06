@@ -1,0 +1,25 @@
+{
+  "id": 74051,
+  "url": "https://www.spigotmc.org/resources/guestmode.74051/",
+  "name": "GuestMode",
+  "description": "Disables Players without the given Permission to Craft, Build, break Blocks etc.",
+  "authors": [
+    "D3thw0lf"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/74/74051.jpg?1642828337",
+  "iconCid": "bafkreicyacag7pbkzgzdn7tajoqlmlszxz4cbfi2fvlswjoqbohfy5lugu",
+  "numberOfDownloads": 2224,
+  "rating": 4.9,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/guestmode.74051/history",
+  "releaseDate": 1578176700000,
+  "updateDate": 1642824420000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

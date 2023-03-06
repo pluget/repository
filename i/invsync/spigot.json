@@ -1,0 +1,19 @@
+{
+  "id": 99780,
+  "url": "https://www.spigotmc.org/resources/%C2%BB-invsync-%E2%9C%85-1-18-1-18-1.99780/",
+  "name": "» InvSync ✅ | [1.18-1.18.1]",
+  "description": "Sync your inventorys between different server´s via SQL-Database",
+  "authors": [
+    "cancel-cloud"
+  ],
+  "numberOfDownloads": 47,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%C2%BB-invsync-%E2%9C%85-1-18-1-18-1.99780/history",
+  "gitUrl": "https://github.com/cancel-cloud/InvSync",
+  "releaseDate": 1644062760000,
+  "updateDate": 1644062760000,
+  "versions": [
+    "1.18"
+  ]
+}

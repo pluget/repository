@@ -1,0 +1,26 @@
+{
+  "id": 100507,
+  "url": "https://www.spigotmc.org/resources/thoushallnotspeak.100507/",
+  "name": "ThouShallNotSpeak",
+  "description": "ThouShallNotSpeak is a plugin which allows delaying players from speaking until X time",
+  "authors": [
+    "Paul19988"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100507.jpg?1646544349",
+  "iconCid": "bafkreih3kwsdwatr5fkikcwtxr4pygiurtulkkn25h2n5ljnvpq3mruz5m",
+  "numberOfDownloads": 52,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/thoushallnotspeak.100507/history",
+  "gitUrl": "https://github.com/Paul19988/ThouShallNotSpeak",
+  "releaseDate": 1646540700000,
+  "updateDate": 1646776080000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

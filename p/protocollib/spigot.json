@@ -1,0 +1,30 @@
+{
+  "id": 1997,
+  "url": "https://www.spigotmc.org/resources/protocollib.1997/",
+  "name": "ProtocolLib",
+  "description": "Provides read/write access to the Minecraft protocol",
+  "authors": [
+    "dmulloy2"
+  ],
+  "numberOfDownloads": 1954914,
+  "rating": 4.6,
+  "numberOfVotes": 329,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/protocollib.1997/history",
+  "gitUrl": "https://github.com/dmulloy2/ProtocolLib/",
+  "releaseDate": 1416841620000,
+  "updateDate": 1646426820000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

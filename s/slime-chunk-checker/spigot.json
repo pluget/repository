@@ -1,0 +1,23 @@
+{
+  "id": 86279,
+  "url": "https://www.spigotmc.org/resources/slime-chunk-checker-abandoned.86279/",
+  "name": "Slime Chunk Checker [Abandoned]",
+  "description": "Check whether the chunk you are in is a slime chunk.",
+  "authors": [
+    "YanaTW"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/86/86279.jpg?1609483993",
+  "iconCid": "bafkreie3io72afi6pxvcesulyk3i4f6mxvplpuvizjzoaxn3km3puqpy7m",
+  "numberOfDownloads": 797,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/slime-chunk-checker-abandoned.86279/history",
+  "gitUrl": "https://github.com/TinyYana/SlimeChunkChecker",
+  "releaseDate": 1606738020000,
+  "updateDate": 1644216540000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

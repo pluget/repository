@@ -1,0 +1,19 @@
+{
+  "id": 83528,
+  "url": "https://www.spigotmc.org/resources/statistic-scoreboard.83528/",
+  "name": "Statistic scoreboard",
+  "description": "Statistic scoreboard for each person",
+  "authors": [
+    "palmboom1212"
+  ],
+  "numberOfDownloads": 139,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/statistic-scoreboard.83528/history",
+  "gitUrl": "https://gitlab.com/openbare-projecten/minecraft/statistics-scoreboard-plugin",
+  "releaseDate": 1599228000000,
+  "updateDate": 1641727920000,
+  "versions": [
+    "1.18"
+  ]
+}

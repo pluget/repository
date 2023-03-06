@@ -1,0 +1,23 @@
+{
+  "id": 100347,
+  "url": "https://www.spigotmc.org/resources/ostereier.100347/",
+  "name": "Ostereier",
+  "description": "A german culture Easter egg hunt",
+  "authors": [
+    "Kirastur"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100347.jpg?1646840375",
+  "iconCid": "bafkreibzcpufomipdz6s7nbuew7c2rovrwp34uolxcrqnkzphmcwqfbsee",
+  "numberOfDownloads": 172,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ostereier.100347/history",
+  "gitUrl": "https://github.com/Kirastur/Ostereier",
+  "releaseDate": 1645994940000,
+  "updateDate": 1649011980000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

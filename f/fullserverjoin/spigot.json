@@ -1,0 +1,30 @@
+{
+  "id": 103171,
+  "url": "https://www.spigotmc.org/resources/fullserverjoin.103171/",
+  "name": "FullServerJoin",
+  "description": "Allow specific players to enter a full server",
+  "authors": [
+    "Pilati_"
+  ],
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fullserverjoin.103171/history",
+  "gitUrl": "https://github.com/eduardopilati/FullServerJoin/",
+  "releaseDate": 1657143420000,
+  "updateDate": 1657143420000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

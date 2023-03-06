@@ -1,0 +1,21 @@
+{
+  "id": 99473,
+  "url": "https://www.spigotmc.org/resources/voterestart-plus.99473/",
+  "name": "VoteRestart Plus",
+  "description": "A plugins that allows players to vote for restart",
+  "authors": [
+    "ORANG3I"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99473.jpg?1643017619",
+  "iconCid": "bafkreid2y2zgwqlgq3hmx2koyyyte55p7tvxyngh7ky45f66rjwhoubepy",
+  "numberOfDownloads": 103,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/voterestart-plus.99473/history",
+  "gitUrl": "https://github.com/orang3i/VoteRestartPlus",
+  "releaseDate": 1643013840000,
+  "updateDate": 1644491640000,
+  "versions": [
+    "1.18"
+  ]
+}

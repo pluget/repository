@@ -1,0 +1,25 @@
+{
+  "id": 99747,
+  "url": "https://www.spigotmc.org/resources/reach.99747/",
+  "name": "Reach",
+  "description": "Change player's attack distance!",
+  "authors": [
+    "KrHanwoo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99747.jpg?1643950886",
+  "iconCid": "bafkreige4pzixy7d4ernesvnbmnlceqh2jtoqgyy7vdw5hlfmnegaauzoa",
+  "numberOfDownloads": 570,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/reach.99747/history",
+  "gitUrl": "https://github.com/KoreaHanwoo/Reach",
+  "releaseDate": 1643947200000,
+  "updateDate": 1644051900000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

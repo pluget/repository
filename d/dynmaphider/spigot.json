@@ -1,0 +1,20 @@
+{
+  "id": 95497,
+  "url": "https://www.spigotmc.org/resources/dynmaphider.95497/",
+  "name": "dynmapHider",
+  "description": "Simple plugin that hides you from dynmap on Essentials vanish or spectator gamemode.",
+  "authors": [
+    "CichyCze"
+  ],
+  "numberOfDownloads": 335,
+  "rating": 4,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dynmaphider.95497/history",
+  "releaseDate": 1629423540000,
+  "updateDate": 1647778680000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

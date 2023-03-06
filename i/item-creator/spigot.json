@@ -1,0 +1,20 @@
+{
+  "id": 100892,
+  "url": "https://www.spigotmc.org/resources/item-creator.100892/",
+  "name": "Item Creator",
+  "description": "Easy and free custom items creation plugin!",
+  "authors": [
+    "Overpowered3600"
+  ],
+  "numberOfDownloads": 187,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/item-creator.100892/history",
+  "gitUrl": "https://github.com/OverpoweredCoding/Item-Creator",
+  "releaseDate": 1648006260000,
+  "updateDate": 1648129500000,
+  "versions": [
+    "1.16",
+    "1.17"
+  ]
+}

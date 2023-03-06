@@ -1,0 +1,31 @@
+{
+  "id": 13571,
+  "url": "https://www.spigotmc.org/resources/essentials-warp-gui-opensource.13571/",
+  "name": "Essentials Warp Gui [OpenSource]",
+  "description": "/warp now looks more beautiful!",
+  "authors": [
+    "Marcely99"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/13/13571.jpg?1654201341",
+  "iconCid": "bafkreia4bx2m4d4kqvhbcmexrhwzvi625gk5fidary4i4kivberbeq2csa",
+  "numberOfDownloads": 177665,
+  "rating": 4.2,
+  "numberOfVotes": 89,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/essentials-warp-gui-opensource.13571/history",
+  "gitUrl": "https://github.com/MrEAlderson/EssentialsWarpGUI",
+  "releaseDate": 1445421660000,
+  "updateDate": 1646242260000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

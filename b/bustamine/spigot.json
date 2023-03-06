@@ -1,0 +1,29 @@
+{
+  "id": 66139,
+  "url": "https://www.spigotmc.org/resources/bustamine-1-8-1-18.66139/",
+  "name": "BustaMine [1.8 ~ 1.18]",
+  "description": "Simple, thrilling gambling game",
+  "authors": [
+    "eftc91c"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/66/66139.jpg?1554163751",
+  "iconCid": "bafkreibe7egh3pbcwpo24inml7vsyz2jwd2mr2wefu3bnwgpp3pzfii4s4",
+  "numberOfDownloads": 1998,
+  "rating": 4.8,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bustamine-1-8-1-18.66139/history",
+  "gitUrl": "https://github.com/7sat/BustaMine/tree/master",
+  "releaseDate": 1554160140000,
+  "updateDate": 1645841820000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.17",
+    "1.18"
+  ]
+}

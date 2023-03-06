@@ -1,0 +1,24 @@
+{
+  "id": 100925,
+  "url": "https://www.spigotmc.org/resources/smartitemsort-griefprevention.100925/",
+  "name": "SmartItemSort-GriefPrevention",
+  "description": "Enable SmartItemSort plugin to honor GriefPrevention land claims.",
+  "authors": [
+    "BornToCode"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100925.jpg?1651844217",
+  "iconCid": "bafkreifbgftxkbdnzp5hfzto2sia4mz6xqivyzmgfspwwkl35qmibkfxgy",
+  "numberOfDownloads": 64,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/smartitemsort-griefprevention.100925/history",
+  "gitUrl": "https://github.com/paul-palmer/SmartItemSort-GriefPrevention",
+  "releaseDate": 1648131600000,
+  "updateDate": 1648145940000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

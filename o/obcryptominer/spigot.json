@@ -1,0 +1,22 @@
+{
+  "id": 101681,
+  "url": "https://www.spigotmc.org/resources/obcryptominer.101681/",
+  "name": "obCryptoMiner",
+  "description": "Cryptocurrency miner plugin",
+  "authors": [
+    "OnurBeyTR"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101681.jpg?1651063668",
+  "iconCid": "bafkreidraovkayaiqwpi73odveaxj6o7wlqnjqza74oq6nkpntj6eu2mwe",
+  "numberOfDownloads": 65,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/obcryptominer.101681/history",
+  "gitUrl": "https://github.com/OnurBYRKL/obCryptoMiner",
+  "releaseDate": 1651059960000,
+  "updateDate": 1651059960000,
+  "versions": [
+    "1.16",
+    "1.17"
+  ]
+}

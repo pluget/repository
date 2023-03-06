@@ -1,0 +1,19 @@
+{
+  "id": 4704,
+  "url": "https://www.spigotmc.org/resources/lift.4704/",
+  "name": "Lift",
+  "description": "A simple elevator plugin. Complete with feature creep!",
+  "authors": [
+    "croxis"
+  ],
+  "numberOfDownloads": 19980,
+  "rating": 4.7,
+  "numberOfVotes": 32,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lift.4704/history",
+  "gitUrl": "https://github.com/croxis/Lift",
+  "releaseDate": 1425752640000,
+  "updateDate": 1642296000000,
+  "versions": [
+    "1.16"
+  ]
+}

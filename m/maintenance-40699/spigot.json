@@ -1,0 +1,32 @@
+{
+  "id": 40699,
+  "url": "https://www.spigotmc.org/resources/maintenance-bungee-and-spigot-support.40699/",
+  "name": "Maintenance | Bungee AND Spigot support!",
+  "description": "Lets you activate a maintenance mode on your BungeeCord as well as Spigot server!",
+  "authors": [
+    "kennytv"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/40/40699.jpg?1495973159",
+  "iconCid": "bafkreihb2r7u4ijziglxhj6qvpc32sjm2cvsb3hrxo2u3ex2qu4ltdjtbu",
+  "numberOfDownloads": 44889,
+  "rating": 4.8,
+  "numberOfVotes": 94,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/maintenance-bungee-and-spigot-support.40699/history",
+  "gitUrl": "https://github.com/kennytv/Maintenance",
+  "releaseDate": 1494439920000,
+  "updateDate": 1650179580000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

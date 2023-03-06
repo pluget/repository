@@ -1,0 +1,23 @@
+{
+  "id": 96637,
+  "url": "https://www.spigotmc.org/resources/challenge-plugin.96637/",
+  "name": "Challenge Plugin",
+  "description": "Challenges and Timer",
+  "authors": [
+    "SpavoDie"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96637.jpg?1633374549",
+  "iconCid": "bafkreibmfaeml5fbstzpcbcao6vmsw3wt4tni7cxmpvnqlahulvavbxd5u",
+  "numberOfDownloads": 183,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/challenge-plugin.96637/history",
+  "releaseDate": 1633369740000,
+  "updateDate": 1645471500000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

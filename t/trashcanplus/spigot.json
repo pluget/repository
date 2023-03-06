@@ -1,0 +1,25 @@
+{
+  "id": 89157,
+  "url": "https://www.spigotmc.org/resources/trashcan.89157/",
+  "name": "Trashcan+",
+  "description": "A trash plugin for your server !",
+  "authors": [
+    "shark_zekrom"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89157.jpg?1613598238",
+  "iconCid": "bafkreiara2xuil2mp6uiceztpiu6aesaiwq526jlbm3a4g7kkt2vmr54hm",
+  "numberOfDownloads": 542,
+  "rating": 4.6,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/trashcan.89157/history",
+  "releaseDate": 1613594580000,
+  "updateDate": 1647458460000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

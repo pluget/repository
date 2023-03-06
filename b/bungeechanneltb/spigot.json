@@ -1,0 +1,32 @@
+{
+  "id": 108382,
+  "url": "https://www.spigotmc.org/resources/bungeechanneltb.108382/",
+  "name": "BungeeChannelTB",
+  "description": "Messaging channel for TB plugins between Spigot servers on Bungee Proxy.",
+  "authors": [
+    "TechBrat"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/108/108382.jpg?1678018154",
+  "iconCid": "bafkreihy2dmyrjgxad4wd2ex5i2nzxzj7ybhlotysqa6uscgvbococwwla",
+  "numberOfDownloads": 4,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bungeechanneltb.108382/history",
+  "gitUrl": "https://github.com/MiloszBratkowski/BungeeChannelTB",
+  "releaseDate": 1678014540000,
+  "updateDate": 1678014540000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

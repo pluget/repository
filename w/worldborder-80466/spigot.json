@@ -1,0 +1,25 @@
+{
+  "id": 80466,
+  "url": "https://www.spigotmc.org/resources/worldborder-1-15.80466/",
+  "name": "WorldBorder 1.15+",
+  "description": "a feature-rich world size limiting plugin, which can also generate or trim a world to your border",
+  "authors": [
+    "PryPurity"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80466.jpg?1593826495",
+  "iconCid": "bafkreieuehhz7qczi6ugf2sn7okhhj4n5wc72pnd2mrmtwzkqorqe44crm",
+  "numberOfDownloads": 58183,
+  "rating": 4.7,
+  "numberOfVotes": 40,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/worldborder-1-15.80466/history",
+  "gitUrl": "https://github.com/PryPurity/WorldBorder",
+  "releaseDate": 1592730300000,
+  "updateDate": 1647239940000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

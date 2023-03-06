@@ -1,0 +1,21 @@
+{
+  "id": 83290,
+  "url": "https://www.spigotmc.org/resources/alternate-account-finder.83290/",
+  "name": "Alternate Account Finder",
+  "description": "Identifies accounts that have used the same IP address.",
+  "authors": [
+    "DanTheTechMan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83290.jpg?1630603261",
+  "iconCid": "bafkreic2dt2bdcp53gdxxoqvd3bqigjzdgwvdyrtj27ridfjr5eggx75ue",
+  "numberOfDownloads": 174,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/alternate-account-finder.83290/history",
+  "gitUrl": "https://github.com/DansPlugins/AlternateAccountFinder",
+  "releaseDate": 1598677620000,
+  "updateDate": 1656971220000,
+  "versions": [
+    "1.18"
+  ]
+}

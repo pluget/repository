@@ -1,0 +1,25 @@
+{
+  "id": 101283,
+  "url": "https://www.spigotmc.org/resources/simplegamemode.101283/",
+  "name": "SimpleGamemode",
+  "description": "Change your gamemode with a GUI",
+  "authors": [
+    "TheGamersUnknown"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101283.jpg?1649608676",
+  "iconCid": "bafkreifpelruztrlgoyu3nzmj4cafavoqmq4dnpvyil6iucnja4en3tauy",
+  "numberOfDownloads": 69,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplegamemode.101283/history",
+  "releaseDate": 1649605020000,
+  "updateDate": 1650596820000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

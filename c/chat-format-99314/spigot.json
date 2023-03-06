@@ -1,0 +1,24 @@
+{
+  "id": 99314,
+  "url": "https://www.spigotmc.org/resources/simple-chat-format-chat-rules-auto-moderation.99314/",
+  "name": "[SIMPLE] Chat Format | Chat Rules & Auto Moderation |",
+  "description": "This plugin can work with all other chat plugins and provides proper sentence format and moderation.",
+  "authors": [
+    "Keyngdom"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99314.jpg?1642525006",
+  "iconCid": "bafkreifkxlvp6uw35boz6xoozd47q3dsdlv7ojuraq7xmsrnsglhmra43a",
+  "numberOfDownloads": 191,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-chat-format-chat-rules-auto-moderation.99314/history",
+  "releaseDate": 1642507500000,
+  "updateDate": 1643650020000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

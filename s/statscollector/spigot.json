@@ -1,0 +1,23 @@
+{
+  "id": 101008,
+  "url": "https://www.spigotmc.org/resources/statscollector.101008/",
+  "name": "StatsCollector",
+  "description": "Universal Stats Collector (WEBSITE commig SOON)",
+  "authors": [
+    "ytTobyo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101008.jpg?1650194920",
+  "iconCid": "bafkreigs7ynv6fuqs2llo662tognpphsztv5kwmek454auzbhvb5g43ybi",
+  "numberOfDownloads": 9421,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/statscollector.101008/history",
+  "gitUrl": "https://github.com/StatsCollector/plugin",
+  "releaseDate": 1648384560000,
+  "updateDate": 1648929420000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

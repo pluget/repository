@@ -1,0 +1,23 @@
+{
+  "id": 97992,
+  "url": "https://www.spigotmc.org/resources/eternalcrates-1-16.97992/",
+  "name": "EternalCrates [1.16+]",
+  "description": "A crate plugin with a focus on functionality and a developer animation api.",
+  "authors": [
+    "Oribuin"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97992.jpg?1638202292",
+  "iconCid": "bafkreiehbeogscmn75yrlepbmm2g4tc4zs7cvplt5z2xsuuqczbaghosta",
+  "numberOfDownloads": 428,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/eternalcrates-1-16.97992/history",
+  "gitUrl": "https://github.com/Oribuin/EternalCrates/",
+  "releaseDate": 1638198660000,
+  "updateDate": 1642776960000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

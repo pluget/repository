@@ -1,0 +1,23 @@
+{
+  "id": 99387,
+  "url": "https://www.spigotmc.org/resources/clickpickup.99387/",
+  "name": "ClickPickUp",
+  "description": "Pickup items by clicking on them",
+  "authors": [
+    "DTkach"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99387.jpg?1642784358",
+  "iconCid": "bafkreidf2u5g3p4zanjeqowxjehu5jvxhvdtkbtkdnuhzy7iljmodagwcu",
+  "numberOfDownloads": 92,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/clickpickup.99387/history",
+  "gitUrl": "https://github.com/TkachGeek/ClickPickUp",
+  "releaseDate": 1642780740000,
+  "updateDate": 1642780740000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

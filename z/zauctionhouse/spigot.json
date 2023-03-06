@@ -1,0 +1,25 @@
+{
+  "id": 90995,
+  "url": "https://www.spigotmc.org/resources/zauctionhouse-advanced-configuration.90995/",
+  "name": "zAuctionhouse - Advanced configuration",
+  "description": "Advanced configuration (like a popular server) for the zAuctionHouse plugin (1.13 - 1.18)",
+  "authors": [
+    "Maxlego08"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90995.jpg?1617716768",
+  "iconCid": "bafkreigfbipv7zicdih4l43yi7jlho4qvrywzxvmi44gnyqs7pmxbzzjly",
+  "numberOfDownloads": 575,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/zauctionhouse-advanced-configuration.90995/history",
+  "releaseDate": 1617713160000,
+  "updateDate": 1649748000000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

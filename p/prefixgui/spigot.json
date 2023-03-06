@@ -1,0 +1,22 @@
+{
+  "id": 97279,
+  "url": "https://www.spigotmc.org/resources/prefixgui.97279/",
+  "name": "PrefixGui",
+  "description": "A simple prefix selection gui",
+  "authors": [
+    "OlfO"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97279.jpg?1635636823",
+  "iconCid": "bafkreibvn3j5mlt2k4fqhqq3inmiyftndcrahwittsdfm5aekgmhjs6tf4",
+  "numberOfDownloads": 69,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/prefixgui.97279/history",
+  "releaseDate": 1635626040000,
+  "updateDate": 1649356320000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

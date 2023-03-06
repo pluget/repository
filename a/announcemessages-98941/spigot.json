@@ -1,0 +1,31 @@
+{
+  "id": 98941,
+  "url": "https://www.spigotmc.org/resources/announcemessages-1-8-1-18-1.98941/",
+  "name": "AnnounceMessages [1.8 - 1.18.1]",
+  "description": "Full customizable messages of Join and Quit Events.",
+  "authors": [
+    "iAlqjDV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98941.jpg?1642267790",
+  "iconCid": "bafkreihzfgpdvdrn4itdhs3dxebvnceqmjb63upg2me3rpylbu6bdjtsma",
+  "numberOfDownloads": 261,
+  "rating": 3.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/announcemessages-1-8-1-18-1.98941/history",
+  "gitUrl": "https://github.com/InitDev06/AnnounceMessages",
+  "releaseDate": 1641259800000,
+  "updateDate": 1644705120000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

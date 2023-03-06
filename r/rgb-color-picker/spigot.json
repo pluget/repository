@@ -1,0 +1,22 @@
+{
+  "id": 99933,
+  "url": "https://www.spigotmc.org/resources/rgb-color-picker.99933/",
+  "name": "RGB Color Picker",
+  "description": "Make RGB color menus with custom commands",
+  "authors": [
+    "Dary_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99933.jpg?1644599400",
+  "iconCid": "bafkreigeqvir44w6xxx2by4hbxvp7fk76c3hjv2x2wg62nu54zy2eeqkda",
+  "numberOfDownloads": 271,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rgb-color-picker.99933/history",
+  "releaseDate": 1644595740000,
+  "updateDate": 1644944820000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

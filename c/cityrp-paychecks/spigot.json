@@ -1,0 +1,22 @@
+{
+  "id": 100745,
+  "url": "https://www.spigotmc.org/resources/cityrp-paychecks.100745/",
+  "name": "CityRP: Paychecks",
+  "description": "A simple paycheck or salary plugin for your server.",
+  "authors": [
+    "DrewMagic21isPRO"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100745.jpg?1647587517",
+  "iconCid": "bafkreifiwwq2ncf7rgnxigv4yi3mld5mkv22px4ggb5hexdkf4etp3zmcm",
+  "numberOfDownloads": 151,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cityrp-paychecks.100745/history",
+  "gitUrl": "https://github.com/aDrew1Dev/CityRP-Paychecks",
+  "releaseDate": 1647412500000,
+  "updateDate": 1647585060000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

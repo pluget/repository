@@ -1,0 +1,24 @@
+{
+  "id": 99495,
+  "url": "https://www.spigotmc.org/resources/one-liner.99495/",
+  "name": "One Liner",
+  "description": "Restrict people to walking in one axis",
+  "authors": [
+    "Erdi__"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99495.jpg?1643058562",
+  "iconCid": "bafkreihxlcv2rjc5tqpfmflqcg53sgq473mqn6iaoiqiftzurxy5lllwwy",
+  "numberOfDownloads": 39,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/one-liner.99495/history",
+  "releaseDate": 1643054940000,
+  "updateDate": 1643062920000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

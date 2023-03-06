@@ -1,0 +1,31 @@
+{
+  "id": 59049,
+  "url": "https://www.spigotmc.org/resources/playerborderapi.59049/",
+  "name": "PlayerBorderAPI",
+  "description": "Player Border API for your amazing plugin!",
+  "authors": [
+    "Zandy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/59/59049.jpg?1612558988",
+  "iconCid": "bafkreietletojnjhvyifsjrxol447rii4ykrywhokaj27g4k4pm6zknnzm",
+  "numberOfDownloads": 290,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playerborderapi.59049/history",
+  "gitUrl": "https://github.com/ZandyDEV/PlayerBorderAPI",
+  "releaseDate": 1532440320000,
+  "updateDate": 1649072580000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

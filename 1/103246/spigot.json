@@ -1,0 +1,26 @@
+{
+  "id": 103246,
+  "url": "https://www.spigotmc.org/resources/custom-world-radiation-damage-over-time.103246/",
+  "name": "[Custom] World Radiation | Damage over time",
+  "description": "Damage players in a world over time",
+  "authors": [
+    "Overqualified"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103246.jpg?1657443139",
+  "iconCid": "bafkreici546hegs5m5k6jv3gwkvhufmpeytqmre6x5o5tvaetnz7hn5jfq",
+  "numberOfDownloads": 43,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/custom-world-radiation-damage-over-time.103246/history",
+  "releaseDate": 1657439400000,
+  "updateDate": 1657439400000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

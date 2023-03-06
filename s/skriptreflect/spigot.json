@@ -1,0 +1,27 @@
+{
+  "id": 82259,
+  "url": "https://www.spigotmc.org/resources/skript-reflect.82259/",
+  "name": "skript-reflect",
+  "description": "Reflection utilities for Skript",
+  "authors": [
+    "TPGamesNL"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82259.jpg?1596386637",
+  "iconCid": "bafkreiamuxkln33h6kiaq4xk57kjqc4nnl4sqjxnqkpzaovgjgmhhbmvcm",
+  "numberOfDownloads": 7357,
+  "rating": 5,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skript-reflect.82259/history",
+  "gitUrl": "https://github.com/TPGamesNL/skript-reflect",
+  "releaseDate": 1596382980000,
+  "updateDate": 1649231160000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 100235,
+  "url": "https://www.spigotmc.org/resources/betterenchants.100235/",
+  "name": "BetterEnchants",
+  "description": "Small Plugin, that disables MaxEnchantLevelCap",
+  "authors": [
+    "Cervicia"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100235.jpg?1645560809",
+  "iconCid": "bafkreie32kfojtcfcbuagjss57i7v3uekjnwfymc3kyzc6pof7cyf6vkuy",
+  "numberOfDownloads": 330,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betterenchants.100235/history",
+  "gitUrl": "https://github.com/Cervicia/BetterEnchants",
+  "releaseDate": 1645556760000,
+  "updateDate": 1646933520000,
+  "versions": [
+    "1.18"
+  ]
+}

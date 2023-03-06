@@ -1,0 +1,26 @@
+{
+  "id": 96017,
+  "url": "https://www.spigotmc.org/resources/blockrename.96017/",
+  "name": "BlockRename",
+  "description": "Block and color you renames from anvil",
+  "authors": [
+    "cofob"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96017.jpg?1630956085",
+  "iconCid": "bafkreibksubzdqjd4wiayadrdz4py6qhwr2poq6ctpbrslg6pbqmrph66q",
+  "numberOfDownloads": 149,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blockrename.96017/history",
+  "gitUrl": "https://git.averyan.ru/firesquare/public/plugins/BlockRename",
+  "releaseDate": 1630952460000,
+  "updateDate": 1648458480000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

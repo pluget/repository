@@ -1,0 +1,22 @@
+{
+  "id": 101251,
+  "url": "https://www.spigotmc.org/resources/enchantmentapi.101251/",
+  "name": "EnchantmentAPI",
+  "description": "add custom enchantments to your minecraft server!! fully customizeable",
+  "authors": [
+    "drors"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101251.jpg?1649520516",
+  "iconCid": "bafkreih5xm5e7q5vgywhs4myrjp3qaluy3arv27swyjuuiqp5zivp556za",
+  "numberOfDownloads": 129,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/enchantmentapi.101251/history",
+  "gitUrl": "https://github.com/clickinggames/EnchantmentAPI/",
+  "releaseDate": 1649513040000,
+  "updateDate": 1651728780000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

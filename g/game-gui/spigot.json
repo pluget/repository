@@ -1,0 +1,19 @@
+{
+  "id": 101116,
+  "url": "https://www.spigotmc.org/resources/game-gui.101116/",
+  "name": "Game GUI",
+  "description": "Server Selector for the Mafana Network",
+  "authors": [
+    "maxcreeper360"
+  ],
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/game-gui.101116/history",
+  "gitUrl": "https://github.com/maxbrennan/gameGui",
+  "releaseDate": 1648853640000,
+  "updateDate": 1648853640000,
+  "versions": [
+    "1.18"
+  ]
+}

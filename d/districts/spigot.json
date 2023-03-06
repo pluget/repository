@@ -1,0 +1,23 @@
+{
+  "id": 99234,
+  "url": "https://www.spigotmc.org/resources/districts.99234/",
+  "name": "Districts",
+  "description": "Districts is like GriefPrevention, but players can sell/buy, lease/rent their claims!",
+  "authors": [
+    "Sphinx_HD"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99234.jpg?1642279083",
+  "iconCid": "bafkreifepr5wll6mas5v6qjdqgq3wjlz3cxa5al25zh4upwmsxj4dynexu",
+  "numberOfDownloads": 149,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/districts.99234/history",
+  "gitUrl": "https://github.com/SphinxHD/Districts",
+  "releaseDate": 1642275420000,
+  "updateDate": 1643356080000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

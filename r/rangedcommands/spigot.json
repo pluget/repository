@@ -1,0 +1,19 @@
+{
+  "id": 100006,
+  "url": "https://www.spigotmc.org/resources/rangedcommands.100006/",
+  "name": "RangedCommands",
+  "description": "Limit a plugin command or a specific string execution in a ranged area (useful for RPG Servers)",
+  "authors": [
+    "StivenFocs"
+  ],
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rangedcommands.100006/history",
+  "gitUrl": "https://github.com/StivenFocs/RangedCommands-MinecraftPlugin",
+  "releaseDate": 1644868140000,
+  "updateDate": 1647454140000,
+  "versions": [
+    "1.17"
+  ]
+}

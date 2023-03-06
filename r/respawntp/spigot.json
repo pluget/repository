@@ -1,0 +1,21 @@
+{
+  "id": 101716,
+  "url": "https://www.spigotmc.org/resources/respawntp.101716/",
+  "name": "RespawnTp",
+  "description": "A simple respawn plugin",
+  "authors": [
+    "JediRogueFull_HD"
+  ],
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/respawntp.101716/history",
+  "gitUrl": "https://github.com/kepe150/RespawnTp",
+  "releaseDate": 1651170600000,
+  "updateDate": 1651170600000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 93644,
+  "url": "https://www.spigotmc.org/resources/discorddeathmessages.93644/",
+  "name": "DiscordDeathMessages",
+  "description": "Advertise your demise on Discord!",
+  "authors": [
+    "Romejanic"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93644.jpg?1624684815",
+  "iconCid": "bafkreihrxpia65ukubb2vapgiyl4rrvdnzxh65dqvznaorsfsfsdak6xxy",
+  "numberOfDownloads": 460,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discorddeathmessages.93644/history",
+  "gitUrl": "https://github.com/Romejanic/DiscordDeathMessages",
+  "releaseDate": 1624681200000,
+  "updateDate": 1642430880000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

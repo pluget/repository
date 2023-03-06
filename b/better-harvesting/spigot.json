@@ -1,0 +1,21 @@
+{
+  "id": 98816,
+  "url": "https://www.spigotmc.org/resources/better-harvesting.98816/",
+  "name": "Better Harvesting",
+  "description": "A plugin that adds a lot of logical and useful harvesting features",
+  "authors": [
+    "Vampucha"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98816.jpg?1640909271",
+  "iconCid": "bafkreigjoofsm22ucrwhsyancsy2dup5t2cbpr4vydpymlcj63mgbzlzru",
+  "numberOfDownloads": 378,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/better-harvesting.98816/history",
+  "gitUrl": "https://github.com/MarlonGrazek/BetterHarvesting",
+  "releaseDate": 1640903520000,
+  "updateDate": 1642321020000,
+  "versions": [
+    "1.18"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 101119,
+  "url": "https://www.spigotmc.org/resources/slimebot-discord-bot-for-slimefun-servers-slimefun-addon.101119/",
+  "name": "SlimeBot | Discord bot for slimefun servers | Slimefun Addon",
+  "description": "Retrieve information on slimefun items via discord",
+  "authors": [
+    "UnlimitedNinjas"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101119.jpg?1648903743",
+  "iconCid": "bafkreigfnreayytlp7yf3s3akdddynjealsqgpibjxswt4hzdubypw6qfe",
+  "numberOfDownloads": 62,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/slimebot-discord-bot-for-slimefun-servers-slimefun-addon.101119/history",
+  "gitUrl": "https://github.com/TheSilentPro/SlimeBot",
+  "releaseDate": 1648900080000,
+  "updateDate": 1648900080000,
+  "versions": [
+    "1.18"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 99106,
+  "url": "https://www.spigotmc.org/resources/wgdefaultflags-v0-0-1.99106/",
+  "name": "WGDefaultFlags v0.0.1",
+  "description": "Automatically set default flags (all members. no groups) for a new region.",
+  "authors": [
+    "pivo555"
+  ],
+  "numberOfDownloads": 27,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/wgdefaultflags-v0-0-1.99106/history",
+  "gitUrl": "https://github.com/pivo555/WGDefaultFlags",
+  "releaseDate": 1641835620000,
+  "updateDate": 1641835620000,
+  "versions": [
+    "1.18"
+  ]
+}

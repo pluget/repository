@@ -1,0 +1,26 @@
+{
+  "id": 100798,
+  "url": "https://www.spigotmc.org/resources/togglepvpinv-toggle-pvp-keepinventory-together.100798/",
+  "name": "TogglePvPInv - Toggle PvP + KeepInventory Together",
+  "description": "Providing a single toggle for both PvP and KeepInventory",
+  "authors": [
+    "BloofMC"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100798.jpg?1647628788",
+  "iconCid": "bafkreiag6fsti2codcezeneb7qjrrlcs5luzvtxhjuqqe2vup5a4oem4hu",
+  "numberOfDownloads": 33,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/togglepvpinv-toggle-pvp-keepinventory-together.100798/history",
+  "releaseDate": 1647624960000,
+  "updateDate": 1647624960000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

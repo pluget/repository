@@ -1,0 +1,21 @@
+{
+  "id": 100992,
+  "url": "https://www.spigotmc.org/resources/emailverifier.100992/",
+  "name": "EmailVerifier",
+  "description": "A login plugin with player email verification",
+  "authors": [
+    "sarahlikesducks"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100992.jpg?1649528740",
+  "iconCid": "bafkreidnujji3cxeav2zoqe266w5rdai4icx5m2fsqmzq2gco6emct3kqe",
+  "numberOfDownloads": 76,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/emailverifier.100992/history",
+  "gitUrl": "https://github.com/sarah-lacerda/EmailVerifier",
+  "releaseDate": 1648347060000,
+  "updateDate": 1648944960000,
+  "versions": [
+    "1.18"
+  ]
+}

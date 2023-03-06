@@ -1,0 +1,30 @@
+{
+  "id": 82004,
+  "url": "https://www.spigotmc.org/resources/thirstbar-java.82004/",
+  "name": "ThirstBar JAVA",
+  "description": "This plugin makes you very thirsty",
+  "authors": [
+    "Djavennn"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82004.jpg?1608061204",
+  "iconCid": "bafkreids4rpjybvlvbsfnreptaoagiziwg64vwsjvmhsyz2jada5de6y7m",
+  "numberOfDownloads": 4755,
+  "rating": 3.9,
+  "numberOfVotes": 14,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/thirstbar-java.82004/history",
+  "releaseDate": 1595848440000,
+  "updateDate": 1643802780000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

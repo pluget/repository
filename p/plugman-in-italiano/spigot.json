@@ -1,0 +1,32 @@
+{
+  "id": 77343,
+  "url": "https://www.spigotmc.org/resources/plugman-in-italiano.77343/",
+  "name": "Plugman In Italiano",
+  "description": "Plugman , lo strumento per gestire i plugin, tradotto in italiano",
+  "authors": [
+    "Gian-fr"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/77/77343.jpg?1586724425",
+  "iconCid": "bafkreieevvb7ndperlzvracuiheoqpoidfaecx7qf7bwlg5yc3oufcfsxa",
+  "numberOfDownloads": 2277,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/plugman-in-italiano.77343/history",
+  "gitUrl": "https://github.com/Gian-Fr/PlugMan-In-Italiano",
+  "releaseDate": 1586719680000,
+  "updateDate": 1649335260000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 99375,
+  "url": "https://www.spigotmc.org/resources/rspectate.99375/",
+  "name": "rSpectate",
+  "description": "Let your players use spectate mode and teleport them back when they are done",
+  "authors": [
+    "r0p3"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99375.jpg?1643539969",
+  "iconCid": "bafkreibrdc556qylzmcagb6gdsgcc2twdno5msmeyg62gutcadyokgvl2i",
+  "numberOfDownloads": 87,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rspectate.99375/history",
+  "gitUrl": "https://github.com/r0p3/rSpectate",
+  "releaseDate": 1642749060000,
+  "updateDate": 1642767120000,
+  "versions": [
+    "1.18"
+  ]
+}

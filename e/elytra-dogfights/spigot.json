@@ -1,0 +1,22 @@
+{
+  "id": 60491,
+  "url": "https://www.spigotmc.org/resources/elytra-dogfights.60491/",
+  "name": "Elytra Dogfights",
+  "description": "An aerial combat minigame with solo and teams options.",
+  "authors": [
+    "sudologic"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/60/60491.jpg?1535829372",
+  "iconCid": "bafkreihbnxo3ixdyfh5pqa66kkquscpn3vougejhphxoifug67rzqzsxt4",
+  "numberOfDownloads": 460,
+  "rating": 4.5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/elytra-dogfights.60491/history",
+  "gitUrl": "https://github.com/sudological/ElytraDogfights",
+  "releaseDate": 1535825280000,
+  "updateDate": 1642544280000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

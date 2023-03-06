@@ -1,0 +1,32 @@
+{
+  "id": 95868,
+  "url": "https://www.spigotmc.org/resources/characterdialogue.95868/",
+  "name": "CharacterDialogue",
+  "description": "Execute actions by simply interacting with NPCs!",
+  "authors": [
+    "Atog_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95868.jpg?1638292707",
+  "iconCid": "bafkreifqpfqgae3bb6t43zw5yaeq35vapqgngstexepdhlvbqrysmjjg7i",
+  "numberOfDownloads": 1539,
+  "rating": 4.9,
+  "numberOfVotes": 19,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/characterdialogue.95868/history",
+  "gitUrl": "https://github.com/iAtog/CharacterDialogue",
+  "releaseDate": 1630428900000,
+  "updateDate": 1644837240000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

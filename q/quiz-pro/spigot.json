@@ -1,0 +1,26 @@
+{
+  "id": 101108,
+  "url": "https://www.spigotmc.org/resources/quiz-pro.101108/",
+  "name": "QUIZ PRO",
+  "description": "Fun plugin for asking players questions that give them rewards if they guess right",
+  "authors": [
+    "Drake989"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101108.jpg?1648839232",
+  "iconCid": "bafkreiaftd7l7kvufv35gjytpgp5xqzi2x3mmhj47lbix4zbnzs2yvqlii",
+  "numberOfDownloads": 164,
+  "rating": 3,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/quiz-pro.101108/history",
+  "releaseDate": 1648835580000,
+  "updateDate": 1650399000000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

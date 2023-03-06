@@ -1,0 +1,30 @@
+{
+  "id": 100946,
+  "url": "https://www.spigotmc.org/resources/durability-exceptions.100946/",
+  "name": "Durability Exceptions",
+  "description": "Prevent armor durability being reduced from diferent events or entities attacks.",
+  "authors": [
+    "HappierGore"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100946.jpg?1648174154",
+  "iconCid": "bafkreifaul7sa6ow5ms5k6jqb4vv5v2knotznoefqcgo6y7mw4zyokaiuy",
+  "numberOfDownloads": 27,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/durability-exceptions.100946/history",
+  "releaseDate": 1648170480000,
+  "updateDate": 1648170480000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

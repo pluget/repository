@@ -1,0 +1,20 @@
+{
+  "id": 95631,
+  "url": "https://www.spigotmc.org/resources/configuretnt.95631/",
+  "name": "ConfigureTNT",
+  "description": "A plugin to configure TNT",
+  "authors": [
+    "Chronospace"
+  ],
+  "numberOfDownloads": 128,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/configuretnt.95631/history",
+  "gitUrl": "https://github.com/Chronocrisp/McTNTConfig",
+  "releaseDate": 1629799440000,
+  "updateDate": 1641486180000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

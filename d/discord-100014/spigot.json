@@ -1,0 +1,27 @@
+{
+  "id": 100014,
+  "url": "https://www.spigotmc.org/resources/discord.100014/",
+  "name": "Discord",
+  "description": "Easy command for players to find your discord link.",
+  "authors": [
+    "ARR4NN"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100014.jpg?1644927948",
+  "iconCid": "bafkreihotyeui5gnwocdpsionujuxmt6jwsmmd6elxjozahlfav6qlobae",
+  "numberOfDownloads": 164,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discord.100014/history",
+  "releaseDate": 1644924300000,
+  "updateDate": 1644924780000,
+  "versions": [
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

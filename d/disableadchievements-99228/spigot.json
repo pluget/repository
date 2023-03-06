@@ -1,0 +1,25 @@
+{
+  "id": 99228,
+  "url": "https://www.spigotmc.org/resources/disableadchievements.99228/",
+  "name": "DisableAdchievements",
+  "description": "Stop spamming your chat with minigames.",
+  "authors": [
+    "test112211"
+  ],
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/disableadchievements.99228/history",
+  "gitUrl": "https://github.com/jurian112211/DisableAdchievements",
+  "releaseDate": 1642262640000,
+  "updateDate": 1642262640000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

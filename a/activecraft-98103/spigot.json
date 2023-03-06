@@ -1,0 +1,22 @@
+{
+  "id": 98103,
+  "url": "https://www.spigotmc.org/resources/activecraft-discord.98103/",
+  "name": "ActiveCraft-Discord",
+  "description": "Connect Minecraft and Discord with ease.",
+  "authors": [
+    "CPlaiz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98103.jpg?1642591636",
+  "iconCid": "bafkreiararh5zeeabpmg4j72oulkpamtv3nraut6gbvyxnp52qyheevzsm",
+  "numberOfDownloads": 205,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/activecraft-discord.98103/history",
+  "gitUrl": "https://github.com/CPlaiz/ActiveCraft-Discord",
+  "releaseDate": 1638571320000,
+  "updateDate": 1641729060000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

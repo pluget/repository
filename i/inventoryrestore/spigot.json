@@ -1,0 +1,31 @@
+{
+  "id": 22436,
+  "url": "https://www.spigotmc.org/resources/inventory-restore-1-8-1-18-1.22436/",
+  "name": "Inventory-Restore [1.8 - 1.18.1]",
+  "description": "A simple and effective inventory-restoring plugin for all versions of Minecraft.",
+  "authors": [
+    "EvanTheSurfer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/22/22436.jpg?1461772152",
+  "iconCid": "bafkreibrmntybkxuv5a5kzuncqlxu6kx3e6szhri25jrbbnjwbggjfwfmm",
+  "numberOfDownloads": 8075,
+  "rating": 5,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/inventory-restore-1-8-1-18-1.22436/history",
+  "gitUrl": "https://github.com/evancolewright/inventory-restore",
+  "releaseDate": 1461768540000,
+  "updateDate": 1642977420000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

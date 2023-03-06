@@ -1,0 +1,32 @@
+{
+  "id": 99628,
+  "url": "https://www.spigotmc.org/resources/staffchatlite.99628/",
+  "name": "StaffChatLite",
+  "description": "Simple and easy to use staff chat plugin.",
+  "authors": [
+    "DadoGamer13"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99628.jpg?1643550102",
+  "iconCid": "bafkreievsb4k6ec6owu2g34kxgzonc4hr2apwlumtopswbx7pom7ngg5ju",
+  "numberOfDownloads": 199,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/staffchatlite.99628/history",
+  "gitUrl": "https://github.com/FranciscoDadone/StaffChatLite",
+  "releaseDate": 1643546280000,
+  "updateDate": 1643820360000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

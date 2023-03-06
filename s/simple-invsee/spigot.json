@@ -1,0 +1,22 @@
+{
+  "id": 103245,
+  "url": "https://www.spigotmc.org/resources/simple-invsee.103245/",
+  "name": "Simple Invsee",
+  "description": "Just a basic /invsee plugin",
+  "authors": [
+    "Romejanic"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103245.jpg?1657440839",
+  "iconCid": "bafkreig5vhrwwuzrc2oi5rouovh7ft2ghb74kdpoxaczq77yjgbirnmnlq",
+  "numberOfDownloads": 105,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-invsee.103245/history",
+  "gitUrl": "https://github.com/Romejanic/simple-invsee",
+  "releaseDate": 1657436940000,
+  "updateDate": 1657436940000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

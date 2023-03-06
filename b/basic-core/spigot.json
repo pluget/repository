@@ -1,0 +1,28 @@
+{
+  "id": 99373,
+  "url": "https://www.spigotmc.org/resources/basic-core.99373/",
+  "name": "Basic Core",
+  "description": "A core that has the essential commands every server needs!",
+  "authors": [
+    "NotZorba"
+  ],
+  "numberOfDownloads": 85,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/basic-core.99373/history",
+  "gitUrl": "https://github.com/NotZorba/Basic-Core",
+  "releaseDate": 1642738920000,
+  "updateDate": 1643830380000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

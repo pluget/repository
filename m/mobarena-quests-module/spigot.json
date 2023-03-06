@@ -1,0 +1,29 @@
+{
+  "id": 72355,
+  "url": "https://www.spigotmc.org/resources/mobarena-quests-module.72355/",
+  "name": "MobArena Quests Module",
+  "description": "Quests module for MobArena",
+  "authors": [
+    "PikaMug"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/72/72355.jpg?1613877264",
+  "iconCid": "bafkreigigyvnn3dwj4ibnsdj64m67tgygdmssvtcp6ap2iqe6r4udhpjnu",
+  "numberOfDownloads": 740,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mobarena-quests-module.72355/history",
+  "gitUrl": "https://github.com/PikaMug/MobArenaQuestsModule",
+  "releaseDate": 1572225840000,
+  "updateDate": 1650778080000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": 101428,
+  "url": "https://www.spigotmc.org/resources/mongocollection.101428/",
+  "name": "MongoCollection",
+  "description": "mongodb",
+  "authors": [
+    "D151l"
+  ],
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mongocollection.101428/history",
+  "gitUrl": "https://github.com/D151l/MongoCollection",
+  "releaseDate": 1650150840000,
+  "updateDate": 1650150840000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

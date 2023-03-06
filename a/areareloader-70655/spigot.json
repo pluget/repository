@@ -1,0 +1,26 @@
+{
+  "id": 70655,
+  "url": "https://www.spigotmc.org/resources/areareloader-reload-and-rebuild-your-areas.70655/",
+  "name": "AreaReloader - Reload and rebuild your areas!",
+  "description": "Easily restore destroyed areas",
+  "authors": [
+    "_Hetag1216_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/70/70655.jpg?1566490991",
+  "iconCid": "bafkreiaubrq77nvr47fiwifl34bwet2zmrr3lf2rtqiveyow4nulq2avzq",
+  "numberOfDownloads": 995,
+  "rating": 4.6,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/areareloader-reload-and-rebuild-your-areas.70655/history",
+  "gitUrl": "https://github.com/Hetag1216/AreaReloader",
+  "releaseDate": 1566487380000,
+  "updateDate": 1648422000000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 82515,
+  "url": "https://www.spigotmc.org/resources/mimic.82515/",
+  "name": "Mimic",
+  "description": "Vault of common RPG APIs",
+  "authors": [
+    "OsipXD"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/82/82515.jpg?1596892703",
+  "iconCid": "bafkreihwur622qp3fr5w7mxvuwyct7k42t7ioc524vmegeyfk4v4vioxle",
+  "numberOfDownloads": 1749,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mimic.82515/history",
+  "gitUrl": "https://github.com/EndlessCodeGroup/Mimic",
+  "releaseDate": 1596888840000,
+  "updateDate": 1650309480000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

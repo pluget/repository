@@ -1,0 +1,31 @@
+{
+  "id": 86789,
+  "url": "https://www.spigotmc.org/resources/m0-freeze.86789/",
+  "name": "M0 - Freeze",
+  "description": "Freeze players with ease.",
+  "authors": [
+    "M0dii"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/86/86789.jpg?1608199782",
+  "iconCid": "bafkreiehcqwasxgnafgwakhs3zvnkummf3n67blmnhjhywc2d2eo6aw6hu",
+  "numberOfDownloads": 146,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/m0-freeze.86789/history",
+  "gitUrl": "https://github.com/M0diis/M0-Freeze",
+  "releaseDate": 1608155760000,
+  "updateDate": 1647556440000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

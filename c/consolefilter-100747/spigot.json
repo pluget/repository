@@ -1,0 +1,21 @@
+{
+  "id": 100747,
+  "url": "https://www.spigotmc.org/resources/consolefilter.100747/",
+  "name": "ConsoleFilter",
+  "description": "A lightweight plugin to filter and hide console messages",
+  "authors": [
+    "Whitescan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100747.jpg?1647839082",
+  "iconCid": "bafkreidp4ihprz3z4hhbw5fmgtkfbz7kwdgm7hoasygfkkhg4un4oqbhmu",
+  "numberOfDownloads": 190,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/consolefilter.100747/history",
+  "gitUrl": "https://github.com/Whitescan/ConsoleFilter",
+  "releaseDate": 1647443820000,
+  "updateDate": 1650929640000,
+  "versions": [
+    "1.18"
+  ]
+}

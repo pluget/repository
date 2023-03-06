@@ -1,0 +1,20 @@
+{
+  "id": 101519,
+  "url": "https://www.spigotmc.org/resources/feeplugin.101519/",
+  "name": "FeePlugin",
+  "description": "Fee players and have it logged in chat and console!",
+  "authors": [
+    "xAntho_ny"
+  ],
+  "numberOfDownloads": 14,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/feeplugin.101519/history",
+  "releaseDate": 1650469260000,
+  "updateDate": 1650469260000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

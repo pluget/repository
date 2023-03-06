@@ -1,0 +1,27 @@
+{
+  "id": 79295,
+  "url": "https://www.spigotmc.org/resources/partychat.79295/",
+  "name": "PartyChat",
+  "description": "Configurable easy to use plugin that allows players to chat with their friends in private parties.",
+  "authors": [
+    "Majekdor"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79295.jpg?1599757127",
+  "iconCid": "bafkreieqijpn5nwhsxlwbha5rtughwbxldmfuunmsk5vqej6c22fbkie3q",
+  "numberOfDownloads": 3020,
+  "rating": 4.3,
+  "numberOfVotes": 8,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/partychat.79295/history",
+  "gitUrl": "https://github.com/MajekDev/PartyChat",
+  "releaseDate": 1590457980000,
+  "updateDate": 1646789520000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

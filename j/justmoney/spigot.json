@@ -1,0 +1,32 @@
+{
+  "id": 81941,
+  "url": "https://www.spigotmc.org/resources/justmoney.81941/",
+  "name": "JustMoney",
+  "description": "It's just money.",
+  "authors": [
+    "EpicEric"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81941.jpg?1595777754",
+  "iconCid": "bafkreif4hsdqrlz52dpavvfdyluibbntotkoli2p52iceeadvgv52uzbme",
+  "numberOfDownloads": 2681,
+  "rating": 4.5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/justmoney.81941/history",
+  "gitUrl": "https://github.com/EpicEricEE/JustMoney",
+  "releaseDate": 1595715300000,
+  "updateDate": 1644151860000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

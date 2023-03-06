@@ -1,0 +1,20 @@
+{
+  "id": 96980,
+  "url": "https://www.spigotmc.org/resources/smelter.96980/",
+  "name": "Smelter",
+  "description": "Updated version of the smelter plugin by therealspojo",
+  "authors": [
+    "KevinDaGame"
+  ],
+  "numberOfDownloads": 61,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/smelter.96980/history",
+  "gitUrl": "https://github.com/KevinDaGame/Smelter",
+  "releaseDate": 1634728860000,
+  "updateDate": 1643281560000,
+  "versions": [
+    "1.16",
+    "1.17"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 99800,
+  "url": "https://www.spigotmc.org/resources/timastream.99800/",
+  "name": "TimaStream",
+  "description": "The simplest plugin that adds the ability for streamers to notify the all server about their stream!",
+  "authors": [
+    "timurroot"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99800.jpg?1644096754",
+  "iconCid": "bafkreig77o5zpn4fmfq6zmivcndmlyazxueku4332rrn6jkd62z3bqe3ru",
+  "numberOfDownloads": 44,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/timastream.99800/history",
+  "releaseDate": 1644093120000,
+  "updateDate": 1644093120000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

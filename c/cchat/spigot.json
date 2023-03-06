@@ -1,0 +1,31 @@
+{
+  "id": 98993,
+  "url": "https://www.spigotmc.org/resources/cchat-1-8-1-18-1.98993/",
+  "name": "CChat [1.8 - 1.18.1]",
+  "description": "Add multiples chat formats per groups!",
+  "authors": [
+    "iAlqjDV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98993.jpg?1641437083",
+  "iconCid": "bafkreidchfuorlmpjdluqpox2l2lgz3twhgvbf6hozdpkticdrybqb7fnu",
+  "numberOfDownloads": 251,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cchat-1-8-1-18-1.98993/history",
+  "gitUrl": "https://github.com/ialqjdv/CChat",
+  "releaseDate": 1641433440000,
+  "updateDate": 1643666340000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

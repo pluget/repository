@@ -1,0 +1,21 @@
+{
+  "id": 99532,
+  "url": "https://www.spigotmc.org/resources/fixburning-for-mythicmobs.99532/",
+  "name": "FixBurning For MythicMobs",
+  "description": "The plugin for fixing burning entities in MythicMobs(4.14.1).",
+  "authors": [
+    "Toto31010"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99532.jpg?1643214056",
+  "iconCid": "bafkreidplkjyq2cuaa5x4wcyzu555ju2jrqelonowcfprwi4fup3ls37xa",
+  "numberOfDownloads": 63,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fixburning-for-mythicmobs.99532/history",
+  "gitUrl": "https://github.com/tprj/FixBurningForMythicMobs",
+  "releaseDate": 1643210040000,
+  "updateDate": 1643210040000,
+  "versions": [
+    "1.16"
+  ]
+}

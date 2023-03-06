@@ -1,0 +1,24 @@
+{
+  "id": 79587,
+  "url": "https://www.spigotmc.org/resources/playerservers-revived.79587/",
+  "name": "PlayerServers-Revived",
+  "description": "The return of PlayerServers :D",
+  "authors": [
+    "wildmaster84"
+  ],
+  "numberOfDownloads": 640,
+  "rating": 4.2,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playerservers-revived.79587/history",
+  "gitUrl": "https://github.com/wildmaster84/PlayerServers",
+  "releaseDate": 1591106280000,
+  "updateDate": 1647694440000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13"
+  ]
+}

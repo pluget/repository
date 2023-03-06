@@ -1,0 +1,23 @@
+{
+  "id": 73261,
+  "url": "https://www.spigotmc.org/resources/bentobox-bskyblock-acidisland-skygrid-caveblock-aoneblock-boxed.73261/",
+  "name": "BentoBox (BSkyblock, AcidIsland, SkyGrid, CaveBlock, AOneBlock, Boxed)",
+  "description": "Powerful, community-driven, scalable and expandable plugin for island-type games.",
+  "authors": [
+    "BentoBoxWorld"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/73/73261.jpg?1575741273",
+  "iconCid": "bafkreibcx3b2w2god2b74og7plg7j4vnzmhoxlx5adrc4rpyve223cxazm",
+  "numberOfDownloads": 47918,
+  "rating": 4.2,
+  "numberOfVotes": 91,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bentobox-bskyblock-acidisland-skygrid-caveblock-aoneblock-boxed.73261/history",
+  "gitUrl": "https://bentobox.world",
+  "releaseDate": 1575737220000,
+  "updateDate": 1645489920000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

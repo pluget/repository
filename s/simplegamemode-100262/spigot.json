@@ -1,0 +1,25 @@
+{
+  "id": 100262,
+  "url": "https://www.spigotmc.org/resources/simplegamemode-gamemode-command.100262/",
+  "name": "SimpleGamemode - [Gamemode command]",
+  "description": "Gamemode plugin for your server",
+  "authors": [
+    "Dennis25Official"
+  ],
+  "numberOfDownloads": 88,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplegamemode-gamemode-command.100262/history",
+  "gitUrl": "https://github.com/Dennis25Off/SimpleFly/tree/plugins",
+  "releaseDate": 1645636680000,
+  "updateDate": 1645733760000,
+  "versions": [
+    "1.8",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 10604,
+  "url": "https://www.spigotmc.org/resources/attributehider.10604/",
+  "name": "AttributeHider",
+  "description": "Simple plugin to hide attributes! (1.8-1.18)",
+  "authors": [
+    "Warren1001"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/10/10604.jpg?1458643134",
+  "iconCid": "bafkreiga4giut45ehmofzg45ghw5szbrfgdfu2fqgd3vbv5nicv7rjizfu",
+  "numberOfDownloads": 6084,
+  "rating": 4.4,
+  "numberOfVotes": 22,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/attributehider.10604/history",
+  "gitUrl": "https://github.com/Warren1001/attributehider",
+  "releaseDate": 1438945560000,
+  "updateDate": 1646709060000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

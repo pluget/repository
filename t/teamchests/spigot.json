@@ -1,0 +1,23 @@
+{
+  "id": 99258,
+  "url": "https://www.spigotmc.org/resources/addon-teamchests-for-bedwars1058.99258/",
+  "name": "[Addon] TeamChests for BedWars1058",
+  "description": "BedWars1058-Addon, adds team enderchests to the game.",
+  "authors": [
+    "AdiihYT"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99258.jpg?1642334894",
+  "iconCid": "bafkreidu3xp6imtnqktjwveg6nnbiivvghlnri3ocsr3nba6vq3bsxhtom",
+  "numberOfDownloads": 155,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/addon-teamchests-for-bedwars1058.99258/history",
+  "gitUrl": "https://github.com/AdiihYT/BedWars1058-TeamChest",
+  "releaseDate": 1642331280000,
+  "updateDate": 1642331280000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

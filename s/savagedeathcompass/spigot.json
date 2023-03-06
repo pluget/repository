@@ -1,0 +1,23 @@
+{
+  "id": 81306,
+  "url": "https://www.spigotmc.org/resources/savagedeathcompass.81306/",
+  "name": "SavageDeathCompass",
+  "description": "Gives a compass on death respawn pointing to death location.",
+  "authors": [
+    "timsavage"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81306.jpg?1594393875",
+  "iconCid": "bafkreihamvnrx3yatxz52ndmmcvoureoo3fezsngomyzvttgtl2db3cxye",
+  "numberOfDownloads": 762,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/savagedeathcompass.81306/history",
+  "gitUrl": "https://github.com/tim-savage/SavageDeathCompass",
+  "releaseDate": 1594389900000,
+  "updateDate": 1643447940000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

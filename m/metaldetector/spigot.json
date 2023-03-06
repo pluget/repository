@@ -1,0 +1,22 @@
+{
+  "id": 30837,
+  "url": "https://www.spigotmc.org/resources/metaldetector.30837/",
+  "name": "MetalDetector",
+  "description": "A machine which detects forbidden items.",
+  "authors": [
+    "Plugin_Dev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/30/30837.jpg?1646577241",
+  "iconCid": "bafkreih6w4izzhp7yjfbdg4g7hzkqwbh2t3psiuq5ncrcec5c3lttnajtm",
+  "numberOfDownloads": 711,
+  "rating": 3.8,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/metaldetector.30837/history",
+  "releaseDate": 1477312020000,
+  "updateDate": 1646574060000,
+  "versions": [
+    "1.8",
+    "1.14",
+    "1.18"
+  ]
+}

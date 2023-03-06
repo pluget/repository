@@ -1,0 +1,22 @@
+{
+  "id": 88940,
+  "url": "https://www.spigotmc.org/resources/mcg-bluemap-essentials.88940/",
+  "name": "MCG BlueMap Essentials",
+  "description": "Add plugin support to bluemap for CMI worldguard worldborder towny factions and more!",
+  "authors": [
+    "mmuziek"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88940.jpg?1613140033",
+  "iconCid": "bafkreiebllampkhrtybqzimwlgzzj22aq23iihlkoog24ej2ibluvzxbdq",
+  "numberOfDownloads": 2708,
+  "rating": 4.7,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mcg-bluemap-essentials.88940/history",
+  "releaseDate": 1613136420000,
+  "updateDate": 1649587380000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

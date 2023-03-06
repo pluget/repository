@@ -1,0 +1,21 @@
+{
+  "id": 101290,
+  "url": "https://www.spigotmc.org/resources/entity-traveller.101290/",
+  "name": "Entity Traveller",
+  "description": "Teleports leashed entities with the leash holder.",
+  "authors": [
+    "DevCyntrix"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101290.jpg?1649698434",
+  "iconCid": "bafkreicd4ugm3ef5o7lslmqblz76i4deq3i3cms5miejcxzs47njg2tgym",
+  "numberOfDownloads": 240,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/entity-traveller.101290/history",
+  "gitUrl": "https://github.com/DevCyntrix/entity-traveller",
+  "releaseDate": 1649619540000,
+  "updateDate": 1650391980000,
+  "versions": [
+    "1.18"
+  ]
+}

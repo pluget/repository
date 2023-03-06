@@ -1,0 +1,19 @@
+{
+  "id": 101723,
+  "url": "https://www.spigotmc.org/resources/versioncheckerx.101723/",
+  "name": "VersionCheckerX",
+  "description": "A plugin that you can use to check the versions of all installed plugins with their ID",
+  "authors": [
+    "Vinesh"
+  ],
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/versioncheckerx.101723/history",
+  "gitUrl": "https://github.com/vinesh27/VersionCheckerX",
+  "releaseDate": 1651231680000,
+  "updateDate": 1651231680000,
+  "versions": [
+    "1.18"
+  ]
+}

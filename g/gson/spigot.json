@@ -1,0 +1,20 @@
+{
+  "id": 30852,
+  "url": "https://www.spigotmc.org/resources/gson-for-1-8-3-or-older.30852/",
+  "name": "Gson for 1.8.3 or older",
+  "description": "Adds gson to 1.8.3 because some plugins need it",
+  "authors": [
+    "simonsator"
+  ],
+  "numberOfDownloads": 1373,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gson-for-1-8-3-or-older.30852/history",
+  "gitUrl": "https://github.com/Simonsator/Gson-for-1.7/",
+  "releaseDate": 1477330740000,
+  "updateDate": 1653084540000,
+  "versions": [
+    "1.7",
+    "1.8"
+  ]
+}

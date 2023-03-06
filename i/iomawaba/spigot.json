@@ -1,0 +1,23 @@
+{
+  "id": 100149,
+  "url": "https://www.spigotmc.org/resources/iomawaba.100149/",
+  "name": "IOMawaba",
+  "description": "Manage warnings, kicks and bans on a network",
+  "authors": [
+    "Doctacosa"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100149.jpg?1645289596",
+  "iconCid": "bafkreic7im6w27qxqso23fslekszql2k3ypwezkzp3j5ogmhkl2xssthva",
+  "numberOfDownloads": 13,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/iomawaba.100149/history",
+  "gitUrl": "https://github.com/Doctacosa/IOMawaba",
+  "releaseDate": 1645285980000,
+  "updateDate": 1645285980000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 101002,
+  "url": "https://www.spigotmc.org/resources/shutdown.101002/",
+  "name": "Shutdown",
+  "description": "Super lightweight advanced shutdown schedule.",
+  "authors": [
+    "cofob"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101002.jpg?1648370969",
+  "iconCid": "bafkreiea4rrlxbvh64eke6aomx3wtulvu7nhmq66x6jmysuvoiec4bkt6i",
+  "numberOfDownloads": 52,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/shutdown.101002/history",
+  "gitUrl": "https://git.averyan.ru/firesquare/public/plugins/shutdown",
+  "releaseDate": 1648367340000,
+  "updateDate": 1648367340000,
+  "versions": [
+    "1.18"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 99122,
+  "url": "https://www.spigotmc.org/resources/chat-cooldown-skript-spam-prevention.99122/",
+  "name": "Chat Cooldown Skript | Spam Prevention",
+  "description": "Adds cooldown to your in game chat",
+  "authors": [
+    "rdm1n3r"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99122.jpg?1641918241",
+  "iconCid": "bafkreib4zwrdp4eaen3j45m3zygaw6an3hyatfgtu5d3r3wwcr6ky245ui",
+  "numberOfDownloads": 240,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chat-cooldown-skript-spam-prevention.99122/history",
+  "releaseDate": 1641914580000,
+  "updateDate": 1641914580000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

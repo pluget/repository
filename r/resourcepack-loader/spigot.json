@@ -1,0 +1,21 @@
+{
+  "id": 101623,
+  "url": "https://www.spigotmc.org/resources/resourcepack-loader.101623/",
+  "name": "Resourcepack Loader",
+  "description": "Simple resourcepack loader for spigot servers",
+  "authors": [
+    "AlterStepix"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101623.jpg?1650818571",
+  "iconCid": "bafkreieub2i4pg3kzn3in5m5zipkc7koc2lwrnvsbggnym7awpmo63jh2e",
+  "numberOfDownloads": 71,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/resourcepack-loader.101623/history",
+  "releaseDate": 1650814920000,
+  "updateDate": 1650862980000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

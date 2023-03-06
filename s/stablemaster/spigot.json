@@ -1,0 +1,26 @@
+{
+  "id": 35286,
+  "url": "https://www.spigotmc.org/resources/stablemaster.35286/",
+  "name": "StableMaster",
+  "description": "A tameable animal management plugin",
+  "authors": [
+    "RobotoRaccoon"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/35/35286.jpg?1485297266",
+  "iconCid": "bafkreiccufbyodrpdrzrdnx7qz66xbdyj3bwkakim5unu2gvfucd46wcom",
+  "numberOfDownloads": 1880,
+  "rating": 4.8,
+  "numberOfVotes": 17,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/stablemaster.35286/history",
+  "gitUrl": "https://github.com/RobotoRaccoon/StableMaster",
+  "releaseDate": 1485228780000,
+  "updateDate": 1645919760000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 100457,
+  "url": "https://www.spigotmc.org/resources/hubcore.100457/",
+  "name": "HubCore",
+  "description": "The complete hub core you'll ever need!",
+  "authors": [
+    "iUseRod"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100457.jpg?1646382389",
+  "iconCid": "bafkreihhzrog5ftd2ombcezmzqbkbbrjo6ed2zydccirt55cpp7moiz2jm",
+  "numberOfDownloads": 186,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hubcore.100457/history",
+  "gitUrl": "https://github.com/iInvisibilities/HubCore",
+  "releaseDate": 1646378640000,
+  "updateDate": 1647503820000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

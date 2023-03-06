@@ -1,0 +1,30 @@
+{
+  "id": 101143,
+  "url": "https://www.spigotmc.org/resources/chatsystemu.101143/",
+  "name": "ChatSystemU",
+  "description": "Chat Control System",
+  "authors": [
+    "u200b"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101143.jpg?1648996377",
+  "iconCid": "bafkreifqwtlzbgh6hre5xxhg7fjshjbd557uummjjkp6t6l7c4byibe4da",
+  "numberOfDownloads": 21,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatsystemu.101143/history",
+  "releaseDate": 1648992660000,
+  "updateDate": 1648992660000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

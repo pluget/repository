@@ -1,0 +1,25 @@
+{
+  "id": 99291,
+  "url": "https://www.spigotmc.org/resources/modelenginepatch.99291/",
+  "name": "ModelEnginePatch",
+  "description": "Make to ModelEngine better",
+  "authors": [
+    "Peng_Lx"
+  ],
+  "numberOfDownloads": 130,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/modelenginepatch.99291/history",
+  "gitUrl": "https://github.com/PengLx/ModelEnginePatch",
+  "releaseDate": 1642413420000,
+  "updateDate": 1642413420000,
+  "versions": [
+    "1.11",
+    "1.12",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 101823,
+  "url": "https://www.spigotmc.org/resources/regenassist.101823/",
+  "name": "RegenAssist",
+  "description": "Multiverse add-on to make regenerating worlds easier (and automatically restore Multiverse portals)",
+  "authors": [
+    "Artemis_the_gr8"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101823.jpg?1651687042",
+  "iconCid": "bafkreiasafx4trllanpmoyyxkghlx7bais2eptkkajn2xpr6oyxroaf57u",
+  "numberOfDownloads": 38,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/regenassist.101823/history",
+  "gitUrl": "https://github.com/itHotL/RegenAssist",
+  "releaseDate": 1651682400000,
+  "updateDate": 1651682400000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

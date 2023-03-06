@@ -1,0 +1,26 @@
+{
+  "id": 91863,
+  "url": "https://www.spigotmc.org/resources/m0-corecord-1-13-1-18.91863/",
+  "name": "M0 - CoreCord [1.13 - 1.18]",
+  "description": "Discord integration for CoreProtect plugin.",
+  "authors": [
+    "M0dii"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91863.jpg?1620077123",
+  "iconCid": "bafkreicukrzj7tutcuvu5sfcr2dy3srquwifj3im2fraxipukwyydcu5h4",
+  "numberOfDownloads": 710,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/m0-corecord-1-13-1-18.91863/history",
+  "gitUrl": "https://github.com/M0diis/M0-CoreCord",
+  "releaseDate": 1619767860000,
+  "updateDate": 1650445260000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

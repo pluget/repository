@@ -1,0 +1,26 @@
+{
+  "id": 56020,
+  "url": "https://www.spigotmc.org/resources/autopick.56020/",
+  "name": "AutoPick",
+  "description": "Auto Retrieve Mining",
+  "authors": [
+    "Paul19988"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/56/56020.jpg?1610412104",
+  "iconCid": "bafkreifkbk75unxavekf4mzkk2jv72tyq57tifvck336ehcseds33huuua",
+  "numberOfDownloads": 431,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/autopick.56020/history",
+  "gitUrl": "https://github.com/Paul19988/AutoPick",
+  "releaseDate": 1524517800000,
+  "updateDate": 1646541180000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

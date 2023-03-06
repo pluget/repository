@@ -1,0 +1,23 @@
+{
+  "id": 95597,
+  "url": "https://www.spigotmc.org/resources/elytra-mayhem.95597/",
+  "name": "Elytra Mayhem",
+  "description": "Elytra PvP Plugin with randomly generated loot in the air and tons of other features!",
+  "authors": [
+    "RowanTjeNL"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95597.jpg?1629720368",
+  "iconCid": "bafkreichosbyroslccxallzgxavufh662u33tesuhjygwb7xek4lowbkci",
+  "numberOfDownloads": 202,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/elytra-mayhem.95597/history",
+  "gitUrl": "https://github.com/icallhacks/ElytraMayhem",
+  "releaseDate": 1629716700000,
+  "updateDate": 1657192080000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

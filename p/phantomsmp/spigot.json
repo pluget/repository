@@ -1,0 +1,26 @@
+{
+  "id": 59721,
+  "url": "https://www.spigotmc.org/resources/phantomsmp.59721/",
+  "name": "PhantomSMP",
+  "description": "Better Phantom handling for SMP",
+  "authors": [
+    "chuu_shi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/59/59721.jpg?1533976387",
+  "iconCid": "bafkreib2t6hinpfrufc2tj6zefqms3ya2ljwb5rzdbh4tlp4xp3vjwesti",
+  "numberOfDownloads": 1513,
+  "rating": 5,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/phantomsmp.59721/history",
+  "gitUrl": "https://github.com/chuushi/PhantomSMP",
+  "releaseDate": 1533963120000,
+  "updateDate": 1644206640000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 76471,
+  "url": "https://www.spigotmc.org/resources/random-lootdrop.76471/",
+  "name": "Random Lootdrop",
+  "description": "Drops a crate filled with items in a random location in your world",
+  "authors": [
+    "luumiz"
+  ],
+  "numberOfDownloads": 329,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/random-lootdrop.76471/history",
+  "releaseDate": 1585086480000,
+  "updateDate": 1647147000000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

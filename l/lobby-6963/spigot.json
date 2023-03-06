@@ -1,0 +1,25 @@
+{
+  "id": 6963,
+  "url": "https://www.spigotmc.org/resources/lobby.6963/",
+  "name": "Lobby",
+  "description": "A Lobby System for Networks and standalone Servers [1.8-1.12]",
+  "authors": [
+    "Ancoplays"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/6/6963.jpg?1676964317",
+  "iconCid": "bafkreiftlerqzyl52hjqrsovlslkkmxs2nte7i5ni6sfgijge6xyuhxm3m",
+  "numberOfDownloads": 3418,
+  "rating": 4.3,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lobby.6963/history",
+  "gitUrl": "https://github.com/Ancocodet/Lobby",
+  "releaseDate": 1431358020000,
+  "updateDate": 1642790160000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12"
+  ]
+}

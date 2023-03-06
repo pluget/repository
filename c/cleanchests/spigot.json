@@ -1,0 +1,21 @@
+{
+  "id": 101616,
+  "url": "https://www.spigotmc.org/resources/cleanchests.101616/",
+  "name": "CleanChests",
+  "description": "Allows staff to manage chests content (command + event)",
+  "authors": [
+    "Ducki0210"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101616.jpg?1650797360",
+  "iconCid": "bafkreibonlgoaj7tneyqlo6gxnsy7jchimr33nw5j5bzezp5humqa5u5xy",
+  "numberOfDownloads": 72,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cleanchests.101616/history",
+  "gitUrl": "https://github.com/Ducki0210/CleanChests",
+  "releaseDate": 1650793740000,
+  "updateDate": 1650904020000,
+  "versions": [
+    "1.18"
+  ]
+}

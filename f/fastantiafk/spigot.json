@@ -1,0 +1,32 @@
+{
+  "id": 99493,
+  "url": "https://www.spigotmc.org/resources/fastantiafk.99493/",
+  "name": "FastAntiAFK",
+  "description": "An optimized plugin to detect and execute commands on AFK players blocking your server.",
+  "authors": [
+    "SkyfightTV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99493.jpg?1643056766",
+  "iconCid": "bafkreifzemwar44h6fwxxvdaqjquvcpst5sqnh6c4rvmiad3xgkxw3bjou",
+  "numberOfDownloads": 41,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fastantiafk.99493/history",
+  "gitUrl": "https://github.com/SkyfightTV/FastAntiAFK",
+  "releaseDate": 1643051580000,
+  "updateDate": 1643051580000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 99990,
+  "url": "https://www.spigotmc.org/resources/free-opsystem-security-plugin-for-your-minecraft-server.99990/",
+  "name": "[FREE] OPSystem - Security Plugin for your Minecraft Server",
+  "description": "Plugin for protecting your Minecraft server against malicious people.",
+  "authors": [
+    "ElAchido"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99990.jpg?1644818125",
+  "iconCid": "bafkreifow7kruwjrjk3gowdcuvunhbba6klmsvtp6i4evcfso3zvtrgkma",
+  "numberOfDownloads": 198,
+  "rating": 3.2,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/free-opsystem-security-plugin-for-your-minecraft-server.99990/history",
+  "releaseDate": 1644813540000,
+  "updateDate": 1646010960000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

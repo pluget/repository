@@ -1,0 +1,26 @@
+{
+  "id": 79018,
+  "url": "https://www.spigotmc.org/resources/pluginlib.79018/",
+  "name": "PluginLib",
+  "description": "API for some of my Plugins",
+  "authors": [
+    "keksexception"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79018.jpg?1589906723",
+  "iconCid": "bafkreicx5tjdlyrcecythcun5rxanpvwgd2bbecryslrzvkwzdzzp3wkyi",
+  "numberOfDownloads": 2347,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pluginlib.79018/history",
+  "gitUrl": "https://github.com/keksexception/PluginLib/tree/master/PluginLib/src",
+  "releaseDate": 1589903100000,
+  "updateDate": 1650992880000,
+  "versions": [
+    "1.8",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.14",
+    "1.15"
+  ]
+}

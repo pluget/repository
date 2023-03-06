@@ -1,0 +1,24 @@
+{
+  "id": 96076,
+  "url": "https://www.spigotmc.org/resources/grains-minecraft-improved.96076/",
+  "name": "Grains - Minecraft Improved",
+  "description": "A utility plugin that adds missing features to vanilla Minecraft.",
+  "authors": [
+    "Dr.Night"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96076.jpg?1631193529",
+  "iconCid": "bafkreierglft2bfgdwylficwhccedfutrwzyevovzn42wenghepkkkw2ma",
+  "numberOfDownloads": 729,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/grains-minecraft-improved.96076/history",
+  "gitUrl": "https://github.com/zbejas/Grains",
+  "releaseDate": 1631189160000,
+  "updateDate": 1649674860000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": 99135,
+  "url": "https://www.spigotmc.org/resources/formlicense.99135/",
+  "name": "FormLicense",
+  "description": "The survival server no longer need their whitelist",
+  "authors": [
+    "GMs1D2Yy"
+  ],
+  "numberOfDownloads": 45,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/formlicense.99135/history",
+  "gitUrl": "https://github.com/poikcue/FormLicense",
+  "releaseDate": 1641965940000,
+  "updateDate": 1642039980000,
+  "versions": [
+    "1.13",
+    "1.18"
+  ]
+}

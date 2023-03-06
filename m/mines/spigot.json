@@ -1,0 +1,22 @@
+{
+  "id": 99248,
+  "url": "https://www.spigotmc.org/resources/mines.99248/",
+  "name": "Mines",
+  "description": "A simple lightweight mines plugin.",
+  "authors": [
+    "HexicDragon2"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99248.jpg?1642300807",
+  "iconCid": "bafkreiboqavjmze55be7blcqg4uktdcww2o7ru3slbhoc7oyrprlag6wyi",
+  "numberOfDownloads": 135,
+  "rating": 3,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mines.99248/history",
+  "gitUrl": "https://github.com/hapily04/Mines",
+  "releaseDate": 1642297140000,
+  "updateDate": 1642297140000,
+  "versions": [
+    "1.16",
+    "1.17"
+  ]
+}

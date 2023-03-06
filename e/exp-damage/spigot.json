@@ -1,0 +1,21 @@
+{
+  "id": 99455,
+  "url": "https://www.spigotmc.org/resources/exp-damage.99455/",
+  "name": "Exp Damage",
+  "description": "Receive damage when receiving exp!",
+  "authors": [
+    "TerroFlys"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99455.jpg?1643198116",
+  "iconCid": "bafkreie5nznhcjbl4bc3jldittgjdz4p5ke3fphvwqwmif7uu5qlock5xa",
+  "numberOfDownloads": 63,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/exp-damage.99455/history",
+  "gitUrl": "https://github.com/TerroFlys/expdamageMCPlugin",
+  "releaseDate": 1642961100000,
+  "updateDate": 1643277600000,
+  "versions": [
+    "1.18"
+  ]
+}

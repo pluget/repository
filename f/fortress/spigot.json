@@ -1,0 +1,21 @@
+{
+  "id": 61146,
+  "url": "https://www.spigotmc.org/resources/fortress-1-12-2.61146/",
+  "name": "Fortress [1.12.2]",
+  "description": "Adds a rune that makes your structure unbreakable while fueled by glowstone dust.",
+  "authors": [
+    "NewYith"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/61/61146.jpg?1538119186",
+  "iconCid": "bafkreidiwujcmswu757hhybvyjkm6jkps5itp3vedpgslk5plavzwug6qm",
+  "numberOfDownloads": 221,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fortress-1-12-2.61146/history",
+  "gitUrl": "https://github.com/rockysims/fortressplugin",
+  "releaseDate": 1538115120000,
+  "updateDate": 1649806740000,
+  "versions": [
+    "1.12"
+  ]
+}

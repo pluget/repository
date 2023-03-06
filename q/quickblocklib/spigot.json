@@ -1,0 +1,19 @@
+{
+  "id": 98623,
+  "url": "https://www.spigotmc.org/resources/quickblocklib.98623/",
+  "name": "QuickBlockLib",
+  "description": "Simple block functions and constants to make plugin development quicker.",
+  "authors": [
+    "goodkinghenry"
+  ],
+  "numberOfDownloads": 122,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/quickblocklib.98623/history",
+  "gitUrl": "https://gitlab.com/goodkinghenry/quickblocklib",
+  "releaseDate": 1640290080000,
+  "updateDate": 1648978140000,
+  "versions": [
+    "1.18"
+  ]
+}

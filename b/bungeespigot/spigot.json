@@ -1,0 +1,28 @@
+{
+  "id": 100968,
+  "url": "https://www.spigotmc.org/resources/bungeespigot.100968/",
+  "name": "BungeeSpigot",
+  "description": "A plugin where you can switch servers on BungeeCord proxy.",
+  "authors": [
+    "ez001"
+  ],
+  "numberOfDownloads": 22,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bungeespigot.100968/history",
+  "releaseDate": 1648302960000,
+  "updateDate": 1648302960000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

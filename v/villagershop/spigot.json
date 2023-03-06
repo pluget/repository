@@ -1,0 +1,31 @@
+{
+  "id": 94874,
+  "url": "https://www.spigotmc.org/resources/villagershop.94874/",
+  "name": "VillagerShop",
+  "description": "A shop that uses the villagers' merchant inventory.",
+  "authors": [
+    "Dajman_ek"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94874.jpg?1627823544",
+  "iconCid": "bafkreiedabttlspekozugntx4xfkmabgdn2jpzxqpbplpgclmsgyst4joq",
+  "numberOfDownloads": 765,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/villagershop.94874/history",
+  "gitUrl": "https://github.com/Dajmanek/VillagerShop",
+  "releaseDate": 1627819860000,
+  "updateDate": 1647457080000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

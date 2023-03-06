@@ -1,0 +1,31 @@
+{
+  "id": 100970,
+  "url": "https://www.spigotmc.org/resources/spice-spectator-ssp.100970/",
+  "name": "Spice Spectator [SSP]",
+  "description": "Extremely simplistic spectating plugin",
+  "authors": [
+    "SpiceDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100970.jpg?1648311065",
+  "iconCid": "bafkreif6ycqhzav4zgrym3pcffzuqp4bu7epx2z4mmfhuih6az3teasqoa",
+  "numberOfDownloads": 67,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/spice-spectator-ssp.100970/history",
+  "gitUrl": "https://github.com/Spice-Development/SpiceSpectator",
+  "releaseDate": 1648307400000,
+  "updateDate": 1648307940000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

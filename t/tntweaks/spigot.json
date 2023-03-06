@@ -1,0 +1,23 @@
+{
+  "id": 91912,
+  "url": "https://www.spigotmc.org/resources/tntweaks.91912/",
+  "name": "TNTweaks",
+  "description": "TNTweaks is a plugin that adds fun additional mechanics to TNT!",
+  "authors": [
+    "ascpixel"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91912.jpg?1619882609",
+  "iconCid": "bafkreic7c3q4lg53j2zvrvv5prs6v5konzowepyms2e2ncu7qnnsblxodm",
+  "numberOfDownloads": 161,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tntweaks.91912/history",
+  "gitUrl": "https://github.com/ascpixi/tntweaks",
+  "releaseDate": 1619878980000,
+  "updateDate": 1650641640000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

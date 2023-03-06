@@ -1,0 +1,27 @@
+{
+  "id": 99060,
+  "url": "https://www.spigotmc.org/resources/crafter.99060/",
+  "name": "Crafter",
+  "description": "A Crafting API that suites all your needs",
+  "authors": [
+    "BeefDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99060.jpg?1641660628",
+  "iconCid": "bafkreiemjycmvepojiqr27xcdghc2ysdyrofzzczll43vstdx72pa3q3iu",
+  "numberOfDownloads": 46,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/crafter.99060/history",
+  "gitUrl": "https://github.com/TheBeefDev/Crafter",
+  "releaseDate": 1641657000000,
+  "updateDate": 1641657000000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 100482,
+  "url": "https://www.spigotmc.org/resources/smp-api.100482/",
+  "name": "SMP-API",
+  "description": "A lightweight API for Discord bots or any other program to access player data remotely",
+  "authors": [
+    "BoredManPlays"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100482.jpg?1648676025",
+  "iconCid": "bafkreiedbrdcvzdih65647325bkvl7qlbu3xihxqswjmwxoip4rxc655fq",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/smp-api.100482/history",
+  "gitUrl": "https://github.com/BoredManCodes/SMP-API",
+  "releaseDate": 1646461260000,
+  "updateDate": 1646461260000,
+  "versions": [
+    "1.18"
+  ]
+}

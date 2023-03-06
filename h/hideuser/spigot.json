@@ -1,0 +1,20 @@
+{
+  "id": 99718,
+  "url": "https://www.spigotmc.org/resources/hideuser.99718/",
+  "name": "HideUser",
+  "description": "You can make other users invisible by specifying a target.",
+  "authors": [
+    "Saebyul"
+  ],
+  "numberOfDownloads": 69,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hideuser.99718/history",
+  "gitUrl": "https://github.com/UnknownPlugins/HideUser",
+  "releaseDate": 1643884320000,
+  "updateDate": 1643884320000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

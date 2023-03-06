@@ -1,0 +1,33 @@
+{
+  "id": 83858,
+  "url": "https://www.spigotmc.org/resources/hypersleep.83858/",
+  "name": "HyperSleep",
+  "description": "One person sleeps, HyperSleep sets time to day and clears weather",
+  "authors": [
+    "AustinFRG"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83858.jpg?1600043664",
+  "iconCid": "bafkreih66lwtjmq7kcnvgeytfuvv5vjzroxqwgfmzu43bpofcju5kyykp4",
+  "numberOfDownloads": 2855,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hypersleep.83858/history",
+  "gitUrl": "https://github.com/AustinFRG/HyperSleep",
+  "releaseDate": 1600040040000,
+  "updateDate": 1642210140000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

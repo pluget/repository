@@ -1,0 +1,27 @@
+{
+  "id": 98847,
+  "url": "https://www.spigotmc.org/resources/healthplus.98847/",
+  "name": "HealthPlus",
+  "description": "Essential healing commands to enhance your server with!",
+  "authors": [
+    "ToxicMinty"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98847.jpg?1641063657",
+  "iconCid": "bafkreibdobwdbm3zvbzx6am4bvrs7q37gjvbtzh5nirygofh6soak55i4y",
+  "numberOfDownloads": 130,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/healthplus.98847/history",
+  "releaseDate": 1640984820000,
+  "updateDate": 1642285200000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

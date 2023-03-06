@@ -1,0 +1,27 @@
+{
+  "id": 99213,
+  "url": "https://www.spigotmc.org/resources/lsrvdiscordnews.99213/",
+  "name": "LSRVDiscordNews",
+  "description": "LSRVDiscordNews - уведомление о новости из Discord для Spigot",
+  "authors": [
+    "Lymon_Mine"
+  ],
+  "numberOfDownloads": 31,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lsrvdiscordnews.99213/history",
+  "gitUrl": "https://github.com/LymonMine/LSRVDiscordNews",
+  "releaseDate": 1642231440000,
+  "updateDate": 1642231440000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

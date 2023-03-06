@@ -1,0 +1,21 @@
+{
+  "id": 100296,
+  "url": "https://www.spigotmc.org/resources/titanbox-placeholder-api-for-chat-and-commands.100296/",
+  "name": "Titanbox Placeholder API for Chat and Commands",
+  "description": "Very simple plugin that replace chat and commands that have place holders, from Placeholder API",
+  "authors": [
+    "freethemice"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100296.jpg?1645825491",
+  "iconCid": "bafkreicr73fj4czdtezkewzs6jzvwksjwgqatcveq47b4nupi567def2g4",
+  "numberOfDownloads": 95,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/titanbox-placeholder-api-for-chat-and-commands.100296/history",
+  "gitUrl": "https://github.com/freethemice/TitanAPI",
+  "releaseDate": 1645821780000,
+  "updateDate": 1646272500000,
+  "versions": [
+    "1.18"
+  ]
+}

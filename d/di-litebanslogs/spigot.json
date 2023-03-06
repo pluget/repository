@@ -1,0 +1,32 @@
+{
+  "id": 86877,
+  "url": "https://www.spigotmc.org/resources/di-litebanslogs.86877/",
+  "name": "DI LitebansLogs",
+  "description": "Store moderation logs on a Discord channel.",
+  "authors": [
+    "Alhxe"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/86/86877.jpg?1608400185",
+  "iconCid": "bafkreienugpsx7yog7uun7wpinbotxri6xw6hmqi32mherzkgjlxo6zriu",
+  "numberOfDownloads": 248,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/di-litebanslogs.86877/history",
+  "gitUrl": "https://github.com/Alhxe/Discord-Integration",
+  "releaseDate": 1608396540000,
+  "updateDate": 1653080400000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

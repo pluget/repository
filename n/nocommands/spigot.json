@@ -1,0 +1,20 @@
+{
+  "id": 100585,
+  "url": "https://www.spigotmc.org/resources/nocommands.100585/",
+  "name": "NoCommands",
+  "description": "Disables commands like plugins for non op players",
+  "authors": [
+    "Miningcraft"
+  ],
+  "numberOfDownloads": 36,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nocommands.100585/history",
+  "releaseDate": 1646872440000,
+  "updateDate": 1646872440000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

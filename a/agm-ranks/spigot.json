@@ -1,0 +1,27 @@
+{
+  "id": 75787,
+  "url": "https://www.spigotmc.org/resources/agm-ranks-rankup-plugin.75787/",
+  "name": "AGM Ranks | Rankup Plugin",
+  "description": "Best rank up plugin in world",
+  "authors": [
+    "MMC2019"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75787.jpg?1583533634",
+  "iconCid": "bafkreieshcujjpdgx42bpb7k3vux6dq3d6d5dz3i3qhfrm6dcuo7ox5uwq",
+  "numberOfDownloads": 2360,
+  "rating": 3.6,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/agm-ranks-rankup-plugin.75787/history",
+  "gitUrl": "https://git.agmdev.xyz/AGMRanks",
+  "releaseDate": 1583529840000,
+  "updateDate": 1650628260000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

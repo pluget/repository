@@ -1,0 +1,26 @@
+{
+  "id": 65468,
+  "url": "https://www.spigotmc.org/resources/keephunger.65468/",
+  "name": "KeepHunger",
+  "description": "Restores players hunger after death.",
+  "authors": [
+    "Paul19988"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/65/65468.jpg?1610413605",
+  "iconCid": "bafkreih35ow35tuu6ww4spbrktxpkd3qdi2svm46zgbaqecww3e7eyddii",
+  "numberOfDownloads": 175,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/keephunger.65468/history",
+  "gitUrl": "https://github.com/Paul19988/KeepHunger",
+  "releaseDate": 1552065480000,
+  "updateDate": 1646489520000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

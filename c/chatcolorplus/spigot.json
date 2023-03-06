@@ -1,0 +1,22 @@
+{
+  "id": 80652,
+  "url": "https://www.spigotmc.org/resources/1-16-x-1-18-x-chatcolor.80652/",
+  "name": "[1.16.x~1.18.x] ChatColor+",
+  "description": "Easy to use all Hex(RGB) color code in chat message,Sign,NameTag,Book,Command,Item,Nick Name, etc...",
+  "authors": [
+    "Toto31010"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80652.jpg?1593051332",
+  "iconCid": "bafkreigiddrwkplyneupeqx33fwqlccgqqzpjhtke6jpckbzwjvxsyydm4",
+  "numberOfDownloads": 15577,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/1-16-x-1-18-x-chatcolor.80652/history",
+  "releaseDate": 1593047400000,
+  "updateDate": 1646495520000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

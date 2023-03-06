@@ -1,0 +1,23 @@
+{
+  "id": 101301,
+  "url": "https://www.spigotmc.org/resources/sulfurqueue-easy-world-queues.101301/",
+  "name": "SulfurQueue - Easy World Queues",
+  "description": "Create queues between worlds without using proxies!",
+  "authors": [
+    "_GoldenO"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101301.jpg?1649678265",
+  "iconCid": "bafkreibkxh735i3kavlqw7b475aaqlwcbdqm4wjnvfty2vl6ak5vtofzpy",
+  "numberOfDownloads": 57,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sulfurqueue-easy-world-queues.101301/history",
+  "gitUrl": "https://github.com/xGoldenK/queue-spigot-plugin",
+  "releaseDate": 1649673060000,
+  "updateDate": 1650009540000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

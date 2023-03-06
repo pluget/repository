@@ -1,0 +1,27 @@
+{
+  "id": 98640,
+  "url": "https://www.spigotmc.org/resources/minecat.98640/",
+  "name": "Minecat",
+  "description": "Connect minecraft with discord!",
+  "authors": [
+    "ooliver"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98640.jpg?1640346667",
+  "iconCid": "bafkreif6rgkdkvjl4k5u2ncj57vhjzxvw5gmr3xubk5ioxcwktnuyw225e",
+  "numberOfDownloads": 271,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minecat.98640/history",
+  "gitUrl": "https://github.com/ooliver1/mine-cat",
+  "releaseDate": 1640343000000,
+  "updateDate": 1644950940000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

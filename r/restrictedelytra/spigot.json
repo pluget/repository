@@ -1,0 +1,21 @@
+{
+  "id": 100986,
+  "url": "https://www.spigotmc.org/resources/restrictedelytra.100986/",
+  "name": "RestrictedElytra",
+  "description": "A lightweight plugin to restrict the use of Elytras until reaching the End",
+  "authors": [
+    "Whitescan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100986.jpg?1648513422",
+  "iconCid": "bafkreihwcno57rxtvgqqbwphjjfunsvk2wmg3zvpmostwvsljtprzofy2q",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/restrictedelytra.100986/history",
+  "gitUrl": "https://github.com/Whitescan/RestrictedElytra",
+  "releaseDate": 1648328340000,
+  "updateDate": 1648328340000,
+  "versions": [
+    "1.18"
+  ]
+}

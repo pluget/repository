@@ -1,0 +1,31 @@
+{
+  "id": 100842,
+  "url": "https://www.spigotmc.org/resources/bedwars1058-tabsorter.100842/",
+  "name": "BedWars1058-TabSorter",
+  "description": "simple and lightweight tablist sorter for bedwars1058",
+  "authors": [
+    "DibyajyotiDey"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100842.jpg?1651661779",
+  "iconCid": "bafkreiduff5fvicenuv2byr3wi5lpur3lzg6f4v2hz7j7l32g25crje6oq",
+  "numberOfDownloads": 809,
+  "rating": 4.3,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bedwars1058-tabsorter.100842/history",
+  "gitUrl": "https://github.com/MrF1yn/Bedwars1058-TabSorter",
+  "releaseDate": 1647771180000,
+  "updateDate": 1653037860000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

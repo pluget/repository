@@ -1,0 +1,22 @@
+{
+  "id": 98984,
+  "url": "https://www.spigotmc.org/resources/bundlerecipe-let-1-17-and-1-18-server-can-craft-1-19s-bundle.98984/",
+  "name": "BundleRecipe | Let 1.17 and 1.18 server can craft 1.19's bundle!",
+  "description": "Add bundle recipe to Minecraft 1.17 and 1.18 server.",
+  "authors": [
+    "DreamVoid"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98984.jpg?1641400309",
+  "iconCid": "bafkreih6wq7bek5j6pnhuz3sj3sfnaieyq2f7z6nhaghfs4cd3kosm7cle",
+  "numberOfDownloads": 491,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bundlerecipe-let-1-17-and-1-18-server-can-craft-1-19s-bundle.98984/history",
+  "gitUrl": "https://github.com/DreamVoid/BundleRecipe",
+  "releaseDate": 1641396600000,
+  "updateDate": 1641697680000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

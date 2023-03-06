@@ -1,0 +1,23 @@
+{
+  "id": 85694,
+  "url": "https://www.spigotmc.org/resources/mzp-core-api-dynamic-sql-inventory-anvil-itembuilder-title-redis-cache-more.85694/",
+  "name": "MZP-Core API | Dynamic SQL - Inventory - Anvil - ItemBuilder - Title - Redis - Cache & MORE",
+  "description": "library, api, dynamic sql, anvil, inventory, itembuilder, title, actionbar, multi version, redis",
+  "authors": [
+    "ludgart"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85694.jpg?1605304389",
+  "iconCid": "bafkreifvr7ytxm4oknv3c5rwe3sag3irjgikqqyig3inht5d4zlqprtfgq",
+  "numberOfDownloads": 1450,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mzp-core-api-dynamic-sql-inventory-anvil-itembuilder-title-redis-cache-more.85694/history",
+  "gitUrl": "https://github.com/Minecraft-Zocker-Pro/MZP-Core",
+  "releaseDate": 1605131160000,
+  "updateDate": 1641659160000,
+  "versions": [
+    "1.8",
+    "1.17",
+    "1.18"
+  ]
+}

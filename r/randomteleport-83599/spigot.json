@@ -1,0 +1,23 @@
+{
+  "id": 83599,
+  "url": "https://www.spigotmc.org/resources/randomteleport.83599/",
+  "name": "RandomTeleport",
+  "description": "Ready for a new adventure",
+  "authors": [
+    "BlitzGamer88"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83599.jpg?1620392352",
+  "iconCid": "bafkreicvazygwi4nac5wgk5vltvawyvehnhwn5wheyl6buk3zxbptu23o4",
+  "numberOfDownloads": 991,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/randomteleport.83599/history",
+  "gitUrl": "https://github.com/BlitzOffline/RandomTeleport",
+  "releaseDate": 1599351780000,
+  "updateDate": 1643044560000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

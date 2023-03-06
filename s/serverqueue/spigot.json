@@ -1,0 +1,31 @@
+{
+  "id": 94158,
+  "url": "https://www.spigotmc.org/resources/serverqueue-minecraft-queue-plugin.94158/",
+  "name": "ServerQueue - Minecraft Queue Plugin",
+  "description": "Minecraft Queue Plugin, Spigot, Bungee",
+  "authors": [
+    "jonawoningsp"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94158.jpg?1626018037",
+  "iconCid": "bafkreiaqg7ocwhzjgf7iscijniloosavoeztbwlauxnenmhsuk6sfqwhni",
+  "numberOfDownloads": 850,
+  "rating": 4.8,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/serverqueue-minecraft-queue-plugin.94158/history",
+  "releaseDate": 1626014400000,
+  "updateDate": 1648984620000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

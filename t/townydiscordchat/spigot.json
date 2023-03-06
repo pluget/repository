@@ -1,0 +1,20 @@
+{
+  "id": 91026,
+  "url": "https://www.spigotmc.org/resources/townydiscordchat.91026/",
+  "name": "TownyDiscordChat",
+  "description": "Link Between Towny and Discord",
+  "authors": [
+    "ActiveNoise"
+  ],
+  "numberOfDownloads": 405,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/townydiscordchat.91026/history",
+  "gitUrl": "https://github.com/thejames10/TownyDiscordChat",
+  "releaseDate": 1617757140000,
+  "updateDate": 1642051860000,
+  "versions": [
+    "1.16",
+    "1.18"
+  ]
+}

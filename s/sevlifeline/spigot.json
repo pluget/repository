@@ -1,0 +1,21 @@
+{
+  "id": 100738,
+  "url": "https://www.spigotmc.org/resources/sevlifeline.100738/",
+  "name": "SevLifeLine",
+  "description": "Special item saves player inventory on void death.",
+  "authors": [
+    "dsevvv"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100738.jpg?1647390541",
+  "iconCid": "bafkreigpyjttbyeymthgnjucx4vu5z3etyct7txe7wlnbwfps7f6d2ejce",
+  "numberOfDownloads": 100,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sevlifeline.100738/history",
+  "gitUrl": "https://github.com/dsevvv/SevLifeline",
+  "releaseDate": 1647386760000,
+  "updateDate": 1650214920000,
+  "versions": [
+    "1.18"
+  ]
+}

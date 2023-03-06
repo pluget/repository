@@ -1,0 +1,26 @@
+{
+  "id": 98178,
+  "url": "https://www.spigotmc.org/resources/project-moved-bukkit-command-blocker.98178/",
+  "name": "[Project Moved] Bukkit Command Blocker",
+  "description": "Completely blocks commands matching regex & permissions",
+  "authors": [
+    "Tau"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98178.jpg?1638840005",
+  "iconCid": "bafkreihkspibxafvqhfnfm56wv4ejxhn7ldtwfhwf56ctjom63n6vm7bp4",
+  "numberOfDownloads": 353,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/project-moved-bukkit-command-blocker.98178/history",
+  "gitUrl": "https://gitlab.com/TauCu/bukkit-command-blocker",
+  "releaseDate": 1638836340000,
+  "updateDate": 1641595320000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

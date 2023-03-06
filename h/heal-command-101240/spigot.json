@@ -1,0 +1,18 @@
+{
+  "id": 101240,
+  "url": "https://www.spigotmc.org/resources/heal-command.101240/",
+  "name": "/heal command",
+  "description": "This is a simple plugin which heals you when command executed /heal",
+  "authors": [
+    "webbiestspy"
+  ],
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/heal-command.101240/history",
+  "releaseDate": 1649478900000,
+  "updateDate": 1649478900000,
+  "versions": [
+    "1.16"
+  ]
+}

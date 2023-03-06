@@ -1,0 +1,31 @@
+{
+  "id": 100288,
+  "url": "https://www.spigotmc.org/resources/pack-updater-compiles-the-assets-of-a-resourcepack-of-a-plugin-best-use-for-oraxen-modelengine-ia.100288/",
+  "name": "Pack Updater | Compiles the assets of a resourcepack of a plugin. Best use for Oraxen|ModelEngine|IA",
+  "description": "A discord bot resourcepack compiler for you.",
+  "authors": [
+    "TheLokia"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100288.jpg?1645804667",
+  "iconCid": "bafkreiap5hp7kfexocwxkafcnoecfwqdcokw4oflpv2z45akluonhw5l4i",
+  "numberOfDownloads": 140,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pack-updater-compiles-the-assets-of-a-resourcepack-of-a-plugin-best-use-for-oraxen-modelengine-ia.100288/history",
+  "releaseDate": 1645819920000,
+  "updateDate": 1645834800000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

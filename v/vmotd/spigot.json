@@ -1,0 +1,32 @@
+{
+  "id": 100560,
+  "url": "https://www.spigotmc.org/resources/vmotd-advanced-motd-plugin.100560/",
+  "name": "VMotd - Advanced Motd Plugin",
+  "description": "Motd",
+  "authors": [
+    "Voten"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100560.jpg?1646735225",
+  "iconCid": "bafkreicymcn2qr6rwamnq6fiqvku5jbveuczet6seekbyk5s2oprnh2oqi",
+  "numberOfDownloads": 272,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/vmotd-advanced-motd-plugin.100560/history",
+  "gitUrl": "https://github.com/Voten641/VMotd",
+  "releaseDate": 1646731560000,
+  "updateDate": 1647333660000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

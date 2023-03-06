@@ -1,0 +1,22 @@
+{
+  "id": 76863,
+  "url": "https://www.spigotmc.org/resources/bank-plugin.76863/",
+  "name": "Bank Plugin",
+  "description": "A Minecraft plugin which adds a complete bank system to Minecraft",
+  "authors": [
+    "chrisi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/76/76863.jpg?1607531621",
+  "iconCid": "bafkreid6enu4jzhttil4yoabc4dfgtwv2yitjpypytwv7dnvbdqgj5klpu",
+  "numberOfDownloads": 1247,
+  "rating": 4.5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bank-plugin.76863/history",
+  "releaseDate": 1585837860000,
+  "updateDate": 1645880580000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

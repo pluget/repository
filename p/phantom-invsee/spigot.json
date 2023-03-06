@@ -1,0 +1,26 @@
+{
+  "id": 96507,
+  "url": "https://www.spigotmc.org/resources/phantom-invsee.96507/",
+  "name": "Phantom Invsee",
+  "description": "A plugin that allow a player to see another player's inventory with with an authorization prompt",
+  "authors": [
+    "VoltixIGS"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96507.jpg?1632788863",
+  "iconCid": "bafkreigtuumql4two6a5vfutgrmlkclrrce4ms4nhm7ttjwnkdor2gr6pa",
+  "numberOfDownloads": 231,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/phantom-invsee.96507/history",
+  "releaseDate": 1632784680000,
+  "updateDate": 1646698920000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

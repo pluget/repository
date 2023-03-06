@@ -1,0 +1,30 @@
+{
+  "id": 76109,
+  "url": "https://www.spigotmc.org/resources/matchme-matchmaking-universal.76109/",
+  "name": "MatchMe Matchmaking [Universal]",
+  "description": "BungeeCord Matchmaking compatible with most minigames",
+  "authors": [
+    "Trashulius"
+  ],
+  "numberOfDownloads": 301,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/matchme-matchmaking-universal.76109/history",
+  "gitUrl": "https://github.com/BOT-Neil/MatchMe",
+  "releaseDate": 1584337200000,
+  "updateDate": 1648374060000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

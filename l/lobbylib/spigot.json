@@ -1,0 +1,32 @@
+{
+  "id": 101493,
+  "url": "https://www.spigotmc.org/resources/lobbylib-1-7-1-18.101493/",
+  "name": "LobbyLib [1.7 - 1.18]",
+  "description": "The most simple yet powerful lobby plugin available!",
+  "authors": [
+    "Kaspariuxt"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101493.jpg?1650385130",
+  "iconCid": "bafkreibw3msfm5hben4eaww3hvu42ywm72ghr2sp7x2425efekvnmehj4u",
+  "numberOfDownloads": 176,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lobbylib-1-7-1-18.101493/history",
+  "gitUrl": "https://github.com/MonkeLib/LobbyLib/releases/tag/Plugin",
+  "releaseDate": 1650381300000,
+  "updateDate": 1650381300000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

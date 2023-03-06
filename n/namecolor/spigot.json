@@ -1,0 +1,23 @@
+{
+  "id": 99089,
+  "url": "https://www.spigotmc.org/resources/namecolor.99089/",
+  "name": "NameColor",
+  "description": "Adds a custom, user-chosen, hex color to names",
+  "authors": [
+    "truehuman"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99089.jpg?1641766989",
+  "iconCid": "bafkreihhetrpcjc4gwdzfai2xswpkxrbcluwb6p4qwd5ns3wbh56viasca",
+  "numberOfDownloads": 228,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/namecolor.99089/history",
+  "gitUrl": "https://github.com/qimiko/NameColor",
+  "releaseDate": 1641763380000,
+  "updateDate": 1642738260000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

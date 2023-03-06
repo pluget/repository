@@ -1,0 +1,18 @@
+{
+  "id": 101740,
+  "url": "https://www.spigotmc.org/resources/good-old-gamemode.101740/",
+  "name": "Good Old Gamemode",
+  "description": "Returns (e.g.) \"/gamemode 1\" to newer versions, instead of (e.g.) \"/gamemode creative\".",
+  "authors": [
+    "MCMartox"
+  ],
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/good-old-gamemode.101740/history",
+  "releaseDate": 1651311900000,
+  "updateDate": 1651311900000,
+  "versions": [
+    "1.16"
+  ]
+}

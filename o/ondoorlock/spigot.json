@@ -1,0 +1,22 @@
+{
+  "id": 100643,
+  "url": "https://www.spigotmc.org/resources/ondoorlock.100643/",
+  "name": "OnDoorLock",
+  "description": "Plugin, that makes doors lockable using tripwire hook",
+  "authors": [
+    "clear_micegan2"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100643.jpg?1647093981",
+  "iconCid": "bafkreih5ltodeuhtbzq5rjubttd45kcts5yi43taocm23p7jegwzo7kv6i",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ondoorlock.100643/history",
+  "gitUrl": "https://github.com/micegan/OnDoorLockPlugin-minecraft",
+  "releaseDate": 1647090360000,
+  "updateDate": 1647090360000,
+  "versions": [
+    "1.16",
+    "1.17"
+  ]
+}

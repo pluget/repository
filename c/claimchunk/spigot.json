@@ -1,0 +1,27 @@
+{
+  "id": 44458,
+  "url": "https://www.spigotmc.org/resources/claimchunk.44458/",
+  "name": "ClaimChunk",
+  "description": "Spigot plugin for 1.8+ allowing the claiming of chunks.",
+  "authors": [
+    "cjburkey01"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/44/44458.jpg?1501800854",
+  "iconCid": "bafkreiey5qbk7onyr2wf4dbvrlnxru4s25hemanmozvqgsghkli4kytiae",
+  "numberOfDownloads": 20406,
+  "rating": 4.6,
+  "numberOfVotes": 63,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/claimchunk.44458/history",
+  "gitUrl": "https://github.com/cjburkey01/ClaimChunk",
+  "releaseDate": 1677951480000,
+  "updateDate": 1677951480000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

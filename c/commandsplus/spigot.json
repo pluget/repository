@@ -1,0 +1,23 @@
+{
+  "id": 101308,
+  "url": "https://www.spigotmc.org/resources/commandsplus-essentials-addon.101308/",
+  "name": "CommandsPlus - Essentials Addon",
+  "description": "Commands",
+  "authors": [
+    "Cusolc20"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101308.jpg?1649689716",
+  "iconCid": "bafkreieuek6myaetkgujlcnslixslazf44xvgixczb2hvdcv453ncvxjri",
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/commandsplus-essentials-addon.101308/history",
+  "gitUrl": "https://github.com/Alanixx2/CommandsPlus/tree/Minecraft",
+  "releaseDate": 1649686020000,
+  "updateDate": 1649686020000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

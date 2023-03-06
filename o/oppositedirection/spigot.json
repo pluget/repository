@@ -1,0 +1,26 @@
+{
+  "id": 99513,
+  "url": "https://www.spigotmc.org/resources/oppositedirection.99513/",
+  "name": "OppositeDirection",
+  "description": "Allows you to roll out the block with the left hand&shift when placing it. Convenient for redstoners",
+  "authors": [
+    "DTkach"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99513.jpg?1643135241",
+  "iconCid": "bafkreihno2vilmddnclyxn2hatoe43vgu7anpsdh7tgp4xlsotsaqqvl5y",
+  "numberOfDownloads": 45,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/oppositedirection.99513/history",
+  "gitUrl": "https://github.com/TkachGeek/OppositeDirection",
+  "releaseDate": 1643131620000,
+  "updateDate": 1644146040000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

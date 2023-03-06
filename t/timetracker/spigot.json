@@ -1,0 +1,30 @@
+{
+  "id": 98304,
+  "url": "https://www.spigotmc.org/resources/timetracker.98304/",
+  "name": "TimeTracker",
+  "description": "TimeTracker is a plugin that records the playing time of users on each server.",
+  "authors": [
+    "umbreon.m"
+  ],
+  "numberOfDownloads": 144,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/timetracker.98304/history",
+  "gitUrl": "https://github.com/UmbreonMajora/TimeTracker",
+  "releaseDate": 1639291860000,
+  "updateDate": 1648983120000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

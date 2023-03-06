@@ -1,0 +1,31 @@
+{
+  "id": 77915,
+  "url": "https://www.spigotmc.org/resources/gotoplayer.77915/",
+  "name": "GotoPlayer",
+  "description": "Go to the server another player is in to easily find your friends",
+  "authors": [
+    "jaapie_aapie2"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/77/77915.jpg?1587767978",
+  "iconCid": "bafkreicdfghhnyqnojlusu7e5kjlqirzwdrdmb5hdcaea72ubhzshja6pi",
+  "numberOfDownloads": 368,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gotoplayer.77915/history",
+  "gitUrl": "https://github.com/jaapieCoder/GotoPlayer/",
+  "releaseDate": 1587763560000,
+  "updateDate": 1644963120000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 77559,
+  "url": "https://www.spigotmc.org/resources/noendcrystals.77559/",
+  "name": "NoEndCrystals",
+  "description": "Disable/enable placement of End Crystals in certain worlds.",
+  "authors": [
+    "hyperdefined"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/77/77559.jpg?1587279370",
+  "iconCid": "bafkreicguxug2jw6lonizjyn5edtbtws6m4l26exzoo25pkvo3swlux7ra",
+  "numberOfDownloads": 270,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/noendcrystals.77559/history",
+  "gitUrl": "https://github.com/hyperdefined/NoEndCrystals",
+  "releaseDate": 1587164280000,
+  "updateDate": 1651264860000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 71657,
+  "url": "https://www.spigotmc.org/resources/pluginapi.71657/",
+  "name": "PluginApi",
+  "description": "Versatile and useful Spigot plugin utilities in Kotlin",
+  "authors": [
+    "CommanderTvis"
+  ],
+  "numberOfDownloads": 3886,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pluginapi.71657/history",
+  "gitUrl": "https://gitlab.com/CMDR_Tvis/plugin-api/-/tree/master",
+  "releaseDate": 1569699120000,
+  "updateDate": 1644939900000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.14",
+    "1.16"
+  ]
+}

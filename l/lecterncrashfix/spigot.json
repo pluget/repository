@@ -1,0 +1,23 @@
+{
+  "id": 101196,
+  "url": "https://www.spigotmc.org/resources/lecterncrashfix.101196/",
+  "name": "LecternCrashFix",
+  "description": "Fixes the lectern crash/exploit.",
+  "authors": [
+    "hyperdefined"
+  ],
+  "numberOfDownloads": 230,
+  "rating": 3,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lecterncrashfix.101196/history",
+  "gitUrl": "https://github.com/hyperdefined/LecternCrashFix",
+  "releaseDate": 1649197500000,
+  "updateDate": 1650169980000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

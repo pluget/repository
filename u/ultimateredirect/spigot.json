@@ -1,0 +1,31 @@
+{
+  "id": 100383,
+  "url": "https://www.spigotmc.org/resources/ultimateredirect.100383/",
+  "name": "UltimateRedirect",
+  "description": "The most complete plugin to add social media commands to your server.",
+  "authors": [
+    "Epic160"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100383.jpg?1646134616",
+  "iconCid": "bafkreihclxg5mzzdbf3ggecog5fqdq4ched3ql6rpfaslmuh2a4rwpozmq",
+  "numberOfDownloads": 54,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ultimateredirect.100383/history",
+  "releaseDate": 1646130960000,
+  "updateDate": 1646653020000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

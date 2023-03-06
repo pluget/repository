@@ -1,0 +1,23 @@
+{
+  "id": 54815,
+  "url": "https://www.spigotmc.org/resources/lasso.54815/",
+  "name": "Lasso",
+  "description": "Better mechanics for leashing up your mobs!",
+  "authors": [
+    "klugemonkey"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/54/54815.jpg?1521810022",
+  "iconCid": "bafkreicllwzrmfhbt2ctlo6wib2cap6ft763wtwliintzdgbyfuq2gfkba",
+  "numberOfDownloads": 13184,
+  "rating": 3.9,
+  "numberOfVotes": 33,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lasso.54815/history",
+  "releaseDate": 1521806400000,
+  "updateDate": 1647485280000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 80513,
+  "url": "https://www.spigotmc.org/resources/dans-essentials.80513/",
+  "name": "Dan's Essentials",
+  "description": "Provides miscellaneous commands.",
+  "authors": [
+    "DanTheTechMan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80513.jpg?1630603528",
+  "iconCid": "bafkreiewclmagkbuervpb74oenuqd3ovzkqytxrntbesqilpny73npyheq",
+  "numberOfDownloads": 468,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dans-essentials.80513/history",
+  "gitUrl": "https://github.com/dmccoystephenson/Dans-Essentials",
+  "releaseDate": 1592790600000,
+  "updateDate": 1656969300000,
+  "versions": [
+    "1.18"
+  ]
+}

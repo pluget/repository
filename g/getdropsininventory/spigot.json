@@ -1,0 +1,19 @@
+{
+  "id": 101033,
+  "url": "https://www.spigotmc.org/resources/getdropsininventory.101033/",
+  "name": "GetDropsInInventory",
+  "description": "When you break a block, it will be given into your inventory directly.",
+  "authors": [
+    "CookieGaming89YT"
+  ],
+  "numberOfDownloads": 62,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/getdropsininventory.101033/history",
+  "gitUrl": "https://github.com/wozniaktv/GetDropsWhenMine",
+  "releaseDate": 1648552500000,
+  "updateDate": 1649160180000,
+  "versions": [
+    "1.18"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 41757,
+  "url": "https://www.spigotmc.org/resources/xp-fly-x.41757/",
+  "name": "XP Fly X",
+  "description": "Fly at the cost of XP",
+  "authors": [
+    "RobinMC"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/41/41757.jpg?1504900043",
+  "iconCid": "bafkreievprwvqicdb4pa4zoe6tozbu2b7l5wy2yb5envyyz7bmwnzbak6u",
+  "numberOfDownloads": 1342,
+  "rating": 4.7,
+  "numberOfVotes": 11,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/xp-fly-x.41757/history",
+  "gitUrl": "https://github.com/Derkades/XPFlyX",
+  "releaseDate": 1496573040000,
+  "updateDate": 1643369760000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 99170,
+  "url": "https://www.spigotmc.org/resources/signapi.99170/",
+  "name": "SignApi",
+  "description": "Used to open Sgin-gui with predetermined text which will be recognized from the Server when closed",
+  "authors": [
+    "OfficerYoda"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99170.jpg?1642093820",
+  "iconCid": "bafkreiarx23jryrpz5wasqjfapbh6mfypygjqtlzr46sdiaoouqcyvmnka",
+  "numberOfDownloads": 42,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/signapi.99170/history",
+  "gitUrl": "https://github.com/OfficerYoda/SignApi",
+  "releaseDate": 1642090200000,
+  "updateDate": 1642090200000,
+  "versions": [
+    "1.18"
+  ]
+}

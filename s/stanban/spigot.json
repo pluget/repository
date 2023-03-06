@@ -1,0 +1,23 @@
+{
+  "id": 98924,
+  "url": "https://www.spigotmc.org/resources/stanban.98924/",
+  "name": "StanBan",
+  "description": "Ban stans from your server automatically",
+  "authors": [
+    "MrRazamataz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98924.jpg?1641227182",
+  "iconCid": "bafkreianxue722c2ip3tirxsefxtyxrcfbxbqibylyuatszweuzblzu66y",
+  "numberOfDownloads": 166,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/stanban.98924/history",
+  "gitUrl": "https://github.com/MrRazamataz/StanBan",
+  "releaseDate": 1641223560000,
+  "updateDate": 1641761940000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

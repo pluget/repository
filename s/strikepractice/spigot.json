@@ -1,0 +1,32 @@
+{
+  "id": 100471,
+  "url": "https://www.spigotmc.org/resources/strikepractice-stats-for-clans.100471/",
+  "name": "StrikePractice Stats For Clans",
+  "description": "This plugin adds the stats of StrikePractice to clans",
+  "authors": [
+    "simonsator"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100471.jpg?1646423243",
+  "iconCid": "bafkreigq4y4jqwhqvret65f2zqpshw4gtl6sasphymklbh6czhbkyq37v4",
+  "numberOfDownloads": 42,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/strikepractice-stats-for-clans.100471/history",
+  "gitUrl": "https://github.com/Simonsator/StrikePractice-Clan-Stat",
+  "releaseDate": 1646419620000,
+  "updateDate": 1646419620000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 91015,
+  "url": "https://www.spigotmc.org/resources/ore-market-stock-market-for-ores-in-minecraft.91015/",
+  "name": "Ore Market | Stock Market for Ores in Minecraft",
+  "description": "Realistic stock market for Ores!",
+  "authors": [
+    "OllieJW"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91015.jpg?1628180724",
+  "iconCid": "bafkreieqnr4vfg3bymrdlymacqwb5svp42wgoh3cwgrntpj6w5cjduiguy",
+  "numberOfDownloads": 2658,
+  "rating": 4.7,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ore-market-stock-market-for-ores-in-minecraft.91015/history",
+  "gitUrl": "https://github.com/OllieJW/Ore-Market",
+  "releaseDate": 1617732000000,
+  "updateDate": 1643752320000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

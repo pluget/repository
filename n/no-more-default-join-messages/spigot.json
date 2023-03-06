@@ -1,0 +1,31 @@
+{
+  "id": 99775,
+  "url": "https://www.spigotmc.org/resources/no-more-default-join-messages.99775/",
+  "name": "No more default join messages!",
+  "description": "This plugin removes the yellow \"Welcome to the server\" msg!",
+  "authors": [
+    "SquareWings928"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99775.jpg?1644047666",
+  "iconCid": "bafkreiayr6kdjpflleub4xgau6xgp3bxmaut7qot55kgawu6h2yvz6mjti",
+  "numberOfDownloads": 33,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/no-more-default-join-messages.99775/history",
+  "releaseDate": 1644044040000,
+  "updateDate": 1644044040000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

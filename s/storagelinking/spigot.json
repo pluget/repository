@@ -1,0 +1,21 @@
+{
+  "id": 101036,
+  "url": "https://www.spigotmc.org/resources/storagelinking.101036/",
+  "name": "StorageLinking",
+  "description": "Link containers together, even between dimensions or very large distances!",
+  "authors": [
+    "raffel080108"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101036.jpg?1648573175",
+  "iconCid": "bafkreib24ofir66npwhbenqirt5mijtst7sewhfqketgdtur5jl7dtbjem",
+  "numberOfDownloads": 77,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/storagelinking.101036/history",
+  "gitUrl": "https://github.com/raffel080108/StorageLinking",
+  "releaseDate": 1648569240000,
+  "updateDate": 1648822560000,
+  "versions": [
+    "1.18"
+  ]
+}

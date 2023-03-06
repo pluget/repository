@@ -1,0 +1,23 @@
+{
+  "id": 100429,
+  "url": "https://www.spigotmc.org/resources/hivelook.100429/",
+  "name": "HiveLook",
+  "description": "Adds a GUI for seeing bees and honey in hives!",
+  "authors": [
+    "pdev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100429.jpg?1646268106",
+  "iconCid": "bafkreia7d4her26phssiztcffunnmuna6lky3rem4bm6l7he33flndld2i",
+  "numberOfDownloads": 143,
+  "rating": 3.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hivelook.100429/history",
+  "releaseDate": 1646264160000,
+  "updateDate": 1646794320000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

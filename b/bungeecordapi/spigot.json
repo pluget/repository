@@ -1,0 +1,30 @@
+{
+  "id": 98926,
+  "url": "https://www.spigotmc.org/resources/bungeecordapi.98926/",
+  "name": "BungeeCordAPI",
+  "description": "Player API key generator, for any requests",
+  "authors": [
+    "Tim0xaGG1"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98926.jpg?1641306486",
+  "iconCid": "bafkreibx5izpmitmwpyibm5xzmjtzbymi4a6z3i3s7apzshiixkqbdws5e",
+  "numberOfDownloads": 244,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bungeecordapi.98926/history",
+  "releaseDate": 1641226140000,
+  "updateDate": 1642305060000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 69917,
+  "url": "https://www.spigotmc.org/resources/ebackup-simple-and-reliable-backups-for-your-server-supports-ftp-sftp.69917/",
+  "name": "eBackup - Simple and reliable backups for your server! Supports FTP/SFTP!",
+  "description": "The easiest and simplest way to backup your server reliably! Free, and supports FTP+SFTP!",
+  "authors": [
+    "EspiDev"
+  ],
+  "numberOfDownloads": 14501,
+  "rating": 4.9,
+  "numberOfVotes": 30,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ebackup-simple-and-reliable-backups-for-your-server-supports-ftp-sftp.69917/history",
+  "gitUrl": "https://github.com/espidev/eBackup",
+  "releaseDate": 1564619460000,
+  "updateDate": 1651018920000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

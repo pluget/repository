@@ -1,0 +1,22 @@
+{
+  "id": 99016,
+  "url": "https://www.spigotmc.org/resources/sheep-shear-event.99016/",
+  "name": "Sheep Shear Event",
+  "description": "Execute commands whenever a sheep is sheared by a block or player",
+  "authors": [
+    "Loikas"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99016.jpg?1641510804",
+  "iconCid": "bafkreibz6c6bzyqnrzcocmhjyejwjnijqz4ki2g3eicp5jaf2hamexyiay",
+  "numberOfDownloads": 27,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sheep-shear-event.99016/history",
+  "releaseDate": 1641507180000,
+  "updateDate": 1641507180000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

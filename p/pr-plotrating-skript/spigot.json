@@ -1,0 +1,23 @@
+{
+  "id": 96256,
+  "url": "https://www.spigotmc.org/resources/pr-plot-rating-skript-angelehnt-an-einen-bekannten-server.96256/",
+  "name": "/pr Plot-Rating Skript [angelehnt an einen bekannten Server]",
+  "description": "Ein aufwendiges Plot-Rating Skript angelehnt an einem berühmten Server!",
+  "authors": [
+    "SkyTakeDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96256.jpg?1631729245",
+  "iconCid": "bafkreiem6kxxkkdewemznue77jsgnl5t57qqax3lfaf273l6le7kzjn6ca",
+  "numberOfDownloads": 287,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pr-plot-rating-skript-angelehnt-an-einen-bekannten-server.96256/history",
+  "gitUrl": "https://github.com/SkyTakeDev/Plot-Rating-Skript/blob/main/plotrating.sk",
+  "releaseDate": 1631725620000,
+  "updateDate": 1642072080000,
+  "versions": [
+    "1.11",
+    "1.12",
+    "1.13"
+  ]
+}

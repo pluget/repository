@@ -1,0 +1,33 @@
+{
+  "id": 5280,
+  "url": "https://www.spigotmc.org/resources/command-blocker.5280/",
+  "name": "Command Blocker",
+  "description": "The easiest and most simple way to disable commands! [1.4.7 - 1.19.1+]",
+  "authors": [
+    "TreyRuffy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/5/5280.jpg?1479260713",
+  "iconCid": "bafkreibno3t3oioxzz7wfbekrtgd47mwoid7425jdhzs2c43niiyu3k57e",
+  "numberOfDownloads": 53396,
+  "rating": 4.6,
+  "numberOfVotes": 72,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/command-blocker.5280/history",
+  "gitUrl": "https://github.com/TreyRuffy/commandblocker",
+  "releaseDate": 1427383800000,
+  "updateDate": 1648089300000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

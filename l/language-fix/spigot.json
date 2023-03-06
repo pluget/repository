@@ -1,0 +1,31 @@
+{
+  "id": 85682,
+  "url": "https://www.spigotmc.org/resources/%E2%9C%A8-language-fix-1-8-1-18.85682/",
+  "name": "✨ Language Fix | 1.8 - 1.18",
+  "description": "Fix RTL issues in Minecraft!",
+  "authors": [
+    "LielAmar"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85682.jpg?1605119965",
+  "iconCid": "bafkreiblnmxu4dmdm3x7k3gxofggnp457g3g23ujed3ymff75zcds647sy",
+  "numberOfDownloads": 1504,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9C%A8-language-fix-1-8-1-18.85682/history",
+  "gitUrl": "https://github.com/LielAmar/LanguageFix",
+  "releaseDate": 1605116280000,
+  "updateDate": 1647007140000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

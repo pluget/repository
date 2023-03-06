@@ -1,0 +1,22 @@
+{
+  "id": 100448,
+  "url": "https://www.spigotmc.org/resources/bindkeys.100448/",
+  "name": "BindKeys",
+  "description": "Bind key-presses to server actions (commands)",
+  "authors": [
+    "mplugins.org"
+  ],
+  "numberOfDownloads": 51,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bindkeys.100448/history",
+  "gitUrl": "https://github.com/MPlugins/BindKeys",
+  "releaseDate": 1646344500000,
+  "updateDate": 1646344500000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

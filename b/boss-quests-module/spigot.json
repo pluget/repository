@@ -1,0 +1,32 @@
+{
+  "id": 66973,
+  "url": "https://www.spigotmc.org/resources/boss-quests-module.66973/",
+  "name": "Boss Quests Module",
+  "description": "Quests module for Boss",
+  "authors": [
+    "PikaMug"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/66/66973.jpg?1613877321",
+  "iconCid": "bafkreigigyvnn3dwj4ibnsdj64m67tgygdmssvtcp6ap2iqe6r4udhpjnu",
+  "numberOfDownloads": 1084,
+  "rating": 4,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/boss-quests-module.66973/history",
+  "gitUrl": "https://github.com/PikaMug/BossQuestsModule",
+  "releaseDate": 1556564100000,
+  "updateDate": 1642092000000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

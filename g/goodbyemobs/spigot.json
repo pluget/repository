@@ -1,0 +1,23 @@
+{
+  "id": 83230,
+  "url": "https://www.spigotmc.org/resources/goodbyemobs.83230/",
+  "name": "GoodByeMobs",
+  "description": "Delete or Knockback nearby mobs!",
+  "authors": [
+    "tweedjt"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83230.jpg?1598565252",
+  "iconCid": "bafkreig3zl66znmmiw2jg3ipryjbauraghftaiuz67vivu46i5ll3lpvie",
+  "numberOfDownloads": 86,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/goodbyemobs.83230/history",
+  "gitUrl": "https://github.com/tweedjt/AutoSmeltPlugin/tree/master/GoodByeMobs",
+  "releaseDate": 1598561580000,
+  "updateDate": 1646617200000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

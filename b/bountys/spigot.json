@@ -1,0 +1,31 @@
+{
+  "id": 101013,
+  "url": "https://www.spigotmc.org/resources/bountys-networks.101013/",
+  "name": "Bounty's Networks",
+  "description": "This plugin adds commands displaying the networks you choose",
+  "authors": [
+    "BountyGamesFW"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101013.jpg?1648410935",
+  "iconCid": "bafkreidkf2c4c7ct72w6ddkuvjtzt22sug565glbmqmec5jcjovlg3guee",
+  "numberOfDownloads": 43,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bountys-networks.101013/history",
+  "gitUrl": "https://github.com/BountyGames/Bounty-s-Networks",
+  "releaseDate": 1648406880000,
+  "updateDate": 1648411500000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

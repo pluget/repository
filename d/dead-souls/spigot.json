@@ -1,0 +1,26 @@
+{
+  "id": 69409,
+  "url": "https://www.spigotmc.org/resources/dead-souls.69409/",
+  "name": "Dead Souls",
+  "description": "Simple tombstone system inspired by Dark Souls",
+  "authors": [
+    "darkyen"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/69/69409.jpg?1563290144",
+  "iconCid": "bafkreiew27jffezshrnvshbu477wbcnpfxdie2goru5s7ppqttres6b3jm",
+  "numberOfDownloads": 28612,
+  "rating": 4.8,
+  "numberOfVotes": 33,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dead-souls.69409/history",
+  "gitUrl": "https://github.com/Darkyenus/DeadSouls",
+  "releaseDate": 1563285900000,
+  "updateDate": 1644958800000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

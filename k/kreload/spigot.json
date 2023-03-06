@@ -1,0 +1,31 @@
+{
+  "id": 99360,
+  "url": "https://www.spigotmc.org/resources/kreload.99360/",
+  "name": "KReload",
+  "description": "KReload is an simple plugin make for custom reloading",
+  "authors": [
+    "FYSLIDE"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99360.jpg?1642695746",
+  "iconCid": "bafkreieceltr6coemxb74p4ot4uywjmjgnms5j4eghuttssfyable2qmiq",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kreload.99360/history",
+  "gitUrl": "https://github.com/KIZAFOX/KReload",
+  "releaseDate": 1642692120000,
+  "updateDate": 1642692120000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

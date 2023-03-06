@@ -1,0 +1,25 @@
+{
+  "id": 81425,
+  "url": "https://www.spigotmc.org/resources/player-tracker.81425/",
+  "name": "Player Tracker",
+  "description": "Track players wherever they are",
+  "authors": [
+    "candinoDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81425.jpg?1594714307",
+  "iconCid": "bafkreia3tntze2g3w2mqpfdxvmyz42shgw2xj5m2tywpgaww27phmolaem",
+  "numberOfDownloads": 986,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/player-tracker.81425/history",
+  "releaseDate": 1594632180000,
+  "updateDate": 1645716780000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

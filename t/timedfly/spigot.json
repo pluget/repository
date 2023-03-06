@@ -1,0 +1,27 @@
+{
+  "id": 48668,
+  "url": "https://www.spigotmc.org/resources/timedfly-4-beta-mysql-sqlite-support-1-14.48668/",
+  "name": "TimedFly 4 BETA | MySQL/SQLite Support | 1.14",
+  "description": "Set fly mode with money for an amount of time. Has a refund system and much more",
+  "authors": [
+    "By_Jack"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/48/48668.jpg?1508615739",
+  "iconCid": "bafkreihqkjb65v3a6d65seh7uyg6ifalqmfd3c7t7ccftdc6hxzkv7h7yi",
+  "numberOfDownloads": 8777,
+  "rating": 4.5,
+  "numberOfVotes": 46,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/timedfly-4-beta-mysql-sqlite-support-1-14.48668/history",
+  "gitUrl": "https://github.com/Jacxk/TimedFly",
+  "releaseDate": 1508612100000,
+  "updateDate": 1645573980000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

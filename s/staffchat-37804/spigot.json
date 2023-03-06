@@ -1,0 +1,32 @@
+{
+  "id": 37804,
+  "url": "https://www.spigotmc.org/resources/staffchat-1-7-1-18-universal.37804/",
+  "name": "StaffChat (1.7 - 1.18) (Universal)",
+  "description": "Simple and highly configurable staff chat",
+  "authors": [
+    "oskar3123"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/37/37804.jpg?1491519730",
+  "iconCid": "bafkreigfftqho2sgoxs7m2iy4277ndwqfvgkoojdry6aiptdlchpb5wfc4",
+  "numberOfDownloads": 4749,
+  "rating": 4.9,
+  "numberOfVotes": 13,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/staffchat-1-7-1-18-universal.37804/history",
+  "gitUrl": "https://github.com/oskar3123/StaffChat",
+  "releaseDate": 1489364760000,
+  "updateDate": 1647907860000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

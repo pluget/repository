@@ -1,0 +1,22 @@
+{
+  "id": 99771,
+  "url": "https://www.spigotmc.org/resources/dereconomy.99771/",
+  "name": "DerEconomy",
+  "description": "Stock market like economy plugin for any server. Pricing is dependent on supply and demand.",
+  "authors": [
+    "DerVillion"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99771.jpg?1644023881",
+  "iconCid": "bafkreifpaco6qnf3tsjxjvmyejbgouundbuw4kobndacjf6lihb5y46mme",
+  "numberOfDownloads": 81,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dereconomy.99771/history",
+  "releaseDate": 1644020220000,
+  "updateDate": 1644020220000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

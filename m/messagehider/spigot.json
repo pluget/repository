@@ -1,0 +1,31 @@
+{
+  "id": 91661,
+  "url": "https://www.spigotmc.org/resources/messagehider.91661/",
+  "name": "MessageHider",
+  "description": "Filters or replaces ingame messages for you! Extremely useful for e.g. idle timeout.",
+  "authors": [
+    "Rapha"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91661.jpg?1621327519",
+  "iconCid": "bafkreifupkpogomeyyzapacfitcl5h7bvit5jpajynru56kbzwu4pyylpq",
+  "numberOfDownloads": 871,
+  "rating": 4.7,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/messagehider.91661/history",
+  "gitUrl": "https://github.com/Rapha149/MessageHider",
+  "releaseDate": 1619248380000,
+  "updateDate": 1657219680000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

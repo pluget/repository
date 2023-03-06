@@ -1,0 +1,23 @@
+{
+  "id": 93691,
+  "url": "https://www.spigotmc.org/resources/hotblocks-mechanic.93691/",
+  "name": "HotBlocks Mechanic",
+  "description": "Modify or remove blocks after player has stepped on",
+  "authors": [
+    "Kirastur"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/93/93691.jpg?1624853546",
+  "iconCid": "bafkreih62r7bn3ctugvgnymtm6yzcpdjjihmaok5lojyqpej3ltwf2lkuq",
+  "numberOfDownloads": 394,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hotblocks-mechanic.93691/history",
+  "gitUrl": "https://github.com/Kirastur/HotBlocks",
+  "releaseDate": 1624824420000,
+  "updateDate": 1641755880000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

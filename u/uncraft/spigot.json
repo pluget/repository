@@ -1,0 +1,24 @@
+{
+  "id": 103187,
+  "url": "https://www.spigotmc.org/resources/uncraft.103187/",
+  "name": "Uncraft",
+  "description": "Simply let's you undo crafting recipes.",
+  "authors": [
+    "Tonnanto"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/103/103187.jpg?1657205801",
+  "iconCid": "bafkreibutjg35rq4h2tvjdevp4j5w2p3dmuf55wvlzwuqcawyvsebe3kjm",
+  "numberOfDownloads": 123,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/uncraft.103187/history",
+  "gitUrl": "https://github.com/Tonnanto/Uncraft",
+  "releaseDate": 1657202160000,
+  "updateDate": 1657209480000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

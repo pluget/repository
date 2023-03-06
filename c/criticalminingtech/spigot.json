@@ -1,0 +1,19 @@
+{
+  "id": 100209,
+  "url": "https://www.spigotmc.org/resources/criticalminingtech.100209/",
+  "name": "CriticalMiningTech",
+  "description": "This plugin implements a custom mining tech system into Minecraft",
+  "authors": [
+    "CriticalGameEror"
+  ],
+  "numberOfDownloads": 1197,
+  "rating": 4.3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/criticalminingtech.100209/history",
+  "gitUrl": "https://github.com/CriticalGameEror/CriticalMiningTech",
+  "releaseDate": 1645475700000,
+  "updateDate": 1647289680000,
+  "versions": [
+    "1.16"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 101146,
+  "url": "https://www.spigotmc.org/resources/crackedblocks-patch.101146/",
+  "name": "CrackedBlocks-Patch",
+  "description": "This plugin allows you to solve the problems of TNT explosions through water.",
+  "authors": [
+    "Trypoz"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101146.jpg?1648998720",
+  "iconCid": "bafkreihw6yhu5fqh76miqllyggb3uf46wf4hldoozwninpxns5l7qdjnzu",
+  "numberOfDownloads": 34,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/crackedblocks-patch.101146/history",
+  "gitUrl": "https://github.com/Trypoz/CrackedBlocks-Patch",
+  "releaseDate": 1648995060000,
+  "updateDate": 1648995060000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

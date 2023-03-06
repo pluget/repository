@@ -1,0 +1,29 @@
+{
+  "id": 24194,
+  "url": "https://www.spigotmc.org/resources/blowable-obsidians.24194/",
+  "name": "Blowable Obsidians",
+  "description": "Make obsidan or any other block blowable, and more!",
+  "authors": [
+    "HydroTekZ"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/24/24194.jpg?1532808030",
+  "iconCid": "bafkreihknhravom3nf34oredoknb2pt25yirhkuy2qh3suuxfhe4jquy4m",
+  "numberOfDownloads": 12454,
+  "rating": 4.8,
+  "numberOfVotes": 49,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blowable-obsidians.24194/history",
+  "gitUrl": "https://github.com/SpillereNO/BlowableObsidians",
+  "releaseDate": 1464865680000,
+  "updateDate": 1641631320000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

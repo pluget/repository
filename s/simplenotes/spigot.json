@@ -1,0 +1,22 @@
+{
+  "id": 100532,
+  "url": "https://www.spigotmc.org/resources/simplenotes.100532/",
+  "name": "SimpleNotes",
+  "description": "Add Music To Your Server",
+  "authors": [
+    "fuzziejaxer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100532.jpg?1646775661",
+  "iconCid": "bafkreiaxotce6d4lq27mrzj3wtj4b2aa7sv6pbx3r4ayioeeeeqwcmk73a",
+  "numberOfDownloads": 63,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplenotes.100532/history",
+  "releaseDate": 1646602620000,
+  "updateDate": 1646925540000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

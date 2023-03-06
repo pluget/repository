@@ -1,0 +1,29 @@
+{
+  "id": 79733,
+  "url": "https://www.spigotmc.org/resources/rteleportbow.79733/",
+  "name": "RTeleportBow",
+  "description": "RTeleportBow | A cool teleportbow plugin for your hub server!",
+  "authors": [
+    "JustReddy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79733.jpg?1591359821",
+  "iconCid": "bafkreif4xmaa67whztomsoduqfk6sdxpleup7baiicfnxhxz54ceqvxmeq",
+  "numberOfDownloads": 530,
+  "rating": 5,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rteleportbow.79733/history",
+  "gitUrl": "https://github.com/JustReddy7397/TeleportBow",
+  "releaseDate": 1591356180000,
+  "updateDate": 1649247300000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 97065,
+  "url": "https://www.spigotmc.org/resources/death-location.97065/",
+  "name": "Death Location",
+  "description": "After a player dies, he can type /back, and will be taken back to the death location.",
+  "authors": [
+    "SrDonZu"
+  ],
+  "numberOfDownloads": 535,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/death-location.97065/history",
+  "releaseDate": 1635035340000,
+  "updateDate": 1648505760000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

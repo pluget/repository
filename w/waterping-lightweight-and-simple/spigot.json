@@ -1,0 +1,32 @@
+{
+  "id": 99861,
+  "url": "https://www.spigotmc.org/resources/waterping-lightweight-and-simple-ping-system.99861/",
+  "name": "WaterPing| LightWeight and Simple | Ping System",
+  "description": "The Simplest Ping System",
+  "authors": [
+    "Artemtrlay"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99861.jpg?1644270351",
+  "iconCid": "bafkreiepgkqvf2xzt5mrbip6ij3xnxapl2jscwkoa6z5hd5ksjg2xq2j4m",
+  "numberOfDownloads": 124,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/waterping-lightweight-and-simple-ping-system.99861/history",
+  "gitUrl": "https://github.com/RDProjectOfficial/WaterPing",
+  "releaseDate": 1644266700000,
+  "updateDate": 1646466600000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

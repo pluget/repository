@@ -1,0 +1,23 @@
+{
+  "id": 92528,
+  "url": "https://www.spigotmc.org/resources/anti-void.92528/",
+  "name": "Anti Void",
+  "description": "Protect you to fall in the void",
+  "authors": [
+    "MatrixKabel"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92528.jpg?1621460014",
+  "iconCid": "bafkreiccpe5rzuiqeeccfed6mo3siz5ncuxsolz26yrntzdgqeec5cxr2a",
+  "numberOfDownloads": 206,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anti-void.92528/history",
+  "gitUrl": "https://github.com/MatrixKabel/Anti-Void/tree/main",
+  "releaseDate": 1621456260000,
+  "updateDate": 1645992120000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

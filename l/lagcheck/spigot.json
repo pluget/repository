@@ -1,0 +1,21 @@
+{
+  "id": 91529,
+  "url": "https://www.spigotmc.org/resources/lagcheck.91529/",
+  "name": "LagCheck",
+  "description": "Check your ram usage, number of cores, and tps",
+  "authors": [
+    "Novial"
+  ],
+  "numberOfDownloads": 298,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lagcheck.91529/history",
+  "gitUrl": "https://github.com/novialriptide/LagCheck",
+  "releaseDate": 1618898580000,
+  "updateDate": 1647744780000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 91759,
+  "url": "https://www.spigotmc.org/resources/staffcommunication-discordsrv.91759/",
+  "name": "StaffCommunication < > DiscordSRV",
+  "description": "Connect your staff chat to your discord server!",
+  "authors": [
+    "fishy_ydrib"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91759.jpg?1619472499",
+  "iconCid": "bafkreiauricpjfpcr2l2ojvs34no4jcl2isgwx3wotygbiugbjwicbyhza",
+  "numberOfDownloads": 135,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/staffcommunication-discordsrv.91759/history",
+  "gitUrl": "https://github.com/fishbird11/StaffCommunication-Discord",
+  "releaseDate": 1619468880000,
+  "updateDate": 1642194600000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

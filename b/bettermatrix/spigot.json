@@ -1,0 +1,22 @@
+{
+  "id": 100064,
+  "url": "https://www.spigotmc.org/resources/bettermatrix.100064/",
+  "name": "BetterMatrix",
+  "description": "Improve youre server with good features",
+  "authors": [
+    "MatrixKabel"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100064.jpg?1645041374",
+  "iconCid": "bafkreie3hnhipbfqm7xjd762duvqcgfdwmz3mrbheomwqgyoanhovaphtu",
+  "numberOfDownloads": 132,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bettermatrix.100064/history",
+  "releaseDate": 1645037700000,
+  "updateDate": 1645278420000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

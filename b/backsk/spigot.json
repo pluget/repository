@@ -1,0 +1,30 @@
+{
+  "id": 100707,
+  "url": "https://www.spigotmc.org/resources/back-sk.100707/",
+  "name": "Back.sk",
+  "description": "Back.sk - A simple way to teleport to your last known location.",
+  "authors": [
+    "GreenConstructor"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100707.jpg?1647264937",
+  "iconCid": "bafkreibaxjg5vikumuehy2ylkc7v36jqnv7e7u7lulkjrnpm3fz2g4gsmy",
+  "numberOfDownloads": 113,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/back-sk.100707/history",
+  "releaseDate": 1647261300000,
+  "updateDate": 1647261300000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

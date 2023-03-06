@@ -1,0 +1,23 @@
+{
+  "id": 77638,
+  "url": "https://www.spigotmc.org/resources/minecraft-advertisement-adf-ly-api.77638/",
+  "name": "Minecraft Advertisement (adf.ly) Api",
+  "description": "A simple way to monetize you server",
+  "authors": [
+    "Hesperius"
+  ],
+  "numberOfDownloads": 155,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minecraft-advertisement-adf-ly-api.77638/history",
+  "gitUrl": "https://github.com/hesperiusproject/MAA",
+  "releaseDate": 1587310620000,
+  "updateDate": 1644864060000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

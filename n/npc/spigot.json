@@ -1,0 +1,21 @@
+{
+  "id": 81087,
+  "url": "https://www.spigotmc.org/resources/npc.81087/",
+  "name": "NPC",
+  "description": "MineCraft NPC for 1.18.2 servers only",
+  "authors": [
+    "GothamsJoker"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81087.jpg?1593970298",
+  "iconCid": "bafkreiafimgejukeqh4ymmfjyn6uxiin5rmj65jrd5b4vlfoh4areuk6ti",
+  "numberOfDownloads": 177649,
+  "rating": 3.7,
+  "numberOfVotes": 9,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/npc.81087/history",
+  "gitUrl": "https://github.com/DLaMott/Npc",
+  "releaseDate": 1593962340000,
+  "updateDate": 1648266900000,
+  "versions": [
+    "1.18"
+  ]
+}

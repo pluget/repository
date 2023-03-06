@@ -1,0 +1,21 @@
+{
+  "id": 13346,
+  "url": "https://www.spigotmc.org/resources/creeperheal.13346/",
+  "name": "CreeperHeal",
+  "description": "Protects your server against Creepers, TNT, and griefers!",
+  "authors": [
+    "nitnelave"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/13/13346.jpg?1444928679",
+  "iconCid": "bafkreihjk3vn4b74qlf6ac7j6uow3qlkokgqpmk3jgxtdcxncjftwtw2le",
+  "numberOfDownloads": 14177,
+  "rating": 4.7,
+  "numberOfVotes": 27,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/creeperheal.13346/history",
+  "gitUrl": "https://github.com/nitnelave/CreeperHeal",
+  "releaseDate": 1444923660000,
+  "updateDate": 1657028700000,
+  "versions": [
+    "1.16"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 72231,
+  "url": "https://www.spigotmc.org/resources/minecraft-server-remote.72231/",
+  "name": "Minecraft Server Remote",
+  "description": "Control your Minecraft Server with your Android Phone or the integrated Webinterface",
+  "authors": [
+    "blitzdose"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/72/72231.jpg?1571856066",
+  "iconCid": "bafkreigkfcb4eqmttstpzk57hxto5knka3xlavvh3a2ojaneoebrbymlie",
+  "numberOfDownloads": 5833,
+  "rating": 4.9,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minecraft-server-remote.72231/history",
+  "releaseDate": 1571852400000,
+  "updateDate": 1643453280000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

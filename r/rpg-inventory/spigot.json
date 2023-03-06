@@ -1,0 +1,23 @@
+{
+  "id": 11809,
+  "url": "https://www.spigotmc.org/resources/rpg-inventory-custom-model-data-support.11809/",
+  "name": "RPG Inventory - Custom Model Data support",
+  "description": "Want to add new slots? May be also you need pets, mounts, backpacks and custom items? It's easy!",
+  "authors": [
+    "OsipXD"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/11/11809.jpg?1457390967",
+  "iconCid": "bafkreibfw253dsacwkufmria2zqy2b3qpvqakornsrtthigz577lorjctq",
+  "numberOfDownloads": 17542,
+  "rating": 4,
+  "numberOfVotes": 42,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rpg-inventory-custom-model-data-support.11809/history",
+  "gitUrl": "https://github.com/EndlessCodeGroup/RPGInventory",
+  "releaseDate": 1441307460000,
+  "updateDate": 1650383700000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

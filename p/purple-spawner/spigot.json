@@ -1,0 +1,22 @@
+{
+  "id": 100415,
+  "url": "https://www.spigotmc.org/resources/purple-spawner.100415/",
+  "name": "Purple Spawner",
+  "description": "An open source silk touch spawner plugin",
+  "authors": [
+    "NoPantsCarl"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100415.jpg?1646241599",
+  "iconCid": "bafkreidc65zholslwgsssmslpua76uzqpxwzdja5rsox7dfcyxttbwgu54",
+  "numberOfDownloads": 48,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/purple-spawner.100415/history",
+  "gitUrl": "https://github.com/NoPantsCarl/Purple-Spawner",
+  "releaseDate": 1646237940000,
+  "updateDate": 1646237940000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

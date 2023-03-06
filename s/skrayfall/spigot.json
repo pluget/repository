@@ -1,0 +1,32 @@
+{
+  "id": 10012,
+  "url": "https://www.spigotmc.org/resources/skrayfall.10012/",
+  "name": "skRayFall",
+  "description": "Make your server come alive",
+  "authors": [
+    "eyesniper2"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/10/10012.jpg?1437774235",
+  "iconCid": "bafkreidenreturfrtirg55qpb2n4loskzmxftpjuvbai6aawluke6afjaa",
+  "numberOfDownloads": 35231,
+  "rating": 4.8,
+  "numberOfVotes": 24,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skrayfall.10012/history",
+  "gitUrl": "https://github.com/eyesniper2/skRayFall",
+  "releaseDate": 1437770580000,
+  "updateDate": 1657170120000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

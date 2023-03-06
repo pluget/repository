@@ -1,0 +1,30 @@
+{
+  "id": 100674,
+  "url": "https://www.spigotmc.org/resources/ping-sk.100674/",
+  "name": "Ping.sk",
+  "description": "Ping.sk - A simple way to check anyone's ping, anytime, anywhere.",
+  "authors": [
+    "GreenConstructor"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100674.jpg?1647184912",
+  "iconCid": "bafkreifqzkg3ebxuzt5js2z3y2q7t5niit3l4zltcghz5cqrncg4b5f644",
+  "numberOfDownloads": 66,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ping-sk.100674/history",
+  "releaseDate": 1647181260000,
+  "updateDate": 1647181260000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

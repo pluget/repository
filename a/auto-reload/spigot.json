@@ -1,0 +1,27 @@
+{
+  "id": 50888,
+  "url": "https://www.spigotmc.org/resources/auto-reload.50888/",
+  "name": "Auto Reload",
+  "description": "Are you a lazy developer? Do you want an easier way to easily prototype your plugin? Try Auto Reload",
+  "authors": [
+    "monster4210"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/50/50888.jpg?1513575133",
+  "iconCid": "bafkreiajfs3wdytx5bimronygxnnretm7pwhlknfdqxkjdqkabp7bvidva",
+  "numberOfDownloads": 2606,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/auto-reload.50888/history",
+  "gitUrl": "https://github.com/DarkZek/AutoReload/",
+  "releaseDate": 1513571460000,
+  "updateDate": 1642301880000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

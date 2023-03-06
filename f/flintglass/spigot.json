@@ -1,0 +1,25 @@
+{
+  "id": 99572,
+  "url": "https://www.spigotmc.org/resources/flintglass.99572/",
+  "name": "FlintGlass",
+  "description": "Simple plugin to instant glass smelting with Flint And Stell",
+  "authors": [
+    "Kuba1428_CZ"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99572.jpg?1643385210",
+  "iconCid": "bafkreie2v2dlmby6dza5t7wzlo44hwqsvlt3spippb2xsnyoku6iffxkt4",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/flintglass.99572/history",
+  "releaseDate": 1643381520000,
+  "updateDate": 1643381520000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

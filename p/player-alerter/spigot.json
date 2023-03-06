@@ -1,0 +1,22 @@
+{
+  "id": 99278,
+  "url": "https://www.spigotmc.org/resources/player-alerter.99278/",
+  "name": "Player Alerter",
+  "description": "Alert players with /alert command",
+  "authors": [
+    "Mj3361"
+  ],
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/player-alerter.99278/history",
+  "releaseDate": 1642369260000,
+  "updateDate": 1642369260000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12"
+  ]
+}

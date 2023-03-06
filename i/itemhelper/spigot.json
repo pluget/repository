@@ -1,0 +1,29 @@
+{
+  "id": 99697,
+  "url": "https://www.spigotmc.org/resources/itemhelper.99697/",
+  "name": "ItemHelper",
+  "description": "A very simple plugin to manipulate items",
+  "authors": [
+    "Redempt"
+  ],
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/itemhelper.99697/history",
+  "gitUrl": "https://github.com/Redempt/ItemHelper",
+  "releaseDate": 1643772600000,
+  "updateDate": 1643772600000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

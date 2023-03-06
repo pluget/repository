@@ -1,0 +1,23 @@
+{
+  "id": 77039,
+  "url": "https://www.spigotmc.org/resources/hidenicknames.77039/",
+  "name": "HideNickNames",
+  "description": "Hide player nicknames",
+  "authors": [
+    "HolyGolf"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/77/77039.jpg?1586171369",
+  "iconCid": "bafkreiflvrnmjcpig26lcbl6jsc6henzt5kerrsltjsp3gkjgdcjhgo4qe",
+  "numberOfDownloads": 17974,
+  "rating": 4.3,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hidenicknames.77039/history",
+  "gitUrl": "https://github.com/kiinse/HideNickNames",
+  "releaseDate": 1586167740000,
+  "updateDate": 1650381300000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

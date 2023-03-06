@@ -1,0 +1,21 @@
+{
+  "id": 70432,
+  "url": "https://www.spigotmc.org/resources/automated-crafting.70432/",
+  "name": "Automated Crafting",
+  "description": "Transforms droppers into automatic item crafters!",
+  "authors": [
+    "Aeltumn"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/70/70432.jpg?1565967770",
+  "iconCid": "bafkreia5ebqywr62qas3pb4omboozu5jd7lrixs4lyb65n4vcj5fmhvnlm",
+  "numberOfDownloads": 7214,
+  "rating": 4.5,
+  "numberOfVotes": 28,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/automated-crafting.70432/history",
+  "gitUrl": "https://github.com/Aeltumn/automated_crafting",
+  "releaseDate": 1565964120000,
+  "updateDate": 1649203260000,
+  "versions": [
+    "1.18"
+  ]
+}

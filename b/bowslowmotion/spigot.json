@@ -1,0 +1,20 @@
+{
+  "id": 96145,
+  "url": "https://www.spigotmc.org/resources/bowslowmotion.96145/",
+  "name": "BowSlowMotion",
+  "description": "Adds slow motion to your bow when jumping off a cliff",
+  "authors": [
+    "Keksnet"
+  ],
+  "numberOfDownloads": 187,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bowslowmotion.96145/history",
+  "gitUrl": "https://github.com/Keksnet/BowSlowMotion",
+  "releaseDate": 1631383680000,
+  "updateDate": 1649664840000,
+  "versions": [
+    "1.16",
+    "1.17"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 99901,
+  "url": "https://www.spigotmc.org/resources/sudobungee.99901/",
+  "name": "SudoBungee",
+  "description": "Simple cross-server Sudo for BungeeCord.",
+  "authors": [
+    "Log1x"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99901.jpg?1644477210",
+  "iconCid": "bafkreibtzrblwpet4o75swkkidw5psfedj2ieveltakyzm57rgxgaimuyu",
+  "numberOfDownloads": 76,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sudobungee.99901/history",
+  "gitUrl": "https://github.com/CreativeCraft/sudobungee",
+  "releaseDate": 1644473580000,
+  "updateDate": 1644473580000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

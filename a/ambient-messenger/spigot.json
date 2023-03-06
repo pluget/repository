@@ -1,0 +1,29 @@
+{
+  "id": 101411,
+  "url": "https://www.spigotmc.org/resources/ambient-messenger-1-8-8-1-18-x.101411/",
+  "name": "Ambient Messenger [1.8.8 - 1.18.x]",
+  "description": "API to send messages to offline players.",
+  "authors": [
+    "Omarathon"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101411.jpg?1650104564",
+  "iconCid": "bafkreifk7c6n63t65kxrayi2skggxzmeptam7jnyxzhxgmx5avdoxrdkci",
+  "numberOfDownloads": 37,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ambient-messenger-1-8-8-1-18-x.101411/history",
+  "gitUrl": "https://github.com/omarathon/ambient-messenger",
+  "releaseDate": 1650100620000,
+  "updateDate": 1650100620000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

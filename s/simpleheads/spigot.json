@@ -1,0 +1,26 @@
+{
+  "id": 100975,
+  "url": "https://www.spigotmc.org/resources/simpleheads-free-get-player-heads-easily.100975/",
+  "name": "SimpleHeads (FREE!) - Get player heads easily",
+  "description": "SimpleHeads - More simple then ever to get heads!",
+  "authors": [
+    "GodWhitelight"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100975.jpg?1648316438",
+  "iconCid": "bafkreidhub3xstczqkp7uuhbqvi27zagbtm5axnnjjc7m7erxof23pnlgi",
+  "numberOfDownloads": 42,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simpleheads-free-get-player-heads-easily.100975/history",
+  "gitUrl": "https://github.com/Godwhitelight/SimpleHeads",
+  "releaseDate": 1648312800000,
+  "updateDate": 1648312800000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

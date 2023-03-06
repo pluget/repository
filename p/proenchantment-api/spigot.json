@@ -1,0 +1,24 @@
+{
+  "id": 98425,
+  "url": "https://www.spigotmc.org/resources/proenchantment-api-create-custom-enchantments-with-easy-online-editor.98425/",
+  "name": "ProEnchantment API - Create custom enchantments with easy online editor!",
+  "description": "Create custom enchants using skills from ProSkillAPI",
+  "authors": [
+    "goflish"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98425.jpg?1639677891",
+  "iconCid": "bafkreidm4fvh6wc55zw2hznvuikxrklna2umlbual6egjrsmedgufwtkba",
+  "numberOfDownloads": 321,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/proenchantment-api-create-custom-enchantments-with-easy-online-editor.98425/history",
+  "gitUrl": "https://github.com/promcteam/proenchantmentapi",
+  "releaseDate": 1639674180000,
+  "updateDate": 1641953820000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

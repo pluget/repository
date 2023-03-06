@@ -1,0 +1,22 @@
+{
+  "id": 100551,
+  "url": "https://www.spigotmc.org/resources/ashcompass.100551/",
+  "name": "AshCompass",
+  "description": "A minimalistic compass that can be used to track players. Updates automatically.",
+  "authors": [
+    "Ash01Blitz"
+  ],
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ashcompass.100551/history",
+  "gitUrl": "https://github.com/Ashrit-Yarava/Hunter-Compass",
+  "releaseDate": 1646689920000,
+  "updateDate": 1646689920000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

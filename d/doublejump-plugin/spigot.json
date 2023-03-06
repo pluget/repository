@@ -1,0 +1,28 @@
+{
+  "id": 77223,
+  "url": "https://www.spigotmc.org/resources/doublejump-plugin.77223/",
+  "name": "DoubleJump Plugin",
+  "description": "Doublejump plugin! Free plugin",
+  "authors": [
+    "ItsJust4You"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/77/77223.jpg?1633726883",
+  "iconCid": "bafkreigonlgcqrlywfgfvwjfwfgvtrnhbrgu6v3ib4y3xou4uutijpngua",
+  "numberOfDownloads": 770,
+  "rating": 3.6,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/doublejump-plugin.77223/history",
+  "releaseDate": 1586469360000,
+  "updateDate": 1648550100000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

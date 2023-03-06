@@ -1,0 +1,21 @@
+{
+  "id": 101438,
+  "url": "https://www.spigotmc.org/resources/easylogging.101438/",
+  "name": "EasyLogging",
+  "description": "This Skript logs everything to one folder.",
+  "authors": [
+    "ImDanee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101438.jpg?1650197657",
+  "iconCid": "bafkreiglkkpfxmh6f424x2q2rml6qybssamddwroenogl74hcoud47izm4",
+  "numberOfDownloads": 93,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/easylogging.101438/history",
+  "gitUrl": "https://github.com/DaneeSkripter/DaneeSkripts",
+  "releaseDate": 1650194040000,
+  "updateDate": 1650373080000,
+  "versions": [
+    "1.18"
+  ]
+}

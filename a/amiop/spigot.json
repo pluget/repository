@@ -1,0 +1,20 @@
+{
+  "id": 100699,
+  "url": "https://www.spigotmc.org/resources/amiop.100699/",
+  "name": "AmIOp",
+  "description": "Simple plugin which allows you to check if you are op.",
+  "authors": [
+    "MysticMight"
+  ],
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/amiop.100699/history",
+  "releaseDate": 1647244800000,
+  "updateDate": 1647244800000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

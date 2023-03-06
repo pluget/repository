@@ -1,0 +1,25 @@
+{
+  "id": 100931,
+  "url": "https://www.spigotmc.org/resources/mworldborderapi-1-13.100931/",
+  "name": "MWorldBorderAPI [1.13+]",
+  "description": "worldborder border teleport api library spawn boundaries task",
+  "authors": [
+    "MODERR"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100931.jpg?1648141392",
+  "iconCid": "bafkreifw3imjpekxpuj3njwhy6dyzvazh6vfsi4rdsl7tksmcmjpqkl6ci",
+  "numberOfDownloads": 51,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mworldborderapi-1-13.100931/history",
+  "releaseDate": 1648137780000,
+  "updateDate": 1648216080000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

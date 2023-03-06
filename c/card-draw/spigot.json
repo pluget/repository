@@ -1,0 +1,21 @@
+{
+  "id": 99895,
+  "url": "https://www.spigotmc.org/resources/card-draw-randomly-draw-cards-from-a-custom-deck.99895/",
+  "name": "Card Draw - Randomly Draw Cards from a Custom Deck",
+  "description": "Draw cards from decks you make, like the standard 52 card deck!",
+  "authors": [
+    "Inamine"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99895.jpg?1644438955",
+  "iconCid": "bafkreiep3ohtdznam4t56przrq5fzgtllukivbnee5vnvuv5irrg23wrvq",
+  "numberOfDownloads": 42,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/card-draw-randomly-draw-cards-from-a-custom-deck.99895/history",
+  "gitUrl": "https://github.com/InamineDev/CardDraw",
+  "releaseDate": 1644435300000,
+  "updateDate": 1644435300000,
+  "versions": [
+    "1.18"
+  ]
+}

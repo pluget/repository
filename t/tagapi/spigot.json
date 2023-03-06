@@ -1,0 +1,21 @@
+{
+  "id": 97399,
+  "url": "https://www.spigotmc.org/resources/tagapi.97399/",
+  "name": "TagAPI",
+  "description": "An open source API that allows developers to easily add extra lines above an entity.",
+  "authors": [
+    "Keehl254"
+  ],
+  "numberOfDownloads": 606,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tagapi.97399/history",
+  "gitUrl": "https://github.com/keehl254/TagAPI",
+  "releaseDate": 1636082400000,
+  "updateDate": 1657249380000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

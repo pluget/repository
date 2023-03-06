@@ -1,0 +1,25 @@
+{
+  "id": 95658,
+  "url": "https://www.spigotmc.org/resources/gemseconomy-remake-unofficial-fork-1-19-ready.95658/",
+  "name": "GemsEconomy Remake - Unofficial Fork - 1.19 Ready",
+  "description": "[GC Remake]This is a custom multi-currency economy plugin! Free & Open Sourced! With vault support",
+  "authors": [
+    "Ghost_chu"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95658.jpg?1629874754",
+  "iconCid": "bafkreiemhsedz4mcmaukfj67u5ukr4s7gwkgcs5vfi73kgdyisytu6cscy",
+  "numberOfDownloads": 1782,
+  "rating": 5,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gemseconomy-remake-unofficial-fork-1-19-ready.95658/history",
+  "gitUrl": "https://github.com/Ghost-chu/GemsEconomy",
+  "releaseDate": 1629871080000,
+  "updateDate": 1642666920000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

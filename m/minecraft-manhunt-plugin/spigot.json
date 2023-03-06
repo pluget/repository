@@ -1,0 +1,20 @@
+{
+  "id": 99285,
+  "url": "https://www.spigotmc.org/resources/minecraft-manhunt-plugin.99285/",
+  "name": "Minecraft Manhunt Plugin",
+  "description": "Play Manhunt on your Spigot/Paper Minecraft server!",
+  "authors": [
+    "the_ricetech"
+  ],
+  "numberOfDownloads": 401,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minecraft-manhunt-plugin.99285/history",
+  "gitUrl": "https://github.com/ricetech/MinecraftManhuntPlugin/",
+  "releaseDate": 1642381380000,
+  "updateDate": 1642985400000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 98696,
+  "url": "https://www.spigotmc.org/resources/server-levels.98696/",
+  "name": "Server Levels",
+  "description": "An all-purpose leveling system for your server!",
+  "authors": [
+    "champion12800"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98696.jpg?1640551251",
+  "iconCid": "bafkreig3lavlivclrabkofz23dyzaq6ujknd6di6im4bjnk3uugjnwchh4",
+  "numberOfDownloads": 245,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/server-levels.98696/history",
+  "gitUrl": "https://github.com/MidenTheDev/ServerLevels/",
+  "releaseDate": 1640547600000,
+  "updateDate": 1650851220000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

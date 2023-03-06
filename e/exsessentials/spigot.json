@@ -1,0 +1,24 @@
+{
+  "id": 101530,
+  "url": "https://www.spigotmc.org/resources/exs-essentials.101530/",
+  "name": "EXS-ESSENTIALS",
+  "description": "Essentials",
+  "authors": [
+    "Panda_Dex_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101530.jpg?1650533384",
+  "iconCid": "bafkreiakro4mpszg7q4zibnrlbhegyjzma3rk2xlaafzqm3azvbpzadnjy",
+  "numberOfDownloads": 173,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/exs-essentials.101530/history",
+  "gitUrl": "https://github.com/PandaDex/EXS-ESSENTIALS",
+  "releaseDate": 1650504480000,
+  "updateDate": 1650504480000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

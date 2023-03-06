@@ -1,0 +1,22 @@
+{
+  "id": 95917,
+  "url": "https://www.spigotmc.org/resources/fundamentals.95917/",
+  "name": "Fundamentals",
+  "description": "Upcoming Spigot plugin for all your needs!",
+  "authors": [
+    "MrLukey676"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95917.jpg?1630601723",
+  "iconCid": "bafkreicgjdoypupgsj5yh723mxcscq4kgpv7tqh4ty7psfvfhnbpajvaeq",
+  "numberOfDownloads": 33,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/fundamentals.95917/history",
+  "gitUrl": "https://github.com/mrlukey676/fundamentalsJava17",
+  "releaseDate": 1630598100000,
+  "updateDate": 1641795720000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

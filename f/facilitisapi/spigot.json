@@ -1,0 +1,28 @@
+{
+  "id": 54618,
+  "url": "https://www.spigotmc.org/resources/facilitisapi.54618/",
+  "name": "FacilitisAPI",
+  "description": "This API semplifies your creation of minecraft plugins",
+  "authors": [
+    "MrLiam2614"
+  ],
+  "numberOfDownloads": 630,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/facilitisapi.54618/history",
+  "gitUrl": "https://github.com/MrLiam2614/FacilitisAPI",
+  "releaseDate": 1521304380000,
+  "updateDate": 1641490320000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

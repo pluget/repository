@@ -1,0 +1,27 @@
+{
+  "id": 100251,
+  "url": "https://www.spigotmc.org/resources/radio.100251/",
+  "name": "Radio",
+  "description": "Plugin provides useful broadcast abilities",
+  "authors": [
+    "vie10"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100251.jpg?1646056040",
+  "iconCid": "bafkreifra7hzeiq5umnbqpzmzkcacifbiwzlb45vokoawm5fwhwardbg3m",
+  "numberOfDownloads": 224,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/radio.100251/history",
+  "gitUrl": "https://github.com/vie10/radio",
+  "releaseDate": 1645615500000,
+  "updateDate": 1647538560000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

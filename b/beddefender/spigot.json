@@ -1,0 +1,33 @@
+{
+  "id": 84183,
+  "url": "https://www.spigotmc.org/resources/beddefender-no-sleeping.84183/",
+  "name": "BedDefender ~ No Sleeping",
+  "description": "[1.7-1.19] Make Survival more difficult! Stops players from sleeping and changing respawn points.",
+  "authors": [
+    "lokka30"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84183.jpg?1632223991",
+  "iconCid": "bafkreiez3fgwaa5cjitvf3kwol3etfo4tx3svgbdpvj6qjqs3vjuvzckoi",
+  "numberOfDownloads": 357,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/beddefender-no-sleeping.84183/history",
+  "gitUrl": "https://github.com/lokka30/BedDefender",
+  "releaseDate": 1600986540000,
+  "updateDate": 1650622080000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 101807,
+  "url": "https://www.spigotmc.org/resources/itemshoppro.101807/",
+  "name": "ItemShopPro",
+  "description": "chestshop, shop, chest, itemshop, itemshoppro",
+  "authors": [
+    "Novial"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101807.jpg?1657785530",
+  "iconCid": "bafkreiammkho5mdx5fs2mssy2ahsemwf4syrilsyntbastipwcfwaplfwm",
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/itemshoppro.101807/history",
+  "gitUrl": "https://github.com/novialriptide/ItemShopPro",
+  "releaseDate": 1651591920000,
+  "updateDate": 1651591920000,
+  "versions": [
+    "1.13",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

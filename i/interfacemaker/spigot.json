@@ -1,0 +1,32 @@
+{
+  "id": 101353,
+  "url": "https://www.spigotmc.org/resources/interfacemaker.101353/",
+  "name": "InterfaceMaker",
+  "description": "Make your own advanced menus and join items with this plugin.",
+  "authors": [
+    "LinsaFTW"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101353.jpg?1649885262",
+  "iconCid": "bafkreihrt3o27id32w3rbdab7yow4rwej4ueczu6ovfxtdnlbvrjv2ruve",
+  "numberOfDownloads": 308,
+  "rating": 4.8,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/interfacemaker.101353/history",
+  "gitUrl": "https://github.com/2lstudios-mc/InterfaceMaker",
+  "releaseDate": 1649881620000,
+  "updateDate": 1653347580000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

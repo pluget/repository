@@ -1,0 +1,31 @@
+{
+  "id": 99063,
+  "url": "https://www.spigotmc.org/resources/announcestream-1-8-1-18.99063/",
+  "name": "AnnounceStream [1.8 - 1.18]",
+  "description": "Announce your Live Stream to all server!",
+  "authors": [
+    "iAlqjDV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99063.jpg?1641673555",
+  "iconCid": "bafkreihy7j236qud4uinijrxlrn5u5g4sagxgq2ibpqf7bivmr4knymfum",
+  "numberOfDownloads": 104,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/announcestream-1-8-1-18.99063/history",
+  "gitUrl": "https://github.com/ialqjdv/AnnounceStream",
+  "releaseDate": 1641669900000,
+  "updateDate": 1641669900000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

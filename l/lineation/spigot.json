@@ -1,0 +1,26 @@
+{
+  "id": 94591,
+  "url": "https://www.spigotmc.org/resources/lineation-easily-hold-races-1-13-2.94591/",
+  "name": "Lineation | Easily hold races! [1.13.2+]",
+  "description": "Plugin to create start and finish lines! Easily keep track of competition winners!",
+  "authors": [
+    "diademiemi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94591.jpg?1627061480",
+  "iconCid": "bafkreic7nutazndsdvu3nakrqa3qs7hzcpl6qba5uzyamp2xzlfp6yndsy",
+  "numberOfDownloads": 359,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lineation-easily-hold-races-1-13-2.94591/history",
+  "gitUrl": "https://github.com/diademiemi/Lineation",
+  "releaseDate": 1627057860000,
+  "updateDate": 1642289520000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

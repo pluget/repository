@@ -1,0 +1,30 @@
+{
+  "id": 81223,
+  "url": "https://www.spigotmc.org/resources/noplayercollisions-no-dependencies-no-patch-needed-scoreboard-support.81223/",
+  "name": "NoPlayerCollisions [No Dependencies, No Patch Needed, Scoreboard Support]",
+  "description": "Disable Player Collisions in any version without other plugins or external patches.",
+  "authors": [
+    "BlackInt"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81223.jpg?1594216214",
+  "iconCid": "bafkreicztmx7gwfz5uh4drshwegouuhue3qgkxbudqvlxjsnqoguhxqqaa",
+  "numberOfDownloads": 2673,
+  "rating": 3,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/noplayercollisions-no-dependencies-no-patch-needed-scoreboard-support.81223/history",
+  "releaseDate": 1594212600000,
+  "updateDate": 1655758020000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

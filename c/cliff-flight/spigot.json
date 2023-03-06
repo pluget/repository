@@ -1,0 +1,21 @@
+{
+  "id": 100762,
+  "url": "https://www.spigotmc.org/resources/cliff-flight.100762/",
+  "name": "Cliff Flight",
+  "description": "A toggle cliff jumping flight plugin",
+  "authors": [
+    "ByCubed7"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100762.jpg?1647503677",
+  "iconCid": "bafkreidxosdvsrldutigzome4aqgqstqxoe4e5uwjt3vorvyg7lr3zmlou",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cliff-flight.100762/history",
+  "gitUrl": "https://github.com/ByCubed7/minecraft-CliffFlight",
+  "releaseDate": 1647500040000,
+  "updateDate": 1647500040000,
+  "versions": [
+    "1.18"
+  ]
+}

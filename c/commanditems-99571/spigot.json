@@ -1,0 +1,19 @@
+{
+  "id": 99571,
+  "url": "https://www.spigotmc.org/resources/commanditems.99571/",
+  "name": "CommandItems",
+  "description": "Simple plugin allowing you to bind commands to individual items, can also make the item consumable",
+  "authors": [
+    "Athlaeos"
+  ],
+  "numberOfDownloads": 126,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/commanditems.99571/history",
+  "gitUrl": "https://github.com/Athlaeos/CommandItems",
+  "releaseDate": 1643380620000,
+  "updateDate": 1644009180000,
+  "versions": [
+    "1.18"
+  ]
+}

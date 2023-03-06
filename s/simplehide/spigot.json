@@ -1,0 +1,22 @@
+{
+  "id": 65141,
+  "url": "https://www.spigotmc.org/resources/simplehide-1-12-x-1-13-x.65141/",
+  "name": "SimpleHide [1.12.x~1.13.x]",
+  "description": "Type /hide to make the player invisible and type /show to make it visible.",
+  "authors": [
+    "mi10tsuhashi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/65/65141.jpg?1550954907",
+  "iconCid": "bafkreihrcin2oyxfxktekjnfj4mtg6toqfuant3ehyeswpm6jpfe3cpdfa",
+  "numberOfDownloads": 76,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplehide-1-12-x-1-13-x.65141/history",
+  "gitUrl": "https://github.com/Mi10tsuhashi/SimpleHide",
+  "releaseDate": 1550949480000,
+  "updateDate": 1642110240000,
+  "versions": [
+    "1.12",
+    "1.13"
+  ]
+}

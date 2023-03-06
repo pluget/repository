@@ -1,0 +1,24 @@
+{
+  "id": 100223,
+  "url": "https://www.spigotmc.org/resources/discordlogs-remasterd-ingame-support.100223/",
+  "name": "[DiscordLogs] Remasterd ( Ingame Support )",
+  "description": "Add Discord Logs via Webhook to your spigot Server",
+  "authors": [
+    "Gaming_HD6"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100223.jpg?1645529242",
+  "iconCid": "bafkreig3fmkouwvpuhf7sfgw45vcijz6iobaqeyea3l5kv5hzu3gyn4hwa",
+  "numberOfDownloads": 160,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/discordlogs-remasterd-ingame-support.100223/history",
+  "releaseDate": 1645525620000,
+  "updateDate": 1645804860000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

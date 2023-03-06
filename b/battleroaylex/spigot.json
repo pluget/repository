@@ -1,0 +1,30 @@
+{
+  "id": 99129,
+  "url": "https://www.spigotmc.org/resources/battleroaylex-autojoin.99129/",
+  "name": "BattleRoayleX-AutoJoin",
+  "description": "Allows you to automatically join the BattleRoayle Lobby!",
+  "authors": [
+    "dev_what"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99129.jpg?1641951281",
+  "iconCid": "bafkreid4vs7nrgo6jok3qidyygdjxkicscozoidcgyt3tbbg2l4f4l5jw4",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/battleroaylex-autojoin.99129/history",
+  "releaseDate": 1641947640000,
+  "updateDate": 1641948000000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

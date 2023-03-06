@@ -1,0 +1,22 @@
+{
+  "id": 100253,
+  "url": "https://www.spigotmc.org/resources/utilityapi.100253/",
+  "name": "UtilityAPI",
+  "description": "Make your life easier and faster.",
+  "authors": [
+    "Mufflee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100253.jpg?1645622320",
+  "iconCid": "bafkreier62rlfk7zqhc35rwcnrzb3qvs3idyaywp2pjyi7ncwhrni4u6mu",
+  "numberOfDownloads": 112,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/utilityapi.100253/history",
+  "releaseDate": 1645618680000,
+  "updateDate": 1645914360000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

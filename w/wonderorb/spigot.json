@@ -1,0 +1,24 @@
+{
+  "id": 97265,
+  "url": "https://www.spigotmc.org/resources/wonderorb-create-your-own-orb.97265/",
+  "name": "WonderOrb - Create your own orb!",
+  "description": "Create custom orb for your server with multiple features! Fully customizable!",
+  "authors": [
+    "adairh"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97265.jpg?1635599434",
+  "iconCid": "bafkreihp4ek6f2pzatyuouhptsraierjhxogucfxdhk7bbz7br34o6tfba",
+  "numberOfDownloads": 147,
+  "rating": 4.3,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/wonderorb-create-your-own-orb.97265/history",
+  "releaseDate": 1635595800000,
+  "updateDate": 1644046560000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

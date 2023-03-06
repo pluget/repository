@@ -1,0 +1,22 @@
+{
+  "id": 100417,
+  "url": "https://www.spigotmc.org/resources/entityserializer.100417/",
+  "name": "EntitySerializer",
+  "description": "Serialize and Deserialize Entities, Anytime! And without ugly NMS!",
+  "authors": [
+    "2Hex"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100417.jpg?1646246024",
+  "iconCid": "bafkreibxmirseoutbd3ozkyclat5hjlip2zubqfyuiipzb3bnaewyuevji",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/entityserializer.100417/history",
+  "gitUrl": "https://github.com/2Hex/EntitySerializer",
+  "releaseDate": 1646242380000,
+  "updateDate": 1646242380000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 99641,
+  "url": "https://www.spigotmc.org/resources/hardmob.99641/",
+  "name": "HardMob",
+  "description": "Появление мобов в броне и не только",
+  "authors": [
+    "mable4th"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99641.jpg?1643568070",
+  "iconCid": "bafkreibba7y6gn4kt7q22r2ewrfd4nmm6met4vukwra2r3oc2gdpfnpzeu",
+  "numberOfDownloads": 54,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hardmob.99641/history",
+  "gitUrl": "https://github.com/mable4th/HardMob.git",
+  "releaseDate": 1643556120000,
+  "updateDate": 1644246660000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

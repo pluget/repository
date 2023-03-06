@@ -1,0 +1,24 @@
+{
+  "id": 101085,
+  "url": "https://www.spigotmc.org/resources/tpsm.101085/",
+  "name": "TPSM",
+  "description": "TPSM vous permet d'afficher les TPS de votre serveur en direct, avec des alertes.",
+  "authors": [
+    "WazyOnMinecraft"
+  ],
+  "numberOfDownloads": 55,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tpsm.101085/history",
+  "releaseDate": 1648742220000,
+  "updateDate": 1649267460000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": 97282,
+  "url": "https://www.spigotmc.org/resources/mycustomplaceholders.97282/",
+  "name": "MyCustomPlaceholders",
+  "description": "Create your own PAPI placeholders to clean up your configuration!",
+  "authors": [
+    "marcelschoen"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97282.jpg?1635635248",
+  "iconCid": "bafkreibv6awsx6phfurastg2ba4man5gp2ytadl7v7oag7fdd6grrkyzam",
+  "numberOfDownloads": 122,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mycustomplaceholders.97282/history",
+  "gitUrl": "https://github.com/marcelschoen/MyCustomPlaceholders",
+  "releaseDate": 1635631620000,
+  "updateDate": 1641850860000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

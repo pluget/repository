@@ -1,0 +1,31 @@
+{
+  "id": 99084,
+  "url": "https://www.spigotmc.org/resources/jockeydisabler-customizable.99084/",
+  "name": "JockeyDisabler - Customizable",
+  "description": "Simple way to top jockey spawning",
+  "authors": [
+    "opd02"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99084.jpg?1641757610",
+  "iconCid": "bafkreia4qdce7oqx2nixrnpx2sdtqgnn4snyme77uwbladex43h4hk542y",
+  "numberOfDownloads": 23,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/jockeydisabler-customizable.99084/history",
+  "gitUrl": "https://github.com/opd02/JockeyDisabler",
+  "releaseDate": 1641753960000,
+  "updateDate": 1641753960000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

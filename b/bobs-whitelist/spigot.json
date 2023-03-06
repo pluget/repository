@@ -1,0 +1,21 @@
+{
+  "id": 100607,
+  "url": "https://www.spigotmc.org/resources/bobs-whitelist.100607/",
+  "name": "Bob's Whitelist",
+  "description": "Permissions based whitelisting plugin.",
+  "authors": [
+    "MrRee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100607.jpg?1646973055",
+  "iconCid": "bafkreibmoydjmswjsemyafwwumc7lxqlw5ws7y6yjf5v2xtgl7dzmgjqwa",
+  "numberOfDownloads": 53,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bobs-whitelist.100607/history",
+  "gitUrl": "https://github.com/xnite/bobWhitelist/releases/tag/1.09",
+  "releaseDate": 1646969400000,
+  "updateDate": 1646969400000,
+  "versions": [
+    "1.18"
+  ]
+}

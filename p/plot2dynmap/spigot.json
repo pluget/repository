@@ -1,0 +1,26 @@
+{
+  "id": 1292,
+  "url": "https://www.spigotmc.org/resources/plot2dynmap.1292/",
+  "name": "Plot2Dynmap",
+  "description": "PlotSquared dynmap extension",
+  "authors": [
+    "IntellectualSites"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/1/1292.jpg?1632299751",
+  "iconCid": "bafkreib33we5dg2udh7cucfh4is3mnvlpm4jjy5dbpooq2rgn4nau3abbe",
+  "numberOfDownloads": 10896,
+  "rating": 4.1,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/plot2dynmap.1292/history",
+  "gitUrl": "https://github.com/IntellectualSites/Plot2Dynmap",
+  "releaseDate": 1412068800000,
+  "updateDate": 1644416520000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

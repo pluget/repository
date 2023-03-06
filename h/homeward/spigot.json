@@ -1,0 +1,28 @@
+{
+  "id": 94419,
+  "url": "https://www.spigotmc.org/resources/homeward.94419/",
+  "name": "Homeward",
+  "description": "A minimalist, customisable homes plugin",
+  "authors": [
+    "Kiteflow"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94419.jpg?1650236311",
+  "iconCid": "bafkreifo3uyd7keuhxgg56fhatenlcfysk2qtl53mztyx4kb53iulrdwly",
+  "numberOfDownloads": 262,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/homeward.94419/history",
+  "gitUrl": "https://github.com/Kiteflow/Homeward/",
+  "releaseDate": 1626631740000,
+  "updateDate": 1650234000000,
+  "versions": [
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

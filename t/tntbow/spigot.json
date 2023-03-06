@@ -1,0 +1,23 @@
+{
+  "id": 101269,
+  "url": "https://www.spigotmc.org/resources/tntbow.101269/",
+  "name": "TntBow",
+  "description": "Provides a Tnt bow on command",
+  "authors": [
+    "FtJace"
+  ],
+  "numberOfDownloads": 38,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tntbow.101269/history",
+  "releaseDate": 1649566020000,
+  "updateDate": 1649566020000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.12",
+    "1.13",
+    "1.17",
+    "1.18"
+  ]
+}

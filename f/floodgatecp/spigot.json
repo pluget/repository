@@ -1,0 +1,20 @@
+{
+  "id": 96902,
+  "url": "https://www.spigotmc.org/resources/floodgatecp.96902/",
+  "name": "FloodgateCP",
+  "description": "Adds Bedrock Edition forms from Floodgate to CommandPanels.",
+  "authors": [
+    "MangoHuman"
+  ],
+  "numberOfDownloads": 9625,
+  "rating": 4.3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/floodgatecp.96902/history",
+  "gitUrl": "https://github.com/MangoSwirl/FloodgateCP",
+  "releaseDate": 1634436420000,
+  "updateDate": 1644797100000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

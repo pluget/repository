@@ -1,0 +1,31 @@
+{
+  "id": 100701,
+  "url": "https://www.spigotmc.org/resources/clickbench-1-8-1-18.100701/",
+  "name": "ClickBench [1.8 - 1.18]",
+  "description": "Open up your Crafting Table without placing it by Right Clicking it in your inventory!",
+  "authors": [
+    "Yessify"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100701.jpg?1647252944",
+  "iconCid": "bafkreidsx22pmqurfrvxoqsjpobvwgljjqjcftvgetwxghvq7r6o7kmu24",
+  "numberOfDownloads": 78,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/clickbench-1-8-1-18.100701/history",
+  "gitUrl": "https://github.com/medyass1ne/ClickBench",
+  "releaseDate": 1647249300000,
+  "updateDate": 1647278460000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

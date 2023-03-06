@@ -1,0 +1,21 @@
+{
+  "id": 100230,
+  "url": "https://www.spigotmc.org/resources/nwmotd.100230/",
+  "name": "NwMotd",
+  "description": "Motd",
+  "authors": [
+    "Ahmetqahbe"
+  ],
+  "numberOfDownloads": 38,
+  "rating": 3,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nwmotd.100230/history",
+  "gitUrl": "https://github.com/westydev/NwMotd",
+  "releaseDate": 1645542840000,
+  "updateDate": 1645542840000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

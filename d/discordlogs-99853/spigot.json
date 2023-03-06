@@ -1,0 +1,30 @@
+{
+  "id": 99853,
+  "url": "https://www.spigotmc.org/resources/%E2%A4%BFdiscordlogs-1-8-1-16-5%E2%A4%BE.99853/",
+  "name": "⤿DiscordLogs 1.8-1.16.5⤾",
+  "description": "⤿Plugin to link your minecraft logs to discord ⤾",
+  "authors": [
+    "ToxicDude"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99853.jpg?1644233745",
+  "iconCid": "bafkreiaraial6u5f7ni7dnfs5sy4u3hkf7oxzqtmifwxyufynwu6gvilpa",
+  "numberOfDownloads": 82,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%A4%BFdiscordlogs-1-8-1-16-5%E2%A4%BE.99853/history",
+  "gitUrl": "https://gist.github.com/k3kdude/fba6f6b37594eae3d6f9475330733bdb",
+  "releaseDate": 1644230100000,
+  "updateDate": 1644780480000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 66828,
+  "url": "https://www.spigotmc.org/resources/javaloader.66828/",
+  "name": "JavaLoader",
+  "description": "A plugin that allows you to compile, enable, disable and hotswap Java projects in runtime.",
+  "authors": [
+    "Woesh0007"
+  ],
+  "numberOfDownloads": 262,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/javaloader.66828/history",
+  "gitUrl": "https://github.com/Pieter12345/JavaLoader",
+  "releaseDate": 1556151600000,
+  "updateDate": 1653405840000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

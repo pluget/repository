@@ -1,0 +1,22 @@
+{
+  "id": 101407,
+  "url": "https://www.spigotmc.org/resources/lightning-execute-spigot-from-the-browser.101407/",
+  "name": "Lightning | Execute Spigot from the Browser",
+  "description": "Manage the Spigot API from your Browser!",
+  "authors": [
+    "GamerCoder215"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101407.jpg?1650073831",
+  "iconCid": "bafkreial4gpbco45szlcun2y26im44qip4vhdlhguq4n5xe6rtzbcnfkta",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/lightning-execute-spigot-from-the-browser.101407/history",
+  "gitUrl": "https://github.com/GamerCoder215/Lightning",
+  "releaseDate": 1650070200000,
+  "updateDate": 1650070200000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

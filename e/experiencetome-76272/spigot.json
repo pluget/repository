@@ -1,0 +1,25 @@
+{
+  "id": 76272,
+  "url": "https://www.spigotmc.org/resources/experiencetome.76272/",
+  "name": "ExperienceTome",
+  "description": "Based on Thermal Foundation, a Tome of Experience is a craftable item that stores experience.",
+  "authors": [
+    "SamzRulez"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/76/76272.jpg?1584712065",
+  "iconCid": "bafkreieodjxyfpvumgfmre3isu6ys4i54xgooqgmh6a4ivdvuuen5qtzyi",
+  "numberOfDownloads": 779,
+  "rating": 4.6,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/experiencetome.76272/history",
+  "releaseDate": 1584708420000,
+  "updateDate": 1647642540000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

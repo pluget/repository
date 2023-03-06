@@ -1,0 +1,19 @@
+{
+  "id": 100290,
+  "url": "https://www.spigotmc.org/resources/betakey-system.100290/",
+  "name": "Betakey System",
+  "description": "A plugin to manage access in the beta phase",
+  "authors": [
+    "Karottenboy33"
+  ],
+  "numberOfDownloads": 52,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/betakey-system.100290/history",
+  "gitUrl": "https://github.com/FelixSchick/BetakeySystem",
+  "releaseDate": 1645804920000,
+  "updateDate": 1645804980000,
+  "versions": [
+    "1.17"
+  ]
+}

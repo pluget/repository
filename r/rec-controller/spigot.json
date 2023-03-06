@@ -1,0 +1,25 @@
+{
+  "id": 101014,
+  "url": "https://www.spigotmc.org/resources/rec-controller.101014/",
+  "name": "Rec Controller",
+  "description": "Manage player permissions and actions with just one command.",
+  "authors": [
+    "Ryanpactw"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101014.jpg?1648415484",
+  "iconCid": "bafkreievht5w2ln7ixp55h6c472k3yv727imhz2mtryek72ep26b2l6tle",
+  "numberOfDownloads": 115,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/rec-controller.101014/history",
+  "releaseDate": 1648411860000,
+  "updateDate": 1648411860000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

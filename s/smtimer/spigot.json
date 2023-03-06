@@ -1,0 +1,21 @@
+{
+  "id": 101569,
+  "url": "https://www.spigotmc.org/resources/smtimer.101569/",
+  "name": "SmTimer",
+  "description": "Time players between two points",
+  "authors": [
+    "Smuddgge"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101569.jpg?1650659741",
+  "iconCid": "bafkreigjhuhew2e4u62v7j5cmxdderrwqped4cfmwrr3lelkicrhxc2nli",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/smtimer.101569/history",
+  "gitUrl": "https://github.com/smuddgge/SmTimer/tree/main",
+  "releaseDate": 1650656100000,
+  "updateDate": 1650659400000,
+  "versions": [
+    "1.18"
+  ]
+}

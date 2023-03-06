@@ -1,0 +1,30 @@
+{
+  "id": 99945,
+  "url": "https://www.spigotmc.org/resources/nohunger.99945/",
+  "name": "NoHunger+",
+  "description": "Disable hunger on your server. Useful for hubs or SMP's",
+  "authors": [
+    "ARR4NN"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99945.jpg?1644664662",
+  "iconCid": "bafkreicm22pbpjefc3bnetwqwu2t6sdqrmeuwbycmg3k3iiunbnouqhjni",
+  "numberOfDownloads": 77,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nohunger.99945/history",
+  "releaseDate": 1644661020000,
+  "updateDate": 1644661020000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

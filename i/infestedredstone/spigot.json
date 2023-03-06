@@ -1,0 +1,28 @@
+{
+  "id": 75105,
+  "url": "https://www.spigotmc.org/resources/infestedredstone.75105/",
+  "name": "InfestedRedstone",
+  "description": "Protects any redstone items from water breaking it!",
+  "authors": [
+    "_TeMp3r_"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/75/75105.jpg?1584553665",
+  "iconCid": "bafkreibp6trqgcjcdaemn7dzsbal7e57tc3htz62yvewqrfdjyjrsihkhe",
+  "numberOfDownloads": 173,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/infestedredstone.75105/history",
+  "releaseDate": 1581391680000,
+  "updateDate": 1643815860000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15"
+  ]
+}

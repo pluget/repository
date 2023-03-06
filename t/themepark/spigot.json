@@ -1,0 +1,25 @@
+{
+  "id": 48648,
+  "url": "https://www.spigotmc.org/resources/themepark.48648/",
+  "name": "ThemePark",
+  "description": "A status menu plugin for your ThemePark server!",
+  "authors": [
+    "stijnb1234"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/48/48648.jpg?1544984106",
+  "iconCid": "bafkreicx5gcril6ngfxqtx7q55hcxhynkjmvnn5hctkqdifswsiwngzh64",
+  "numberOfDownloads": 9856,
+  "rating": 4.7,
+  "numberOfVotes": 40,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/themepark.48648/history",
+  "releaseDate": 1508592420000,
+  "updateDate": 1651168200000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

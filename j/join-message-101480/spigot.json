@@ -1,0 +1,21 @@
+{
+  "id": 101480,
+  "url": "https://www.spigotmc.org/resources/join-message.101480/",
+  "name": "Join message",
+  "description": "Adds join messages",
+  "authors": [
+    "Strawbepog"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101480.jpg?1650322266",
+  "iconCid": "bafkreicpugyve7mr5gxxwmiertb4omrz4xh5b4xt5k3m2kiwfzouugv6o4",
+  "numberOfDownloads": 47,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/join-message.101480/history",
+  "gitUrl": "https://github.com/PearlzDev/JoinMessage/blob/main/source.zip",
+  "releaseDate": 1650318600000,
+  "updateDate": 1650318600000,
+  "versions": [
+    "1.17"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": 99311,
+  "url": "https://www.spigotmc.org/resources/webjelly.99311/",
+  "name": "WebJelly",
+  "description": "library loading from external repositories",
+  "authors": [
+    "Dolphin2410"
+  ],
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/webjelly.99311/history",
+  "gitUrl": "https://github.com/dolphin2410/WebJelly",
+  "releaseDate": 1642503540000,
+  "updateDate": 1642503540000,
+  "versions": [
+    "1.17"
+  ]
+}

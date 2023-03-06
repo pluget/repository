@@ -1,0 +1,23 @@
+{
+  "id": 27535,
+  "url": "https://www.spigotmc.org/resources/chatprotect.27535/",
+  "name": "ChatProtect",
+  "description": "A plugin which protects your serverchat against unfriendly players.",
+  "authors": [
+    "Plugin_Dev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/27/27535.jpg?1564759095",
+  "iconCid": "bafkreie7gkh5dg4ebdwqsrvlebmdtbicvdpghjn45i5ctlxeeq4u5f7sfe",
+  "numberOfDownloads": 1117,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatprotect.27535/history",
+  "releaseDate": 1470565320000,
+  "updateDate": 1646425620000,
+  "versions": [
+    "1.8",
+    "1.10",
+    "1.14",
+    "1.18"
+  ]
+}

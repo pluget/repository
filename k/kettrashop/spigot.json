@@ -1,0 +1,22 @@
+{
+  "id": 101997,
+  "url": "https://www.spigotmc.org/resources/kettrashop.101997/",
+  "name": "KettraShop",
+  "description": "Plugin de ativação de produtos do seu servidor!",
+  "authors": [
+    "sebastianjnuwu"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101997.jpg?1652982298",
+  "iconCid": "bafkreihaovr64aeqhr7hnwxl2d4u6huddm74ijh54hshyekaafeuox4aua",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kettrashop.101997/history",
+  "gitUrl": "https://github.com/sebastianjnuwu/KettraShop",
+  "releaseDate": 1652537760000,
+  "updateDate": 1652537760000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

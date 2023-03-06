@@ -1,0 +1,26 @@
+{
+  "id": 100272,
+  "url": "https://www.spigotmc.org/resources/ljmess.100272/",
+  "name": "LJMess",
+  "description": "Join / Leave Messenge",
+  "authors": [
+    "KerryLam"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100272.jpg?1645710307",
+  "iconCid": "bafkreigsmqt62bobldeamvfzdb7unwmcrlia7wwpy7ejpnmcbkp44cz5qm",
+  "numberOfDownloads": 23,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ljmess.100272/history",
+  "gitUrl": "https://github.com/vinhuptoday/ljmess",
+  "releaseDate": 1645706640000,
+  "updateDate": 1645706640000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

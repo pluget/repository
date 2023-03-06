@@ -1,0 +1,29 @@
+{
+  "id": 89212,
+  "url": "https://www.spigotmc.org/resources/heal.89212/",
+  "name": "Heal",
+  "description": "Heal Plugin GUI funktion is now available",
+  "authors": [
+    "einkaktuslol"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/89/89212.jpg?1613721236",
+  "iconCid": "bafkreigzxjfrjmjovhno3g4dnh6miimr3zggtwufptqpjetrrhzj4o2ski",
+  "numberOfDownloads": 147,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/heal.89212/history",
+  "gitUrl": "https://workupload.com/file/HgeT9GuXcJD",
+  "releaseDate": 1613717580000,
+  "updateDate": 1643209920000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

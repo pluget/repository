@@ -1,0 +1,27 @@
+{
+  "id": 89363,
+  "url": "https://www.spigotmc.org/resources/skript-db-updated.89363/",
+  "name": "skript-db (Updated)",
+  "description": "Sensible SQL support in Skript",
+  "authors": [
+    "Govindas"
+  ],
+  "numberOfDownloads": 1285,
+  "rating": 4.6,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/skript-db-updated.89363/history",
+  "gitUrl": "https://git.limework.net/Limework/skript-db",
+  "releaseDate": 1613976480000,
+  "updateDate": 1648041660000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

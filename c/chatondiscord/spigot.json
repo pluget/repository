@@ -1,0 +1,19 @@
+{
+  "id": 100519,
+  "url": "https://www.spigotmc.org/resources/chatondiscord.100519/",
+  "name": "ChatOnDiscord",
+  "description": "Send a message to your discord server with the chat logs or if player joins or server starts.",
+  "authors": [
+    "wcaleniekubaa"
+  ],
+  "numberOfDownloads": 44,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chatondiscord.100519/history",
+  "gitUrl": "https://github.com/wcaleniekubaa/ChatOnDiscord/tree/main",
+  "releaseDate": 1646570940000,
+  "updateDate": 1646570940000,
+  "versions": [
+    "1.18"
+  ]
+}

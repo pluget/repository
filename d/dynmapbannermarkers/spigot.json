@@ -1,0 +1,22 @@
+{
+  "id": 88979,
+  "url": "https://www.spigotmc.org/resources/dynmapbannermarkers-create-markers-by-placing-named-banners.88979/",
+  "name": "DynmapBannerMarkers - Create Markers by Placing Named Banners",
+  "description": "This dynmap-addon allows you to create dynmap-markers by placing named Banners",
+  "authors": [
+    "Klausar"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88979.jpg?1613216734",
+  "iconCid": "bafkreifcautpgfntrgwl73zidwdxzf6cc5kim35yolmamffdu5oebxmake",
+  "numberOfDownloads": 669,
+  "rating": 4.2,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dynmapbannermarkers-create-markers-by-placing-named-banners.88979/history",
+  "releaseDate": 1613213100000,
+  "updateDate": 1651311900000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

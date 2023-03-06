@@ -1,0 +1,27 @@
+{
+  "id": 101293,
+  "url": "https://www.spigotmc.org/resources/random-tweaks-4-drones-testing-phase.101293/",
+  "name": "Random Tweaks 4 | Drones | Testing Phase.",
+  "description": "Very useful tools for professional SMP servers.",
+  "authors": [
+    "Larskrs"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101293.jpg?1649632202",
+  "iconCid": "bafkreigrrjvi7f5gqcaxtvzkgdzzbkwqpsvrjhglkaabt5o35ztvdia4by",
+  "numberOfDownloads": 66,
+  "rating": 1,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/random-tweaks-4-drones-testing-phase.101293/history",
+  "gitUrl": "https://github.com/Larskrs/RandomTweaks4",
+  "releaseDate": 1649628540000,
+  "updateDate": 1649852160000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

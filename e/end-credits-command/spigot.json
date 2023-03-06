@@ -1,0 +1,32 @@
+{
+  "id": 90026,
+  "url": "https://www.spigotmc.org/resources/end-credits-command.90026/",
+  "name": "End Credits command",
+  "description": "Show end credits using a command",
+  "authors": [
+    "LoneDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/90/90026.jpg?1615561467",
+  "iconCid": "bafkreiedjsj5o7ka7z35bpbs5k253oiazthebxoab74snlzgi4x2vurg2m",
+  "numberOfDownloads": 401,
+  "rating": 4,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/end-credits-command.90026/history",
+  "releaseDate": 1615557840000,
+  "updateDate": 1641813300000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

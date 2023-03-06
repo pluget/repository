@@ -1,0 +1,19 @@
+{
+  "id": 100442,
+  "url": "https://www.spigotmc.org/resources/telegramchatlogger.100442/",
+  "name": "TelegramChatLogger",
+  "description": "An handy way to log and read the ingame players messages for moderation purposes",
+  "authors": [
+    "StivenFocs"
+  ],
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/telegramchatlogger.100442/history",
+  "gitUrl": "https://github.com/StivenFocs/SpigotPlugin-TelegramChatLogger",
+  "releaseDate": 1646324640000,
+  "updateDate": 1646324640000,
+  "versions": [
+    "1.8"
+  ]
+}

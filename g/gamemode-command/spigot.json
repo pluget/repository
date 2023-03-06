@@ -1,0 +1,21 @@
+{
+  "id": 100034,
+  "url": "https://www.spigotmc.org/resources/gamemode-command-gm-0-1-2-3.100034/",
+  "name": "Gamemode Command - /gm <0,1,2,3>",
+  "description": "This Plugin is to change your or the gamemode of other Players!",
+  "authors": [
+    "MuV1N"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100034.jpg?1644959291",
+  "iconCid": "bafkreibjsxkcryicz3tljvsl6l3nujgumpp3pvcivs234oylvevb5h7pnq",
+  "numberOfDownloads": 48,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gamemode-command-gm-0-1-2-3.100034/history",
+  "gitUrl": "https://github.com/MuV1N/Gamemode_switch_Command.git",
+  "releaseDate": 1644955620000,
+  "updateDate": 1644955620000,
+  "versions": [
+    "1.18"
+  ]
+}

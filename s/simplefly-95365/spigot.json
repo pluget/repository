@@ -1,0 +1,31 @@
+{
+  "id": 95365,
+  "url": "https://www.spigotmc.org/resources/simplefly.95365/",
+  "name": "SimpleFly",
+  "description": "A simple way to fly using money!",
+  "authors": [
+    "segu23"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/95/95365.jpg?1629060767",
+  "iconCid": "bafkreidkpnvo7tfcp45gkd2rwvwrlam6vpggwav2cxk3lufcfi7p5ywbii",
+  "numberOfDownloads": 228,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplefly.95365/history",
+  "gitUrl": "https://github.com/KayTeam-Studio/SimpleFly",
+  "releaseDate": 1629057120000,
+  "updateDate": 1645569480000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

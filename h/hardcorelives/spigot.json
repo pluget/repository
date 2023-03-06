@@ -1,0 +1,24 @@
+{
+  "id": 97425,
+  "url": "https://www.spigotmc.org/resources/hardcorelives.97425/",
+  "name": "HardcoreLives",
+  "description": "This plugin allow you to make your survival server hardcore without the annoying spectator in mc",
+  "authors": [
+    "ilia_gamers."
+  ],
+  "numberOfDownloads": 145,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hardcorelives.97425/history",
+  "gitUrl": "https://github.com/GodOfProDev/HardcoreLives",
+  "releaseDate": 1636184940000,
+  "updateDate": 1647876780000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

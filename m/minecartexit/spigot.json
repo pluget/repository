@@ -1,0 +1,25 @@
+{
+  "id": 100133,
+  "url": "https://www.spigotmc.org/resources/minecartexit.100133/",
+  "name": "MinecartExit",
+  "description": "With MinecartExit you can exit a minecart while riding without the minecart driving away.",
+  "authors": [
+    "Flipper189"
+  ],
+  "numberOfDownloads": 26,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/minecartexit.100133/history",
+  "gitUrl": "https://gitlab.com/Flipper189/MinecartExit",
+  "releaseDate": 1645258500000,
+  "updateDate": 1645258500000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

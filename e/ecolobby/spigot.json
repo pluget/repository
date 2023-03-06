@@ -1,0 +1,27 @@
+{
+  "id": 101547,
+  "url": "https://www.spigotmc.org/resources/ecolobby-for-lobby-plugin.101547/",
+  "name": "EcoLobby - For lobby plugin",
+  "description": "Looking for an interesting lobby plugin? Then this is your choice!",
+  "authors": [
+    "Barabn4ik"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101547.jpg?1650559430",
+  "iconCid": "bafkreicr232n5hvb6jcdmd5l2fsl2oeoes6ljsuccgjbxkmlzocksnqmsa",
+  "numberOfDownloads": 202,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ecolobby-for-lobby-plugin.101547/history",
+  "gitUrl": "https://github.com/Baraban4ik/EcoLobby",
+  "releaseDate": 1650555780000,
+  "updateDate": 1655538840000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

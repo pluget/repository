@@ -1,0 +1,26 @@
+{
+  "id": 58944,
+  "url": "https://www.spigotmc.org/resources/deathpenalties.58944/",
+  "name": "DeathPenalties",
+  "description": "Control the penalties that are applied to players when they die (health, inventory, commands & more)",
+  "authors": [
+    "Whawhatausore"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/58/58944.jpg?1532128556",
+  "iconCid": "bafkreicmrd7njargwnhplvqlzmwrm47pdjztol3xj3mojror5mxbvhokea",
+  "numberOfDownloads": 3225,
+  "rating": 4.1,
+  "numberOfVotes": 14,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/deathpenalties.58944/history",
+  "gitUrl": "https://github.com/Whawhatausore/DeathPenalties",
+  "releaseDate": 1532124900000,
+  "updateDate": 1644611340000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

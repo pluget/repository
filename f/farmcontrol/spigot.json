@@ -1,0 +1,25 @@
+{
+  "id": 86923,
+  "url": "https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/",
+  "name": "FarmControl [1.15-1.19]",
+  "description": "A farm limiter and governor.",
+  "authors": [
+    "froobynooby"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/86/86923.jpg?1608588584",
+  "iconCid": "bafkreid46mv5k7xj5vufiuqresfxf4rtiae54uyv2yuodb3mfj7yet6ga4",
+  "numberOfDownloads": 11817,
+  "rating": 5,
+  "numberOfVotes": 22,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/history",
+  "gitUrl": "https://github.com/froobynooby/FarmControl/",
+  "releaseDate": 1677569820000,
+  "updateDate": 1677569820000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

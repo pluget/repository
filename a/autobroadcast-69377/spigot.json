@@ -1,0 +1,21 @@
+{
+  "id": 69377,
+  "url": "https://www.spigotmc.org/resources/autobroadcast.69377/",
+  "name": "AutoBroadcast",
+  "description": "Simple, asynchronous auto broadcasting system at a customizable interval",
+  "authors": [
+    "Paradaux"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/69/69377.jpg?1563206207",
+  "iconCid": "bafkreif3xmgldowrheglh3mgnfr5xhhzy7ami67fqgw7yxnkrqm72r7zii",
+  "numberOfDownloads": 6952,
+  "rating": 4.2,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/autobroadcast.69377/history",
+  "gitUrl": "https://gitlab.com/hiberniamc/autobroadcast/",
+  "releaseDate": 1563202560000,
+  "updateDate": 1646405760000,
+  "versions": [
+    "1.17"
+  ]
+}

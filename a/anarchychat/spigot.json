@@ -1,0 +1,32 @@
+{
+  "id": 100676,
+  "url": "https://www.spigotmc.org/resources/anarchychat.100676/",
+  "name": "AnarchyChat",
+  "description": "A simple chat management plugin",
+  "authors": [
+    "Toshimichi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100676.jpg?1650963298",
+  "iconCid": "bafkreihkq6mnulnhlrfw2ko6iz6vzvqaiznmm6l4zxmxltsxoadvibdvle",
+  "numberOfDownloads": 36,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/anarchychat.100676/history",
+  "gitUrl": "https://github.com/Earth2b2t/AnarchyChat",
+  "releaseDate": 1647186840000,
+  "updateDate": 1647186840000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

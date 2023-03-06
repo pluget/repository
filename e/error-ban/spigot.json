@@ -1,0 +1,21 @@
+{
+  "id": 99450,
+  "url": "https://www.spigotmc.org/resources/error-ban.99450/",
+  "name": "Error Ban",
+  "description": "A whole new spin on banning! Ban players by giving them a fake Java error when they try to connect!",
+  "authors": [
+    "DogLoverPink"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99450.jpg?1642961062",
+  "iconCid": "bafkreigvp527wpxylola6caf5gska3cwhu5jktewgpbragarjmldcurbom",
+  "numberOfDownloads": 1576,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/error-ban.99450/history",
+  "gitUrl": "https://github.com/DogLoverPink/Minecraft-Error-Ban/tree/v1.0.4",
+  "releaseDate": 1642957440000,
+  "updateDate": 1642957440000,
+  "versions": [
+    "1.18"
+  ]
+}

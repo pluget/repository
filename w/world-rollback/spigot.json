@@ -1,0 +1,27 @@
+{
+  "id": 100480,
+  "url": "https://www.spigotmc.org/resources/world-rollback.100480/",
+  "name": "World Rollback",
+  "description": "Configure worlds that shall be regenerated or rolled back to a previous version on server restart",
+  "authors": [
+    "Fabsi"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100480.jpg?1646446058",
+  "iconCid": "bafkreibe7pv5pje5qxqxg4yqs6m5jxsdyx2os3scv7t5rd5zhohuwmjeje",
+  "numberOfDownloads": 51,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/world-rollback.100480/history",
+  "gitUrl": "https://github.com/Fabsi23/World-Rollback",
+  "releaseDate": 1646442420000,
+  "updateDate": 1646442420000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

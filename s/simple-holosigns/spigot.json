@@ -1,0 +1,21 @@
+{
+  "id": 100572,
+  "url": "https://www.spigotmc.org/resources/simple-holosigns.100572/",
+  "name": "Simple Holosigns",
+  "description": "Create holographic signs using invisible armor stands with simple commands.",
+  "authors": [
+    "Aerilym"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100572.jpg?1646825468",
+  "iconCid": "bafkreif5whid2mdjyno7otrh2owqyg6x7woz4uaj66cmkpel2gu6eywlda",
+  "numberOfDownloads": 128,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simple-holosigns.100572/history",
+  "gitUrl": "https://github.com/Aerilym/SimpleHolosigns",
+  "releaseDate": 1646820600000,
+  "updateDate": 1646919360000,
+  "versions": [
+    "1.18"
+  ]
+}

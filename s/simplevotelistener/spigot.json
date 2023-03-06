@@ -1,0 +1,20 @@
+{
+  "id": 92813,
+  "url": "https://www.spigotmc.org/resources/simplevotelistener.92813/",
+  "name": "SimpleVoteListener",
+  "description": "A vote Listener without any added clunk.",
+  "authors": [
+    "SweepingLoutus"
+  ],
+  "numberOfDownloads": 152,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplevotelistener.92813/history",
+  "gitUrl": "https://github.com/SweepingLoutus/SimpleVoteListener",
+  "releaseDate": 1622297460000,
+  "updateDate": 1642381080000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

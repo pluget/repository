@@ -1,0 +1,32 @@
+{
+  "id": 101650,
+  "url": "https://www.spigotmc.org/resources/ajlb-rest.101650/",
+  "name": "ajLb REST",
+  "description": "Access leaderboards via a REST api",
+  "authors": [
+    "ajgeiss0702"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101650.jpg?1650909896",
+  "iconCid": "bafkreicv43rni452b6od7irjne2rmvhimlhcq7nqbqqcshbmacrmpe3lyy",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ajlb-rest.101650/history",
+  "gitUrl": "https://github.com/ajgeiss0702/ajLb-REST",
+  "releaseDate": 1650906240000,
+  "updateDate": 1650906240000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": 81525,
+  "url": "https://www.spigotmc.org/resources/command-blocker-1-8-1-16.81525/",
+  "name": "Command Blocker [1.8 - 1.16]",
+  "description": "Easily block commands on your server",
+  "authors": [
+    "DanIsLit"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81525.jpg?1594840270",
+  "iconCid": "bafkreigyshhn2s5mbuh2klsnhu3lfqmtygcbmk5cxc5oqkpvpmiv7elhke",
+  "numberOfDownloads": 4042,
+  "rating": 4.6,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/command-blocker-1-8-1-16.81525/history",
+  "releaseDate": 1594836660000,
+  "updateDate": 1641494100000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

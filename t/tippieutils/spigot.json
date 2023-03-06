@@ -1,0 +1,24 @@
+{
+  "id": 100573,
+  "url": "https://www.spigotmc.org/resources/tippieutils.100573/",
+  "name": "TippieUtils",
+  "description": "Utilities for Commands and GUI's",
+  "authors": [
+    "Tippie_"
+  ],
+  "numberOfDownloads": 49,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/tippieutils.100573/history",
+  "gitUrl": "https://github.com/tippieCodes/tippieutils/",
+  "releaseDate": 1646833980000,
+  "updateDate": 1650118560000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 86433,
+  "url": "https://www.spigotmc.org/resources/staff-monitor-monitors-staff-activity.86433/",
+  "name": "Staff-Monitor | Monitors staff activity",
+  "description": "The ideal plugin to monitor the activity of the staff inside the server, announcing it on discord.",
+  "authors": [
+    "Soyaxo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/86/86433.jpg?1645413778",
+  "iconCid": "bafkreielnpxuy4u7gl7a3fvyee5bs774l7qzyrzwef5eb3hk7ee6wrgbji",
+  "numberOfDownloads": 445,
+  "rating": 4.3,
+  "numberOfVotes": 15,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/staff-monitor-monitors-staff-activity.86433/history",
+  "releaseDate": 1607142660000,
+  "updateDate": 1645587360000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

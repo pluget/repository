@@ -1,0 +1,24 @@
+{
+  "id": 100110,
+  "url": "https://www.spigotmc.org/resources/2xdrops-diamond.100110/",
+  "name": "2XDrops - DIAMOND",
+  "description": "Doubles the amount of diamond ore after digging",
+  "authors": [
+    "sabekee"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100110.jpg?1645192584",
+  "iconCid": "bafkreif5cl477rj3rit2p6atoieal5i7p4h6otzs42xnjwtu3rxbjr45ky",
+  "numberOfDownloads": 41,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/2xdrops-diamond.100110/history",
+  "releaseDate": 1645171200000,
+  "updateDate": 1645171200000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

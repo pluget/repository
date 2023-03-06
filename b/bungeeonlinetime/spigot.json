@@ -1,0 +1,31 @@
+{
+  "id": 795,
+  "url": "https://www.spigotmc.org/resources/bungeeonlinetime.795/",
+  "name": "BungeeOnlineTime",
+  "description": "A very simple plugin which logs a players online time.",
+  "authors": [
+    "R3fleXi0n"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/0/795.jpg?1418482314",
+  "iconCid": "bafkreiekj3lyto6illtde4dhvdfhcbsd3uozoivryc4fe2g2udfthrmj4q",
+  "numberOfDownloads": 11657,
+  "rating": 4.1,
+  "numberOfVotes": 99,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bungeeonlinetime.795/history",
+  "gitUrl": "https://github.com/R3fleXi0n/BungeeOnlineTime",
+  "releaseDate": 1406298780000,
+  "updateDate": 1645447080000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

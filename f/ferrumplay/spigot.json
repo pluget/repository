@@ -1,0 +1,26 @@
+{
+  "id": 101835,
+  "url": "https://www.spigotmc.org/resources/ferrumplay.101835/",
+  "name": "FerrumPlay",
+  "description": "Плагин изменяющий сообщение о входе и выходе игрока",
+  "authors": [
+    "Kit545"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101835.jpg?1651836529",
+  "iconCid": "bafkreifwsbqnunepd2qylhyade7e7tnsupuujmq3u44ycbcmqxkizksrou",
+  "numberOfDownloads": 72,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ferrumplay.101835/history",
+  "releaseDate": 1651756560000,
+  "updateDate": 1653397200000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

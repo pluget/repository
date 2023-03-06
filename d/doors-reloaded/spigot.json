@@ -1,0 +1,24 @@
+{
+  "id": 91722,
+  "url": "https://www.spigotmc.org/resources/doors-reloaded.91722/",
+  "name": "Doors Reloaded",
+  "description": "Auto opens/closes double doors, lets you knock on doors, redstone support, etc.",
+  "authors": [
+    "mfnalex"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91722.jpg?1619386087",
+  "iconCid": "bafkreigctgzdfoppjaolhkhpkwysxeircacg7khlux3ezy5npsnkpu6s5y",
+  "numberOfDownloads": 8113,
+  "rating": 5,
+  "numberOfVotes": 25,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/doors-reloaded.91722/history",
+  "gitUrl": "https://github.com/JEFF-Media-GbR/Doors-Reloaded",
+  "releaseDate": 1619382420000,
+  "updateDate": 1642779780000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

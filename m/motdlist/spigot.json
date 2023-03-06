@@ -1,0 +1,31 @@
+{
+  "id": 101517,
+  "url": "https://www.spigotmc.org/resources/as-motdlist-customizable-server-motd.101517/",
+  "name": "[AS] MOTDList - Customizable Server MOTD",
+  "description": "Change the MOTD of your server and more!",
+  "authors": [
+    "iAlqjDV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101517.jpg?1650471001",
+  "iconCid": "bafkreiatplmunp5azaddlgcqhdkmvvpnzgul4jc5tmmkizxvsyjkpz6you",
+  "numberOfDownloads": 105,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/as-motdlist-customizable-server-motd.101517/history",
+  "gitUrl": "https://github.com/aquaticstudios/MOTDList",
+  "releaseDate": 1650465360000,
+  "updateDate": 1650506340000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

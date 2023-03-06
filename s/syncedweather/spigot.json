@@ -1,0 +1,26 @@
+{
+  "id": 97574,
+  "url": "https://www.spigotmc.org/resources/syncedweather.97574/",
+  "name": "SyncedWeather",
+  "description": "This plugin enables you to synchronize the time and weather of a real location with your world(s)",
+  "authors": [
+    "LuftigerLuca"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97574.jpg?1636744621",
+  "iconCid": "bafkreicopwzwhkqfpoznsicrlefegs5h74z35nqpwash4k4xnabviivtpa",
+  "numberOfDownloads": 283,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/syncedweather.97574/history",
+  "gitUrl": "https://github.com/LuftigerLuca/SyncedWeather",
+  "releaseDate": 1636737000000,
+  "updateDate": 1645912320000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

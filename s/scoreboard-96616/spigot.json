@@ -1,0 +1,30 @@
+{
+  "id": 96616,
+  "url": "https://www.spigotmc.org/resources/scoreboard.96616/",
+  "name": "Scoreboard",
+  "description": "Scoreboard plugin",
+  "authors": [
+    "Hiponacraft"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96616.jpg?1643134579",
+  "iconCid": "bafkreihbux4mwidjblba6g6tsy75juteqoztddjkrlmjg4b6uohcexfppu",
+  "numberOfDownloads": 4125,
+  "rating": 4,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/scoreboard.96616/history",
+  "releaseDate": 1633280460000,
+  "updateDate": 1647440760000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

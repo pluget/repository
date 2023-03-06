@@ -1,0 +1,27 @@
+{
+  "id": 99622,
+  "url": "https://www.spigotmc.org/resources/beta-food-advanced.99622/",
+  "name": "Beta Food Advanced",
+  "description": "Allows you to use the Beta Food System (No Hunger Bar)",
+  "authors": [
+    "Eccentrici"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99622.jpg?1643539413",
+  "iconCid": "bafkreife2fcxbsb2ajhy5ge437hh2migkdyczjabvliocuwzb6qvylqqfa",
+  "numberOfDownloads": 220,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/beta-food-advanced.99622/history",
+  "gitUrl": "https://gitlab.com/eccentrici/betafoodadvanced",
+  "releaseDate": 1643535720000,
+  "updateDate": 1649799780000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": 101349,
+  "url": "https://www.spigotmc.org/resources/serverinfo.101349/",
+  "name": "ServerInfo",
+  "description": "More info about your server!",
+  "authors": [
+    "CoolMiner_5000"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101349.jpg?1666808116",
+  "iconCid": "bafkreifeoku3ar3krpgz5tzwufs3ltrvavskuycc47wygpeuurl6hzvp3e",
+  "numberOfDownloads": 34,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/serverinfo.101349/history",
+  "gitUrl": "https://github.com/KristjanT32/serverinfo",
+  "releaseDate": 1649868180000,
+  "updateDate": 1649868180000,
+  "versions": [
+    "1.18"
+  ]
+}

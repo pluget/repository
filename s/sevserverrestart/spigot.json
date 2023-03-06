@@ -1,0 +1,21 @@
+{
+  "id": 100696,
+  "url": "https://www.spigotmc.org/resources/sevserverrestart.100696/",
+  "name": "SevServerRestart",
+  "description": "Simple server restart plugin.",
+  "authors": [
+    "dsevvv"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100696.jpg?1647390641",
+  "iconCid": "bafkreibvoz67vaw3opokv7mf6nvox7gtsawmwez2ijw7cjcpg3aet6ntjq",
+  "numberOfDownloads": 43,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sevserverrestart.100696/history",
+  "gitUrl": "https://github.com/dsevvv/SevServerRestart",
+  "releaseDate": 1647228420000,
+  "updateDate": 1647228420000,
+  "versions": [
+    "1.18"
+  ]
+}

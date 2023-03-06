@@ -1,0 +1,30 @@
+{
+  "id": 84512,
+  "url": "https://www.spigotmc.org/resources/donor-chat.84512/",
+  "name": "Donor Chat",
+  "description": "Special chat for donators, also can be configured and used like a staff chat.",
+  "authors": [
+    "ItzCodita"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/84/84512.jpg?1601958549",
+  "iconCid": "bafkreigj2vwlibao77f3ak7fj3q2wzkkxmluqjepjlyc7efku35s5t4voy",
+  "numberOfDownloads": 172,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/donor-chat.84512/history",
+  "releaseDate": 1601908380000,
+  "updateDate": 1643988840000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

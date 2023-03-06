@@ -1,0 +1,23 @@
+{
+  "id": 64289,
+  "url": "https://www.spigotmc.org/resources/adriansr-core-the-adriansr-plugins-api.64289/",
+  "name": "ADRIANSR CORE | THE ADRIANSR PLUGINS API",
+  "description": "An API plugin developed by AdrianSR. Destined to work as a useful complement.",
+  "authors": [
+    "AdrianSR"
+  ],
+  "numberOfDownloads": 1615,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/adriansr-core-the-adriansr-plugins-api.64289/history",
+  "gitUrl": "https://github.com/Isoface/AdrianSRCore",
+  "releaseDate": 1548389040000,
+  "updateDate": 1641569100000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13"
+  ]
+}

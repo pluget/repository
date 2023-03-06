@@ -1,0 +1,26 @@
+{
+  "id": 98981,
+  "url": "https://www.spigotmc.org/resources/toolwarnings.98981/",
+  "name": "ToolWarnings",
+  "description": "Warn Players when their tools break!",
+  "authors": [
+    "WarsteinerYT"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98981.jpg?1644755767",
+  "iconCid": "bafkreihvl2urohsfmy4bq6qpr4q2acqnzyao4mont4cdo2fhkftwt44cia",
+  "numberOfDownloads": 315,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/toolwarnings.98981/history",
+  "gitUrl": "https://github.com/Warsteiner37/ToolWarnings",
+  "releaseDate": 1641385620000,
+  "updateDate": 1645980840000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

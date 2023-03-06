@@ -1,0 +1,25 @@
+{
+  "id": 99521,
+  "url": "https://www.spigotmc.org/resources/banker.99521/",
+  "name": "Banker",
+  "description": "Adds a banking account system to the game.",
+  "authors": [
+    "SouprP"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99521.jpg?1643148329",
+  "iconCid": "bafkreifujv77zbdqsnr4kq2po6wv74k2n75ylwbnilyplt3aycmxpd3pfq",
+  "numberOfDownloads": 298,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/banker.99521/history",
+  "releaseDate": 1643144700000,
+  "updateDate": 1645009380000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 99505,
+  "url": "https://www.spigotmc.org/resources/vettherinspect-check-players-on-your-server.99505/",
+  "name": "VettherInspect - Check players on YOUR server!",
+  "description": "Really simple plugin that allows you to freeze players for check them (like cheats etc.)",
+  "authors": [
+    "Vetther"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99505.jpg?1643116529",
+  "iconCid": "bafkreieu3miagscdeylxcwj3lmvjo5qlmywmnbj7p535pj6xvt6cm3p4ni",
+  "numberOfDownloads": 27,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/vettherinspect-check-players-on-your-server.99505/history",
+  "gitUrl": "https://github.com/Vetther/VettherInspect",
+  "releaseDate": 1643112420000,
+  "updateDate": 1643112420000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

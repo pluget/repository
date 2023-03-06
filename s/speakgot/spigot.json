@@ -1,0 +1,26 @@
+{
+  "id": 101376,
+  "url": "https://www.spigotmc.org/resources/speakgot.101376/",
+  "name": "Speakgot",
+  "description": "Proximity voice chat, without any installation for the players",
+  "authors": [
+    "BowEnder"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101376.jpg?1649966010",
+  "iconCid": "bafkreidimifmct7bwisqcp3wrxxst6y4d4aus7d63a3zffd4dxkyzwpbiu",
+  "numberOfDownloads": 219,
+  "rating": 3,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/speakgot.101376/history",
+  "releaseDate": 1649961900000,
+  "updateDate": 1650629880000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

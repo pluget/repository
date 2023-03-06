@@ -1,0 +1,32 @@
+{
+  "id": 99197,
+  "url": "https://www.spigotmc.org/resources/kayteamapi.99197/",
+  "name": "KayTeamAPI",
+  "description": "Powerfull API for an easy plugin development.",
+  "authors": [
+    "segu23"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99197.jpg?1642172563",
+  "iconCid": "bafkreigwq4twshcy5x6yoq5gqurix2jqmzh2faxrikwaiy37ydhaacl4l4",
+  "numberOfDownloads": 134,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kayteamapi.99197/history",
+  "gitUrl": "https://github.com/KayTeam-Studio/KayTeamAPI",
+  "releaseDate": 1642168860000,
+  "updateDate": 1642177440000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

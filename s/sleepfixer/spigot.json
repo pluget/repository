@@ -1,0 +1,33 @@
+{
+  "id": 76746,
+  "url": "https://www.spigotmc.org/resources/sleepfixer-one-player-sleep.76746/",
+  "name": "SleepFixer ~ One Player Sleep",
+  "description": "[1.7-1.19] The most robust 'one-player-sleep' plugin on the platform. Local Difficulty compatible!",
+  "authors": [
+    "lokka30"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/76/76746.jpg?1632224040",
+  "iconCid": "bafkreihh5rnfxurwhipg744q7gxkilwd3lks46wnpx7i6hzgojnuwqgp7i",
+  "numberOfDownloads": 21787,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sleepfixer-one-player-sleep.76746/history",
+  "gitUrl": "https://github.com/lokka30/SleepFixer",
+  "releaseDate": 1585640340000,
+  "updateDate": 1650103080000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

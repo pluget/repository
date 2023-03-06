@@ -1,0 +1,30 @@
+{
+  "id": 100430,
+  "url": "https://www.spigotmc.org/resources/sumo.100430/",
+  "name": "Sumo",
+  "description": "Remake of minigame sumo duels",
+  "authors": [
+    "PotatoBill110"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100430.jpg?1646267813",
+  "iconCid": "bafkreidqbbwrgjzu6az5v6s7dmj35rsznyhl3omxlhput5ftl5vmc6l4rq",
+  "numberOfDownloads": 111,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sumo.100430/history",
+  "releaseDate": 1646264160000,
+  "updateDate": 1646594580000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

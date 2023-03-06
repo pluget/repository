@@ -1,0 +1,31 @@
+{
+  "id": 101631,
+  "url": "https://www.spigotmc.org/resources/salert-bungee-spigot.101631/",
+  "name": "SAlert - Bungee & Spigot",
+  "description": "A alert plugin for you Minecraft server!",
+  "authors": [
+    "SwathingBR"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101631.jpg?1650838964",
+  "iconCid": "bafkreidr2zeikuxbta3zpwva3jeugamokajcba36u3ebm4y2mxrltuyylu",
+  "numberOfDownloads": 38,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/salert-bungee-spigot.101631/history",
+  "releaseDate": 1650835320000,
+  "updateDate": 1650835320000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

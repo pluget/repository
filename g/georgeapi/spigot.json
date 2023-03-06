@@ -1,0 +1,30 @@
+{
+  "id": 100267,
+  "url": "https://www.spigotmc.org/resources/georgeapi.100267/",
+  "name": "GeorgeAPI",
+  "description": "GeorgeAPI, the finest Villager hrm user functional georging multicapacitator.",
+  "authors": [
+    "Ramell"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100267.jpg?1645669277",
+  "iconCid": "bafkreialmsqo5eagklw5uzsrlqvt4xjlxxuscyeshw4f5ifnlb6qv2fgve",
+  "numberOfDownloads": 28,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/georgeapi.100267/history",
+  "releaseDate": 1645665660000,
+  "updateDate": 1645665660000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

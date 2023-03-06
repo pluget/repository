@@ -1,0 +1,30 @@
+{
+  "id": 78831,
+  "url": "https://www.spigotmc.org/resources/2ls-hamsterapi.78831/",
+  "name": "[2LS] HamsterAPI",
+  "description": "Simple and easy to use API to read and write Packets.",
+  "authors": [
+    "Sammwy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/78/78831.jpg?1589491906",
+  "iconCid": "bafkreibgs7juvdvlldhqmwknjfutdygkoe7osret7ycgw4faxarfovtx64",
+  "numberOfDownloads": 38177,
+  "rating": 3.8,
+  "numberOfVotes": 41,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/2ls-hamsterapi.78831/history",
+  "gitUrl": "https://github.com/2lstudios-mc/hamsterapi",
+  "releaseDate": 1589488260000,
+  "updateDate": 1649963940000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

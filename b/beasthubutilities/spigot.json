@@ -1,0 +1,25 @@
+{
+  "id": 100128,
+  "url": "https://www.spigotmc.org/resources/beasthubutilities.100128/",
+  "name": "BeastHubUtilities",
+  "description": "This plugin is essential for your lobby/hub servers!",
+  "authors": [
+    "MrAxeTv"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100128.jpg?1645224279",
+  "iconCid": "bafkreicwh6op4zanf5odbnkbmhd7nsxbob6ezjjxuvp576mdgwvnac62tm",
+  "numberOfDownloads": 130,
+  "rating": 5,
+  "numberOfVotes": 5,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/beasthubutilities.100128/history",
+  "releaseDate": 1645220640000,
+  "updateDate": 1647542760000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

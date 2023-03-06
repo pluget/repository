@@ -1,0 +1,23 @@
+{
+  "id": 99462,
+  "url": "https://www.spigotmc.org/resources/leather-colorizer.99462/",
+  "name": "Leather Colorizer",
+  "description": "Change Leather Armors colors easily.",
+  "authors": [
+    "LordRazen"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99462.jpg?1642975640",
+  "iconCid": "bafkreifmrvxx2suualar7ilqd3cexkuklznikyw52ly5mhtzyaamfcqgqm",
+  "numberOfDownloads": 875,
+  "rating": 4.7,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/leather-colorizer.99462/history",
+  "gitUrl": "https://github.com/LordRazen/leather-colorizer",
+  "releaseDate": 1642972020000,
+  "updateDate": 1642972020000,
+  "versions": [
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

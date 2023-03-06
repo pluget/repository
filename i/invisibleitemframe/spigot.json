@@ -1,0 +1,23 @@
+{
+  "id": 81303,
+  "url": "https://www.spigotmc.org/resources/invisibleitemframe.81303/",
+  "name": "InvisibleItemFrame",
+  "description": "Hide or show item frame by shift clicking it ( Can open chest through )",
+  "authors": [
+    "FinGarde"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81303.jpg?1608728438",
+  "iconCid": "bafkreibarimur7wshmmmpwur7pzbqkk4ua3b4jfhrijbh3pgzajm7sgfge",
+  "numberOfDownloads": 11568,
+  "rating": 4.5,
+  "numberOfVotes": 13,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/invisibleitemframe.81303/history",
+  "gitUrl": "https://gitlab.com/fingarde/InvisibleItemFrame",
+  "releaseDate": 1594387140000,
+  "updateDate": 1644340500000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

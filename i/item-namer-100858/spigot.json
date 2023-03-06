@@ -1,0 +1,21 @@
+{
+  "id": 100858,
+  "url": "https://www.spigotmc.org/resources/item-namer.100858/",
+  "name": "Item Namer",
+  "description": "Name your items using colors and custom names",
+  "authors": [
+    "Nilskam"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100858.jpg?1647809732",
+  "iconCid": "bafkreigqxaknjdxbn5duhmbpa42k2lmsg24dhved33yj64tdf36qw4wr6i",
+  "numberOfDownloads": 81,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/item-namer.100858/history",
+  "gitUrl": "https://github.com/Nilskam178/ItemNamerPlugin",
+  "releaseDate": 1647806040000,
+  "updateDate": 1647806040000,
+  "versions": [
+    "1.18"
+  ]
+}

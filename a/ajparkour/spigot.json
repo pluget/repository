@@ -1,0 +1,33 @@
+{
+  "id": 60909,
+  "url": "https://www.spigotmc.org/resources/ajparkour-rewards-1-7-10-1-19-x-mysql-storage-option.60909/",
+  "name": "ajParkour [Rewards | 1.7.10 - 1.19.x | MySQL Storage Option]",
+  "description": "Randomly generated parkour minigame. Great for any kind of server! Jump and Run!",
+  "authors": [
+    "ajgeiss0702"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/60/60909.jpg?1646359022",
+  "iconCid": "bafkreig7sjrl3tb2dhrn26f2623azwreem6gxk2pqvvtj6cne6h4ezif2q",
+  "numberOfDownloads": 58901,
+  "rating": 4.8,
+  "numberOfVotes": 127,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ajparkour-rewards-1-7-10-1-19-x-mysql-storage-option.60909/history",
+  "gitUrl": "https://gitlab.com/ajg0702/ajparkour",
+  "releaseDate": 1537114080000,
+  "updateDate": 1642707540000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

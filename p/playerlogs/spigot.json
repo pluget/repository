@@ -1,0 +1,20 @@
+{
+  "id": 98970,
+  "url": "https://www.spigotmc.org/resources/playerlogs.98970/",
+  "name": "PlayerLogs",
+  "description": "Never be in the dark, see what your player's are up to",
+  "authors": [
+    "OMGitzFROST"
+  ],
+  "numberOfDownloads": 95,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/playerlogs.98970/history",
+  "gitUrl": "https://github.com/OMGitzFROST/PlayerLogs",
+  "releaseDate": 1641351180000,
+  "updateDate": 1643691840000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

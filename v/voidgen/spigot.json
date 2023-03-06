@@ -1,0 +1,31 @@
+{
+  "id": 25391,
+  "url": "https://www.spigotmc.org/resources/voidgen.25391/",
+  "name": "VoidGen",
+  "description": "All in one super lightweight Void World Generator",
+  "authors": [
+    "xtkq"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/25/25391.jpg?1643979224",
+  "iconCid": "bafkreihkiicxddoqxxfmyctmp6mobpvqltdf25ag726glcpqv5uzmm66xa",
+  "numberOfDownloads": 179396,
+  "rating": 4.5,
+  "numberOfVotes": 115,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/voidgen.25391/history",
+  "gitUrl": "https://github.com/xtkq-is-not-available/VoidGen",
+  "releaseDate": 1466789820000,
+  "updateDate": 1643652120000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": 99422,
+  "url": "https://www.spigotmc.org/resources/ugamemodegui-configurable-1-18-1-19-open-source.99422/",
+  "name": "uGamemodeGUI | Configurable | 1.18 - 1.19 | Open Source",
+  "description": "This plugin allows you to change your gamemode via GUI with some extra features.",
+  "authors": [
+    "Urbance"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99422.jpg?1642886292",
+  "iconCid": "bafkreigixyx4wisgmdjif6ybkk5atufbelkrlvbe53ogd6fjahcpo7t76a",
+  "numberOfDownloads": 242,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ugamemodegui-configurable-1-18-1-19-open-source.99422/history",
+  "gitUrl": "https://github.com/Urbance/uGamemodeGUI",
+  "releaseDate": 1642882620000,
+  "updateDate": 1650628020000,
+  "versions": [
+    "1.18",
+    "1.19"
+  ]
+}

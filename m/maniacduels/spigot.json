@@ -1,0 +1,25 @@
+{
+  "id": 101343,
+  "url": "https://www.spigotmc.org/resources/maniacduels.101343/",
+  "name": "ManiacDuels",
+  "description": "A complete duels plugin",
+  "authors": [
+    "salexperrucci"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101343.jpg?1649831903",
+  "iconCid": "bafkreibwksqbkdk6scvv3or6unamgo23ux7rpizkwzsnlqdknn4pvfwzzy",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/maniacduels.101343/history",
+  "gitUrl": "https://github.com/salexperrucci/ManiacDuels",
+  "releaseDate": 1649828280000,
+  "updateDate": 1649828280000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12"
+  ]
+}

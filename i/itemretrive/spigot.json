@@ -1,0 +1,30 @@
+{
+  "id": 97204,
+  "url": "https://www.spigotmc.org/resources/itemretrive.97204/",
+  "name": "ItemRetrive",
+  "description": "Saves non stackable items upon death.",
+  "authors": [
+    "User_pt"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97204.jpg?1647009266",
+  "iconCid": "bafkreidroy65po6rlkpijjgjwl4jndy3xq6ka5dmfendhlqzt4cel65wum",
+  "numberOfDownloads": 45,
+  "rating": 1.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/itemretrive.97204/history",
+  "releaseDate": 1635441180000,
+  "updateDate": 1647005580000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

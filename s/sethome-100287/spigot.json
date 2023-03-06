@@ -1,0 +1,29 @@
+{
+  "id": 100287,
+  "url": "https://www.spigotmc.org/resources/%E2%98%84%EF%B8%8F-sethome-%E2%98%84%EF%B8%8F-1-8-x-to-1-18-x-100-servers.100287/",
+  "name": "☄️ SetHome ☄️ | 1.8.X TO 1.18.X+ (100+ Servers)",
+  "description": "A lightweight plugin for players to set their home.",
+  "authors": [
+    "xnotro"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100287.jpg?1645801359",
+  "iconCid": "bafkreiabqifum2cadwv4zpik5bagekkeg6xa2vyu73x57kyjt5wqkbmyva",
+  "numberOfDownloads": 642,
+  "rating": 5,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%98%84%EF%B8%8F-sethome-%E2%98%84%EF%B8%8F-1-8-x-to-1-18-x-100-servers.100287/history",
+  "gitUrl": "https://github.com/xNotro/SetHome",
+  "releaseDate": 1645797720000,
+  "updateDate": 1645904880000,
+  "versions": [
+    "1.8",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

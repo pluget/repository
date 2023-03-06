@@ -1,0 +1,30 @@
+{
+  "id": 59352,
+  "url": "https://www.spigotmc.org/resources/duels-extension-certificates.59352/",
+  "name": "[Duels Extension] Certificates",
+  "description": "Award duel winners with a certificate item!",
+  "authors": [
+    "Realized"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/59/59352.jpg?1533626707",
+  "iconCid": "bafkreia7lwi2zpsgzi72xi5fg54ydxgg4gxdqnm6jqs3eaydpg274ks3ym",
+  "numberOfDownloads": 2626,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/duels-extension-certificates.59352/history",
+  "gitUrl": "https://github.com/Realizedd/DE-Certificates",
+  "releaseDate": 1533111420000,
+  "updateDate": 1641726600000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 83848,
+  "url": "https://www.spigotmc.org/resources/cartographer2-addon-towny.83848/",
+  "name": "[Cartographer2] [Addon] Towny",
+  "description": "Adds Towny support for Cartographer2",
+  "authors": [
+    "BananaPuncher714"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/83/83848.jpg?1600019109",
+  "iconCid": "bafkreifpkw32tgpi6atoyckyfko3cuxznnf34c3fvwkvhi5evl7j5bmmkm",
+  "numberOfDownloads": 640,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/cartographer2-addon-towny.83848/history",
+  "gitUrl": "https://github.com/BananaPuncher714/Cartographer2/tree/master/Cartographer2_ModuleTowny",
+  "releaseDate": 1600015440000,
+  "updateDate": 1647252540000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

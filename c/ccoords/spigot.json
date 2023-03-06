@@ -1,0 +1,20 @@
+{
+  "id": 85535,
+  "url": "https://www.spigotmc.org/resources/ccoords.85535/",
+  "name": "cCoords",
+  "description": "Broadcast your coordinates in chat and use small tools to improve your multiplayer survival world",
+  "authors": [
+    "spliffydan"
+  ],
+  "numberOfDownloads": 76,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ccoords.85535/history",
+  "gitUrl": "https://github.com/fendeldev/cCoords",
+  "releaseDate": 1604701380000,
+  "updateDate": 1657637640000,
+  "versions": [
+    "1.16",
+    "1.19"
+  ]
+}

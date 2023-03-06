@@ -1,0 +1,21 @@
+{
+  "id": 100626,
+  "url": "https://www.spigotmc.org/resources/spawnonjoin.100626/",
+  "name": "SpawnOnJoin",
+  "description": "Move players to spawn when they join",
+  "authors": [
+    "Professorninja"
+  ],
+  "numberOfDownloads": 50,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/spawnonjoin.100626/history",
+  "gitUrl": "https://github.com/coder0987/SpawnOnJoin",
+  "releaseDate": 1647035760000,
+  "updateDate": 1647035760000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

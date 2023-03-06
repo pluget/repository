@@ -1,0 +1,31 @@
+{
+  "id": 65805,
+  "url": "https://www.spigotmc.org/resources/%E2%8F%B3-shutdown-spigot-bungeecord.65805/",
+  "name": "⏳ ShutDown [Spigot & BungeeCord]",
+  "description": "The smartest way to stop your server",
+  "authors": [
+    "Flubi0"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/65/65805.jpg?1600789133",
+  "iconCid": "bafkreih4dpfbasu242eswmpvtnothbse5yzvqll2u5uato2moeqwgrzf3i",
+  "numberOfDownloads": 2170,
+  "rating": 4.7,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%8F%B3-shutdown-spigot-bungeecord.65805/history",
+  "releaseDate": 1553200560000,
+  "updateDate": 1649276340000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": 101485,
+  "url": "https://www.spigotmc.org/resources/texturesync.101485/",
+  "name": "TextureSync",
+  "description": "Since Durability and CustomModelData are the same.",
+  "authors": [
+    "Godslap"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101485.jpg?1650359354",
+  "iconCid": "bafkreiefhk6l6utevweyqzd4c2awjvxmzee4tbb4z4z3zxo4fopwkavlpe",
+  "numberOfDownloads": 24,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/texturesync.101485/history",
+  "releaseDate": 1650355680000,
+  "updateDate": 1650355680000,
+  "versions": [
+    "1.9",
+    "1.12",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

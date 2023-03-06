@@ -1,0 +1,31 @@
+{
+  "id": 52570,
+  "url": "https://www.spigotmc.org/resources/deprecated-dkbans-v5-bansystem-player-management-punishment-templates-mysql-h2.52570/",
+  "name": "[DEPRECATED] DKBans (V5) > BanSystem & Player Management | Punishment Templates | MySQL/H2",
+  "description": "BanSystem with a lot of features",
+  "authors": [
+    "Dkrieger"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/52/52570.jpg?1627799866",
+  "iconCid": "bafkreiemnaxbz5lmrrkl2jasvtrd23fr4wbqqd37tptrpmcwg3aep7ldw4",
+  "numberOfDownloads": 19773,
+  "rating": 4.6,
+  "numberOfVotes": 89,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/deprecated-dkbans-v5-bansystem-player-management-punishment-templates-mysql-h2.52570/history",
+  "gitUrl": "https://github.com/DevKrieger/DKBans/",
+  "releaseDate": 1517141400000,
+  "updateDate": 1649606040000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

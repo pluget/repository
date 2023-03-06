@@ -1,0 +1,23 @@
+{
+  "id": 91564,
+  "url": "https://www.spigotmc.org/resources/blockimpact.91564/",
+  "name": "BlockImpact",
+  "description": "Compressed blocks to save space",
+  "authors": [
+    "CubicAtom"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91564.jpg?1619014656",
+  "iconCid": "bafkreie7gshpzucpqdaewanqb7bnnf6moqfmhwuawxmaz26xchtz45u2ru",
+  "numberOfDownloads": 227,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/blockimpact.91564/history",
+  "releaseDate": 1619011020000,
+  "updateDate": 1646501880000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

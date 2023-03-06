@@ -1,0 +1,30 @@
+{
+  "id": 100152,
+  "url": "https://www.spigotmc.org/resources/easy-fly-plugin.100152/",
+  "name": "Easy-Fly Plugin",
+  "description": "Its an easy fly plugin.",
+  "authors": [
+    "LunniiyMC"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100152.jpg?1645357594",
+  "iconCid": "bafkreig6xjwntilzd35tjgv44gayufug3bg5fn2lluh5j6qt4a7xpdokmi",
+  "numberOfDownloads": 60,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/easy-fly-plugin.100152/history",
+  "releaseDate": 1645289100000,
+  "updateDate": 1645369800000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

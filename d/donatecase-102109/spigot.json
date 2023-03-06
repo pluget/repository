@@ -1,0 +1,24 @@
+{
+  "id": 102109,
+  "url": "https://www.spigotmc.org/resources/donatecase-1-13-1-18.102109/",
+  "name": "DonateCase 1.13-1.18",
+  "description": "DonateCase for minecraft server",
+  "authors": [
+    "MrJarousek"
+  ],
+  "numberOfDownloads": 149,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/donatecase-1-13-1-18.102109/history",
+  "gitUrl": "https://github.com/RSTeamCore/DonateCase",
+  "releaseDate": 1653083160000,
+  "updateDate": 1653083160000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

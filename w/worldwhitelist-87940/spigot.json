@@ -1,0 +1,20 @@
+{
+  "id": 87940,
+  "url": "https://www.spigotmc.org/resources/worldwhitelist.87940/",
+  "name": "WorldWhitelist",
+  "description": "Whitelist for worlds!",
+  "authors": [
+    "liltinyten"
+  ],
+  "numberOfDownloads": 586,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/worldwhitelist.87940/history",
+  "gitUrl": "https://github.com/liltinyten/worldwhitelist",
+  "releaseDate": 1610837520000,
+  "updateDate": 1648401060000,
+  "versions": [
+    "1.16",
+    "1.17"
+  ]
+}

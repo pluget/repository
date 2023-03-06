@@ -1,0 +1,22 @@
+{
+  "id": 99730,
+  "url": "https://www.spigotmc.org/resources/bselector.99730/",
+  "name": "BSelector",
+  "description": "Selecione qual servidor deseja ir 100% configurável",
+  "authors": [
+    "BriianConner"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99730.jpg?1643905722",
+  "iconCid": "bafkreibvtps3qdnehjwi5n6nbvnbxj7ino2z33ici3uzso3p2cxdwyrpne",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bselector.99730/history",
+  "gitUrl": "https://github.com/Rodr-vin/BSelector",
+  "releaseDate": 1643900520000,
+  "updateDate": 1643900520000,
+  "versions": [
+    "1.8",
+    "1.12"
+  ]
+}

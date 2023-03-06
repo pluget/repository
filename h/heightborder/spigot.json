@@ -1,0 +1,23 @@
+{
+  "id": 100576,
+  "url": "https://www.spigotmc.org/resources/heightborder.100576/",
+  "name": "HeightBorder",
+  "description": "HeightLimiter is a simple plugin to set a HeightLimit of your world. No player can walk or fly over",
+  "authors": [
+    "Batschi"
+  ],
+  "numberOfDownloads": 42,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/heightborder.100576/history",
+  "releaseDate": 1646840280000,
+  "updateDate": 1646840280000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

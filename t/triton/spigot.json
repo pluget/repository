@@ -1,0 +1,29 @@
+{
+  "id": 101795,
+  "url": "https://www.spigotmc.org/resources/triton-translate-your-server-skript-integration.101795/",
+  "name": "Triton - Translate Your Server | Skript integration",
+  "description": "Have you always wanted to use Triton syntax in skript? This skript allows you to do so.",
+  "authors": [
+    "getabbter"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101795.jpg?1651511438",
+  "iconCid": "bafkreiesf4nq5yhda3mp3jmmqaltml37jvax4idkw3albxdgmuuhbatc74",
+  "numberOfDownloads": 81,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/triton-translate-your-server-skript-integration.101795/history",
+  "releaseDate": 1651507800000,
+  "updateDate": 1651507800000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

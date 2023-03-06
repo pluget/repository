@@ -1,0 +1,25 @@
+{
+  "id": 98763,
+  "url": "https://www.spigotmc.org/resources/expbottle-withdraw-your-xp-into-bottles-1-15-1-18.98763/",
+  "name": "ExpBottle - Withdraw your XP into bottles! [1.15 - 1.18]",
+  "description": "A light-weight plugin to withdraw experience into xp bottles!",
+  "authors": [
+    "MiniGutt"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98763.jpg?1640739836",
+  "iconCid": "bafkreieatcurs4utsov3zalnay5ildsewjrdcpgtxu5ob7qrnyrggqt6fq",
+  "numberOfDownloads": 429,
+  "rating": 4.3,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/expbottle-withdraw-your-xp-into-bottles-1-15-1-18.98763/history",
+  "gitUrl": "https://github.com/SpillereNO/ExpBottle",
+  "releaseDate": 1640735280000,
+  "updateDate": 1641481380000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 98039,
+  "url": "https://www.spigotmc.org/resources/simpleskills.98039/",
+  "name": "SimpleSkills",
+  "description": "Introduces skills into the game.",
+  "authors": [
+    "DanTheTechMan"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98039.jpg?1638340373",
+  "iconCid": "bafkreibp7lls6dtzuljog7pi75outkt7vbad563cptnfr6awfwt42nmifq",
+  "numberOfDownloads": 618,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simpleskills.98039/history",
+  "gitUrl": "https://github.com/dmccoystephenson/SimpleSkills",
+  "releaseDate": 1638336480000,
+  "updateDate": 1644176460000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

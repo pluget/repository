@@ -1,0 +1,30 @@
+{
+  "id": 101683,
+  "url": "https://www.spigotmc.org/resources/ankaprotect-skript.101683/",
+  "name": "AnkaProtect [Skript]",
+  "description": "Script that includes OnlyProxyJoin and AdminPass.",
+  "authors": [
+    "Islam1705"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101683.jpg?1651069656",
+  "iconCid": "bafkreigsjhy5udl27gol7ojcfsl6osay2g33jdud4lta6w2amdxhhpdgjy",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/ankaprotect-skript.101683/history",
+  "releaseDate": 1651065960000,
+  "updateDate": 1651065960000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

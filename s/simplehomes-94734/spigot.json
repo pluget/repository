@@ -1,0 +1,31 @@
+{
+  "id": 94734,
+  "url": "https://www.spigotmc.org/resources/simplehomes-1-8-1-18-1.94734/",
+  "name": "SimpleHomes 1.8-1.18.1",
+  "description": "Create homes in your server!",
+  "authors": [
+    "SirOswaldo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94734.jpg?1627438060",
+  "iconCid": "bafkreih22ptyqc4ygut5qjbjxyjbdkb3pofomcf3c7ineb5ds3d4lmj75q",
+  "numberOfDownloads": 7072,
+  "rating": 4.9,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/simplehomes-1-8-1-18-1.94734/history",
+  "gitUrl": "https://github.com/KayTeam-Studio/SimpleHomes",
+  "releaseDate": 1627434420000,
+  "updateDate": 1645569600000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

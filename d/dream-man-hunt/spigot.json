@@ -1,0 +1,23 @@
+{
+  "id": 74199,
+  "url": "https://www.spigotmc.org/resources/dream-man-hunt.74199/",
+  "name": "Dream Man Hunt",
+  "description": "A recreation of the Assassin / Man hunt game used in some of Dream's videos",
+  "authors": [
+    "natekomodo"
+  ],
+  "numberOfDownloads": 486924,
+  "rating": 4.2,
+  "numberOfVotes": 21,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dream-man-hunt.74199/history",
+  "gitUrl": "https://github.com/NateKomodo/DreamManHunt",
+  "releaseDate": 1578745380000,
+  "updateDate": 1657468560000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

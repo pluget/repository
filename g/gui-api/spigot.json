@@ -1,0 +1,20 @@
+{
+  "id": 95468,
+  "url": "https://www.spigotmc.org/resources/gui-api.95468/",
+  "name": "GUI API",
+  "description": "API for display of visual elements in the player's screen, such as text and images",
+  "authors": [
+    "SebasSV"
+  ],
+  "numberOfDownloads": 241,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/gui-api.95468/history",
+  "gitUrl": "https://github.com/Sentropic/GUI-API",
+  "releaseDate": 1629357000000,
+  "updateDate": 1646338020000,
+  "versions": [
+    "1.16",
+    "1.17"
+  ]
+}

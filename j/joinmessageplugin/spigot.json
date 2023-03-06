@@ -1,0 +1,25 @@
+{
+  "id": 101439,
+  "url": "https://www.spigotmc.org/resources/joinmessageplugin.101439/",
+  "name": "JoinMessagePlugin",
+  "description": "Plugin for creating a welcome message when logging in to the server.",
+  "authors": [
+    "vefferon"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101439.jpg?1650203214",
+  "iconCid": "bafkreiafbuoirysx2rk6crr5uq5zqurb633nwdra55fbyuzawyvv3ou72a",
+  "numberOfDownloads": 102,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/joinmessageplugin.101439/history",
+  "gitUrl": "https://github.com/nekriS/JoinMessagePlugin",
+  "releaseDate": 1650196260000,
+  "updateDate": 1651392360000,
+  "versions": [
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

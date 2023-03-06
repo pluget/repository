@@ -1,0 +1,31 @@
+{
+  "id": 100339,
+  "url": "https://www.spigotmc.org/resources/sgamemode.100339/",
+  "name": "SGamemode",
+  "description": "A /gm plugin for you Minecraft server!",
+  "authors": [
+    "SwathingBR"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100339.jpg?1650832376",
+  "iconCid": "bafkreigitt7url5atqbcakuxpqfdwygwa7tn2lnnrr5cvd2zuwjc4h5nxq",
+  "numberOfDownloads": 28,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/sgamemode.100339/history",
+  "releaseDate": 1645963140000,
+  "updateDate": 1645963140000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": 67040,
+  "url": "https://www.spigotmc.org/resources/wailat-inspired-by-forge-waila-mod-itemsadder-compatibility.67040/",
+  "name": "Wailat - inspired by Forge WAILA mod (+ ItemsAdder compatibility)",
+  "description": "Show name of the block you're looking at, just like WAILA mod in Forge (compatible with ItemsAdder)",
+  "authors": [
+    "LoneDev"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/67/67040.jpg?1556839571",
+  "iconCid": "bafkreicdaibbto7rfyiipb4s5i7xruqu5i34vp6qk5u4fhbwrdivn5ufi4",
+  "numberOfDownloads": 5201,
+  "rating": 4.9,
+  "numberOfVotes": 12,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/wailat-inspired-by-forge-waila-mod-itemsadder-compatibility.67040/history",
+  "gitUrl": "https://github.com/LoneDev6/Wailat",
+  "releaseDate": 1556835960000,
+  "updateDate": 1641480840000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

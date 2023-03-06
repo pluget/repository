@@ -1,0 +1,28 @@
+{
+  "id": 80567,
+  "url": "https://www.spigotmc.org/resources/pistonmotd-rgb-and-1-19-support.80567/",
+  "name": "PistonMOTD | RGB and 1.19 support!",
+  "description": "Best MOTD plugin with bungee, spigot, paper, sponge and velocity support!",
+  "authors": [
+    "Pistonmaster"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80567.jpg?1601229305",
+  "iconCid": "bafkreigadobdjxcqr3thmits5rdl6qzpws5l3jesa5v75pjk6gjf74pdhe",
+  "numberOfDownloads": 9200,
+  "rating": 5,
+  "numberOfVotes": 13,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pistonmotd-rgb-and-1-19-support.80567/history",
+  "gitUrl": "https://github.com/AlexProgrammerDE/PistonMOTD",
+  "releaseDate": 1592906520000,
+  "updateDate": 1648923600000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

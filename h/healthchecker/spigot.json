@@ -1,0 +1,21 @@
+{
+  "id": 88083,
+  "url": "https://www.spigotmc.org/resources/healthchecker-requested-plugin.88083/",
+  "name": "HealthChecker | Requested Plugin",
+  "description": "View a player's health and hunger levels with a simple command!",
+  "authors": [
+    "HQcombatmaster"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88083.jpg?1611197154",
+  "iconCid": "bafkreic3fbiuz5i7fbeh2gauvvrjczfi4nesdoas4lskgfenphe2k4vepe",
+  "numberOfDownloads": 372,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/healthchecker-requested-plugin.88083/history",
+  "gitUrl": "https://github.com/Texxyy/HealthChecker",
+  "releaseDate": 1611141600000,
+  "updateDate": 1643324220000,
+  "versions": [
+    "1.8"
+  ]
+}

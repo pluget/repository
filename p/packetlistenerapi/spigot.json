@@ -1,0 +1,20 @@
+{
+  "id": 2930,
+  "url": "https://www.spigotmc.org/resources/api-packetlistenerapi.2930/",
+  "name": "[API] PacketListenerAPI",
+  "description": "Simple API to manipulate sent and received packets | compatible with all versions",
+  "authors": [
+    "inventivetalent"
+  ],
+  "numberOfDownloads": 147752,
+  "rating": 3.7,
+  "numberOfVotes": 55,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/api-packetlistenerapi.2930/history",
+  "gitUrl": "https://github.com/InventivetalentDev/PacketListenerAPI",
+  "releaseDate": 1420416180000,
+  "updateDate": 1648387740000,
+  "versions": [
+    "1.16",
+    "1.17"
+  ]
+}

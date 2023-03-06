@@ -1,0 +1,26 @@
+{
+  "id": 92490,
+  "url": "https://www.spigotmc.org/resources/whitelist-manager.92490/",
+  "name": "Whitelist Manager",
+  "description": "Whitelist-System with Onetime-Join",
+  "authors": [
+    "leTimo"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/92/92490.jpg?1621328876",
+  "iconCid": "bafkreigdrsfg6izxzkfiriplzcy3foon2j3lbhwktjvuh4s5u24xd54l54",
+  "numberOfDownloads": 180,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/whitelist-manager.92490/history",
+  "releaseDate": 1621325220000,
+  "updateDate": 1650825000000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

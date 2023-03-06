@@ -1,0 +1,21 @@
+{
+  "id": 96597,
+  "url": "https://www.spigotmc.org/resources/stat-graphs.96597/",
+  "name": "Stat Graphs",
+  "description": "The Ultimate Statistics tracking plugin",
+  "authors": [
+    "MediumDifficulty"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96597.jpg?1633186860",
+  "iconCid": "bafkreierg4pvqkqrrdnumkqbc3uq6xcpztrmqvbz4wv3d6rzk3jzaddg6m",
+  "numberOfDownloads": 111,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/stat-graphs.96597/history",
+  "gitUrl": "https://github.com/MediumDifficulty/StatGraphs",
+  "releaseDate": 1633182960000,
+  "updateDate": 1643643180000,
+  "versions": [
+    "1.18"
+  ]
+}

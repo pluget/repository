@@ -1,0 +1,21 @@
+{
+  "id": 100907,
+  "url": "https://www.spigotmc.org/resources/nopluginscommand.100907/",
+  "name": "NoPluginsCommand",
+  "description": "A lightweight permission-independent command obscurer through whitelisting.",
+  "authors": [
+    "Netherwhal"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100907.jpg?1649572295",
+  "iconCid": "bafkreifhxkneea4i3yyzgg2xvlo45xoo5vomkjehllvldkmq4lra7pp5em",
+  "numberOfDownloads": 110,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nopluginscommand.100907/history",
+  "gitUrl": "https://github.com/SimplyVanilla/NoPluginsCommand",
+  "releaseDate": 1648061100000,
+  "updateDate": 1649570100000,
+  "versions": [
+    "1.18"
+  ]
+}

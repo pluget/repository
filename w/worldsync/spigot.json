@@ -1,0 +1,21 @@
+{
+  "id": 98071,
+  "url": "https://www.spigotmc.org/resources/worldsync.98071/",
+  "name": "WorldSync",
+  "description": "Lets you sync a world's time and weather to anywhere in the real world",
+  "authors": [
+    "JannKGK"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98071.jpg?1638461270",
+  "iconCid": "bafkreiaw2kw4a3cxd32owrlknbfidrqtrlfhexkfchq5hcoh57tr756dje",
+  "numberOfDownloads": 77,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/worldsync.98071/history",
+  "releaseDate": 1638456960000,
+  "updateDate": 1642520580000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

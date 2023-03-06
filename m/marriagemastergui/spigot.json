@@ -1,0 +1,31 @@
+{
+  "id": 81436,
+  "url": "https://www.spigotmc.org/resources/marriagemastergui.81436/",
+  "name": "MarriageMasterGUI",
+  "description": "A addon of MarriageMaster with a GUI and possibility to set a church and make citizens priests",
+  "authors": [
+    "Rein-83"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/81/81436.jpg?1594657976",
+  "iconCid": "bafkreifucc5zay5suktwofpgfjiuh55kvjm375hj2h5v5r7o7s6rf624ra",
+  "numberOfDownloads": 7471,
+  "rating": 4.7,
+  "numberOfVotes": 14,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/marriagemastergui.81436/history",
+  "gitUrl": "https://github.com/Rein-Dachs/Marriage-MasterGUI-language.yml",
+  "releaseDate": 1594654260000,
+  "updateDate": 1642278900000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

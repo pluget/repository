@@ -1,0 +1,23 @@
+{
+  "id": 91585,
+  "url": "https://www.spigotmc.org/resources/kuffle-items-1-15-1-17.91585/",
+  "name": "Kuffle Items (1.15 - 1.17)",
+  "description": "Mini-Game Plugin",
+  "authors": [
+    "KosmosUniverse"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/91/91585.jpg?1619045844",
+  "iconCid": "bafkreic74pso3fhsi5nyszlhgv7owufpxhmq56szc5fy242fbpfye7m53q",
+  "numberOfDownloads": 262,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/kuffle-items-1-15-1-17.91585/history",
+  "gitUrl": "https://github.com/KosmosUniverse/KuffleItems",
+  "releaseDate": 1619040840000,
+  "updateDate": 1648388700000,
+  "versions": [
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

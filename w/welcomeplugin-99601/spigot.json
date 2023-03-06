@@ -1,0 +1,20 @@
+{
+  "id": 99601,
+  "url": "https://www.spigotmc.org/resources/welcomeplugin-mc-1-18.99601/",
+  "name": "WelcomePlugin (MC 1.18)",
+  "description": "All this does is says Welcome to whoever joins the server",
+  "authors": [
+    "Ablab"
+  ],
+  "numberOfDownloads": 131,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/welcomeplugin-mc-1-18.99601/history",
+  "gitUrl": "https://github.com/meoowe/welcomeplugin",
+  "releaseDate": 1643466360000,
+  "updateDate": 1643553660000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

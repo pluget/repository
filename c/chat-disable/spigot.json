@@ -1,0 +1,30 @@
+{
+  "id": 99877,
+  "url": "https://www.spigotmc.org/resources/chat-disable.99877/",
+  "name": "Chat Disable",
+  "description": "Disable chat in your server.",
+  "authors": [
+    "ARR4NN"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99877.jpg?1644344149",
+  "iconCid": "bafkreiasitst4ludttyliblk7swurppbxh5sgmrwlyhk4jicr75r25tcye",
+  "numberOfDownloads": 116,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chat-disable.99877/history",
+  "releaseDate": 1644340500000,
+  "updateDate": 1644340500000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

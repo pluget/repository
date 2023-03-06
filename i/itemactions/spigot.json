@@ -1,0 +1,27 @@
+{
+  "id": 88840,
+  "url": "https://www.spigotmc.org/resources/itemactions-give-items-a-new-purpose.88840/",
+  "name": "(!) ItemActions (!) Give Items a New Purpose (!)",
+  "description": "Give items a new purpose, simply.",
+  "authors": [
+    "Justugh"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/88/88840.jpg?1612885850",
+  "iconCid": "bafkreibabheejsca66lf3clusphrx34i7vonyfpqawprhwxcblenghswxa",
+  "numberOfDownloads": 179,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/itemactions-give-items-a-new-purpose.88840/history",
+  "gitUrl": "https://github.com/Justugh/ItemActions",
+  "releaseDate": 1612882200000,
+  "updateDate": 1643428740000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

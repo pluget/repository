@@ -1,0 +1,24 @@
+{
+  "id": 92209,
+  "url": "https://www.spigotmc.org/resources/protogui.92209/",
+  "name": "ProtoGUI",
+  "description": "Create GUIs that perform commands on behalf of the player",
+  "authors": [
+    "DaniFoldi"
+  ],
+  "numberOfDownloads": 337,
+  "rating": 4,
+  "numberOfVotes": 3,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/protogui.92209/history",
+  "gitUrl": "https://github.com/DaniFoldi/ProtoGUI",
+  "releaseDate": 1620590940000,
+  "updateDate": 1651910700000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

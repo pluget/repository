@@ -1,0 +1,22 @@
+{
+  "id": 98795,
+  "url": "https://www.spigotmc.org/resources/materialsstockmarket-1-17.98795/",
+  "name": "MaterialsStockMarket 1.17+",
+  "description": "A plugin that allows you to simulate 'commodity trading' on your server!",
+  "authors": [
+    "Joramk"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/98/98795.jpg?1640874147",
+  "iconCid": "bafkreicrn3no4lhqrvsgghhpnf3n3thslvmuxtuvmnj46lyn4yyhpuaz2u",
+  "numberOfDownloads": 79,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/materialsstockmarket-1-17.98795/history",
+  "gitUrl": "https://github.com/JeromeNL/MaterialsStockMarket",
+  "releaseDate": 1640869740000,
+  "updateDate": 1642973940000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

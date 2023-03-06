@@ -1,0 +1,30 @@
+{
+  "id": 99157,
+  "url": "https://www.spigotmc.org/resources/eggwars-autojoin.99157/",
+  "name": "Eggwars-AutoJoin",
+  "description": "Allows you to automatically join the Eggwars Lobby!",
+  "authors": [
+    "dev_what"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99157.jpg?1642070226",
+  "iconCid": "bafkreiflrvwefzotpxqommopcbdnbf7dvoej73ftvn7xmi2ypbw66auxhq",
+  "numberOfDownloads": 66,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/eggwars-autojoin.99157/history",
+  "releaseDate": 1642066560000,
+  "updateDate": 1642066560000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

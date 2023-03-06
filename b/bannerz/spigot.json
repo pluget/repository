@@ -1,0 +1,23 @@
+{
+  "id": 99481,
+  "url": "https://www.spigotmc.org/resources/bannerz.99481/",
+  "name": "BannerZ",
+  "description": "The ultimate banner plugin that lets you edit, store and browse banners.",
+  "authors": [
+    "AZZA470"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99481.jpg?1643043407",
+  "iconCid": "bafkreihzenwnbv2qvnw5v3ddvsqxxtdfwu6s3zr3rcydq6jqhka6gztuse",
+  "numberOfDownloads": 125,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/bannerz.99481/history",
+  "gitUrl": "https://github.com/ItsAZZA/BannerZ",
+  "releaseDate": 1643039760000,
+  "updateDate": 1643039760000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

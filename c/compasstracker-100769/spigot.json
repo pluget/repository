@@ -1,0 +1,30 @@
+{
+  "id": 100769,
+  "url": "https://www.spigotmc.org/resources/compasstracker.100769/",
+  "name": "CompassTracker",
+  "description": "A simple tracker plugin for manhunts",
+  "authors": [
+    "zinxupie"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100769.jpg?1647515597",
+  "iconCid": "bafkreidp34xn27xxewevjg3rbsannfspbpyy2fysyo2vamhxqirzvdshba",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/compasstracker.100769/history",
+  "releaseDate": 1647511980000,
+  "updateDate": 1647511980000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

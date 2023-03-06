@@ -1,0 +1,31 @@
+{
+  "id": 101794,
+  "url": "https://www.spigotmc.org/resources/writerbot-opensource-self-globally-hosted.101794/",
+  "name": "WriterBot | OpenSource | Self & Globally Hosted.",
+  "description": "A Extensive Paste-Bot for Discord.",
+  "authors": [
+    "DibyajyotiDey"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101794.jpg?1651507640",
+  "iconCid": "bafkreiaoqsfnqwtm2mvvygl42rn2232dbdd3yty5hvnk6trywunurriyza",
+  "numberOfDownloads": 51,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/writerbot-opensource-self-globally-hosted.101794/history",
+  "gitUrl": "https://github.com/MrF1yn/WriterBot#readme",
+  "releaseDate": 1652406180000,
+  "updateDate": 1652425260000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

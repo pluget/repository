@@ -1,0 +1,29 @@
+{
+  "id": 94553,
+  "url": "https://www.spigotmc.org/resources/player-list-gui.94553/",
+  "name": "Player List GUI",
+  "description": "A gui player list, shows player information as well",
+  "authors": [
+    "DinPro"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/94/94553.jpg?1626961963",
+  "iconCid": "bafkreigxthp36bqpz4quidpwegwmusrm7afkpwi3mfarc5x42bgvoobjoy",
+  "numberOfDownloads": 380,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/player-list-gui.94553/history",
+  "releaseDate": 1626958320000,
+  "updateDate": 1645562160000,
+  "versions": [
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

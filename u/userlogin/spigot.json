@@ -1,0 +1,25 @@
+{
+  "id": 80669,
+  "url": "https://www.spigotmc.org/resources/userlogin.80669/",
+  "name": "UserLogin",
+  "description": "A simple, and versatile, authentication system",
+  "authors": [
+    "ElCholoGamer"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80669.jpg?1597030203",
+  "iconCid": "bafkreif7lbxxpozcdnupyngxlnrqzevlxo2w6oegjiavimsbqxlgukfahm",
+  "numberOfDownloads": 170207,
+  "rating": 4.3,
+  "numberOfVotes": 43,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/userlogin.80669/history",
+  "gitUrl": "https://github.com/ElCholoGamer/userlogin",
+  "releaseDate": 1593093180000,
+  "updateDate": 1641690000000,
+  "versions": [
+    "1.12",
+    "1.14",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

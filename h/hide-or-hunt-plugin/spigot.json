@@ -1,0 +1,26 @@
+{
+  "id": 79307,
+  "url": "https://www.spigotmc.org/resources/hide-or-hunt-plugin.79307/",
+  "name": "Hide Or Hunt Plugin",
+  "description": "This plugin is a Re-Creation of CreepersEdge HOH series!",
+  "authors": [
+    "Latestion"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79307.jpg?1590492206",
+  "iconCid": "bafkreib253c2ew7xeyrouqyiymzbvcrqdvihgkjmt4wzishesrob5vsimy",
+  "numberOfDownloads": 7468,
+  "rating": 5,
+  "numberOfVotes": 6,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hide-or-hunt-plugin.79307/history",
+  "gitUrl": "https://github.com/Latestion/HideOrHunt-Bukkit",
+  "releaseDate": 1590488580000,
+  "updateDate": 1649830860000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

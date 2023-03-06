@@ -1,0 +1,26 @@
+{
+  "id": 79022,
+  "url": "https://www.spigotmc.org/resources/%E2%9A%A1lobby-npcs%E2%9A%A1-1-8-1-10-1-11-1-12-1-14-1-15-must-have.79022/",
+  "name": "⚡Lobby NPCs⚡ | 1.8 1.10 1.11 1.12 1.14 1.15 | MUST HAVE",
+  "description": "Add NPCs to your Lobby which sends you to subservers",
+  "authors": [
+    "keksexception"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/79/79022.jpg?1589912423",
+  "iconCid": "bafkreihxpdgjpx4edhcb222ppdy4fx2563k273vwenfqwbod7ywscvdtry",
+  "numberOfDownloads": 8326,
+  "rating": 3.9,
+  "numberOfVotes": 8,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/%E2%9A%A1lobby-npcs%E2%9A%A1-1-8-1-10-1-11-1-12-1-14-1-15-must-have.79022/history",
+  "gitUrl": "https://github.com/keksexception/LobbyNPCs/tree/master/LobbyNPCs/src",
+  "releaseDate": 1589908800000,
+  "updateDate": 1651067700000,
+  "versions": [
+    "1.8",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.14",
+    "1.15"
+  ]
+}

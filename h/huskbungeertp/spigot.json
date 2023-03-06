@@ -1,0 +1,23 @@
+{
+  "id": 96352,
+  "url": "https://www.spigotmc.org/resources/huskbungeertp-randomly-teleport-cross-server.96352/",
+  "name": "HuskBungeeRTP - Randomly teleport cross-server",
+  "description": "A random teleport system that works cross-server. Requires HuskHomes.",
+  "authors": [
+    "William27528"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96352.jpg?1632090599",
+  "iconCid": "bafkreiech5hiusstvwzzgwotw2lm6eecf6ioxn72qht6pjwlx5443e77yi",
+  "numberOfDownloads": 266,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/huskbungeertp-randomly-teleport-cross-server.96352/history",
+  "gitUrl": "https://github.com/WiIIiam278/HuskBungeeRTP",
+  "releaseDate": 1632086940000,
+  "updateDate": 1645457760000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

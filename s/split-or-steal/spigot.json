@@ -1,0 +1,23 @@
+{
+  "id": 101237,
+  "url": "https://www.spigotmc.org/resources/split-or-steal-inspired-by-the-television-show.101237/",
+  "name": "Split or Steal? - Inspired by the television show",
+  "description": "$100.000, would you split it with your friend or take it all?",
+  "authors": [
+    "ThelegendofTR"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101237.jpg?1649474532",
+  "iconCid": "bafkreihmksluxs5ogjyp57nbddhv46atsxfjftgyr5a4y3gkipcwamg32m",
+  "numberOfDownloads": 60,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/split-or-steal-inspired-by-the-television-show.101237/history",
+  "gitUrl": "https://github.com/zorbeytorunoglu/splitsteal",
+  "releaseDate": 1649470920000,
+  "updateDate": 1649762640000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": 87073,
+  "url": "https://www.spigotmc.org/resources/slogin.87073/",
+  "name": "SLogin",
+  "description": "Simple plugin for authorization",
+  "authors": [
+    "_Serafin"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/87/87073.jpg?1608910853",
+  "iconCid": "bafkreigb3cavylqxtd453geju74uovsnawsluwd72x2fvnetorzrlmxbpm",
+  "numberOfDownloads": 819,
+  "rating": 4.8,
+  "numberOfVotes": 4,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/slogin.87073/history",
+  "gitUrl": "https://github.com/Serafinowy/SLogin",
+  "releaseDate": 1608907200000,
+  "updateDate": 1650301920000,
+  "versions": [
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

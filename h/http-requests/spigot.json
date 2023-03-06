@@ -1,0 +1,27 @@
+{
+  "id": 101253,
+  "url": "https://www.spigotmc.org/resources/http-requests.101253/",
+  "name": "HTTP Requests",
+  "description": "A plugin which allows players to send HTTP POST and GET requests through an in-game command.",
+  "authors": [
+    "DNAmaster10"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101253.jpg?1655076751",
+  "iconCid": "bafkreig6nmjaxag7j2lo3ncimvo4eyf3sbd4gqkchp62apdmfbqlveg7qi",
+  "numberOfDownloads": 231,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/http-requests.101253/history",
+  "gitUrl": "https://github.com/DNAmaster10/httpRequests",
+  "releaseDate": 1649520300000,
+  "updateDate": 1657144920000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

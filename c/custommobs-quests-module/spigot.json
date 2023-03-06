@@ -1,0 +1,24 @@
+{
+  "id": 56686,
+  "url": "https://www.spigotmc.org/resources/custommobs-quests-module.56686/",
+  "name": "CustomMobs Quests Module",
+  "description": "Quests module for CustomMobs",
+  "authors": [
+    "PikaMug"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/56/56686.jpg?1613877331",
+  "iconCid": "bafkreigigyvnn3dwj4ibnsdj64m67tgygdmssvtcp6ap2iqe6r4udhpjnu",
+  "numberOfDownloads": 1050,
+  "rating": 3,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/custommobs-quests-module.56686/history",
+  "gitUrl": "https://github.com/PikaMug/CustomMobsQuestsModule",
+  "releaseDate": 1526171040000,
+  "updateDate": 1650787680000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11"
+  ]
+}

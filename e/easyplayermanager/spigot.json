@@ -1,0 +1,20 @@
+{
+  "id": 101593,
+  "url": "https://www.spigotmc.org/resources/easyplayermanager.101593/",
+  "name": "EasyPlayerManager",
+  "description": "A GUI Plugin to view and teleport to players!",
+  "authors": [
+    "JamieIsGeek"
+  ],
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/easyplayermanager.101593/history",
+  "gitUrl": "https://github.com/JamieIsGeek/EasyPlayerManagement",
+  "releaseDate": 1650724440000,
+  "updateDate": 1650724440000,
+  "versions": [
+    "1.17",
+    "1.18"
+  ]
+}

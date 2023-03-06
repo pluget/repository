@@ -1,0 +1,25 @@
+{
+  "id": 85229,
+  "url": "https://www.spigotmc.org/resources/chairsplus.85229/",
+  "name": "ChairsPlus",
+  "description": "Sit on stairs in your server!",
+  "authors": [
+    "Dutchwilco"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/85/85229.jpg?1603817760",
+  "iconCid": "bafkreicom4rjaztohlsqlky4qgucip4pbgb4kp6iq7cu7l4pmz5czcpjmy",
+  "numberOfDownloads": 21316,
+  "rating": 4.4,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/chairsplus.85229/history",
+  "gitUrl": "https://github.com/Dutchwilco/chairsplus",
+  "releaseDate": 1603814100000,
+  "updateDate": 1641934020000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17"
+  ]
+}

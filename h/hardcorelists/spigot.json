@@ -1,0 +1,27 @@
+{
+  "id": 101211,
+  "url": "https://www.spigotmc.org/resources/hardcorelists-hardcore-pvp-timers-and-player-listing.101211/",
+  "name": "HardcoreLists | Hardcore PvP timers and player listing",
+  "description": "Keep track of alive and dead players, and temporarily block PvP for new players!",
+  "authors": [
+    "Jeremaster101"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101211.jpg?1649349735",
+  "iconCid": "bafkreiawqhvybnk2enjdrslu7aefa3fquuj2kzmcghwkefw6csx6twop2m",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hardcorelists-hardcore-pvp-timers-and-player-listing.101211/history",
+  "gitUrl": "https://github.com/jeremynoesen/HardcoreLists",
+  "releaseDate": 1649346060000,
+  "updateDate": 1651159200000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

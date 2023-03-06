@@ -1,0 +1,32 @@
+{
+  "id": 99700,
+  "url": "https://www.spigotmc.org/resources/dont-look-my-plugin%E2%9C%A8.99700/",
+  "name": "Dont Look My Plugin✨",
+  "description": "AntiLook Plugins",
+  "authors": [
+    "LanternStudio"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99700.jpg?1643807054",
+  "iconCid": "bafkreihz6vsndep35dhvpn3ewvv45btaxzy7buz5hfk5sofoleynam6xiy",
+  "numberOfDownloads": 46,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/dont-look-my-plugin%E2%9C%A8.99700/history",
+  "gitUrl": "https://gitee.com/lantern-mc/plugins-command",
+  "releaseDate": 1643802900000,
+  "updateDate": 1643802900000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

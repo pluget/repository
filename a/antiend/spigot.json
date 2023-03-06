@@ -1,0 +1,26 @@
+{
+  "id": 96454,
+  "url": "https://www.spigotmc.org/resources/antiend-prevent-players-from-going-into-the-end.96454/",
+  "name": "AntiEnd | Prevent players from going into the end",
+  "description": "100% configurable | made with ❤",
+  "authors": [
+    "Exclustor"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96454.jpg?1632607092",
+  "iconCid": "bafkreif5zgm66lcbuzzxkqwsz4j5z6r2ooaceu4mgmi3legs6dwgnx5pju",
+  "numberOfDownloads": 478,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antiend-prevent-players-from-going-into-the-end.96454/history",
+  "gitUrl": "https://github.com/Exclustor/AntiEnd/tree/main",
+  "releaseDate": 1632603420000,
+  "updateDate": 1650608820000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

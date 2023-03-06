@@ -1,0 +1,22 @@
+{
+  "id": 100381,
+  "url": "https://www.spigotmc.org/resources/mcap.100381/",
+  "name": "MCAP",
+  "description": "Easy whitelist integration with Discord and improved vanilla whitelist.",
+  "authors": [
+    "stopper"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/100/100381.jpg?1646187257",
+  "iconCid": "bafkreif6owlf5ow7g2z6fxoerk232dl6kr5f3d4ubffbc7fqht4go5zhwa",
+  "numberOfDownloads": 125,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/mcap.100381/history",
+  "releaseDate": 1646113380000,
+  "updateDate": 1646648100000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

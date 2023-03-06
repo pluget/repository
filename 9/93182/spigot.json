@@ -1,0 +1,28 @@
+{
+  "id": 93182,
+  "url": "https://www.spigotmc.org/resources/jmsg-message-plugin.93182/",
+  "name": "JMSG | Message plugin",
+  "description": "Message plugin for every bungeecord",
+  "authors": [
+    "Jooppe"
+  ],
+  "numberOfDownloads": 77,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/jmsg-message-plugin.93182/history",
+  "gitUrl": "https://github.com/Jooppe/JMSG",
+  "releaseDate": 1623383880000,
+  "updateDate": 1642953960000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16"
+  ]
+}

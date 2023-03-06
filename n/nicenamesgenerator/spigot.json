@@ -1,0 +1,32 @@
+{
+  "id": 97212,
+  "url": "https://www.spigotmc.org/resources/nicenamesgenerator.97212/",
+  "name": "NiceNamesGenerator",
+  "description": "Generate nice-sounding random (and if necessary unique) names.",
+  "authors": [
+    "marcelschoen"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/97/97212.jpg?1635459600",
+  "iconCid": "bafkreihxfeqwasoqno7nvwh2cgrjsdayukejtbp42aox564zjz75a3gvhi",
+  "numberOfDownloads": 83,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/nicenamesgenerator.97212/history",
+  "gitUrl": "https://github.com/marcelschoen/NiceNamesGenerator",
+  "releaseDate": 1635455820000,
+  "updateDate": 1641849720000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18",
+    "1.19"
+  ]
+}

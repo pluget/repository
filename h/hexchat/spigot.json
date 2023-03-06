@@ -1,0 +1,23 @@
+{
+  "id": 80806,
+  "url": "https://www.spigotmc.org/resources/hexchat-allows-the-use-of-hex-colors-in-chat.80806/",
+  "name": "HexChat | Allows the use of hex colors in chat",
+  "description": "Allows the use of hex colors in chat",
+  "authors": [
+    "UnlimitedNinjas"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80806.jpg?1642284745",
+  "iconCid": "bafkreid6rbh6yh4uxrbvzurgs7uvxt247g6akqpzhbo32ynn5kepqpgu2a",
+  "numberOfDownloads": 1032,
+  "rating": 4.5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/hexchat-allows-the-use-of-hex-colors-in-chat.80806/history",
+  "gitUrl": "https://github.com/TheSilentPro/HexChat",
+  "releaseDate": 1593360720000,
+  "updateDate": 1642281060000,
+  "versions": [
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

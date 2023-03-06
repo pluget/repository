@@ -1,0 +1,30 @@
+{
+  "id": 32882,
+  "url": "https://www.spigotmc.org/resources/potion-stacker.32882/",
+  "name": "Potion Stacker",
+  "description": "Stack all potions in your inventory",
+  "authors": [
+    "v_M_v"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/32/32882.jpg?1481108013",
+  "iconCid": "bafkreif55qdf44wtp2papw56g6uuboiottshgik24lgzinnlmwx4w4nxie",
+  "numberOfDownloads": 7340,
+  "rating": 4.7,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/potion-stacker.32882/history",
+  "releaseDate": 1481104380000,
+  "updateDate": 1642414320000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

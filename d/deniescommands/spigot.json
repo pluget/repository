@@ -1,0 +1,31 @@
+{
+  "id": 99085,
+  "url": "https://www.spigotmc.org/resources/deniescommands-1-8-1-18-1.99085/",
+  "name": "DeniesCommands [1.8 - 1.18.1]",
+  "description": "Add security for the commands of your server!",
+  "authors": [
+    "iAlqjDV"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99085.jpg?1641763740",
+  "iconCid": "bafkreicciwskuq5wf67edt4jp37zrp3bmerma64u6m7ppenxtgamzwvxmq",
+  "numberOfDownloads": 38,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/deniescommands-1-8-1-18-1.99085/history",
+  "gitUrl": "https://github.com/ialqjdv/DeniesCommands",
+  "releaseDate": 1641760080000,
+  "updateDate": 1641760080000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

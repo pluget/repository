@@ -1,0 +1,32 @@
+{
+  "id": 101702,
+  "url": "https://www.spigotmc.org/resources/antispamblock.101702/",
+  "name": "AntiSpamBlock",
+  "description": "Anti spam block",
+  "authors": [
+    "Maxlego08"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/101/101702.jpg?1651130671",
+  "iconCid": "bafkreiaiybsu5ykar777tfnqtttd3xxlhbhoqnbem6aur3db2njgolafxm",
+  "numberOfDownloads": 63,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/antispamblock.101702/history",
+  "gitUrl": "https://github.com/Maxlego08/AntiSpamBlock",
+  "releaseDate": 1651127040000,
+  "updateDate": 1651127040000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

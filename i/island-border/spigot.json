@@ -1,0 +1,24 @@
+{
+  "id": 56320,
+  "url": "https://www.spigotmc.org/resources/island-border-askyblock-bentobox-uskyblock-acidisland.56320/",
+  "name": "Island Border (ASkyblock / BentoBox / uSkyBlock / AcidIsland)",
+  "description": "Per Player Border, Colored borders, Actions with cooldown, Nether/End border and Placeholders",
+  "authors": [
+    "Zandy"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/56/56320.jpg?1612542510",
+  "iconCid": "bafkreidixxpygxfyu5uv3yjlj3vlztpaulyd7aury5ufhtqvl5cavujhay",
+  "numberOfDownloads": 38336,
+  "rating": 4.4,
+  "numberOfVotes": 74,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/island-border-askyblock-bentobox-uskyblock-acidisland.56320/history",
+  "gitUrl": "https://github.com/ZandyDEV/IslandBorder",
+  "releaseDate": 1525201020000,
+  "updateDate": 1649073000000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.17",
+    "1.18"
+  ]
+}

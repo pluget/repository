@@ -1,0 +1,31 @@
+{
+  "id": 76364,
+  "url": "https://www.spigotmc.org/resources/groupmanagermysql.76364/",
+  "name": "GroupManagerMySQL",
+  "description": "Simple plugin to sync groupmanager ranks/groups across your network using MYSQL",
+  "authors": [
+    "Sandwicha"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/76/76364.jpg?1597393313",
+  "iconCid": "bafkreifysmoontoqidcuhrbe7pevq5mev4a3rlfujufrh6loglwvy3apmy",
+  "numberOfDownloads": 234,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/groupmanagermysql.76364/history",
+  "gitUrl": "https://github.com/TheGaming999/GroupManagerMySQL",
+  "releaseDate": 1584895380000,
+  "updateDate": 1646923020000,
+  "versions": [
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

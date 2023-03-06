@@ -1,0 +1,26 @@
+{
+  "id": 80533,
+  "url": "https://www.spigotmc.org/resources/pvptoggle.80533/",
+  "name": "PvPToggle",
+  "description": "Allow players to change their PvP Status to reflect whether or not they want to fight other players.",
+  "authors": [
+    "Majekdor"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/80/80533.jpg?1612480745",
+  "iconCid": "bafkreibwqmfd3727l4weizt3lis4mtqxmios6e3zz6wgh2qardwbq2iopu",
+  "numberOfDownloads": 2214,
+  "rating": 4.7,
+  "numberOfVotes": 7,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/pvptoggle.80533/history",
+  "gitUrl": "https://github.com/MajekDev/PvPToggle",
+  "releaseDate": 1592831640000,
+  "updateDate": 1641589080000,
+  "versions": [
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

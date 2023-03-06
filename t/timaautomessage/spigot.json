@@ -1,0 +1,31 @@
+{
+  "id": 99927,
+  "url": "https://www.spigotmc.org/resources/timaautomessage.99927/",
+  "name": "TimaAutoMessage",
+  "description": "The simplest plugin for automatic sending of messages!",
+  "authors": [
+    "timurroot"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/99/99927.jpg?1644569208",
+  "iconCid": "bafkreick4kxauykexaan5uq75nhojgsurr6wsipuzuqlt4754qozengvru",
+  "numberOfDownloads": 51,
+  "rating": 5,
+  "numberOfVotes": 1,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/timaautomessage.99927/history",
+  "releaseDate": 1644565560000,
+  "updateDate": 1644565560000,
+  "versions": [
+    "1.7",
+    "1.8",
+    "1.9",
+    "1.10",
+    "1.11",
+    "1.12",
+    "1.13",
+    "1.14",
+    "1.15",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}

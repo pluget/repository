@@ -1,0 +1,25 @@
+{
+  "id": 96270,
+  "url": "https://www.spigotmc.org/resources/polocloud-a-modern-cloudsystem.96270/",
+  "name": "PoloCloud - A modern CloudSystem",
+  "description": "A modern lightweight Minecraft Server Management",
+  "authors": [
+    "ThePoloCloud"
+  ],
+  "iconUrl": "https://www.spigotmc.org/data/resource_icons/96/96270.jpg?1631817017",
+  "iconCid": "bafkreia3njpmau77exukb4q72eczin53vvwih645lt5glnkgwc4rmbbdha",
+  "numberOfDownloads": 1277,
+  "rating": 3.8,
+  "numberOfVotes": 10,
+  "releasesPageUrl": "https://www.spigotmc.org/resources/polocloud-a-modern-cloudsystem.96270/history",
+  "gitUrl": "https://github.com/PoloServices/PoloCloud",
+  "releaseDate": 1631940480000,
+  "updateDate": 1648391820000,
+  "versions": [
+    "1.8",
+    "1.12",
+    "1.16",
+    "1.17",
+    "1.18"
+  ]
+}
