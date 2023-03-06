@@ -8,6 +8,10 @@ Official Website > GitHub > GitLab > BitBucket > SpigotMC > Bukkit > PaperMC
 
 Although this order can be ignored if the data is more accurate/in higher quality in a certain place.
 
+## Backwards compatibility
+
+During the development process, folders can change names without any backward compatibility. On full release (version 1.0; and in the future 2.0, 3.0) every plugin in that release will preserve backwards compatibility. That means that on name change, the original name will be a symlink to the new name. This applies to version folders as well as to the name folders. On new major release (2.0, 3.0, etc.) symlinks will be removed. 
+
 ## Database structure
 
 - `f` (first letter)
