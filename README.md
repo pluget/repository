@@ -79,6 +79,7 @@ During the development process, folders can change names without any backward co
 `versions/*/data.json` (e.g. `versions/2.0.1/data.json`)
 ```jsonc
   {
+    "name": "BETA v2.0.1", // original name, based on source of truth
     "cid": "777AAA", // optional if meta-package (like EssentialsX)
     "supportedApis": ["spigot", "paper", "glowkit"], // optional
     "dependencies": ["essentialsx-core"], // optional
@@ -91,6 +92,7 @@ During the development process, folders can change names without any backward co
 `versions/*/*.json` (e.g. `versions/2.0.1/spigot.json`, `versions/2.0.1/github.json`)
 ```jsonc
   {
+    "name": "BETA v2.0.1", // original name
     "sourceUrl": "https://spigotmc.org/resources/213769/releases/2137",
     "downloadUrl": "https://spigotmc.org/resources/213769/releases/2137/plugin.jar",
     "numberOfDownloads": 5000,
