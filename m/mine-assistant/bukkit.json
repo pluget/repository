@@ -1,0 +1,18 @@
+{
+  "id": 483364,
+  "url": "https://dev.bukkit.org/projects/mine-assistant",
+  "name": "Mine Assistant",
+  "description": "Links Home Assistant entities to Minecraft redstone blocks.",
+  "archived": false,
+  "authors": [
+    "Klikini",
+    "fastfourier666"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/383/351/637568651302899024.png",
+  "iconCid": "bafkreih55xgk723w63lsjhq47z6tx2llrieewrfbd65uzcvqbo67ggraci",
+  "numberOfDownloads": 450,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/mine-assistant/files",
+  "gitUrl": "https://gitlab.com/klikini/mineassistant/-/tree/trunk",
+  "releaseDate": 1621268330000,
+  "updateDate": 1622001563000
+}

@@ -1,0 +1,20 @@
+{
+  "id": 33184,
+  "url": "https://dev.bukkit.org/projects/vault",
+  "name": "Vault",
+  "description": "Vault is a Economy/Permission plugin for hooking into the various Economy and Permission plugins.",
+  "archived": false,
+  "authors": [
+    "Sleakes",
+    "Agnate",
+    "letsplaykain",
+    "mung3r"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/72/593/636163410991638825.png",
+  "iconCid": "bafkreibxoanwef4bs5efp5cqq337cqrfaa2xssegwwxbpzjm2kdyk4dhi4",
+  "numberOfDownloads": 7,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/vault/files",
+  "gitUrl": "http://www.github.com/milkbowl/Vault",
+  "releaseDate": 1319219788000,
+  "updateDate": 1595008427000
+}

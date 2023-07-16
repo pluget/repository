@@ -1,0 +1,17 @@
+{
+  "id": 504684,
+  "url": "https://dev.bukkit.org/projects/lifesteal-smp-plugin",
+  "name": "LifeSteal SMP Plugin",
+  "description": "A very simple plugin in where when a person is killed, their killer gets 1 heart and the killed looses 1 heart",
+  "archived": false,
+  "authors": [
+    "IkeVoodoo"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/407/55/637621328825912170.png",
+  "iconCid": "bafkreidz4adzc7eojd4fc7wmyfab5dlbutthprp5mx2salnmcvrmglxp74",
+  "numberOfDownloads": 20,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/lifesteal-smp-plugin/files",
+  "gitUrl": "https://github.com/IkeVoodoo/LSSMP",
+  "releaseDate": 1626536082000,
+  "updateDate": 1627390190000
+}

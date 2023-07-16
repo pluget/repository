@@ -1,0 +1,16 @@
+{
+  "id": 92654,
+  "url": "https://dev.bukkit.org/projects/mysql-inventory-bridge",
+  "name": "MySQL Inventory Bridge",
+  "description": "Sync your players inventory/armor over many servers using MySQL.",
+  "archived": false,
+  "authors": [
+    "brunyman"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/65/874/636163043710515933.png",
+  "iconCid": "bafkreibewre5jjfdpqjjpjnqwtllncpqjbeth5ywq4qn7fdf7zmhjcgtgy",
+  "numberOfDownloads": 5,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/mysql-inventory-bridge/files",
+  "releaseDate": 1434274656000,
+  "updateDate": 1600241674000
+}

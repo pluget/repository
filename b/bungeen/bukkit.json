@@ -1,0 +1,17 @@
+{
+  "id": 278803,
+  "url": "https://dev.bukkit.org/projects/bungeen",
+  "name": "Bungeen",
+  "description": "Bungeen is a plugin that connects to another Minecraft server by right-clicking a signboard.",
+  "archived": false,
+  "authors": [
+    "kubotan_gorogoro"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/124/125/636419467817593998.png",
+  "iconCid": "bafkreidfshzgwx7zczt4mizxqtntf6qnnvtrh7lwshaqj4rgoeygxoyr34",
+  "numberOfDownloads": 1,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/bungeen/files",
+  "gitUrl": "https://github.com/gorogoro-space/Bungeen",
+  "releaseDate": 1506367905000,
+  "updateDate": 1537078271000
+}

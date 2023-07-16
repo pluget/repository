@@ -1,0 +1,18 @@
+{
+  "id": 53694,
+  "url": "https://dev.bukkit.org/projects/nbteditor",
+  "name": "NBTEditor",
+  "description": "NBTEditor allows easy customization of entities and spawners. It also provides tools to manage other NBT related objects.",
+  "archived": false,
+  "authors": [
+    "goncalomb",
+    "_ForgeUser8580505"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/72/821/636163455856373971.png",
+  "iconCid": "bafkreiayhnqaiak2ofa4vvczratm6zczjnwwcsowa3i7ngcgpg22ynjp2m",
+  "numberOfDownloads": 237,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/nbteditor/files",
+  "gitUrl": "https://github.com/goncalomb/NBTEditor",
+  "releaseDate": 1363115751000,
+  "updateDate": 1546127019000
+}

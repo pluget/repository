@@ -1,0 +1,19 @@
+{
+  "id": 36083,
+  "url": "https://dev.bukkit.org/projects/authme-reloaded",
+  "name": "AuthMe Reloaded",
+  "description": "The most used authentication plugin for Spigot and CraftBukkit!",
+  "archived": false,
+  "authors": [
+    "Xephi59",
+    "kubecode",
+    "sgdc3"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/87/42/636212715179485380.png",
+  "iconCid": "bafkreicnevrfrvpobnbwm7ctl7jorijuonevn52rmwtcnusb7mnfjpxghu",
+  "numberOfDownloads": 2,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/authme-reloaded/files",
+  "gitUrl": "https://github.com/AuthMe/AuthMeReloaded",
+  "releaseDate": 1327751126000,
+  "updateDate": 1629580797000
+}

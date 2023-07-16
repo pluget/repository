@@ -1,0 +1,17 @@
+{
+  "id": 473083,
+  "url": "https://dev.bukkit.org/projects/clientdetection",
+  "name": "ClientDetection",
+  "description": "ClientDetection is a simple plugin to view anyone's client version and brand.",
+  "archived": true,
+  "authors": [
+    "undereducate"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/372/92/637542739874037743.png",
+  "iconCid": "bafkreidcmezh434vk42i67fd6y2vairkbixtdhtllkd6nuglvzg6ft2hcm",
+  "numberOfDownloads": 218,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/clientdetection/files",
+  "gitUrl": "https://github.com/undereducated/ClientDetection-v1",
+  "releaseDate": 1618677187000,
+  "updateDate": 1618765394000
+}

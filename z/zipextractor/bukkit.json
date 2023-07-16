@@ -1,0 +1,17 @@
+{
+  "id": 271584,
+  "url": "https://dev.bukkit.org/projects/zipextractor",
+  "name": "ZipExtractor",
+  "description": "Extract and Compress ZIP, RAR, JAR, PACK, and XZ archives through minecraft.",
+  "archived": false,
+  "authors": [
+    "DominusAventius"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/105/81/636350495704612426.png",
+  "iconCid": "bafkreia624c7xok7tlxtdyrwndyrpgvsfi4xzie2t3syiwfm56vlvcgyw4",
+  "numberOfDownloads": 1,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/zipextractor/files",
+  "gitUrl": "https://github.com/dscalzi/ZipExtractor",
+  "releaseDate": 1499470770000,
+  "updateDate": 1593218782000
+}

@@ -1,0 +1,17 @@
+{
+  "id": 674380,
+  "url": "https://dev.bukkit.org/projects/mapmodcompanion",
+  "name": "MapModCompanion",
+  "description": "Fixes Multi-world detection in multiplayer by simulating mod presence on the server side.",
+  "archived": false,
+  "authors": [
+    "turikhay"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/606/322/637984888742213505.png",
+  "iconCid": "bafkreiaorvqll3uvtpiigykwus3nxidg5gzrwl2ok4ldd4zc5gcoux3dae",
+  "numberOfDownloads": 266,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/mapmodcompanion/files",
+  "gitUrl": "https://github.com/turikhay/MapModCompanion",
+  "releaseDate": 1662846292000,
+  "updateDate": 1688494451000
+}

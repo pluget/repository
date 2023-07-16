@@ -1,0 +1,19 @@
+{
+  "id": 271240,
+  "url": "https://dev.bukkit.org/projects/uneiconfiguration",
+  "name": "UneiConfiguration",
+  "description": "Allows developpers to easily read, create and manage configurations in almost any format: YAML, JSON, NBT, SQL, CSV, raw binary and much more!",
+  "archived": true,
+  "authors": [
+    "Forge_User_80513424",
+    "au2001",
+    "JesFot"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/104/524/636346280536243943.png",
+  "iconCid": "bafkreiggg6sjvduufyakwfovmaes4pdhucxznlirhnkqrbr25nwoolalay",
+  "numberOfDownloads": 1,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/uneiconfiguration/files",
+  "gitUrl": "https://github.com/Unei/UneiConfigurationAPI",
+  "releaseDate": 1499041924000,
+  "updateDate": 1583067772000
+}

@@ -1,0 +1,17 @@
+{
+  "id": 698149,
+  "url": "https://dev.bukkit.org/projects/unloadentity",
+  "name": "unloadEntity",
+  "description": "If the specified entity exists when the chunk is unloaded, delete the entity",
+  "archived": false,
+  "authors": [
+    "malmasa"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/632/711/638033073641454223.png",
+  "iconCid": "bafkreibeqkqexp6vk7ncvkfcmtu63i2gh7ld57kd3oy53z6hv7xxa3wmri",
+  "numberOfDownloads": 39,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/unloadentity/files",
+  "gitUrl": "https://github.com/malken21/Minecraft_unloadEntity_Spigot",
+  "releaseDate": 1667710564000,
+  "updateDate": 1667710813000
+}

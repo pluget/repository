@@ -1,0 +1,17 @@
+{
+  "id": 645969,
+  "url": "https://dev.bukkit.org/projects/bukkitversion",
+  "name": "BukkitVersion",
+  "description": "Utilities for Minecraft server version info",
+  "archived": false,
+  "authors": [
+    "ssterling__"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/574/332/637936906357734043.png",
+  "iconCid": "bafkreihde2xqvacu4n3wpet4hzgbq26jypmlyexr5n6nbuk4gxxlftopie",
+  "numberOfDownloads": 133,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/bukkitversion/files",
+  "gitUrl": "https://gitlab.com/ssterling/bukkitversion",
+  "releaseDate": 1658093835000,
+  "updateDate": 1658504926000
+}

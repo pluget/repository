@@ -1,0 +1,17 @@
+{
+  "id": 591444,
+  "url": "https://dev.bukkit.org/projects/statsmc",
+  "name": "StatsMC",
+  "description": "Creates API on server, where player statistics can be accessed",
+  "archived": false,
+  "authors": [
+    "Affenmilchmann"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/506/318/637824559906867707.png",
+  "iconCid": "bafkreifs3gy42nmpnlge5mgpedybendd4vnfaftdwb3hhalfebsyyvm3su",
+  "numberOfDownloads": 136,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/statsmc/files",
+  "gitUrl": "https://github.com/Affenmilchmann/StatsMC-plugin",
+  "releaseDate": 1646859190000,
+  "updateDate": 1655659011000
+}

@@ -1,0 +1,17 @@
+{
+  "id": 549125,
+  "url": "https://dev.bukkit.org/projects/nox-plugin",
+  "name": "Nox plugin",
+  "description": "Manage MOTD of your server, create gradient messages",
+  "archived": false,
+  "authors": [
+    "marcoschaefer_"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/458/54/637731571654381042.png",
+  "iconCid": "bafkreid5gapdzqxpdozvuhaxqn5gds5g2qfvcdzzg2b2a5mh54d4b4qq6e",
+  "numberOfDownloads": 478,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/nox-plugin/files",
+  "gitUrl": "https://gitlab.com/marco.schaefer/nox-plugin",
+  "releaseDate": 1637560365000,
+  "updateDate": 1637727855000
+}

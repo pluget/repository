@@ -1,0 +1,17 @@
+{
+  "id": 48042,
+  "url": "https://dev.bukkit.org/projects/spawner",
+  "name": "Spawner",
+  "description": "Gather spawners with silk touch enchanted tools. Provides the ability to change mob types.",
+  "archived": false,
+  "authors": [
+    "ryvix"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/71/494/636163271598325114.gif",
+  "iconCid": "bafkreid4qbbavq5kslgf2s34i3d7bnvv6uv5c3ksk75j4utvlgrh4wta2q",
+  "numberOfDownloads": 171,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/spawner/files",
+  "gitUrl": "https://gitlab.com/rwr/spawner/tree/master",
+  "releaseDate": 1354567020000,
+  "updateDate": 1540400819000
+}

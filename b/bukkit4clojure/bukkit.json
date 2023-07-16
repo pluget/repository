@@ -1,0 +1,17 @@
+{
+  "id": 418251,
+  "url": "https://dev.bukkit.org/projects/bukkit4clojure",
+  "name": "Bukkit4Clojure",
+  "description": "Provides support for writing plugins in Clojure",
+  "archived": false,
+  "authors": [
+    "Kowboy45"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/311/758/637403730813991591.png",
+  "iconCid": "bafkreicvvnsobxrtkk6usalbl4fw5b7ksbohamuilcociw3b6vo2l4llxm",
+  "numberOfDownloads": 76,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/bukkit4clojure/files",
+  "gitUrl": "https://github.com/cpmcdaniel/Bukkit4Clojure",
+  "releaseDate": 1604776281000,
+  "updateDate": 1611186388000
+}

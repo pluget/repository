@@ -1,0 +1,17 @@
+{
+  "id": 835612,
+  "url": "https://dev.bukkit.org/projects/minegpt",
+  "name": "MineGPT",
+  "description": "ChatGPT minecraft integration to generate commands.",
+  "archived": false,
+  "authors": [
+    "RyanEntity"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/787/237/638139427617727646.png",
+  "iconCid": "bafkreib3w4yn7htkrl2gesoznty4rngle6wei4ybdjmcg2nycm66o5p6xe",
+  "numberOfDownloads": 49,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/minegpt/files",
+  "gitUrl": "https://github.com/AncientEntity/MineGPT",
+  "releaseDate": 1678345961000,
+  "updateDate": 1678346608000
+}

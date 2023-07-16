@@ -1,0 +1,19 @@
+{
+  "id": 68615,
+  "url": "https://dev.bukkit.org/projects/sshd",
+  "name": "SSHD",
+  "description": "Interact with the Bukkit server console using SSH",
+  "archived": false,
+  "authors": [
+    "Haarolean",
+    "deltahat2",
+    "Toxuin"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/72/138/636163338310355398.png",
+  "iconCid": "bafkreigoqpphgr4akzn2kkj74rt4w5pmks7jqsinev7ot6v7a4prujx5xu",
+  "numberOfDownloads": 3,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/sshd/files",
+  "gitUrl": "https://github.com/rmichela/Bukkit-SSHD",
+  "releaseDate": 1383767063000,
+  "updateDate": 1523651684000
+}

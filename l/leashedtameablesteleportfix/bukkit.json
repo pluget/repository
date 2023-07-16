@@ -1,0 +1,16 @@
+{
+  "id": 688305,
+  "url": "https://dev.bukkit.org/projects/leashedtameableteleportfix",
+  "name": "LeashedTameablesTeleportFix",
+  "description": "This plugin fixes a bug in minecraft that caused tameables to teleport to players despite the fact that they were leashed",
+  "archived": false,
+  "authors": [
+    "lloctupohu9l"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/621/632/638012760708668884.png",
+  "iconCid": "bafkreiavbneq3ofvk323hpnflbphe74s34mc5hqqnk2vcohy46r5r5prfm",
+  "numberOfDownloads": 26,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/leashedtameableteleportfix/files",
+  "releaseDate": 1665679270000,
+  "updateDate": 1665958143000
+}

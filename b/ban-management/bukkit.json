@@ -1,0 +1,17 @@
+{
+  "id": 41473,
+  "url": "https://dev.bukkit.org/projects/ban-management",
+  "name": "Ban Management",
+  "description": "An advanced SQL based punishment management system for your server",
+  "archived": false,
+  "authors": [
+    "realconfuser"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/74/552/636164103587322564.png",
+  "iconCid": "bafybeifp5rdzmlmy4vght6fn7v5lmatdu3fvk2wadjuzbdfxb6ingy5ewq",
+  "numberOfDownloads": 192,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/ban-management/files",
+  "gitUrl": "https://github.com/BanManagement/BanManager",
+  "releaseDate": 1341182963000,
+  "updateDate": 1663529446000
+}

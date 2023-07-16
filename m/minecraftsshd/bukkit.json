@@ -1,0 +1,17 @@
+{
+  "id": 345999,
+  "url": "https://dev.bukkit.org/projects/minecraft-sshd",
+  "name": "Minecraft-SSHD",
+  "description": "SSHD securely exposes your Spigot or BungeeCord admin console using the SSH protocol",
+  "archived": false,
+  "authors": [
+    "NotZachery",
+    "Justasic"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/230/660/637062009934784964.png",
+  "iconCid": "bafkreieamnwpd5uz46md2yrruyyvd7byocigvtffxpb4cgjf7cypdzpy54",
+  "numberOfDownloads": 384,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/minecraft-sshd/files",
+  "releaseDate": 1570473328000,
+  "updateDate": 1570955398000
+}

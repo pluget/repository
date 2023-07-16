@@ -1,0 +1,17 @@
+{
+  "id": 847077,
+  "url": "https://dev.bukkit.org/projects/bukkitrandommotd",
+  "name": "Random Message of the Day (MOTD)",
+  "description": "Randomly sends a new MOTD everytime.",
+  "archived": false,
+  "authors": [
+    "jonnyfant"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/800/569/638163923664298187.jpeg",
+  "iconCid": "bafkreiasjdps24olqq66r65mhzlfhtd3kbjzj7tw3akapza7m3kjcb5nwi",
+  "numberOfDownloads": 34,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/bukkitrandommotd/files",
+  "gitUrl": "https://github.com/JonathanHoffmann/BukkitRandomMOTD",
+  "releaseDate": 1680795566000,
+  "updateDate": 1680795673000
+}

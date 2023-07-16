@@ -1,0 +1,16 @@
+{
+  "id": 307244,
+  "url": "https://dev.bukkit.org/projects/idlogger",
+  "name": "IDLogger",
+  "description": "API for accessing and storing player UUID and Names from MySQL or SQLite DB",
+  "archived": false,
+  "authors": [
+    "TheSmeefer"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/178/840/636781437238784879.jpeg",
+  "iconCid": "bafkreigrvxnwkpqovs4yxfdpmzizee5nldugocpukhf22mhu7s2uuvcwfm",
+  "numberOfDownloads": 138,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/idlogger/files",
+  "releaseDate": 1542546923000,
+  "updateDate": 1542547773000
+}

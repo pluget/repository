@@ -1,0 +1,17 @@
+{
+  "id": 383461,
+  "url": "https://dev.bukkit.org/projects/drivebackupv2",
+  "name": "DriveBackupV2",
+  "description": "Uploads backups to Google Drive/OneDrive or by (S)FTP, now a lot easier to set up!",
+  "archived": false,
+  "authors": [
+    "MaxTheGinus"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/272/319/637250850729446954.png",
+  "iconCid": "bafkreih667zpmijwylzdhjinkqpaxrywm3tfd3z2bfngdg3hfdrj3nytg4",
+  "numberOfDownloads": 55,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/drivebackupv2/files",
+  "gitUrl": "https://github.com/MaxMaeder/DriveBackupV2",
+  "releaseDate": 1589488272000,
+  "updateDate": 1685318434000
+}

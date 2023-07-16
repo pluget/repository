@@ -1,0 +1,16 @@
+{
+  "id": 368737,
+  "url": "https://dev.bukkit.org/projects/anti-chunk-unload",
+  "name": "Anti Chunk Unload",
+  "description": "Loads pre-defined chunks on boot, keeps them in memory",
+  "archived": false,
+  "authors": [
+    "diamcraftserver"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/255/960/637203480208156559.png",
+  "iconCid": "bafkreiehbcmbtfyg6bg5srhlquhwxh27fsblgcxg7akl2p2e7vtiy6jpc4",
+  "numberOfDownloads": 496,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/anti-chunk-unload/files",
+  "releaseDate": 1584751220000,
+  "updateDate": 1585165616000
+}

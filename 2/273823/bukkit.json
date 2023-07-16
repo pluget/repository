@@ -1,0 +1,17 @@
+{
+  "id": 273823,
+  "url": "https://dev.bukkit.org/projects/multi-twitch-whitelist",
+  "name": "Multi Twitch Whitelist",
+  "description": "Allows automatic Whitelisting for Twitch Subscribers across groups of Channels",
+  "archived": false,
+  "authors": [
+    "Jaffa"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/108/810/636375212500183198.png",
+  "iconCid": "bafkreic7tjx7jhkea3yachtxylzg3mo7svmmae33dghv7rt7hkcsewn5li",
+  "numberOfDownloads": 1,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/multi-twitch-whitelist/files",
+  "gitUrl": "https://github.com/DeliciousJaffa/MultiTwitchWhitelist-plugin",
+  "releaseDate": 1501942449000,
+  "updateDate": 1502000058000
+}

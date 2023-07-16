@@ -1,0 +1,17 @@
+{
+  "id": 312037,
+  "url": "https://dev.bukkit.org/projects/handrefiller",
+  "name": "HandRefiller",
+  "description": "HandRefiller is a plugin which refills a players held when it's leaving from his hand and the user has an appropriate item in his inventory to refill with.",
+  "archived": true,
+  "authors": [
+    "Forge_User_16438505"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/187/54/636837041715035686.png",
+  "iconCid": "bafkreicljmzoel4yteaorthdvr5xct57espnqdahvrxqaoprxu5phx45we",
+  "numberOfDownloads": 528,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/handrefiller/files",
+  "gitUrl": "https://github.com/ChristopherSchoening/HandRefiller",
+  "releaseDate": 1548107371000,
+  "updateDate": 1567330610000
+}

@@ -1,0 +1,17 @@
+{
+  "id": 614322,
+  "url": "https://dev.bukkit.org/projects/restartvote",
+  "name": "RestartVote",
+  "description": "A small plugin which lets players vote if the server should restart or not",
+  "archived": false,
+  "authors": [
+    "chmodsayshello"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/535/926/637857274249087909.png",
+  "iconCid": "bafkreiesaanfpod6rmyy47mrgbbsmekwcl3acwsrcymtdco7ldgxlogtje",
+  "numberOfDownloads": 111,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/restartvote/files",
+  "gitUrl": "https://github.com/chmodsayshello/RestartVote",
+  "releaseDate": 1650130624000,
+  "updateDate": 1650131200000
+}

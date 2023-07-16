@@ -1,0 +1,17 @@
+{
+  "id": 396859,
+  "url": "https://dev.bukkit.org/projects/inventorykeeper",
+  "name": "InventoryKeeper",
+  "description": "Consume a specific item or permission to restore players' inventory and EXP.",
+  "archived": false,
+  "authors": [
+    "starchierorb"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/287/493/637308565364325397.png",
+  "iconCid": "bafkreif3mcer4aqqujycpwnyu34ldyguiwfcrytxqvdoyfz237wjxepv6y",
+  "numberOfDownloads": 1,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/inventorykeeper/files",
+  "gitUrl": "https://github.com/StarchierOrb/InventoryKeeper",
+  "releaseDate": 1595259736000,
+  "updateDate": 1629560686000
+}

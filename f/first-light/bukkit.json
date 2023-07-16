@@ -1,0 +1,17 @@
+{
+  "id": 415260,
+  "url": "https://dev.bukkit.org/projects/first-light",
+  "name": "First Light",
+  "description": "Stops the server when the last man standing quits.",
+  "archived": false,
+  "authors": [
+    "NatoBoram"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/308/427/637391753411997973.png",
+  "iconCid": "bafkreif77qdvpm6wcxe2s34srmmzx64x4js7rsnvxfeycnnlskm6viu47a",
+  "numberOfDownloads": 63,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/first-light/files",
+  "gitUrl": "https://gitlab.com/NatoBoram/FirstLight",
+  "releaseDate": 1603578541000,
+  "updateDate": 1603578899000
+}

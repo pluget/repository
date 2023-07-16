@@ -1,0 +1,16 @@
+{
+  "id": 274360,
+  "url": "https://dev.bukkit.org/projects/worldeditcrashfix",
+  "name": "WorldEditCrashFix",
+  "description": "Prevent players from using //calc and //eval commands to crash the server.",
+  "archived": false,
+  "authors": [
+    "chengzi"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/109/697/636381695277297828.png",
+  "iconCid": "bafkreiepyqgztma23b3gqtdtao4ewuzapcobwihwqxqlk5twmzl4mtl7jm",
+  "numberOfDownloads": 3,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/worldeditcrashfix/files",
+  "releaseDate": 1502590727000,
+  "updateDate": 1502590876000
+}

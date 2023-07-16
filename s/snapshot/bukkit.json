@@ -1,0 +1,17 @@
+{
+  "id": 416749,
+  "url": "https://dev.bukkit.org/projects/snapshot",
+  "name": "snapshot",
+  "description": "Manage file system snapshots in game",
+  "archived": false,
+  "authors": [
+    "papadave66"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/310/87/637397468832161072.png",
+  "iconCid": "bafkreiacy5qkuro5zwfeurswbmbkt33ledqchaqe75n2iwonvpopsd5x7i",
+  "numberOfDownloads": 140,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/snapshot/files",
+  "gitUrl": "https://sourceforge.net/p/rivoreo-mc-plugins/mc-snapshot-code/ci/master/tree/",
+  "releaseDate": 1604150083000,
+  "updateDate": 1604161864000
+}

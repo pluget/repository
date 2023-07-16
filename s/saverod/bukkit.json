@@ -1,0 +1,18 @@
+{
+  "id": 100504,
+  "url": "https://dev.bukkit.org/projects/saverod",
+  "name": "SaveRod",
+  "description": "Add a new dimension in your server by adding an item that will prevent your items from dropping on death",
+  "archived": false,
+  "authors": [
+    "mrgeneralQ",
+    "Forge_User_96557690"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/68/843/636163147620095352.png",
+  "iconCid": "bafkreibn2v56uehjf7lungj6aap2mkzz26xk25npkpj5eiuq5agyqihhwy",
+  "numberOfDownloads": 13,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/saverod/files",
+  "gitUrl": "https://github.com/mrgeneralq/SaveRod",
+  "releaseDate": 1465667473000,
+  "updateDate": 1538332646000
+}

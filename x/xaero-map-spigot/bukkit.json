@@ -1,0 +1,17 @@
+{
+  "id": 689505,
+  "url": "https://dev.bukkit.org/projects/xaero-map-spigot",
+  "name": "Xaero Map Spigot",
+  "description": "Adds server side support for Xaero's World Map and Minimap to your spigot server!",
+  "archived": false,
+  "authors": [
+    "chaws314"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/623/29/638016316803416391.png",
+  "iconCid": "bafybeiatcjwryd76fv5zaegc64ceepwcxo57ugfoqj52hdepq6t7psovaq",
+  "numberOfDownloads": 2,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/xaero-map-spigot/files",
+  "gitUrl": "https://github.com/ChristopherHaws/mc-xaero-map-spigot",
+  "releaseDate": 1666034880000,
+  "updateDate": 1666035160000
+}

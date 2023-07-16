@@ -1,0 +1,17 @@
+{
+  "id": 407239,
+  "url": "https://dev.bukkit.org/projects/time-machine",
+  "name": "Time Machine",
+  "description": "Chunk based server backup and restoring plugin",
+  "archived": false,
+  "authors": [
+    "zwarunek"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/299/263/637352688677730360.png",
+  "iconCid": "bafkreiclbztfapub7ujakyo44w6hvdnyhblis5gf6wuajjv6pr4z6cgqvi",
+  "numberOfDownloads": 712,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/time-machine/files",
+  "gitUrl": "https://github.com/zwarunek/TimeMachine",
+  "releaseDate": 1599672067000,
+  "updateDate": 1605046788000
+}

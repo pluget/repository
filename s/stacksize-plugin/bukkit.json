@@ -1,0 +1,17 @@
+{
+  "id": 342562,
+  "url": "https://dev.bukkit.org/projects/stack",
+  "name": "Stacksize Plugin",
+  "description": "Modify the maximum stack sizes of items.",
+  "archived": false,
+  "authors": [
+    "tormbav"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/226/747/637046934414788589.png",
+  "iconCid": "bafkreibih6op5z4ijlmd7xoawc5eqcrfyyzj3y7vtqybsa7dhk5xf3as74",
+  "numberOfDownloads": 3,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/stack/files",
+  "gitUrl": "https://github.com/Torm/Stacksize",
+  "releaseDate": 1569088454000,
+  "updateDate": 1579040425000
+}

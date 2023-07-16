@@ -1,0 +1,17 @@
+{
+  "id": 342019,
+  "url": "https://dev.bukkit.org/projects/chunkmaster",
+  "name": "Chunkmaster",
+  "description": "A chunk pregeneration plugin for Spigot (and paper) servers.",
+  "archived": true,
+  "authors": [
+    "Forge_User_09508009"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/226/118/637043418134856540.png",
+  "iconCid": "bafkreifk3nsjy3imqmmrl3xxxrf6wxx53ipqgtoylvkhykk72aoz62we7m",
+  "numberOfDownloads": 5,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/chunkmaster/files",
+  "gitUrl": "https://github.com/Trivernis/spigot-chunkmaster",
+  "releaseDate": 1568745013000,
+  "updateDate": 1595783796000
+}

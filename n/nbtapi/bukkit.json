@@ -1,0 +1,17 @@
+{
+  "id": 426833,
+  "url": "https://dev.bukkit.org/projects/nbt-api",
+  "name": "NBT-API",
+  "description": "Add custom NBT tags or modify tags of Items/Entities/Tiles without NMS!",
+  "archived": false,
+  "authors": [
+    "tr7zw"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/491/39/637799363940312127.png",
+  "iconCid": "bafkreieedojm74wveuwzyxtlpxlcikpjnpalrgesbnfnvtjwru34gf42v4",
+  "numberOfDownloads": 105,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/nbt-api/files",
+  "gitUrl": "https://github.com/tr7zw/Item-NBT-API",
+  "releaseDate": 1607457787000,
+  "updateDate": 1686163589000
+}

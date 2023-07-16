@@ -1,0 +1,17 @@
+{
+  "id": 636957,
+  "url": "https://dev.bukkit.org/projects/antichatreport",
+  "name": "AntiChatReport",
+  "description": "This plugin makes the clients believe that chat messages are not from players.",
+  "archived": false,
+  "authors": [
+    "chmodsayshello"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/563/52/637917696196552598.png",
+  "iconCid": "bafkreidmkbwtnlle3gd27beukbnkwgrk66ftp46u2eic5hfbevbuxoep3u",
+  "numberOfDownloads": 111,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/antichatreport/files",
+  "gitUrl": "https://github.com/chmodsayshello/AntiChatReport",
+  "releaseDate": 1656172819000,
+  "updateDate": 1656172931000
+}

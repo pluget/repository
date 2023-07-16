@@ -1,0 +1,22 @@
+{
+  "id": 31043,
+  "url": "https://dev.bukkit.org/projects/worldedit",
+  "name": "WorldEdit for Bukkit",
+  "description": " WorldEdit is an in-game map editor for both creative and survival",
+  "archived": false,
+  "authors": [
+    "sk89q",
+    "Forge_User_84940863",
+    "me4502",
+    "octylFractal",
+    "wizjany_",
+    "zmlaoeu"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/308/39/637390518902846753.png",
+  "iconCid": "bafkreieuvie2fgg4lnhpbnylydwbi66mirw5tz3tlbxmd5pg3f36ijjuwa",
+  "numberOfDownloads": 20,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/worldedit/files",
+  "gitUrl": "https://github.com/EngineHub/WorldEdit",
+  "releaseDate": 1314232481000,
+  "updateDate": 1686733868000
+}

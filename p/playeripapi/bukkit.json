@@ -1,0 +1,17 @@
+{
+  "id": 295829,
+  "url": "https://dev.bukkit.org/projects/playeripapi",
+  "name": "PlayerIPAPI",
+  "description": "Plugin that logs player/IP combos and allows for a nice developer API to easily retrieve that data",
+  "archived": false,
+  "authors": [
+    "egg82"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/157/186/636643890031415513.png",
+  "iconCid": "bafkreigrc65soozzrersio5qepazaqpraapameg6mebjr74n4vlxdwglnu",
+  "numberOfDownloads": 1,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/playeripapi/files",
+  "gitUrl": "https://github.com/egg82/PlayerIPAPI",
+  "releaseDate": 1528792203000,
+  "updateDate": 1532496107000
+}

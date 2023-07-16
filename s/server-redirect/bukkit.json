@@ -1,0 +1,17 @@
+{
+  "id": 569869,
+  "url": "https://dev.bukkit.org/projects/server-redirect",
+  "name": "Server Redirect",
+  "description": "This plugin provides a lightweight way for servers to transfer players using the Server Redirect mod to another server address",
+  "archived": false,
+  "authors": [
+    "KaiNoMood"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/482/382/637780929377924149.png",
+  "iconCid": "bafkreiaubx4xmjrdnzmpw6pspxvldbcdzclyyezffl2cztnm4pmpiy4pra",
+  "numberOfDownloads": 566,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/server-redirect/files",
+  "gitUrl": "https://github.com/KaiKikuchi/ServerRedirect",
+  "releaseDate": 1642496137000,
+  "updateDate": 1643199479000
+}

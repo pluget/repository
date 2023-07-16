@@ -1,0 +1,17 @@
+{
+  "id": 432386,
+  "url": "https://dev.bukkit.org/projects/oplogger",
+  "name": "OPlogger",
+  "description": "A very simple Spigot plugin that records commands executed by ops and reports them to a Discord webhook",
+  "archived": false,
+  "authors": [
+    "SimplyCmd"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/327/508/637449605019335121.png",
+  "iconCid": "bafkreihmmyefssq2pw22tqs37ucrpzjgxgndodrlzawwpwi6gvzgrz6aia",
+  "numberOfDownloads": 278,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/oplogger/files",
+  "gitUrl": "https://github.com/SimplyCmd/OPlogger",
+  "releaseDate": 1609363701000,
+  "updateDate": 1609956986000
+}

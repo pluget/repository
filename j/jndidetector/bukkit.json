@@ -1,0 +1,17 @@
+{
+  "id": 557299,
+  "url": "https://dev.bukkit.org/projects/jndidetector",
+  "name": "JNDIDetector",
+  "description": "Standalone detector/mitigator for the Log4J JNDI exploit, with configurable options for console logging, player messaging, and command execution on dete...",
+  "archived": false,
+  "authors": [
+    "JellyCG"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/468/215/637751279117147971.png",
+  "iconCid": "bafkreigvjteknoy7ihspn2vmrbt2fjcmxxl4ufxugvixvm2blj2edmfsc4",
+  "numberOfDownloads": 133,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/jndidetector/files",
+  "gitUrl": "https://github.com/SuperslowJelly/JNDIDetector",
+  "releaseDate": 1639531111000,
+  "updateDate": 1639531280000
+}

@@ -1,0 +1,17 @@
+{
+  "id": 358319,
+  "url": "https://dev.bukkit.org/projects/bookfinder",
+  "name": "Bookfinder",
+  "description": "Finds a enchanted book stored in current chunk's chests.",
+  "archived": false,
+  "authors": [
+    "coreequip"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/244/281/637144501377349763.png",
+  "iconCid": "bafkreihrhs2juizjma7rpkqon23xmlygcnnfb6xopw7yxcrrh3w5rufcua",
+  "numberOfDownloads": 219,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/bookfinder/files",
+  "gitUrl": "https://github.com/coreequip/spigot-bookfinder",
+  "releaseDate": 1578853337000,
+  "updateDate": 1674145039000
+}

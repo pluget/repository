@@ -1,0 +1,17 @@
+{
+  "id": 309099,
+  "url": "https://dev.bukkit.org/projects/charon",
+  "name": "Charon",
+  "description": "Minecraft server side plugin that provides ability to track players PVP statistics and save it to CSV file",
+  "archived": false,
+  "authors": [
+    "invictum182"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/182/114/636805269387703472.png",
+  "iconCid": "bafkreif3aykgxwyyujnujcjadxvh4y7l7q2c43tas5lbobkyjg4xoukzfi",
+  "numberOfDownloads": 311,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/charon/files",
+  "gitUrl": "https://github.com/Invictum/charon",
+  "releaseDate": 1544930138000,
+  "updateDate": 1559605535000
+}

@@ -1,0 +1,16 @@
+{
+  "id": 310570,
+  "url": "https://dev.bukkit.org/projects/playersync",
+  "name": "PlayerSync",
+  "description": "Synchronizes the playerdata across servers via MySQL",
+  "archived": false,
+  "authors": [
+    "henkelmax"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/184/592/636822302138137024.png",
+  "iconCid": "bafkreia7quix67kftputslwhs2zyb7hxalzt6jsmrpmzeehxi4jj5auoem",
+  "numberOfDownloads": 282,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/playersync/files",
+  "releaseDate": 1546633413000,
+  "updateDate": 1549719661000
+}

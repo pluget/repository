@@ -1,0 +1,17 @@
+{
+  "id": 623222,
+  "url": "https://dev.bukkit.org/projects/gravity-control",
+  "name": "GravityControl - Sand Dupe Enabler for Paper Servers",
+  "description": "Paper plugin to enable sand duping. WorldGuard integration, configurable per-world per-block.",
+  "archived": false,
+  "authors": [
+    "eimcca"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/546/156/637880984202442936.png",
+  "iconCid": "bafkreiga3qhcw5j7e7pgnaztiazloob3xaq6ykfvojdjk4lkupcnh4udja",
+  "numberOfDownloads": 5,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/gravity-control/files",
+  "gitUrl": "https://github.com/sulu5890/GravityControl",
+  "releaseDate": 1652501620000,
+  "updateDate": 1652508631000
+}

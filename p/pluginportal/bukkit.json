@@ -1,0 +1,17 @@
+{
+  "id": 854344,
+  "url": "https://dev.bukkit.org/projects/pluginportal",
+  "name": "PluginPortal",
+  "description": "In-game plugin downloader and updater using the SpigotMC marketplace.",
+  "archived": false,
+  "authors": [
+    "zestarrbtw"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/809/131/638179713067399625.png",
+  "iconCid": "bafkreidyd3dsca3u4dyuazs53snwajgqpwu2rtq7tyxlykbdtxk3p7o6z4",
+  "numberOfDownloads": 79,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/pluginportal/files",
+  "gitUrl": "https://github.com/portal-box/plugin-portal",
+  "releaseDate": 1682374506000,
+  "updateDate": 1683341434000
+}

@@ -1,0 +1,17 @@
+{
+  "id": 259718,
+  "url": "https://dev.bukkit.org/projects/prometheus-exporter",
+  "name": "Prometheus Exporter",
+  "description": "Exports server stats to Prometheus",
+  "archived": true,
+  "authors": [
+    "Forge_User_01911128"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/88/238/636222487855731513.jpeg",
+  "iconCid": "bafkreidfkzac5zsdo6rosdgzkpfkz5rrnra27boiljnrzgjpjfb25n4uoi",
+  "numberOfDownloads": 867,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/prometheus-exporter/files",
+  "gitUrl": "https://github.com/sladkoff/minecraft-prometheus-exporter",
+  "releaseDate": 1486669522000,
+  "updateDate": 1589646937000
+}

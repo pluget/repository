@@ -1,0 +1,17 @@
+{
+  "id": 370950,
+  "url": "https://dev.bukkit.org/projects/memoryviewer",
+  "name": "MemoryViewer",
+  "description": "Memory Usage Viewer for Bukkit, Spigot and PaperMC",
+  "archived": false,
+  "authors": [
+    "Philipp_IRL"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/258/321/637207723009411096.png",
+  "iconCid": "bafkreiezj2wtujevskv55kye4riudn45t4jmwfmbkhgqqn4ntr2z2k364a",
+  "numberOfDownloads": 550,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/memoryviewer/files",
+  "gitUrl": "https://gitlab.com/PhilippIRL/memory-plugin",
+  "releaseDate": 1585175285000,
+  "updateDate": 1585304642000
+}

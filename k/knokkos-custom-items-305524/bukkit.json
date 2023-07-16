@@ -1,0 +1,19 @@
+{
+  "id": 305524,
+  "url": "https://dev.bukkit.org/projects/custom-items-and-textures",
+  "name": "Knokko's Custom Items",
+  "description": "A plug-in that allows server owners/developers to create custom items with their own textures",
+  "archived": false,
+  "authors": [
+    "knokko",
+    "knokko2",
+    "TechWizzart"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/332/853/637464705406050722.png",
+  "iconCid": "bafybeibbhnidmbaca5zgcfgxqv6dpwpnibbjylqzr4fwfg7x47ayt6ssim",
+  "numberOfDownloads": 42,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/custom-items-and-textures/files",
+  "gitUrl": "https://github.com/knokko/custom-items-gradle",
+  "releaseDate": 1540407507000,
+  "updateDate": 1684683946000
+}

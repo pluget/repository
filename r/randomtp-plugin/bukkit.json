@@ -1,0 +1,17 @@
+{
+  "id": 334034,
+  "url": "https://dev.bukkit.org/projects/randomteleport-plugin",
+  "name": "RandomTP Plugin",
+  "description": "Allows a player to teleport to a random location within a set minimum and maximum from a set world to another using /rtp and many other aliases.",
+  "archived": false,
+  "authors": [
+    "aurilisdev"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/217/332/637006503430468889.png",
+  "iconCid": "bafkreig2tsgb3banqcktdn67irptnvog7jt3mfoebn3qv4ephyoxwxv5b4",
+  "numberOfDownloads": 18,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/randomteleport-plugin/files",
+  "gitUrl": "https://github.com/Aurilisdev/RandomTP-Plugin",
+  "releaseDate": 1565053543000,
+  "updateDate": 1565053706000
+}

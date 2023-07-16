@@ -1,0 +1,17 @@
+{
+  "id": 541324,
+  "url": "https://dev.bukkit.org/projects/loot-fountain",
+  "name": "Loot Fountain",
+  "description": "A Plugin that allows developers to create \"Fountains\" within their world that drop items at set intervals based on customizable loottables.",
+  "archived": true,
+  "authors": [
+    "sevenskillz"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/449/63/637707872762223288.png",
+  "iconCid": "bafkreigr2n42z7tn6wgrcpiwzb2uvdvgsbuwnjk3zy5prvujigba2vvymq",
+  "numberOfDownloads": 46,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/loot-fountain/files",
+  "gitUrl": "https://github.com/jacobh300/LootFountain",
+  "releaseDate": 1635190476000,
+  "updateDate": 1635192156000
+}

@@ -1,0 +1,17 @@
+{
+  "id": 430681,
+  "url": "https://dev.bukkit.org/projects/serverinfo-mysql",
+  "name": "ServerInfo - Server information to MySQL",
+  "description": "Papermc plugin which sends server information(CPU usage, RAM usage, Errors, Exceptions, etc.) to MySQL Server",
+  "archived": false,
+  "authors": [
+    "kms1212t"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/325/558/637443415121501306.png",
+  "iconCid": "bafybeicm6sgsig3527eghr5cijq4ooua7sjhpkatnoojdooehcqxv4wu5a",
+  "numberOfDownloads": 214,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/serverinfo-mysql/files",
+  "gitUrl": "https://github.com/kms1212/ServerInfo",
+  "releaseDate": 1608744712000,
+  "updateDate": 1609300107000
+}

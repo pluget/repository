@@ -1,0 +1,17 @@
+{
+  "id": 436053,
+  "url": "https://dev.bukkit.org/projects/zstats",
+  "name": "Zstats",
+  "description": "A plugin to record players statistics to MySQL database",
+  "archived": false,
+  "authors": [
+    "zerrium"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/331/642/637461108211702967.png",
+  "iconCid": "bafkreia56mxeic5iqafb56zucrc2ocysexfj45wwlgw3oc6lbjmnvda76q",
+  "numberOfDownloads": 639,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/zstats/files",
+  "gitUrl": "https://github.com/zerrium/zstats",
+  "releaseDate": 1610514021000,
+  "updateDate": 1680929750000
+}

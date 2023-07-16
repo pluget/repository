@@ -1,0 +1,17 @@
+{
+  "id": 299805,
+  "url": "https://dev.bukkit.org/projects/server-status",
+  "name": "Server Status Viewer",
+  "description": "This is a simple Plugin which shows diffrent Information about your Server",
+  "archived": false,
+  "authors": [
+    "funky33"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/164/715/636688288501438863.png",
+  "iconCid": "bafkreiafn74mvguzuwpjxgiihsdufhkffdqzjyhhrpawwi6pt4as3qqoni",
+  "numberOfDownloads": 240,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/server-status/files",
+  "gitUrl": "https://gitlab.com/fabian.kramer/server-status-viewer",
+  "releaseDate": 1533219998000,
+  "updateDate": 1533231489000
+}

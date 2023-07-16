@@ -1,0 +1,17 @@
+{
+  "id": 267153,
+  "url": "https://dev.bukkit.org/projects/admin-tools-gui",
+  "name": "Admin Tools GUI",
+  "description": "This is an GUI where you can manage important World and Server options from basic Vanilla. And adds some commands like fly invsee and similar. All comma...",
+  "archived": false,
+  "authors": [
+    "funky33"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/99/925/636311454693436556.png",
+  "iconCid": "bafkreifuqcz3mpkrnvhyxdnsma7ftzvtymneh3kelhgzzv3a3xk3bh3k64",
+  "numberOfDownloads": 19,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/admin-tools-gui/files",
+  "gitUrl": "https://gitlab.com/fabian.kramer/admin-tools-gui",
+  "releaseDate": 1494267506000,
+  "updateDate": 1591868668000
+}

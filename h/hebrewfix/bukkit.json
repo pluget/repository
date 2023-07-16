@@ -1,0 +1,18 @@
+{
+  "id": 64686,
+  "url": "https://dev.bukkit.org/projects/languagefix",
+  "name": "hebrewFix",
+  "description": "A basic right to left language (like hebrew) fix that will fix chat messages",
+  "archived": false,
+  "authors": [
+    "g_o_0",
+    "_ForgeUser3938820"
+  ],
+  "iconUrl": "https://media.forgecdn.net/avatars/71/44/636163244499746274.png",
+  "iconCid": "bafkreicb4q5lxuowq2yeknqbcxwoqylkw2qm2cuyl6tncnsbpwqsqbruo4",
+  "numberOfDownloads": 12,
+  "releasesPageUrl": "https://dev.bukkit.org/projects/languagefix/files",
+  "gitUrl": "https://bitbucket.org/hebrewfix/hebrewfix-plugin",
+  "releaseDate": 1377799644000,
+  "updateDate": 1597446019000
+}
