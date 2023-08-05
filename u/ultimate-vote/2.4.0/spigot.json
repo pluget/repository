@@ -1,12 +1,9 @@
 {
-  "name": "2.4.0",
-  "version": {
-    "name": "2.4",
-    "downloadUrl": "resources/ultimate-vote.18078/download?version=368199",
-    "numberOfDownloads": 249,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1605913440,
-    "sourceUrl": "https://www.spigotmc.org/resources/ultimate-vote.18078/history"
-  }
+  "name": "2.4",
+  "downloadUrl": "resources/ultimate-vote.18078/download?version=368199",
+  "numberOfDownloads": 249,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1605913440,
+  "sourceUrl": "https://www.spigotmc.org/resources/ultimate-vote.18078/history"
 }

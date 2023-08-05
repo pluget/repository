@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-beta-6a",
-  "version": {
-    "name": "1.0-beta-6a",
-    "downloadUrl": "resources/picojobs.82784/download?version=445896",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1647787740,
-    "sourceUrl": "https://www.spigotmc.org/resources/picojobs.82784/history"
-  }
+  "name": "1.0-beta-6a",
+  "downloadUrl": "resources/picojobs.82784/download?version=445896",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1647787740,
+  "sourceUrl": "https://www.spigotmc.org/resources/picojobs.82784/history"
 }

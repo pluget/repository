@@ -1,12 +1,9 @@
 {
   "name": "2.2.1",
-  "version": {
-    "name": "2.2.1",
-    "downloadUrl": "resources/bettersleeping.60837/download?version=282904",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1562664120,
-    "sourceUrl": "https://www.spigotmc.org/resources/bettersleeping.60837/history"
-  }
+  "downloadUrl": "resources/bettersleeping.60837/download?version=282904",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1562664120,
+  "sourceUrl": "https://www.spigotmc.org/resources/bettersleeping.60837/history"
 }

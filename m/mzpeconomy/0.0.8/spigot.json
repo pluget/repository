@@ -1,12 +1,9 @@
 {
   "name": "0.0.8",
-  "version": {
-    "name": "0.0.8",
-    "downloadUrl": "resources/mzp-economy-global-server-economy-mysql-sql-vault-1-8-1-18.85742/download?version=485802",
-    "numberOfDownloads": 33,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1676311980,
-    "sourceUrl": "https://www.spigotmc.org/resources/mzp-economy-global-server-economy-mysql-sql-vault-1-8-1-18.85742/history"
-  }
+  "downloadUrl": "resources/mzp-economy-global-server-economy-mysql-sql-vault-1-8-1-18.85742/download?version=485802",
+  "numberOfDownloads": 33,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1676311980,
+  "sourceUrl": "https://www.spigotmc.org/resources/mzp-economy-global-server-economy-mysql-sql-vault-1-8-1-18.85742/history"
 }

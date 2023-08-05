@@ -1,12 +1,9 @@
 {
-  "name": "3.2.0-FIX",
-  "version": {
-    "name": "3.2-FIX",
-    "downloadUrl": "resources/amazing-fishing.71148/download?version=320334",
-    "numberOfDownloads": 755,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1585225920,
-    "sourceUrl": "https://www.spigotmc.org/resources/amazing-fishing.71148/history"
-  }
+  "name": "3.2-FIX",
+  "downloadUrl": "resources/amazing-fishing.71148/download?version=320334",
+  "numberOfDownloads": 755,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1585225920,
+  "sourceUrl": "https://www.spigotmc.org/resources/amazing-fishing.71148/history"
 }

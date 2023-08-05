@@ -1,12 +1,9 @@
 {
-  "name": "2.2.1",
-  "version": {
-    "name": "v2.2.1",
-    "downloadUrl": "resources/herobrine.50393/download?version=413286",
-    "numberOfDownloads": 3,
-    "rating": 8.2857142857142,
-    "numberOfVotes": 7,
-    "releaseDate": 1628191680,
-    "sourceUrl": "https://www.spigotmc.org/resources/herobrine.50393/history"
-  }
+  "name": "v2.2.1",
+  "downloadUrl": "resources/herobrine.50393/download?version=413286",
+  "numberOfDownloads": 3,
+  "rating": 8.2857142857142,
+  "numberOfVotes": 7,
+  "releaseDate": 1628191680,
+  "sourceUrl": "https://www.spigotmc.org/resources/herobrine.50393/history"
 }

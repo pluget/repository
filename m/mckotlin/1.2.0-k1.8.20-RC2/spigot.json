@@ -1,12 +1,9 @@
 {
   "name": "1.2.0-k1.8.20-RC2",
-  "version": {
-    "name": "1.2.0-k1.8.20-RC2",
-    "downloadUrl": "resources/mckotlin.107907/download?version=490420",
-    "numberOfDownloads": 11,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1679587140,
-    "sourceUrl": "https://www.spigotmc.org/resources/107907/history/"
-  }
+  "downloadUrl": "resources/mckotlin.107907/download?version=490420",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1679587140,
+  "sourceUrl": "https://www.spigotmc.org/resources/107907/history/"
 }

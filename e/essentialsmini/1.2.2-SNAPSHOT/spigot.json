@@ -1,12 +1,9 @@
 {
   "name": "1.2.2-SNAPSHOT",
-  "version": {
-    "name": "1.2.2-SNAPSHOT",
-    "downloadUrl": "resources/essentialsmini.82775/download?version=395884",
-    "numberOfDownloads": 48,
-    "rating": 8,
-    "numberOfVotes": 2,
-    "releaseDate": 1619374260,
-    "sourceUrl": "https://www.spigotmc.org/resources/essentialsmini.82775/history"
-  }
+  "downloadUrl": "resources/essentialsmini.82775/download?version=395884",
+  "numberOfDownloads": 48,
+  "rating": 8,
+  "numberOfVotes": 2,
+  "releaseDate": 1619374260,
+  "sourceUrl": "https://www.spigotmc.org/resources/essentialsmini.82775/history"
 }

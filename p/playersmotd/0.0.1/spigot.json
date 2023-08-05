@@ -1,12 +1,9 @@
 {
   "name": "0.0.1",
-  "version": {
-    "name": "0.0.1",
-    "downloadUrl": "resources/playersmotd.107117/download?version=480623",
-    "numberOfDownloads": 18,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672611960,
-    "sourceUrl": "https://www.spigotmc.org/resources/playersmotd.107117/history"
-  }
+  "downloadUrl": "resources/playersmotd.107117/download?version=480623",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672611960,
+  "sourceUrl": "https://www.spigotmc.org/resources/playersmotd.107117/history"
 }

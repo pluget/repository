@@ -1,12 +1,9 @@
 {
-  "name": "1.2.0",
-  "version": {
-    "name": "1.2",
-    "downloadUrl": "resources/serverqueue-minecraft-queue-plugin.94158/download?version=408585",
-    "numberOfDownloads": 311,
-    "rating": 9.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1626018660,
-    "sourceUrl": "https://www.spigotmc.org/resources/serverqueue-minecraft-queue-plugin.94158/history"
-  }
+  "name": "1.2",
+  "downloadUrl": "resources/serverqueue-minecraft-queue-plugin.94158/download?version=408585",
+  "numberOfDownloads": 311,
+  "rating": 9.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1626018660,
+  "sourceUrl": "https://www.spigotmc.org/resources/serverqueue-minecraft-queue-plugin.94158/history"
 }

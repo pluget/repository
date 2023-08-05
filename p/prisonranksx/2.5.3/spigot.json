@@ -1,12 +1,9 @@
 {
   "name": "2.5.3",
-  "version": {
-    "name": "2.5.3",
-    "downloadUrl": "resources/prisonranksx-1-5-1-19.55899/download?version=320170",
-    "numberOfDownloads": 224,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1585142400,
-    "sourceUrl": "https://www.spigotmc.org/resources/55899/history/"
-  }
+  "downloadUrl": "resources/prisonranksx-1-5-1-19.55899/download?version=320170",
+  "numberOfDownloads": 224,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1585142400,
+  "sourceUrl": "https://www.spigotmc.org/resources/55899/history/"
 }

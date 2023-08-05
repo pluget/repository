@@ -1,12 +1,9 @@
 {
   "name": "0.0.1",
-  "version": {
-    "name": "0.0.1",
-    "downloadUrl": "resources/loststars.106622/download?version=477842",
-    "numberOfDownloads": 15,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1670678760,
-    "sourceUrl": "https://www.spigotmc.org/resources/loststars.106622/history"
-  }
+  "downloadUrl": "resources/loststars.106622/download?version=477842",
+  "numberOfDownloads": 15,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1670678760,
+  "sourceUrl": "https://www.spigotmc.org/resources/loststars.106622/history"
 }

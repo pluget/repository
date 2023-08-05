@@ -1,12 +1,9 @@
 {
   "name": "1.7.14",
-  "version": {
-    "name": "1.7.14",
-    "downloadUrl": "resources/auctionhouse-retro.69278/download?version=284902",
-    "numberOfDownloads": 151,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1563680880,
-    "sourceUrl": "https://www.spigotmc.org/resources/auctionhouse-retro.69278/history"
-  }
+  "downloadUrl": "resources/auctionhouse-retro.69278/download?version=284902",
+  "numberOfDownloads": 151,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1563680880,
+  "sourceUrl": "https://www.spigotmc.org/resources/auctionhouse-retro.69278/history"
 }

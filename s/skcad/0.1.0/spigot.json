@@ -1,12 +1,9 @@
 {
   "name": "0.1.0",
-  "version": {
-    "name": "0.1.0",
-    "downloadUrl": "resources/skcad.91850/download?version=396503",
-    "numberOfDownloads": 44,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1619729640,
-    "sourceUrl": "https://www.spigotmc.org/resources/91850/history/"
-  }
+  "downloadUrl": "resources/skcad.91850/download?version=396503",
+  "numberOfDownloads": 44,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1619729640,
+  "sourceUrl": "https://www.spigotmc.org/resources/91850/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "4.3.0",
-  "version": {
-    "name": "4.3.0",
-    "downloadUrl": "resources/hungergames.65942/download?version=271190",
-    "numberOfDownloads": 272,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1556601360,
-    "sourceUrl": "https://www.spigotmc.org/resources/hungergames.65942/history"
-  }
+  "downloadUrl": "resources/hungergames.65942/download?version=271190",
+  "numberOfDownloads": 272,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1556601360,
+  "sourceUrl": "https://www.spigotmc.org/resources/hungergames.65942/history"
 }

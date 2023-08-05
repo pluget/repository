@@ -1,12 +1,9 @@
 {
   "name": "0.1.3",
-  "version": {
-    "name": "0.1.3",
-    "downloadUrl": "resources/per-world-join-leave-messages.99738/download?version=440177",
-    "numberOfDownloads": 31,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1644177600,
-    "sourceUrl": "https://www.spigotmc.org/resources/99738/history/"
-  }
+  "downloadUrl": "resources/per-world-join-leave-messages.99738/download?version=440177",
+  "numberOfDownloads": 31,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1644177600,
+  "sourceUrl": "https://www.spigotmc.org/resources/99738/history/"
 }

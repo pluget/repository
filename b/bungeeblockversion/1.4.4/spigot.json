@@ -1,12 +1,9 @@
 {
   "name": "1.4.4",
-  "version": {
-    "name": "1.4.4",
-    "downloadUrl": "resources/bungeeblockversion.84685/download?version=479299",
-    "numberOfDownloads": 50,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1671734460,
-    "sourceUrl": "https://www.spigotmc.org/resources/bungeeblockversion.84685/history"
-  }
+  "downloadUrl": "resources/bungeeblockversion.84685/download?version=479299",
+  "numberOfDownloads": 50,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1671734460,
+  "sourceUrl": "https://www.spigotmc.org/resources/bungeeblockversion.84685/history"
 }

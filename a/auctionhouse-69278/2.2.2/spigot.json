@@ -1,12 +1,9 @@
 {
   "name": "2.2.2",
-  "version": {
-    "name": "2.2.2",
-    "downloadUrl": "resources/auctionhouse-retro.69278/download?version=414714",
-    "numberOfDownloads": 2,
-    "rating": 6,
-    "numberOfVotes": 2,
-    "releaseDate": 1628911920,
-    "sourceUrl": "https://www.spigotmc.org/resources/auctionhouse-retro.69278/history"
-  }
+  "downloadUrl": "resources/auctionhouse-retro.69278/download?version=414714",
+  "numberOfDownloads": 2,
+  "rating": 6,
+  "numberOfVotes": 2,
+  "releaseDate": 1628911920,
+  "sourceUrl": "https://www.spigotmc.org/resources/auctionhouse-retro.69278/history"
 }

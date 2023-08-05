@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/dyeores.99141/download?version=436260",
-    "numberOfDownloads": 35,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1641990960,
-    "sourceUrl": "https://www.spigotmc.org/resources/99141/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/dyeores.99141/download?version=436260",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1641990960,
+  "sourceUrl": "https://www.spigotmc.org/resources/99141/history/"
 }

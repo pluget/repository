@@ -1,12 +1,9 @@
 {
   "name": "2.9.8",
-  "version": {
-    "name": "2.9.8",
-    "downloadUrl": "resources/custom-heads-1-8-1-19-2.29057/download?version=294886",
-    "numberOfDownloads": 7,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1569076620,
-    "sourceUrl": "https://www.spigotmc.org/resources/custom-heads-1-8-1-19-2.29057/history"
-  }
+  "downloadUrl": "resources/custom-heads-1-8-1-19-2.29057/download?version=294886",
+  "numberOfDownloads": 7,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1569076620,
+  "sourceUrl": "https://www.spigotmc.org/resources/custom-heads-1-8-1-19-2.29057/history"
 }

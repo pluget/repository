@@ -1,12 +1,9 @@
 {
   "name": "2.3.0",
-  "version": {
-    "name": "2.3.0",
-    "downloadUrl": "resources/lootchest.61564/download?version=435365",
-    "numberOfDownloads": 290,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1641496080,
-    "sourceUrl": "https://www.spigotmc.org/resources/lootchest.61564/history"
-  }
+  "downloadUrl": "resources/lootchest.61564/download?version=435365",
+  "numberOfDownloads": 290,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1641496080,
+  "sourceUrl": "https://www.spigotmc.org/resources/lootchest.61564/history"
 }

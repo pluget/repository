@@ -1,12 +1,9 @@
 {
   "name": "3.10.0",
-  "version": {
-    "name": "3.10.0",
-    "downloadUrl": "resources/vouchers-the-ultimate-voucher-plugin.89864/download?version=488196",
-    "numberOfDownloads": 342,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1678125360,
-    "sourceUrl": "https://www.spigotmc.org/resources/89864/history/"
-  }
+  "downloadUrl": "resources/vouchers-the-ultimate-voucher-plugin.89864/download?version=488196",
+  "numberOfDownloads": 342,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1678125360,
+  "sourceUrl": "https://www.spigotmc.org/resources/89864/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.2.4",
-  "version": {
-    "name": "1.2.4",
-    "downloadUrl": "resources/staffchat-deluxe.108276/download?version=487346",
-    "numberOfDownloads": 25,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1677439980,
-    "sourceUrl": "https://www.spigotmc.org/resources/staffchat-deluxe.108276/history"
-  }
+  "downloadUrl": "resources/staffchat-deluxe.108276/download?version=487346",
+  "numberOfDownloads": 25,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1677439980,
+  "sourceUrl": "https://www.spigotmc.org/resources/staffchat-deluxe.108276/history"
 }

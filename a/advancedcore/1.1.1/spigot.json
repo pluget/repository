@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/advancedcore.28295/download?version=111743",
-    "numberOfDownloads": 90,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1472399640,
-    "sourceUrl": "https://www.spigotmc.org/resources/advancedcore.28295/history"
-  }
+  "downloadUrl": "resources/advancedcore.28295/download?version=111743",
+  "numberOfDownloads": 90,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1472399640,
+  "sourceUrl": "https://www.spigotmc.org/resources/advancedcore.28295/history"
 }

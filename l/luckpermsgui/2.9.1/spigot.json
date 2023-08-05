@@ -1,12 +1,9 @@
 {
   "name": "2.9.1",
-  "version": {
-    "name": "2.9.1",
-    "downloadUrl": "resources/luckpermsgui.53460/download?version=225679",
-    "numberOfDownloads": 983,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1528882500,
-    "sourceUrl": "https://www.spigotmc.org/resources/luckpermsgui.53460/history"
-  }
+  "downloadUrl": "resources/luckpermsgui.53460/download?version=225679",
+  "numberOfDownloads": 983,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1528882500,
+  "sourceUrl": "https://www.spigotmc.org/resources/luckpermsgui.53460/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/playerstatsviewer.99567/download?version=440607",
-    "numberOfDownloads": 247,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1644486660,
-    "sourceUrl": "https://www.spigotmc.org/resources/playerstatsviewer.99567/history"
-  }
+  "downloadUrl": "resources/playerstatsviewer.99567/download?version=440607",
+  "numberOfDownloads": 247,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1644486660,
+  "sourceUrl": "https://www.spigotmc.org/resources/playerstatsviewer.99567/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "3.3.6",
-  "version": {
-    "name": "3.3.6",
-    "downloadUrl": "resources/afk.35065/download?version=415048",
-    "numberOfDownloads": 13,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1629079320,
-    "sourceUrl": "https://www.spigotmc.org/resources/35065/history/"
-  }
+  "downloadUrl": "resources/afk.35065/download?version=415048",
+  "numberOfDownloads": 13,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1629079320,
+  "sourceUrl": "https://www.spigotmc.org/resources/35065/history/"
 }

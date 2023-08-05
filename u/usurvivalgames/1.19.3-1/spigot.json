@@ -1,12 +1,9 @@
 {
   "name": "1.19.3-1",
-  "version": {
-    "name": "1.19.3-1",
-    "downloadUrl": "resources/usurvivalgames.81702/download?version=486322",
-    "numberOfDownloads": 11,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1676683740,
-    "sourceUrl": "https://www.spigotmc.org/resources/usurvivalgames.81702/history"
-  }
+  "downloadUrl": "resources/usurvivalgames.81702/download?version=486322",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1676683740,
+  "sourceUrl": "https://www.spigotmc.org/resources/usurvivalgames.81702/history"
 }

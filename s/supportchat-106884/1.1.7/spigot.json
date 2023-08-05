@@ -1,12 +1,9 @@
 {
   "name": "1.1.7",
-  "version": {
-    "name": "1.1.7",
-    "downloadUrl": "resources/supportchat-bukkit-bungeecord-1-8-x-1-18-x.106884/download?version=479238",
-    "numberOfDownloads": 7,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1671701820,
-    "sourceUrl": "https://www.spigotmc.org/resources/106884/history/"
-  }
+  "downloadUrl": "resources/supportchat-bukkit-bungeecord-1-8-x-1-18-x.106884/download?version=479238",
+  "numberOfDownloads": 7,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1671701820,
+  "sourceUrl": "https://www.spigotmc.org/resources/106884/history/"
 }

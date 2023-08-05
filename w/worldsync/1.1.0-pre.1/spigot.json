@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0-pre.1",
-  "version": {
-    "name": "1.1",
-    "downloadUrl": "resources/worldsync.98071/download?version=429362",
-    "numberOfDownloads": 43,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1638456960,
-    "sourceUrl": "https://www.spigotmc.org/resources/98071/history/"
-  }
+  "name": "1.1",
+  "downloadUrl": "resources/worldsync.98071/download?version=429362",
+  "numberOfDownloads": 43,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1638456960,
+  "sourceUrl": "https://www.spigotmc.org/resources/98071/history/"
 }

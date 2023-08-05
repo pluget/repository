@@ -1,12 +1,9 @@
 {
   "name": "1.3.2",
-  "version": {
-    "name": "1.3.2",
-    "downloadUrl": "resources/ranksync.61393/download?version=289937",
-    "numberOfDownloads": 55,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1566190860,
-    "sourceUrl": "https://www.spigotmc.org/resources/ranksync.61393/history"
-  }
+  "downloadUrl": "resources/ranksync.61393/download?version=289937",
+  "numberOfDownloads": 55,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1566190860,
+  "sourceUrl": "https://www.spigotmc.org/resources/ranksync.61393/history"
 }

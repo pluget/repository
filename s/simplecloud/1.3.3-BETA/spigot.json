@@ -1,12 +1,9 @@
 {
   "name": "1.3.3-BETA",
-  "version": {
-    "name": "1.3.3-BETA",
-    "downloadUrl": "resources/simplecloud-simplify-your-network.79466/download?version=365891",
-    "numberOfDownloads": 45,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1604776560,
-    "sourceUrl": "https://www.spigotmc.org/resources/79466/history/"
-  }
+  "downloadUrl": "resources/simplecloud-simplify-your-network.79466/download?version=365891",
+  "numberOfDownloads": 45,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1604776560,
+  "sourceUrl": "https://www.spigotmc.org/resources/79466/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/spicord-staffchat.69186/download?version=283974",
-    "numberOfDownloads": 87,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1563219780,
-    "sourceUrl": "https://www.spigotmc.org/resources/spicord-staffchat.69186/history"
-  }
+  "downloadUrl": "resources/spicord-staffchat.69186/download?version=283974",
+  "numberOfDownloads": 87,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1563219780,
+  "sourceUrl": "https://www.spigotmc.org/resources/spicord-staffchat.69186/history"
 }

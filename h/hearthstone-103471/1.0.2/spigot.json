@@ -1,12 +1,9 @@
 {
   "name": "1.0.2",
-  "version": {
-    "name": "1.0.2",
-    "downloadUrl": "resources/hearthstone.103471/download?version=461515",
-    "numberOfDownloads": 49,
-    "rating": 8.6666666666666,
-    "numberOfVotes": 3,
-    "releaseDate": 1658303520,
-    "sourceUrl": "https://www.spigotmc.org/resources/hearthstone.103471/history"
-  }
+  "downloadUrl": "resources/hearthstone.103471/download?version=461515",
+  "numberOfDownloads": 49,
+  "rating": 8.6666666666666,
+  "numberOfVotes": 3,
+  "releaseDate": 1658303520,
+  "sourceUrl": "https://www.spigotmc.org/resources/hearthstone.103471/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.10.0",
-  "version": {
-    "name": "1.10",
-    "downloadUrl": "resources/labymod-emote-npc.72190/download?version=347418",
-    "numberOfDownloads": 1,
-    "rating": 5,
-    "numberOfVotes": 2,
-    "releaseDate": 1596020940,
-    "sourceUrl": "https://www.spigotmc.org/resources/72190/history/"
-  }
+  "name": "1.10",
+  "downloadUrl": "resources/labymod-emote-npc.72190/download?version=347418",
+  "numberOfDownloads": 1,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releaseDate": 1596020940,
+  "sourceUrl": "https://www.spigotmc.org/resources/72190/history/"
 }

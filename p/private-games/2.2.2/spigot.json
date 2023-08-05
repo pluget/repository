@@ -1,12 +1,9 @@
 {
   "name": "2.2.2",
-  "version": {
-    "name": "2.2.2",
-    "downloadUrl": "resources/private-games-addon.101706/download?version=453023",
-    "numberOfDownloads": 39,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1653148860,
-    "sourceUrl": "https://www.spigotmc.org/resources/101706/history/"
-  }
+  "downloadUrl": "resources/private-games-addon.101706/download?version=453023",
+  "numberOfDownloads": 39,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1653148860,
+  "sourceUrl": "https://www.spigotmc.org/resources/101706/history/"
 }

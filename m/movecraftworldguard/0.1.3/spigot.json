@@ -1,12 +1,9 @@
 {
   "name": "0.1.3",
-  "version": {
-    "name": "0.1.3",
-    "downloadUrl": "resources/movecraft-worldguard.90428/download?version=396162",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1619527260,
-    "sourceUrl": "https://www.spigotmc.org/resources/movecraft-worldguard.90428/history"
-  }
+  "downloadUrl": "resources/movecraft-worldguard.90428/download?version=396162",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1619527260,
+  "sourceUrl": "https://www.spigotmc.org/resources/movecraft-worldguard.90428/history"
 }

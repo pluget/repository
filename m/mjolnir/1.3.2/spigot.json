@@ -1,12 +1,9 @@
 {
   "name": "1.3.2",
-  "version": {
-    "name": "1.3.2",
-    "downloadUrl": "resources/mjolnir-the-hammer-of-thor.79882/download?version=390852",
-    "numberOfDownloads": 96,
-    "rating": 4,
-    "numberOfVotes": 1,
-    "releaseDate": 1616874000,
-    "sourceUrl": "https://www.spigotmc.org/resources/79882/history/"
-  }
+  "downloadUrl": "resources/mjolnir-the-hammer-of-thor.79882/download?version=390852",
+  "numberOfDownloads": 96,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releaseDate": 1616874000,
+  "sourceUrl": "https://www.spigotmc.org/resources/79882/history/"
 }

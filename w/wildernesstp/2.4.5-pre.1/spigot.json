@@ -1,12 +1,9 @@
 {
-  "name": "2.4.5-pre.1",
-  "version": {
-    "name": "2.4.5",
-    "downloadUrl": "resources/wilderness-tp.18431/download?version=77049",
-    "numberOfDownloads": 132,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1458605460,
-    "sourceUrl": "https://www.spigotmc.org/resources/wilderness-tp.18431/history"
-  }
+  "name": "2.4.5",
+  "downloadUrl": "resources/wilderness-tp.18431/download?version=77049",
+  "numberOfDownloads": 132,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1458605460,
+  "sourceUrl": "https://www.spigotmc.org/resources/wilderness-tp.18431/history"
 }

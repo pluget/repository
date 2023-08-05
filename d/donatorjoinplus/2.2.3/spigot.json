@@ -1,12 +1,9 @@
 {
   "name": "2.2.3",
-  "version": {
-    "name": "2.2.3",
-    "downloadUrl": "resources/donatorjoin.8690/download?version=303539",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1575370860,
-    "sourceUrl": "https://www.spigotmc.org/resources/8690/history/"
-  }
+  "downloadUrl": "resources/donatorjoin.8690/download?version=303539",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1575370860,
+  "sourceUrl": "https://www.spigotmc.org/resources/8690/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/regex-command-blocker-universal.99589/download?version=455081",
-    "numberOfDownloads": 110,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1654640940,
-    "sourceUrl": "https://www.spigotmc.org/resources/99589/history/"
-  }
+  "downloadUrl": "resources/regex-command-blocker-universal.99589/download?version=455081",
+  "numberOfDownloads": 110,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1654640940,
+  "sourceUrl": "https://www.spigotmc.org/resources/99589/history/"
 }

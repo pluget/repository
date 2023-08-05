@@ -1,12 +1,9 @@
 {
   "name": "0.1.0",
-  "version": {
-    "name": "0.1.0",
-    "downloadUrl": "resources/extended-beacon.87098/download?version=376714",
-    "numberOfDownloads": 35,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1610298240,
-    "sourceUrl": "https://www.spigotmc.org/resources/extended-beacon.87098/history"
-  }
+  "downloadUrl": "resources/extended-beacon.87098/download?version=376714",
+  "numberOfDownloads": 35,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1610298240,
+  "sourceUrl": "https://www.spigotmc.org/resources/extended-beacon.87098/history"
 }

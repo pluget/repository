@@ -1,12 +1,9 @@
 {
   "name": "1.5.4",
-  "version": {
-    "name": "1.5.4",
-    "downloadUrl": "resources/death-location.97065/download?version=425978",
-    "numberOfDownloads": 44,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1636246440,
-    "sourceUrl": "https://www.spigotmc.org/resources/death-location.97065/history"
-  }
+  "downloadUrl": "resources/death-location.97065/download?version=425978",
+  "numberOfDownloads": 44,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1636246440,
+  "sourceUrl": "https://www.spigotmc.org/resources/death-location.97065/history"
 }

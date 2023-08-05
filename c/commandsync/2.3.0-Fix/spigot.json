@@ -1,12 +1,9 @@
 {
-  "name": "2.3.0-Fix",
-  "version": {
-    "name": "2.3-Fix",
-    "downloadUrl": "resources/commandsync.52093/download?version=203614",
-    "numberOfDownloads": 77,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1516100760,
-    "sourceUrl": "https://www.spigotmc.org/resources/commandsync.52093/history"
-  }
+  "name": "2.3-Fix",
+  "downloadUrl": "resources/commandsync.52093/download?version=203614",
+  "numberOfDownloads": 77,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1516100760,
+  "sourceUrl": "https://www.spigotmc.org/resources/commandsync.52093/history"
 }

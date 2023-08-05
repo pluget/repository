@@ -1,12 +1,9 @@
 {
   "name": "2.3.1",
-  "version": {
-    "name": "2.3.1",
-    "downloadUrl": "resources/ajqueue.78266/download?version=482100",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1673639220,
-    "sourceUrl": "https://www.spigotmc.org/resources/ajqueue.78266/history"
-  }
+  "downloadUrl": "resources/ajqueue.78266/download?version=482100",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1673639220,
+  "sourceUrl": "https://www.spigotmc.org/resources/ajqueue.78266/history"
 }

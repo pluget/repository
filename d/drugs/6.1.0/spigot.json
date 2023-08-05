@@ -1,12 +1,9 @@
 {
-  "name": "6.1.0",
-  "version": {
-    "name": "6.1",
-    "downloadUrl": "resources/drugs.90645/download?version=451568",
-    "numberOfDownloads": 2,
-    "rating": 8.6666666666666,
-    "numberOfVotes": 3,
-    "releaseDate": 1651963800,
-    "sourceUrl": "https://www.spigotmc.org/resources/90645/history/"
-  }
+  "name": "6.1",
+  "downloadUrl": "resources/drugs.90645/download?version=451568",
+  "numberOfDownloads": 2,
+  "rating": 8.6666666666666,
+  "numberOfVotes": 3,
+  "releaseDate": 1651963800,
+  "sourceUrl": "https://www.spigotmc.org/resources/90645/history/"
 }

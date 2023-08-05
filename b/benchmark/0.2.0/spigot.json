@@ -1,12 +1,9 @@
 {
-  "name": "0.2.0",
-  "version": {
-    "name": "v0.2",
-    "downloadUrl": "resources/benchmark.104607/download?version=465942",
-    "numberOfDownloads": 33,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1660686900,
-    "sourceUrl": "https://www.spigotmc.org/resources/benchmark.104607/history"
-  }
+  "name": "v0.2",
+  "downloadUrl": "resources/benchmark.104607/download?version=465942",
+  "numberOfDownloads": 33,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1660686900,
+  "sourceUrl": "https://www.spigotmc.org/resources/benchmark.104607/history"
 }

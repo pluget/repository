@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/pingchecker.103470/download?version=461223",
-    "numberOfDownloads": 65,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1658117460,
-    "sourceUrl": "https://www.spigotmc.org/resources/pingchecker.103470/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/pingchecker.103470/download?version=461223",
+  "numberOfDownloads": 65,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1658117460,
+  "sourceUrl": "https://www.spigotmc.org/resources/pingchecker.103470/history"
 }

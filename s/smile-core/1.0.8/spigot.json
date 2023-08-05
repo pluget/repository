@@ -1,12 +1,9 @@
 {
   "name": "1.0.8",
-  "version": {
-    "name": "1.0.8",
-    "downloadUrl": "resources/smile-core.100044/download?version=486566",
-    "numberOfDownloads": 23,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1676842680,
-    "sourceUrl": "https://www.spigotmc.org/resources/smile-core.100044/history"
-  }
+  "downloadUrl": "resources/smile-core.100044/download?version=486566",
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1676842680,
+  "sourceUrl": "https://www.spigotmc.org/resources/smile-core.100044/history"
 }

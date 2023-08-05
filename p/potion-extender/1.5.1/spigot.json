@@ -1,12 +1,9 @@
 {
   "name": "1.5.1",
-  "version": {
-    "name": "1.5.1",
-    "downloadUrl": "resources/potion-extender-en-de.54682/download?version=221262",
-    "numberOfDownloads": 53,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1526065920,
-    "sourceUrl": "https://www.spigotmc.org/resources/potion-extender-en-de.54682/history"
-  }
+  "downloadUrl": "resources/potion-extender-en-de.54682/download?version=221262",
+  "numberOfDownloads": 53,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1526065920,
+  "sourceUrl": "https://www.spigotmc.org/resources/potion-extender-en-de.54682/history"
 }

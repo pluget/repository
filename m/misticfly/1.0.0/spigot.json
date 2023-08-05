@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/misticfly.102708/download?version=456927",
-    "numberOfDownloads": 22,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1655556600,
-    "sourceUrl": "https://www.spigotmc.org/resources/102708/history/"
-  }
+  "downloadUrl": "resources/misticfly.102708/download?version=456927",
+  "numberOfDownloads": 22,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1655556600,
+  "sourceUrl": "https://www.spigotmc.org/resources/102708/history/"
 }

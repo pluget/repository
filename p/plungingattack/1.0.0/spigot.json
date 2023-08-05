@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/plungingattack.107820/download?version=484749",
-    "numberOfDownloads": 26,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1675520820,
-    "sourceUrl": "https://www.spigotmc.org/resources/107820/history/"
-  }
+  "downloadUrl": "resources/plungingattack.107820/download?version=484749",
+  "numberOfDownloads": 26,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1675520820,
+  "sourceUrl": "https://www.spigotmc.org/resources/107820/history/"
 }

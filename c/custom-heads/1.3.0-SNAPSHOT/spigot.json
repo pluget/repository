@@ -1,12 +1,9 @@
 {
-  "name": "1.3.0-SNAPSHOT",
-  "version": {
-    "name": "1.3-SNAPSHOT",
-    "downloadUrl": "resources/custom-heads-1-8-1-19-2.29057/download?version=114586",
-    "numberOfDownloads": 201,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1473880620,
-    "sourceUrl": "https://www.spigotmc.org/resources/custom-heads-1-8-1-19-2.29057/history"
-  }
+  "name": "1.3-SNAPSHOT",
+  "downloadUrl": "resources/custom-heads-1-8-1-19-2.29057/download?version=114586",
+  "numberOfDownloads": 201,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1473880620,
+  "sourceUrl": "https://www.spigotmc.org/resources/custom-heads-1-8-1-19-2.29057/history"
 }

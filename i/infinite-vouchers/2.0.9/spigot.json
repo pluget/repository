@@ -1,12 +1,9 @@
 {
   "name": "2.0.9",
-  "version": {
-    "name": "2.0.9",
-    "downloadUrl": "resources/infinite-vouchers.71625/download?version=364762",
-    "numberOfDownloads": 328,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1604312100,
-    "sourceUrl": "https://www.spigotmc.org/resources/infinite-vouchers.71625/history"
-  }
+  "downloadUrl": "resources/infinite-vouchers.71625/download?version=364762",
+  "numberOfDownloads": 328,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1604312100,
+  "sourceUrl": "https://www.spigotmc.org/resources/infinite-vouchers.71625/history"
 }

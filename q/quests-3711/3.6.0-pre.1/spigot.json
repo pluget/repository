@@ -1,12 +1,9 @@
 {
-  "name": "3.6.0-pre.1",
-  "version": {
-    "name": "3.6.0",
-    "downloadUrl": "resources/quests.3711/download?version=254913",
-    "numberOfDownloads": 1,
-    "rating": 8,
-    "numberOfVotes": 4,
-    "releaseDate": 1546313520,
-    "sourceUrl": "https://www.spigotmc.org/resources/quests.3711/history"
-  }
+  "name": "3.6.0",
+  "downloadUrl": "resources/quests.3711/download?version=254913",
+  "numberOfDownloads": 1,
+  "rating": 8,
+  "numberOfVotes": 4,
+  "releaseDate": 1546313520,
+  "sourceUrl": "https://www.spigotmc.org/resources/quests.3711/history"
 }

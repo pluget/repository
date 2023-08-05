@@ -1,12 +1,9 @@
 {
-  "name": "1.7.0-R",
-  "version": {
-    "name": "1.7R",
-    "downloadUrl": "resources/webplugin-official-php-support-1-13-1-19.85640/download?version=456828",
-    "numberOfDownloads": 41,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655491020,
-    "sourceUrl": "https://www.spigotmc.org/resources/webplugin-official-php-support-1-13-1-19.85640/history"
-  }
+  "name": "1.7R",
+  "downloadUrl": "resources/webplugin-official-php-support-1-13-1-19.85640/download?version=456828",
+  "numberOfDownloads": 41,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655491020,
+  "sourceUrl": "https://www.spigotmc.org/resources/webplugin-official-php-support-1-13-1-19.85640/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.17.5",
-  "version": {
-    "name": "1.17.5",
-    "downloadUrl": "resources/gameboy-supports-90-of-the-games.86539/download?version=487591",
-    "numberOfDownloads": 46,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1677675360,
-    "sourceUrl": "https://www.spigotmc.org/resources/gameboy-supports-90-of-the-games.86539/history"
-  }
+  "downloadUrl": "resources/gameboy-supports-90-of-the-games.86539/download?version=487591",
+  "numberOfDownloads": 46,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1677675360,
+  "sourceUrl": "https://www.spigotmc.org/resources/gameboy-supports-90-of-the-games.86539/history"
 }

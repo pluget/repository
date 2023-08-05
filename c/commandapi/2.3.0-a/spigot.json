@@ -1,12 +1,9 @@
 {
-  "name": "2.3.0-a",
-  "version": {
-    "name": "v2.3a",
-    "downloadUrl": "resources/api-commandapi-1-13-1-19-4.62353/download?version=304595",
-    "numberOfDownloads": 359,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1576114560,
-    "sourceUrl": "https://www.spigotmc.org/resources/api-commandapi-1-13-1-19-4.62353/history"
-  }
+  "name": "v2.3a",
+  "downloadUrl": "resources/api-commandapi-1-13-1-19-4.62353/download?version=304595",
+  "numberOfDownloads": 359,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1576114560,
+  "sourceUrl": "https://www.spigotmc.org/resources/api-commandapi-1-13-1-19-4.62353/history"
 }

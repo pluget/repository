@@ -1,12 +1,9 @@
 {
   "name": "1.16.52",
-  "version": {
-    "name": "1.16.52",
-    "downloadUrl": "resources/staff-discord-integration.83871/download?version=389317",
-    "numberOfDownloads": 181,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1616112060,
-    "sourceUrl": "https://www.spigotmc.org/resources/staff-discord-integration.83871/history"
-  }
+  "downloadUrl": "resources/staff-discord-integration.83871/download?version=389317",
+  "numberOfDownloads": 181,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1616112060,
+  "sourceUrl": "https://www.spigotmc.org/resources/staff-discord-integration.83871/history"
 }

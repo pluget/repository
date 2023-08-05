@@ -1,12 +1,9 @@
 {
   "name": "1.6.6",
-  "version": {
-    "name": "1.6.6",
-    "downloadUrl": "resources/packetevents-api.80279/download?version=356033",
-    "numberOfDownloads": 27,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1599670440,
-    "sourceUrl": "https://www.spigotmc.org/resources/packetevents-api.80279/history"
-  }
+  "downloadUrl": "resources/packetevents-api.80279/download?version=356033",
+  "numberOfDownloads": 27,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1599670440,
+  "sourceUrl": "https://www.spigotmc.org/resources/packetevents-api.80279/history"
 }

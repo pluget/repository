@@ -1,12 +1,9 @@
 {
   "name": "2.17.5",
-  "version": {
-    "name": "2.17.5",
-    "downloadUrl": "resources/xconomy.75669/download?version=448623",
-    "numberOfDownloads": 1,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1649782980,
-    "sourceUrl": "https://www.spigotmc.org/resources/xconomy.75669/history"
-  }
+  "downloadUrl": "resources/xconomy.75669/download?version=448623",
+  "numberOfDownloads": 1,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1649782980,
+  "sourceUrl": "https://www.spigotmc.org/resources/xconomy.75669/history"
 }

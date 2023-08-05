@@ -1,12 +1,9 @@
 {
   "name": "2.0.2",
-  "version": {
-    "name": "2.0.2",
-    "downloadUrl": "resources/peconomy.73827/download?version=328392",
-    "numberOfDownloads": 120,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1588310100,
-    "sourceUrl": "https://www.spigotmc.org/resources/peconomy.73827/history"
-  }
+  "downloadUrl": "resources/peconomy.73827/download?version=328392",
+  "numberOfDownloads": 120,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1588310100,
+  "sourceUrl": "https://www.spigotmc.org/resources/peconomy.73827/history"
 }

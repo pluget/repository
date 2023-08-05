@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/userlogin.80669/download?version=340649",
-    "numberOfDownloads": 102,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1593451620,
-    "sourceUrl": "https://www.spigotmc.org/resources/userlogin.80669/history"
-  }
+  "downloadUrl": "resources/userlogin.80669/download?version=340649",
+  "numberOfDownloads": 102,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1593451620,
+  "sourceUrl": "https://www.spigotmc.org/resources/userlogin.80669/history"
 }

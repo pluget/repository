@@ -1,12 +1,9 @@
 {
-  "name": "2.2.8-pre.1",
-  "version": {
-    "name": "Reremake 2.2.8",
-    "downloadUrl": "resources/quickshop-reremake-1-19-ready-multi-currency.62575/download?version=282695",
-    "numberOfDownloads": 1,
-    "rating": 8,
-    "numberOfVotes": 2,
-    "releaseDate": 1562552280,
-    "sourceUrl": "https://www.spigotmc.org/resources/quickshop-reremake-1-19-ready-multi-currency.62575/history"
-  }
+  "name": "Reremake 2.2.8",
+  "downloadUrl": "resources/quickshop-reremake-1-19-ready-multi-currency.62575/download?version=282695",
+  "numberOfDownloads": 1,
+  "rating": 8,
+  "numberOfVotes": 2,
+  "releaseDate": 1562552280,
+  "sourceUrl": "https://www.spigotmc.org/resources/quickshop-reremake-1-19-ready-multi-currency.62575/history"
 }

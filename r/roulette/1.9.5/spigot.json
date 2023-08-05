@@ -1,12 +1,9 @@
 {
   "name": "1.9.5",
-  "version": {
-    "name": "1.9.5",
-    "downloadUrl": "resources/roulette.82197/download?version=490713",
-    "numberOfDownloads": 180,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1679793180,
-    "sourceUrl": "https://www.spigotmc.org/resources/roulette.82197/history"
-  }
+  "downloadUrl": "resources/roulette.82197/download?version=490713",
+  "numberOfDownloads": 180,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1679793180,
+  "sourceUrl": "https://www.spigotmc.org/resources/roulette.82197/history"
 }

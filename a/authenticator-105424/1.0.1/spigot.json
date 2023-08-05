@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/authenticator.105424/download?version=470473",
-    "numberOfDownloads": 86,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1664079540,
-    "sourceUrl": "https://www.spigotmc.org/resources/authenticator.105424/history"
-  }
+  "downloadUrl": "resources/authenticator.105424/download?version=470473",
+  "numberOfDownloads": 86,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1664079540,
+  "sourceUrl": "https://www.spigotmc.org/resources/authenticator.105424/history"
 }

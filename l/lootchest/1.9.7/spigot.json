@@ -1,12 +1,9 @@
 {
   "name": "1.9.7",
-  "version": {
-    "name": "1.9.7",
-    "downloadUrl": "resources/lootchest.61564/download?version=306680",
-    "numberOfDownloads": 977,
-    "rating": 7.2,
-    "numberOfVotes": 5,
-    "releaseDate": 1577289900,
-    "sourceUrl": "https://www.spigotmc.org/resources/lootchest.61564/history"
-  }
+  "downloadUrl": "resources/lootchest.61564/download?version=306680",
+  "numberOfDownloads": 977,
+  "rating": 7.2,
+  "numberOfVotes": 5,
+  "releaseDate": 1577289900,
+  "sourceUrl": "https://www.spigotmc.org/resources/lootchest.61564/history"
 }

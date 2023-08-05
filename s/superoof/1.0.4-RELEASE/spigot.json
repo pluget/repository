@@ -1,12 +1,9 @@
 {
   "name": "1.0.4-RELEASE",
-  "version": {
-    "name": "1.0.4-RELEASE",
-    "downloadUrl": "resources/superoof-1-8-x-1-19-supported.58916/download?version=234487",
-    "numberOfDownloads": 79,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1533909240,
-    "sourceUrl": "https://www.spigotmc.org/resources/superoof-1-8-x-1-19-supported.58916/history"
-  }
+  "downloadUrl": "resources/superoof-1-8-x-1-19-supported.58916/download?version=234487",
+  "numberOfDownloads": 79,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1533909240,
+  "sourceUrl": "https://www.spigotmc.org/resources/superoof-1-8-x-1-19-supported.58916/history"
 }

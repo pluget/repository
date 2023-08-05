@@ -1,12 +1,9 @@
 {
-  "name": "1.19.1-0",
-  "version": {
-    "name": "1.19-1.0",
-    "downloadUrl": "resources/jannes.107098/download?version=480556",
-    "numberOfDownloads": 12,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672582500,
-    "sourceUrl": "https://www.spigotmc.org/resources/jannes.107098/history"
-  }
+  "name": "1.19-1.0",
+  "downloadUrl": "resources/jannes.107098/download?version=480556",
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672582500,
+  "sourceUrl": "https://www.spigotmc.org/resources/jannes.107098/history"
 }

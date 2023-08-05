@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/zguiapi.107079/download?version=480464",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672495500,
-    "sourceUrl": "https://www.spigotmc.org/resources/107079/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/zguiapi.107079/download?version=480464",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672495500,
+  "sourceUrl": "https://www.spigotmc.org/resources/107079/history/"
 }

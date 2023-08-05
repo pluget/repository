@@ -1,12 +1,9 @@
 {
-  "name": "65.0.0",
-  "version": {
-    "name": "65",
-    "downloadUrl": "resources/lift.4704/download?version=344556",
-    "numberOfDownloads": 430,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1594844040,
-    "sourceUrl": "https://www.spigotmc.org/resources/lift.4704/history"
-  }
+  "name": "65",
+  "downloadUrl": "resources/lift.4704/download?version=344556",
+  "numberOfDownloads": 430,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1594844040,
+  "sourceUrl": "https://www.spigotmc.org/resources/lift.4704/history"
 }

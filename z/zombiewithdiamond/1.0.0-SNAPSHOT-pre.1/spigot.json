@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-SNAPSHOT-pre.1",
-  "version": {
-    "name": "1.0-SNAPSHOT",
-    "downloadUrl": "resources/zombiewithdiamond.105945/download?version=473506",
-    "numberOfDownloads": 16,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1666830180,
-    "sourceUrl": "https://www.spigotmc.org/resources/105945/history/"
-  }
+  "name": "1.0-SNAPSHOT",
+  "downloadUrl": "resources/zombiewithdiamond.105945/download?version=473506",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1666830180,
+  "sourceUrl": "https://www.spigotmc.org/resources/105945/history/"
 }

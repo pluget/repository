@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/viaversion.19254/download?version=164381",
-    "numberOfDownloads": 30,
-    "rating": 9.7073170731708,
-    "numberOfVotes": 41,
-    "releaseDate": 1497020760,
-    "sourceUrl": "https://www.spigotmc.org/resources/viaversion.19254/history"
-  }
+  "downloadUrl": "resources/viaversion.19254/download?version=164381",
+  "numberOfDownloads": 30,
+  "rating": 9.7073170731708,
+  "numberOfVotes": 41,
+  "releaseDate": 1497020760,
+  "sourceUrl": "https://www.spigotmc.org/resources/viaversion.19254/history"
 }

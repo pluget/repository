@@ -1,12 +1,9 @@
 {
   "name": "0.0.1",
-  "version": {
-    "name": "0.0.1",
-    "downloadUrl": "resources/mxrank.104297/download?version=464486",
-    "numberOfDownloads": 25,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1659860280,
-    "sourceUrl": "https://www.spigotmc.org/resources/mxrank.104297/history"
-  }
+  "downloadUrl": "resources/mxrank.104297/download?version=464486",
+  "numberOfDownloads": 25,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1659860280,
+  "sourceUrl": "https://www.spigotmc.org/resources/mxrank.104297/history"
 }

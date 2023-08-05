@@ -1,12 +1,9 @@
 {
   "name": "2.0.0",
-  "version": {
-    "name": "2.0.0",
-    "downloadUrl": "resources/spectate-addon-for-mbedwars.103287/download?version=466409",
-    "numberOfDownloads": 19,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1661023320,
-    "sourceUrl": "https://www.spigotmc.org/resources/spectate-addon-for-mbedwars.103287/history"
-  }
+  "downloadUrl": "resources/spectate-addon-for-mbedwars.103287/download?version=466409",
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1661023320,
+  "sourceUrl": "https://www.spigotmc.org/resources/spectate-addon-for-mbedwars.103287/history"
 }

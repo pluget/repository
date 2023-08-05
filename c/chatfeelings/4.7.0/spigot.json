@@ -1,12 +1,9 @@
 {
-  "name": "4.7.0",
-  "version": {
-    "name": "v4.7",
-    "downloadUrl": "resources/chatfeelings.12987/download?version=402630",
-    "numberOfDownloads": 3,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1623415140,
-    "sourceUrl": "https://www.spigotmc.org/resources/chatfeelings.12987/history"
-  }
+  "name": "v4.7",
+  "downloadUrl": "resources/chatfeelings.12987/download?version=402630",
+  "numberOfDownloads": 3,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1623415140,
+  "sourceUrl": "https://www.spigotmc.org/resources/chatfeelings.12987/history"
 }

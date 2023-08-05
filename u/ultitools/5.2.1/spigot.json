@@ -1,12 +1,9 @@
 {
   "name": "5.2.1",
-  "version": {
-    "name": "5.2.1",
-    "downloadUrl": "resources/ultikits-ultitools.85214/download?version=443031",
-    "numberOfDownloads": 3,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1646046360,
-    "sourceUrl": "https://www.spigotmc.org/resources/ultikits-ultitools.85214/history"
-  }
+  "downloadUrl": "resources/ultikits-ultitools.85214/download?version=443031",
+  "numberOfDownloads": 3,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1646046360,
+  "sourceUrl": "https://www.spigotmc.org/resources/ultikits-ultitools.85214/history"
 }

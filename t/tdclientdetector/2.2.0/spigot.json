@@ -1,12 +1,9 @@
 {
-  "name": "2.2.0",
-  "version": {
-    "name": "2.2",
-    "downloadUrl": "resources/td_clientdetector.96502/download?version=433841",
-    "numberOfDownloads": 92,
-    "rating": 6,
-    "numberOfVotes": 2,
-    "releaseDate": 1640702520,
-    "sourceUrl": "https://www.spigotmc.org/resources/td_clientdetector.96502/history"
-  }
+  "name": "2.2",
+  "downloadUrl": "resources/td_clientdetector.96502/download?version=433841",
+  "numberOfDownloads": 92,
+  "rating": 6,
+  "numberOfVotes": 2,
+  "releaseDate": 1640702520,
+  "sourceUrl": "https://www.spigotmc.org/resources/td_clientdetector.96502/history"
 }

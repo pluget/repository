@@ -1,12 +1,9 @@
 {
-  "name": "2.1.2-(TEST)",
-  "version": {
-    "name": "2.1.2 (TEST)",
-    "downloadUrl": "resources/controlplayer-1-8-8-1-19.102987/download?version=459764",
-    "numberOfDownloads": 169,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1657225380,
-    "sourceUrl": "https://www.spigotmc.org/resources/controlplayer-1-8-8-1-19.102987/history"
-  }
+  "name": "2.1.2 (TEST)",
+  "downloadUrl": "resources/controlplayer-1-8-8-1-19.102987/download?version=459764",
+  "numberOfDownloads": 169,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1657225380,
+  "sourceUrl": "https://www.spigotmc.org/resources/controlplayer-1-8-8-1-19.102987/history"
 }

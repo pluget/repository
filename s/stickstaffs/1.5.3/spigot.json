@@ -1,12 +1,9 @@
 {
   "name": "1.5.3",
-  "version": {
-    "name": "1.5.3",
-    "downloadUrl": "resources/stickstaffs.99970/download?version=441533",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1645090860,
-    "sourceUrl": "https://www.spigotmc.org/resources/stickstaffs.99970/history"
-  }
+  "downloadUrl": "resources/stickstaffs.99970/download?version=441533",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1645090860,
+  "sourceUrl": "https://www.spigotmc.org/resources/stickstaffs.99970/history"
 }

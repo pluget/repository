@@ -1,12 +1,9 @@
 {
   "name": "1.1.7",
-  "version": {
-    "name": "1.1.7",
-    "downloadUrl": "resources/better-netherite.84526/download?version=411601",
-    "numberOfDownloads": 3,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1627364700,
-    "sourceUrl": "https://www.spigotmc.org/resources/better-netherite.84526/history"
-  }
+  "downloadUrl": "resources/better-netherite.84526/download?version=411601",
+  "numberOfDownloads": 3,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1627364700,
+  "sourceUrl": "https://www.spigotmc.org/resources/better-netherite.84526/history"
 }

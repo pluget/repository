@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-BETA",
-  "version": {
-    "name": "1.0-BETA",
-    "downloadUrl": "resources/jettmask.104732/download?version=466544",
-    "numberOfDownloads": 33,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1661106240,
-    "sourceUrl": "https://www.spigotmc.org/resources/104732/history/"
-  }
+  "name": "1.0-BETA",
+  "downloadUrl": "resources/jettmask.104732/download?version=466544",
+  "numberOfDownloads": 33,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1661106240,
+  "sourceUrl": "https://www.spigotmc.org/resources/104732/history/"
 }

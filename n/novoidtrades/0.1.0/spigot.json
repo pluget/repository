@@ -1,12 +1,9 @@
 {
   "name": "0.1.0",
-  "version": {
-    "name": "0.1.0",
-    "downloadUrl": "resources/novoidtrades.104457/download?version=465127",
-    "numberOfDownloads": 31,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1660229760,
-    "sourceUrl": "https://www.spigotmc.org/resources/novoidtrades.104457/history"
-  }
+  "downloadUrl": "resources/novoidtrades.104457/download?version=465127",
+  "numberOfDownloads": 31,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1660229760,
+  "sourceUrl": "https://www.spigotmc.org/resources/novoidtrades.104457/history"
 }

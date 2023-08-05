@@ -1,12 +1,9 @@
 {
   "name": "2.2.3",
-  "version": {
-    "name": "2.2.3",
-    "downloadUrl": "resources/prison.1223/download?version=118551",
-    "numberOfDownloads": 1,
-    "rating": 8,
-    "numberOfVotes": 3,
-    "releaseDate": 1476241260,
-    "sourceUrl": "https://www.spigotmc.org/resources/prison.1223/history"
-  }
+  "downloadUrl": "resources/prison.1223/download?version=118551",
+  "numberOfDownloads": 1,
+  "rating": 8,
+  "numberOfVotes": 3,
+  "releaseDate": 1476241260,
+  "sourceUrl": "https://www.spigotmc.org/resources/prison.1223/history"
 }

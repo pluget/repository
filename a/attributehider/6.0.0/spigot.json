@@ -1,12 +1,9 @@
 {
   "name": "6.0.0",
-  "version": {
-    "name": "6.0.0",
-    "downloadUrl": "resources/attributehider.10604/download?version=341896",
-    "numberOfDownloads": 1,
-    "rating": 7.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1593887580,
-    "sourceUrl": "https://www.spigotmc.org/resources/attributehider.10604/history"
-  }
+  "downloadUrl": "resources/attributehider.10604/download?version=341896",
+  "numberOfDownloads": 1,
+  "rating": 7.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1593887580,
+  "sourceUrl": "https://www.spigotmc.org/resources/attributehider.10604/history"
 }

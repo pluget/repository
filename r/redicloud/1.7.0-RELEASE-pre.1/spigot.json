@@ -1,12 +1,9 @@
 {
-  "name": "1.7.0-RELEASE-pre.1",
-  "version": {
-    "name": "1.7.0-RELEASE",
-    "downloadUrl": "resources/redicloud.104084/download?version=475609",
-    "numberOfDownloads": 18,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1668687480,
-    "sourceUrl": "https://www.spigotmc.org/resources/104084/history/"
-  }
+  "name": "1.7.0-RELEASE",
+  "downloadUrl": "resources/redicloud.104084/download?version=475609",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1668687480,
+  "sourceUrl": "https://www.spigotmc.org/resources/104084/history/"
 }

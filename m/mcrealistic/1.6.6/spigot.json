@@ -1,12 +1,9 @@
 {
   "name": "1.6.6",
-  "version": {
-    "name": "1.6.6",
-    "downloadUrl": "resources/mcrealistic-1-17.21628/download?version=187775",
-    "numberOfDownloads": 165,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1507134540,
-    "sourceUrl": "https://www.spigotmc.org/resources/21628/history/"
-  }
+  "downloadUrl": "resources/mcrealistic-1-17.21628/download?version=187775",
+  "numberOfDownloads": 165,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1507134540,
+  "sourceUrl": "https://www.spigotmc.org/resources/21628/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.2.2",
-  "version": {
-    "name": "2.2.2",
-    "downloadUrl": "resources/challenges-plugin.80548/download?version=458046",
-    "numberOfDownloads": 7,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1656187740,
-    "sourceUrl": "https://www.spigotmc.org/resources/challenges-plugin.80548/history"
-  }
+  "downloadUrl": "resources/challenges-plugin.80548/download?version=458046",
+  "numberOfDownloads": 7,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1656187740,
+  "sourceUrl": "https://www.spigotmc.org/resources/challenges-plugin.80548/history"
 }

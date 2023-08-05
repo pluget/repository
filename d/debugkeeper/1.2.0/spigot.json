@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/debugkeeper.104454/download?version=465100",
-    "numberOfDownloads": 16,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660209780,
-    "sourceUrl": "https://www.spigotmc.org/resources/debugkeeper.104454/history"
-  }
+  "downloadUrl": "resources/debugkeeper.104454/download?version=465100",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660209780,
+  "sourceUrl": "https://www.spigotmc.org/resources/debugkeeper.104454/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.0-Alpha1",
-  "version": {
-    "name": "1.0.0-Alpha1",
-    "downloadUrl": "resources/bsp.99380/download?version=437772",
-    "numberOfDownloads": 8,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1642820700,
-    "sourceUrl": "https://www.spigotmc.org/resources/bsp.99380/history"
-  }
+  "downloadUrl": "resources/bsp.99380/download?version=437772",
+  "numberOfDownloads": 8,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1642820700,
+  "sourceUrl": "https://www.spigotmc.org/resources/bsp.99380/history"
 }

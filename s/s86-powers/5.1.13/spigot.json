@@ -1,12 +1,9 @@
 {
   "name": "5.1.13",
-  "version": {
-    "name": "5.1.13",
-    "downloadUrl": "resources/s86-powers.68637/download?version=315216",
-    "numberOfDownloads": 149,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1582340280,
-    "sourceUrl": "https://www.spigotmc.org/resources/s86-powers.68637/history"
-  }
+  "downloadUrl": "resources/s86-powers.68637/download?version=315216",
+  "numberOfDownloads": 149,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1582340280,
+  "sourceUrl": "https://www.spigotmc.org/resources/s86-powers.68637/history"
 }

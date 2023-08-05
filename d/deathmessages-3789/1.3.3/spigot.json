@@ -1,12 +1,9 @@
 {
   "name": "1.3.3",
-  "version": {
-    "name": "1.3.3",
-    "downloadUrl": "resources/deathmessages.3789/download?version=397267",
-    "numberOfDownloads": 502,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1620151380,
-    "sourceUrl": "https://www.spigotmc.org/resources/deathmessages.3789/history"
-  }
+  "downloadUrl": "resources/deathmessages.3789/download?version=397267",
+  "numberOfDownloads": 502,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1620151380,
+  "sourceUrl": "https://www.spigotmc.org/resources/deathmessages.3789/history"
 }

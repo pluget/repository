@@ -1,12 +1,9 @@
 {
   "name": "1.7.2",
-  "version": {
-    "name": "1.7.2",
-    "downloadUrl": "resources/bluemap.83557/download?version=429004",
-    "numberOfDownloads": 7,
-    "rating": 9,
-    "numberOfVotes": 10,
-    "releaseDate": 1638307860,
-    "sourceUrl": "https://www.spigotmc.org/resources/83557/history/"
-  }
+  "downloadUrl": "resources/bluemap.83557/download?version=429004",
+  "numberOfDownloads": 7,
+  "rating": 9,
+  "numberOfVotes": 10,
+  "releaseDate": 1638307860,
+  "sourceUrl": "https://www.spigotmc.org/resources/83557/history/"
 }

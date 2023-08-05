@@ -1,12 +1,9 @@
 {
   "name": "2.3.1",
-  "version": {
-    "name": "2.3.1",
-    "downloadUrl": "resources/visual-bukkit-create-plugins.76474/download?version=381141",
-    "numberOfDownloads": 232,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1612229640,
-    "sourceUrl": "https://www.spigotmc.org/resources/visual-bukkit-create-plugins.76474/history"
-  }
+  "downloadUrl": "resources/visual-bukkit-create-plugins.76474/download?version=381141",
+  "numberOfDownloads": 232,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1612229640,
+  "sourceUrl": "https://www.spigotmc.org/resources/visual-bukkit-create-plugins.76474/history"
 }

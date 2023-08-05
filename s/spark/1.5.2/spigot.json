@@ -1,12 +1,9 @@
 {
   "name": "1.5.2",
-  "version": {
-    "name": "1.5.2",
-    "downloadUrl": "resources/spark.57242/download?version=389555",
-    "numberOfDownloads": 3,
-    "rating": 8,
-    "numberOfVotes": 5,
-    "releaseDate": 1616248920,
-    "sourceUrl": "https://www.spigotmc.org/resources/spark.57242/history"
-  }
+  "downloadUrl": "resources/spark.57242/download?version=389555",
+  "numberOfDownloads": 3,
+  "rating": 8,
+  "numberOfVotes": 5,
+  "releaseDate": 1616248920,
+  "sourceUrl": "https://www.spigotmc.org/resources/spark.57242/history"
 }

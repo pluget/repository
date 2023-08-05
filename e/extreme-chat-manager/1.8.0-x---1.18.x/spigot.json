@@ -1,12 +1,9 @@
 {
-  "name": "1.8.0-x---1.18.x",
-  "version": {
-    "name": "1.8.x - 1.18.x",
-    "downloadUrl": "resources/extreme-chat-manager.101864/download?version=451436",
-    "numberOfDownloads": 75,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1651875540,
-    "sourceUrl": "https://www.spigotmc.org/resources/extreme-chat-manager.101864/history"
-  }
+  "name": "1.8.x - 1.18.x",
+  "downloadUrl": "resources/extreme-chat-manager.101864/download?version=451436",
+  "numberOfDownloads": 75,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1651875540,
+  "sourceUrl": "https://www.spigotmc.org/resources/extreme-chat-manager.101864/history"
 }

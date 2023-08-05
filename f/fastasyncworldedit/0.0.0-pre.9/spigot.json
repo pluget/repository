@@ -1,12 +1,9 @@
 {
-  "name": "0.0.0-pre.9",
-  "version": {
-    "name": "beta-development-build",
-    "downloadUrl": "resources/fastasyncworldedit.13932/download?version=406824",
-    "numberOfDownloads": 11,
-    "rating": 10,
-    "numberOfVotes": 5,
-    "releaseDate": 1625239860,
-    "sourceUrl": "https://www.spigotmc.org/resources/fastasyncworldedit.13932/history"
-  }
+  "name": "beta-development-build",
+  "downloadUrl": "resources/fastasyncworldedit.13932/download?version=406824",
+  "numberOfDownloads": 11,
+  "rating": 10,
+  "numberOfVotes": 5,
+  "releaseDate": 1625239860,
+  "sourceUrl": "https://www.spigotmc.org/resources/fastasyncworldedit.13932/history"
 }

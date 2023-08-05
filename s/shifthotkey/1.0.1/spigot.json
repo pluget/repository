@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/shifthotkey.100043/download?version=443452",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646305980,
-    "sourceUrl": "https://www.spigotmc.org/resources/shifthotkey.100043/history"
-  }
+  "downloadUrl": "resources/shifthotkey.100043/download?version=443452",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646305980,
+  "sourceUrl": "https://www.spigotmc.org/resources/shifthotkey.100043/history"
 }

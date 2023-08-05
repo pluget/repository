@@ -1,12 +1,9 @@
 {
   "name": "4.6.2-b.1",
-  "version": {
-    "name": "4.6.2-b.1",
-    "downloadUrl": "resources/economyshopgui.69927/download?version=455087",
-    "numberOfDownloads": 3,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1654642920,
-    "sourceUrl": "https://www.spigotmc.org/resources/69927/history/"
-  }
+  "downloadUrl": "resources/economyshopgui.69927/download?version=455087",
+  "numberOfDownloads": 3,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1654642920,
+  "sourceUrl": "https://www.spigotmc.org/resources/69927/history/"
 }

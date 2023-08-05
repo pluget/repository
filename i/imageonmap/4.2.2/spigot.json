@@ -1,12 +1,9 @@
 {
   "name": "4.2.2",
-  "version": {
-    "name": "4.2.2",
-    "downloadUrl": "resources/imageonmap.26585/download?version=436653",
-    "numberOfDownloads": 143,
-    "rating": 5.1578947368422,
-    "numberOfVotes": 19,
-    "releaseDate": 1642202700,
-    "sourceUrl": "https://www.spigotmc.org/resources/imageonmap.26585/history"
-  }
+  "downloadUrl": "resources/imageonmap.26585/download?version=436653",
+  "numberOfDownloads": 143,
+  "rating": 5.1578947368422,
+  "numberOfVotes": 19,
+  "releaseDate": 1642202700,
+  "sourceUrl": "https://www.spigotmc.org/resources/imageonmap.26585/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "3.1.0-BETA",
-  "version": {
-    "name": "3.1.0-BETA",
-    "downloadUrl": "resources/partychat.79295/download?version=365391",
-    "numberOfDownloads": 51,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1604543760,
-    "sourceUrl": "https://www.spigotmc.org/resources/79295/history/"
-  }
+  "downloadUrl": "resources/partychat.79295/download?version=365391",
+  "numberOfDownloads": 51,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1604543760,
+  "sourceUrl": "https://www.spigotmc.org/resources/79295/history/"
 }

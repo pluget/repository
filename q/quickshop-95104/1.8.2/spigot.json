@@ -1,12 +1,9 @@
 {
   "name": "1.8.2",
-  "version": {
-    "name": "1.8.2",
-    "downloadUrl": "resources/quickshop-addon-shop-search.95104/download?version=433762",
-    "numberOfDownloads": 88,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1640656680,
-    "sourceUrl": "https://www.spigotmc.org/resources/quickshop-addon-shop-search.95104/history"
-  }
+  "downloadUrl": "resources/quickshop-addon-shop-search.95104/download?version=433762",
+  "numberOfDownloads": 88,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1640656680,
+  "sourceUrl": "https://www.spigotmc.org/resources/quickshop-addon-shop-search.95104/history"
 }

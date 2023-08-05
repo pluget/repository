@@ -1,12 +1,9 @@
 {
   "name": "1.2.14",
-  "version": {
-    "name": "1.2.14",
-    "downloadUrl": "resources/random-death-messages.73034/download?version=305624",
-    "numberOfDownloads": 53,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1576662300,
-    "sourceUrl": "https://www.spigotmc.org/resources/random-death-messages.73034/history"
-  }
+  "downloadUrl": "resources/random-death-messages.73034/download?version=305624",
+  "numberOfDownloads": 53,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1576662300,
+  "sourceUrl": "https://www.spigotmc.org/resources/random-death-messages.73034/history"
 }

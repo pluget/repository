@@ -1,12 +1,9 @@
 {
   "name": "1.15.1",
-  "version": {
-    "name": "1.15.1",
-    "downloadUrl": "resources/modifyworld-update.65347/download?version=307255",
-    "numberOfDownloads": 1,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1577615520,
-    "sourceUrl": "https://www.spigotmc.org/resources/65347/history/"
-  }
+  "downloadUrl": "resources/modifyworld-update.65347/download?version=307255",
+  "numberOfDownloads": 1,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1577615520,
+  "sourceUrl": "https://www.spigotmc.org/resources/65347/history/"
 }

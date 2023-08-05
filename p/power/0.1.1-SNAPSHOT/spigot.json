@@ -1,12 +1,9 @@
 {
   "name": "0.1.1-SNAPSHOT",
-  "version": {
-    "name": "0.1.1-SNAPSHOT",
-    "downloadUrl": "resources/power-1-8-1-18.99682/download?version=439359",
-    "numberOfDownloads": 39,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1643725920,
-    "sourceUrl": "https://www.spigotmc.org/resources/power-1-8-1-18.99682/history"
-  }
+  "downloadUrl": "resources/power-1-8-1-18.99682/download?version=439359",
+  "numberOfDownloads": 39,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1643725920,
+  "sourceUrl": "https://www.spigotmc.org/resources/power-1-8-1-18.99682/history"
 }

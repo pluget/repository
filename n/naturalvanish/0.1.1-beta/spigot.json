@@ -1,12 +1,9 @@
 {
   "name": "0.1.1-beta",
-  "version": {
-    "name": "0.1.1-beta",
-    "downloadUrl": "resources/naturalvanish.91617/download?version=396245",
-    "numberOfDownloads": 42,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1619562060,
-    "sourceUrl": "https://www.spigotmc.org/resources/naturalvanish.91617/history"
-  }
+  "downloadUrl": "resources/naturalvanish.91617/download?version=396245",
+  "numberOfDownloads": 42,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1619562060,
+  "sourceUrl": "https://www.spigotmc.org/resources/naturalvanish.91617/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.4.0",
-  "version": {
-    "name": "1.4",
-    "downloadUrl": "resources/playtime.26016/download?version=102539",
-    "numberOfDownloads": 161,
-    "rating": 8,
-    "numberOfVotes": 2,
-    "releaseDate": 1468355160,
-    "sourceUrl": "https://www.spigotmc.org/resources/26016/history/"
-  }
+  "name": "1.4",
+  "downloadUrl": "resources/playtime.26016/download?version=102539",
+  "numberOfDownloads": 161,
+  "rating": 8,
+  "numberOfVotes": 2,
+  "releaseDate": 1468355160,
+  "sourceUrl": "https://www.spigotmc.org/resources/26016/history/"
 }

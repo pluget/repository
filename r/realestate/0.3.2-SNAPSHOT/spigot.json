@@ -1,12 +1,9 @@
 {
   "name": "0.3.2-SNAPSHOT",
-  "version": {
-    "name": "0.3.2-SNAPSHOT",
-    "downloadUrl": "resources/realestate.66966/download?version=274674",
-    "numberOfDownloads": 106,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1558459920,
-    "sourceUrl": "https://www.spigotmc.org/resources/realestate.66966/history"
-  }
+  "downloadUrl": "resources/realestate.66966/download?version=274674",
+  "numberOfDownloads": 106,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1558459920,
+  "sourceUrl": "https://www.spigotmc.org/resources/realestate.66966/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "4.7.0",
-  "version": {
-    "name": "4.7.0",
-    "downloadUrl": "resources/invunload.60095/download?version=344584",
-    "numberOfDownloads": 80,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1594848660,
-    "sourceUrl": "https://www.spigotmc.org/resources/60095/history/"
-  }
+  "downloadUrl": "resources/invunload.60095/download?version=344584",
+  "numberOfDownloads": 80,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1594848660,
+  "sourceUrl": "https://www.spigotmc.org/resources/60095/history/"
 }

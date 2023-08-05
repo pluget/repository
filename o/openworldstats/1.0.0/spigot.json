@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/openworldstats.103461/download?version=461170",
-    "numberOfDownloads": 39,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1658081100,
-    "sourceUrl": "https://www.spigotmc.org/resources/openworldstats.103461/history"
-  }
+  "downloadUrl": "resources/openworldstats.103461/download?version=461170",
+  "numberOfDownloads": 39,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1658081100,
+  "sourceUrl": "https://www.spigotmc.org/resources/openworldstats.103461/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/simplebackpacks-a-simple-backpack-plugin-1-18-1-19.99062/download?version=435702",
-    "numberOfDownloads": 665,
-    "rating": 6.6666666666666,
-    "numberOfVotes": 3,
-    "releaseDate": 1641666840,
-    "sourceUrl": "https://www.spigotmc.org/resources/simplebackpacks-a-simple-backpack-plugin-1-18-1-19.99062/history"
-  }
+  "downloadUrl": "resources/simplebackpacks-a-simple-backpack-plugin-1-18-1-19.99062/download?version=435702",
+  "numberOfDownloads": 665,
+  "rating": 6.6666666666666,
+  "numberOfVotes": 3,
+  "releaseDate": 1641666840,
+  "sourceUrl": "https://www.spigotmc.org/resources/simplebackpacks-a-simple-backpack-plugin-1-18-1-19.99062/history"
 }

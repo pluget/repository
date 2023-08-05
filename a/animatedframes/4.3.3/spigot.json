@@ -1,12 +1,9 @@
 {
   "name": "4.3.3",
-  "version": {
-    "name": "4.3.3",
-    "downloadUrl": "resources/animatedframes.5583/download?version=107301",
-    "numberOfDownloads": 15,
-    "rating": 7.0666666666666,
-    "numberOfVotes": 15,
-    "releaseDate": 1470489720,
-    "sourceUrl": "https://www.spigotmc.org/resources/animatedframes.5583/history"
-  }
+  "downloadUrl": "resources/animatedframes.5583/download?version=107301",
+  "numberOfDownloads": 15,
+  "rating": 7.0666666666666,
+  "numberOfVotes": 15,
+  "releaseDate": 1470489720,
+  "sourceUrl": "https://www.spigotmc.org/resources/animatedframes.5583/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "4.2.1",
-  "version": {
-    "name": "4.2.1",
-    "downloadUrl": "resources/viaversion.19254/download?version=443043",
-    "numberOfDownloads": 400,
-    "rating": 10,
-    "numberOfVotes": 9,
-    "releaseDate": 1646057340,
-    "sourceUrl": "https://www.spigotmc.org/resources/viaversion.19254/history"
-  }
+  "downloadUrl": "resources/viaversion.19254/download?version=443043",
+  "numberOfDownloads": 400,
+  "rating": 10,
+  "numberOfVotes": 9,
+  "releaseDate": 1646057340,
+  "sourceUrl": "https://www.spigotmc.org/resources/viaversion.19254/history"
 }

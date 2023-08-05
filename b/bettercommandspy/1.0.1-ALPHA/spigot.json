@@ -1,12 +1,9 @@
 {
   "name": "1.0.1-ALPHA",
-  "version": {
-    "name": "1.0.1-ALPHA",
-    "downloadUrl": "resources/bettercommandspy.84030/download?version=357883",
-    "numberOfDownloads": 83,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1600559820,
-    "sourceUrl": "https://www.spigotmc.org/resources/bettercommandspy.84030/history"
-  }
+  "downloadUrl": "resources/bettercommandspy.84030/download?version=357883",
+  "numberOfDownloads": 83,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1600559820,
+  "sourceUrl": "https://www.spigotmc.org/resources/bettercommandspy.84030/history"
 }

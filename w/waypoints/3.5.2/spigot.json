@@ -1,12 +1,9 @@
 {
   "name": "3.5.2",
-  "version": {
-    "name": "3.5.2",
-    "downloadUrl": "resources/waypoints.66647/download?version=460920",
-    "numberOfDownloads": 195,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657914660,
-    "sourceUrl": "https://www.spigotmc.org/resources/waypoints.66647/history"
-  }
+  "downloadUrl": "resources/waypoints.66647/download?version=460920",
+  "numberOfDownloads": 195,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657914660,
+  "sourceUrl": "https://www.spigotmc.org/resources/waypoints.66647/history"
 }

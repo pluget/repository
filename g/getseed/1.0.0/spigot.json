@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/getseed.99249/download?version=436860",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1642304580,
-    "sourceUrl": "https://www.spigotmc.org/resources/getseed.99249/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/getseed.99249/download?version=436860",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1642304580,
+  "sourceUrl": "https://www.spigotmc.org/resources/getseed.99249/history"
 }

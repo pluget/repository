@@ -1,12 +1,9 @@
 {
   "name": "1.0.1-SNAPSHOT",
-  "version": {
-    "name": "1.0.1-SNAPSHOT",
-    "downloadUrl": "resources/public-party-extension-for-party-and-friends-experimental.46250/download?version=220537",
-    "numberOfDownloads": 169,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1525617120,
-    "sourceUrl": "https://www.spigotmc.org/resources/public-party-extension-for-party-and-friends-experimental.46250/history"
-  }
+  "downloadUrl": "resources/public-party-extension-for-party-and-friends-experimental.46250/download?version=220537",
+  "numberOfDownloads": 169,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1525617120,
+  "sourceUrl": "https://www.spigotmc.org/resources/public-party-extension-for-party-and-friends-experimental.46250/history"
 }

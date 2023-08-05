@@ -1,12 +1,9 @@
 {
   "name": "2.8.3",
-  "version": {
-    "name": "2.8.3",
-    "downloadUrl": "resources/clientstats-bukkit-spigot.24329/download?version=163995",
-    "numberOfDownloads": 397,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1496852040,
-    "sourceUrl": "https://www.spigotmc.org/resources/clientstats-bukkit-spigot.24329/history"
-  }
+  "downloadUrl": "resources/clientstats-bukkit-spigot.24329/download?version=163995",
+  "numberOfDownloads": 397,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1496852040,
+  "sourceUrl": "https://www.spigotmc.org/resources/clientstats-bukkit-spigot.24329/history"
 }

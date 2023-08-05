@@ -1,12 +1,9 @@
 {
   "name": "2.2.2",
-  "version": {
-    "name": "2.2.2",
-    "downloadUrl": "resources/marriage-reloaded.18998/download?version=485863",
-    "numberOfDownloads": 242,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1676377380,
-    "sourceUrl": "https://www.spigotmc.org/resources/marriage-reloaded.18998/history"
-  }
+  "downloadUrl": "resources/marriage-reloaded.18998/download?version=485863",
+  "numberOfDownloads": 242,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1676377380,
+  "sourceUrl": "https://www.spigotmc.org/resources/marriage-reloaded.18998/history"
 }

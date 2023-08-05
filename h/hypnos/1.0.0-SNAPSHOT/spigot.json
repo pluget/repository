@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-SNAPSHOT",
-  "version": {
-    "name": "1.0-SNAPSHOT",
-    "downloadUrl": "resources/hypnos.100731/download?version=445297",
-    "numberOfDownloads": 34,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1647364620,
-    "sourceUrl": "https://www.spigotmc.org/resources/hypnos.100731/history"
-  }
+  "name": "1.0-SNAPSHOT",
+  "downloadUrl": "resources/hypnos.100731/download?version=445297",
+  "numberOfDownloads": 34,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1647364620,
+  "sourceUrl": "https://www.spigotmc.org/resources/hypnos.100731/history"
 }

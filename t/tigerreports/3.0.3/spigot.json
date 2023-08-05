@@ -1,12 +1,9 @@
 {
   "name": "3.0.3",
-  "version": {
-    "name": "3.0.3",
-    "downloadUrl": "resources/tigerreports.25773/download?version=152903",
-    "numberOfDownloads": 142,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1491656700,
-    "sourceUrl": "https://www.spigotmc.org/resources/tigerreports.25773/history"
-  }
+  "downloadUrl": "resources/tigerreports.25773/download?version=152903",
+  "numberOfDownloads": 142,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1491656700,
+  "sourceUrl": "https://www.spigotmc.org/resources/tigerreports.25773/history"
 }

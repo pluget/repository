@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/crackedblocks.66625/download?version=366420",
-    "numberOfDownloads": 651,
-    "rating": 9,
-    "numberOfVotes": 4,
-    "releaseDate": 1605037260,
-    "sourceUrl": "https://www.spigotmc.org/resources/66625/history/"
-  }
+  "downloadUrl": "resources/crackedblocks.66625/download?version=366420",
+  "numberOfDownloads": 651,
+  "rating": 9,
+  "numberOfVotes": 4,
+  "releaseDate": 1605037260,
+  "sourceUrl": "https://www.spigotmc.org/resources/66625/history/"
 }

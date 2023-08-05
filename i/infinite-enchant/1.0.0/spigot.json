@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/infinite-enchant.107740/download?version=484310",
-    "numberOfDownloads": 120,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1675191960,
-    "sourceUrl": "https://www.spigotmc.org/resources/infinite-enchant.107740/history"
-  }
+  "downloadUrl": "resources/infinite-enchant.107740/download?version=484310",
+  "numberOfDownloads": 120,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1675191960,
+  "sourceUrl": "https://www.spigotmc.org/resources/infinite-enchant.107740/history"
 }

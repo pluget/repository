@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0",
-  "version": {
-    "name": "1.1",
-    "downloadUrl": "resources/dynamic-difficulty.92025/download?version=400020",
-    "numberOfDownloads": 93,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1621790460,
-    "sourceUrl": "https://www.spigotmc.org/resources/92025/history/"
-  }
+  "name": "1.1",
+  "downloadUrl": "resources/dynamic-difficulty.92025/download?version=400020",
+  "numberOfDownloads": 93,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1621790460,
+  "sourceUrl": "https://www.spigotmc.org/resources/92025/history/"
 }

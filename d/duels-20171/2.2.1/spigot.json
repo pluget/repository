@@ -1,12 +1,9 @@
 {
   "name": "2.2.1",
-  "version": {
-    "name": "2.2.1",
-    "downloadUrl": "resources/duels.20171/download?version=126348",
-    "numberOfDownloads": 179,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1480115880,
-    "sourceUrl": "https://www.spigotmc.org/resources/duels.20171/history"
-  }
+  "downloadUrl": "resources/duels.20171/download?version=126348",
+  "numberOfDownloads": 179,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1480115880,
+  "sourceUrl": "https://www.spigotmc.org/resources/duels.20171/history"
 }

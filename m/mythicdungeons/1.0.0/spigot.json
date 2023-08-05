@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "v1.0.0",
-    "downloadUrl": "resources/mythicdungeons.102699/download?version=456865",
-    "numberOfDownloads": 251,
-    "rating": 10,
-    "numberOfVotes": 12,
-    "releaseDate": 1655520720,
-    "sourceUrl": "https://www.spigotmc.org/resources/mythicdungeons.102699/history"
-  }
+  "name": "v1.0.0",
+  "downloadUrl": "resources/mythicdungeons.102699/download?version=456865",
+  "numberOfDownloads": 251,
+  "rating": 10,
+  "numberOfVotes": 12,
+  "releaseDate": 1655520720,
+  "sourceUrl": "https://www.spigotmc.org/resources/mythicdungeons.102699/history"
 }

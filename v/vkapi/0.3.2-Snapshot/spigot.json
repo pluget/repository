@@ -1,12 +1,9 @@
 {
-  "name": "0.3.2-Snapshot",
-  "version": {
-    "name": "0.3.2 Snapshot",
-    "downloadUrl": "resources/vk-api.93093/download?version=447425",
-    "numberOfDownloads": 1,
-    "rating": 6,
-    "numberOfVotes": 2,
-    "releaseDate": 1648905780,
-    "sourceUrl": "https://www.spigotmc.org/resources/vk-api.93093/history"
-  }
+  "name": "0.3.2 Snapshot",
+  "downloadUrl": "resources/vk-api.93093/download?version=447425",
+  "numberOfDownloads": 1,
+  "rating": 6,
+  "numberOfVotes": 2,
+  "releaseDate": 1648905780,
+  "sourceUrl": "https://www.spigotmc.org/resources/vk-api.93093/history"
 }

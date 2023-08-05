@@ -1,12 +1,9 @@
 {
   "name": "2.3.3",
-  "version": {
-    "name": "2.3.3",
-    "downloadUrl": "resources/playerbalancer.55011/download?version=448393",
-    "numberOfDownloads": 1,
-    "rating": 9.6,
-    "numberOfVotes": 5,
-    "releaseDate": 1649605560,
-    "sourceUrl": "https://www.spigotmc.org/resources/55011/history/"
-  }
+  "downloadUrl": "resources/playerbalancer.55011/download?version=448393",
+  "numberOfDownloads": 1,
+  "rating": 9.6,
+  "numberOfVotes": 5,
+  "releaseDate": 1649605560,
+  "sourceUrl": "https://www.spigotmc.org/resources/55011/history/"
 }

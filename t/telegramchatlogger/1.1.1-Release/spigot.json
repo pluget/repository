@@ -1,12 +1,9 @@
 {
   "name": "1.1.1-Release",
-  "version": {
-    "name": "1.1.1-Release",
-    "downloadUrl": "resources/telegramchatlogger.100442/download?version=443493",
-    "numberOfDownloads": 34,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646324640,
-    "sourceUrl": "https://www.spigotmc.org/resources/telegramchatlogger.100442/history"
-  }
+  "downloadUrl": "resources/telegramchatlogger.100442/download?version=443493",
+  "numberOfDownloads": 34,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646324640,
+  "sourceUrl": "https://www.spigotmc.org/resources/telegramchatlogger.100442/history"
 }

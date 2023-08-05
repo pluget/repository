@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/zestylifesteal.99836/download?version=440252",
-    "numberOfDownloads": 125,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1644228480,
-    "sourceUrl": "https://www.spigotmc.org/resources/99836/history/"
-  }
+  "downloadUrl": "resources/zestylifesteal.99836/download?version=440252",
+  "numberOfDownloads": 125,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1644228480,
+  "sourceUrl": "https://www.spigotmc.org/resources/99836/history/"
 }

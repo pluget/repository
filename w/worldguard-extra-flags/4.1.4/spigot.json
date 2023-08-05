@@ -1,12 +1,9 @@
 {
   "name": "4.1.4",
-  "version": {
-    "name": "4.1.4",
-    "downloadUrl": "resources/worldguard-extra-flags.4823/download?version=326911",
-    "numberOfDownloads": 22,
-    "rating": 9.483870967742,
-    "numberOfVotes": 31,
-    "releaseDate": 1587736740,
-    "sourceUrl": "https://www.spigotmc.org/resources/4823/history/"
-  }
+  "downloadUrl": "resources/worldguard-extra-flags.4823/download?version=326911",
+  "numberOfDownloads": 22,
+  "rating": 9.483870967742,
+  "numberOfVotes": 31,
+  "releaseDate": 1587736740,
+  "sourceUrl": "https://www.spigotmc.org/resources/4823/history/"
 }

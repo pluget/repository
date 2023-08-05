@@ -1,12 +1,9 @@
 {
   "name": "2.0.2-RELEASE",
-  "version": {
-    "name": "2.0.2-RELEASE",
-    "downloadUrl": "resources/liquidsecurity-skript.102992/download?version=458610",
-    "numberOfDownloads": 11,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1656554520,
-    "sourceUrl": "https://www.spigotmc.org/resources/liquidsecurity-skript.102992/history"
-  }
+  "downloadUrl": "resources/liquidsecurity-skript.102992/download?version=458610",
+  "numberOfDownloads": 11,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1656554520,
+  "sourceUrl": "https://www.spigotmc.org/resources/liquidsecurity-skript.102992/history"
 }

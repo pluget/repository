@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/banannouncer-discord.64976/download?version=288837",
-    "numberOfDownloads": 83,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1565608380,
-    "sourceUrl": "https://www.spigotmc.org/resources/banannouncer-discord.64976/history"
-  }
+  "downloadUrl": "resources/banannouncer-discord.64976/download?version=288837",
+  "numberOfDownloads": 83,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1565608380,
+  "sourceUrl": "https://www.spigotmc.org/resources/banannouncer-discord.64976/history"
 }

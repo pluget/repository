@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "V 1.0",
-    "downloadUrl": "resources/luckperms-tab.101188/download?version=460892",
-    "numberOfDownloads": 676,
-    "rating": 4,
-    "numberOfVotes": 1,
-    "releaseDate": 1657897020,
-    "sourceUrl": "https://www.spigotmc.org/resources/luckperms-tab.101188/history"
-  }
+  "name": "V 1.0",
+  "downloadUrl": "resources/luckperms-tab.101188/download?version=460892",
+  "numberOfDownloads": 676,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releaseDate": 1657897020,
+  "sourceUrl": "https://www.spigotmc.org/resources/luckperms-tab.101188/history"
 }

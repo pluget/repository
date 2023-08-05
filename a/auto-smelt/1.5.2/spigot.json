@@ -1,12 +1,9 @@
 {
   "name": "1.5.2",
-  "version": {
-    "name": "1.5.2",
-    "downloadUrl": "resources/auto-smelt.71576/download?version=296705",
-    "numberOfDownloads": 318,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1570213080,
-    "sourceUrl": "https://www.spigotmc.org/resources/auto-smelt.71576/history"
-  }
+  "downloadUrl": "resources/auto-smelt.71576/download?version=296705",
+  "numberOfDownloads": 318,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1570213080,
+  "sourceUrl": "https://www.spigotmc.org/resources/auto-smelt.71576/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/interfacemaker.101353/download?version=453339",
-    "numberOfDownloads": 135,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1653362340,
-    "sourceUrl": "https://www.spigotmc.org/resources/interfacemaker.101353/history"
-  }
+  "downloadUrl": "resources/interfacemaker.101353/download?version=453339",
+  "numberOfDownloads": 135,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1653362340,
+  "sourceUrl": "https://www.spigotmc.org/resources/interfacemaker.101353/history"
 }

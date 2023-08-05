@@ -1,12 +1,9 @@
 {
   "name": "2.2.5",
-  "version": {
-    "name": "2.2.5",
-    "downloadUrl": "resources/simple-chat-channels.35220/download?version=268582",
-    "numberOfDownloads": 115,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1555083600,
-    "sourceUrl": "https://www.spigotmc.org/resources/simple-chat-channels.35220/history"
-  }
+  "downloadUrl": "resources/simple-chat-channels.35220/download?version=268582",
+  "numberOfDownloads": 115,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1555083600,
+  "sourceUrl": "https://www.spigotmc.org/resources/simple-chat-channels.35220/history"
 }

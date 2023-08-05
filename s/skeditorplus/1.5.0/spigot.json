@@ -1,12 +1,9 @@
 {
   "name": "1.5.0",
-  "version": {
-    "name": "1.5.0",
-    "downloadUrl": "resources/skeditor.108251/download?version=488947",
-    "numberOfDownloads": 21,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1678713600,
-    "sourceUrl": "https://www.spigotmc.org/resources/skeditor.108251/history"
-  }
+  "downloadUrl": "resources/skeditor.108251/download?version=488947",
+  "numberOfDownloads": 21,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1678713600,
+  "sourceUrl": "https://www.spigotmc.org/resources/skeditor.108251/history"
 }

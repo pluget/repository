@@ -1,12 +1,9 @@
 {
   "name": "2.9.0",
-  "version": {
-    "name": "2.9.0",
-    "downloadUrl": "resources/clientstats-bungee.27919/download?version=295005",
-    "numberOfDownloads": 302,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1569159840,
-    "sourceUrl": "https://www.spigotmc.org/resources/clientstats-bungee.27919/history"
-  }
+  "downloadUrl": "resources/clientstats-bungee.27919/download?version=295005",
+  "numberOfDownloads": 302,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1569159840,
+  "sourceUrl": "https://www.spigotmc.org/resources/clientstats-bungee.27919/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.0.3",
-  "version": {
-    "name": "2.0.3",
-    "downloadUrl": "resources/smp-api.100482/download?version=443744",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646461260,
-    "sourceUrl": "https://www.spigotmc.org/resources/100482/history/"
-  }
+  "downloadUrl": "resources/smp-api.100482/download?version=443744",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646461260,
+  "sourceUrl": "https://www.spigotmc.org/resources/100482/history/"
 }

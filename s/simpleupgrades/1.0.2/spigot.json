@@ -1,12 +1,9 @@
 {
   "name": "1.0.2",
-  "version": {
-    "name": "1.0.2",
-    "downloadUrl": "resources/simpleupgrades-%E2%AD%90-custom-upgrades-for-your-items.107919/download?version=485708",
-    "numberOfDownloads": 33,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1676231640,
-    "sourceUrl": "https://www.spigotmc.org/resources/107919/history/"
-  }
+  "downloadUrl": "resources/simpleupgrades-%E2%AD%90-custom-upgrades-for-your-items.107919/download?version=485708",
+  "numberOfDownloads": 33,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1676231640,
+  "sourceUrl": "https://www.spigotmc.org/resources/107919/history/"
 }

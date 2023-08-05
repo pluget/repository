@@ -1,12 +1,9 @@
 {
   "name": "1.16.1-v1",
-  "version": {
-    "name": "1.16.1-v1",
-    "downloadUrl": "resources/light-cleaner.42469/download?version=346864",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 7,
-    "releaseDate": 1595795280,
-    "sourceUrl": "https://www.spigotmc.org/resources/light-cleaner.42469/history"
-  }
+  "downloadUrl": "resources/light-cleaner.42469/download?version=346864",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 7,
+  "releaseDate": 1595795280,
+  "sourceUrl": "https://www.spigotmc.org/resources/light-cleaner.42469/history"
 }

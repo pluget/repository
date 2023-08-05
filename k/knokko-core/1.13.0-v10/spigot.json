@@ -1,12 +1,9 @@
 {
-  "name": "1.13.0-v10",
-  "version": {
-    "name": "Minecraft 1.13 v10",
-    "downloadUrl": "resources/knokko-core.88178/download?version=449393",
-    "numberOfDownloads": 12,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1650304980,
-    "sourceUrl": "https://www.spigotmc.org/resources/88178/history/"
-  }
+  "name": "Minecraft 1.13 v10",
+  "downloadUrl": "resources/knokko-core.88178/download?version=449393",
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1650304980,
+  "sourceUrl": "https://www.spigotmc.org/resources/88178/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/skystaff.100256/download?version=442418",
-    "numberOfDownloads": 28,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1645629120,
-    "sourceUrl": "https://www.spigotmc.org/resources/100256/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/skystaff.100256/download?version=442418",
+  "numberOfDownloads": 28,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1645629120,
+  "sourceUrl": "https://www.spigotmc.org/resources/100256/history/"
 }

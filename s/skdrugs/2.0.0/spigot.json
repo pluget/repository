@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0",
-  "version": {
-    "name": "v2",
-    "downloadUrl": "resources/skdrugs.98827/download?version=434313",
-    "numberOfDownloads": 41,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1640958720,
-    "sourceUrl": "https://www.spigotmc.org/resources/skdrugs.98827/history"
-  }
+  "name": "v2",
+  "downloadUrl": "resources/skdrugs.98827/download?version=434313",
+  "numberOfDownloads": 41,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1640958720,
+  "sourceUrl": "https://www.spigotmc.org/resources/skdrugs.98827/history"
 }

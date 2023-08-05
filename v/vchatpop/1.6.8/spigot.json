@@ -1,12 +1,9 @@
 {
   "name": "1.6.8",
-  "version": {
-    "name": "1.6.8",
-    "downloadUrl": "resources/vchatpop.107159/download?version=480943",
-    "numberOfDownloads": 16,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672823160,
-    "sourceUrl": "https://www.spigotmc.org/resources/107159/history/"
-  }
+  "downloadUrl": "resources/vchatpop.107159/download?version=480943",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672823160,
+  "sourceUrl": "https://www.spigotmc.org/resources/107159/history/"
 }

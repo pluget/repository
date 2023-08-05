@@ -1,12 +1,9 @@
 {
   "name": "2.13.29",
-  "version": {
-    "name": "2.13.29",
-    "downloadUrl": "resources/singleplayersleep.68139/download?version=303190",
-    "numberOfDownloads": 211,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1575090660,
-    "sourceUrl": "https://www.spigotmc.org/resources/singleplayersleep.68139/history"
-  }
+  "downloadUrl": "resources/singleplayersleep.68139/download?version=303190",
+  "numberOfDownloads": 211,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1575090660,
+  "sourceUrl": "https://www.spigotmc.org/resources/singleplayersleep.68139/history"
 }

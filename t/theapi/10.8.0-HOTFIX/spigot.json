@@ -1,12 +1,9 @@
 {
-  "name": "10.8.0-HOTFIX",
-  "version": {
-    "name": "10.8 HOTFIX",
-    "downloadUrl": "resources/theapi.72679/download?version=486177",
-    "numberOfDownloads": 271,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1676589120,
-    "sourceUrl": "https://www.spigotmc.org/resources/theapi.72679/history"
-  }
+  "name": "10.8 HOTFIX",
+  "downloadUrl": "resources/theapi.72679/download?version=486177",
+  "numberOfDownloads": 271,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1676589120,
+  "sourceUrl": "https://www.spigotmc.org/resources/theapi.72679/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.4.4",
-  "version": {
-    "name": "1.4.4",
-    "downloadUrl": "resources/triggerreactor.40987/download?version=211277",
-    "numberOfDownloads": 211,
-    "rating": 10,
-    "numberOfVotes": 5,
-    "releaseDate": 1520292000,
-    "sourceUrl": "https://www.spigotmc.org/resources/triggerreactor.40987/history"
-  }
+  "downloadUrl": "resources/triggerreactor.40987/download?version=211277",
+  "numberOfDownloads": 211,
+  "rating": 10,
+  "numberOfVotes": 5,
+  "releaseDate": 1520292000,
+  "sourceUrl": "https://www.spigotmc.org/resources/triggerreactor.40987/history"
 }

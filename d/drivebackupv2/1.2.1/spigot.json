@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/drivebackupv2.79519/download?version=338198",
-    "numberOfDownloads": 221,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1592594880,
-    "sourceUrl": "https://www.spigotmc.org/resources/drivebackupv2.79519/history"
-  }
+  "downloadUrl": "resources/drivebackupv2.79519/download?version=338198",
+  "numberOfDownloads": 221,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1592594880,
+  "sourceUrl": "https://www.spigotmc.org/resources/drivebackupv2.79519/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/betterchair.71734/download?version=305962",
-    "numberOfDownloads": 965,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1576860300,
-    "sourceUrl": "https://www.spigotmc.org/resources/betterchair.71734/history"
-  }
+  "downloadUrl": "resources/betterchair.71734/download?version=305962",
+  "numberOfDownloads": 965,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1576860300,
+  "sourceUrl": "https://www.spigotmc.org/resources/betterchair.71734/history"
 }

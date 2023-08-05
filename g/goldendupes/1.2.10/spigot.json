@@ -1,12 +1,9 @@
 {
   "name": "1.2.10",
-  "version": {
-    "name": "1.2.10",
-    "downloadUrl": "resources/%E2%98%80-goldendupes-%E2%98%80.91474/download?version=402790",
-    "numberOfDownloads": 29,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1623456900,
-    "sourceUrl": "https://www.spigotmc.org/resources/91474/history/"
-  }
+  "downloadUrl": "resources/%E2%98%80-goldendupes-%E2%98%80.91474/download?version=402790",
+  "numberOfDownloads": 29,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1623456900,
+  "sourceUrl": "https://www.spigotmc.org/resources/91474/history/"
 }

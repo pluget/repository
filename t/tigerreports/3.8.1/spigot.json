@@ -1,12 +1,9 @@
 {
   "name": "3.8.1",
-  "version": {
-    "name": "3.8.1",
-    "downloadUrl": "resources/tigerreports.25773/download?version=190139",
-    "numberOfDownloads": 124,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1508521320,
-    "sourceUrl": "https://www.spigotmc.org/resources/tigerreports.25773/history"
-  }
+  "downloadUrl": "resources/tigerreports.25773/download?version=190139",
+  "numberOfDownloads": 124,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1508521320,
+  "sourceUrl": "https://www.spigotmc.org/resources/tigerreports.25773/history"
 }

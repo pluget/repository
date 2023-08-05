@@ -1,12 +1,9 @@
 {
   "name": "1.5.0",
-  "version": {
-    "name": "1.5.0",
-    "downloadUrl": "resources/guestmode.74051/download?version=310014",
-    "numberOfDownloads": 54,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1579198020,
-    "sourceUrl": "https://www.spigotmc.org/resources/guestmode.74051/history"
-  }
+  "downloadUrl": "resources/guestmode.74051/download?version=310014",
+  "numberOfDownloads": 54,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1579198020,
+  "sourceUrl": "https://www.spigotmc.org/resources/guestmode.74051/history"
 }

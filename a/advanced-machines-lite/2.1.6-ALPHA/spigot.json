@@ -1,12 +1,9 @@
 {
   "name": "2.1.6-ALPHA",
-  "version": {
-    "name": "2.1.6-ALPHA",
-    "downloadUrl": "resources/advanced-machines.71731/download?version=396796",
-    "numberOfDownloads": 66,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1619892060,
-    "sourceUrl": "https://www.spigotmc.org/resources/advanced-machines.71731/history"
-  }
+  "downloadUrl": "resources/advanced-machines.71731/download?version=396796",
+  "numberOfDownloads": 66,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1619892060,
+  "sourceUrl": "https://www.spigotmc.org/resources/advanced-machines.71731/history"
 }

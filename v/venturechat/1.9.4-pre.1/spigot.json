@@ -1,12 +1,9 @@
 {
-  "name": "1.9.4-pre.1",
-  "version": {
-    "name": "1.9.4",
-    "downloadUrl": "resources/venturechat.771/download?version=4192",
-    "numberOfDownloads": 431,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 6,
-    "releaseDate": 1412026920,
-    "sourceUrl": "https://www.spigotmc.org/resources/venturechat.771/history"
-  }
+  "name": "1.9.4",
+  "downloadUrl": "resources/venturechat.771/download?version=4192",
+  "numberOfDownloads": 431,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 6,
+  "releaseDate": 1412026920,
+  "sourceUrl": "https://www.spigotmc.org/resources/venturechat.771/history"
 }

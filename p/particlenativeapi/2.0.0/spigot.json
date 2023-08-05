@@ -1,12 +1,9 @@
 {
   "name": "2.0.0",
-  "version": {
-    "name": "2.0.0",
-    "downloadUrl": "resources/particlenativeapi-1-7.76480/download?version=333438",
-    "numberOfDownloads": 48,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1590325920,
-    "sourceUrl": "https://www.spigotmc.org/resources/particlenativeapi-1-7.76480/history"
-  }
+  "downloadUrl": "resources/particlenativeapi-1-7.76480/download?version=333438",
+  "numberOfDownloads": 48,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1590325920,
+  "sourceUrl": "https://www.spigotmc.org/resources/particlenativeapi-1-7.76480/history"
 }

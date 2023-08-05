@@ -1,12 +1,9 @@
 {
   "name": "1.8.0-SNAPSHOT",
-  "version": {
-    "name": "1.8.0-SNAPSHOT",
-    "downloadUrl": "resources/api-mapmanager.19198/download?version=383213",
-    "numberOfDownloads": 2,
-    "rating": 4,
-    "numberOfVotes": 3,
-    "releaseDate": 1613161440,
-    "sourceUrl": "https://www.spigotmc.org/resources/api-mapmanager.19198/history"
-  }
+  "downloadUrl": "resources/api-mapmanager.19198/download?version=383213",
+  "numberOfDownloads": 2,
+  "rating": 4,
+  "numberOfVotes": 3,
+  "releaseDate": 1613161440,
+  "sourceUrl": "https://www.spigotmc.org/resources/api-mapmanager.19198/history"
 }

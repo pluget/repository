@@ -1,12 +1,9 @@
 {
-  "name": "3.9.2",
-  "version": {
-    "name": "v3.9.2",
-    "downloadUrl": "resources/itemjoin.12661/download?version=147429",
-    "numberOfDownloads": 802,
-    "rating": 10,
-    "numberOfVotes": 5,
-    "releaseDate": 1489130400,
-    "sourceUrl": "https://www.spigotmc.org/resources/itemjoin.12661/history"
-  }
+  "name": "v3.9.2",
+  "downloadUrl": "resources/itemjoin.12661/download?version=147429",
+  "numberOfDownloads": 802,
+  "rating": 10,
+  "numberOfVotes": 5,
+  "releaseDate": 1489130400,
+  "sourceUrl": "https://www.spigotmc.org/resources/itemjoin.12661/history"
 }

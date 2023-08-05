@@ -1,12 +1,9 @@
 {
   "name": "0.1.1",
-  "version": {
-    "name": "0.1.1",
-    "downloadUrl": "resources/minions-miner.84187/download?version=445734",
-    "numberOfDownloads": 103,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1647695700,
-    "sourceUrl": "https://www.spigotmc.org/resources/84187/history/"
-  }
+  "downloadUrl": "resources/minions-miner.84187/download?version=445734",
+  "numberOfDownloads": 103,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1647695700,
+  "sourceUrl": "https://www.spigotmc.org/resources/84187/history/"
 }

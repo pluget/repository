@@ -1,12 +1,9 @@
 {
-  "name": "1.14.0",
-  "version": {
-    "name": "1.14",
-    "downloadUrl": "resources/server-essentials.86675/download?version=378830",
-    "numberOfDownloads": 44,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1611251760,
-    "sourceUrl": "https://www.spigotmc.org/resources/server-essentials.86675/history"
-  }
+  "name": "1.14",
+  "downloadUrl": "resources/server-essentials.86675/download?version=378830",
+  "numberOfDownloads": 44,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1611251760,
+  "sourceUrl": "https://www.spigotmc.org/resources/server-essentials.86675/history"
 }

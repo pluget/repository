@@ -1,12 +1,9 @@
 {
-  "name": "9.0.0",
-  "version": {
-    "name": "9.0",
-    "downloadUrl": "resources/deadly-disasters.90806/download?version=442059",
-    "numberOfDownloads": 3,
-    "rating": 9.6,
-    "numberOfVotes": 5,
-    "releaseDate": 1645387560,
-    "sourceUrl": "https://www.spigotmc.org/resources/deadly-disasters.90806/history"
-  }
+  "name": "9.0",
+  "downloadUrl": "resources/deadly-disasters.90806/download?version=442059",
+  "numberOfDownloads": 3,
+  "rating": 9.6,
+  "numberOfVotes": 5,
+  "releaseDate": 1645387560,
+  "sourceUrl": "https://www.spigotmc.org/resources/deadly-disasters.90806/history"
 }

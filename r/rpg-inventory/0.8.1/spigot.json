@@ -1,12 +1,9 @@
 {
   "name": "0.8.1",
-  "version": {
-    "name": "0.8.1",
-    "downloadUrl": "resources/rpg-inventory-custom-model-data-support.11809/download?version=42938",
-    "numberOfDownloads": 238,
-    "rating": 10,
-    "numberOfVotes": 6,
-    "releaseDate": 1441308480,
-    "sourceUrl": "https://www.spigotmc.org/resources/rpg-inventory-custom-model-data-support.11809/history"
-  }
+  "downloadUrl": "resources/rpg-inventory-custom-model-data-support.11809/download?version=42938",
+  "numberOfDownloads": 238,
+  "rating": 10,
+  "numberOfVotes": 6,
+  "releaseDate": 1441308480,
+  "sourceUrl": "https://www.spigotmc.org/resources/rpg-inventory-custom-model-data-support.11809/history"
 }

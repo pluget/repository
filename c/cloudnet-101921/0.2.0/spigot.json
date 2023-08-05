@@ -1,12 +1,9 @@
 {
-  "name": "0.2.0",
-  "version": {
-    "name": "0.2",
-    "downloadUrl": "resources/cloudnet-v3-webinterface.101921/download?version=452396",
-    "numberOfDownloads": 23,
-    "rating": 4.6666666666666,
-    "numberOfVotes": 3,
-    "releaseDate": 1652640120,
-    "sourceUrl": "https://www.spigotmc.org/resources/101921/history/"
-  }
+  "name": "0.2",
+  "downloadUrl": "resources/cloudnet-v3-webinterface.101921/download?version=452396",
+  "numberOfDownloads": 23,
+  "rating": 4.6666666666666,
+  "numberOfVotes": 3,
+  "releaseDate": 1652640120,
+  "sourceUrl": "https://www.spigotmc.org/resources/101921/history/"
 }

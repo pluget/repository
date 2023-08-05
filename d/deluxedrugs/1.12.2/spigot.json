@@ -1,12 +1,9 @@
 {
   "name": "1.12.2",
-  "version": {
-    "name": "1.12.2",
-    "downloadUrl": "resources/deluxedrugs.100579/download?version=444457",
-    "numberOfDownloads": 27,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1646847360,
-    "sourceUrl": "https://www.spigotmc.org/resources/deluxedrugs.100579/history"
-  }
+  "downloadUrl": "resources/deluxedrugs.100579/download?version=444457",
+  "numberOfDownloads": 27,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1646847360,
+  "sourceUrl": "https://www.spigotmc.org/resources/deluxedrugs.100579/history"
 }

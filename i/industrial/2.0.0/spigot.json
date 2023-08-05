@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0",
-  "version": {
-    "name": "Lite-2",
-    "downloadUrl": "resources/industrial-mc-lite-1-13.52744/download?version=206757",
-    "numberOfDownloads": 1,
-    "rating": 7.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1517831400,
-    "sourceUrl": "https://www.spigotmc.org/resources/industrial-mc-lite-1-13.52744/history"
-  }
+  "name": "Lite-2",
+  "downloadUrl": "resources/industrial-mc-lite-1-13.52744/download?version=206757",
+  "numberOfDownloads": 1,
+  "rating": 7.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1517831400,
+  "sourceUrl": "https://www.spigotmc.org/resources/industrial-mc-lite-1-13.52744/history"
 }

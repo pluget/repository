@@ -1,12 +1,9 @@
 {
-  "name": "6.7.0",
-  "version": {
-    "name": "6.7",
-    "downloadUrl": "resources/commandminerewards.27316/download?version=332719",
-    "numberOfDownloads": 269,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1590017820,
-    "sourceUrl": "https://www.spigotmc.org/resources/commandminerewards.27316/history"
-  }
+  "name": "6.7",
+  "downloadUrl": "resources/commandminerewards.27316/download?version=332719",
+  "numberOfDownloads": 269,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1590017820,
+  "sourceUrl": "https://www.spigotmc.org/resources/commandminerewards.27316/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "0.0.1",
-  "version": {
-    "name": "0.0.1",
-    "downloadUrl": "resources/random-server-motd-1-8-1-19.106309/download?version=475687",
-    "numberOfDownloads": 7,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1668758340,
-    "sourceUrl": "https://www.spigotmc.org/resources/106309/history/"
-  }
+  "downloadUrl": "resources/random-server-motd-1-8-1-19.106309/download?version=475687",
+  "numberOfDownloads": 7,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1668758340,
+  "sourceUrl": "https://www.spigotmc.org/resources/106309/history/"
 }

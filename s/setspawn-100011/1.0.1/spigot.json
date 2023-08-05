@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/setspawn.100011/download?version=441741",
-    "numberOfDownloads": 512,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1645219620,
-    "sourceUrl": "https://www.spigotmc.org/resources/setspawn.100011/history"
-  }
+  "downloadUrl": "resources/setspawn.100011/download?version=441741",
+  "numberOfDownloads": 512,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1645219620,
+  "sourceUrl": "https://www.spigotmc.org/resources/setspawn.100011/history"
 }

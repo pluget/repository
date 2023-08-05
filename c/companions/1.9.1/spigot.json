@@ -1,12 +1,9 @@
 {
   "name": "1.9.1",
-  "version": {
-    "name": "1.9.1",
-    "downloadUrl": "resources/companions-free-version.83795/download?version=431754",
-    "numberOfDownloads": 494,
-    "rating": 7.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1639584780,
-    "sourceUrl": "https://www.spigotmc.org/resources/companions-free-version.83795/history"
-  }
+  "downloadUrl": "resources/companions-free-version.83795/download?version=431754",
+  "numberOfDownloads": 494,
+  "rating": 7.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1639584780,
+  "sourceUrl": "https://www.spigotmc.org/resources/companions-free-version.83795/history"
 }

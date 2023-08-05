@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/playerkiller.101380/download?version=448899",
-    "numberOfDownloads": 25,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1649979240,
-    "sourceUrl": "https://www.spigotmc.org/resources/101380/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/playerkiller.101380/download?version=448899",
+  "numberOfDownloads": 25,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1649979240,
+  "sourceUrl": "https://www.spigotmc.org/resources/101380/history/"
 }

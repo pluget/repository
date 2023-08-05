@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/discordsrv-staff-chat.44245/download?version=173172",
-    "numberOfDownloads": 172,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1500609120,
-    "sourceUrl": "https://www.spigotmc.org/resources/discordsrv-staff-chat.44245/history"
-  }
+  "downloadUrl": "resources/discordsrv-staff-chat.44245/download?version=173172",
+  "numberOfDownloads": 172,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1500609120,
+  "sourceUrl": "https://www.spigotmc.org/resources/discordsrv-staff-chat.44245/history"
 }

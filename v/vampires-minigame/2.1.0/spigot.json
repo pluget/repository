@@ -1,12 +1,9 @@
 {
   "name": "2.1.0",
-  "version": {
-    "name": "2.1.0",
-    "downloadUrl": "resources/vampires-minigame-1-16-1-19.105477/download?version=470612",
-    "numberOfDownloads": 48,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1664192820,
-    "sourceUrl": "https://www.spigotmc.org/resources/105477/history/"
-  }
+  "downloadUrl": "resources/vampires-minigame-1-16-1-19.105477/download?version=470612",
+  "numberOfDownloads": 48,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1664192820,
+  "sourceUrl": "https://www.spigotmc.org/resources/105477/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.12.1",
-  "version": {
-    "name": "1.12.1",
-    "downloadUrl": "resources/nokaut-knockout.85152/download?version=414660",
-    "numberOfDownloads": 2,
-    "rating": 4.6666666666666,
-    "numberOfVotes": 3,
-    "releaseDate": 1628881920,
-    "sourceUrl": "https://www.spigotmc.org/resources/nokaut-knockout.85152/history"
-  }
+  "downloadUrl": "resources/nokaut-knockout.85152/download?version=414660",
+  "numberOfDownloads": 2,
+  "rating": 4.6666666666666,
+  "numberOfVotes": 3,
+  "releaseDate": 1628881920,
+  "sourceUrl": "https://www.spigotmc.org/resources/nokaut-knockout.85152/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "4.1.0",
-  "version": {
-    "name": "4.1",
-    "downloadUrl": "resources/noencryption-remastered.104400/download?version=466039",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660746840,
-    "sourceUrl": "https://www.spigotmc.org/resources/noencryption-remastered.104400/history"
-  }
+  "name": "4.1",
+  "downloadUrl": "resources/noencryption-remastered.104400/download?version=466039",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660746840,
+  "sourceUrl": "https://www.spigotmc.org/resources/noencryption-remastered.104400/history"
 }

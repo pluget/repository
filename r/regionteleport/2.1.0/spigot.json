@@ -1,12 +1,9 @@
 {
   "name": "2.1.0",
-  "version": {
-    "name": "2.1.0",
-    "downloadUrl": "resources/regionteleport.84705/download?version=448479",
-    "numberOfDownloads": 123,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1649671080,
-    "sourceUrl": "https://www.spigotmc.org/resources/84705/history/"
-  }
+  "downloadUrl": "resources/regionteleport.84705/download?version=448479",
+  "numberOfDownloads": 123,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1649671080,
+  "sourceUrl": "https://www.spigotmc.org/resources/84705/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/catchball.94867/download?version=412486",
-    "numberOfDownloads": 52,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1627801140,
-    "sourceUrl": "https://www.spigotmc.org/resources/catchball.94867/history"
-  }
+  "downloadUrl": "resources/catchball.94867/download?version=412486",
+  "numberOfDownloads": 52,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1627801140,
+  "sourceUrl": "https://www.spigotmc.org/resources/catchball.94867/history"
 }

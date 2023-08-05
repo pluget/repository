@@ -1,12 +1,9 @@
 {
   "name": "6.2.2-SNAPSHOT-bukkit",
-  "version": {
-    "name": "6.2.2-SNAPSHOT-bukkit",
-    "downloadUrl": "resources/terra.85151/download?version=479208",
-    "numberOfDownloads": 11,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1671687900,
-    "sourceUrl": "https://www.spigotmc.org/resources/terra.85151/history"
-  }
+  "downloadUrl": "resources/terra.85151/download?version=479208",
+  "numberOfDownloads": 11,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1671687900,
+  "sourceUrl": "https://www.spigotmc.org/resources/terra.85151/history"
 }

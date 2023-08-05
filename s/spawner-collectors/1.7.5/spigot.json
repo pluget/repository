@@ -1,12 +1,9 @@
 {
   "name": "1.7.5",
-  "version": {
-    "name": "1.7.5",
-    "downloadUrl": "resources/spawner-collectors-no-spawner-lag-mysql.85852/download?version=482333",
-    "numberOfDownloads": 241,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1673851500,
-    "sourceUrl": "https://www.spigotmc.org/resources/spawner-collectors-no-spawner-lag-mysql.85852/history"
-  }
+  "downloadUrl": "resources/spawner-collectors-no-spawner-lag-mysql.85852/download?version=482333",
+  "numberOfDownloads": 241,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1673851500,
+  "sourceUrl": "https://www.spigotmc.org/resources/spawner-collectors-no-spawner-lag-mysql.85852/history"
 }

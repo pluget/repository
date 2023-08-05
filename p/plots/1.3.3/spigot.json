@@ -1,12 +1,9 @@
 {
   "name": "1.3.3",
-  "version": {
-    "name": "1.3.3",
-    "downloadUrl": "resources/plots.44573/download?version=180206",
-    "numberOfDownloads": 60,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1503328920,
-    "sourceUrl": "https://www.spigotmc.org/resources/plots.44573/history"
-  }
+  "downloadUrl": "resources/plots.44573/download?version=180206",
+  "numberOfDownloads": 60,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1503328920,
+  "sourceUrl": "https://www.spigotmc.org/resources/plots.44573/history"
 }

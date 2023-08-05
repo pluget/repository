@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0",
-  "version": {
-    "name": "2.0",
-    "downloadUrl": "resources/playtime.26016/download?version=224597",
-    "numberOfDownloads": 212,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1528128240,
-    "sourceUrl": "https://www.spigotmc.org/resources/26016/history/"
-  }
+  "name": "2.0",
+  "downloadUrl": "resources/playtime.26016/download?version=224597",
+  "numberOfDownloads": 212,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1528128240,
+  "sourceUrl": "https://www.spigotmc.org/resources/26016/history/"
 }

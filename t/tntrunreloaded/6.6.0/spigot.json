@@ -1,12 +1,9 @@
 {
-  "name": "6.6.0",
-  "version": {
-    "name": "6.6",
-    "downloadUrl": "resources/tntrun_reloaded-tntrun-for-1-13-1-19.53359/download?version=210578",
-    "numberOfDownloads": 191,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1519940820,
-    "sourceUrl": "https://www.spigotmc.org/resources/53359/history/"
-  }
+  "name": "6.6",
+  "downloadUrl": "resources/tntrun_reloaded-tntrun-for-1-13-1-19.53359/download?version=210578",
+  "numberOfDownloads": 191,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1519940820,
+  "sourceUrl": "https://www.spigotmc.org/resources/53359/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.4",
-  "version": {
-    "name": "1.0.4",
-    "downloadUrl": "resources/signboard.29024/download?version=114206",
-    "numberOfDownloads": 86,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1473636300,
-    "sourceUrl": "https://www.spigotmc.org/resources/signboard.29024/history"
-  }
+  "downloadUrl": "resources/signboard.29024/download?version=114206",
+  "numberOfDownloads": 86,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1473636300,
+  "sourceUrl": "https://www.spigotmc.org/resources/signboard.29024/history"
 }

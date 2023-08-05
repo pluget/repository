@@ -1,12 +1,9 @@
 {
   "name": "1.1.9",
-  "version": {
-    "name": "1.1.9",
-    "downloadUrl": "resources/admin-gui.71157/download?version=293986",
-    "numberOfDownloads": 140,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1568500200,
-    "sourceUrl": "https://www.spigotmc.org/resources/admin-gui.71157/history"
-  }
+  "downloadUrl": "resources/admin-gui.71157/download?version=293986",
+  "numberOfDownloads": 140,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1568500200,
+  "sourceUrl": "https://www.spigotmc.org/resources/admin-gui.71157/history"
 }

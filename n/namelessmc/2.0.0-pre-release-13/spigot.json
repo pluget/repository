@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0-pre-release-13",
-  "version": {
-    "name": "v2.0.0 pre-release 13",
-    "downloadUrl": "resources/namelessmc.11434/download?version=454624",
-    "numberOfDownloads": 445,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1654382640,
-    "sourceUrl": "https://www.spigotmc.org/resources/namelessmc.11434/history"
-  }
+  "name": "v2.0.0 pre-release 13",
+  "downloadUrl": "resources/namelessmc.11434/download?version=454624",
+  "numberOfDownloads": 445,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1654382640,
+  "sourceUrl": "https://www.spigotmc.org/resources/namelessmc.11434/history"
 }

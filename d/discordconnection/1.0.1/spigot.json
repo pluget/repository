@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/discordconnection.100132/download?version=443652",
-    "numberOfDownloads": 32,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646411940,
-    "sourceUrl": "https://www.spigotmc.org/resources/100132/history/"
-  }
+  "downloadUrl": "resources/discordconnection.100132/download?version=443652",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646411940,
+  "sourceUrl": "https://www.spigotmc.org/resources/100132/history/"
 }

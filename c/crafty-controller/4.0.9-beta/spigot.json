@@ -1,12 +1,9 @@
 {
   "name": "4.0.9-beta",
-  "version": {
-    "name": "4.0.9-beta",
-    "downloadUrl": "resources/crafty-controller.80852/download?version=465511",
-    "numberOfDownloads": 41,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660432200,
-    "sourceUrl": "https://www.spigotmc.org/resources/crafty-controller.80852/history"
-  }
+  "downloadUrl": "resources/crafty-controller.80852/download?version=465511",
+  "numberOfDownloads": 41,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660432200,
+  "sourceUrl": "https://www.spigotmc.org/resources/crafty-controller.80852/history"
 }

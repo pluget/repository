@@ -1,12 +1,9 @@
 {
   "name": "0.8.0",
-  "version": {
-    "name": "0.8.0",
-    "downloadUrl": "resources/redisbungee.87700/download?version=473764",
-    "numberOfDownloads": 53,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1667073600,
-    "sourceUrl": "https://www.spigotmc.org/resources/87700/history/"
-  }
+  "downloadUrl": "resources/redisbungee.87700/download?version=473764",
+  "numberOfDownloads": 53,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1667073600,
+  "sourceUrl": "https://www.spigotmc.org/resources/87700/history/"
 }

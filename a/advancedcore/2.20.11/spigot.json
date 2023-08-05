@@ -1,12 +1,9 @@
 {
   "name": "2.20.11",
-  "version": {
-    "name": "2.20.11",
-    "downloadUrl": "resources/advancedcore.28295/download?version=339636",
-    "numberOfDownloads": 73,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1593126360,
-    "sourceUrl": "https://www.spigotmc.org/resources/advancedcore.28295/history"
-  }
+  "downloadUrl": "resources/advancedcore.28295/download?version=339636",
+  "numberOfDownloads": 73,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1593126360,
+  "sourceUrl": "https://www.spigotmc.org/resources/advancedcore.28295/history"
 }

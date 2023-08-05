@@ -1,12 +1,9 @@
 {
   "name": "3.9.1",
-  "version": {
-    "name": "3.9.1",
-    "downloadUrl": "resources/jumpandrun-1-18-x-eng-ger.78123/download?version=380552",
-    "numberOfDownloads": 413,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1612008780,
-    "sourceUrl": "https://www.spigotmc.org/resources/78123/history/"
-  }
+  "downloadUrl": "resources/jumpandrun-1-18-x-eng-ger.78123/download?version=380552",
+  "numberOfDownloads": 413,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1612008780,
+  "sourceUrl": "https://www.spigotmc.org/resources/78123/history/"
 }

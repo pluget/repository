@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-_SNAPSHOT",
-  "version": {
-    "name": "1.0.0_SNAPSHOT",
-    "downloadUrl": "resources/openbooks.103151/download?version=459524",
-    "numberOfDownloads": 31,
-    "rating": 7.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1657086660,
-    "sourceUrl": "https://www.spigotmc.org/resources/openbooks.103151/history"
-  }
+  "name": "1.0.0_SNAPSHOT",
+  "downloadUrl": "resources/openbooks.103151/download?version=459524",
+  "numberOfDownloads": 31,
+  "rating": 7.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1657086660,
+  "sourceUrl": "https://www.spigotmc.org/resources/openbooks.103151/history"
 }

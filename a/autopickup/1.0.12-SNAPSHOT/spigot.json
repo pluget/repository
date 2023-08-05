@@ -1,12 +1,9 @@
 {
   "name": "1.0.12-SNAPSHOT",
-  "version": {
-    "name": "1.0.12-SNAPSHOT",
-    "downloadUrl": "resources/autopickup-1-19-support.70157/download?version=334928",
-    "numberOfDownloads": 120,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1591034220,
-    "sourceUrl": "https://www.spigotmc.org/resources/autopickup-1-19-support.70157/history"
-  }
+  "downloadUrl": "resources/autopickup-1-19-support.70157/download?version=334928",
+  "numberOfDownloads": 120,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1591034220,
+  "sourceUrl": "https://www.spigotmc.org/resources/autopickup-1-19-support.70157/history"
 }

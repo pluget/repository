@@ -1,12 +1,9 @@
 {
   "name": "3.7.2",
-  "version": {
-    "name": "3.7.2",
-    "downloadUrl": "resources/extra-hard-mode.19673/download?version=74614",
-    "numberOfDownloads": 161,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1457715780,
-    "sourceUrl": "https://www.spigotmc.org/resources/extra-hard-mode.19673/history"
-  }
+  "downloadUrl": "resources/extra-hard-mode.19673/download?version=74614",
+  "numberOfDownloads": 161,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1457715780,
+  "sourceUrl": "https://www.spigotmc.org/resources/extra-hard-mode.19673/history"
 }

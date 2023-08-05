@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-pre.1",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/zerky.102800/download?version=457483",
-    "numberOfDownloads": 22,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655862780,
-    "sourceUrl": "https://www.spigotmc.org/resources/102800/history/"
-  }
+  "name": "1.0.0",
+  "downloadUrl": "resources/zerky.102800/download?version=457483",
+  "numberOfDownloads": 22,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655862780,
+  "sourceUrl": "https://www.spigotmc.org/resources/102800/history/"
 }

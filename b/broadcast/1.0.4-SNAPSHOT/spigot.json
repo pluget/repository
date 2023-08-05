@@ -1,12 +1,9 @@
 {
   "name": "1.0.4-SNAPSHOT",
-  "version": {
-    "name": "1.0.4-SNAPSHOT",
-    "downloadUrl": "resources/broadcast-for-party-and-friends.33142/download?version=331231",
-    "numberOfDownloads": 392,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1589377200,
-    "sourceUrl": "https://www.spigotmc.org/resources/broadcast-for-party-and-friends.33142/history"
-  }
+  "downloadUrl": "resources/broadcast-for-party-and-friends.33142/download?version=331231",
+  "numberOfDownloads": 392,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1589377200,
+  "sourceUrl": "https://www.spigotmc.org/resources/broadcast-for-party-and-friends.33142/history"
 }

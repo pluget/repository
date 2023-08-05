@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0",
-  "version": {
-    "name": "ALPHA 2",
-    "downloadUrl": "resources/wuselcommands.101410/download?version=449048",
-    "numberOfDownloads": 18,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1650098700,
-    "sourceUrl": "https://www.spigotmc.org/resources/wuselcommands.101410/history"
-  }
+  "name": "ALPHA 2",
+  "downloadUrl": "resources/wuselcommands.101410/download?version=449048",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1650098700,
+  "sourceUrl": "https://www.spigotmc.org/resources/wuselcommands.101410/history"
 }

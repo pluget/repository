@@ -1,12 +1,9 @@
 {
   "name": "3.1.4",
-  "version": {
-    "name": "3.1.4",
-    "downloadUrl": "resources/epicrename.4341/download?version=184639",
-    "numberOfDownloads": 3,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1505395080,
-    "sourceUrl": "https://www.spigotmc.org/resources/epicrename.4341/history"
-  }
+  "downloadUrl": "resources/epicrename.4341/download?version=184639",
+  "numberOfDownloads": 3,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1505395080,
+  "sourceUrl": "https://www.spigotmc.org/resources/epicrename.4341/history"
 }

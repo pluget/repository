@@ -1,12 +1,9 @@
 {
   "name": "8.3.3",
-  "version": {
-    "name": "8.3.3",
-    "downloadUrl": "resources/magic.1056/download?version=383894",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 6,
-    "releaseDate": 1613503080,
-    "sourceUrl": "https://www.spigotmc.org/resources/magic.1056/history"
-  }
+  "downloadUrl": "resources/magic.1056/download?version=383894",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 6,
+  "releaseDate": 1613503080,
+  "sourceUrl": "https://www.spigotmc.org/resources/magic.1056/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/disable-potions-1-19-1-13.66414/download?version=268352",
-    "numberOfDownloads": 383,
-    "rating": 9,
-    "numberOfVotes": 6,
-    "releaseDate": 1554935700,
-    "sourceUrl": "https://www.spigotmc.org/resources/66414/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/disable-potions-1-19-1-13.66414/download?version=268352",
+  "numberOfDownloads": 383,
+  "rating": 9,
+  "numberOfVotes": 6,
+  "releaseDate": 1554935700,
+  "sourceUrl": "https://www.spigotmc.org/resources/66414/history/"
 }

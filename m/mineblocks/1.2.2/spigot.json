@@ -1,12 +1,9 @@
 {
   "name": "1.2.2",
-  "version": {
-    "name": "1.2.2",
-    "downloadUrl": "resources/mineblocks.97176/download?version=473142",
-    "numberOfDownloads": 346,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1666470420,
-    "sourceUrl": "https://www.spigotmc.org/resources/mineblocks.97176/history"
-  }
+  "downloadUrl": "resources/mineblocks.97176/download?version=473142",
+  "numberOfDownloads": 346,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1666470420,
+  "sourceUrl": "https://www.spigotmc.org/resources/mineblocks.97176/history"
 }

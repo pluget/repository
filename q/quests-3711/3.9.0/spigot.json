@@ -1,12 +1,9 @@
 {
   "name": "3.9.0",
-  "version": {
-    "name": "3.9.0",
-    "downloadUrl": "resources/quests.3711/download?version=320883",
-    "numberOfDownloads": 971,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1585444860,
-    "sourceUrl": "https://www.spigotmc.org/resources/quests.3711/history"
-  }
+  "downloadUrl": "resources/quests.3711/download?version=320883",
+  "numberOfDownloads": 971,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1585444860,
+  "sourceUrl": "https://www.spigotmc.org/resources/quests.3711/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-,2",
-  "version": {
-    "name": "1,2",
-    "downloadUrl": "resources/minecraft-facts.82149/download?version=348070",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1596290940,
-    "sourceUrl": "https://www.spigotmc.org/resources/minecraft-facts.82149/history"
-  }
+  "name": "1,2",
+  "downloadUrl": "resources/minecraft-facts.82149/download?version=348070",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1596290940,
+  "sourceUrl": "https://www.spigotmc.org/resources/minecraft-facts.82149/history"
 }

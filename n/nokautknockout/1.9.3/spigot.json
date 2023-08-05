@@ -1,12 +1,9 @@
 {
   "name": "1.9.3",
-  "version": {
-    "name": "1.9.3",
-    "downloadUrl": "resources/nokaut-knockout.85152/download?version=376727",
-    "numberOfDownloads": 6,
-    "rating": 7.7142857142858,
-    "numberOfVotes": 7,
-    "releaseDate": 1610301900,
-    "sourceUrl": "https://www.spigotmc.org/resources/nokaut-knockout.85152/history"
-  }
+  "downloadUrl": "resources/nokaut-knockout.85152/download?version=376727",
+  "numberOfDownloads": 6,
+  "rating": 7.7142857142858,
+  "numberOfVotes": 7,
+  "releaseDate": 1610301900,
+  "sourceUrl": "https://www.spigotmc.org/resources/nokaut-knockout.85152/history"
 }

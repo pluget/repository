@@ -1,12 +1,9 @@
 {
   "name": "1.16.5-v2",
-  "version": {
-    "name": "1.16.5-v2",
-    "downloadUrl": "resources/traincarts.39592/download?version=402699",
-    "numberOfDownloads": 4,
-    "rating": 8.6666666666666,
-    "numberOfVotes": 6,
-    "releaseDate": 1623429660,
-    "sourceUrl": "https://www.spigotmc.org/resources/39592/history/"
-  }
+  "downloadUrl": "resources/traincarts.39592/download?version=402699",
+  "numberOfDownloads": 4,
+  "rating": 8.6666666666666,
+  "numberOfVotes": 6,
+  "releaseDate": 1623429660,
+  "sourceUrl": "https://www.spigotmc.org/resources/39592/history/"
 }

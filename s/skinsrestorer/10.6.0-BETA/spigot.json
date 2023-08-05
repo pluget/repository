@@ -1,12 +1,9 @@
 {
-  "name": "10.6.0-BETA",
-  "version": {
-    "name": "10.6-BETA",
-    "downloadUrl": "resources/skinsrestorer.2124/download?version=70708",
-    "numberOfDownloads": 4,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1456336560,
-    "sourceUrl": "https://www.spigotmc.org/resources/skinsrestorer.2124/history"
-  }
+  "name": "10.6-BETA",
+  "downloadUrl": "resources/skinsrestorer.2124/download?version=70708",
+  "numberOfDownloads": 4,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1456336560,
+  "sourceUrl": "https://www.spigotmc.org/resources/skinsrestorer.2124/history"
 }

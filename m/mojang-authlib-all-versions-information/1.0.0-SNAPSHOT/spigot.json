@@ -1,12 +1,9 @@
 {
   "name": "1.0.0-SNAPSHOT",
-  "version": {
-    "name": "1.0.0-SNAPSHOT",
-    "downloadUrl": "resources/mojang-authlib-all-versions-information.102297/download?version=453952",
-    "numberOfDownloads": 100,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1653849780,
-    "sourceUrl": "https://www.spigotmc.org/resources/mojang-authlib-all-versions-information.102297/history"
-  }
+  "downloadUrl": "resources/mojang-authlib-all-versions-information.102297/download?version=453952",
+  "numberOfDownloads": 100,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1653849780,
+  "sourceUrl": "https://www.spigotmc.org/resources/mojang-authlib-all-versions-information.102297/history"
 }

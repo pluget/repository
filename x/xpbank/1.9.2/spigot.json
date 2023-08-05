@@ -1,12 +1,9 @@
 {
   "name": "1.9.2",
-  "version": {
-    "name": "1.9.2",
-    "downloadUrl": "resources/xpbank.101132/download?version=487858",
-    "numberOfDownloads": 9,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1677885720,
-    "sourceUrl": "https://www.spigotmc.org/resources/xpbank.101132/history"
-  }
+  "downloadUrl": "resources/xpbank.101132/download?version=487858",
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1677885720,
+  "sourceUrl": "https://www.spigotmc.org/resources/xpbank.101132/history"
 }

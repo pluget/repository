@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/simplecrystals.66824/download?version=270296",
-    "numberOfDownloads": 68,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1556137020,
-    "sourceUrl": "https://www.spigotmc.org/resources/66824/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/simplecrystals.66824/download?version=270296",
+  "numberOfDownloads": 68,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1556137020,
+  "sourceUrl": "https://www.spigotmc.org/resources/66824/history/"
 }

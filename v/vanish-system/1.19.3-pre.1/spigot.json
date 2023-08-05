@@ -1,12 +1,9 @@
 {
-  "name": "1.19.3-pre.1",
-  "version": {
-    "name": "1.19.3",
-    "downloadUrl": "resources/vanish-system.108379/download?version=487994",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1677975060,
-    "sourceUrl": "https://www.spigotmc.org/resources/vanish-system.108379/history"
-  }
+  "name": "1.19.3",
+  "downloadUrl": "resources/vanish-system.108379/download?version=487994",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1677975060,
+  "sourceUrl": "https://www.spigotmc.org/resources/vanish-system.108379/history"
 }

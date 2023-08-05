@@ -1,12 +1,9 @@
 {
   "name": "1.1.3",
-  "version": {
-    "name": "1.1.3",
-    "downloadUrl": "resources/haproxy-protocol-implementor.103193/download?version=477395",
-    "numberOfDownloads": 85,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1670259420,
-    "sourceUrl": "https://www.spigotmc.org/resources/haproxy-protocol-implementor.103193/history"
-  }
+  "downloadUrl": "resources/haproxy-protocol-implementor.103193/download?version=477395",
+  "numberOfDownloads": 85,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1670259420,
+  "sourceUrl": "https://www.spigotmc.org/resources/haproxy-protocol-implementor.103193/history"
 }

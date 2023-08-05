@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/supergiveaway.106853/download?version=479026",
-    "numberOfDownloads": 12,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1671559020,
-    "sourceUrl": "https://www.spigotmc.org/resources/supergiveaway.106853/history"
-  }
+  "downloadUrl": "resources/supergiveaway.106853/download?version=479026",
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1671559020,
+  "sourceUrl": "https://www.spigotmc.org/resources/supergiveaway.106853/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.2.2",
-  "version": {
-    "name": "2.2.2",
-    "downloadUrl": "resources/syncstaticmapview.96333/download?version=420410",
-    "numberOfDownloads": 31,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1632271620,
-    "sourceUrl": "https://www.spigotmc.org/resources/syncstaticmapview.96333/history"
-  }
+  "downloadUrl": "resources/syncstaticmapview.96333/download?version=420410",
+  "numberOfDownloads": 31,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1632271620,
+  "sourceUrl": "https://www.spigotmc.org/resources/syncstaticmapview.96333/history"
 }

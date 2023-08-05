@@ -1,12 +1,9 @@
 {
   "name": "4.3.5-a4f107a",
-  "version": {
-    "name": "4.3.5-a4f107a",
-    "downloadUrl": "resources/mythicdrops.6114/download?version=263969",
-    "numberOfDownloads": 439,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1552004100,
-    "sourceUrl": "https://www.spigotmc.org/resources/mythicdrops.6114/history"
-  }
+  "downloadUrl": "resources/mythicdrops.6114/download?version=263969",
+  "numberOfDownloads": 439,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1552004100,
+  "sourceUrl": "https://www.spigotmc.org/resources/mythicdrops.6114/history"
 }

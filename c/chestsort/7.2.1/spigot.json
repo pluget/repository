@@ -1,12 +1,9 @@
 {
   "name": "7.2.1",
-  "version": {
-    "name": "7.2.1",
-    "downloadUrl": "resources/chestsort-api.59773/download?version=330744",
-    "numberOfDownloads": 730,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1589190060,
-    "sourceUrl": "https://www.spigotmc.org/resources/59773/history/"
-  }
+  "downloadUrl": "resources/chestsort-api.59773/download?version=330744",
+  "numberOfDownloads": 730,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1589190060,
+  "sourceUrl": "https://www.spigotmc.org/resources/59773/history/"
 }

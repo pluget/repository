@@ -1,12 +1,9 @@
 {
   "name": "1.5.2",
-  "version": {
-    "name": "1.5.2",
-    "downloadUrl": "resources/voidgen.25391/download?version=318526",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1584306300,
-    "sourceUrl": "https://www.spigotmc.org/resources/voidgen.25391/history"
-  }
+  "downloadUrl": "resources/voidgen.25391/download?version=318526",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1584306300,
+  "sourceUrl": "https://www.spigotmc.org/resources/voidgen.25391/history"
 }

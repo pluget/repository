@@ -1,12 +1,9 @@
 {
   "name": "1.1.0-beta",
-  "version": {
-    "name": "1.1.0-beta",
-    "downloadUrl": "resources/hmcleaves.106418/download?version=476370",
-    "numberOfDownloads": 91,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1669311480,
-    "sourceUrl": "https://www.spigotmc.org/resources/hmcleaves.106418/history"
-  }
+  "downloadUrl": "resources/hmcleaves.106418/download?version=476370",
+  "numberOfDownloads": 91,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1669311480,
+  "sourceUrl": "https://www.spigotmc.org/resources/hmcleaves.106418/history"
 }

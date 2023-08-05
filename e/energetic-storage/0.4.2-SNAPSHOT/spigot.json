@@ -1,12 +1,9 @@
 {
   "name": "0.4.2-SNAPSHOT",
-  "version": {
-    "name": "0.4.2-SNAPSHOT",
-    "downloadUrl": "resources/energetic-storage.80605/download?version=358852",
-    "numberOfDownloads": 101,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1601066220,
-    "sourceUrl": "https://www.spigotmc.org/resources/energetic-storage.80605/history"
-  }
+  "downloadUrl": "resources/energetic-storage.80605/download?version=358852",
+  "numberOfDownloads": 101,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1601066220,
+  "sourceUrl": "https://www.spigotmc.org/resources/energetic-storage.80605/history"
 }

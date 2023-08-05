@@ -1,12 +1,9 @@
 {
   "name": "0.0.2",
-  "version": {
-    "name": "0.0.2",
-    "downloadUrl": "resources/staffchatx.45874/download?version=179307",
-    "numberOfDownloads": 103,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1502995920,
-    "sourceUrl": "https://www.spigotmc.org/resources/staffchatx.45874/history"
-  }
+  "downloadUrl": "resources/staffchatx.45874/download?version=179307",
+  "numberOfDownloads": 103,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1502995920,
+  "sourceUrl": "https://www.spigotmc.org/resources/staffchatx.45874/history"
 }

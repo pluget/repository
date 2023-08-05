@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/%E2%AD%90-bsmobcoins-1-8-x.100757/download?version=445426",
-    "numberOfDownloads": 33,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1647467280,
-    "sourceUrl": "https://www.spigotmc.org/resources/100757/history/"
-  }
+  "downloadUrl": "resources/%E2%AD%90-bsmobcoins-1-8-x.100757/download?version=445426",
+  "numberOfDownloads": 33,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1647467280,
+  "sourceUrl": "https://www.spigotmc.org/resources/100757/history/"
 }

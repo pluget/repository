@@ -1,12 +1,9 @@
 {
   "name": "1.8.2",
-  "version": {
-    "name": "1.8.2",
-    "downloadUrl": "resources/challenge-plugin.82074/download?version=352041",
-    "numberOfDownloads": 32,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1597927920,
-    "sourceUrl": "https://www.spigotmc.org/resources/challenge-plugin.82074/history"
-  }
+  "downloadUrl": "resources/challenge-plugin.82074/download?version=352041",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1597927920,
+  "sourceUrl": "https://www.spigotmc.org/resources/challenge-plugin.82074/history"
 }

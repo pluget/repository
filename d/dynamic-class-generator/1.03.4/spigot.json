@@ -1,12 +1,9 @@
 {
   "name": "1.03.4",
-  "version": {
-    "name": "1.03.4",
-    "downloadUrl": "resources/dynamic-class-generator.101584/download?version=451500",
-    "numberOfDownloads": 11,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1651930380,
-    "sourceUrl": "https://www.spigotmc.org/resources/101584/history/"
-  }
+  "downloadUrl": "resources/dynamic-class-generator.101584/download?version=451500",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1651930380,
+  "sourceUrl": "https://www.spigotmc.org/resources/101584/history/"
 }

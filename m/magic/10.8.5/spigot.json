@@ -1,12 +1,9 @@
 {
   "name": "10.8.5",
-  "version": {
-    "name": "10.8.5",
-    "downloadUrl": "resources/magic.1056/download?version=478232",
-    "numberOfDownloads": 9,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1670958300,
-    "sourceUrl": "https://www.spigotmc.org/resources/magic.1056/history"
-  }
+  "downloadUrl": "resources/magic.1056/download?version=478232",
+  "numberOfDownloads": 9,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1670958300,
+  "sourceUrl": "https://www.spigotmc.org/resources/magic.1056/history"
 }

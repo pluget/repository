@@ -1,12 +1,9 @@
 {
   "name": "9.0.7",
-  "version": {
-    "name": "9.0.7",
-    "downloadUrl": "resources/guishop.2451/download?version=397385",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1620226920,
-    "sourceUrl": "https://www.spigotmc.org/resources/guishop.2451/history"
-  }
+  "downloadUrl": "resources/guishop.2451/download?version=397385",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1620226920,
+  "sourceUrl": "https://www.spigotmc.org/resources/guishop.2451/history"
 }

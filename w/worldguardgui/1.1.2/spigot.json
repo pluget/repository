@@ -1,12 +1,9 @@
 {
   "name": "1.1.2",
-  "version": {
-    "name": "1.1.2",
-    "downloadUrl": "resources/worldguardgui-1-8-8-1-19-2.95870/download?version=456138",
-    "numberOfDownloads": 8,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1655139840,
-    "sourceUrl": "https://www.spigotmc.org/resources/worldguardgui-1-8-8-1-19-2.95870/history"
-  }
+  "downloadUrl": "resources/worldguardgui-1-8-8-1-19-2.95870/download?version=456138",
+  "numberOfDownloads": 8,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1655139840,
+  "sourceUrl": "https://www.spigotmc.org/resources/worldguardgui-1-8-8-1-19-2.95870/history"
 }

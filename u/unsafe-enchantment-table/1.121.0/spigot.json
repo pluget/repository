@@ -1,12 +1,9 @@
 {
-  "name": "1.121.0",
-  "version": {
-    "name": "v1.121",
-    "downloadUrl": "resources/unsafe-enchantment-table.103730/download?version=489640",
-    "numberOfDownloads": 42,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1679115540,
-    "sourceUrl": "https://www.spigotmc.org/resources/unsafe-enchantment-table.103730/history"
-  }
+  "name": "v1.121",
+  "downloadUrl": "resources/unsafe-enchantment-table.103730/download?version=489640",
+  "numberOfDownloads": 42,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1679115540,
+  "sourceUrl": "https://www.spigotmc.org/resources/unsafe-enchantment-table.103730/history"
 }

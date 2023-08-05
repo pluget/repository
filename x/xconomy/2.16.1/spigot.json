@@ -1,12 +1,9 @@
 {
   "name": "2.16.1",
-  "version": {
-    "name": "2.16.1",
-    "downloadUrl": "resources/xconomy.75669/download?version=442411",
-    "numberOfDownloads": 1,
-    "rating": 8,
-    "numberOfVotes": 2,
-    "releaseDate": 1645626660,
-    "sourceUrl": "https://www.spigotmc.org/resources/xconomy.75669/history"
-  }
+  "downloadUrl": "resources/xconomy.75669/download?version=442411",
+  "numberOfDownloads": 1,
+  "rating": 8,
+  "numberOfVotes": 2,
+  "releaseDate": 1645626660,
+  "sourceUrl": "https://www.spigotmc.org/resources/xconomy.75669/history"
 }

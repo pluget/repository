@@ -1,12 +1,9 @@
 {
   "name": "1.0.0-rc7",
-  "version": {
-    "name": "1.0.0-rc7",
-    "downloadUrl": "resources/mysql-support-ultimate-inventory-shop-a-simple-gui-shop.105743/download?version=479087",
-    "numberOfDownloads": 9,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1671608400,
-    "sourceUrl": "https://www.spigotmc.org/resources/105743/history/"
-  }
+  "downloadUrl": "resources/mysql-support-ultimate-inventory-shop-a-simple-gui-shop.105743/download?version=479087",
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1671608400,
+  "sourceUrl": "https://www.spigotmc.org/resources/105743/history/"
 }

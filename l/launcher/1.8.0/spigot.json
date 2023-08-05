@@ -1,12 +1,9 @@
 {
-  "name": "1.8.0",
-  "version": {
-    "name": "1.8",
-    "downloadUrl": "resources/launcher.88492/download?version=438708",
-    "numberOfDownloads": 45,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1643342760,
-    "sourceUrl": "https://www.spigotmc.org/resources/88492/history/"
-  }
+  "name": "1.8",
+  "downloadUrl": "resources/launcher.88492/download?version=438708",
+  "numberOfDownloads": 45,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1643342760,
+  "sourceUrl": "https://www.spigotmc.org/resources/88492/history/"
 }

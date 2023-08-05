@@ -1,12 +1,9 @@
 {
-  "name": "6.2.6",
-  "version": {
-    "name": "beta-6.2.6",
-    "downloadUrl": "resources/smallpets.81184/download?version=425297",
-    "numberOfDownloads": 1,
-    "rating": 6,
-    "numberOfVotes": 2,
-    "releaseDate": 1635752100,
-    "sourceUrl": "https://www.spigotmc.org/resources/smallpets.81184/history"
-  }
+  "name": "beta-6.2.6",
+  "downloadUrl": "resources/smallpets.81184/download?version=425297",
+  "numberOfDownloads": 1,
+  "rating": 6,
+  "numberOfVotes": 2,
+  "releaseDate": 1635752100,
+  "sourceUrl": "https://www.spigotmc.org/resources/smallpets.81184/history"
 }

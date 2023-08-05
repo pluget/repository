@@ -1,12 +1,9 @@
 {
   "name": "3.0.5",
-  "version": {
-    "name": "3.0.5",
-    "downloadUrl": "resources/betterrtp-random-wild-teleport.36081/download?version=380906",
-    "numberOfDownloads": 13,
-    "rating": 9.6,
-    "numberOfVotes": 5,
-    "releaseDate": 1612131900,
-    "sourceUrl": "https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/history"
-  }
+  "downloadUrl": "resources/betterrtp-random-wild-teleport.36081/download?version=380906",
+  "numberOfDownloads": 13,
+  "rating": 9.6,
+  "numberOfVotes": 5,
+  "releaseDate": 1612131900,
+  "sourceUrl": "https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/history"
 }

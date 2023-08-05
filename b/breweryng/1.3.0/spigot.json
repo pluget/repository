@@ -1,12 +1,9 @@
 {
   "name": "1.3.0",
-  "version": {
-    "name": "1.3.0",
-    "downloadUrl": "resources/breweryng.104381/download?version=485633",
-    "numberOfDownloads": 68,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1676172120,
-    "sourceUrl": "https://www.spigotmc.org/resources/breweryng.104381/history"
-  }
+  "downloadUrl": "resources/breweryng.104381/download?version=485633",
+  "numberOfDownloads": 68,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1676172120,
+  "sourceUrl": "https://www.spigotmc.org/resources/breweryng.104381/history"
 }

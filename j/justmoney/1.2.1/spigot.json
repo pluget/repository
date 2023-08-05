@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/justmoney.81941/download?version=440085",
-    "numberOfDownloads": 1,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1644151860,
-    "sourceUrl": "https://www.spigotmc.org/resources/81941/history/"
-  }
+  "downloadUrl": "resources/justmoney.81941/download?version=440085",
+  "numberOfDownloads": 1,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1644151860,
+  "sourceUrl": "https://www.spigotmc.org/resources/81941/history/"
 }

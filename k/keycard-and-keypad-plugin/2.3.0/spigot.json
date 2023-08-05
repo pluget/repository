@@ -1,12 +1,9 @@
 {
   "name": "2.3.0",
-  "version": {
-    "name": "2.3.0",
-    "downloadUrl": "resources/keycard-and-keypad-plugin.87850/download?version=440331",
-    "numberOfDownloads": 3,
-    "rating": 8,
-    "numberOfVotes": 3,
-    "releaseDate": 1644269580,
-    "sourceUrl": "https://www.spigotmc.org/resources/keycard-and-keypad-plugin.87850/history"
-  }
+  "downloadUrl": "resources/keycard-and-keypad-plugin.87850/download?version=440331",
+  "numberOfDownloads": 3,
+  "rating": 8,
+  "numberOfVotes": 3,
+  "releaseDate": 1644269580,
+  "sourceUrl": "https://www.spigotmc.org/resources/keycard-and-keypad-plugin.87850/history"
 }

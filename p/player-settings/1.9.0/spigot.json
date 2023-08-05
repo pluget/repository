@@ -1,12 +1,9 @@
 {
-  "name": "1.9.0",
-  "version": {
-    "name": "1.9",
-    "downloadUrl": "resources/player-settings.14622/download?version=55843",
-    "numberOfDownloads": 110,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1448920020,
-    "sourceUrl": "https://www.spigotmc.org/resources/player-settings.14622/history"
-  }
+  "name": "1.9",
+  "downloadUrl": "resources/player-settings.14622/download?version=55843",
+  "numberOfDownloads": 110,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1448920020,
+  "sourceUrl": "https://www.spigotmc.org/resources/player-settings.14622/history"
 }

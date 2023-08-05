@@ -1,12 +1,9 @@
 {
-  "name": "3.4.0-Lite",
-  "version": {
-    "name": "3.4-Lite",
-    "downloadUrl": "resources/stats-scoreboard.43424/download?version=356221",
-    "numberOfDownloads": 346,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1599767280,
-    "sourceUrl": "https://www.spigotmc.org/resources/stats-scoreboard.43424/history"
-  }
+  "name": "3.4-Lite",
+  "downloadUrl": "resources/stats-scoreboard.43424/download?version=356221",
+  "numberOfDownloads": 346,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1599767280,
+  "sourceUrl": "https://www.spigotmc.org/resources/stats-scoreboard.43424/history"
 }

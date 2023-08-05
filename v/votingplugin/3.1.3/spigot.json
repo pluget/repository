@@ -1,12 +1,9 @@
 {
   "name": "3.1.3",
-  "version": {
-    "name": "3.1.3",
-    "downloadUrl": "resources/votingplugin.15358/download?version=79894",
-    "numberOfDownloads": 143,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1459643820,
-    "sourceUrl": "https://www.spigotmc.org/resources/votingplugin.15358/history"
-  }
+  "downloadUrl": "resources/votingplugin.15358/download?version=79894",
+  "numberOfDownloads": 143,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1459643820,
+  "sourceUrl": "https://www.spigotmc.org/resources/votingplugin.15358/history"
 }

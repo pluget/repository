@@ -1,12 +1,9 @@
 {
   "name": "7.0.0",
-  "version": {
-    "name": "7.0.0",
-    "downloadUrl": "resources/mobhunting.3582/download?version=313346",
-    "numberOfDownloads": 1,
-    "rating": 4.6666666666666,
-    "numberOfVotes": 3,
-    "releaseDate": 1581174840,
-    "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
-  }
+  "downloadUrl": "resources/mobhunting.3582/download?version=313346",
+  "numberOfDownloads": 1,
+  "rating": 4.6666666666666,
+  "numberOfVotes": 3,
+  "releaseDate": 1581174840,
+  "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
 }

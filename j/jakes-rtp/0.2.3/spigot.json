@@ -1,12 +1,9 @@
 {
   "name": "0.2.3",
-  "version": {
-    "name": "0.2.3",
-    "downloadUrl": "resources/jakes-rtp.80201/download?version=337348",
-    "numberOfDownloads": 43,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1592167380,
-    "sourceUrl": "https://www.spigotmc.org/resources/jakes-rtp.80201/history"
-  }
+  "downloadUrl": "resources/jakes-rtp.80201/download?version=337348",
+  "numberOfDownloads": 43,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1592167380,
+  "sourceUrl": "https://www.spigotmc.org/resources/jakes-rtp.80201/history"
 }

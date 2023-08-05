@@ -1,12 +1,9 @@
 {
   "name": "1.3.2",
-  "version": {
-    "name": "1.3.2",
-    "downloadUrl": "resources/basic-teleport-plugin.108376/download?version=488821",
-    "numberOfDownloads": 32,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1678621260,
-    "sourceUrl": "https://www.spigotmc.org/resources/basic-teleport-plugin.108376/history"
-  }
+  "downloadUrl": "resources/basic-teleport-plugin.108376/download?version=488821",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1678621260,
+  "sourceUrl": "https://www.spigotmc.org/resources/basic-teleport-plugin.108376/history"
 }

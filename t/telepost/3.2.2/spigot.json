@@ -1,12 +1,9 @@
 {
   "name": "3.2.2",
-  "version": {
-    "name": "3.2.2",
-    "downloadUrl": "resources/telepost.91988/download?version=400004",
-    "numberOfDownloads": 36,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1621783440,
-    "sourceUrl": "https://www.spigotmc.org/resources/telepost.91988/history"
-  }
+  "downloadUrl": "resources/telepost.91988/download?version=400004",
+  "numberOfDownloads": 36,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1621783440,
+  "sourceUrl": "https://www.spigotmc.org/resources/telepost.91988/history"
 }

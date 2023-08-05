@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/cityrp-paychecks.100745/download?version=445597",
-    "numberOfDownloads": 128,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1647584700,
-    "sourceUrl": "https://www.spigotmc.org/resources/cityrp-paychecks.100745/history"
-  }
+  "downloadUrl": "resources/cityrp-paychecks.100745/download?version=445597",
+  "numberOfDownloads": 128,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1647584700,
+  "sourceUrl": "https://www.spigotmc.org/resources/cityrp-paychecks.100745/history"
 }

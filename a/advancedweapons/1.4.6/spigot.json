@@ -1,12 +1,9 @@
 {
   "name": "1.4.6",
-  "version": {
-    "name": "1.4.6",
-    "downloadUrl": "resources/advancedweapons-custom-enchantments.67760/download?version=377460",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1610659500,
-    "sourceUrl": "https://www.spigotmc.org/resources/advancedweapons-custom-enchantments.67760/history"
-  }
+  "downloadUrl": "resources/advancedweapons-custom-enchantments.67760/download?version=377460",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1610659500,
+  "sourceUrl": "https://www.spigotmc.org/resources/advancedweapons-custom-enchantments.67760/history"
 }

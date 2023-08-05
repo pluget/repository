@@ -1,12 +1,9 @@
 {
   "name": "1.10.34",
-  "version": {
-    "name": "1.10.34",
-    "downloadUrl": "resources/spark.57242/download?version=489830",
-    "numberOfDownloads": 2,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1679212680,
-    "sourceUrl": "https://www.spigotmc.org/resources/spark.57242/history"
-  }
+  "downloadUrl": "resources/spark.57242/download?version=489830",
+  "numberOfDownloads": 2,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1679212680,
+  "sourceUrl": "https://www.spigotmc.org/resources/spark.57242/history"
 }

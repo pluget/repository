@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/atlas-cloudywars.105809/download?version=473265",
-    "numberOfDownloads": 6,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1666599600,
-    "sourceUrl": "https://www.spigotmc.org/resources/atlas-cloudywars.105809/history"
-  }
+  "downloadUrl": "resources/atlas-cloudywars.105809/download?version=473265",
+  "numberOfDownloads": 6,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1666599600,
+  "sourceUrl": "https://www.spigotmc.org/resources/atlas-cloudywars.105809/history"
 }

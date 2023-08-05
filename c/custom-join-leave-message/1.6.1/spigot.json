@@ -1,12 +1,9 @@
 {
   "name": "1.6.1",
-  "version": {
-    "name": "1.6.1",
-    "downloadUrl": "resources/custom-join-leave-message.59300/download?version=300750",
-    "numberOfDownloads": 144,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1573225980,
-    "sourceUrl": "https://www.spigotmc.org/resources/59300/history/"
-  }
+  "downloadUrl": "resources/custom-join-leave-message.59300/download?version=300750",
+  "numberOfDownloads": 144,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1573225980,
+  "sourceUrl": "https://www.spigotmc.org/resources/59300/history/"
 }

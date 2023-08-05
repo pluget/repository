@@ -1,12 +1,9 @@
 {
   "name": "0.0.1",
-  "version": {
-    "name": "0.0.1",
-    "downloadUrl": "resources/worstarmorstand.99759/download?version=439776",
-    "numberOfDownloads": 14,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1643991720,
-    "sourceUrl": "https://www.spigotmc.org/resources/worstarmorstand.99759/history"
-  }
+  "downloadUrl": "resources/worstarmorstand.99759/download?version=439776",
+  "numberOfDownloads": 14,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1643991720,
+  "sourceUrl": "https://www.spigotmc.org/resources/worstarmorstand.99759/history"
 }

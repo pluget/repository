@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/clanslite-1-19-4-support.97163/download?version=437297",
-    "numberOfDownloads": 85,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1642535040,
-    "sourceUrl": "https://www.spigotmc.org/resources/clanslite-1-19-4-support.97163/history"
-  }
+  "downloadUrl": "resources/clanslite-1-19-4-support.97163/download?version=437297",
+  "numberOfDownloads": 85,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1642535040,
+  "sourceUrl": "https://www.spigotmc.org/resources/clanslite-1-19-4-support.97163/history"
 }

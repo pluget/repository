@@ -1,12 +1,9 @@
 {
   "name": "1.8.4",
-  "version": {
-    "name": "1.8.4",
-    "downloadUrl": "resources/largeraids-1-14-x-1-18-x.95422/download?version=434571",
-    "numberOfDownloads": 80,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1641094320,
-    "sourceUrl": "https://www.spigotmc.org/resources/95422/history/"
-  }
+  "downloadUrl": "resources/largeraids-1-14-x-1-18-x.95422/download?version=434571",
+  "numberOfDownloads": 80,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1641094320,
+  "sourceUrl": "https://www.spigotmc.org/resources/95422/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/skymines.101373/download?version=449305",
-    "numberOfDownloads": 22,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1650247680,
-    "sourceUrl": "https://www.spigotmc.org/resources/skymines.101373/history"
-  }
+  "downloadUrl": "resources/skymines.101373/download?version=449305",
+  "numberOfDownloads": 22,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1650247680,
+  "sourceUrl": "https://www.spigotmc.org/resources/skymines.101373/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-SNAPSHOT",
-  "version": {
-    "name": "1.0-SNAPSHOT",
-    "downloadUrl": "resources/password.102789/download?version=457400",
-    "numberOfDownloads": 35,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1655828280,
-    "sourceUrl": "https://www.spigotmc.org/resources/password.102789/history"
-  }
+  "name": "1.0-SNAPSHOT",
+  "downloadUrl": "resources/password.102789/download?version=457400",
+  "numberOfDownloads": 35,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1655828280,
+  "sourceUrl": "https://www.spigotmc.org/resources/password.102789/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.0.4",
-  "version": {
-    "name": "2.0.4",
-    "downloadUrl": "resources/join-commands.51758/download?version=402865",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1623494760,
-    "sourceUrl": "https://www.spigotmc.org/resources/join-commands.51758/history"
-  }
+  "downloadUrl": "resources/join-commands.51758/download?version=402865",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1623494760,
+  "sourceUrl": "https://www.spigotmc.org/resources/join-commands.51758/history"
 }

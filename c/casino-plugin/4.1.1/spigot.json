@@ -1,12 +1,9 @@
 {
   "name": "4.1.1",
-  "version": {
-    "name": "4.1.1",
-    "downloadUrl": "resources/casino-plugin.71898/download?version=405141",
-    "numberOfDownloads": 848,
-    "rating": 8.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1624460400,
-    "sourceUrl": "https://www.spigotmc.org/resources/casino-plugin.71898/history"
-  }
+  "downloadUrl": "resources/casino-plugin.71898/download?version=405141",
+  "numberOfDownloads": 848,
+  "rating": 8.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1624460400,
+  "sourceUrl": "https://www.spigotmc.org/resources/casino-plugin.71898/history"
 }

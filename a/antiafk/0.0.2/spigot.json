@@ -1,12 +1,9 @@
 {
   "name": "0.0.2",
-  "version": {
-    "name": "0.0.2",
-    "downloadUrl": "resources/antiafk-1-8-1-19.106386/download?version=476141",
-    "numberOfDownloads": 92,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1669123200,
-    "sourceUrl": "https://www.spigotmc.org/resources/antiafk-1-8-1-19.106386/history"
-  }
+  "downloadUrl": "resources/antiafk-1-8-1-19.106386/download?version=476141",
+  "numberOfDownloads": 92,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1669123200,
+  "sourceUrl": "https://www.spigotmc.org/resources/antiafk-1-8-1-19.106386/history"
 }

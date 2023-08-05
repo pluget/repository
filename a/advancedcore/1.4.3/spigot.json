@@ -1,12 +1,9 @@
 {
   "name": "1.4.3",
-  "version": {
-    "name": "1.4.3",
-    "downloadUrl": "resources/advancedcore.28295/download?version=115369",
-    "numberOfDownloads": 151,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1474329420,
-    "sourceUrl": "https://www.spigotmc.org/resources/advancedcore.28295/history"
-  }
+  "downloadUrl": "resources/advancedcore.28295/download?version=115369",
+  "numberOfDownloads": 151,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1474329420,
+  "sourceUrl": "https://www.spigotmc.org/resources/advancedcore.28295/history"
 }

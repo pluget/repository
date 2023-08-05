@@ -1,12 +1,9 @@
 {
   "name": "4.3.0",
-  "version": {
-    "name": "4.3.0",
-    "downloadUrl": "resources/cooldownsx.41981/download?version=460092",
-    "numberOfDownloads": 383,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1657423620,
-    "sourceUrl": "https://www.spigotmc.org/resources/cooldownsx.41981/history"
-  }
+  "downloadUrl": "resources/cooldownsx.41981/download?version=460092",
+  "numberOfDownloads": 383,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1657423620,
+  "sourceUrl": "https://www.spigotmc.org/resources/cooldownsx.41981/history"
 }

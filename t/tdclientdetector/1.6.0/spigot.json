@@ -1,12 +1,9 @@
 {
-  "name": "1.6.0",
-  "version": {
-    "name": "1.6",
-    "downloadUrl": "resources/td_clientdetector.96502/download?version=424994",
-    "numberOfDownloads": 39,
-    "rating": 6,
-    "numberOfVotes": 2,
-    "releaseDate": 1635573360,
-    "sourceUrl": "https://www.spigotmc.org/resources/td_clientdetector.96502/history"
-  }
+  "name": "1.6",
+  "downloadUrl": "resources/td_clientdetector.96502/download?version=424994",
+  "numberOfDownloads": 39,
+  "rating": 6,
+  "numberOfVotes": 2,
+  "releaseDate": 1635573360,
+  "sourceUrl": "https://www.spigotmc.org/resources/td_clientdetector.96502/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.2-Release",
-  "version": {
-    "name": "1.0.2-Release",
-    "downloadUrl": "resources/interactiveblocks.98094/download?version=451404",
-    "numberOfDownloads": 40,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1651857420,
-    "sourceUrl": "https://www.spigotmc.org/resources/98094/history/"
-  }
+  "downloadUrl": "resources/interactiveblocks.98094/download?version=451404",
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1651857420,
+  "sourceUrl": "https://www.spigotmc.org/resources/98094/history/"
 }

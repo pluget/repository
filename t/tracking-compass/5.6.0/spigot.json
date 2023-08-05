@@ -1,12 +1,9 @@
 {
-  "name": "5.6.0",
-  "version": {
-    "name": "5.6",
-    "downloadUrl": "resources/tracking-compass.79777/download?version=446740",
-    "numberOfDownloads": 27,
-    "rating": 8.25,
-    "numberOfVotes": 8,
-    "releaseDate": 1648400640,
-    "sourceUrl": "https://www.spigotmc.org/resources/tracking-compass.79777/history"
-  }
+  "name": "5.6",
+  "downloadUrl": "resources/tracking-compass.79777/download?version=446740",
+  "numberOfDownloads": 27,
+  "rating": 8.25,
+  "numberOfVotes": 8,
+  "releaseDate": 1648400640,
+  "sourceUrl": "https://www.spigotmc.org/resources/tracking-compass.79777/history"
 }

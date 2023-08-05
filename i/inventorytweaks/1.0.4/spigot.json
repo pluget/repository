@@ -1,12 +1,9 @@
 {
   "name": "1.0.4",
-  "version": {
-    "name": "1.0.4",
-    "downloadUrl": "resources/inventorytweaks.105437/download?version=470460",
-    "numberOfDownloads": 150,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1664057880,
-    "sourceUrl": "https://www.spigotmc.org/resources/inventorytweaks.105437/history"
-  }
+  "downloadUrl": "resources/inventorytweaks.105437/download?version=470460",
+  "numberOfDownloads": 150,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1664057880,
+  "sourceUrl": "https://www.spigotmc.org/resources/inventorytweaks.105437/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/joinfeaturesdeluxe.108314/download?version=489394",
-    "numberOfDownloads": 19,
-    "rating": 2,
-    "numberOfVotes": 1,
-    "releaseDate": 1678979280,
-    "sourceUrl": "https://www.spigotmc.org/resources/108314/history/"
-  }
+  "downloadUrl": "resources/joinfeaturesdeluxe.108314/download?version=489394",
+  "numberOfDownloads": 19,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releaseDate": 1678979280,
+  "sourceUrl": "https://www.spigotmc.org/resources/108314/history/"
 }

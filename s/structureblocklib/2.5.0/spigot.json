@@ -1,12 +1,9 @@
 {
   "name": "2.5.0",
-  "version": {
-    "name": "2.5.0",
-    "downloadUrl": "resources/structureblocklib-api-1-9-1-19.28550/download?version=448112",
-    "numberOfDownloads": 38,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1649422320,
-    "sourceUrl": "https://www.spigotmc.org/resources/structureblocklib-api-1-9-1-19.28550/history"
-  }
+  "downloadUrl": "resources/structureblocklib-api-1-9-1-19.28550/download?version=448112",
+  "numberOfDownloads": 38,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1649422320,
+  "sourceUrl": "https://www.spigotmc.org/resources/structureblocklib-api-1-9-1-19.28550/history"
 }

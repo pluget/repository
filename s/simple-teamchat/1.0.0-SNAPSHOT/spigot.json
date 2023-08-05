@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-SNAPSHOT",
-  "version": {
-    "name": "1.0-SNAPSHOT",
-    "downloadUrl": "resources/simple-teamchat.104546/download?version=465572",
-    "numberOfDownloads": 31,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660482780,
-    "sourceUrl": "https://www.spigotmc.org/resources/simple-teamchat.104546/history"
-  }
+  "name": "1.0-SNAPSHOT",
+  "downloadUrl": "resources/simple-teamchat.104546/download?version=465572",
+  "numberOfDownloads": 31,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660482780,
+  "sourceUrl": "https://www.spigotmc.org/resources/simple-teamchat.104546/history"
 }

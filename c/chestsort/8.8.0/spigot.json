@@ -1,12 +1,9 @@
 {
-  "name": "8.8.0",
-  "version": {
-    "name": "8.8",
-    "downloadUrl": "resources/chestsort-api.59773/download?version=334027",
-    "numberOfDownloads": 177,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1590583500,
-    "sourceUrl": "https://www.spigotmc.org/resources/59773/history/"
-  }
+  "name": "8.8",
+  "downloadUrl": "resources/chestsort-api.59773/download?version=334027",
+  "numberOfDownloads": 177,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1590583500,
+  "sourceUrl": "https://www.spigotmc.org/resources/59773/history/"
 }

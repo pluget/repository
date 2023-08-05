@@ -1,12 +1,9 @@
 {
   "name": "1.0.2",
-  "version": {
-    "name": "1.0.2",
-    "downloadUrl": "resources/mcstuff.102044/download?version=452613",
-    "numberOfDownloads": 14,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1652816220,
-    "sourceUrl": "https://www.spigotmc.org/resources/102044/history/"
-  }
+  "downloadUrl": "resources/mcstuff.102044/download?version=452613",
+  "numberOfDownloads": 14,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1652816220,
+  "sourceUrl": "https://www.spigotmc.org/resources/102044/history/"
 }

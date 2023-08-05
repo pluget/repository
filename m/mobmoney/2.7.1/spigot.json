@@ -1,12 +1,9 @@
 {
   "name": "2.7.1",
-  "version": {
-    "name": "2.7.1",
-    "downloadUrl": "resources/mobmoney.19852/download?version=451905",
-    "numberOfDownloads": 4,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1652283000,
-    "sourceUrl": "https://www.spigotmc.org/resources/mobmoney.19852/history"
-  }
+  "downloadUrl": "resources/mobmoney.19852/download?version=451905",
+  "numberOfDownloads": 4,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1652283000,
+  "sourceUrl": "https://www.spigotmc.org/resources/mobmoney.19852/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "3.3.0",
-  "version": {
-    "name": "3.3.0",
-    "downloadUrl": "resources/plot2dynmap.1292/download?version=72700",
-    "numberOfDownloads": 215,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1457026740,
-    "sourceUrl": "https://www.spigotmc.org/resources/plot2dynmap.1292/history"
-  }
+  "downloadUrl": "resources/plot2dynmap.1292/download?version=72700",
+  "numberOfDownloads": 215,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1457026740,
+  "sourceUrl": "https://www.spigotmc.org/resources/plot2dynmap.1292/history"
 }

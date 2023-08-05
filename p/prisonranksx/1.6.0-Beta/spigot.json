@@ -1,12 +1,9 @@
 {
-  "name": "1.6.0-Beta",
-  "version": {
-    "name": "1.6 Beta",
-    "downloadUrl": "resources/prisonranksx-1-5-1-19.55899/download?version=221745",
-    "numberOfDownloads": 195,
-    "rating": 4,
-    "numberOfVotes": 1,
-    "releaseDate": 1526388360,
-    "sourceUrl": "https://www.spigotmc.org/resources/55899/history/"
-  }
+  "name": "1.6 Beta",
+  "downloadUrl": "resources/prisonranksx-1-5-1-19.55899/download?version=221745",
+  "numberOfDownloads": 195,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releaseDate": 1526388360,
+  "sourceUrl": "https://www.spigotmc.org/resources/55899/history/"
 }

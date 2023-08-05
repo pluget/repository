@@ -1,12 +1,9 @@
 {
   "name": "1.6.0",
-  "version": {
-    "name": "1.6.0",
-    "downloadUrl": "resources/besttools.81490/download?version=345889",
-    "numberOfDownloads": 64,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1595355120,
-    "sourceUrl": "https://www.spigotmc.org/resources/besttools.81490/history"
-  }
+  "downloadUrl": "resources/besttools.81490/download?version=345889",
+  "numberOfDownloads": 64,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1595355120,
+  "sourceUrl": "https://www.spigotmc.org/resources/besttools.81490/history"
 }

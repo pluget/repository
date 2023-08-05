@@ -1,12 +1,9 @@
 {
   "name": "2.5.11",
-  "version": {
-    "name": "2.5.11",
-    "downloadUrl": "resources/omegavision.73013/download?version=434745",
-    "numberOfDownloads": 176,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1641178980,
-    "sourceUrl": "https://www.spigotmc.org/resources/omegavision.73013/history"
-  }
+  "downloadUrl": "resources/omegavision.73013/download?version=434745",
+  "numberOfDownloads": 176,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1641178980,
+  "sourceUrl": "https://www.spigotmc.org/resources/omegavision.73013/history"
 }

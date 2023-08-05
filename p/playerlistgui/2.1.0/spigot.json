@@ -1,12 +1,9 @@
 {
   "name": "2.1.0",
-  "version": {
-    "name": "2.1.0",
-    "downloadUrl": "resources/playerlistgui.36641/download?version=315491",
-    "numberOfDownloads": 162,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1582482840,
-    "sourceUrl": "https://www.spigotmc.org/resources/playerlistgui.36641/history"
-  }
+  "downloadUrl": "resources/playerlistgui.36641/download?version=315491",
+  "numberOfDownloads": 162,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1582482840,
+  "sourceUrl": "https://www.spigotmc.org/resources/playerlistgui.36641/history"
 }

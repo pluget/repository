@@ -1,12 +1,9 @@
 {
-  "name": "1.0.1",
-  "version": {
-    "name": "V.1.0.1",
-    "downloadUrl": "resources/world-reset.101755/download?version=450797",
-    "numberOfDownloads": 40,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1651351680,
-    "sourceUrl": "https://www.spigotmc.org/resources/101755/history/"
-  }
+  "name": "V.1.0.1",
+  "downloadUrl": "resources/world-reset.101755/download?version=450797",
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1651351680,
+  "sourceUrl": "https://www.spigotmc.org/resources/101755/history/"
 }

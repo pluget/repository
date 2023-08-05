@@ -1,12 +1,9 @@
 {
   "name": "1.19.0",
-  "version": {
-    "name": "1.19.0",
-    "downloadUrl": "resources/savagegraveyards.63050/download?version=465021",
-    "numberOfDownloads": 50,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1660158180,
-    "sourceUrl": "https://www.spigotmc.org/resources/savagegraveyards.63050/history"
-  }
+  "downloadUrl": "resources/savagegraveyards.63050/download?version=465021",
+  "numberOfDownloads": 50,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1660158180,
+  "sourceUrl": "https://www.spigotmc.org/resources/savagegraveyards.63050/history"
 }

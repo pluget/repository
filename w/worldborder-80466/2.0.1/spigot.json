@@ -1,12 +1,9 @@
 {
   "name": "2.0.1",
-  "version": {
-    "name": "2.0.1",
-    "downloadUrl": "resources/worldborder-1-15.80466/download?version=338471",
-    "numberOfDownloads": 136,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1592733540,
-    "sourceUrl": "https://www.spigotmc.org/resources/80466/history/"
-  }
+  "downloadUrl": "resources/worldborder-1-15.80466/download?version=338471",
+  "numberOfDownloads": 136,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1592733540,
+  "sourceUrl": "https://www.spigotmc.org/resources/80466/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.6.0-pre.1",
-  "version": {
-    "name": "1.6.0",
-    "downloadUrl": "resources/headsinventory-1-17-1-19.30167/download?version=210324",
-    "numberOfDownloads": 3,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1519773000,
-    "sourceUrl": "https://www.spigotmc.org/resources/headsinventory-1-17-1-19.30167/history"
-  }
+  "name": "1.6.0",
+  "downloadUrl": "resources/headsinventory-1-17-1-19.30167/download?version=210324",
+  "numberOfDownloads": 3,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1519773000,
+  "sourceUrl": "https://www.spigotmc.org/resources/headsinventory-1-17-1-19.30167/history"
 }

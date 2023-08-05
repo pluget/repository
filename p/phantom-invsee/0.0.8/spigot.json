@@ -1,12 +1,9 @@
 {
   "name": "0.0.8",
-  "version": {
-    "name": "0.0.8",
-    "downloadUrl": "resources/phantom-invsee.96507/download?version=421130",
-    "numberOfDownloads": 29,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1632786780,
-    "sourceUrl": "https://www.spigotmc.org/resources/96507/history/"
-  }
+  "downloadUrl": "resources/phantom-invsee.96507/download?version=421130",
+  "numberOfDownloads": 29,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1632786780,
+  "sourceUrl": "https://www.spigotmc.org/resources/96507/history/"
 }

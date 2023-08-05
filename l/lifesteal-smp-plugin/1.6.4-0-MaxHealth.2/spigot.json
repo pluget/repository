@@ -1,12 +1,9 @@
 {
-  "name": "1.6.4-0-MaxHealth.2",
-  "version": {
-    "name": "Alpha 1.6.4.0-MaxHealth.2",
-    "downloadUrl": "resources/lifesteal-smp-plugin.94387/download?version=435705",
-    "numberOfDownloads": 2,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1641667620,
-    "sourceUrl": "https://www.spigotmc.org/resources/94387/history/"
-  }
+  "name": "Alpha 1.6.4.0-MaxHealth.2",
+  "downloadUrl": "resources/lifesteal-smp-plugin.94387/download?version=435705",
+  "numberOfDownloads": 2,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1641667620,
+  "sourceUrl": "https://www.spigotmc.org/resources/94387/history/"
 }

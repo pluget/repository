@@ -1,12 +1,9 @@
 {
   "name": "1.8.2",
-  "version": {
-    "name": "1.8.2",
-    "downloadUrl": "resources/besttools.81490/download?version=348500",
-    "numberOfDownloads": 103,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1596472620,
-    "sourceUrl": "https://www.spigotmc.org/resources/besttools.81490/history"
-  }
+  "downloadUrl": "resources/besttools.81490/download?version=348500",
+  "numberOfDownloads": 103,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1596472620,
+  "sourceUrl": "https://www.spigotmc.org/resources/besttools.81490/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.3.2",
-  "version": {
-    "name": "2.3.2",
-    "downloadUrl": "resources/partychat.79295/download?version=350236",
-    "numberOfDownloads": 62,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1597189140,
-    "sourceUrl": "https://www.spigotmc.org/resources/79295/history/"
-  }
+  "downloadUrl": "resources/partychat.79295/download?version=350236",
+  "numberOfDownloads": 62,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1597189140,
+  "sourceUrl": "https://www.spigotmc.org/resources/79295/history/"
 }

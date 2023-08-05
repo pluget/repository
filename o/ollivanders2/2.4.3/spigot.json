@@ -1,12 +1,9 @@
 {
   "name": "2.4.3",
-  "version": {
-    "name": "2.4.3",
-    "downloadUrl": "resources/ollivanders2.38992/download?version=382324",
-    "numberOfDownloads": 35,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1612755360,
-    "sourceUrl": "https://www.spigotmc.org/resources/ollivanders2.38992/history"
-  }
+  "downloadUrl": "resources/ollivanders2.38992/download?version=382324",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1612755360,
+  "sourceUrl": "https://www.spigotmc.org/resources/ollivanders2.38992/history"
 }

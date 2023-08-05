@@ -1,12 +1,9 @@
 {
   "name": "2.7.0",
-  "version": {
-    "name": "2.7.0",
-    "downloadUrl": "resources/placeholderapi.6245/download?version=149565",
-    "numberOfDownloads": 2,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1490030820,
-    "sourceUrl": "https://www.spigotmc.org/resources/placeholderapi.6245/history"
-  }
+  "downloadUrl": "resources/placeholderapi.6245/download?version=149565",
+  "numberOfDownloads": 2,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1490030820,
+  "sourceUrl": "https://www.spigotmc.org/resources/placeholderapi.6245/history"
 }

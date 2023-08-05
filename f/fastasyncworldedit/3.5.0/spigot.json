@@ -1,12 +1,9 @@
 {
   "name": "3.5.0",
-  "version": {
-    "name": "3.5.0",
-    "downloadUrl": "resources/fastasyncworldedit.13932/download?version=88891",
-    "numberOfDownloads": 12,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1463124180,
-    "sourceUrl": "https://www.spigotmc.org/resources/fastasyncworldedit.13932/history"
-  }
+  "downloadUrl": "resources/fastasyncworldedit.13932/download?version=88891",
+  "numberOfDownloads": 12,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1463124180,
+  "sourceUrl": "https://www.spigotmc.org/resources/fastasyncworldedit.13932/history"
 }

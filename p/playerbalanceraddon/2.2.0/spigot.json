@@ -1,12 +1,9 @@
 {
-  "name": "2.2.0",
-  "version": {
-    "name": "2.2",
-    "downloadUrl": "resources/playerbalanceraddon.51220/download?version=338386",
-    "numberOfDownloads": 85,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1592682420,
-    "sourceUrl": "https://www.spigotmc.org/resources/playerbalanceraddon.51220/history"
-  }
+  "name": "2.2",
+  "downloadUrl": "resources/playerbalanceraddon.51220/download?version=338386",
+  "numberOfDownloads": 85,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1592682420,
+  "sourceUrl": "https://www.spigotmc.org/resources/playerbalanceraddon.51220/history"
 }

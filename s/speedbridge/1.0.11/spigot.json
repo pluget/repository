@@ -1,12 +1,9 @@
 {
   "name": "1.0.11",
-  "version": {
-    "name": "1.0.11",
-    "downloadUrl": "resources/speedbridge-v2-bridge-practice-plugin.100619/download?version=450015",
-    "numberOfDownloads": 216,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1650750660,
-    "sourceUrl": "https://www.spigotmc.org/resources/100619/history/"
-  }
+  "downloadUrl": "resources/speedbridge-v2-bridge-practice-plugin.100619/download?version=450015",
+  "numberOfDownloads": 216,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1650750660,
+  "sourceUrl": "https://www.spigotmc.org/resources/100619/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.2.4",
-  "version": {
-    "name": "1.2.4",
-    "downloadUrl": "resources/nottooexpensive.62680/download?version=350276",
-    "numberOfDownloads": 3,
-    "rating": 10,
-    "numberOfVotes": 6,
-    "releaseDate": 1597205160,
-    "sourceUrl": "https://www.spigotmc.org/resources/nottooexpensive.62680/history"
-  }
+  "downloadUrl": "resources/nottooexpensive.62680/download?version=350276",
+  "numberOfDownloads": 3,
+  "rating": 10,
+  "numberOfVotes": 6,
+  "releaseDate": 1597205160,
+  "sourceUrl": "https://www.spigotmc.org/resources/nottooexpensive.62680/history"
 }

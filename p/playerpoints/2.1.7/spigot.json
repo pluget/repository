@@ -1,12 +1,9 @@
 {
   "name": "2.1.7",
-  "version": {
-    "name": "2.1.7",
-    "downloadUrl": "resources/playerpoints.80745/download?version=345577",
-    "numberOfDownloads": 329,
-    "rating": 10,
-    "numberOfVotes": 5,
-    "releaseDate": 1595251440,
-    "sourceUrl": "https://www.spigotmc.org/resources/playerpoints.80745/history"
-  }
+  "downloadUrl": "resources/playerpoints.80745/download?version=345577",
+  "numberOfDownloads": 329,
+  "rating": 10,
+  "numberOfVotes": 5,
+  "releaseDate": 1595251440,
+  "sourceUrl": "https://www.spigotmc.org/resources/playerpoints.80745/history"
 }

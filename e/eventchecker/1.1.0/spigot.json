@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/eventchecker-%C2%BB-legacy.103339/download?version=460587",
-    "numberOfDownloads": 18,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657723800,
-    "sourceUrl": "https://www.spigotmc.org/resources/103339/history/"
-  }
+  "downloadUrl": "resources/eventchecker-%C2%BB-legacy.103339/download?version=460587",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657723800,
+  "sourceUrl": "https://www.spigotmc.org/resources/103339/history/"
 }

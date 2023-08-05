@@ -1,12 +1,9 @@
 {
   "name": "1.16.5",
-  "version": {
-    "name": "1.16.5",
-    "downloadUrl": "resources/info-serveur.103091/download?version=459168",
-    "numberOfDownloads": 13,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1656881760,
-    "sourceUrl": "https://www.spigotmc.org/resources/103091/history/"
-  }
+  "downloadUrl": "resources/info-serveur.103091/download?version=459168",
+  "numberOfDownloads": 13,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1656881760,
+  "sourceUrl": "https://www.spigotmc.org/resources/103091/history/"
 }

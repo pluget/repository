@@ -1,12 +1,9 @@
 {
   "name": "2.0.3",
-  "version": {
-    "name": "2.0.3",
-    "downloadUrl": "resources/itemedit-1-8-x-1-19-x.40993/download?version=315748",
-    "numberOfDownloads": 306,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1582637940,
-    "sourceUrl": "https://www.spigotmc.org/resources/40993/history/"
-  }
+  "downloadUrl": "resources/itemedit-1-8-x-1-19-x.40993/download?version=315748",
+  "numberOfDownloads": 306,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1582637940,
+  "sourceUrl": "https://www.spigotmc.org/resources/40993/history/"
 }

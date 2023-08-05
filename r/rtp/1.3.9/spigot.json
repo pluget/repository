@@ -1,12 +1,9 @@
 {
   "name": "1.3.9",
-  "version": {
-    "name": "1.3.9",
-    "downloadUrl": "resources/rtp.94812/download?version=420939",
-    "numberOfDownloads": 115,
-    "rating": 6,
-    "numberOfVotes": 2,
-    "releaseDate": 1632658200,
-    "sourceUrl": "https://www.spigotmc.org/resources/rtp.94812/history"
-  }
+  "downloadUrl": "resources/rtp.94812/download?version=420939",
+  "numberOfDownloads": 115,
+  "rating": 6,
+  "numberOfVotes": 2,
+  "releaseDate": 1632658200,
+  "sourceUrl": "https://www.spigotmc.org/resources/rtp.94812/history"
 }

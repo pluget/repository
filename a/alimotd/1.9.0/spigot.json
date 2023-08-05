@@ -1,12 +1,9 @@
 {
   "name": "1.9.0",
-  "version": {
-    "name": "1.9.0",
-    "downloadUrl": "resources/alimotd-1-8-1-19.107981/download?version=486993",
-    "numberOfDownloads": 58,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1677162180,
-    "sourceUrl": "https://www.spigotmc.org/resources/107981/history/"
-  }
+  "downloadUrl": "resources/alimotd-1-8-1-19.107981/download?version=486993",
+  "numberOfDownloads": 58,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1677162180,
+  "sourceUrl": "https://www.spigotmc.org/resources/107981/history/"
 }

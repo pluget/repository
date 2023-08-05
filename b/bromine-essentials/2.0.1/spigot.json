@@ -1,12 +1,9 @@
 {
   "name": "2.0.1",
-  "version": {
-    "name": "2.0.1",
-    "downloadUrl": "resources/bromine-essentials.102058/download?version=454054",
-    "numberOfDownloads": 24,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1653927300,
-    "sourceUrl": "https://www.spigotmc.org/resources/bromine-essentials.102058/history"
-  }
+  "downloadUrl": "resources/bromine-essentials.102058/download?version=454054",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1653927300,
+  "sourceUrl": "https://www.spigotmc.org/resources/bromine-essentials.102058/history"
 }

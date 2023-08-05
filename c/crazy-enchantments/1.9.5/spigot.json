@@ -1,12 +1,9 @@
 {
-  "name": "1.9.5",
-  "version": {
-    "name": "v1.9.5",
-    "downloadUrl": "resources/crazy-enchantments.16470/download?version=463036",
-    "numberOfDownloads": 11,
-    "rating": 6.5,
-    "numberOfVotes": 8,
-    "releaseDate": 1659149100,
-    "sourceUrl": "https://www.spigotmc.org/resources/crazy-enchantments.16470/history"
-  }
+  "name": "v1.9.5",
+  "downloadUrl": "resources/crazy-enchantments.16470/download?version=463036",
+  "numberOfDownloads": 11,
+  "rating": 6.5,
+  "numberOfVotes": 8,
+  "releaseDate": 1659149100,
+  "sourceUrl": "https://www.spigotmc.org/resources/crazy-enchantments.16470/history"
 }

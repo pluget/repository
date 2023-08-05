@@ -1,12 +1,9 @@
 {
   "name": "13.0.2",
-  "version": {
-    "name": "13.0.2",
-    "downloadUrl": "resources/pluginapi.71657/download?version=296163",
-    "numberOfDownloads": 66,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1569855180,
-    "sourceUrl": "https://www.spigotmc.org/resources/pluginapi.71657/history"
-  }
+  "downloadUrl": "resources/pluginapi.71657/download?version=296163",
+  "numberOfDownloads": 66,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1569855180,
+  "sourceUrl": "https://www.spigotmc.org/resources/pluginapi.71657/history"
 }

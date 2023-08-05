@@ -1,12 +1,9 @@
 {
   "name": "7.1.3",
-  "version": {
-    "name": "7.1.3",
-    "downloadUrl": "resources/magic.1056/download?version=209443",
-    "numberOfDownloads": 322,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1519251720,
-    "sourceUrl": "https://www.spigotmc.org/resources/magic.1056/history"
-  }
+  "downloadUrl": "resources/magic.1056/download?version=209443",
+  "numberOfDownloads": 322,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1519251720,
+  "sourceUrl": "https://www.spigotmc.org/resources/magic.1056/history"
 }

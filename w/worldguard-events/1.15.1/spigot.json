@@ -1,12 +1,9 @@
 {
   "name": "1.15.1",
-  "version": {
-    "name": "1.15.1",
-    "downloadUrl": "resources/worldguard-events.65176/download?version=310423",
-    "numberOfDownloads": 468,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1579438800,
-    "sourceUrl": "https://www.spigotmc.org/resources/worldguard-events.65176/history"
-  }
+  "downloadUrl": "resources/worldguard-events.65176/download?version=310423",
+  "numberOfDownloads": 468,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1579438800,
+  "sourceUrl": "https://www.spigotmc.org/resources/worldguard-events.65176/history"
 }

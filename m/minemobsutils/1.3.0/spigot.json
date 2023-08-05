@@ -1,12 +1,9 @@
 {
-  "name": "1.3.0",
-  "version": {
-    "name": "1.3",
-    "downloadUrl": "resources/minemobs_utils.80802/download?version=438413",
-    "numberOfDownloads": 20,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1643144220,
-    "sourceUrl": "https://www.spigotmc.org/resources/minemobs_utils.80802/history"
-  }
+  "name": "1.3",
+  "downloadUrl": "resources/minemobs_utils.80802/download?version=438413",
+  "numberOfDownloads": 20,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1643144220,
+  "sourceUrl": "https://www.spigotmc.org/resources/minemobs_utils.80802/history"
 }

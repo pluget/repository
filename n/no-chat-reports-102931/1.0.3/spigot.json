@@ -1,12 +1,9 @@
 {
   "name": "1.0.3",
-  "version": {
-    "name": "1.0.3",
-    "downloadUrl": "resources/no-chat-reports-1-19-1-19-x.102931/download?version=458641",
-    "numberOfDownloads": 111,
-    "rating": 10,
-    "numberOfVotes": 5,
-    "releaseDate": 1656574800,
-    "sourceUrl": "https://www.spigotmc.org/resources/no-chat-reports-1-19-1-19-x.102931/history"
-  }
+  "downloadUrl": "resources/no-chat-reports-1-19-1-19-x.102931/download?version=458641",
+  "numberOfDownloads": 111,
+  "rating": 10,
+  "numberOfVotes": 5,
+  "releaseDate": 1656574800,
+  "sourceUrl": "https://www.spigotmc.org/resources/no-chat-reports-1-19-1-19-x.102931/history"
 }

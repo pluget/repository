@@ -1,12 +1,9 @@
 {
   "name": "1.9.0",
-  "version": {
-    "name": "1.9.0",
-    "downloadUrl": "resources/betterconcrete-1-13-x-1-19-x.58276/download?version=480818",
-    "numberOfDownloads": 459,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672743120,
-    "sourceUrl": "https://www.spigotmc.org/resources/betterconcrete-1-13-x-1-19-x.58276/history"
-  }
+  "downloadUrl": "resources/betterconcrete-1-13-x-1-19-x.58276/download?version=480818",
+  "numberOfDownloads": 459,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672743120,
+  "sourceUrl": "https://www.spigotmc.org/resources/betterconcrete-1-13-x-1-19-x.58276/history"
 }

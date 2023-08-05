@@ -1,12 +1,9 @@
 {
   "name": "1.10.0",
-  "version": {
-    "name": "1.10.0",
-    "downloadUrl": "resources/minecord.84702/download?version=480916",
-    "numberOfDownloads": 98,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1672795380,
-    "sourceUrl": "https://www.spigotmc.org/resources/minecord.84702/history"
-  }
+  "downloadUrl": "resources/minecord.84702/download?version=480916",
+  "numberOfDownloads": 98,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1672795380,
+  "sourceUrl": "https://www.spigotmc.org/resources/minecord.84702/history"
 }

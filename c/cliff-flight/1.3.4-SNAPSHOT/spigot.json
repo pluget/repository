@@ -1,12 +1,9 @@
 {
   "name": "1.3.4-SNAPSHOT",
-  "version": {
-    "name": "1.3.4-SNAPSHOT",
-    "downloadUrl": "resources/cliff-flight.100762/download?version=445453",
-    "numberOfDownloads": 24,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1647500040,
-    "sourceUrl": "https://www.spigotmc.org/resources/cliff-flight.100762/history"
-  }
+  "downloadUrl": "resources/cliff-flight.100762/download?version=445453",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1647500040,
+  "sourceUrl": "https://www.spigotmc.org/resources/cliff-flight.100762/history"
 }

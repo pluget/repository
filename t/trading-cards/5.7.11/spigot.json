@@ -1,12 +1,9 @@
 {
   "name": "5.7.11",
-  "version": {
-    "name": "5.7.11",
-    "downloadUrl": "resources/trading-cards-1-18-1-19-4.105709/download?version=478102",
-    "numberOfDownloads": 53,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1670857800,
-    "sourceUrl": "https://www.spigotmc.org/resources/105709/history/"
-  }
+  "downloadUrl": "resources/trading-cards-1-18-1-19-4.105709/download?version=478102",
+  "numberOfDownloads": 53,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1670857800,
+  "sourceUrl": "https://www.spigotmc.org/resources/105709/history/"
 }

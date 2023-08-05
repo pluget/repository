@@ -1,12 +1,9 @@
 {
   "name": "2.2.9",
-  "version": {
-    "name": "2.2.9",
-    "downloadUrl": "resources/controlplayer-1-8-8-1-19.102987/download?version=467090",
-    "numberOfDownloads": 2,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1661454120,
-    "sourceUrl": "https://www.spigotmc.org/resources/controlplayer-1-8-8-1-19.102987/history"
-  }
+  "downloadUrl": "resources/controlplayer-1-8-8-1-19.102987/download?version=467090",
+  "numberOfDownloads": 2,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1661454120,
+  "sourceUrl": "https://www.spigotmc.org/resources/controlplayer-1-8-8-1-19.102987/history"
 }

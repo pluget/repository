@@ -1,12 +1,9 @@
 {
   "name": "1.19.12",
-  "version": {
-    "name": "1.19.12",
-    "downloadUrl": "resources/staff.83562/download?version=464606",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1659901320,
-    "sourceUrl": "https://www.spigotmc.org/resources/staff.83562/history"
-  }
+  "downloadUrl": "resources/staff.83562/download?version=464606",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1659901320,
+  "sourceUrl": "https://www.spigotmc.org/resources/staff.83562/history"
 }

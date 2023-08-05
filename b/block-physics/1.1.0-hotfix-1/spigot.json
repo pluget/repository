@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0-hotfix-1",
-  "version": {
-    "name": "1.1 hotfix 1",
-    "downloadUrl": "resources/block-physics.100629/download?version=444786",
-    "numberOfDownloads": 18,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1647048720,
-    "sourceUrl": "https://www.spigotmc.org/resources/block-physics.100629/history"
-  }
+  "name": "1.1 hotfix 1",
+  "downloadUrl": "resources/block-physics.100629/download?version=444786",
+  "numberOfDownloads": 18,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1647048720,
+  "sourceUrl": "https://www.spigotmc.org/resources/block-physics.100629/history"
 }

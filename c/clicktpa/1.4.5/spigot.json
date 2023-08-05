@@ -1,12 +1,9 @@
 {
   "name": "1.4.5",
-  "version": {
-    "name": "1.4.5",
-    "downloadUrl": "resources/clicktpa.62596/download?version=332243",
-    "numberOfDownloads": 1,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1589809320,
-    "sourceUrl": "https://www.spigotmc.org/resources/clicktpa.62596/history"
-  }
+  "downloadUrl": "resources/clicktpa.62596/download?version=332243",
+  "numberOfDownloads": 1,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1589809320,
+  "sourceUrl": "https://www.spigotmc.org/resources/clicktpa.62596/history"
 }

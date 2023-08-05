@@ -1,12 +1,9 @@
 {
   "name": "2.4.7",
-  "version": {
-    "name": "2.4.7",
-    "downloadUrl": "resources/advancedcore.28295/download?version=147095",
-    "numberOfDownloads": 66,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1488937440,
-    "sourceUrl": "https://www.spigotmc.org/resources/advancedcore.28295/history"
-  }
+  "downloadUrl": "resources/advancedcore.28295/download?version=147095",
+  "numberOfDownloads": 66,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1488937440,
+  "sourceUrl": "https://www.spigotmc.org/resources/advancedcore.28295/history"
 }

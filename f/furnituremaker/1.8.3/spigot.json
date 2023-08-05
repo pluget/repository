@@ -1,12 +1,9 @@
 {
   "name": "1.8.3",
-  "version": {
-    "name": "1.8.3",
-    "downloadUrl": "resources/furnituremaker.20667/download?version=175632",
-    "numberOfDownloads": 553,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1501589220,
-    "sourceUrl": "https://www.spigotmc.org/resources/furnituremaker.20667/history"
-  }
+  "downloadUrl": "resources/furnituremaker.20667/download?version=175632",
+  "numberOfDownloads": 553,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1501589220,
+  "sourceUrl": "https://www.spigotmc.org/resources/furnituremaker.20667/history"
 }

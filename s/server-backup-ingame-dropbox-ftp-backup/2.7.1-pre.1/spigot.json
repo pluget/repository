@@ -1,12 +1,9 @@
 {
-  "name": "2.7.1-pre.1",
-  "version": {
-    "name": "2.7.1",
-    "downloadUrl": "resources/server-backup-ingame-dropbox-ftp-backup-1-8-1-19-multithreaded.79320/download?version=446053",
-    "numberOfDownloads": 545,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1647888240,
-    "sourceUrl": "https://www.spigotmc.org/resources/79320/history/"
-  }
+  "name": "2.7.1",
+  "downloadUrl": "resources/server-backup-ingame-dropbox-ftp-backup-1-8-1-19-multithreaded.79320/download?version=446053",
+  "numberOfDownloads": 545,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1647888240,
+  "sourceUrl": "https://www.spigotmc.org/resources/79320/history/"
 }

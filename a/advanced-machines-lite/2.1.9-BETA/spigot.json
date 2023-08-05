@@ -1,12 +1,9 @@
 {
   "name": "2.1.9-BETA",
-  "version": {
-    "name": "2.1.9-BETA",
-    "downloadUrl": "resources/advanced-machines.71731/download?version=400369",
-    "numberOfDownloads": 157,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1622035260,
-    "sourceUrl": "https://www.spigotmc.org/resources/advanced-machines.71731/history"
-  }
+  "downloadUrl": "resources/advanced-machines.71731/download?version=400369",
+  "numberOfDownloads": 157,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1622035260,
+  "sourceUrl": "https://www.spigotmc.org/resources/advanced-machines.71731/history"
 }

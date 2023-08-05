@@ -1,12 +1,9 @@
 {
   "name": "3.5.9-Lime",
-  "version": {
-    "name": "3.5.9-Lime",
-    "downloadUrl": "resources/skquery-1-13-1-19.36631/download?version=170053",
-    "numberOfDownloads": 2,
-    "rating": 8.8,
-    "numberOfVotes": 5,
-    "releaseDate": 1499330880,
-    "sourceUrl": "https://www.spigotmc.org/resources/skquery-1-13-1-19.36631/history"
-  }
+  "downloadUrl": "resources/skquery-1-13-1-19.36631/download?version=170053",
+  "numberOfDownloads": 2,
+  "rating": 8.8,
+  "numberOfVotes": 5,
+  "releaseDate": 1499330880,
+  "sourceUrl": "https://www.spigotmc.org/resources/skquery-1-13-1-19.36631/history"
 }

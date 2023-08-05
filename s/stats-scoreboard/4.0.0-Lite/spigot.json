@@ -1,12 +1,9 @@
 {
-  "name": "4.0.0-Lite",
-  "version": {
-    "name": "4.0-Lite",
-    "downloadUrl": "resources/stats-scoreboard.43424/download?version=429919",
-    "numberOfDownloads": 174,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1638679140,
-    "sourceUrl": "https://www.spigotmc.org/resources/stats-scoreboard.43424/history"
-  }
+  "name": "4.0-Lite",
+  "downloadUrl": "resources/stats-scoreboard.43424/download?version=429919",
+  "numberOfDownloads": 174,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1638679140,
+  "sourceUrl": "https://www.spigotmc.org/resources/stats-scoreboard.43424/history"
 }

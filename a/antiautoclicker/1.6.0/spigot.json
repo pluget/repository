@@ -1,12 +1,9 @@
 {
-  "name": "1.6.0",
-  "version": {
-    "name": "HOTFIX-1.6",
-    "downloadUrl": "resources/anti-autoclicker.74933/download?version=313697",
-    "numberOfDownloads": 191,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1581365040,
-    "sourceUrl": "https://www.spigotmc.org/resources/anti-autoclicker.74933/history"
-  }
+  "name": "HOTFIX-1.6",
+  "downloadUrl": "resources/anti-autoclicker.74933/download?version=313697",
+  "numberOfDownloads": 191,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1581365040,
+  "sourceUrl": "https://www.spigotmc.org/resources/anti-autoclicker.74933/history"
 }

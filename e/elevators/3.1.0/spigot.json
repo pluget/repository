@@ -1,12 +1,9 @@
 {
   "name": "3.1.0",
-  "version": {
-    "name": "3.1.0",
-    "downloadUrl": "resources/elevators.34229/download?version=340526",
-    "numberOfDownloads": 160,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1593414300,
-    "sourceUrl": "https://www.spigotmc.org/resources/34229/history/"
-  }
+  "downloadUrl": "resources/elevators.34229/download?version=340526",
+  "numberOfDownloads": 160,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1593414300,
+  "sourceUrl": "https://www.spigotmc.org/resources/34229/history/"
 }

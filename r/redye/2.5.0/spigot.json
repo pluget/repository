@@ -1,12 +1,9 @@
 {
   "name": "2.5.0",
-  "version": {
-    "name": "2.5.0",
-    "downloadUrl": "resources/redye-1-13-x-1-19-x.59446/download?version=332402",
-    "numberOfDownloads": 222,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1589884800,
-    "sourceUrl": "https://www.spigotmc.org/resources/redye-1-13-x-1-19-x.59446/history"
-  }
+  "downloadUrl": "resources/redye-1-13-x-1-19-x.59446/download?version=332402",
+  "numberOfDownloads": 222,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1589884800,
+  "sourceUrl": "https://www.spigotmc.org/resources/redye-1-13-x-1-19-x.59446/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/my-first-plugin.101164/download?version=447697",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1649073360,
-    "sourceUrl": "https://www.spigotmc.org/resources/my-first-plugin.101164/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/my-first-plugin.101164/download?version=447697",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1649073360,
+  "sourceUrl": "https://www.spigotmc.org/resources/my-first-plugin.101164/history"
 }

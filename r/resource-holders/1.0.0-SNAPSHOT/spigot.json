@@ -1,12 +1,9 @@
 {
   "name": "1.0.0-SNAPSHOT",
-  "version": {
-    "name": "1.0.0-SNAPSHOT",
-    "downloadUrl": "resources/%E2%9E%A5-resource-holders-1-14-1-19.104845/download?version=467212",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1661538720,
-    "sourceUrl": "https://www.spigotmc.org/resources/104845/history/"
-  }
+  "downloadUrl": "resources/%E2%9E%A5-resource-holders-1-14-1-19.104845/download?version=467212",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1661538720,
+  "sourceUrl": "https://www.spigotmc.org/resources/104845/history/"
 }

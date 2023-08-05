@@ -1,12 +1,9 @@
 {
   "name": "2.2.5",
-  "version": {
-    "name": "2.2.5",
-    "downloadUrl": "resources/anticombatlog.94540/download?version=439174",
-    "numberOfDownloads": 255,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1643580300,
-    "sourceUrl": "https://www.spigotmc.org/resources/anticombatlog.94540/history"
-  }
+  "downloadUrl": "resources/anticombatlog.94540/download?version=439174",
+  "numberOfDownloads": 255,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1643580300,
+  "sourceUrl": "https://www.spigotmc.org/resources/anticombatlog.94540/history"
 }

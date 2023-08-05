@@ -1,12 +1,9 @@
 {
-  "name": "7.0.0-Beta-1-(Hotfix)",
-  "version": {
-    "name": "7.0.0 Beta 1 (Hotfix)",
-    "downloadUrl": "resources/movecraft.31321/download?version=297758",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1570962360,
-    "sourceUrl": "https://www.spigotmc.org/resources/movecraft.31321/history"
-  }
+  "name": "7.0.0 Beta 1 (Hotfix)",
+  "downloadUrl": "resources/movecraft.31321/download?version=297758",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1570962360,
+  "sourceUrl": "https://www.spigotmc.org/resources/movecraft.31321/history"
 }

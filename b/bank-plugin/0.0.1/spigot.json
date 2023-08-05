@@ -1,12 +1,9 @@
 {
   "name": "0.0.1",
-  "version": {
-    "name": "0.0.1",
-    "downloadUrl": "resources/bank-plugin-pcbank.101742/download?version=450725",
-    "numberOfDownloads": 38,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1651314660,
-    "sourceUrl": "https://www.spigotmc.org/resources/bank-plugin-pcbank.101742/history"
-  }
+  "downloadUrl": "resources/bank-plugin-pcbank.101742/download?version=450725",
+  "numberOfDownloads": 38,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1651314660,
+  "sourceUrl": "https://www.spigotmc.org/resources/bank-plugin-pcbank.101742/history"
 }

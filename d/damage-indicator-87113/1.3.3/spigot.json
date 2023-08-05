@@ -1,12 +1,9 @@
 {
   "name": "1.3.3",
-  "version": {
-    "name": "1.3.3",
-    "downloadUrl": "resources/%E2%9C%A8damage-indicator-%E2%9C%A8.87113/download?version=447601",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1649004360,
-    "sourceUrl": "https://www.spigotmc.org/resources/%E2%9C%A8damage-indicator-%E2%9C%A8.87113/history"
-  }
+  "downloadUrl": "resources/%E2%9C%A8damage-indicator-%E2%9C%A8.87113/download?version=447601",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1649004360,
+  "sourceUrl": "https://www.spigotmc.org/resources/%E2%9C%A8damage-indicator-%E2%9C%A8.87113/history"
 }

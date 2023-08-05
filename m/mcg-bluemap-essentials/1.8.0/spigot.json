@@ -1,12 +1,9 @@
 {
-  "name": "1.8.0",
-  "version": {
-    "name": "1.8",
-    "downloadUrl": "resources/mcg-bluemap-essentials.88940/download?version=394300",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1618555500,
-    "sourceUrl": "https://www.spigotmc.org/resources/mcg-bluemap-essentials.88940/history"
-  }
+  "name": "1.8",
+  "downloadUrl": "resources/mcg-bluemap-essentials.88940/download?version=394300",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1618555500,
+  "sourceUrl": "https://www.spigotmc.org/resources/mcg-bluemap-essentials.88940/history"
 }

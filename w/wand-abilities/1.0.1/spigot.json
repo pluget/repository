@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/wand-abilities-beta-1-8.100220/download?version=442235",
-    "numberOfDownloads": 38,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1645523580,
-    "sourceUrl": "https://www.spigotmc.org/resources/100220/history/"
-  }
+  "downloadUrl": "resources/wand-abilities-beta-1-8.100220/download?version=442235",
+  "numberOfDownloads": 38,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1645523580,
+  "sourceUrl": "https://www.spigotmc.org/resources/100220/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "0.0.1",
-  "version": {
-    "name": "0.0.1",
-    "downloadUrl": "resources/simplehelp.101502/download?version=449539",
-    "numberOfDownloads": 30,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1650398220,
-    "sourceUrl": "https://www.spigotmc.org/resources/simplehelp.101502/history"
-  }
+  "downloadUrl": "resources/simplehelp.101502/download?version=449539",
+  "numberOfDownloads": 30,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1650398220,
+  "sourceUrl": "https://www.spigotmc.org/resources/simplehelp.101502/history"
 }

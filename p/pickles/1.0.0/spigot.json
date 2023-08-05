@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "BETA-1",
-    "downloadUrl": "resources/pickles-broadcast-plugin-1-17.105397/download?version=470178",
-    "numberOfDownloads": 28,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1663790940,
-    "sourceUrl": "https://www.spigotmc.org/resources/pickles-broadcast-plugin-1-17.105397/history"
-  }
+  "name": "BETA-1",
+  "downloadUrl": "resources/pickles-broadcast-plugin-1-17.105397/download?version=470178",
+  "numberOfDownloads": 28,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1663790940,
+  "sourceUrl": "https://www.spigotmc.org/resources/pickles-broadcast-plugin-1-17.105397/history"
 }

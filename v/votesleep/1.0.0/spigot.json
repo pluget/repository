@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/votesleep.99789/download?version=439948",
-    "numberOfDownloads": 35,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1644074520,
-    "sourceUrl": "https://www.spigotmc.org/resources/votesleep.99789/history"
-  }
+  "downloadUrl": "resources/votesleep.99789/download?version=439948",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1644074520,
+  "sourceUrl": "https://www.spigotmc.org/resources/votesleep.99789/history"
 }

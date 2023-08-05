@@ -1,12 +1,9 @@
 {
   "name": "1.2.2",
-  "version": {
-    "name": "1.2.2",
-    "downloadUrl": "resources/biome-viruses.89238/download?version=384944",
-    "numberOfDownloads": 54,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1613958720,
-    "sourceUrl": "https://www.spigotmc.org/resources/89238/history/"
-  }
+  "downloadUrl": "resources/biome-viruses.89238/download?version=384944",
+  "numberOfDownloads": 54,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1613958720,
+  "sourceUrl": "https://www.spigotmc.org/resources/89238/history/"
 }

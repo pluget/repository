@@ -1,12 +1,9 @@
 {
-  "name": "1.2.0",
-  "version": {
-    "name": "v1.2",
-    "downloadUrl": "resources/more-recipes.81832/download?version=346275",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1595538840,
-    "sourceUrl": "https://www.spigotmc.org/resources/more-recipes.81832/history"
-  }
+  "name": "v1.2",
+  "downloadUrl": "resources/more-recipes.81832/download?version=346275",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1595538840,
+  "sourceUrl": "https://www.spigotmc.org/resources/more-recipes.81832/history"
 }

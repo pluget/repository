@@ -1,12 +1,9 @@
 {
   "name": "1.0.1-Beta",
-  "version": {
-    "name": "1.0.1-Beta",
-    "downloadUrl": "resources/globalx.102941/download?version=460423",
-    "numberOfDownloads": 45,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1657630140,
-    "sourceUrl": "https://www.spigotmc.org/resources/globalx.102941/history"
-  }
+  "downloadUrl": "resources/globalx.102941/download?version=460423",
+  "numberOfDownloads": 45,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1657630140,
+  "sourceUrl": "https://www.spigotmc.org/resources/globalx.102941/history"
 }

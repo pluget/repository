@@ -1,12 +1,9 @@
 {
   "name": "3.0.2-1",
-  "version": {
-    "name": "3.0.2-1",
-    "downloadUrl": "resources/servertools-%E2%9E%9C-modular-server-management-1-8-1-18-2-open-source.95853/download?version=417545",
-    "numberOfDownloads": 76,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1630383000,
-    "sourceUrl": "https://www.spigotmc.org/resources/servertools-%E2%9E%9C-modular-server-management-1-8-1-18-2-open-source.95853/history"
-  }
+  "downloadUrl": "resources/servertools-%E2%9E%9C-modular-server-management-1-8-1-18-2-open-source.95853/download?version=417545",
+  "numberOfDownloads": 76,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1630383000,
+  "sourceUrl": "https://www.spigotmc.org/resources/servertools-%E2%9E%9C-modular-server-management-1-8-1-18-2-open-source.95853/history"
 }

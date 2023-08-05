@@ -1,12 +1,9 @@
 {
   "name": "2.9.1-RELEASE",
-  "version": {
-    "name": "2.9.1-RELEASE",
-    "downloadUrl": "resources/citybuild-system-1-16-4-1-19-x.88621/download?version=412311",
-    "numberOfDownloads": 162,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1627710720,
-    "sourceUrl": "https://www.spigotmc.org/resources/citybuild-system-1-16-4-1-19-x.88621/history"
-  }
+  "downloadUrl": "resources/citybuild-system-1-16-4-1-19-x.88621/download?version=412311",
+  "numberOfDownloads": 162,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1627710720,
+  "sourceUrl": "https://www.spigotmc.org/resources/citybuild-system-1-16-4-1-19-x.88621/history"
 }

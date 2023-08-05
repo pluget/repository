@@ -1,12 +1,9 @@
 {
   "name": "1.7.1",
-  "version": {
-    "name": "1.7.1",
-    "downloadUrl": "resources/join-message.77998/download?version=390615",
-    "numberOfDownloads": 3,
-    "rating": 7.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1616767080,
-    "sourceUrl": "https://www.spigotmc.org/resources/join-message.77998/history"
-  }
+  "downloadUrl": "resources/join-message.77998/download?version=390615",
+  "numberOfDownloads": 3,
+  "rating": 7.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1616767080,
+  "sourceUrl": "https://www.spigotmc.org/resources/join-message.77998/history"
 }

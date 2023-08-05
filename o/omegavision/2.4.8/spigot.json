@@ -1,12 +1,9 @@
 {
   "name": "2.4.8",
-  "version": {
-    "name": "2.4.8",
-    "downloadUrl": "resources/omegavision.73013/download?version=396256",
-    "numberOfDownloads": 29,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1619576520,
-    "sourceUrl": "https://www.spigotmc.org/resources/omegavision.73013/history"
-  }
+  "downloadUrl": "resources/omegavision.73013/download?version=396256",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1619576520,
+  "sourceUrl": "https://www.spigotmc.org/resources/omegavision.73013/history"
 }

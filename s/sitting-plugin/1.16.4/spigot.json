@@ -1,12 +1,9 @@
 {
   "name": "1.16.4",
-  "version": {
-    "name": "1.16.4",
-    "downloadUrl": "resources/1-18-support-sitting-plugin.87293/download?version=374803",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1609412940,
-    "sourceUrl": "https://www.spigotmc.org/resources/1-18-support-sitting-plugin.87293/history"
-  }
+  "downloadUrl": "resources/1-18-support-sitting-plugin.87293/download?version=374803",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1609412940,
+  "sourceUrl": "https://www.spigotmc.org/resources/1-18-support-sitting-plugin.87293/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/history-gui-litebans.88929/download?version=384089",
-    "numberOfDownloads": 45,
-    "rating": 6,
-    "numberOfVotes": 1,
-    "releaseDate": 1613577180,
-    "sourceUrl": "https://www.spigotmc.org/resources/history-gui-litebans.88929/history"
-  }
+  "downloadUrl": "resources/history-gui-litebans.88929/download?version=384089",
+  "numberOfDownloads": 45,
+  "rating": 6,
+  "numberOfVotes": 1,
+  "releaseDate": 1613577180,
+  "sourceUrl": "https://www.spigotmc.org/resources/history-gui-litebans.88929/history"
 }

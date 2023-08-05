@@ -1,12 +1,9 @@
 {
   "name": "0.1.1",
-  "version": {
-    "name": "0.1.1",
-    "downloadUrl": "resources/cobalt-server.99941/download?version=440821",
-    "numberOfDownloads": 28,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1644625380,
-    "sourceUrl": "https://www.spigotmc.org/resources/cobalt-server.99941/history"
-  }
+  "downloadUrl": "resources/cobalt-server.99941/download?version=440821",
+  "numberOfDownloads": 28,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1644625380,
+  "sourceUrl": "https://www.spigotmc.org/resources/cobalt-server.99941/history"
 }

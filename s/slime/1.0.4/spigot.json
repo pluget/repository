@@ -1,12 +1,9 @@
 {
   "name": "1.0.4",
-  "version": {
-    "name": "1.0.4",
-    "downloadUrl": "resources/slime-in-a-bukkit-1-15-1-19.100874/download?version=446229",
-    "numberOfDownloads": 47,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1648036080,
-    "sourceUrl": "https://www.spigotmc.org/resources/slime-in-a-bukkit-1-15-1-19.100874/history"
-  }
+  "downloadUrl": "resources/slime-in-a-bukkit-1-15-1-19.100874/download?version=446229",
+  "numberOfDownloads": 47,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1648036080,
+  "sourceUrl": "https://www.spigotmc.org/resources/slime-in-a-bukkit-1-15-1-19.100874/history"
 }

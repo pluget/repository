@@ -1,12 +1,9 @@
 {
-  "name": "1.6.0",
-  "version": {
-    "name": "1.6",
-    "downloadUrl": "resources/server-essentials.86675/download?version=377311",
-    "numberOfDownloads": 57,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1610577840,
-    "sourceUrl": "https://www.spigotmc.org/resources/server-essentials.86675/history"
-  }
+  "name": "1.6",
+  "downloadUrl": "resources/server-essentials.86675/download?version=377311",
+  "numberOfDownloads": 57,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1610577840,
+  "sourceUrl": "https://www.spigotmc.org/resources/server-essentials.86675/history"
 }

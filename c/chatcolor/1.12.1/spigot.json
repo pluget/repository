@@ -1,12 +1,9 @@
 {
   "name": "1.12.1",
-  "version": {
-    "name": "1.12.1",
-    "downloadUrl": "resources/chatcolor.22692/download?version=413154",
-    "numberOfDownloads": 299,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1628112360,
-    "sourceUrl": "https://www.spigotmc.org/resources/chatcolor.22692/history"
-  }
+  "downloadUrl": "resources/chatcolor.22692/download?version=413154",
+  "numberOfDownloads": 299,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1628112360,
+  "sourceUrl": "https://www.spigotmc.org/resources/chatcolor.22692/history"
 }

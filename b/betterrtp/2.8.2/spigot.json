@@ -1,12 +1,9 @@
 {
   "name": "2.8.2",
-  "version": {
-    "name": "2.8.2",
-    "downloadUrl": "resources/betterrtp-random-wild-teleport.36081/download?version=273121",
-    "numberOfDownloads": 5,
-    "rating": 10,
-    "numberOfVotes": 6,
-    "releaseDate": 1557624600,
-    "sourceUrl": "https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/history"
-  }
+  "downloadUrl": "resources/betterrtp-random-wild-teleport.36081/download?version=273121",
+  "numberOfDownloads": 5,
+  "rating": 10,
+  "numberOfVotes": 6,
+  "releaseDate": 1557624600,
+  "sourceUrl": "https://www.spigotmc.org/resources/betterrtp-random-wild-teleport.36081/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "12.9.1",
-  "version": {
-    "name": "12.9.1",
-    "downloadUrl": "resources/griefprevention.1884/download?version=50015",
-    "numberOfDownloads": 605,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1445551980,
-    "sourceUrl": "https://www.spigotmc.org/resources/griefprevention.1884/history"
-  }
+  "downloadUrl": "resources/griefprevention.1884/download?version=50015",
+  "numberOfDownloads": 605,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1445551980,
+  "sourceUrl": "https://www.spigotmc.org/resources/griefprevention.1884/history"
 }

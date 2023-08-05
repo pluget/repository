@@ -1,12 +1,9 @@
 {
-  "name": "1.6.0",
-  "version": {
-    "name": "1.6",
-    "downloadUrl": "resources/portalgun-1-8-1-19.44746/download?version=282691",
-    "numberOfDownloads": 14,
-    "rating": 9.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1562550000,
-    "sourceUrl": "https://www.spigotmc.org/resources/portalgun-1-8-1-19.44746/history"
-  }
+  "name": "1.6",
+  "downloadUrl": "resources/portalgun-1-8-1-19.44746/download?version=282691",
+  "numberOfDownloads": 14,
+  "rating": 9.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1562550000,
+  "sourceUrl": "https://www.spigotmc.org/resources/portalgun-1-8-1-19.44746/history"
 }

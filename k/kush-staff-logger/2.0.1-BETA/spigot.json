@@ -1,12 +1,9 @@
 {
   "name": "2.0.1-BETA",
-  "version": {
-    "name": "2.0.1-BETA",
-    "downloadUrl": "resources/kushstaffutils-1-8-1-19-fully-configurable.107607/download?version=492123",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1680698640,
-    "sourceUrl": "https://www.spigotmc.org/resources/kushstaffutils-1-8-1-19-fully-configurable.107607/history"
-  }
+  "downloadUrl": "resources/kushstaffutils-1-8-1-19-fully-configurable.107607/download?version=492123",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1680698640,
+  "sourceUrl": "https://www.spigotmc.org/resources/kushstaffutils-1-8-1-19-fully-configurable.107607/history"
 }

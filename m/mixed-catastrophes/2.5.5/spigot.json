@@ -1,12 +1,9 @@
 {
   "name": "2.5.5",
-  "version": {
-    "name": "2.5.5",
-    "downloadUrl": "resources/mixed-catastrophes.92702/download?version=419022",
-    "numberOfDownloads": 105,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1631361900,
-    "sourceUrl": "https://www.spigotmc.org/resources/mixed-catastrophes.92702/history"
-  }
+  "downloadUrl": "resources/mixed-catastrophes.92702/download?version=419022",
+  "numberOfDownloads": 105,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1631361900,
+  "sourceUrl": "https://www.spigotmc.org/resources/mixed-catastrophes.92702/history"
 }

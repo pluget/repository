@@ -1,12 +1,9 @@
 {
   "name": "1.18.2",
-  "version": {
-    "name": "1.18.2",
-    "downloadUrl": "resources/ironicchest.60674/download?version=427379",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1637277120,
-    "sourceUrl": "https://www.spigotmc.org/resources/ironicchest.60674/history"
-  }
+  "downloadUrl": "resources/ironicchest.60674/download?version=427379",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1637277120,
+  "sourceUrl": "https://www.spigotmc.org/resources/ironicchest.60674/history"
 }

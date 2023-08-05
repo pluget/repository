@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/proceduraldungeon.101828/download?version=451228",
-    "numberOfDownloads": 245,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1651705320,
-    "sourceUrl": "https://www.spigotmc.org/resources/proceduraldungeon.101828/history"
-  }
+  "downloadUrl": "resources/proceduraldungeon.101828/download?version=451228",
+  "numberOfDownloads": 245,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1651705320,
+  "sourceUrl": "https://www.spigotmc.org/resources/proceduraldungeon.101828/history"
 }

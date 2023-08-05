@@ -1,12 +1,9 @@
 {
-  "name": "0.3.2",
-  "version": {
-    "name": "v0.3.2",
-    "downloadUrl": "resources/minecart-crashes.106012/download?version=473995",
-    "numberOfDownloads": 50,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1667253300,
-    "sourceUrl": "https://www.spigotmc.org/resources/minecart-crashes.106012/history"
-  }
+  "name": "v0.3.2",
+  "downloadUrl": "resources/minecart-crashes.106012/download?version=473995",
+  "numberOfDownloads": 50,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1667253300,
+  "sourceUrl": "https://www.spigotmc.org/resources/minecart-crashes.106012/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.5.1",
-  "version": {
-    "name": "1.5.1",
-    "downloadUrl": "resources/mcbasic.85523/download?version=399456",
-    "numberOfDownloads": 24,
-    "rating": 2,
-    "numberOfVotes": 1,
-    "releaseDate": 1621445820,
-    "sourceUrl": "https://www.spigotmc.org/resources/mcbasic.85523/history"
-  }
+  "downloadUrl": "resources/mcbasic.85523/download?version=399456",
+  "numberOfDownloads": 24,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releaseDate": 1621445820,
+  "sourceUrl": "https://www.spigotmc.org/resources/mcbasic.85523/history"
 }

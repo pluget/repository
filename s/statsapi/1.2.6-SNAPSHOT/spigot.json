@@ -1,12 +1,9 @@
 {
-  "name": "1.2.6-SNAPSHOT",
-  "version": {
-    "name": "v1.2.6-SNAPSHOT",
-    "downloadUrl": "resources/statsapi.74908/download?version=325067",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1587034800,
-    "sourceUrl": "https://www.spigotmc.org/resources/statsapi.74908/history"
-  }
+  "name": "v1.2.6-SNAPSHOT",
+  "downloadUrl": "resources/statsapi.74908/download?version=325067",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1587034800,
+  "sourceUrl": "https://www.spigotmc.org/resources/statsapi.74908/history"
 }

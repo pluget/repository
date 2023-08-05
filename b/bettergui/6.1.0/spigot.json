@@ -1,12 +1,9 @@
 {
-  "name": "6.1.0",
-  "version": {
-    "name": "6.1",
-    "downloadUrl": "resources/bettergui.75620/download?version=413030",
-    "numberOfDownloads": 3,
-    "rating": 8.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1628054700,
-    "sourceUrl": "https://www.spigotmc.org/resources/bettergui.75620/history"
-  }
+  "name": "6.1",
+  "downloadUrl": "resources/bettergui.75620/download?version=413030",
+  "numberOfDownloads": 3,
+  "rating": 8.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1628054700,
+  "sourceUrl": "https://www.spigotmc.org/resources/bettergui.75620/history"
 }

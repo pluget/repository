@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/archived-msa-enforcement.99153/download?version=436336",
-    "numberOfDownloads": 32,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1642044660,
-    "sourceUrl": "https://www.spigotmc.org/resources/archived-msa-enforcement.99153/history"
-  }
+  "downloadUrl": "resources/archived-msa-enforcement.99153/download?version=436336",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1642044660,
+  "sourceUrl": "https://www.spigotmc.org/resources/archived-msa-enforcement.99153/history"
 }

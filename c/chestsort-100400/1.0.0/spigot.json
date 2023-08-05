@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/chestsort-1-8-x-1-18-x-spigot.100400/download?version=443292",
-    "numberOfDownloads": 161,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646184900,
-    "sourceUrl": "https://www.spigotmc.org/resources/100400/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/chestsort-1-8-x-1-18-x-spigot.100400/download?version=443292",
+  "numberOfDownloads": 161,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646184900,
+  "sourceUrl": "https://www.spigotmc.org/resources/100400/history/"
 }

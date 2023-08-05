@@ -1,12 +1,9 @@
 {
   "name": "2.1.0",
-  "version": {
-    "name": "2.1.0",
-    "downloadUrl": "resources/playerbirthday.73424/download?version=307377",
-    "numberOfDownloads": 106,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1577657040,
-    "sourceUrl": "https://www.spigotmc.org/resources/73424/history/"
-  }
+  "downloadUrl": "resources/playerbirthday.73424/download?version=307377",
+  "numberOfDownloads": 106,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1577657040,
+  "sourceUrl": "https://www.spigotmc.org/resources/73424/history/"
 }

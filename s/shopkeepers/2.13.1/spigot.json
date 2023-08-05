@@ -1,12 +1,9 @@
 {
   "name": "2.13.1",
-  "version": {
-    "name": "2.13.1",
-    "downloadUrl": "resources/shopkeepers.80756/download?version=405888",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1624796040,
-    "sourceUrl": "https://www.spigotmc.org/resources/80756/history/"
-  }
+  "downloadUrl": "resources/shopkeepers.80756/download?version=405888",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1624796040,
+  "sourceUrl": "https://www.spigotmc.org/resources/80756/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.2.2",
-  "version": {
-    "name": "1.2.2",
-    "downloadUrl": "resources/kitpvp-1-8-1-19-custom-kits-leaderboards-gui-levels-kill-streaks-abilities-more.27107/download?version=195229",
-    "numberOfDownloads": 3,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1511478120,
-    "sourceUrl": "https://www.spigotmc.org/resources/kitpvp-1-8-1-19-custom-kits-leaderboards-gui-levels-kill-streaks-abilities-more.27107/history"
-  }
+  "downloadUrl": "resources/kitpvp-1-8-1-19-custom-kits-leaderboards-gui-levels-kill-streaks-abilities-more.27107/download?version=195229",
+  "numberOfDownloads": 3,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1511478120,
+  "sourceUrl": "https://www.spigotmc.org/resources/kitpvp-1-8-1-19-custom-kits-leaderboards-gui-levels-kill-streaks-abilities-more.27107/history"
 }

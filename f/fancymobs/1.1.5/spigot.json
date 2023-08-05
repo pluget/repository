@@ -1,12 +1,9 @@
 {
   "name": "1.1.5",
-  "version": {
-    "name": "1.1.5",
-    "downloadUrl": "resources/fancymobs.95079/download?version=418070",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1630724340,
-    "sourceUrl": "https://www.spigotmc.org/resources/fancymobs.95079/history"
-  }
+  "downloadUrl": "resources/fancymobs.95079/download?version=418070",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1630724340,
+  "sourceUrl": "https://www.spigotmc.org/resources/fancymobs.95079/history"
 }

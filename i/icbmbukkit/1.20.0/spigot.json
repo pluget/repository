@@ -1,12 +1,9 @@
 {
-  "name": "1.20.0",
-  "version": {
-    "name": "1.20",
-    "downloadUrl": "resources/icbmbukkit-fire-your-missiles.94549/download?version=474863",
-    "numberOfDownloads": 24,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1668003180,
-    "sourceUrl": "https://www.spigotmc.org/resources/94549/history/"
-  }
+  "name": "1.20",
+  "downloadUrl": "resources/icbmbukkit-fire-your-missiles.94549/download?version=474863",
+  "numberOfDownloads": 24,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1668003180,
+  "sourceUrl": "https://www.spigotmc.org/resources/94549/history/"
 }

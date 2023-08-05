@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-RC7a",
-  "version": {
-    "name": "1.0-RC7a",
-    "downloadUrl": "resources/asyncworldedit.327/download?version=1318",
-    "numberOfDownloads": 466,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1391496420,
-    "sourceUrl": "https://www.spigotmc.org/resources/asyncworldedit.327/history"
-  }
+  "name": "1.0-RC7a",
+  "downloadUrl": "resources/asyncworldedit.327/download?version=1318",
+  "numberOfDownloads": 466,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1391496420,
+  "sourceUrl": "https://www.spigotmc.org/resources/asyncworldedit.327/history"
 }

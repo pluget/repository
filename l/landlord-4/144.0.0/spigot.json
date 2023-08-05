@@ -1,12 +1,9 @@
 {
-  "name": "144.0.0",
-  "version": {
-    "name": "b144",
-    "downloadUrl": "resources/landlord-4.44398/download?version=204440",
-    "numberOfDownloads": 517,
-    "rating": 8,
-    "numberOfVotes": 5,
-    "releaseDate": 1516538280,
-    "sourceUrl": "https://www.spigotmc.org/resources/44398/history/"
-  }
+  "name": "b144",
+  "downloadUrl": "resources/landlord-4.44398/download?version=204440",
+  "numberOfDownloads": 517,
+  "rating": 8,
+  "numberOfVotes": 5,
+  "releaseDate": 1516538280,
+  "sourceUrl": "https://www.spigotmc.org/resources/44398/history/"
 }

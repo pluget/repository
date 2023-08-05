@@ -1,12 +1,9 @@
 {
   "name": "1.12.1",
-  "version": {
-    "name": "1.12.1",
-    "downloadUrl": "resources/ac-negativity-spigot-1-7-1-19-sponge-bungeecord-velocity.48399/download?version=456137",
-    "numberOfDownloads": 4,
-    "rating": 6.8,
-    "numberOfVotes": 5,
-    "releaseDate": 1655139840,
-    "sourceUrl": "https://www.spigotmc.org/resources/ac-negativity-spigot-1-7-1-19-sponge-bungeecord-velocity.48399/history"
-  }
+  "downloadUrl": "resources/ac-negativity-spigot-1-7-1-19-sponge-bungeecord-velocity.48399/download?version=456137",
+  "numberOfDownloads": 4,
+  "rating": 6.8,
+  "numberOfVotes": 5,
+  "releaseDate": 1655139840,
+  "sourceUrl": "https://www.spigotmc.org/resources/ac-negativity-spigot-1-7-1-19-sponge-bungeecord-velocity.48399/history"
 }

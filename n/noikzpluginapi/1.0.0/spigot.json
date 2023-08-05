@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/noikzpluginapi.100327/download?version=442869",
-    "numberOfDownloads": 18,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1645922760,
-    "sourceUrl": "https://www.spigotmc.org/resources/100327/history/"
-  }
+  "downloadUrl": "resources/noikzpluginapi.100327/download?version=442869",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1645922760,
+  "sourceUrl": "https://www.spigotmc.org/resources/100327/history/"
 }

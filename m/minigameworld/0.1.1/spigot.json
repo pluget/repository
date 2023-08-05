@@ -1,12 +1,9 @@
 {
   "name": "0.1.1",
-  "version": {
-    "name": "0.1.1",
-    "downloadUrl": "resources/minigameworld.96752/download?version=423521",
-    "numberOfDownloads": 35,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1634529540,
-    "sourceUrl": "https://www.spigotmc.org/resources/minigameworld.96752/history"
-  }
+  "downloadUrl": "resources/minigameworld.96752/download?version=423521",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1634529540,
+  "sourceUrl": "https://www.spigotmc.org/resources/minigameworld.96752/history"
 }

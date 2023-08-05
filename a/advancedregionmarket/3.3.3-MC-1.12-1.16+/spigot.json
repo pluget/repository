@@ -1,12 +1,9 @@
 {
-  "name": "3.3.3-MC-1.12-1.16+",
-  "version": {
-    "name": "ARM v3.3.3 MC 1.12-1.16+",
-    "downloadUrl": "resources/advancedregionmarket.58732/download?version=377064",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1610463900,
-    "sourceUrl": "https://www.spigotmc.org/resources/advancedregionmarket.58732/history"
-  }
+  "name": "ARM v3.3.3 MC 1.12-1.16+",
+  "downloadUrl": "resources/advancedregionmarket.58732/download?version=377064",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1610463900,
+  "sourceUrl": "https://www.spigotmc.org/resources/advancedregionmarket.58732/history"
 }

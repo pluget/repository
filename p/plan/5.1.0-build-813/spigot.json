@@ -1,12 +1,9 @@
 {
-  "name": "5.1.0-build-813",
-  "version": {
-    "name": "5.1 build 813",
-    "downloadUrl": "resources/plan-player-analytics.32536/download?version=367748",
-    "numberOfDownloads": 3,
-    "rating": 10,
-    "numberOfVotes": 13,
-    "releaseDate": 1605681120,
-    "sourceUrl": "https://www.spigotmc.org/resources/plan-player-analytics.32536/history"
-  }
+  "name": "5.1 build 813",
+  "downloadUrl": "resources/plan-player-analytics.32536/download?version=367748",
+  "numberOfDownloads": 3,
+  "rating": 10,
+  "numberOfVotes": 13,
+  "releaseDate": 1605681120,
+  "sourceUrl": "https://www.spigotmc.org/resources/plan-player-analytics.32536/history"
 }

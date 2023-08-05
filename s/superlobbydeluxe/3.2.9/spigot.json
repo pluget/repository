@@ -1,12 +1,9 @@
 {
   "name": "3.2.9",
-  "version": {
-    "name": "3.2.9",
-    "downloadUrl": "resources/%E2%9C%AA-superlobbydeluxe-1-8-8-1-19-x-%E2%9C%AA.20400/download?version=204665",
-    "numberOfDownloads": 384,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1516652580,
-    "sourceUrl": "https://www.spigotmc.org/resources/%E2%9C%AA-superlobbydeluxe-1-8-8-1-19-x-%E2%9C%AA.20400/history"
-  }
+  "downloadUrl": "resources/%E2%9C%AA-superlobbydeluxe-1-8-8-1-19-x-%E2%9C%AA.20400/download?version=204665",
+  "numberOfDownloads": 384,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1516652580,
+  "sourceUrl": "https://www.spigotmc.org/resources/%E2%9C%AA-superlobbydeluxe-1-8-8-1-19-x-%E2%9C%AA.20400/history"
 }

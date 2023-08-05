@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/simple-survival-stats.107541/download?version=483111",
-    "numberOfDownloads": 41,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1674399540,
-    "sourceUrl": "https://www.spigotmc.org/resources/107541/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/simple-survival-stats.107541/download?version=483111",
+  "numberOfDownloads": 41,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1674399540,
+  "sourceUrl": "https://www.spigotmc.org/resources/107541/history/"
 }

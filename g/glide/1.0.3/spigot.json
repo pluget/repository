@@ -1,12 +1,9 @@
 {
   "name": "1.0.3",
-  "version": {
-    "name": "1.0.3",
-    "downloadUrl": "resources/glide.96329/download?version=420435",
-    "numberOfDownloads": 19,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1632291300,
-    "sourceUrl": "https://www.spigotmc.org/resources/glide.96329/history"
-  }
+  "downloadUrl": "resources/glide.96329/download?version=420435",
+  "numberOfDownloads": 19,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1632291300,
+  "sourceUrl": "https://www.spigotmc.org/resources/glide.96329/history"
 }

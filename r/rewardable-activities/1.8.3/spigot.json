@@ -1,12 +1,9 @@
 {
   "name": "1.8.3",
-  "version": {
-    "name": "1.8.3",
-    "downloadUrl": "resources/rewardable-activities.86090/download?version=402507",
-    "numberOfDownloads": 44,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1623341280,
-    "sourceUrl": "https://www.spigotmc.org/resources/rewardable-activities.86090/history"
-  }
+  "downloadUrl": "resources/rewardable-activities.86090/download?version=402507",
+  "numberOfDownloads": 44,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1623341280,
+  "sourceUrl": "https://www.spigotmc.org/resources/rewardable-activities.86090/history"
 }

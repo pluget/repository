@@ -1,12 +1,9 @@
 {
-  "name": "1.5.0",
-  "version": {
-    "name": "1.5",
-    "downloadUrl": "resources/info-minecraft-version-1-18-1-18-1.98554/download?version=433603",
-    "numberOfDownloads": 32,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1640596020,
-    "sourceUrl": "https://www.spigotmc.org/resources/info-minecraft-version-1-18-1-18-1.98554/history"
-  }
+  "name": "1.5",
+  "downloadUrl": "resources/info-minecraft-version-1-18-1-18-1.98554/download?version=433603",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1640596020,
+  "sourceUrl": "https://www.spigotmc.org/resources/info-minecraft-version-1-18-1-18-1.98554/history"
 }

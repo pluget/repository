@@ -1,12 +1,9 @@
 {
   "name": "2.1.3-Release",
-  "version": {
-    "name": "2.1.3-Release",
-    "downloadUrl": "resources/staffcore-bungee-1-8-1-18.93533/download?version=440658",
-    "numberOfDownloads": 194,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1644512700,
-    "sourceUrl": "https://www.spigotmc.org/resources/staffcore-bungee-1-8-1-18.93533/history"
-  }
+  "downloadUrl": "resources/staffcore-bungee-1-8-1-18.93533/download?version=440658",
+  "numberOfDownloads": 194,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1644512700,
+  "sourceUrl": "https://www.spigotmc.org/resources/staffcore-bungee-1-8-1-18.93533/history"
 }

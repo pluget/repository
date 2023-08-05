@@ -1,12 +1,9 @@
 {
   "name": "3.0.14",
-  "version": {
-    "name": "3.0.14",
-    "downloadUrl": "resources/deathwarden.73535/download?version=411580",
-    "numberOfDownloads": 486,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1627348080,
-    "sourceUrl": "https://www.spigotmc.org/resources/deathwarden.73535/history"
-  }
+  "downloadUrl": "resources/deathwarden.73535/download?version=411580",
+  "numberOfDownloads": 486,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1627348080,
+  "sourceUrl": "https://www.spigotmc.org/resources/deathwarden.73535/history"
 }

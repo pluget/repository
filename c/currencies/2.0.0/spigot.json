@@ -1,12 +1,9 @@
 {
   "name": "2.0.0",
-  "version": {
-    "name": "2.0.0",
-    "downloadUrl": "resources/currencies.96381/download?version=484322",
-    "numberOfDownloads": 99,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1675198320,
-    "sourceUrl": "https://www.spigotmc.org/resources/96381/history/"
-  }
+  "downloadUrl": "resources/currencies.96381/download?version=484322",
+  "numberOfDownloads": 99,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1675198320,
+  "sourceUrl": "https://www.spigotmc.org/resources/96381/history/"
 }

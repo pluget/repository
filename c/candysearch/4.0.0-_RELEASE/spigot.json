@@ -1,12 +1,9 @@
 {
-  "name": "4.0.0-_RELEASE",
-  "version": {
-    "name": "4_RELEASE",
-    "downloadUrl": "resources/candysearch.97190/download?version=424796",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1635434160,
-    "sourceUrl": "https://www.spigotmc.org/resources/candysearch.97190/history"
-  }
+  "name": "4_RELEASE",
+  "downloadUrl": "resources/candysearch.97190/download?version=424796",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1635434160,
+  "sourceUrl": "https://www.spigotmc.org/resources/candysearch.97190/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "4.1.10-SNAPSHOT",
-  "version": {
-    "name": "4.1.10-SNAPSHOT",
-    "downloadUrl": "resources/%E3%80%90bossbarhealth%E3%80%91-best-rpg-health-bar-on-spigot.74792/download?version=455363",
-    "numberOfDownloads": 68,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1654769520,
-    "sourceUrl": "https://www.spigotmc.org/resources/%E3%80%90bossbarhealth%E3%80%91-best-rpg-health-bar-on-spigot.74792/history"
-  }
+  "downloadUrl": "resources/%E3%80%90bossbarhealth%E3%80%91-best-rpg-health-bar-on-spigot.74792/download?version=455363",
+  "numberOfDownloads": 68,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1654769520,
+  "sourceUrl": "https://www.spigotmc.org/resources/%E3%80%90bossbarhealth%E3%80%91-best-rpg-health-bar-on-spigot.74792/history"
 }

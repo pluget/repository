@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/wildcard-1-8-latest.97996/download?version=438756",
-    "numberOfDownloads": 11,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1643376480,
-    "sourceUrl": "https://www.spigotmc.org/resources/wildcard-1-8-latest.97996/history"
-  }
+  "downloadUrl": "resources/wildcard-1-8-latest.97996/download?version=438756",
+  "numberOfDownloads": 11,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1643376480,
+  "sourceUrl": "https://www.spigotmc.org/resources/wildcard-1-8-latest.97996/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.8.1-SNAPSHOT",
-  "version": {
-    "name": "1.8-1 SNAPSHOT",
-    "downloadUrl": "resources/animeboard.87050/download?version=395572",
-    "numberOfDownloads": 33,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1619212140,
-    "sourceUrl": "https://www.spigotmc.org/resources/87050/history/"
-  }
+  "name": "1.8-1 SNAPSHOT",
+  "downloadUrl": "resources/animeboard.87050/download?version=395572",
+  "numberOfDownloads": 33,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1619212140,
+  "sourceUrl": "https://www.spigotmc.org/resources/87050/history/"
 }

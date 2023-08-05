@@ -1,12 +1,9 @@
 {
-  "name": "1.18.0",
-  "version": {
-    "name": "1.18",
-    "downloadUrl": "resources/skypvp.48842/download?version=197989",
-    "numberOfDownloads": 138,
-    "rating": 7,
-    "numberOfVotes": 2,
-    "releaseDate": 1513042140,
-    "sourceUrl": "https://www.spigotmc.org/resources/skypvp.48842/history"
-  }
+  "name": "1.18",
+  "downloadUrl": "resources/skypvp.48842/download?version=197989",
+  "numberOfDownloads": 138,
+  "rating": 7,
+  "numberOfVotes": 2,
+  "releaseDate": 1513042140,
+  "sourceUrl": "https://www.spigotmc.org/resources/skypvp.48842/history"
 }

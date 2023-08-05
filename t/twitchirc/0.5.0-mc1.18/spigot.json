@@ -1,12 +1,9 @@
 {
   "name": "0.5.0-mc1.18",
-  "version": {
-    "name": "0.5.0-mc1.18",
-    "downloadUrl": "resources/twitchirc.101103/download?version=447314",
-    "numberOfDownloads": 13,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1648814700,
-    "sourceUrl": "https://www.spigotmc.org/resources/101103/history/"
-  }
+  "downloadUrl": "resources/twitchirc.101103/download?version=447314",
+  "numberOfDownloads": 13,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1648814700,
+  "sourceUrl": "https://www.spigotmc.org/resources/101103/history/"
 }

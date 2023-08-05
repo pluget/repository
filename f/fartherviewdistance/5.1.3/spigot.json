@@ -1,12 +1,9 @@
 {
   "name": "5.1.3",
-  "version": {
-    "name": "5.1.3",
-    "downloadUrl": "resources/fartherviewdistance.84950/download?version=400472",
-    "numberOfDownloads": 30,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1622107740,
-    "sourceUrl": "https://www.spigotmc.org/resources/fartherviewdistance.84950/history"
-  }
+  "downloadUrl": "resources/fartherviewdistance.84950/download?version=400472",
+  "numberOfDownloads": 30,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1622107740,
+  "sourceUrl": "https://www.spigotmc.org/resources/fartherviewdistance.84950/history"
 }

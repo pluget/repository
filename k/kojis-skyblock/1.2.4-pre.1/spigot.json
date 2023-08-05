@@ -1,12 +1,9 @@
 {
-  "name": "1.2.4-pre.1",
-  "version": {
-    "name": "1.2.4",
-    "downloadUrl": "resources/kojis-skyblock.91345/download?version=489441",
-    "numberOfDownloads": 8,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1678996860,
-    "sourceUrl": "https://www.spigotmc.org/resources/kojis-skyblock.91345/history"
-  }
+  "name": "1.2.4",
+  "downloadUrl": "resources/kojis-skyblock.91345/download?version=489441",
+  "numberOfDownloads": 8,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1678996860,
+  "sourceUrl": "https://www.spigotmc.org/resources/kojis-skyblock.91345/history"
 }

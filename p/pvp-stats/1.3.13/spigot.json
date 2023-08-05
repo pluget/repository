@@ -1,12 +1,9 @@
 {
   "name": "1.3.13",
-  "version": {
-    "name": "1.3.13",
-    "downloadUrl": "resources/pvp-stats.59124/download?version=322461",
-    "numberOfDownloads": 57,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1586084700,
-    "sourceUrl": "https://www.spigotmc.org/resources/pvp-stats.59124/history"
-  }
+  "downloadUrl": "resources/pvp-stats.59124/download?version=322461",
+  "numberOfDownloads": 57,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1586084700,
+  "sourceUrl": "https://www.spigotmc.org/resources/pvp-stats.59124/history"
 }

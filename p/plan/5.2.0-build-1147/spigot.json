@@ -1,12 +1,9 @@
 {
-  "name": "5.2.0-build-1147",
-  "version": {
-    "name": "5.2 build 1147",
-    "downloadUrl": "resources/plan-player-analytics.32536/download?version=389686",
-    "numberOfDownloads": 502,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1616307060,
-    "sourceUrl": "https://www.spigotmc.org/resources/plan-player-analytics.32536/history"
-  }
+  "name": "5.2 build 1147",
+  "downloadUrl": "resources/plan-player-analytics.32536/download?version=389686",
+  "numberOfDownloads": 502,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1616307060,
+  "sourceUrl": "https://www.spigotmc.org/resources/plan-player-analytics.32536/history"
 }

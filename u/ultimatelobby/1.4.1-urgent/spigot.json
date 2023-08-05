@@ -1,12 +1,9 @@
 {
   "name": "1.4.1-urgent",
-  "version": {
-    "name": "1.4.1-urgent",
-    "downloadUrl": "resources/spigot-ultimatelobby-professional-lobby-integrated-management.99926/download?version=442390",
-    "numberOfDownloads": 26,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1645620120,
-    "sourceUrl": "https://www.spigotmc.org/resources/spigot-ultimatelobby-professional-lobby-integrated-management.99926/history"
-  }
+  "downloadUrl": "resources/spigot-ultimatelobby-professional-lobby-integrated-management.99926/download?version=442390",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1645620120,
+  "sourceUrl": "https://www.spigotmc.org/resources/spigot-ultimatelobby-professional-lobby-integrated-management.99926/history"
 }

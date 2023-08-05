@@ -1,12 +1,9 @@
 {
-  "name": "5.8.0",
-  "version": {
-    "name": "v5.8",
-    "downloadUrl": "resources/api-commandapi-1-13-1-19-4.62353/download?version=378274",
-    "numberOfDownloads": 912,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1610995020,
-    "sourceUrl": "https://www.spigotmc.org/resources/api-commandapi-1-13-1-19-4.62353/history"
-  }
+  "name": "v5.8",
+  "downloadUrl": "resources/api-commandapi-1-13-1-19-4.62353/download?version=378274",
+  "numberOfDownloads": 912,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1610995020,
+  "sourceUrl": "https://www.spigotmc.org/resources/api-commandapi-1-13-1-19-4.62353/history"
 }

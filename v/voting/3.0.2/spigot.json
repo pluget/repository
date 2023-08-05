@@ -1,12 +1,9 @@
 {
   "name": "3.0.2",
-  "version": {
-    "name": "3.0.2",
-    "downloadUrl": "resources/voting-weather-custom.27385/download?version=388096",
-    "numberOfDownloads": 561,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1615563900,
-    "sourceUrl": "https://www.spigotmc.org/resources/voting-weather-custom.27385/history"
-  }
+  "downloadUrl": "resources/voting-weather-custom.27385/download?version=388096",
+  "numberOfDownloads": 561,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1615563900,
+  "sourceUrl": "https://www.spigotmc.org/resources/voting-weather-custom.27385/history"
 }

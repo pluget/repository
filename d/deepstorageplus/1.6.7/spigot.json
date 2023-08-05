@@ -1,12 +1,9 @@
 {
   "name": "1.6.7",
-  "version": {
-    "name": "1.6.7",
-    "downloadUrl": "resources/deepstorageplus-1-13-1-19.74145/download?version=318753",
-    "numberOfDownloads": 164,
-    "rating": 7.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1584452100,
-    "sourceUrl": "https://www.spigotmc.org/resources/deepstorageplus-1-13-1-19.74145/history"
-  }
+  "downloadUrl": "resources/deepstorageplus-1-13-1-19.74145/download?version=318753",
+  "numberOfDownloads": 164,
+  "rating": 7.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1584452100,
+  "sourceUrl": "https://www.spigotmc.org/resources/deepstorageplus-1-13-1-19.74145/history"
 }

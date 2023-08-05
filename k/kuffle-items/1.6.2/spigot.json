@@ -1,12 +1,9 @@
 {
   "name": "1.6.2",
-  "version": {
-    "name": "1.6.2",
-    "downloadUrl": "resources/kuffle-items-1-15-1-17.91585/download?version=404270",
-    "numberOfDownloads": 35,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1624060560,
-    "sourceUrl": "https://www.spigotmc.org/resources/91585/history/"
-  }
+  "downloadUrl": "resources/kuffle-items-1-15-1-17.91585/download?version=404270",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1624060560,
+  "sourceUrl": "https://www.spigotmc.org/resources/91585/history/"
 }

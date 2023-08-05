@@ -1,12 +1,9 @@
 {
   "name": "1.9.3",
-  "version": {
-    "name": "1.9.3",
-    "downloadUrl": "resources/powerranks.64696/download?version=373735",
-    "numberOfDownloads": 589,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1608848580,
-    "sourceUrl": "https://www.spigotmc.org/resources/powerranks.64696/history"
-  }
+  "downloadUrl": "resources/powerranks.64696/download?version=373735",
+  "numberOfDownloads": 589,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1608848580,
+  "sourceUrl": "https://www.spigotmc.org/resources/powerranks.64696/history"
 }

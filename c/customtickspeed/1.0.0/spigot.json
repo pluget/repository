@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/customtickspeed.103817/download?version=463129",
-    "numberOfDownloads": 35,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1659192480,
-    "sourceUrl": "https://www.spigotmc.org/resources/customtickspeed.103817/history"
-  }
+  "downloadUrl": "resources/customtickspeed.103817/download?version=463129",
+  "numberOfDownloads": 35,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1659192480,
+  "sourceUrl": "https://www.spigotmc.org/resources/customtickspeed.103817/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.3",
-  "version": {
-    "name": "1.0.3",
-    "downloadUrl": "resources/mrannouncer.101456/download?version=450207",
-    "numberOfDownloads": 34,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1650885840,
-    "sourceUrl": "https://www.spigotmc.org/resources/mrannouncer.101456/history"
-  }
+  "downloadUrl": "resources/mrannouncer.101456/download?version=450207",
+  "numberOfDownloads": 34,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1650885840,
+  "sourceUrl": "https://www.spigotmc.org/resources/mrannouncer.101456/history"
 }

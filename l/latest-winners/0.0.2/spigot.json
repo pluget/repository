@@ -1,12 +1,9 @@
 {
   "name": "0.0.2",
-  "version": {
-    "name": "0.0.2",
-    "downloadUrl": "resources/latest-winners-aquaticcrates-addon.106570/download?version=477241",
-    "numberOfDownloads": 20,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1670101080,
-    "sourceUrl": "https://www.spigotmc.org/resources/latest-winners-aquaticcrates-addon.106570/history"
-  }
+  "downloadUrl": "resources/latest-winners-aquaticcrates-addon.106570/download?version=477241",
+  "numberOfDownloads": 20,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1670101080,
+  "sourceUrl": "https://www.spigotmc.org/resources/latest-winners-aquaticcrates-addon.106570/history"
 }

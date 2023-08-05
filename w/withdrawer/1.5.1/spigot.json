@@ -1,12 +1,9 @@
 {
   "name": "1.5.1",
-  "version": {
-    "name": "1.5.1",
-    "downloadUrl": "resources/withdrawer.103986/download?version=473369",
-    "numberOfDownloads": 21,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1666704000,
-    "sourceUrl": "https://www.spigotmc.org/resources/withdrawer.103986/history"
-  }
+  "downloadUrl": "resources/withdrawer.103986/download?version=473369",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1666704000,
+  "sourceUrl": "https://www.spigotmc.org/resources/withdrawer.103986/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0",
-  "version": {
-    "name": "v2.0",
-    "downloadUrl": "resources/brewery.3082/download?version=304793",
-    "numberOfDownloads": 135,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1576235700,
-    "sourceUrl": "https://www.spigotmc.org/resources/brewery.3082/history"
-  }
+  "name": "v2.0",
+  "downloadUrl": "resources/brewery.3082/download?version=304793",
+  "numberOfDownloads": 135,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1576235700,
+  "sourceUrl": "https://www.spigotmc.org/resources/brewery.3082/history"
 }

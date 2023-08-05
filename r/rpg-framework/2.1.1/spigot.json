@@ -1,12 +1,9 @@
 {
-  "name": "2.1.1",
-  "version": {
-    "name": "v2.1.1",
-    "downloadUrl": "resources/rpg-framework.99401/download?version=437760",
-    "numberOfDownloads": 72,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1642812240,
-    "sourceUrl": "https://www.spigotmc.org/resources/rpg-framework.99401/history"
-  }
+  "name": "v2.1.1",
+  "downloadUrl": "resources/rpg-framework.99401/download?version=437760",
+  "numberOfDownloads": 72,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1642812240,
+  "sourceUrl": "https://www.spigotmc.org/resources/rpg-framework.99401/history"
 }

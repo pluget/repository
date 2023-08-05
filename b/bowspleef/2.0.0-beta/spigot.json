@@ -1,12 +1,9 @@
 {
   "name": "2.0.0-beta",
-  "version": {
-    "name": "2.0.0-beta",
-    "downloadUrl": "resources/bowspleef.50721/download?version=480085",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672258440,
-    "sourceUrl": "https://www.spigotmc.org/resources/bowspleef.50721/history"
-  }
+  "downloadUrl": "resources/bowspleef.50721/download?version=480085",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672258440,
+  "sourceUrl": "https://www.spigotmc.org/resources/bowspleef.50721/history"
 }

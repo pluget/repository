@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/plugwoman.82302/download?version=365099",
-    "numberOfDownloads": 45,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1604434260,
-    "sourceUrl": "https://www.spigotmc.org/resources/plugwoman.82302/history"
-  }
+  "downloadUrl": "resources/plugwoman.82302/download?version=365099",
+  "numberOfDownloads": 45,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1604434260,
+  "sourceUrl": "https://www.spigotmc.org/resources/plugwoman.82302/history"
 }

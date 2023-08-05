@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/secureserverbackup.92196/download?version=431744",
-    "numberOfDownloads": 58,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1639580160,
-    "sourceUrl": "https://www.spigotmc.org/resources/secureserverbackup.92196/history"
-  }
+  "downloadUrl": "resources/secureserverbackup.92196/download?version=431744",
+  "numberOfDownloads": 58,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1639580160,
+  "sourceUrl": "https://www.spigotmc.org/resources/secureserverbackup.92196/history"
 }

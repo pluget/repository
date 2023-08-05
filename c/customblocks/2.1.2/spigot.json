@@ -1,12 +1,9 @@
 {
   "name": "2.1.2",
-  "version": {
-    "name": "2.1.2",
-    "downloadUrl": "resources/customblocks.6478/download?version=102931",
-    "numberOfDownloads": 1,
-    "rating": 7,
-    "numberOfVotes": 10,
-    "releaseDate": 1468520400,
-    "sourceUrl": "https://www.spigotmc.org/resources/customblocks.6478/history"
-  }
+  "downloadUrl": "resources/customblocks.6478/download?version=102931",
+  "numberOfDownloads": 1,
+  "rating": 7,
+  "numberOfVotes": 10,
+  "releaseDate": 1468520400,
+  "sourceUrl": "https://www.spigotmc.org/resources/customblocks.6478/history"
 }

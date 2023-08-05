@@ -1,12 +1,9 @@
 {
   "name": "2.5.3",
-  "version": {
-    "name": "2.5.3",
-    "downloadUrl": "resources/packetwhitelistnbt.98418/download?version=489825",
-    "numberOfDownloads": 24,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1679210940,
-    "sourceUrl": "https://www.spigotmc.org/resources/packetwhitelistnbt.98418/history"
-  }
+  "downloadUrl": "resources/packetwhitelistnbt.98418/download?version=489825",
+  "numberOfDownloads": 24,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1679210940,
+  "sourceUrl": "https://www.spigotmc.org/resources/packetwhitelistnbt.98418/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-RC",
-  "version": {
-    "name": "1.0.0 RC",
-    "downloadUrl": "resources/party-and-friends-for-bungeecord-supports-1-7-x-to-1-19-x.9531/download?version=40609",
-    "numberOfDownloads": 436,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1440100080,
-    "sourceUrl": "https://www.spigotmc.org/resources/party-and-friends-for-bungeecord-supports-1-7-x-to-1-19-x.9531/history"
-  }
+  "name": "1.0.0 RC",
+  "downloadUrl": "resources/party-and-friends-for-bungeecord-supports-1-7-x-to-1-19-x.9531/download?version=40609",
+  "numberOfDownloads": 436,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1440100080,
+  "sourceUrl": "https://www.spigotmc.org/resources/party-and-friends-for-bungeecord-supports-1-7-x-to-1-19-x.9531/history"
 }

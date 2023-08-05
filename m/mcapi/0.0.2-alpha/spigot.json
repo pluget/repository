@@ -1,12 +1,9 @@
 {
-  "name": "0.0.2-alpha",
-  "version": {
-    "name": "v0.0.2-alpha",
-    "downloadUrl": "resources/mcapi.96736/download?version=427659",
-    "numberOfDownloads": 18,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1637491620,
-    "sourceUrl": "https://www.spigotmc.org/resources/mcapi.96736/history"
-  }
+  "name": "v0.0.2-alpha",
+  "downloadUrl": "resources/mcapi.96736/download?version=427659",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1637491620,
+  "sourceUrl": "https://www.spigotmc.org/resources/mcapi.96736/history"
 }

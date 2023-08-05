@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/chatmotd.100844/download?version=445863",
-    "numberOfDownloads": 9,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1647777120,
-    "sourceUrl": "https://www.spigotmc.org/resources/chatmotd.100844/history"
-  }
+  "downloadUrl": "resources/chatmotd.100844/download?version=445863",
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1647777120,
+  "sourceUrl": "https://www.spigotmc.org/resources/chatmotd.100844/history"
 }

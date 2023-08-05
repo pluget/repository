@@ -1,12 +1,9 @@
 {
   "name": "1.10.0",
-  "version": {
-    "name": "1.10.0",
-    "downloadUrl": "resources/server-tutorial-plus.37741/download?version=194623",
-    "numberOfDownloads": 158,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1511116980,
-    "sourceUrl": "https://www.spigotmc.org/resources/server-tutorial-plus.37741/history"
-  }
+  "downloadUrl": "resources/server-tutorial-plus.37741/download?version=194623",
+  "numberOfDownloads": 158,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1511116980,
+  "sourceUrl": "https://www.spigotmc.org/resources/server-tutorial-plus.37741/history"
 }

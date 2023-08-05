@@ -1,12 +1,9 @@
 {
   "name": "1.0.2-alpha",
-  "version": {
-    "name": "1.0.2-alpha",
-    "downloadUrl": "resources/minetrax-suite.102378/download?version=455474",
-    "numberOfDownloads": 139,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1654815540,
-    "sourceUrl": "https://www.spigotmc.org/resources/102378/history/"
-  }
+  "downloadUrl": "resources/minetrax-suite.102378/download?version=455474",
+  "numberOfDownloads": 139,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1654815540,
+  "sourceUrl": "https://www.spigotmc.org/resources/102378/history/"
 }

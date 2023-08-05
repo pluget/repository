@@ -1,12 +1,9 @@
 {
   "name": "1.3.0",
-  "version": {
-    "name": "1.3.0",
-    "downloadUrl": "resources/homing-bows-shoot-player-tracking-arrows.102872/download?version=459662",
-    "numberOfDownloads": 509,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657161600,
-    "sourceUrl": "https://www.spigotmc.org/resources/102872/history/"
-  }
+  "downloadUrl": "resources/homing-bows-shoot-player-tracking-arrows.102872/download?version=459662",
+  "numberOfDownloads": 509,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657161600,
+  "sourceUrl": "https://www.spigotmc.org/resources/102872/history/"
 }

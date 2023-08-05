@@ -1,12 +1,9 @@
 {
-  "name": "1.4.9-pre.1",
-  "version": {
-    "name": "1.4.9",
-    "downloadUrl": "resources/coordinates-obfuscator-1-19-2-spigot-paper-folia.81139/download?version=491557",
-    "numberOfDownloads": 6,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1680355.626,
-    "sourceUrl": "https://www.spigotmc.org/resources/coordinates-obfuscator-1-19-2-spigot-paper-folia.81139/history"
-  }
+  "name": "1.4.9",
+  "downloadUrl": "resources/coordinates-obfuscator-1-19-2-spigot-paper-folia.81139/download?version=491557",
+  "numberOfDownloads": 6,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1680355.626,
+  "sourceUrl": "https://www.spigotmc.org/resources/coordinates-obfuscator-1-19-2-spigot-paper-folia.81139/history"
 }

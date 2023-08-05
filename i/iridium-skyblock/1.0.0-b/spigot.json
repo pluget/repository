@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-b",
-  "version": {
-    "name": "1.0-b",
-    "downloadUrl": "resources/iridium-skyblock-1-13-1-19.62480/download?version=248762",
-    "numberOfDownloads": 537,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1542465240,
-    "sourceUrl": "https://www.spigotmc.org/resources/iridium-skyblock-1-13-1-19.62480/history"
-  }
+  "name": "1.0-b",
+  "downloadUrl": "resources/iridium-skyblock-1-13-1-19.62480/download?version=248762",
+  "numberOfDownloads": 537,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1542465240,
+  "sourceUrl": "https://www.spigotmc.org/resources/iridium-skyblock-1-13-1-19.62480/history"
 }

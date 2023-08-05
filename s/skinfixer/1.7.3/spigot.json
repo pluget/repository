@@ -1,12 +1,9 @@
 {
   "name": "1.7.3",
-  "version": {
-    "name": "1.7.3",
-    "downloadUrl": "resources/skinfixer.82705/download?version=429777",
-    "numberOfDownloads": 374,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1638626100,
-    "sourceUrl": "https://www.spigotmc.org/resources/skinfixer.82705/history"
-  }
+  "downloadUrl": "resources/skinfixer.82705/download?version=429777",
+  "numberOfDownloads": 374,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1638626100,
+  "sourceUrl": "https://www.spigotmc.org/resources/skinfixer.82705/history"
 }

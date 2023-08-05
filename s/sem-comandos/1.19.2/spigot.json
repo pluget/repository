@@ -1,12 +1,9 @@
 {
   "name": "1.19.2",
-  "version": {
-    "name": "1.19.2",
-    "downloadUrl": "resources/sem-comandos.107191/download?version=480971",
-    "numberOfDownloads": 16,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672841340,
-    "sourceUrl": "https://www.spigotmc.org/resources/sem-comandos.107191/history"
-  }
+  "downloadUrl": "resources/sem-comandos.107191/download?version=480971",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672841340,
+  "sourceUrl": "https://www.spigotmc.org/resources/sem-comandos.107191/history"
 }

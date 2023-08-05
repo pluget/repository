@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/elytra-mayhem.95597/download?version=416456",
-    "numberOfDownloads": 38,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1629805140,
-    "sourceUrl": "https://www.spigotmc.org/resources/95597/history/"
-  }
+  "downloadUrl": "resources/elytra-mayhem.95597/download?version=416456",
+  "numberOfDownloads": 38,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1629805140,
+  "sourceUrl": "https://www.spigotmc.org/resources/95597/history/"
 }

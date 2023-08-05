@@ -1,12 +1,9 @@
 {
   "name": "5.1.26",
-  "version": {
-    "name": "5.1.26",
-    "downloadUrl": "resources/luckperms.28140/download?version=332659",
-    "numberOfDownloads": 206,
-    "rating": 9.625,
-    "numberOfVotes": 48,
-    "releaseDate": 1590000180,
-    "sourceUrl": "https://www.spigotmc.org/resources/luckperms.28140/history"
-  }
+  "downloadUrl": "resources/luckperms.28140/download?version=332659",
+  "numberOfDownloads": 206,
+  "rating": 9.625,
+  "numberOfVotes": 48,
+  "releaseDate": 1590000180,
+  "sourceUrl": "https://www.spigotmc.org/resources/luckperms.28140/history"
 }

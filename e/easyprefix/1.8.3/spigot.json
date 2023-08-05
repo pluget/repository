@@ -1,12 +1,9 @@
 {
   "name": "1.8.3",
-  "version": {
-    "name": "1.8.3",
-    "downloadUrl": "resources/easyprefix-gui-custom-prefixes-sql-support.44580/download?version=452225",
-    "numberOfDownloads": 469,
-    "rating": 6,
-    "numberOfVotes": 2,
-    "releaseDate": 1652541600,
-    "sourceUrl": "https://www.spigotmc.org/resources/easyprefix-gui-custom-prefixes-sql-support.44580/history"
-  }
+  "downloadUrl": "resources/easyprefix-gui-custom-prefixes-sql-support.44580/download?version=452225",
+  "numberOfDownloads": 469,
+  "rating": 6,
+  "numberOfVotes": 2,
+  "releaseDate": 1652541600,
+  "sourceUrl": "https://www.spigotmc.org/resources/easyprefix-gui-custom-prefixes-sql-support.44580/history"
 }

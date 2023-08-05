@@ -1,12 +1,9 @@
 {
-  "name": "1.9.0",
-  "version": {
-    "name": "1.9",
-    "downloadUrl": "resources/reportgui.27456/download?version=443766",
-    "numberOfDownloads": 64,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646475180,
-    "sourceUrl": "https://www.spigotmc.org/resources/27456/history/"
-  }
+  "name": "1.9",
+  "downloadUrl": "resources/reportgui.27456/download?version=443766",
+  "numberOfDownloads": 64,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646475180,
+  "sourceUrl": "https://www.spigotmc.org/resources/27456/history/"
 }

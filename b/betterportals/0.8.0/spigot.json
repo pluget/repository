@@ -1,12 +1,9 @@
 {
   "name": "0.8.0",
-  "version": {
-    "name": "0.8.0",
-    "downloadUrl": "resources/betterportals.75409/download?version=391178",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1617044160,
-    "sourceUrl": "https://www.spigotmc.org/resources/75409/history/"
-  }
+  "downloadUrl": "resources/betterportals.75409/download?version=391178",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1617044160,
+  "sourceUrl": "https://www.spigotmc.org/resources/75409/history/"
 }

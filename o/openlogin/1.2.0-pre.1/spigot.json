@@ -1,12 +1,9 @@
 {
-  "name": "1.2.0-pre.1",
-  "version": {
-    "name": "1.2",
-    "downloadUrl": "resources/openlogin-1-7x-1-19x.57272/download?version=365176",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1604452500,
-    "sourceUrl": "https://www.spigotmc.org/resources/openlogin-1-7x-1-19x.57272/history"
-  }
+  "name": "1.2",
+  "downloadUrl": "resources/openlogin-1-7x-1-19x.57272/download?version=365176",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1604452500,
+  "sourceUrl": "https://www.spigotmc.org/resources/openlogin-1-7x-1-19x.57272/history"
 }

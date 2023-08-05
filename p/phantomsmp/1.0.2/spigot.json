@@ -1,12 +1,9 @@
 {
-  "name": "1.0.2",
-  "version": {
-    "name": "v1.0.2",
-    "downloadUrl": "resources/phantomsmp.59721/download?version=234599",
-    "numberOfDownloads": 210,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1533970740,
-    "sourceUrl": "https://www.spigotmc.org/resources/phantomsmp.59721/history"
-  }
+  "name": "v1.0.2",
+  "downloadUrl": "resources/phantomsmp.59721/download?version=234599",
+  "numberOfDownloads": 210,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1533970740,
+  "sourceUrl": "https://www.spigotmc.org/resources/phantomsmp.59721/history"
 }

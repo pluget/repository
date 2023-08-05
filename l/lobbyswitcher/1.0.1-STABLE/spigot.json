@@ -1,12 +1,9 @@
 {
-  "name": "1.0.1-STABLE",
-  "version": {
-    "name": "v1.0.1-STABLE",
-    "downloadUrl": "resources/lobbyswitcher.108210/download?version=487015",
-    "numberOfDownloads": 24,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1677173820,
-    "sourceUrl": "https://www.spigotmc.org/resources/lobbyswitcher.108210/history"
-  }
+  "name": "v1.0.1-STABLE",
+  "downloadUrl": "resources/lobbyswitcher.108210/download?version=487015",
+  "numberOfDownloads": 24,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1677173820,
+  "sourceUrl": "https://www.spigotmc.org/resources/lobbyswitcher.108210/history"
 }

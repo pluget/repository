@@ -1,12 +1,9 @@
 {
   "name": "2.3.0",
-  "version": {
-    "name": "2.3.0",
-    "downloadUrl": "resources/advanced-machines.71731/download?version=443619",
-    "numberOfDownloads": 2,
-    "rating": 6,
-    "numberOfVotes": 3,
-    "releaseDate": 1646402640,
-    "sourceUrl": "https://www.spigotmc.org/resources/advanced-machines.71731/history"
-  }
+  "downloadUrl": "resources/advanced-machines.71731/download?version=443619",
+  "numberOfDownloads": 2,
+  "rating": 6,
+  "numberOfVotes": 3,
+  "releaseDate": 1646402640,
+  "sourceUrl": "https://www.spigotmc.org/resources/advanced-machines.71731/history"
 }

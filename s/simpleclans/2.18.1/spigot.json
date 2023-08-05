@@ -1,12 +1,9 @@
 {
   "name": "2.18.1",
-  "version": {
-    "name": "2.18.1",
-    "downloadUrl": "resources/simpleclans.71242/download?version=476969",
-    "numberOfDownloads": 9,
-    "rating": 6,
-    "numberOfVotes": 4,
-    "releaseDate": 1669845060,
-    "sourceUrl": "https://www.spigotmc.org/resources/simpleclans.71242/history"
-  }
+  "downloadUrl": "resources/simpleclans.71242/download?version=476969",
+  "numberOfDownloads": 9,
+  "rating": 6,
+  "numberOfVotes": 4,
+  "releaseDate": 1669845060,
+  "sourceUrl": "https://www.spigotmc.org/resources/simpleclans.71242/history"
 }

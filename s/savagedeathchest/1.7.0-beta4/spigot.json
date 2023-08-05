@@ -1,12 +1,9 @@
 {
   "name": "1.7.0-beta4",
-  "version": {
-    "name": "1.7.0-beta4",
-    "downloadUrl": "resources/savagedeathchest.6633/download?version=143955",
-    "numberOfDownloads": 854,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 6,
-    "releaseDate": 1487637000,
-    "sourceUrl": "https://www.spigotmc.org/resources/savagedeathchest.6633/history"
-  }
+  "downloadUrl": "resources/savagedeathchest.6633/download?version=143955",
+  "numberOfDownloads": 854,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 6,
+  "releaseDate": 1487637000,
+  "sourceUrl": "https://www.spigotmc.org/resources/savagedeathchest.6633/history"
 }

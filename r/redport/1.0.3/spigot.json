@@ -1,12 +1,9 @@
 {
   "name": "1.0.3",
-  "version": {
-    "name": "1.0.3",
-    "downloadUrl": "resources/redport.101194/download?version=456291",
-    "numberOfDownloads": 26,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1655220000,
-    "sourceUrl": "https://www.spigotmc.org/resources/redport.101194/history"
-  }
+  "downloadUrl": "resources/redport.101194/download?version=456291",
+  "numberOfDownloads": 26,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1655220000,
+  "sourceUrl": "https://www.spigotmc.org/resources/redport.101194/history"
 }

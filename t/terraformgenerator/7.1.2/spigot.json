@@ -1,12 +1,9 @@
 {
   "name": "7.1.2",
-  "version": {
-    "name": "7.1.2",
-    "downloadUrl": "resources/terraformgenerator-alpha-1-16-5-1-19-4.75132/download?version=450330",
-    "numberOfDownloads": 897,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1650986760,
-    "sourceUrl": "https://www.spigotmc.org/resources/75132/history/"
-  }
+  "downloadUrl": "resources/terraformgenerator-alpha-1-16-5-1-19-4.75132/download?version=450330",
+  "numberOfDownloads": 897,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1650986760,
+  "sourceUrl": "https://www.spigotmc.org/resources/75132/history/"
 }

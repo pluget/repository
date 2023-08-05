@@ -1,12 +1,9 @@
 {
-  "name": "4.2.0-Build-168",
-  "version": {
-    "name": "JDA 4.2.0 Build 168",
-    "downloadUrl": "resources/jdaspigot.41074/download?version=421061",
-    "numberOfDownloads": 42,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1632752340,
-    "sourceUrl": "https://www.spigotmc.org/resources/jdaspigot.41074/history"
-  }
+  "name": "JDA 4.2.0 Build 168",
+  "downloadUrl": "resources/jdaspigot.41074/download?version=421061",
+  "numberOfDownloads": 42,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1632752340,
+  "sourceUrl": "https://www.spigotmc.org/resources/jdaspigot.41074/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.2.1",
-  "version": {
-    "name": "2.2.1",
-    "downloadUrl": "resources/easyjoin-%E2%9C%A8-send-actions-on-player-join.80611/download?version=451096",
-    "numberOfDownloads": 568,
-    "rating": 7,
-    "numberOfVotes": 2,
-    "releaseDate": 1651603320,
-    "sourceUrl": "https://www.spigotmc.org/resources/easyjoin-%E2%9C%A8-send-actions-on-player-join.80611/history"
-  }
+  "downloadUrl": "resources/easyjoin-%E2%9C%A8-send-actions-on-player-join.80611/download?version=451096",
+  "numberOfDownloads": 568,
+  "rating": 7,
+  "numberOfVotes": 2,
+  "releaseDate": 1651603320,
+  "sourceUrl": "https://www.spigotmc.org/resources/easyjoin-%E2%9C%A8-send-actions-on-player-join.80611/history"
 }

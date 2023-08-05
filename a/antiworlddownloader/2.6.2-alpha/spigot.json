@@ -1,12 +1,9 @@
 {
-  "name": "2.6.2-alpha",
-  "version": {
-    "name": "2.6.2 alpha",
-    "downloadUrl": "resources/antiworlddownloader.99356/download?version=437515",
-    "numberOfDownloads": 248,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1642679040,
-    "sourceUrl": "https://www.spigotmc.org/resources/99356/history/"
-  }
+  "name": "2.6.2 alpha",
+  "downloadUrl": "resources/antiworlddownloader.99356/download?version=437515",
+  "numberOfDownloads": 248,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1642679040,
+  "sourceUrl": "https://www.spigotmc.org/resources/99356/history/"
 }

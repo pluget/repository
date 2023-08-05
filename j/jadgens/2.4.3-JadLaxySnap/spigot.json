@@ -1,12 +1,9 @@
 {
   "name": "2.4.3-JadLaxySnap",
-  "version": {
-    "name": "2.4.3-JadLaxySnap",
-    "downloadUrl": "resources/jadgens-advanced-customizable-machines-plugin.82805/download?version=356815",
-    "numberOfDownloads": 59,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1600020480,
-    "sourceUrl": "https://www.spigotmc.org/resources/jadgens-advanced-customizable-machines-plugin.82805/history"
-  }
+  "downloadUrl": "resources/jadgens-advanced-customizable-machines-plugin.82805/download?version=356815",
+  "numberOfDownloads": 59,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1600020480,
+  "sourceUrl": "https://www.spigotmc.org/resources/jadgens-advanced-customizable-machines-plugin.82805/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.12.4-SNASPSHOT",
-  "version": {
-    "name": "2.12.4-SNASPSHOT",
-    "downloadUrl": "resources/gringotts.42071/download?version=468778",
-    "numberOfDownloads": 1,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1662616740,
-    "sourceUrl": "https://www.spigotmc.org/resources/42071/history/"
-  }
+  "downloadUrl": "resources/gringotts.42071/download?version=468778",
+  "numberOfDownloads": 1,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1662616740,
+  "sourceUrl": "https://www.spigotmc.org/resources/42071/history/"
 }

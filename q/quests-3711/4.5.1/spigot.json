@@ -1,12 +1,9 @@
 {
   "name": "4.5.1",
-  "version": {
-    "name": "4.5.1",
-    "downloadUrl": "resources/quests.3711/download?version=458505",
-    "numberOfDownloads": 3,
-    "rating": 7.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1656452460,
-    "sourceUrl": "https://www.spigotmc.org/resources/quests.3711/history"
-  }
+  "downloadUrl": "resources/quests.3711/download?version=458505",
+  "numberOfDownloads": 3,
+  "rating": 7.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1656452460,
+  "sourceUrl": "https://www.spigotmc.org/resources/quests.3711/history"
 }

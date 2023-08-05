@@ -1,12 +1,9 @@
 {
   "name": "0.0.6",
-  "version": {
-    "name": "0.0.6",
-    "downloadUrl": "resources/livekit.88742/download?version=386005",
-    "numberOfDownloads": 125,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1614514860,
-    "sourceUrl": "https://www.spigotmc.org/resources/livekit.88742/history"
-  }
+  "downloadUrl": "resources/livekit.88742/download?version=386005",
+  "numberOfDownloads": 125,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1614514860,
+  "sourceUrl": "https://www.spigotmc.org/resources/livekit.88742/history"
 }

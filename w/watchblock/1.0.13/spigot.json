@@ -1,12 +1,9 @@
 {
   "name": "1.0.13",
-  "version": {
-    "name": "1.0.13",
-    "downloadUrl": "resources/watchblock.96521/download?version=429101",
-    "numberOfDownloads": 9,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1638346080,
-    "sourceUrl": "https://www.spigotmc.org/resources/watchblock.96521/history"
-  }
+  "downloadUrl": "resources/watchblock.96521/download?version=429101",
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1638346080,
+  "sourceUrl": "https://www.spigotmc.org/resources/watchblock.96521/history"
 }

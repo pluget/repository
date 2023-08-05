@@ -1,12 +1,9 @@
 {
   "name": "1.5.8",
-  "version": {
-    "name": "1.5.8",
-    "downloadUrl": "resources/last-life.91586/download?version=420585",
-    "numberOfDownloads": 448,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1632401220,
-    "sourceUrl": "https://www.spigotmc.org/resources/last-life.91586/history"
-  }
+  "downloadUrl": "resources/last-life.91586/download?version=420585",
+  "numberOfDownloads": 448,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1632401220,
+  "sourceUrl": "https://www.spigotmc.org/resources/last-life.91586/history"
 }

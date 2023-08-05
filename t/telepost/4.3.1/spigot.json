@@ -1,12 +1,9 @@
 {
   "name": "4.3.1",
-  "version": {
-    "name": "4.3.1",
-    "downloadUrl": "resources/telepost.91988/download?version=407240",
-    "numberOfDownloads": 33,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1625436660,
-    "sourceUrl": "https://www.spigotmc.org/resources/telepost.91988/history"
-  }
+  "downloadUrl": "resources/telepost.91988/download?version=407240",
+  "numberOfDownloads": 33,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1625436660,
+  "sourceUrl": "https://www.spigotmc.org/resources/telepost.91988/history"
 }

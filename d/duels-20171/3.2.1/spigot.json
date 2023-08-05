@@ -1,12 +1,9 @@
 {
   "name": "3.2.1",
-  "version": {
-    "name": "3.2.1",
-    "downloadUrl": "resources/duels.20171/download?version=240374",
-    "numberOfDownloads": 377,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1537051020,
-    "sourceUrl": "https://www.spigotmc.org/resources/duels.20171/history"
-  }
+  "downloadUrl": "resources/duels.20171/download?version=240374",
+  "numberOfDownloads": 377,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1537051020,
+  "sourceUrl": "https://www.spigotmc.org/resources/duels.20171/history"
 }

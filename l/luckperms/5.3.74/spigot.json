@@ -1,12 +1,9 @@
 {
   "name": "5.3.74",
-  "version": {
-    "name": "5.3.74",
-    "downloadUrl": "resources/luckperms.28140/download?version=425170",
-    "numberOfDownloads": 126,
-    "rating": 9.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1635680820,
-    "sourceUrl": "https://www.spigotmc.org/resources/luckperms.28140/history"
-  }
+  "downloadUrl": "resources/luckperms.28140/download?version=425170",
+  "numberOfDownloads": 126,
+  "rating": 9.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1635680820,
+  "sourceUrl": "https://www.spigotmc.org/resources/luckperms.28140/history"
 }

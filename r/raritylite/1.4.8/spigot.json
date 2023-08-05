@@ -1,12 +1,9 @@
 {
   "name": "1.4.8",
-  "version": {
-    "name": "1.4.8",
-    "downloadUrl": "resources/raritylite.103672/download?version=463256",
-    "numberOfDownloads": 13,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1659263460,
-    "sourceUrl": "https://www.spigotmc.org/resources/103672/history/"
-  }
+  "downloadUrl": "resources/raritylite.103672/download?version=463256",
+  "numberOfDownloads": 13,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1659263460,
+  "sourceUrl": "https://www.spigotmc.org/resources/103672/history/"
 }

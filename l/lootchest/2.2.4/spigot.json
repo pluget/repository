@@ -1,12 +1,9 @@
 {
   "name": "2.2.4",
-  "version": {
-    "name": "2.2.4",
-    "downloadUrl": "resources/lootchest.61564/download?version=402465",
-    "numberOfDownloads": 59,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1623329220,
-    "sourceUrl": "https://www.spigotmc.org/resources/lootchest.61564/history"
-  }
+  "downloadUrl": "resources/lootchest.61564/download?version=402465",
+  "numberOfDownloads": 59,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1623329220,
+  "sourceUrl": "https://www.spigotmc.org/resources/lootchest.61564/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.4.3",
-  "version": {
-    "name": "1.4.3",
-    "downloadUrl": "resources/zombieapocalypse-8-zombie-types-1-19-support.82106/download?version=424225",
-    "numberOfDownloads": 14,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1635022260,
-    "sourceUrl": "https://www.spigotmc.org/resources/82106/history/"
-  }
+  "downloadUrl": "resources/zombieapocalypse-8-zombie-types-1-19-support.82106/download?version=424225",
+  "numberOfDownloads": 14,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1635022260,
+  "sourceUrl": "https://www.spigotmc.org/resources/82106/history/"
 }

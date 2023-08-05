@@ -1,12 +1,9 @@
 {
-  "name": "2.8.0",
-  "version": {
-    "name": "2.8",
-    "downloadUrl": "resources/worldguard-extra-flags.4823/download?version=107561",
-    "numberOfDownloads": 658,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1470596100,
-    "sourceUrl": "https://www.spigotmc.org/resources/4823/history/"
-  }
+  "name": "2.8",
+  "downloadUrl": "resources/worldguard-extra-flags.4823/download?version=107561",
+  "numberOfDownloads": 658,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1470596100,
+  "sourceUrl": "https://www.spigotmc.org/resources/4823/history/"
 }

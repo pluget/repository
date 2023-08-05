@@ -1,12 +1,9 @@
 {
-  "name": "1.7.0",
-  "version": {
-    "name": "1.7",
-    "downloadUrl": "resources/player-options-1-8-8-1-19-x.32636/download?version=244019",
-    "numberOfDownloads": 5,
-    "rating": 7.6,
-    "numberOfVotes": 5,
-    "releaseDate": 1539377880,
-    "sourceUrl": "https://www.spigotmc.org/resources/player-options-1-8-8-1-19-x.32636/history"
-  }
+  "name": "1.7",
+  "downloadUrl": "resources/player-options-1-8-8-1-19-x.32636/download?version=244019",
+  "numberOfDownloads": 5,
+  "rating": 7.6,
+  "numberOfVotes": 5,
+  "releaseDate": 1539377880,
+  "sourceUrl": "https://www.spigotmc.org/resources/player-options-1-8-8-1-19-x.32636/history"
 }

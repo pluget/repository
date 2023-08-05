@@ -1,12 +1,9 @@
 {
   "name": "2.0.1-b370",
-  "version": {
-    "name": "2.0.1-b370",
-    "downloadUrl": "resources/essentialsx.9089/download?version=101033",
-    "numberOfDownloads": 110,
-    "rating": 9.037037037037,
-    "numberOfVotes": 81,
-    "releaseDate": 1467728280,
-    "sourceUrl": "https://www.spigotmc.org/resources/essentialsx.9089/history"
-  }
+  "downloadUrl": "resources/essentialsx.9089/download?version=101033",
+  "numberOfDownloads": 110,
+  "rating": 9.037037037037,
+  "numberOfVotes": 81,
+  "releaseDate": 1467728280,
+  "sourceUrl": "https://www.spigotmc.org/resources/essentialsx.9089/history"
 }

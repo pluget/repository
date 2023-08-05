@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/block-limiter.103716/download?version=466722",
-    "numberOfDownloads": 14,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1661206440,
-    "sourceUrl": "https://www.spigotmc.org/resources/block-limiter.103716/history"
-  }
+  "downloadUrl": "resources/block-limiter.103716/download?version=466722",
+  "numberOfDownloads": 14,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1661206440,
+  "sourceUrl": "https://www.spigotmc.org/resources/block-limiter.103716/history"
 }

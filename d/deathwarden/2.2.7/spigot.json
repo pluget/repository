@@ -1,12 +1,9 @@
 {
   "name": "2.2.7",
-  "version": {
-    "name": "2.2.7",
-    "downloadUrl": "resources/deathwarden.73535/download?version=368586",
-    "numberOfDownloads": 58,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1606108440,
-    "sourceUrl": "https://www.spigotmc.org/resources/deathwarden.73535/history"
-  }
+  "downloadUrl": "resources/deathwarden.73535/download?version=368586",
+  "numberOfDownloads": 58,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1606108440,
+  "sourceUrl": "https://www.spigotmc.org/resources/deathwarden.73535/history"
 }

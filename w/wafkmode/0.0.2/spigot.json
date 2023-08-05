@@ -1,12 +1,9 @@
 {
   "name": "0.0.2",
-  "version": {
-    "name": "0.0.2",
-    "downloadUrl": "resources/%E2%9C%A8wafkmode-teleport-your-afk-reward-player-1-16-5.107948/download?version=486206",
-    "numberOfDownloads": 160,
-    "rating": 8,
-    "numberOfVotes": 2,
-    "releaseDate": 1676624460,
-    "sourceUrl": "https://www.spigotmc.org/resources/107948/history/"
-  }
+  "downloadUrl": "resources/%E2%9C%A8wafkmode-teleport-your-afk-reward-player-1-16-5.107948/download?version=486206",
+  "numberOfDownloads": 160,
+  "rating": 8,
+  "numberOfVotes": 2,
+  "releaseDate": 1676624460,
+  "sourceUrl": "https://www.spigotmc.org/resources/107948/history/"
 }

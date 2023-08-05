@@ -1,12 +1,9 @@
 {
   "name": "2.5.3",
-  "version": {
-    "name": "2.5.3",
-    "downloadUrl": "resources/epicrename.4341/download?version=84463",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 7,
-    "releaseDate": 1461342780,
-    "sourceUrl": "https://www.spigotmc.org/resources/epicrename.4341/history"
-  }
+  "downloadUrl": "resources/epicrename.4341/download?version=84463",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 7,
+  "releaseDate": 1461342780,
+  "sourceUrl": "https://www.spigotmc.org/resources/epicrename.4341/history"
 }

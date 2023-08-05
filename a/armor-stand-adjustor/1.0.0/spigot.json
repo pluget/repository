@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/armor-stand-adjustor-1-19.63811/download?version=255661",
-    "numberOfDownloads": 110,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1546726020,
-    "sourceUrl": "https://www.spigotmc.org/resources/63811/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/armor-stand-adjustor-1-19.63811/download?version=255661",
+  "numberOfDownloads": 110,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1546726020,
+  "sourceUrl": "https://www.spigotmc.org/resources/63811/history/"
 }

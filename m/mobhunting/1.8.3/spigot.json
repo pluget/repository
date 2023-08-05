@@ -1,12 +1,9 @@
 {
   "name": "1.8.3",
-  "version": {
-    "name": "1.8.3",
-    "downloadUrl": "resources/mobhunting.3582/download?version=12241",
-    "numberOfDownloads": 223,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1422640440,
-    "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
-  }
+  "downloadUrl": "resources/mobhunting.3582/download?version=12241",
+  "numberOfDownloads": 223,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1422640440,
+  "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "4.3.0-Build-277-pre.2",
-  "version": {
-    "name": "JDA 4.3.0 Build 277",
-    "downloadUrl": "resources/jdaspigot.41074/download?version=425542",
-    "numberOfDownloads": 85,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1635926340,
-    "sourceUrl": "https://www.spigotmc.org/resources/jdaspigot.41074/history"
-  }
+  "name": "JDA 4.3.0 Build 277",
+  "downloadUrl": "resources/jdaspigot.41074/download?version=425542",
+  "numberOfDownloads": 85,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1635926340,
+  "sourceUrl": "https://www.spigotmc.org/resources/jdaspigot.41074/history"
 }

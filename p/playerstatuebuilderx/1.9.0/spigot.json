@@ -1,12 +1,9 @@
 {
   "name": "1.9.0",
-  "version": {
-    "name": "1.9.0",
-    "downloadUrl": "resources/playerstatuebuilderx.73715/download?version=332491",
-    "numberOfDownloads": 2,
-    "rating": 5.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1589917200,
-    "sourceUrl": "https://www.spigotmc.org/resources/playerstatuebuilderx.73715/history"
-  }
+  "downloadUrl": "resources/playerstatuebuilderx.73715/download?version=332491",
+  "numberOfDownloads": 2,
+  "rating": 5.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1589917200,
+  "sourceUrl": "https://www.spigotmc.org/resources/playerstatuebuilderx.73715/history"
 }

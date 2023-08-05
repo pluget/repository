@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0",
-  "version": {
-    "name": "2.0",
-    "downloadUrl": "resources/noencryption.102902/download?version=459241",
-    "numberOfDownloads": 3,
-    "rating": 9.12,
-    "numberOfVotes": 25,
-    "releaseDate": 1656930240,
-    "sourceUrl": "https://www.spigotmc.org/resources/noencryption.102902/history"
-  }
+  "name": "2.0",
+  "downloadUrl": "resources/noencryption.102902/download?version=459241",
+  "numberOfDownloads": 3,
+  "rating": 9.12,
+  "numberOfVotes": 25,
+  "releaseDate": 1656930240,
+  "sourceUrl": "https://www.spigotmc.org/resources/noencryption.102902/history"
 }

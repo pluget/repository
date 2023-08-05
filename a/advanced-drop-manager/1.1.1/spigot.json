@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/advanced-drop-manager.65396/download?version=263803",
-    "numberOfDownloads": 80,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1551872640,
-    "sourceUrl": "https://www.spigotmc.org/resources/advanced-drop-manager.65396/history"
-  }
+  "downloadUrl": "resources/advanced-drop-manager.65396/download?version=263803",
+  "numberOfDownloads": 80,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1551872640,
+  "sourceUrl": "https://www.spigotmc.org/resources/advanced-drop-manager.65396/history"
 }

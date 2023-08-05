@@ -1,12 +1,9 @@
 {
   "name": "1.30.9",
-  "version": {
-    "name": "1.30.9",
-    "downloadUrl": "resources/server-essentials.86675/download?version=395579",
-    "numberOfDownloads": 83,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1619215140,
-    "sourceUrl": "https://www.spigotmc.org/resources/server-essentials.86675/history"
-  }
+  "downloadUrl": "resources/server-essentials.86675/download?version=395579",
+  "numberOfDownloads": 83,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1619215140,
+  "sourceUrl": "https://www.spigotmc.org/resources/server-essentials.86675/history"
 }

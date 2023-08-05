@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/scbtool-custom-scoreboard-manager.97835/download?version=428810",
-    "numberOfDownloads": 20,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1638229020,
-    "sourceUrl": "https://www.spigotmc.org/resources/97835/history/"
-  }
+  "downloadUrl": "resources/scbtool-custom-scoreboard-manager.97835/download?version=428810",
+  "numberOfDownloads": 20,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1638229020,
+  "sourceUrl": "https://www.spigotmc.org/resources/97835/history/"
 }

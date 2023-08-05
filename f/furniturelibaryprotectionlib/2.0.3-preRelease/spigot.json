@@ -1,12 +1,9 @@
 {
   "name": "2.0.3-preRelease",
-  "version": {
-    "name": "2.0.3-preRelease",
-    "downloadUrl": "resources/furniturelibary-protectionlib.9368/download?version=233650",
-    "numberOfDownloads": 729,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1533486120,
-    "sourceUrl": "https://www.spigotmc.org/resources/furniturelibary-protectionlib.9368/history"
-  }
+  "downloadUrl": "resources/furniturelibary-protectionlib.9368/download?version=233650",
+  "numberOfDownloads": 729,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1533486120,
+  "sourceUrl": "https://www.spigotmc.org/resources/furniturelibary-protectionlib.9368/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.4.0",
-  "version": {
-    "name": "1.4.0",
-    "downloadUrl": "resources/atcommand-1-13-1-19-api.106760/download?version=478464",
-    "numberOfDownloads": 16,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1671183840,
-    "sourceUrl": "https://www.spigotmc.org/resources/atcommand-1-13-1-19-api.106760/history"
-  }
+  "downloadUrl": "resources/atcommand-1-13-1-19-api.106760/download?version=478464",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1671183840,
+  "sourceUrl": "https://www.spigotmc.org/resources/atcommand-1-13-1-19-api.106760/history"
 }

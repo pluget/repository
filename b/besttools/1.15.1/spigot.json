@@ -1,12 +1,9 @@
 {
   "name": "1.15.1",
-  "version": {
-    "name": "1.15.1",
-    "downloadUrl": "resources/besttools.81490/download?version=429457",
-    "numberOfDownloads": 294,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1638487380,
-    "sourceUrl": "https://www.spigotmc.org/resources/besttools.81490/history"
-  }
+  "downloadUrl": "resources/besttools.81490/download?version=429457",
+  "numberOfDownloads": 294,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1638487380,
+  "sourceUrl": "https://www.spigotmc.org/resources/besttools.81490/history"
 }

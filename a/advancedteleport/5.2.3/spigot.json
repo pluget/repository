@@ -1,12 +1,9 @@
 {
   "name": "5.2.3",
-  "version": {
-    "name": "5.2.3",
-    "downloadUrl": "resources/advancedteleport.64139/download?version=360053",
-    "numberOfDownloads": 7,
-    "rating": 8.6666666666666,
-    "numberOfVotes": 3,
-    "releaseDate": 1601733780,
-    "sourceUrl": "https://www.spigotmc.org/resources/advancedteleport.64139/history"
-  }
+  "downloadUrl": "resources/advancedteleport.64139/download?version=360053",
+  "numberOfDownloads": 7,
+  "rating": 8.6666666666666,
+  "numberOfVotes": 3,
+  "releaseDate": 1601733780,
+  "sourceUrl": "https://www.spigotmc.org/resources/advancedteleport.64139/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "4.3.3-pre.1",
-  "version": {
-    "name": "4.3.3",
-    "downloadUrl": "resources/telepost.91988/download?version=407427",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1625522160,
-    "sourceUrl": "https://www.spigotmc.org/resources/telepost.91988/history"
-  }
+  "name": "4.3.3",
+  "downloadUrl": "resources/telepost.91988/download?version=407427",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1625522160,
+  "sourceUrl": "https://www.spigotmc.org/resources/telepost.91988/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.1.2",
-  "version": {
-    "name": "1.1.2",
-    "downloadUrl": "resources/farmingupgrade.76907/download?version=322151",
-    "numberOfDownloads": 101,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1585958940,
-    "sourceUrl": "https://www.spigotmc.org/resources/farmingupgrade.76907/history"
-  }
+  "downloadUrl": "resources/farmingupgrade.76907/download?version=322151",
+  "numberOfDownloads": 101,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1585958940,
+  "sourceUrl": "https://www.spigotmc.org/resources/farmingupgrade.76907/history"
 }

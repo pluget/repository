@@ -1,12 +1,9 @@
 {
   "name": "1.8.1",
-  "version": {
-    "name": "1.8.1",
-    "downloadUrl": "resources/deathevents-gui-controlled-1-13-1-18x-easy-to-setup.95145/download?version=416700",
-    "numberOfDownloads": 33,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1629912600,
-    "sourceUrl": "https://www.spigotmc.org/resources/deathevents-gui-controlled-1-13-1-18x-easy-to-setup.95145/history"
-  }
+  "downloadUrl": "resources/deathevents-gui-controlled-1-13-1-18x-easy-to-setup.95145/download?version=416700",
+  "numberOfDownloads": 33,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1629912600,
+  "sourceUrl": "https://www.spigotmc.org/resources/deathevents-gui-controlled-1-13-1-18x-easy-to-setup.95145/history"
 }

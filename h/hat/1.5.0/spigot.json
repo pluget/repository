@@ -1,12 +1,9 @@
 {
   "name": "1.5.0",
-  "version": {
-    "name": "1.5.0",
-    "downloadUrl": "resources/hat.33980/download?version=463833",
-    "numberOfDownloads": 14,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1659554400,
-    "sourceUrl": "https://www.spigotmc.org/resources/hat.33980/history"
-  }
+  "downloadUrl": "resources/hat.33980/download?version=463833",
+  "numberOfDownloads": 14,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1659554400,
+  "sourceUrl": "https://www.spigotmc.org/resources/hat.33980/history"
 }

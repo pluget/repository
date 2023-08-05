@@ -1,12 +1,9 @@
 {
   "name": "1.9.1",
-  "version": {
-    "name": "1.9.1",
-    "downloadUrl": "resources/rocketjoin-custom-join-messags.82520/download?version=399441",
-    "numberOfDownloads": 65,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1621439580,
-    "sourceUrl": "https://www.spigotmc.org/resources/rocketjoin-custom-join-messags.82520/history"
-  }
+  "downloadUrl": "resources/rocketjoin-custom-join-messags.82520/download?version=399441",
+  "numberOfDownloads": 65,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1621439580,
+  "sourceUrl": "https://www.spigotmc.org/resources/rocketjoin-custom-join-messags.82520/history"
 }

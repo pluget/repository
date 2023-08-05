@@ -1,12 +1,9 @@
 {
   "name": "1.1.11",
-  "version": {
-    "name": "1.1.11",
-    "downloadUrl": "resources/duoauth.80609/download?version=352474",
-    "numberOfDownloads": 101,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1598130480,
-    "sourceUrl": "https://www.spigotmc.org/resources/duoauth.80609/history"
-  }
+  "downloadUrl": "resources/duoauth.80609/download?version=352474",
+  "numberOfDownloads": 101,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1598130480,
+  "sourceUrl": "https://www.spigotmc.org/resources/duoauth.80609/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/playtimes-check-players-playtime-server-uptime.58858/download?version=250725",
-    "numberOfDownloads": 545,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1543634340,
-    "sourceUrl": "https://www.spigotmc.org/resources/playtimes-check-players-playtime-server-uptime.58858/history"
-  }
+  "downloadUrl": "resources/playtimes-check-players-playtime-server-uptime.58858/download?version=250725",
+  "numberOfDownloads": 545,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1543634340,
+  "sourceUrl": "https://www.spigotmc.org/resources/playtimes-check-players-playtime-server-uptime.58858/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.4",
-  "version": {
-    "name": "1.0.4",
-    "downloadUrl": "resources/finaleconomy.97740/download?version=453643",
-    "numberOfDownloads": 123,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1653597300,
-    "sourceUrl": "https://www.spigotmc.org/resources/97740/history/"
-  }
+  "downloadUrl": "resources/finaleconomy.97740/download?version=453643",
+  "numberOfDownloads": 123,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1653597300,
+  "sourceUrl": "https://www.spigotmc.org/resources/97740/history/"
 }

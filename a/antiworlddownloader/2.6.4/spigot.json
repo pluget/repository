@@ -1,12 +1,9 @@
 {
   "name": "2.6.4",
-  "version": {
-    "name": "2.6.4",
-    "downloadUrl": "resources/antiworlddownloader.99356/download?version=487788",
-    "numberOfDownloads": 198,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1677832320,
-    "sourceUrl": "https://www.spigotmc.org/resources/99356/history/"
-  }
+  "downloadUrl": "resources/antiworlddownloader.99356/download?version=487788",
+  "numberOfDownloads": 198,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1677832320,
+  "sourceUrl": "https://www.spigotmc.org/resources/99356/history/"
 }

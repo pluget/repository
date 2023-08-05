@@ -1,12 +1,9 @@
 {
   "name": "2.5.3",
-  "version": {
-    "name": "2.5.3",
-    "downloadUrl": "resources/challenge-plugin.82074/download?version=374531",
-    "numberOfDownloads": 233,
-    "rating": 6,
-    "numberOfVotes": 1,
-    "releaseDate": 1609275180,
-    "sourceUrl": "https://www.spigotmc.org/resources/challenge-plugin.82074/history"
-  }
+  "downloadUrl": "resources/challenge-plugin.82074/download?version=374531",
+  "numberOfDownloads": 233,
+  "rating": 6,
+  "numberOfVotes": 1,
+  "releaseDate": 1609275180,
+  "sourceUrl": "https://www.spigotmc.org/resources/challenge-plugin.82074/history"
 }

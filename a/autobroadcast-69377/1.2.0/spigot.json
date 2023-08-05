@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/autobroadcast.69377/download?version=363305",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1603533420,
-    "sourceUrl": "https://www.spigotmc.org/resources/69377/history/"
-  }
+  "downloadUrl": "resources/autobroadcast.69377/download?version=363305",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1603533420,
+  "sourceUrl": "https://www.spigotmc.org/resources/69377/history/"
 }

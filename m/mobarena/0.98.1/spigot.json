@@ -1,12 +1,9 @@
 {
   "name": "0.98.1",
-  "version": {
-    "name": "0.98.1",
-    "downloadUrl": "resources/mobarena.34110/download?version=163474",
-    "numberOfDownloads": 3,
-    "rating": 8.8571428571428,
-    "numberOfVotes": 14,
-    "releaseDate": 1496611500,
-    "sourceUrl": "https://www.spigotmc.org/resources/mobarena.34110/history"
-  }
+  "downloadUrl": "resources/mobarena.34110/download?version=163474",
+  "numberOfDownloads": 3,
+  "rating": 8.8571428571428,
+  "numberOfVotes": 14,
+  "releaseDate": 1496611500,
+  "sourceUrl": "https://www.spigotmc.org/resources/mobarena.34110/history"
 }

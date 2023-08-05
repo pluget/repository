@@ -1,12 +1,9 @@
 {
   "name": "3.0.0-rc.1",
-  "version": {
-    "name": "3.0.0-rc.1",
-    "downloadUrl": "resources/enchantmentplus.84139/download?version=374315",
-    "numberOfDownloads": 53,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1609171080,
-    "sourceUrl": "https://www.spigotmc.org/resources/enchantmentplus.84139/history"
-  }
+  "downloadUrl": "resources/enchantmentplus.84139/download?version=374315",
+  "numberOfDownloads": 53,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1609171080,
+  "sourceUrl": "https://www.spigotmc.org/resources/enchantmentplus.84139/history"
 }

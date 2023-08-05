@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/killstreaks.106950/download?version=479592",
-    "numberOfDownloads": 81,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1671912780,
-    "sourceUrl": "https://www.spigotmc.org/resources/killstreaks.106950/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/killstreaks.106950/download?version=479592",
+  "numberOfDownloads": 81,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1671912780,
+  "sourceUrl": "https://www.spigotmc.org/resources/killstreaks.106950/history"
 }

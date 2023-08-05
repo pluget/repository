@@ -1,12 +1,9 @@
 {
   "name": "1.3.0",
-  "version": {
-    "name": "1.3.0",
-    "downloadUrl": "resources/debugkeeper.104454/download?version=465663",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660525260,
-    "sourceUrl": "https://www.spigotmc.org/resources/debugkeeper.104454/history"
-  }
+  "downloadUrl": "resources/debugkeeper.104454/download?version=465663",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660525260,
+  "sourceUrl": "https://www.spigotmc.org/resources/debugkeeper.104454/history"
 }

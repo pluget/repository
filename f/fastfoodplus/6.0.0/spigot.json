@@ -1,12 +1,9 @@
 {
   "name": "6.0.0",
-  "version": {
-    "name": "6.0.0",
-    "downloadUrl": "resources/fastfoodplus.51172/download?version=291662",
-    "numberOfDownloads": 57,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1567108320,
-    "sourceUrl": "https://www.spigotmc.org/resources/fastfoodplus.51172/history"
-  }
+  "downloadUrl": "resources/fastfoodplus.51172/download?version=291662",
+  "numberOfDownloads": 57,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1567108320,
+  "sourceUrl": "https://www.spigotmc.org/resources/fastfoodplus.51172/history"
 }

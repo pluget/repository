@@ -1,12 +1,9 @@
 {
   "name": "4.0.9",
-  "version": {
-    "name": "4.0.9",
-    "downloadUrl": "resources/elevators.34229/download?version=484078",
-    "numberOfDownloads": 186,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1675030980,
-    "sourceUrl": "https://www.spigotmc.org/resources/34229/history/"
-  }
+  "downloadUrl": "resources/elevators.34229/download?version=484078",
+  "numberOfDownloads": 186,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1675030980,
+  "sourceUrl": "https://www.spigotmc.org/resources/34229/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/lottery.22137/download?version=212020",
-    "numberOfDownloads": 621,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1520705580,
-    "sourceUrl": "https://www.spigotmc.org/resources/22137/history/"
-  }
+  "downloadUrl": "resources/lottery.22137/download?version=212020",
+  "numberOfDownloads": 621,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1520705580,
+  "sourceUrl": "https://www.spigotmc.org/resources/22137/history/"
 }

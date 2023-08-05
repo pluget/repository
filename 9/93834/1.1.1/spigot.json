@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/awesometodos-gui-based-todo-list-1-14-1-19.93834/download?version=408261",
-    "numberOfDownloads": 57,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1625864520,
-    "sourceUrl": "https://www.spigotmc.org/resources/93834/history/"
-  }
+  "downloadUrl": "resources/awesometodos-gui-based-todo-list-1-14-1-19.93834/download?version=408261",
+  "numberOfDownloads": 57,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1625864520,
+  "sourceUrl": "https://www.spigotmc.org/resources/93834/history/"
 }

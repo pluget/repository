@@ -1,12 +1,9 @@
 {
-  "name": "1.2.0",
-  "version": {
-    "name": "1.2",
-    "downloadUrl": "resources/random-spawn.95019/download?version=423532",
-    "numberOfDownloads": 50,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1634539980,
-    "sourceUrl": "https://www.spigotmc.org/resources/random-spawn.95019/history"
-  }
+  "name": "1.2",
+  "downloadUrl": "resources/random-spawn.95019/download?version=423532",
+  "numberOfDownloads": 50,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1634539980,
+  "sourceUrl": "https://www.spigotmc.org/resources/random-spawn.95019/history"
 }

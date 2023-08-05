@@ -1,12 +1,9 @@
 {
-  "name": "2.7.0",
-  "version": {
-    "name": "v2.7",
-    "downloadUrl": "resources/groupmanager.38875/download?version=352796",
-    "numberOfDownloads": 3,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1598282580,
-    "sourceUrl": "https://www.spigotmc.org/resources/groupmanager.38875/history"
-  }
+  "name": "v2.7",
+  "downloadUrl": "resources/groupmanager.38875/download?version=352796",
+  "numberOfDownloads": 3,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1598282580,
+  "sourceUrl": "https://www.spigotmc.org/resources/groupmanager.38875/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.0.3",
-  "version": {
-    "name": "2.0.3",
-    "downloadUrl": "resources/enderdragon-1-12-1-19.101583/download?version=485522",
-    "numberOfDownloads": 364,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1676109360,
-    "sourceUrl": "https://www.spigotmc.org/resources/enderdragon-1-12-1-19.101583/history"
-  }
+  "downloadUrl": "resources/enderdragon-1-12-1-19.101583/download?version=485522",
+  "numberOfDownloads": 364,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1676109360,
+  "sourceUrl": "https://www.spigotmc.org/resources/enderdragon-1-12-1-19.101583/history"
 }

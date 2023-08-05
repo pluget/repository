@@ -1,12 +1,9 @@
 {
   "name": "1.10.3",
-  "version": {
-    "name": "1.10.3",
-    "downloadUrl": "resources/blocklocker.3268/download?version=436771",
-    "numberOfDownloads": 7,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1642265040,
-    "sourceUrl": "https://www.spigotmc.org/resources/blocklocker.3268/history"
-  }
+  "downloadUrl": "resources/blocklocker.3268/download?version=436771",
+  "numberOfDownloads": 7,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1642265040,
+  "sourceUrl": "https://www.spigotmc.org/resources/blocklocker.3268/history"
 }

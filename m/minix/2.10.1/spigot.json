@@ -1,12 +1,9 @@
 {
-  "name": "2.10.1",
-  "version": {
-    "name": "v2.10.1",
-    "downloadUrl": "resources/minix-async-kotlin-performant-coroutines.97423/download?version=453143",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1653231780,
-    "sourceUrl": "https://www.spigotmc.org/resources/minix-async-kotlin-performant-coroutines.97423/history"
-  }
+  "name": "v2.10.1",
+  "downloadUrl": "resources/minix-async-kotlin-performant-coroutines.97423/download?version=453143",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1653231780,
+  "sourceUrl": "https://www.spigotmc.org/resources/minix-async-kotlin-performant-coroutines.97423/history"
 }

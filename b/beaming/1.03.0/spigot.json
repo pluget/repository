@@ -1,12 +1,9 @@
 {
-  "name": "1.03.0",
-  "version": {
-    "name": "1.03",
-    "downloadUrl": "resources/beaming.8094/download?version=40932",
-    "numberOfDownloads": 126,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1440265140,
-    "sourceUrl": "https://www.spigotmc.org/resources/8094/history/"
-  }
+  "name": "1.03",
+  "downloadUrl": "resources/beaming.8094/download?version=40932",
+  "numberOfDownloads": 126,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1440265140,
+  "sourceUrl": "https://www.spigotmc.org/resources/8094/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.0.3",
-  "version": {
-    "name": "Alpha 1.0.3",
-    "downloadUrl": "resources/tnpchat-ultimate.103116/download?version=459447",
-    "numberOfDownloads": 13,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657042140,
-    "sourceUrl": "https://www.spigotmc.org/resources/tnpchat-ultimate.103116/history"
-  }
+  "name": "Alpha 1.0.3",
+  "downloadUrl": "resources/tnpchat-ultimate.103116/download?version=459447",
+  "numberOfDownloads": 13,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657042140,
+  "sourceUrl": "https://www.spigotmc.org/resources/tnpchat-ultimate.103116/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.7.3",
-  "version": {
-    "name": "2.7.3",
-    "downloadUrl": "resources/lucky-bounties.94149/download?version=490573",
-    "numberOfDownloads": 168,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1679694540,
-    "sourceUrl": "https://www.spigotmc.org/resources/lucky-bounties.94149/history"
-  }
+  "downloadUrl": "resources/lucky-bounties.94149/download?version=490573",
+  "numberOfDownloads": 168,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1679694540,
+  "sourceUrl": "https://www.spigotmc.org/resources/lucky-bounties.94149/history"
 }

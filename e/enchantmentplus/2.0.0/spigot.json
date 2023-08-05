@@ -1,12 +1,9 @@
 {
   "name": "2.0.0",
-  "version": {
-    "name": "2.0.0",
-    "downloadUrl": "resources/enchantmentplus.84139/download?version=360996",
-    "numberOfDownloads": 76,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1602255720,
-    "sourceUrl": "https://www.spigotmc.org/resources/enchantmentplus.84139/history"
-  }
+  "downloadUrl": "resources/enchantmentplus.84139/download?version=360996",
+  "numberOfDownloads": 76,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1602255720,
+  "sourceUrl": "https://www.spigotmc.org/resources/enchantmentplus.84139/history"
 }

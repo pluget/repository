@@ -1,12 +1,9 @@
 {
-  "name": "2.2.0",
-  "version": {
-    "name": "v2.2",
-    "downloadUrl": "resources/webconsole.70370/download?version=415957",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1629546960,
-    "sourceUrl": "https://www.spigotmc.org/resources/webconsole.70370/history"
-  }
+  "name": "v2.2",
+  "downloadUrl": "resources/webconsole.70370/download?version=415957",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1629546960,
+  "sourceUrl": "https://www.spigotmc.org/resources/webconsole.70370/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "2.3.0-alpha-2",
-  "version": {
-    "name": "v2.3-alpha-2",
-    "downloadUrl": "resources/dynmap%C2%AE.274/download?version=90506",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1463756400,
-    "sourceUrl": "https://www.spigotmc.org/resources/dynmap%C2%AE.274/history"
-  }
+  "name": "v2.3-alpha-2",
+  "downloadUrl": "resources/dynmap%C2%AE.274/download?version=90506",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1463756400,
+  "sourceUrl": "https://www.spigotmc.org/resources/dynmap%C2%AE.274/history"
 }

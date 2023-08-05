@@ -1,12 +1,9 @@
 {
   "name": "1.6.6",
-  "version": {
-    "name": "1.6.6",
-    "downloadUrl": "resources/oldcombatmechanics-disable-1-9-hit-cooldown.19510/download?version=231746",
-    "numberOfDownloads": 11,
-    "rating": 8.9333333333334,
-    "numberOfVotes": 15,
-    "releaseDate": 1532554140,
-    "sourceUrl": "https://www.spigotmc.org/resources/oldcombatmechanics-disable-1-9-hit-cooldown.19510/history"
-  }
+  "downloadUrl": "resources/oldcombatmechanics-disable-1-9-hit-cooldown.19510/download?version=231746",
+  "numberOfDownloads": 11,
+  "rating": 8.9333333333334,
+  "numberOfVotes": 15,
+  "releaseDate": 1532554140,
+  "sourceUrl": "https://www.spigotmc.org/resources/oldcombatmechanics-disable-1-9-hit-cooldown.19510/history"
 }

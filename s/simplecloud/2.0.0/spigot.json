@@ -1,12 +1,9 @@
 {
   "name": "2.0.0",
-  "version": {
-    "name": "2.0.0",
-    "downloadUrl": "resources/simplecloud-simplify-your-network.79466/download?version=374176",
-    "numberOfDownloads": 834,
-    "rating": 10,
-    "numberOfVotes": 6,
-    "releaseDate": 1609100640,
-    "sourceUrl": "https://www.spigotmc.org/resources/79466/history/"
-  }
+  "downloadUrl": "resources/simplecloud-simplify-your-network.79466/download?version=374176",
+  "numberOfDownloads": 834,
+  "rating": 10,
+  "numberOfVotes": 6,
+  "releaseDate": 1609100640,
+  "sourceUrl": "https://www.spigotmc.org/resources/79466/history/"
 }

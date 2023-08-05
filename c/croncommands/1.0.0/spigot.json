@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/croncommands-command-scheduler.73801/download?version=461184",
-    "numberOfDownloads": 21,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1658087760,
-    "sourceUrl": "https://www.spigotmc.org/resources/croncommands-command-scheduler.73801/history"
-  }
+  "downloadUrl": "resources/croncommands-command-scheduler.73801/download?version=461184",
+  "numberOfDownloads": 21,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1658087760,
+  "sourceUrl": "https://www.spigotmc.org/resources/croncommands-command-scheduler.73801/history"
 }

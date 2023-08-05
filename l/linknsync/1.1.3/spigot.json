@@ -1,12 +1,9 @@
 {
   "name": "1.1.3",
-  "version": {
-    "name": "1.1.3",
-    "downloadUrl": "resources/linknsync-twitch-whitelist-plugin.98120/download?version=458230",
-    "numberOfDownloads": 53,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1656278940,
-    "sourceUrl": "https://www.spigotmc.org/resources/linknsync-twitch-whitelist-plugin.98120/history"
-  }
+  "downloadUrl": "resources/linknsync-twitch-whitelist-plugin.98120/download?version=458230",
+  "numberOfDownloads": 53,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1656278940,
+  "sourceUrl": "https://www.spigotmc.org/resources/linknsync-twitch-whitelist-plugin.98120/history"
 }

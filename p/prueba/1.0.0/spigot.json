@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/prueba.104526/download?version=465455",
-    "numberOfDownloads": 23,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660404300,
-    "sourceUrl": "https://www.spigotmc.org/resources/prueba.104526/history"
-  }
+  "downloadUrl": "resources/prueba.104526/download?version=465455",
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660404300,
+  "sourceUrl": "https://www.spigotmc.org/resources/prueba.104526/history"
 }

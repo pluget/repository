@@ -1,12 +1,9 @@
 {
   "name": "1.8.1-SNAPSHOT",
-  "version": {
-    "name": "1.8.1-SNAPSHOT",
-    "downloadUrl": "resources/tamable-foxes-1-14-x-1-19-2.69537/download?version=385480",
-    "numberOfDownloads": 742,
-    "rating": 7.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1614214500,
-    "sourceUrl": "https://www.spigotmc.org/resources/tamable-foxes-1-14-x-1-19-2.69537/history"
-  }
+  "downloadUrl": "resources/tamable-foxes-1-14-x-1-19-2.69537/download?version=385480",
+  "numberOfDownloads": 742,
+  "rating": 7.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1614214500,
+  "sourceUrl": "https://www.spigotmc.org/resources/tamable-foxes-1-14-x-1-19-2.69537/history"
 }

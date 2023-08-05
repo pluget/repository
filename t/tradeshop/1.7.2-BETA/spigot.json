@@ -1,12 +1,9 @@
 {
   "name": "1.7.2-BETA",
-  "version": {
-    "name": "1.7.2-BETA",
-    "downloadUrl": "resources/tradeshop.32762/download?version=194671",
-    "numberOfDownloads": 92,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1511131560,
-    "sourceUrl": "https://www.spigotmc.org/resources/32762/history/"
-  }
+  "downloadUrl": "resources/tradeshop.32762/download?version=194671",
+  "numberOfDownloads": 92,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1511131560,
+  "sourceUrl": "https://www.spigotmc.org/resources/32762/history/"
 }

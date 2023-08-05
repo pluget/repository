@@ -1,12 +1,9 @@
 {
   "name": "8.4.4",
-  "version": {
-    "name": "8.4.4",
-    "downloadUrl": "resources/%E2%9A%94elitemobs%E2%9A%94.40090/download?version=490075",
-    "numberOfDownloads": 1,
-    "rating": 4,
-    "numberOfVotes": 1,
-    "releaseDate": 1679346900,
-    "sourceUrl": "https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/history"
-  }
+  "downloadUrl": "resources/%E2%9A%94elitemobs%E2%9A%94.40090/download?version=490075",
+  "numberOfDownloads": 1,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releaseDate": 1679346900,
+  "sourceUrl": "https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/history"
 }

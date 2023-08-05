@@ -1,12 +1,9 @@
 {
   "name": "1.0.5",
-  "version": {
-    "name": "1.0.5",
-    "downloadUrl": "resources/mcap.100381/download?version=443782",
-    "numberOfDownloads": 14,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1646482560,
-    "sourceUrl": "https://www.spigotmc.org/resources/mcap.100381/history"
-  }
+  "downloadUrl": "resources/mcap.100381/download?version=443782",
+  "numberOfDownloads": 14,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1646482560,
+  "sourceUrl": "https://www.spigotmc.org/resources/mcap.100381/history"
 }

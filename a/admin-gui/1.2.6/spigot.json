@@ -1,12 +1,9 @@
 {
   "name": "1.2.6",
-  "version": {
-    "name": "1.2.6",
-    "downloadUrl": "resources/admin-gui.71157/download?version=294665",
-    "numberOfDownloads": 146,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1568918160,
-    "sourceUrl": "https://www.spigotmc.org/resources/admin-gui.71157/history"
-  }
+  "downloadUrl": "resources/admin-gui.71157/download?version=294665",
+  "numberOfDownloads": 146,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1568918160,
+  "sourceUrl": "https://www.spigotmc.org/resources/admin-gui.71157/history"
 }

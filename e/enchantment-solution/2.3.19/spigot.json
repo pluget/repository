@@ -1,12 +1,9 @@
 {
   "name": "2.3.19",
-  "version": {
-    "name": "2.3.19",
-    "downloadUrl": "resources/enchantment-solution.59556/download?version=351881",
-    "numberOfDownloads": 1,
-    "rating": 8.6666666666666,
-    "numberOfVotes": 3,
-    "releaseDate": 1597851840,
-    "sourceUrl": "https://www.spigotmc.org/resources/enchantment-solution.59556/history"
-  }
+  "downloadUrl": "resources/enchantment-solution.59556/download?version=351881",
+  "numberOfDownloads": 1,
+  "rating": 8.6666666666666,
+  "numberOfVotes": 3,
+  "releaseDate": 1597851840,
+  "sourceUrl": "https://www.spigotmc.org/resources/enchantment-solution.59556/history"
 }

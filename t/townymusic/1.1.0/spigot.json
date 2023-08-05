@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/townymusic.106049/download?version=474146",
-    "numberOfDownloads": 16,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1667373000,
-    "sourceUrl": "https://www.spigotmc.org/resources/townymusic.106049/history"
-  }
+  "downloadUrl": "resources/townymusic.106049/download?version=474146",
+  "numberOfDownloads": 16,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1667373000,
+  "sourceUrl": "https://www.spigotmc.org/resources/townymusic.106049/history"
 }

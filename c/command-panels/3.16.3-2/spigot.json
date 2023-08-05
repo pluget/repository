@@ -1,12 +1,9 @@
 {
-  "name": "3.16.3-2",
-  "version": {
-    "name": "3.16.3.2",
-    "downloadUrl": "resources/commandpanels.67788/download?version=415770",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 5,
-    "releaseDate": 1629447360,
-    "sourceUrl": "https://www.spigotmc.org/resources/67788/history/"
-  }
+  "name": "3.16.3.2",
+  "downloadUrl": "resources/commandpanels.67788/download?version=415770",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 5,
+  "releaseDate": 1629447360,
+  "sourceUrl": "https://www.spigotmc.org/resources/67788/history/"
 }

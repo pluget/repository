@@ -1,12 +1,9 @@
 {
   "name": "4.0.0",
-  "version": {
-    "name": "4.0.0",
-    "downloadUrl": "resources/spigot-plugin-template.103383/download?version=478971",
-    "numberOfDownloads": 35,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1671527880,
-    "sourceUrl": "https://www.spigotmc.org/resources/spigot-plugin-template.103383/history"
-  }
+  "downloadUrl": "resources/spigot-plugin-template.103383/download?version=478971",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1671527880,
+  "sourceUrl": "https://www.spigotmc.org/resources/spigot-plugin-template.103383/history"
 }

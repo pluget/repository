@@ -1,12 +1,9 @@
 {
-  "name": "2.7.0-b",
-  "version": {
-    "name": "2.7b",
-    "downloadUrl": "resources/ultimate-vote.18078/download?version=429337",
-    "numberOfDownloads": 170,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1638447360,
-    "sourceUrl": "https://www.spigotmc.org/resources/ultimate-vote.18078/history"
-  }
+  "name": "2.7b",
+  "downloadUrl": "resources/ultimate-vote.18078/download?version=429337",
+  "numberOfDownloads": 170,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1638447360,
+  "sourceUrl": "https://www.spigotmc.org/resources/ultimate-vote.18078/history"
 }

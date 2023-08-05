@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/visualannouncer.104608/download?version=467924",
-    "numberOfDownloads": 23,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1661963880,
-    "sourceUrl": "https://www.spigotmc.org/resources/visualannouncer.104608/history"
-  }
+  "downloadUrl": "resources/visualannouncer.104608/download?version=467924",
+  "numberOfDownloads": 23,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1661963880,
+  "sourceUrl": "https://www.spigotmc.org/resources/visualannouncer.104608/history"
 }

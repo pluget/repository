@@ -1,12 +1,9 @@
 {
-  "name": "0.6.0",
-  "version": {
-    "name": "v0.6",
-    "downloadUrl": "resources/maplands.46404/download?version=287578",
-    "numberOfDownloads": 369,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1564950360,
-    "sourceUrl": "https://www.spigotmc.org/resources/maplands.46404/history"
-  }
+  "name": "v0.6",
+  "downloadUrl": "resources/maplands.46404/download?version=287578",
+  "numberOfDownloads": 369,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1564950360,
+  "sourceUrl": "https://www.spigotmc.org/resources/maplands.46404/history"
 }

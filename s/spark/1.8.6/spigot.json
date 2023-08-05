@@ -1,12 +1,9 @@
 {
   "name": "1.8.6",
-  "version": {
-    "name": "1.8.6",
-    "downloadUrl": "resources/spark.57242/download?version=440678",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1644522360,
-    "sourceUrl": "https://www.spigotmc.org/resources/spark.57242/history"
-  }
+  "downloadUrl": "resources/spark.57242/download?version=440678",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1644522360,
+  "sourceUrl": "https://www.spigotmc.org/resources/spark.57242/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "10.5.0-pre.1",
-  "version": {
-    "name": "10.5",
-    "downloadUrl": "resources/theapi.72679/download?version=472677",
-    "numberOfDownloads": 85,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1665996600,
-    "sourceUrl": "https://www.spigotmc.org/resources/theapi.72679/history"
-  }
+  "name": "10.5",
+  "downloadUrl": "resources/theapi.72679/download?version=472677",
+  "numberOfDownloads": 85,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1665996600,
+  "sourceUrl": "https://www.spigotmc.org/resources/theapi.72679/history"
 }

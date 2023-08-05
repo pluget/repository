@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0-_beta-1",
-  "version": {
-    "name": "2.0.0_beta-1",
-    "downloadUrl": "resources/beaming.8094/download?version=480114",
-    "numberOfDownloads": 74,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672272360,
-    "sourceUrl": "https://www.spigotmc.org/resources/8094/history/"
-  }
+  "name": "2.0.0_beta-1",
+  "downloadUrl": "resources/beaming.8094/download?version=480114",
+  "numberOfDownloads": 74,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672272360,
+  "sourceUrl": "https://www.spigotmc.org/resources/8094/history/"
 }

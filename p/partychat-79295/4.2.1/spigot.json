@@ -1,12 +1,9 @@
 {
   "name": "4.2.1",
-  "version": {
-    "name": "4.2.1",
-    "downloadUrl": "resources/partychat.79295/download?version=444391",
-    "numberOfDownloads": 578,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646789520,
-    "sourceUrl": "https://www.spigotmc.org/resources/79295/history/"
-  }
+  "downloadUrl": "resources/partychat.79295/download?version=444391",
+  "numberOfDownloads": 578,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646789520,
+  "sourceUrl": "https://www.spigotmc.org/resources/79295/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.7.6",
-  "version": {
-    "name": "2.7.6",
-    "downloadUrl": "resources/clientstats-bukkit-spigot.24329/download?version=110100",
-    "numberOfDownloads": 199,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1471708380,
-    "sourceUrl": "https://www.spigotmc.org/resources/clientstats-bukkit-spigot.24329/history"
-  }
+  "downloadUrl": "resources/clientstats-bukkit-spigot.24329/download?version=110100",
+  "numberOfDownloads": 199,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1471708380,
+  "sourceUrl": "https://www.spigotmc.org/resources/clientstats-bukkit-spigot.24329/history"
 }

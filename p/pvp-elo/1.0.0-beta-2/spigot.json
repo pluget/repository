@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-beta-2",
-  "version": {
-    "name": "1.0 beta 2",
-    "downloadUrl": "resources/pvp-elo.47547/download?version=478856",
-    "numberOfDownloads": 11,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1671418560,
-    "sourceUrl": "https://www.spigotmc.org/resources/pvp-elo.47547/history"
-  }
+  "name": "1.0 beta 2",
+  "downloadUrl": "resources/pvp-elo.47547/download?version=478856",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1671418560,
+  "sourceUrl": "https://www.spigotmc.org/resources/pvp-elo.47547/history"
 }

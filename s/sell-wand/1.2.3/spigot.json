@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/sell-wand.87014/download?version=416878",
-    "numberOfDownloads": 172,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1630024620,
-    "sourceUrl": "https://www.spigotmc.org/resources/87014/history/"
-  }
+  "downloadUrl": "resources/sell-wand.87014/download?version=416878",
+  "numberOfDownloads": 172,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1630024620,
+  "sourceUrl": "https://www.spigotmc.org/resources/87014/history/"
 }

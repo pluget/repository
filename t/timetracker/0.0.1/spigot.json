@@ -1,12 +1,9 @@
 {
   "name": "0.0.1",
-  "version": {
-    "name": "0.0.1",
-    "downloadUrl": "resources/timetracker.98304/download?version=431166",
-    "numberOfDownloads": 37,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1639291860,
-    "sourceUrl": "https://www.spigotmc.org/resources/timetracker.98304/history"
-  }
+  "downloadUrl": "resources/timetracker.98304/download?version=431166",
+  "numberOfDownloads": 37,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1639291860,
+  "sourceUrl": "https://www.spigotmc.org/resources/timetracker.98304/history"
 }

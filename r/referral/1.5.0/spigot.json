@@ -1,12 +1,9 @@
 {
-  "name": "1.5.0",
-  "version": {
-    "name": "v1.5",
-    "downloadUrl": "resources/referral-1-7-1-18.72219/download?version=299455",
-    "numberOfDownloads": 60,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1572252960,
-    "sourceUrl": "https://www.spigotmc.org/resources/72219/history/"
-  }
+  "name": "v1.5",
+  "downloadUrl": "resources/referral-1-7-1-18.72219/download?version=299455",
+  "numberOfDownloads": 60,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1572252960,
+  "sourceUrl": "https://www.spigotmc.org/resources/72219/history/"
 }

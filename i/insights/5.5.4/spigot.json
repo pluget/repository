@@ -1,12 +1,9 @@
 {
   "name": "5.5.4",
-  "version": {
-    "name": "5.5.4",
-    "downloadUrl": "resources/insights-super-configurable-region-limits-asynchronous-scans-1-19-2.56489/download?version=373779",
-    "numberOfDownloads": 180,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1608889440,
-    "sourceUrl": "https://www.spigotmc.org/resources/insights-super-configurable-region-limits-asynchronous-scans-1-19-2.56489/history"
-  }
+  "downloadUrl": "resources/insights-super-configurable-region-limits-asynchronous-scans-1-19-2.56489/download?version=373779",
+  "numberOfDownloads": 180,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1608889440,
+  "sourceUrl": "https://www.spigotmc.org/resources/insights-super-configurable-region-limits-asynchronous-scans-1-19-2.56489/history"
 }

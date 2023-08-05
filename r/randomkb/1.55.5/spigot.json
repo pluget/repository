@@ -1,12 +1,9 @@
 {
   "name": "1.55.5",
-  "version": {
-    "name": "1.55.5",
-    "downloadUrl": "resources/randomkb.48891/download?version=474652",
-    "numberOfDownloads": 954,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1667776200,
-    "sourceUrl": "https://www.spigotmc.org/resources/randomkb.48891/history"
-  }
+  "downloadUrl": "resources/randomkb.48891/download?version=474652",
+  "numberOfDownloads": 954,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1667776200,
+  "sourceUrl": "https://www.spigotmc.org/resources/randomkb.48891/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "10.4.3-BETA",
-  "version": {
-    "name": "10.4.3-BETA",
-    "downloadUrl": "resources/skinsrestorer.2124/download?version=57411",
-    "numberOfDownloads": 4,
-    "rating": 8.8,
-    "numberOfVotes": 5,
-    "releaseDate": 1449870480,
-    "sourceUrl": "https://www.spigotmc.org/resources/skinsrestorer.2124/history"
-  }
+  "downloadUrl": "resources/skinsrestorer.2124/download?version=57411",
+  "numberOfDownloads": 4,
+  "rating": 8.8,
+  "numberOfVotes": 5,
+  "releaseDate": 1449870480,
+  "sourceUrl": "https://www.spigotmc.org/resources/skinsrestorer.2124/history"
 }

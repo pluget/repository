@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/luckprefix-1-16.102145/download?version=491503",
-    "numberOfDownloads": 25,
-    "rating": 8,
-    "numberOfVotes": 2,
-    "releaseDate": 1680327600,
-    "sourceUrl": "https://www.spigotmc.org/resources/luckprefix-1-16.102145/history"
-  }
+  "downloadUrl": "resources/luckprefix-1-16.102145/download?version=491503",
+  "numberOfDownloads": 25,
+  "rating": 8,
+  "numberOfVotes": 2,
+  "releaseDate": 1680327600,
+  "sourceUrl": "https://www.spigotmc.org/resources/luckprefix-1-16.102145/history"
 }

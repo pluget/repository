@@ -1,12 +1,9 @@
 {
-  "name": "1.2.0",
-  "version": {
-    "name": "v1.2.0",
-    "downloadUrl": "resources/motd-gg.106501/download?version=477109",
-    "numberOfDownloads": 84,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1669993080,
-    "sourceUrl": "https://www.spigotmc.org/resources/motd-gg.106501/history"
-  }
+  "name": "v1.2.0",
+  "downloadUrl": "resources/motd-gg.106501/download?version=477109",
+  "numberOfDownloads": 84,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1669993080,
+  "sourceUrl": "https://www.spigotmc.org/resources/motd-gg.106501/history"
 }

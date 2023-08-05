@@ -1,12 +1,9 @@
 {
   "name": "1.0.2",
-  "version": {
-    "name": "1.0.2",
-    "downloadUrl": "resources/better-keep-inventory.93026/download?version=475489",
-    "numberOfDownloads": 456,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1668556440,
-    "sourceUrl": "https://www.spigotmc.org/resources/better-keep-inventory.93026/history"
-  }
+  "downloadUrl": "resources/better-keep-inventory.93026/download?version=475489",
+  "numberOfDownloads": 456,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1668556440,
+  "sourceUrl": "https://www.spigotmc.org/resources/better-keep-inventory.93026/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.0.7",
-  "version": {
-    "name": "2.0.7",
-    "downloadUrl": "resources/promotionessentials.1184/download?version=303613",
-    "numberOfDownloads": 12,
-    "rating": 6.8,
-    "numberOfVotes": 5,
-    "releaseDate": 1575412560,
-    "sourceUrl": "https://www.spigotmc.org/resources/promotionessentials.1184/history"
-  }
+  "downloadUrl": "resources/promotionessentials.1184/download?version=303613",
+  "numberOfDownloads": 12,
+  "rating": 6.8,
+  "numberOfVotes": 5,
+  "releaseDate": 1575412560,
+  "sourceUrl": "https://www.spigotmc.org/resources/promotionessentials.1184/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.12",
-  "version": {
-    "name": "1.0.12",
-    "downloadUrl": "resources/lonelibs.75974/download?version=404734",
-    "numberOfDownloads": 675,
-    "rating": 4,
-    "numberOfVotes": 1,
-    "releaseDate": 1624279140,
-    "sourceUrl": "https://www.spigotmc.org/resources/lonelibs.75974/history"
-  }
+  "downloadUrl": "resources/lonelibs.75974/download?version=404734",
+  "numberOfDownloads": 675,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releaseDate": 1624279140,
+  "sourceUrl": "https://www.spigotmc.org/resources/lonelibs.75974/history"
 }

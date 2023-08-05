@@ -1,12 +1,9 @@
 {
   "name": "3.0.0",
-  "version": {
-    "name": "3.0.0",
-    "downloadUrl": "resources/insights-worldedit-extension.88948/download?version=425432",
-    "numberOfDownloads": 50,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1635855900,
-    "sourceUrl": "https://www.spigotmc.org/resources/insights-worldedit-extension.88948/history"
-  }
+  "downloadUrl": "resources/insights-worldedit-extension.88948/download?version=425432",
+  "numberOfDownloads": 50,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1635855900,
+  "sourceUrl": "https://www.spigotmc.org/resources/insights-worldedit-extension.88948/history"
 }

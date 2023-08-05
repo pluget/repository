@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/vulcanbetteralerts.105050/download?version=468286",
-    "numberOfDownloads": 14,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1662229800,
-    "sourceUrl": "https://www.spigotmc.org/resources/105050/history/"
-  }
+  "downloadUrl": "resources/vulcanbetteralerts.105050/download?version=468286",
+  "numberOfDownloads": 14,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1662229800,
+  "sourceUrl": "https://www.spigotmc.org/resources/105050/history/"
 }

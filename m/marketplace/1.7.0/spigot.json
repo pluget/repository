@@ -1,12 +1,9 @@
 {
   "name": "1.7.0",
-  "version": {
-    "name": "1.7.0",
-    "downloadUrl": "resources/marketplace-1-12-1-19-4.92212/download?version=484017",
-    "numberOfDownloads": 510,
-    "rating": 6,
-    "numberOfVotes": 1,
-    "releaseDate": 1674999540,
-    "sourceUrl": "https://www.spigotmc.org/resources/marketplace-1-12-1-19-4.92212/history"
-  }
+  "downloadUrl": "resources/marketplace-1-12-1-19-4.92212/download?version=484017",
+  "numberOfDownloads": 510,
+  "rating": 6,
+  "numberOfVotes": 1,
+  "releaseDate": 1674999540,
+  "sourceUrl": "https://www.spigotmc.org/resources/marketplace-1-12-1-19-4.92212/history"
 }

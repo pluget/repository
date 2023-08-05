@@ -1,12 +1,9 @@
 {
   "name": "1.1.3",
-  "version": {
-    "name": "1.1.3",
-    "downloadUrl": "resources/safeadmins-1-12-x-1-19-x.104965/download?version=468518",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1662396120,
-    "sourceUrl": "https://www.spigotmc.org/resources/104965/history/"
-  }
+  "downloadUrl": "resources/safeadmins-1-12-x-1-19-x.104965/download?version=468518",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1662396120,
+  "sourceUrl": "https://www.spigotmc.org/resources/104965/history/"
 }

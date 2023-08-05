@@ -1,12 +1,9 @@
 {
-  "name": "1.5.0",
-  "version": {
-    "name": "1.5",
-    "downloadUrl": "resources/anarchystats.66089/download?version=454864",
-    "numberOfDownloads": 190,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1654532220,
-    "sourceUrl": "https://www.spigotmc.org/resources/66089/history/"
-  }
+  "name": "1.5",
+  "downloadUrl": "resources/anarchystats.66089/download?version=454864",
+  "numberOfDownloads": 190,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1654532220,
+  "sourceUrl": "https://www.spigotmc.org/resources/66089/history/"
 }

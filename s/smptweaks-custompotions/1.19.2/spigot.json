@@ -1,12 +1,9 @@
 {
   "name": "1.19.2",
-  "version": {
-    "name": "1.19.2",
-    "downloadUrl": "resources/smptweaks-custompotions.103719/download?version=473336",
-    "numberOfDownloads": 95,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1666652700,
-    "sourceUrl": "https://www.spigotmc.org/resources/103719/history/"
-  }
+  "downloadUrl": "resources/smptweaks-custompotions.103719/download?version=473336",
+  "numberOfDownloads": 95,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1666652700,
+  "sourceUrl": "https://www.spigotmc.org/resources/103719/history/"
 }

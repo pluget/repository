@@ -1,12 +1,9 @@
 {
   "name": "1.6.2",
-  "version": {
-    "name": "1.6.2",
-    "downloadUrl": "resources/serversystem.78974/download?version=374621",
-    "numberOfDownloads": 196,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1609323120,
-    "sourceUrl": "https://www.spigotmc.org/resources/serversystem.78974/history"
-  }
+  "downloadUrl": "resources/serversystem.78974/download?version=374621",
+  "numberOfDownloads": 196,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1609323120,
+  "sourceUrl": "https://www.spigotmc.org/resources/serversystem.78974/history"
 }

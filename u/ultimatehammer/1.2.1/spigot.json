@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/ultimatehammer.78986/download?version=333001",
-    "numberOfDownloads": 37,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1590149340,
-    "sourceUrl": "https://www.spigotmc.org/resources/ultimatehammer.78986/history"
-  }
+  "downloadUrl": "resources/ultimatehammer.78986/download?version=333001",
+  "numberOfDownloads": 37,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1590149340,
+  "sourceUrl": "https://www.spigotmc.org/resources/ultimatehammer.78986/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.19.2",
-  "version": {
-    "name": "1.19.2",
-    "downloadUrl": "resources/autobenvenuto.104749/download?version=466654",
-    "numberOfDownloads": 18,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1661178300,
-    "sourceUrl": "https://www.spigotmc.org/resources/autobenvenuto.104749/history"
-  }
+  "downloadUrl": "resources/autobenvenuto.104749/download?version=466654",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1661178300,
+  "sourceUrl": "https://www.spigotmc.org/resources/autobenvenuto.104749/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "4.9.18",
-  "version": {
-    "name": "4.9.18",
-    "downloadUrl": "resources/flightcontrol-1-19-beta-on-discord.55168/download?version=437684",
-    "numberOfDownloads": 230,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1642780860,
-    "sourceUrl": "https://www.spigotmc.org/resources/flightcontrol-1-19-beta-on-discord.55168/history"
-  }
+  "downloadUrl": "resources/flightcontrol-1-19-beta-on-discord.55168/download?version=437684",
+  "numberOfDownloads": 230,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1642780860,
+  "sourceUrl": "https://www.spigotmc.org/resources/flightcontrol-1-19-beta-on-discord.55168/history"
 }

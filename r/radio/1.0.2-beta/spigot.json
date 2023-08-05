@@ -1,12 +1,9 @@
 {
   "name": "1.0.2-beta",
-  "version": {
-    "name": "1.0.2-beta",
-    "downloadUrl": "resources/radio.100251/download?version=442706",
-    "numberOfDownloads": 33,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1645815240,
-    "sourceUrl": "https://www.spigotmc.org/resources/radio.100251/history"
-  }
+  "downloadUrl": "resources/radio.100251/download?version=442706",
+  "numberOfDownloads": 33,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1645815240,
+  "sourceUrl": "https://www.spigotmc.org/resources/radio.100251/history"
 }

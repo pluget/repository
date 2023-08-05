@@ -1,12 +1,9 @@
 {
   "name": "1.5.7",
-  "version": {
-    "name": "1.5.7",
-    "downloadUrl": "resources/grappling-hook.22854/download?version=87341",
-    "numberOfDownloads": 700,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1462518300,
-    "sourceUrl": "https://www.spigotmc.org/resources/grappling-hook.22854/history"
-  }
+  "downloadUrl": "resources/grappling-hook.22854/download?version=87341",
+  "numberOfDownloads": 700,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1462518300,
+  "sourceUrl": "https://www.spigotmc.org/resources/grappling-hook.22854/history"
 }

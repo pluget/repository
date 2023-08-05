@@ -1,12 +1,9 @@
 {
-  "name": "0.1.0",
-  "version": {
-    "name": "0.1",
-    "downloadUrl": "resources/simple-webserver.102134/download?version=453051",
-    "numberOfDownloads": 45,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1653162600,
-    "sourceUrl": "https://www.spigotmc.org/resources/102134/history/"
-  }
+  "name": "0.1",
+  "downloadUrl": "resources/simple-webserver.102134/download?version=453051",
+  "numberOfDownloads": 45,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1653162600,
+  "sourceUrl": "https://www.spigotmc.org/resources/102134/history/"
 }

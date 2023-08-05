@@ -1,12 +1,9 @@
 {
   "name": "2.10.6",
-  "version": {
-    "name": "2.10.6",
-    "downloadUrl": "resources/dynamicshop-3-1-16-5-1-19-4.65603/download?version=288652",
-    "numberOfDownloads": 6,
-    "rating": 9.2222222222222,
-    "numberOfVotes": 18,
-    "releaseDate": 1565517960,
-    "sourceUrl": "https://www.spigotmc.org/resources/dynamicshop-3-1-16-5-1-19-4.65603/history"
-  }
+  "downloadUrl": "resources/dynamicshop-3-1-16-5-1-19-4.65603/download?version=288652",
+  "numberOfDownloads": 6,
+  "rating": 9.2222222222222,
+  "numberOfVotes": 18,
+  "releaseDate": 1565517960,
+  "sourceUrl": "https://www.spigotmc.org/resources/dynamicshop-3-1-16-5-1-19-4.65603/history"
 }

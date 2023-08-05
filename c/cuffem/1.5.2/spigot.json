@@ -1,12 +1,9 @@
 {
   "name": "1.5.2",
-  "version": {
-    "name": "1.5.2",
-    "downloadUrl": "resources/cuffem.61773/download?version=451090",
-    "numberOfDownloads": 350,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1651599180,
-    "sourceUrl": "https://www.spigotmc.org/resources/cuffem.61773/history"
-  }
+  "downloadUrl": "resources/cuffem.61773/download?version=451090",
+  "numberOfDownloads": 350,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1651599180,
+  "sourceUrl": "https://www.spigotmc.org/resources/cuffem.61773/history"
 }

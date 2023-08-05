@@ -1,12 +1,9 @@
 {
   "name": "10.0.20",
-  "version": {
-    "name": "10.0.20",
-    "downloadUrl": "resources/libs-disguises-free.81/download?version=369216",
-    "numberOfDownloads": 9,
-    "rating": 6,
-    "numberOfVotes": 4,
-    "releaseDate": 1606457640,
-    "sourceUrl": "https://www.spigotmc.org/resources/81/history/"
-  }
+  "downloadUrl": "resources/libs-disguises-free.81/download?version=369216",
+  "numberOfDownloads": 9,
+  "rating": 6,
+  "numberOfVotes": 4,
+  "releaseDate": 1606457640,
+  "sourceUrl": "https://www.spigotmc.org/resources/81/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.4.0",
-  "version": {
-    "name": "1.4",
-    "downloadUrl": "resources/sentinel.22017/download?version=183141",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 5,
-    "releaseDate": 1504593720,
-    "sourceUrl": "https://www.spigotmc.org/resources/sentinel.22017/history"
-  }
+  "name": "1.4",
+  "downloadUrl": "resources/sentinel.22017/download?version=183141",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 5,
+  "releaseDate": 1504593720,
+  "sourceUrl": "https://www.spigotmc.org/resources/sentinel.22017/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.5.1",
-  "version": {
-    "name": "1.5.1",
-    "downloadUrl": "resources/skinfixer.82705/download?version=403199",
-    "numberOfDownloads": 467,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1623602100,
-    "sourceUrl": "https://www.spigotmc.org/resources/skinfixer.82705/history"
-  }
+  "downloadUrl": "resources/skinfixer.82705/download?version=403199",
+  "numberOfDownloads": 467,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1623602100,
+  "sourceUrl": "https://www.spigotmc.org/resources/skinfixer.82705/history"
 }

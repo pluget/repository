@@ -1,12 +1,9 @@
 {
-  "name": "1.2.1",
-  "version": {
-    "name": "v-1.2.1",
-    "downloadUrl": "resources/http-requests.101253/download?version=448930",
-    "numberOfDownloads": 16,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1650021060,
-    "sourceUrl": "https://www.spigotmc.org/resources/http-requests.101253/history"
-  }
+  "name": "v-1.2.1",
+  "downloadUrl": "resources/http-requests.101253/download?version=448930",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1650021060,
+  "sourceUrl": "https://www.spigotmc.org/resources/http-requests.101253/history"
 }

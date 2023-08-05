@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/fyg-plugin.99894/download?version=440533",
-    "numberOfDownloads": 16,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1644432900,
-    "sourceUrl": "https://www.spigotmc.org/resources/99894/history/"
-  }
+  "downloadUrl": "resources/fyg-plugin.99894/download?version=440533",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1644432900,
+  "sourceUrl": "https://www.spigotmc.org/resources/99894/history/"
 }

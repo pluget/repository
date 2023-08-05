@@ -1,12 +1,9 @@
 {
-  "name": "1.5.0-BETA-pre.2",
-  "version": {
-    "name": "1.5.0-BETA",
-    "downloadUrl": "resources/rpgchat-1-8-1-19-x.87571/download?version=405051",
-    "numberOfDownloads": 57,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1624424280,
-    "sourceUrl": "https://www.spigotmc.org/resources/87571/history/"
-  }
+  "name": "1.5.0-BETA",
+  "downloadUrl": "resources/rpgchat-1-8-1-19-x.87571/download?version=405051",
+  "numberOfDownloads": 57,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1624424280,
+  "sourceUrl": "https://www.spigotmc.org/resources/87571/history/"
 }

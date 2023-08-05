@@ -1,12 +1,9 @@
 {
   "name": "2.1.2",
-  "version": {
-    "name": "2.1.2",
-    "downloadUrl": "resources/asyncworldedit.327/download?version=10087",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1420737300,
-    "sourceUrl": "https://www.spigotmc.org/resources/asyncworldedit.327/history"
-  }
+  "downloadUrl": "resources/asyncworldedit.327/download?version=10087",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1420737300,
+  "sourceUrl": "https://www.spigotmc.org/resources/asyncworldedit.327/history"
 }

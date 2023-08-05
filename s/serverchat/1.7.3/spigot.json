@@ -1,12 +1,9 @@
 {
   "name": "1.7.3",
-  "version": {
-    "name": "1.7.3",
-    "downloadUrl": "resources/serverchat.43494/download?version=284258",
-    "numberOfDownloads": 60,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1563360720,
-    "sourceUrl": "https://www.spigotmc.org/resources/serverchat.43494/history"
-  }
+  "downloadUrl": "resources/serverchat.43494/download?version=284258",
+  "numberOfDownloads": 60,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1563360720,
+  "sourceUrl": "https://www.spigotmc.org/resources/serverchat.43494/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "5.0.13",
-  "version": {
-    "name": "5.0.13",
-    "downloadUrl": "resources/tigerreports.25773/download?version=451762",
-    "numberOfDownloads": 83,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1652126160,
-    "sourceUrl": "https://www.spigotmc.org/resources/tigerreports.25773/history"
-  }
+  "downloadUrl": "resources/tigerreports.25773/download?version=451762",
+  "numberOfDownloads": 83,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1652126160,
+  "sourceUrl": "https://www.spigotmc.org/resources/tigerreports.25773/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "0.8.34",
-  "version": {
-    "name": "0.8.34",
-    "downloadUrl": "resources/pvp-stats.59124/download?version=245579",
-    "numberOfDownloads": 109,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1540380900,
-    "sourceUrl": "https://www.spigotmc.org/resources/pvp-stats.59124/history"
-  }
+  "downloadUrl": "resources/pvp-stats.59124/download?version=245579",
+  "numberOfDownloads": 109,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1540380900,
+  "sourceUrl": "https://www.spigotmc.org/resources/pvp-stats.59124/history"
 }

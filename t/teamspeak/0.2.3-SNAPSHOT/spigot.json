@@ -1,12 +1,9 @@
 {
   "name": "0.2.3-SNAPSHOT",
-  "version": {
-    "name": "0.2.3-SNAPSHOT",
-    "downloadUrl": "resources/teamspeak-extension-for-party-and-friends-extended-edition.41214/download?version=161177",
-    "numberOfDownloads": 53,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1495545240,
-    "sourceUrl": "https://www.spigotmc.org/resources/teamspeak-extension-for-party-and-friends-extended-edition.41214/history"
-  }
+  "downloadUrl": "resources/teamspeak-extension-for-party-and-friends-extended-edition.41214/download?version=161177",
+  "numberOfDownloads": 53,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1495545240,
+  "sourceUrl": "https://www.spigotmc.org/resources/teamspeak-extension-for-party-and-friends-extended-edition.41214/history"
 }

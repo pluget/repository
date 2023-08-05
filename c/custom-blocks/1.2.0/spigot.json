@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/custom-blocks-free-executable-blocks.93406/download?version=413139",
-    "numberOfDownloads": 64,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1628104560,
-    "sourceUrl": "https://www.spigotmc.org/resources/93406/history/"
-  }
+  "downloadUrl": "resources/custom-blocks-free-executable-blocks.93406/download?version=413139",
+  "numberOfDownloads": 64,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1628104560,
+  "sourceUrl": "https://www.spigotmc.org/resources/93406/history/"
 }

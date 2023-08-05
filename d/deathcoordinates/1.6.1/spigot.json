@@ -1,12 +1,9 @@
 {
   "name": "1.6.1",
-  "version": {
-    "name": "1.6.1",
-    "downloadUrl": "resources/deathcoordinates-1-8-1-19.43318/download?version=294100",
-    "numberOfDownloads": 2,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 6,
-    "releaseDate": 1568563380,
-    "sourceUrl": "https://www.spigotmc.org/resources/deathcoordinates-1-8-1-19.43318/history"
-  }
+  "downloadUrl": "resources/deathcoordinates-1-8-1-19.43318/download?version=294100",
+  "numberOfDownloads": 2,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 6,
+  "releaseDate": 1568563380,
+  "sourceUrl": "https://www.spigotmc.org/resources/deathcoordinates-1-8-1-19.43318/history"
 }

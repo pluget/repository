@@ -1,12 +1,9 @@
 {
   "name": "1.6.0",
-  "version": {
-    "name": "1.6.0",
-    "downloadUrl": "resources/itemsoulbind.64541/download?version=465616",
-    "numberOfDownloads": 373,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1660499160,
-    "sourceUrl": "https://www.spigotmc.org/resources/itemsoulbind.64541/history"
-  }
+  "downloadUrl": "resources/itemsoulbind.64541/download?version=465616",
+  "numberOfDownloads": 373,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1660499160,
+  "sourceUrl": "https://www.spigotmc.org/resources/itemsoulbind.64541/history"
 }

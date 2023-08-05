@@ -1,12 +1,9 @@
 {
   "name": "2.2.3",
-  "version": {
-    "name": "2.2.3",
-    "downloadUrl": "resources/bluemap-residence.107389/download?version=483275",
-    "numberOfDownloads": 18,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1674504000,
-    "sourceUrl": "https://www.spigotmc.org/resources/bluemap-residence.107389/history"
-  }
+  "downloadUrl": "resources/bluemap-residence.107389/download?version=483275",
+  "numberOfDownloads": 18,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1674504000,
+  "sourceUrl": "https://www.spigotmc.org/resources/bluemap-residence.107389/history"
 }

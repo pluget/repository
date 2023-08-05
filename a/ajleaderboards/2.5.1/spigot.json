@@ -1,12 +1,9 @@
 {
   "name": "2.5.1",
-  "version": {
-    "name": "2.5.1",
-    "downloadUrl": "resources/ajleaderboards.85548/download?version=451859",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 6,
-    "releaseDate": 1652219520,
-    "sourceUrl": "https://www.spigotmc.org/resources/ajleaderboards.85548/history"
-  }
+  "downloadUrl": "resources/ajleaderboards.85548/download?version=451859",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 6,
+  "releaseDate": 1652219520,
+  "sourceUrl": "https://www.spigotmc.org/resources/ajleaderboards.85548/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.6.6",
-  "version": {
-    "name": "2.6.6",
-    "downloadUrl": "resources/venturechat.771/download?version=62975",
-    "numberOfDownloads": 163,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1452635040,
-    "sourceUrl": "https://www.spigotmc.org/resources/venturechat.771/history"
-  }
+  "downloadUrl": "resources/venturechat.771/download?version=62975",
+  "numberOfDownloads": 163,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1452635040,
+  "sourceUrl": "https://www.spigotmc.org/resources/venturechat.771/history"
 }

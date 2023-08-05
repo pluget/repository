@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/no-chat-reports.102990/download?version=464780",
-    "numberOfDownloads": 5,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1659995760,
-    "sourceUrl": "https://www.spigotmc.org/resources/102990/history/"
-  }
+  "downloadUrl": "resources/no-chat-reports.102990/download?version=464780",
+  "numberOfDownloads": 5,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1659995760,
+  "sourceUrl": "https://www.spigotmc.org/resources/102990/history/"
 }

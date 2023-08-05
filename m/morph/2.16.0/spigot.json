@@ -1,12 +1,9 @@
 {
-  "name": "2.16.0",
-  "version": {
-    "name": "Morph 2.16",
-    "downloadUrl": "resources/morph.8846/download?version=313826",
-    "numberOfDownloads": 15,
-    "rating": 9.2,
-    "numberOfVotes": 5,
-    "releaseDate": 1581445080,
-    "sourceUrl": "https://www.spigotmc.org/resources/morph.8846/history"
-  }
+  "name": "Morph 2.16",
+  "downloadUrl": "resources/morph.8846/download?version=313826",
+  "numberOfDownloads": 15,
+  "rating": 9.2,
+  "numberOfVotes": 5,
+  "releaseDate": 1581445080,
+  "sourceUrl": "https://www.spigotmc.org/resources/morph.8846/history"
 }

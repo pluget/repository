@@ -1,12 +1,9 @@
 {
   "name": "1.9.1",
-  "version": {
-    "name": "1.9.1",
-    "downloadUrl": "resources/advancedcore.28295/download?version=124531",
-    "numberOfDownloads": 145,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1479387540,
-    "sourceUrl": "https://www.spigotmc.org/resources/advancedcore.28295/history"
-  }
+  "downloadUrl": "resources/advancedcore.28295/download?version=124531",
+  "numberOfDownloads": 145,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1479387540,
+  "sourceUrl": "https://www.spigotmc.org/resources/advancedcore.28295/history"
 }

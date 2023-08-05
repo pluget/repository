@@ -1,12 +1,9 @@
 {
   "name": "1.12.2",
-  "version": {
-    "name": "1.12.2",
-    "downloadUrl": "resources/minetopia-core.99659/download?version=439221",
-    "numberOfDownloads": 57,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1643632200,
-    "sourceUrl": "https://www.spigotmc.org/resources/minetopia-core.99659/history"
-  }
+  "downloadUrl": "resources/minetopia-core.99659/download?version=439221",
+  "numberOfDownloads": 57,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1643632200,
+  "sourceUrl": "https://www.spigotmc.org/resources/minetopia-core.99659/history"
 }

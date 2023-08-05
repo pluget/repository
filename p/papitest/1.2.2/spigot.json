@@ -1,12 +1,9 @@
 {
   "name": "1.2.2",
-  "version": {
-    "name": "1.2.2",
-    "downloadUrl": "resources/papitest-placeholderapi-tester-1-8-x-1-19-x.90439/download?version=415652",
-    "numberOfDownloads": 135,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1629383580,
-    "sourceUrl": "https://www.spigotmc.org/resources/papitest-placeholderapi-tester-1-8-x-1-19-x.90439/history"
-  }
+  "downloadUrl": "resources/papitest-placeholderapi-tester-1-8-x-1-19-x.90439/download?version=415652",
+  "numberOfDownloads": 135,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1629383580,
+  "sourceUrl": "https://www.spigotmc.org/resources/papitest-placeholderapi-tester-1-8-x-1-19-x.90439/history"
 }

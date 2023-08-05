@@ -1,12 +1,9 @@
 {
   "name": "1.3.2",
-  "version": {
-    "name": "1.3.2",
-    "downloadUrl": "resources/msg-plugin.80931/download?version=471707",
-    "numberOfDownloads": 1,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1665150900,
-    "sourceUrl": "https://www.spigotmc.org/resources/msg-plugin.80931/history"
-  }
+  "downloadUrl": "resources/msg-plugin.80931/download?version=471707",
+  "numberOfDownloads": 1,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1665150900,
+  "sourceUrl": "https://www.spigotmc.org/resources/msg-plugin.80931/history"
 }

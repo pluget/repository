@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/commandtool-1-13-1-19-create-block-commands.95664/download?version=419494",
-    "numberOfDownloads": 106,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1631643480,
-    "sourceUrl": "https://www.spigotmc.org/resources/95664/history/"
-  }
+  "downloadUrl": "resources/commandtool-1-13-1-19-create-block-commands.95664/download?version=419494",
+  "numberOfDownloads": 106,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1631643480,
+  "sourceUrl": "https://www.spigotmc.org/resources/95664/history/"
 }

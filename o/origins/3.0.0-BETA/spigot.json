@@ -1,12 +1,9 @@
 {
-  "name": "3.0.0-BETA",
-  "version": {
-    "name": "Build 3-BETA",
-    "downloadUrl": "resources/origins-bukkit-1-17-1-19-2.97926/download?version=457482",
-    "numberOfDownloads": 210,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1655862540,
-    "sourceUrl": "https://www.spigotmc.org/resources/origins-bukkit-1-17-1-19-2.97926/history"
-  }
+  "name": "Build 3-BETA",
+  "downloadUrl": "resources/origins-bukkit-1-17-1-19-2.97926/download?version=457482",
+  "numberOfDownloads": 210,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1655862540,
+  "sourceUrl": "https://www.spigotmc.org/resources/origins-bukkit-1-17-1-19-2.97926/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "0.0.4",
-  "version": {
-    "name": "0.0.4",
-    "downloadUrl": "resources/halloweenhunter-1-7-1-18.40735/download?version=169028",
-    "numberOfDownloads": 604,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1498888320,
-    "sourceUrl": "https://www.spigotmc.org/resources/halloweenhunter-1-7-1-18.40735/history"
-  }
+  "downloadUrl": "resources/halloweenhunter-1-7-1-18.40735/download?version=169028",
+  "numberOfDownloads": 604,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1498888320,
+  "sourceUrl": "https://www.spigotmc.org/resources/halloweenhunter-1-7-1-18.40735/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.5-SNAPSHOT",
-  "version": {
-    "name": "1.0.5-SNAPSHOT",
-    "downloadUrl": "resources/%E2%9E%A5-polar-warps-1-18-1-19.104605/download?version=467525",
-    "numberOfDownloads": 11,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1661733720,
-    "sourceUrl": "https://www.spigotmc.org/resources/%E2%9E%A5-polar-warps-1-18-1-19.104605/history"
-  }
+  "downloadUrl": "resources/%E2%9E%A5-polar-warps-1-18-1-19.104605/download?version=467525",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1661733720,
+  "sourceUrl": "https://www.spigotmc.org/resources/%E2%9E%A5-polar-warps-1-18-1-19.104605/history"
 }

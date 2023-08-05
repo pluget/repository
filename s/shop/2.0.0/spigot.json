@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0",
-  "version": {
-    "name": "2.0",
-    "downloadUrl": "resources/shop.93933/download?version=407323",
-    "numberOfDownloads": 50,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1625491680,
-    "sourceUrl": "https://www.spigotmc.org/resources/shop.93933/history"
-  }
+  "name": "2.0",
+  "downloadUrl": "resources/shop.93933/download?version=407323",
+  "numberOfDownloads": 50,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1625491680,
+  "sourceUrl": "https://www.spigotmc.org/resources/shop.93933/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.0-Beta",
-  "version": {
-    "name": "1.0.0-Beta",
-    "downloadUrl": "resources/nobuildplus.101815/download?version=451136",
-    "numberOfDownloads": 14,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1651662300,
-    "sourceUrl": "https://www.spigotmc.org/resources/nobuildplus.101815/history"
-  }
+  "downloadUrl": "resources/nobuildplus.101815/download?version=451136",
+  "numberOfDownloads": 14,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1651662300,
+  "sourceUrl": "https://www.spigotmc.org/resources/nobuildplus.101815/history"
 }

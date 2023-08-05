@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-BETA",
-  "version": {
-    "name": "1.0-BETA",
-    "downloadUrl": "resources/crateplugin.106867/download?version=479124",
-    "numberOfDownloads": 15,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1671627360,
-    "sourceUrl": "https://www.spigotmc.org/resources/crateplugin.106867/history"
-  }
+  "name": "1.0-BETA",
+  "downloadUrl": "resources/crateplugin.106867/download?version=479124",
+  "numberOfDownloads": 15,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1671627360,
+  "sourceUrl": "https://www.spigotmc.org/resources/crateplugin.106867/history"
 }

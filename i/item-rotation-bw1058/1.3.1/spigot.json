@@ -1,12 +1,9 @@
 {
   "name": "1.3.1",
-  "version": {
-    "name": "1.3.1",
-    "downloadUrl": "resources/item-rotation-bw1058.107016/download?version=492562",
-    "numberOfDownloads": 13,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1680969.923,
-    "sourceUrl": "https://www.spigotmc.org/resources/107016/history/"
-  }
+  "downloadUrl": "resources/item-rotation-bw1058.107016/download?version=492562",
+  "numberOfDownloads": 13,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1680969.923,
+  "sourceUrl": "https://www.spigotmc.org/resources/107016/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "2.7.0",
-  "version": {
-    "name": "BETA2.7",
-    "downloadUrl": "resources/ankacore-fix.103907/download?version=465154",
-    "numberOfDownloads": 31,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660241520,
-    "sourceUrl": "https://www.spigotmc.org/resources/ankacore-fix.103907/history"
-  }
+  "name": "BETA2.7",
+  "downloadUrl": "resources/ankacore-fix.103907/download?version=465154",
+  "numberOfDownloads": 31,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660241520,
+  "sourceUrl": "https://www.spigotmc.org/resources/ankacore-fix.103907/history"
 }

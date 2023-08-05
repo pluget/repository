@@ -1,12 +1,9 @@
 {
-  "name": "3.1.2-1-RELEASE",
-  "version": {
-    "name": "3.1.2.1-RELEASE",
-    "downloadUrl": "resources/runecraft.39771/download?version=262105",
-    "numberOfDownloads": 379,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1550762700,
-    "sourceUrl": "https://www.spigotmc.org/resources/runecraft.39771/history"
-  }
+  "name": "3.1.2.1-RELEASE",
+  "downloadUrl": "resources/runecraft.39771/download?version=262105",
+  "numberOfDownloads": 379,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1550762700,
+  "sourceUrl": "https://www.spigotmc.org/resources/runecraft.39771/history"
 }

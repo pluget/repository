@@ -1,12 +1,9 @@
 {
-  "name": "1.8.1-12]",
-  "version": {
-    "name": "[1.8-1.12]",
-    "downloadUrl": "resources/hypixelitemsdamage.105811/download?version=472673",
-    "numberOfDownloads": 26,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1665992220,
-    "sourceUrl": "https://www.spigotmc.org/resources/hypixelitemsdamage.105811/history"
-  }
+  "name": "[1.8-1.12]",
+  "downloadUrl": "resources/hypixelitemsdamage.105811/download?version=472673",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1665992220,
+  "sourceUrl": "https://www.spigotmc.org/resources/hypixelitemsdamage.105811/history"
 }

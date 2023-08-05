@@ -1,12 +1,9 @@
 {
   "name": "2.0.0-BETA3",
-  "version": {
-    "name": "2.0.0-BETA3",
-    "downloadUrl": "resources/enhanced-glist-bungeecord-velocity.53295/download?version=470548",
-    "numberOfDownloads": 52,
-    "rating": 6,
-    "numberOfVotes": 1,
-    "releaseDate": 1664132160,
-    "sourceUrl": "https://www.spigotmc.org/resources/enhanced-glist-bungeecord-velocity.53295/history"
-  }
+  "downloadUrl": "resources/enhanced-glist-bungeecord-velocity.53295/download?version=470548",
+  "numberOfDownloads": 52,
+  "rating": 6,
+  "numberOfVotes": 1,
+  "releaseDate": 1664132160,
+  "sourceUrl": "https://www.spigotmc.org/resources/enhanced-glist-bungeecord-velocity.53295/history"
 }

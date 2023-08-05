@@ -1,12 +1,9 @@
 {
   "name": "0.1.5",
-  "version": {
-    "name": "0.1.5",
-    "downloadUrl": "resources/eastereggs-1-7-1-18.39523/download?version=269962",
-    "numberOfDownloads": 227,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1555933920,
-    "sourceUrl": "https://www.spigotmc.org/resources/eastereggs-1-7-1-18.39523/history"
-  }
+  "downloadUrl": "resources/eastereggs-1-7-1-18.39523/download?version=269962",
+  "numberOfDownloads": 227,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1555933920,
+  "sourceUrl": "https://www.spigotmc.org/resources/eastereggs-1-7-1-18.39523/history"
 }

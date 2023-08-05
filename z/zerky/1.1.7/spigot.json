@@ -1,12 +1,9 @@
 {
   "name": "1.1.7",
-  "version": {
-    "name": "1.1.7",
-    "downloadUrl": "resources/zerky.102800/download?version=490028",
-    "numberOfDownloads": 11,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1679328540,
-    "sourceUrl": "https://www.spigotmc.org/resources/102800/history/"
-  }
+  "downloadUrl": "resources/zerky.102800/download?version=490028",
+  "numberOfDownloads": 11,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1679328540,
+  "sourceUrl": "https://www.spigotmc.org/resources/102800/history/"
 }

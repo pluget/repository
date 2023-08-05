@@ -1,12 +1,9 @@
 {
-  "name": "1.6.1",
-  "version": {
-    "name": "v. 1.6.1",
-    "downloadUrl": "resources/solidfix.54103/download?version=215834",
-    "numberOfDownloads": 128,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1522804500,
-    "sourceUrl": "https://www.spigotmc.org/resources/solidfix.54103/history"
-  }
+  "name": "v. 1.6.1",
+  "downloadUrl": "resources/solidfix.54103/download?version=215834",
+  "numberOfDownloads": 128,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1522804500,
+  "sourceUrl": "https://www.spigotmc.org/resources/solidfix.54103/history"
 }

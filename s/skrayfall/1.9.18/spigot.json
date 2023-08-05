@@ -1,12 +1,9 @@
 {
   "name": "1.9.18",
-  "version": {
-    "name": "1.9.18",
-    "downloadUrl": "resources/skrayfall.10012/download?version=290606",
-    "numberOfDownloads": 3,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1566538980,
-    "sourceUrl": "https://www.spigotmc.org/resources/10012/history/"
-  }
+  "downloadUrl": "resources/skrayfall.10012/download?version=290606",
+  "numberOfDownloads": 3,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1566538980,
+  "sourceUrl": "https://www.spigotmc.org/resources/10012/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "0.17.1",
-  "version": {
-    "name": "0.17.1",
-    "downloadUrl": "resources/dungeonsxl.9488/download?version=243995",
-    "numberOfDownloads": 650,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1539365580,
-    "sourceUrl": "https://www.spigotmc.org/resources/dungeonsxl.9488/history"
-  }
+  "downloadUrl": "resources/dungeonsxl.9488/download?version=243995",
+  "numberOfDownloads": 650,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1539365580,
+  "sourceUrl": "https://www.spigotmc.org/resources/dungeonsxl.9488/history"
 }

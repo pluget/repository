@@ -1,12 +1,9 @@
 {
   "name": "5.5.5",
-  "version": {
-    "name": "5.5.5",
-    "downloadUrl": "resources/building-game.10547/download?version=210023",
-    "numberOfDownloads": 412,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1519580460,
-    "sourceUrl": "https://www.spigotmc.org/resources/10547/history/"
-  }
+  "downloadUrl": "resources/building-game.10547/download?version=210023",
+  "numberOfDownloads": 412,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1519580460,
+  "sourceUrl": "https://www.spigotmc.org/resources/10547/history/"
 }

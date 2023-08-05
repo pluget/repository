@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/velocitybanksync-networkbanksync-addon-mysql-websockets-velocity.103921/download?version=463389",
-    "numberOfDownloads": 36,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1659316620,
-    "sourceUrl": "https://www.spigotmc.org/resources/velocitybanksync-networkbanksync-addon-mysql-websockets-velocity.103921/history"
-  }
+  "downloadUrl": "resources/velocitybanksync-networkbanksync-addon-mysql-websockets-velocity.103921/download?version=463389",
+  "numberOfDownloads": 36,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1659316620,
+  "sourceUrl": "https://www.spigotmc.org/resources/velocitybanksync-networkbanksync-addon-mysql-websockets-velocity.103921/history"
 }

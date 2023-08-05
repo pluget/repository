@@ -1,12 +1,9 @@
 {
   "name": "4.8.2-SNAPSHOT",
-  "version": {
-    "name": "4.8.2-SNAPSHOT",
-    "downloadUrl": "resources/animatedframes.5583/download?version=247899",
-    "numberOfDownloads": 208,
-    "rating": 6,
-    "numberOfVotes": 1,
-    "releaseDate": 1541882040,
-    "sourceUrl": "https://www.spigotmc.org/resources/animatedframes.5583/history"
-  }
+  "downloadUrl": "resources/animatedframes.5583/download?version=247899",
+  "numberOfDownloads": 208,
+  "rating": 6,
+  "numberOfVotes": 1,
+  "releaseDate": 1541882040,
+  "sourceUrl": "https://www.spigotmc.org/resources/animatedframes.5583/history"
 }

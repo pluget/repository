@@ -1,12 +1,9 @@
 {
-  "name": "1.4.0-pre.1",
-  "version": {
-    "name": "1.4.0",
-    "downloadUrl": "resources/angelchest-free.60383/download?version=240701",
-    "numberOfDownloads": 122,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1537277280,
-    "sourceUrl": "https://www.spigotmc.org/resources/angelchest-free.60383/history"
-  }
+  "name": "1.4.0",
+  "downloadUrl": "resources/angelchest-free.60383/download?version=240701",
+  "numberOfDownloads": 122,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1537277280,
+  "sourceUrl": "https://www.spigotmc.org/resources/angelchest-free.60383/history"
 }

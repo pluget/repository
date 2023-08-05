@@ -1,12 +1,9 @@
 {
   "name": "0.14.0",
-  "version": {
-    "name": "0.14.0",
-    "downloadUrl": "resources/librelogin-authorization-plugin-automatic-login-2fa.101040/download?version=489731",
-    "numberOfDownloads": 226,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1679159640,
-    "sourceUrl": "https://www.spigotmc.org/resources/101040/history/"
-  }
+  "downloadUrl": "resources/librelogin-authorization-plugin-automatic-login-2fa.101040/download?version=489731",
+  "numberOfDownloads": 226,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1679159640,
+  "sourceUrl": "https://www.spigotmc.org/resources/101040/history/"
 }

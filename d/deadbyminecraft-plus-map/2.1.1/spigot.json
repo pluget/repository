@@ -1,12 +1,9 @@
 {
-  "name": "2.1.1",
-  "version": {
-    "name": "Alpha-2.1.1",
-    "downloadUrl": "resources/deadbyminecraft-map.99043/download?version=438289",
-    "numberOfDownloads": 22,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1643063760,
-    "sourceUrl": "https://www.spigotmc.org/resources/deadbyminecraft-map.99043/history"
-  }
+  "name": "Alpha-2.1.1",
+  "downloadUrl": "resources/deadbyminecraft-map.99043/download?version=438289",
+  "numberOfDownloads": 22,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1643063760,
+  "sourceUrl": "https://www.spigotmc.org/resources/deadbyminecraft-map.99043/history"
 }

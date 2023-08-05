@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/loot-chests.99886/download?version=440486",
-    "numberOfDownloads": 41,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1644410160,
-    "sourceUrl": "https://www.spigotmc.org/resources/loot-chests.99886/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/loot-chests.99886/download?version=440486",
+  "numberOfDownloads": 41,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1644410160,
+  "sourceUrl": "https://www.spigotmc.org/resources/loot-chests.99886/history"
 }

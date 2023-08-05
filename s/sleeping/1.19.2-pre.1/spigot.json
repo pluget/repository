@@ -1,12 +1,9 @@
 {
-  "name": "1.19.2-pre.1",
-  "version": {
-    "name": "1.19.2",
-    "downloadUrl": "resources/sleeping.105993/download?version=473807",
-    "numberOfDownloads": 4,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1667109600,
-    "sourceUrl": "https://www.spigotmc.org/resources/105993/history/"
-  }
+  "name": "1.19.2",
+  "downloadUrl": "resources/sleeping.105993/download?version=473807",
+  "numberOfDownloads": 4,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1667109600,
+  "sourceUrl": "https://www.spigotmc.org/resources/105993/history/"
 }

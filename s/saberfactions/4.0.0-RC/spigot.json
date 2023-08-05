@@ -1,12 +1,9 @@
 {
   "name": "4.0.0-RC",
-  "version": {
-    "name": "4.0.0-RC",
-    "downloadUrl": "resources/saberfactions-1-8-1-19-x-discord-gg-saber-the-complete-factions-solution.69771/download?version=475155",
-    "numberOfDownloads": 4,
-    "rating": 3.7142857142858,
-    "numberOfVotes": 7,
-    "releaseDate": 1668296940,
-    "sourceUrl": "https://www.spigotmc.org/resources/saberfactions-1-8-1-19-x-discord-gg-saber-the-complete-factions-solution.69771/history"
-  }
+  "downloadUrl": "resources/saberfactions-1-8-1-19-x-discord-gg-saber-the-complete-factions-solution.69771/download?version=475155",
+  "numberOfDownloads": 4,
+  "rating": 3.7142857142858,
+  "numberOfVotes": 7,
+  "releaseDate": 1668296940,
+  "sourceUrl": "https://www.spigotmc.org/resources/saberfactions-1-8-1-19-x-discord-gg-saber-the-complete-factions-solution.69771/history"
 }

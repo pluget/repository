@@ -1,12 +1,9 @@
 {
-  "name": "1.8.0",
-  "version": {
-    "name": "1.8",
-    "downloadUrl": "resources/znpcs.80940/download?version=366540",
-    "numberOfDownloads": 1,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1605114120,
-    "sourceUrl": "https://www.spigotmc.org/resources/znpcs.80940/history"
-  }
+  "name": "1.8",
+  "downloadUrl": "resources/znpcs.80940/download?version=366540",
+  "numberOfDownloads": 1,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1605114120,
+  "sourceUrl": "https://www.spigotmc.org/resources/znpcs.80940/history"
 }

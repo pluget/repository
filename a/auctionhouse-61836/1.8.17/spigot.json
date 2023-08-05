@@ -1,12 +1,9 @@
 {
   "name": "1.8.17",
-  "version": {
-    "name": "1.8.17",
-    "downloadUrl": "resources/auctionhouse.61836/download?version=303077",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1575023820,
-    "sourceUrl": "https://www.spigotmc.org/resources/61836/history/"
-  }
+  "downloadUrl": "resources/auctionhouse.61836/download?version=303077",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1575023820,
+  "sourceUrl": "https://www.spigotmc.org/resources/61836/history/"
 }

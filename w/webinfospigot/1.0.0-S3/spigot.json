@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-S3",
-  "version": {
-    "name": "1.S3",
-    "downloadUrl": "resources/webinfospigot.78005/download?version=356929",
-    "numberOfDownloads": 185,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1600087200,
-    "sourceUrl": "https://www.spigotmc.org/resources/webinfospigot.78005/history"
-  }
+  "name": "1.S3",
+  "downloadUrl": "resources/webinfospigot.78005/download?version=356929",
+  "numberOfDownloads": 185,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1600087200,
+  "sourceUrl": "https://www.spigotmc.org/resources/webinfospigot.78005/history"
 }

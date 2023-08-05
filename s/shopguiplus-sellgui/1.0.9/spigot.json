@@ -1,12 +1,9 @@
 {
   "name": "1.0.9",
-  "version": {
-    "name": "1.0.9",
-    "downloadUrl": "resources/shopguiplus-sellgui.85170/download?version=398320",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1620763440,
-    "sourceUrl": "https://www.spigotmc.org/resources/85170/history/"
-  }
+  "downloadUrl": "resources/shopguiplus-sellgui.85170/download?version=398320",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1620763440,
+  "sourceUrl": "https://www.spigotmc.org/resources/85170/history/"
 }

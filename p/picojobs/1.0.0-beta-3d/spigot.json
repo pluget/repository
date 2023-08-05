@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-beta-3d",
-  "version": {
-    "name": "1.0-beta-3d",
-    "downloadUrl": "resources/picojobs.82784/download?version=420699",
-    "numberOfDownloads": 304,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1632491040,
-    "sourceUrl": "https://www.spigotmc.org/resources/picojobs.82784/history"
-  }
+  "name": "1.0-beta-3d",
+  "downloadUrl": "resources/picojobs.82784/download?version=420699",
+  "numberOfDownloads": 304,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1632491040,
+  "sourceUrl": "https://www.spigotmc.org/resources/picojobs.82784/history"
 }

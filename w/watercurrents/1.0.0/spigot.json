@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/watercurrents.88401/download?version=380242",
-    "numberOfDownloads": 40,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1611859560,
-    "sourceUrl": "https://www.spigotmc.org/resources/watercurrents.88401/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/watercurrents.88401/download?version=380242",
+  "numberOfDownloads": 40,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1611859560,
+  "sourceUrl": "https://www.spigotmc.org/resources/watercurrents.88401/history"
 }

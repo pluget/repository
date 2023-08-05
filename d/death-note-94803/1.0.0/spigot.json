@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/death-note.94803/download?version=412128",
-    "numberOfDownloads": 29,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1627602360,
-    "sourceUrl": "https://www.spigotmc.org/resources/death-note.94803/history"
-  }
+  "downloadUrl": "resources/death-note.94803/download?version=412128",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1627602360,
+  "sourceUrl": "https://www.spigotmc.org/resources/death-note.94803/history"
 }

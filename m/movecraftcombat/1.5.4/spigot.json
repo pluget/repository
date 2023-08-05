@@ -1,12 +1,9 @@
 {
   "name": "1.5.4",
-  "version": {
-    "name": "1.5.4",
-    "downloadUrl": "resources/movecraft-combat.81574/download?version=404252",
-    "numberOfDownloads": 535,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1624051200,
-    "sourceUrl": "https://www.spigotmc.org/resources/movecraft-combat.81574/history"
-  }
+  "downloadUrl": "resources/movecraft-combat.81574/download?version=404252",
+  "numberOfDownloads": 535,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1624051200,
+  "sourceUrl": "https://www.spigotmc.org/resources/movecraft-combat.81574/history"
 }

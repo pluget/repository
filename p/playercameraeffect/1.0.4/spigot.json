@@ -1,12 +1,9 @@
 {
   "name": "1.0.4",
-  "version": {
-    "name": "1.0.4",
-    "downloadUrl": "resources/playercameraeffect-opensource.25864/download?version=160536",
-    "numberOfDownloads": 156,
-    "rating": 6,
-    "numberOfVotes": 2,
-    "releaseDate": 1495257240,
-    "sourceUrl": "https://www.spigotmc.org/resources/playercameraeffect-opensource.25864/history"
-  }
+  "downloadUrl": "resources/playercameraeffect-opensource.25864/download?version=160536",
+  "numberOfDownloads": 156,
+  "rating": 6,
+  "numberOfVotes": 2,
+  "releaseDate": 1495257240,
+  "sourceUrl": "https://www.spigotmc.org/resources/playercameraeffect-opensource.25864/history"
 }

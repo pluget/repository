@@ -1,12 +1,9 @@
 {
   "name": "1.2.2",
-  "version": {
-    "name": "1.2.2",
-    "downloadUrl": "resources/dmc-guishop-1-14-1-19.99013/download?version=473942",
-    "numberOfDownloads": 12,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1667224980,
-    "sourceUrl": "https://www.spigotmc.org/resources/dmc-guishop-1-14-1-19.99013/history"
-  }
+  "downloadUrl": "resources/dmc-guishop-1-14-1-19.99013/download?version=473942",
+  "numberOfDownloads": 12,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1667224980,
+  "sourceUrl": "https://www.spigotmc.org/resources/dmc-guishop-1-14-1-19.99013/history"
 }

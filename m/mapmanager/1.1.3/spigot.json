@@ -1,12 +1,9 @@
 {
   "name": "1.1.3",
-  "version": {
-    "name": "1.1.3",
-    "downloadUrl": "resources/api-mapmanager.19198/download?version=80572",
-    "numberOfDownloads": 255,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1459864380,
-    "sourceUrl": "https://www.spigotmc.org/resources/api-mapmanager.19198/history"
-  }
+  "downloadUrl": "resources/api-mapmanager.19198/download?version=80572",
+  "numberOfDownloads": 255,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1459864380,
+  "sourceUrl": "https://www.spigotmc.org/resources/api-mapmanager.19198/history"
 }

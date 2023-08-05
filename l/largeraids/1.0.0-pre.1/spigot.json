@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-pre.1",
-  "version": {
-    "name": "Beta-1.0",
-    "downloadUrl": "resources/largeraids-1-14-x-1-18-x.95422/download?version=415335",
-    "numberOfDownloads": 51,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1629223080,
-    "sourceUrl": "https://www.spigotmc.org/resources/95422/history/"
-  }
+  "name": "Beta-1.0",
+  "downloadUrl": "resources/largeraids-1-14-x-1-18-x.95422/download?version=415335",
+  "numberOfDownloads": 51,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1629223080,
+  "sourceUrl": "https://www.spigotmc.org/resources/95422/history/"
 }

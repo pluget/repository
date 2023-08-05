@@ -1,12 +1,9 @@
 {
-  "name": "1.16.5-~1.19.2",
-  "version": {
-    "name": "1.16.5~1.19.2",
-    "downloadUrl": "resources/mythicmobdeathreward.106149/download?version=480626",
-    "numberOfDownloads": 23,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672612440,
-    "sourceUrl": "https://www.spigotmc.org/resources/106149/history/"
-  }
+  "name": "1.16.5~1.19.2",
+  "downloadUrl": "resources/mythicmobdeathreward.106149/download?version=480626",
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672612440,
+  "sourceUrl": "https://www.spigotmc.org/resources/106149/history/"
 }

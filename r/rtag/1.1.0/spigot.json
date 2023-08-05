@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/rtag-api-to-edit-block-entity-item-nbt-1-8-8-1-19-3.100694/download?version=445520",
-    "numberOfDownloads": 47,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1647534300,
-    "sourceUrl": "https://www.spigotmc.org/resources/rtag-api-to-edit-block-entity-item-nbt-1-8-8-1-19-3.100694/history"
-  }
+  "downloadUrl": "resources/rtag-api-to-edit-block-entity-item-nbt-1-8-8-1-19-3.100694/download?version=445520",
+  "numberOfDownloads": 47,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1647534300,
+  "sourceUrl": "https://www.spigotmc.org/resources/rtag-api-to-edit-block-entity-item-nbt-1-8-8-1-19-3.100694/history"
 }

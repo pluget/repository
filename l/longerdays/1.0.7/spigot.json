@@ -1,12 +1,9 @@
 {
   "name": "1.0.7",
-  "version": {
-    "name": "1.0.7",
-    "downloadUrl": "resources/longerdays.80610/download?version=451285",
-    "numberOfDownloads": 140,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1651769040,
-    "sourceUrl": "https://www.spigotmc.org/resources/80610/history/"
-  }
+  "downloadUrl": "resources/longerdays.80610/download?version=451285",
+  "numberOfDownloads": 140,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1651769040,
+  "sourceUrl": "https://www.spigotmc.org/resources/80610/history/"
 }

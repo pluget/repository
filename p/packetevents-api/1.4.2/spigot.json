@@ -1,12 +1,9 @@
 {
   "name": "1.4.2",
-  "version": {
-    "name": "1.4.2",
-    "downloadUrl": "resources/packetevents-api.80279/download?version=342247",
-    "numberOfDownloads": 50,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1594009800,
-    "sourceUrl": "https://www.spigotmc.org/resources/packetevents-api.80279/history"
-  }
+  "downloadUrl": "resources/packetevents-api.80279/download?version=342247",
+  "numberOfDownloads": 50,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1594009800,
+  "sourceUrl": "https://www.spigotmc.org/resources/packetevents-api.80279/history"
 }

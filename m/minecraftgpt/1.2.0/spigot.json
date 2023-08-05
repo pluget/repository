@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/minecraftgpt-chatgpt-openai.107128/download?version=481333",
-    "numberOfDownloads": 24,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1673098860,
-    "sourceUrl": "https://www.spigotmc.org/resources/107128/history/"
-  }
+  "downloadUrl": "resources/minecraftgpt-chatgpt-openai.107128/download?version=481333",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1673098860,
+  "sourceUrl": "https://www.spigotmc.org/resources/107128/history/"
 }

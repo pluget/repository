@@ -1,12 +1,9 @@
 {
   "name": "1.6.1",
-  "version": {
-    "name": "1.6.1",
-    "downloadUrl": "resources/messagehider.91661/download?version=400601",
-    "numberOfDownloads": 31,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1622193000,
-    "sourceUrl": "https://www.spigotmc.org/resources/91661/history/"
-  }
+  "downloadUrl": "resources/messagehider.91661/download?version=400601",
+  "numberOfDownloads": 31,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1622193000,
+  "sourceUrl": "https://www.spigotmc.org/resources/91661/history/"
 }

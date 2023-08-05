@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/adventure-dungeon.102001/download?version=452245",
-    "numberOfDownloads": 450,
-    "rating": 7.3333333333334,
-    "numberOfVotes": 6,
-    "releaseDate": 1652547540,
-    "sourceUrl": "https://www.spigotmc.org/resources/adventure-dungeon.102001/history"
-  }
+  "downloadUrl": "resources/adventure-dungeon.102001/download?version=452245",
+  "numberOfDownloads": 450,
+  "rating": 7.3333333333334,
+  "numberOfVotes": 6,
+  "releaseDate": 1652547540,
+  "sourceUrl": "https://www.spigotmc.org/resources/adventure-dungeon.102001/history"
 }

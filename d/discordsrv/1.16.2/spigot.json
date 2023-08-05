@@ -1,12 +1,9 @@
 {
   "name": "1.16.2",
-  "version": {
-    "name": "1.16.2",
-    "downloadUrl": "resources/discordsrv.18494/download?version=221927",
-    "numberOfDownloads": 904,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1526504040,
-    "sourceUrl": "https://www.spigotmc.org/resources/discordsrv.18494/history"
-  }
+  "downloadUrl": "resources/discordsrv.18494/download?version=221927",
+  "numberOfDownloads": 904,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1526504040,
+  "sourceUrl": "https://www.spigotmc.org/resources/discordsrv.18494/history"
 }

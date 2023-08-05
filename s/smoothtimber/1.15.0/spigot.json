@@ -1,12 +1,9 @@
 {
   "name": "1.15.0",
-  "version": {
-    "name": "1.15.0",
-    "downloadUrl": "resources/smoothtimber.39965/download?version=389726",
-    "numberOfDownloads": 5,
-    "rating": 6,
-    "numberOfVotes": 3,
-    "releaseDate": 1616324760,
-    "sourceUrl": "https://www.spigotmc.org/resources/smoothtimber.39965/history"
-  }
+  "downloadUrl": "resources/smoothtimber.39965/download?version=389726",
+  "numberOfDownloads": 5,
+  "rating": 6,
+  "numberOfVotes": 3,
+  "releaseDate": 1616324760,
+  "sourceUrl": "https://www.spigotmc.org/resources/smoothtimber.39965/history"
 }

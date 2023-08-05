@@ -1,12 +1,9 @@
 {
-  "name": "0.93.0",
-  "version": {
-    "name": "v0.93",
-    "downloadUrl": "resources/spawnercontrol.98872/download?version=434541",
-    "numberOfDownloads": 16,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1641079740,
-    "sourceUrl": "https://www.spigotmc.org/resources/spawnercontrol.98872/history"
-  }
+  "name": "v0.93",
+  "downloadUrl": "resources/spawnercontrol.98872/download?version=434541",
+  "numberOfDownloads": 16,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1641079740,
+  "sourceUrl": "https://www.spigotmc.org/resources/spawnercontrol.98872/history"
 }

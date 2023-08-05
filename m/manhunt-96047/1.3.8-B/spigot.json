@@ -1,12 +1,9 @@
 {
-  "name": "1.3.8-B",
-  "version": {
-    "name": "1.3.8B",
-    "downloadUrl": "resources/manhunt.96047/download?version=419184",
-    "numberOfDownloads": 32,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1631460540,
-    "sourceUrl": "https://www.spigotmc.org/resources/manhunt.96047/history"
-  }
+  "name": "1.3.8B",
+  "downloadUrl": "resources/manhunt.96047/download?version=419184",
+  "numberOfDownloads": 32,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1631460540,
+  "sourceUrl": "https://www.spigotmc.org/resources/manhunt.96047/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.2.8",
-  "version": {
-    "name": "1.2.8",
-    "downloadUrl": "resources/smp-spectator-mode-1-19-support.77267/download?version=324624",
-    "numberOfDownloads": 74,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1586871480,
-    "sourceUrl": "https://www.spigotmc.org/resources/77267/history/"
-  }
+  "downloadUrl": "resources/smp-spectator-mode-1-19-support.77267/download?version=324624",
+  "numberOfDownloads": 74,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1586871480,
+  "sourceUrl": "https://www.spigotmc.org/resources/77267/history/"
 }

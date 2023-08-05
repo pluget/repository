@@ -1,12 +1,9 @@
 {
   "name": "2.3.1",
-  "version": {
-    "name": "2.3.1",
-    "downloadUrl": "resources/viabackwards.27448/download?version=185628",
-    "numberOfDownloads": 77,
-    "rating": 8.7096774193548,
-    "numberOfVotes": 62,
-    "releaseDate": 1505917500,
-    "sourceUrl": "https://www.spigotmc.org/resources/viabackwards.27448/history"
-  }
+  "downloadUrl": "resources/viabackwards.27448/download?version=185628",
+  "numberOfDownloads": 77,
+  "rating": 8.7096774193548,
+  "numberOfVotes": 62,
+  "releaseDate": 1505917500,
+  "sourceUrl": "https://www.spigotmc.org/resources/viabackwards.27448/history"
 }

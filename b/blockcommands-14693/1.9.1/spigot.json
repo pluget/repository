@@ -1,12 +1,9 @@
 {
   "name": "1.9.1",
-  "version": {
-    "name": "1.9.1",
-    "downloadUrl": "resources/blockcommands-1-7-1-18.14693/download?version=369830",
-    "numberOfDownloads": 1,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1606745580,
-    "sourceUrl": "https://www.spigotmc.org/resources/blockcommands-1-7-1-18.14693/history"
-  }
+  "downloadUrl": "resources/blockcommands-1-7-1-18.14693/download?version=369830",
+  "numberOfDownloads": 1,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1606745580,
+  "sourceUrl": "https://www.spigotmc.org/resources/blockcommands-1-7-1-18.14693/history"
 }

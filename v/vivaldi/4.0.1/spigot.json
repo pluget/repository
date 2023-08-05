@@ -1,12 +1,9 @@
 {
   "name": "4.0.1",
-  "version": {
-    "name": "4.0.1",
-    "downloadUrl": "resources/vivaldi-unsupported.85292/download?version=421501",
-    "numberOfDownloads": 4,
-    "rating": 8,
-    "numberOfVotes": 2,
-    "releaseDate": 1633083300,
-    "sourceUrl": "https://www.spigotmc.org/resources/vivaldi-unsupported.85292/history"
-  }
+  "downloadUrl": "resources/vivaldi-unsupported.85292/download?version=421501",
+  "numberOfDownloads": 4,
+  "rating": 8,
+  "numberOfVotes": 2,
+  "releaseDate": 1633083300,
+  "sourceUrl": "https://www.spigotmc.org/resources/vivaldi-unsupported.85292/history"
 }

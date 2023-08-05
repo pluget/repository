@@ -1,12 +1,9 @@
 {
-  "name": "2.1.0-rc4",
-  "version": {
-    "name": "2.1-rc4",
-    "downloadUrl": "resources/auctionhouse.61836/download?version=347956",
-    "numberOfDownloads": 468,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1596233940,
-    "sourceUrl": "https://www.spigotmc.org/resources/61836/history/"
-  }
+  "name": "2.1-rc4",
+  "downloadUrl": "resources/auctionhouse.61836/download?version=347956",
+  "numberOfDownloads": 468,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1596233940,
+  "sourceUrl": "https://www.spigotmc.org/resources/61836/history/"
 }

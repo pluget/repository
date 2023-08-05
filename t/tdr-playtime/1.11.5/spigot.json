@@ -1,12 +1,9 @@
 {
   "name": "1.11.5",
-  "version": {
-    "name": "1.11.5",
-    "downloadUrl": "resources/tdr-playtime-rewards-mysql.47894/download?version=471072",
-    "numberOfDownloads": 938,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1664644200,
-    "sourceUrl": "https://www.spigotmc.org/resources/tdr-playtime-rewards-mysql.47894/history"
-  }
+  "downloadUrl": "resources/tdr-playtime-rewards-mysql.47894/download?version=471072",
+  "numberOfDownloads": 938,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1664644200,
+  "sourceUrl": "https://www.spigotmc.org/resources/tdr-playtime-rewards-mysql.47894/history"
 }

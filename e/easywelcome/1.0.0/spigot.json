@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/easywelcome-1-8-1-19.101265/download?version=448311",
-    "numberOfDownloads": 60,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1649554980,
-    "sourceUrl": "https://www.spigotmc.org/resources/easywelcome-1-8-1-19.101265/history"
-  }
+  "downloadUrl": "resources/easywelcome-1-8-1-19.101265/download?version=448311",
+  "numberOfDownloads": 60,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1649554980,
+  "sourceUrl": "https://www.spigotmc.org/resources/easywelcome-1-8-1-19.101265/history"
 }

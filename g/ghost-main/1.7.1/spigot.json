@@ -1,12 +1,9 @@
 {
   "name": "1.7.1",
-  "version": {
-    "name": "1.7.1",
-    "downloadUrl": "resources/ghost-main.102115/download?version=466615",
-    "numberOfDownloads": 22,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1661164140,
-    "sourceUrl": "https://www.spigotmc.org/resources/ghost-main.102115/history"
-  }
+  "downloadUrl": "resources/ghost-main.102115/download?version=466615",
+  "numberOfDownloads": 22,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1661164140,
+  "sourceUrl": "https://www.spigotmc.org/resources/ghost-main.102115/history"
 }

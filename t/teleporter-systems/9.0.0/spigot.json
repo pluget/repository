@@ -1,12 +1,9 @@
 {
-  "name": "9.0.0",
-  "version": {
-    "name": ".9",
-    "downloadUrl": "resources/teleporter-systems.79380/download?version=334132",
-    "numberOfDownloads": 56,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1590627960,
-    "sourceUrl": "https://www.spigotmc.org/resources/teleporter-systems.79380/history"
-  }
+  "name": ".9",
+  "downloadUrl": "resources/teleporter-systems.79380/download?version=334132",
+  "numberOfDownloads": 56,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1590627960,
+  "sourceUrl": "https://www.spigotmc.org/resources/teleporter-systems.79380/history"
 }

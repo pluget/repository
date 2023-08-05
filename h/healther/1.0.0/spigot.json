@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/healther.103250/download?version=460125",
-    "numberOfDownloads": 8,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657447560,
-    "sourceUrl": "https://www.spigotmc.org/resources/103250/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/healther.103250/download?version=460125",
+  "numberOfDownloads": 8,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657447560,
+  "sourceUrl": "https://www.spigotmc.org/resources/103250/history/"
 }

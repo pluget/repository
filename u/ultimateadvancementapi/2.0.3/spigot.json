@@ -1,12 +1,9 @@
 {
   "name": "2.0.3",
-  "version": {
-    "name": "2.0.3",
-    "downloadUrl": "resources/ultimateadvancementapi-1-15-1-19-4.95585/download?version=430734",
-    "numberOfDownloads": 80,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1639085160,
-    "sourceUrl": "https://www.spigotmc.org/resources/95585/history/"
-  }
+  "downloadUrl": "resources/ultimateadvancementapi-1-15-1-19-4.95585/download?version=430734",
+  "numberOfDownloads": 80,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1639085160,
+  "sourceUrl": "https://www.spigotmc.org/resources/95585/history/"
 }

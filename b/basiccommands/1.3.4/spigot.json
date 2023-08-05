@@ -1,12 +1,9 @@
 {
   "name": "1.3.4",
-  "version": {
-    "name": "1.3.4",
-    "downloadUrl": "resources/basiccommands.79799/download?version=418352",
-    "numberOfDownloads": 27,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1630885500,
-    "sourceUrl": "https://www.spigotmc.org/resources/basiccommands.79799/history"
-  }
+  "downloadUrl": "resources/basiccommands.79799/download?version=418352",
+  "numberOfDownloads": 27,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1630885500,
+  "sourceUrl": "https://www.spigotmc.org/resources/basiccommands.79799/history"
 }

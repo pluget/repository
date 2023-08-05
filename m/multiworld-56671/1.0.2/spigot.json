@@ -1,12 +1,9 @@
 {
   "name": "1.0.2",
-  "version": {
-    "name": "1.0.2",
-    "downloadUrl": "resources/the-multiworld-money.56671/download?version=384682",
-    "numberOfDownloads": 123,
-    "rating": 8.6666666666666,
-    "numberOfVotes": 3,
-    "releaseDate": 1613845560,
-    "sourceUrl": "https://www.spigotmc.org/resources/56671/history/"
-  }
+  "downloadUrl": "resources/the-multiworld-money.56671/download?version=384682",
+  "numberOfDownloads": 123,
+  "rating": 8.6666666666666,
+  "numberOfVotes": 3,
+  "releaseDate": 1613845560,
+  "sourceUrl": "https://www.spigotmc.org/resources/56671/history/"
 }

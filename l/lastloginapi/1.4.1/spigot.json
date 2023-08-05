@@ -1,12 +1,9 @@
 {
   "name": "1.4.1",
-  "version": {
-    "name": "1.4.1",
-    "downloadUrl": "resources/lastloginapi-api-to-handle-player-names-and-login-timestamps.66348/download?version=347561",
-    "numberOfDownloads": 141,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1596067980,
-    "sourceUrl": "https://www.spigotmc.org/resources/lastloginapi-api-to-handle-player-names-and-login-timestamps.66348/history"
-  }
+  "downloadUrl": "resources/lastloginapi-api-to-handle-player-names-and-login-timestamps.66348/download?version=347561",
+  "numberOfDownloads": 141,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1596067980,
+  "sourceUrl": "https://www.spigotmc.org/resources/lastloginapi-api-to-handle-player-names-and-login-timestamps.66348/history"
 }

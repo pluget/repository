@@ -1,12 +1,9 @@
 {
   "name": "2.6.1",
-  "version": {
-    "name": "2.6.1",
-    "downloadUrl": "resources/redirect-plus.51975/download?version=229834",
-    "numberOfDownloads": 281,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1531560240,
-    "sourceUrl": "https://www.spigotmc.org/resources/redirect-plus.51975/history"
-  }
+  "downloadUrl": "resources/redirect-plus.51975/download?version=229834",
+  "numberOfDownloads": 281,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1531560240,
+  "sourceUrl": "https://www.spigotmc.org/resources/redirect-plus.51975/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "0.1.6",
-  "version": {
-    "name": "0.1.6",
-    "downloadUrl": "resources/customcreatures.68711/download?version=280625",
-    "numberOfDownloads": 73,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1561410480,
-    "sourceUrl": "https://www.spigotmc.org/resources/customcreatures.68711/history"
-  }
+  "downloadUrl": "resources/customcreatures.68711/download?version=280625",
+  "numberOfDownloads": 73,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1561410480,
+  "sourceUrl": "https://www.spigotmc.org/resources/customcreatures.68711/history"
 }

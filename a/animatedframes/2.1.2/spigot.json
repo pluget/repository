@@ -1,12 +1,9 @@
 {
   "name": "2.1.2",
-  "version": {
-    "name": "2.1.2",
-    "downloadUrl": "resources/animatedframes.5583/download?version=61690",
-    "numberOfDownloads": 1,
-    "rating": 6.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1452013680,
-    "sourceUrl": "https://www.spigotmc.org/resources/animatedframes.5583/history"
-  }
+  "downloadUrl": "resources/animatedframes.5583/download?version=61690",
+  "numberOfDownloads": 1,
+  "rating": 6.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1452013680,
+  "sourceUrl": "https://www.spigotmc.org/resources/animatedframes.5583/history"
 }

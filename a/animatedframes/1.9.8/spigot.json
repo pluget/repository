@@ -1,12 +1,9 @@
 {
   "name": "1.9.8",
-  "version": {
-    "name": "1.9.8",
-    "downloadUrl": "resources/animatedframes.5583/download?version=26452",
-    "numberOfDownloads": 666,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1432461540,
-    "sourceUrl": "https://www.spigotmc.org/resources/animatedframes.5583/history"
-  }
+  "downloadUrl": "resources/animatedframes.5583/download?version=26452",
+  "numberOfDownloads": 666,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1432461540,
+  "sourceUrl": "https://www.spigotmc.org/resources/animatedframes.5583/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.4.4",
-  "version": {
-    "name": "1.4.4",
-    "downloadUrl": "resources/hat.33980/download?version=456710",
-    "numberOfDownloads": 5,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1655411040,
-    "sourceUrl": "https://www.spigotmc.org/resources/hat.33980/history"
-  }
+  "downloadUrl": "resources/hat.33980/download?version=456710",
+  "numberOfDownloads": 5,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1655411040,
+  "sourceUrl": "https://www.spigotmc.org/resources/hat.33980/history"
 }

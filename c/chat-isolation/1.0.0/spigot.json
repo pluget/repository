@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/chat-isolation.106975/download?version=479720",
-    "numberOfDownloads": 25,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1672034400,
-    "sourceUrl": "https://www.spigotmc.org/resources/chat-isolation.106975/history"
-  }
+  "downloadUrl": "resources/chat-isolation.106975/download?version=479720",
+  "numberOfDownloads": 25,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1672034400,
+  "sourceUrl": "https://www.spigotmc.org/resources/chat-isolation.106975/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.7.0-V",
-  "version": {
-    "name": "1.7V",
-    "downloadUrl": "resources/plus-chat.105101/download?version=468587",
-    "numberOfDownloads": 33,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1662443520,
-    "sourceUrl": "https://www.spigotmc.org/resources/105101/history/"
-  }
+  "name": "1.7V",
+  "downloadUrl": "resources/plus-chat.105101/download?version=468587",
+  "numberOfDownloads": 33,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1662443520,
+  "sourceUrl": "https://www.spigotmc.org/resources/105101/history/"
 }

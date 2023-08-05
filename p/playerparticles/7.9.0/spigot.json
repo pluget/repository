@@ -1,12 +1,9 @@
 {
-  "name": "7.9.0",
-  "version": {
-    "name": "7.9",
-    "downloadUrl": "resources/playerparticles.40261/download?version=325891",
-    "numberOfDownloads": 837,
-    "rating": 8.4,
-    "numberOfVotes": 5,
-    "releaseDate": 1587331140,
-    "sourceUrl": "https://www.spigotmc.org/resources/40261/history/"
-  }
+  "name": "7.9",
+  "downloadUrl": "resources/playerparticles.40261/download?version=325891",
+  "numberOfDownloads": 837,
+  "rating": 8.4,
+  "numberOfVotes": 5,
+  "releaseDate": 1587331140,
+  "sourceUrl": "https://www.spigotmc.org/resources/40261/history/"
 }

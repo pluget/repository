@@ -1,12 +1,9 @@
 {
   "name": "4.3.2",
-  "version": {
-    "name": "4.3.2",
-    "downloadUrl": "resources/advancedteleport.64139/download?version=275195",
-    "numberOfDownloads": 291,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1558770720,
-    "sourceUrl": "https://www.spigotmc.org/resources/advancedteleport.64139/history"
-  }
+  "downloadUrl": "resources/advancedteleport.64139/download?version=275195",
+  "numberOfDownloads": 291,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1558770720,
+  "sourceUrl": "https://www.spigotmc.org/resources/advancedteleport.64139/history"
 }

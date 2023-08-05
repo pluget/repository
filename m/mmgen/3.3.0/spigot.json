@@ -1,12 +1,9 @@
 {
-  "name": "3.3.0",
-  "version": {
-    "name": "3.3",
-    "downloadUrl": "resources/mmgen-mythic-mob-gui.101261/download?version=465465",
-    "numberOfDownloads": 81,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1660407060,
-    "sourceUrl": "https://www.spigotmc.org/resources/mmgen-mythic-mob-gui.101261/history"
-  }
+  "name": "3.3",
+  "downloadUrl": "resources/mmgen-mythic-mob-gui.101261/download?version=465465",
+  "numberOfDownloads": 81,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1660407060,
+  "sourceUrl": "https://www.spigotmc.org/resources/mmgen-mythic-mob-gui.101261/history"
 }

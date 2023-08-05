@@ -1,12 +1,9 @@
 {
-  "name": "3.10.1-pre.1",
-  "version": {
-    "name": "3.10.1",
-    "downloadUrl": "resources/commandbuttons-execute-commands-on-block-interaction.60991/download?version=256690",
-    "numberOfDownloads": 812,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1547329500,
-    "sourceUrl": "https://www.spigotmc.org/resources/commandbuttons-execute-commands-on-block-interaction.60991/history"
-  }
+  "name": "3.10.1",
+  "downloadUrl": "resources/commandbuttons-execute-commands-on-block-interaction.60991/download?version=256690",
+  "numberOfDownloads": 812,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1547329500,
+  "sourceUrl": "https://www.spigotmc.org/resources/commandbuttons-execute-commands-on-block-interaction.60991/history"
 }

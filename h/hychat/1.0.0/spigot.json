@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/hychat.106591/download?version=477383",
-    "numberOfDownloads": 53,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1670250900,
-    "sourceUrl": "https://www.spigotmc.org/resources/hychat.106591/history"
-  }
+  "downloadUrl": "resources/hychat.106591/download?version=477383",
+  "numberOfDownloads": 53,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1670250900,
+  "sourceUrl": "https://www.spigotmc.org/resources/hychat.106591/history"
 }

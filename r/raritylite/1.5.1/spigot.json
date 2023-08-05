@@ -1,12 +1,9 @@
 {
   "name": "1.5.1",
-  "version": {
-    "name": "1.5.1",
-    "downloadUrl": "resources/raritylite.103672/download?version=463409",
-    "numberOfDownloads": 14,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1659340380,
-    "sourceUrl": "https://www.spigotmc.org/resources/103672/history/"
-  }
+  "downloadUrl": "resources/raritylite.103672/download?version=463409",
+  "numberOfDownloads": 14,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1659340380,
+  "sourceUrl": "https://www.spigotmc.org/resources/103672/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.15.2",
-  "version": {
-    "name": "2.15.2",
-    "downloadUrl": "resources/conditionalevents-custom-actions-for-certain-events-1-8-1-19-4.82271/download?version=377560",
-    "numberOfDownloads": 255,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1610714820,
-    "sourceUrl": "https://www.spigotmc.org/resources/conditionalevents-custom-actions-for-certain-events-1-8-1-19-4.82271/history"
-  }
+  "downloadUrl": "resources/conditionalevents-custom-actions-for-certain-events-1-8-1-19-4.82271/download?version=377560",
+  "numberOfDownloads": 255,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1610714820,
+  "sourceUrl": "https://www.spigotmc.org/resources/conditionalevents-custom-actions-for-certain-events-1-8-1-19-4.82271/history"
 }

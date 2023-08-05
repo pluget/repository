@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-SNAPSHOT",
-  "version": {
-    "name": "v1.0-SNAPSHOT",
-    "downloadUrl": "resources/mounted-combat.104378/download?version=464764",
-    "numberOfDownloads": 67,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1659985020,
-    "sourceUrl": "https://www.spigotmc.org/resources/mounted-combat.104378/history"
-  }
+  "name": "v1.0-SNAPSHOT",
+  "downloadUrl": "resources/mounted-combat.104378/download?version=464764",
+  "numberOfDownloads": 67,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1659985020,
+  "sourceUrl": "https://www.spigotmc.org/resources/mounted-combat.104378/history"
 }

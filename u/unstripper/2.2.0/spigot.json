@@ -1,12 +1,9 @@
 {
-  "name": "2.2.0",
-  "version": {
-    "name": "2.2",
-    "downloadUrl": "resources/unstripper.96901/download?version=446515",
-    "numberOfDownloads": 95,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1648239000,
-    "sourceUrl": "https://www.spigotmc.org/resources/96901/history/"
-  }
+  "name": "2.2",
+  "downloadUrl": "resources/unstripper.96901/download?version=446515",
+  "numberOfDownloads": 95,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1648239000,
+  "sourceUrl": "https://www.spigotmc.org/resources/96901/history/"
 }

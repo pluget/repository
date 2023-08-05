@@ -1,12 +1,9 @@
 {
   "name": "2.0.1",
-  "version": {
-    "name": "2.0.1",
-    "downloadUrl": "resources/mclimiter.105111/download?version=488169",
-    "numberOfDownloads": 12,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1678109160,
-    "sourceUrl": "https://www.spigotmc.org/resources/mclimiter.105111/history"
-  }
+  "downloadUrl": "resources/mclimiter.105111/download?version=488169",
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1678109160,
+  "sourceUrl": "https://www.spigotmc.org/resources/mclimiter.105111/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.0.0",
-  "version": {
-    "name": "2.0.0",
-    "downloadUrl": "resources/statusplugin.103156/download?version=460406",
-    "numberOfDownloads": 72,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657614720,
-    "sourceUrl": "https://www.spigotmc.org/resources/statusplugin.103156/history"
-  }
+  "downloadUrl": "resources/statusplugin.103156/download?version=460406",
+  "numberOfDownloads": 72,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657614720,
+  "sourceUrl": "https://www.spigotmc.org/resources/statusplugin.103156/history"
 }

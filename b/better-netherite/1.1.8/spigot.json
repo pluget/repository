@@ -1,12 +1,9 @@
 {
   "name": "1.1.8",
-  "version": {
-    "name": "1.1.8",
-    "downloadUrl": "resources/better-netherite.84526/download?version=452641",
-    "numberOfDownloads": 610,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1652860320,
-    "sourceUrl": "https://www.spigotmc.org/resources/better-netherite.84526/history"
-  }
+  "downloadUrl": "resources/better-netherite.84526/download?version=452641",
+  "numberOfDownloads": 610,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1652860320,
+  "sourceUrl": "https://www.spigotmc.org/resources/better-netherite.84526/history"
 }

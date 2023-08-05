@@ -1,12 +1,9 @@
 {
   "name": "1.6.1",
-  "version": {
-    "name": "1.6.1",
-    "downloadUrl": "resources/geyserupdater.88555/download?version=429832",
-    "numberOfDownloads": 771,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1638641880,
-    "sourceUrl": "https://www.spigotmc.org/resources/88555/history/"
-  }
+  "downloadUrl": "resources/geyserupdater.88555/download?version=429832",
+  "numberOfDownloads": 771,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1638641880,
+  "sourceUrl": "https://www.spigotmc.org/resources/88555/history/"
 }

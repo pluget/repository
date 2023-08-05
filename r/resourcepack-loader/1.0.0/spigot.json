@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/resourcepack-loader.101623/download?version=450099",
-    "numberOfDownloads": 12,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1650814920,
-    "sourceUrl": "https://www.spigotmc.org/resources/resourcepack-loader.101623/history"
-  }
+  "downloadUrl": "resources/resourcepack-loader.101623/download?version=450099",
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1650814920,
+  "sourceUrl": "https://www.spigotmc.org/resources/resourcepack-loader.101623/history"
 }

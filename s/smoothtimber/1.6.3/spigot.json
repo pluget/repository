@@ -1,12 +1,9 @@
 {
   "name": "1.6.3",
-  "version": {
-    "name": "1.6.3",
-    "downloadUrl": "resources/smoothtimber.39965/download?version=322028",
-    "numberOfDownloads": 3,
-    "rating": 9.2,
-    "numberOfVotes": 5,
-    "releaseDate": 1585917660,
-    "sourceUrl": "https://www.spigotmc.org/resources/smoothtimber.39965/history"
-  }
+  "downloadUrl": "resources/smoothtimber.39965/download?version=322028",
+  "numberOfDownloads": 3,
+  "rating": 9.2,
+  "numberOfVotes": 5,
+  "releaseDate": 1585917660,
+  "sourceUrl": "https://www.spigotmc.org/resources/smoothtimber.39965/history"
 }

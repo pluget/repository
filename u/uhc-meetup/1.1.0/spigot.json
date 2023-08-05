@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0",
-  "version": {
-    "name": "1.1",
-    "downloadUrl": "resources/uhc-meetup-1-17.107429/download?version=492331",
-    "numberOfDownloads": 6,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1680822720,
-    "sourceUrl": "https://www.spigotmc.org/resources/uhc-meetup-1-17.107429/history"
-  }
+  "name": "1.1",
+  "downloadUrl": "resources/uhc-meetup-1-17.107429/download?version=492331",
+  "numberOfDownloads": 6,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1680822720,
+  "sourceUrl": "https://www.spigotmc.org/resources/uhc-meetup-1-17.107429/history"
 }

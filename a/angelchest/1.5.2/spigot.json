@@ -1,12 +1,9 @@
 {
   "name": "1.5.2",
-  "version": {
-    "name": "1.5.2",
-    "downloadUrl": "resources/angelchest-free.60383/download?version=259759",
-    "numberOfDownloads": 133,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1549286220,
-    "sourceUrl": "https://www.spigotmc.org/resources/angelchest-free.60383/history"
-  }
+  "downloadUrl": "resources/angelchest-free.60383/download?version=259759",
+  "numberOfDownloads": 133,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1549286220,
+  "sourceUrl": "https://www.spigotmc.org/resources/angelchest-free.60383/history"
 }

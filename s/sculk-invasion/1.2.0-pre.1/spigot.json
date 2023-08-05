@@ -1,12 +1,9 @@
 {
-  "name": "1.2.0-pre.1",
-  "version": {
-    "name": "1.2",
-    "downloadUrl": "resources/sculk-invasion.107700/download?version=484097",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1675056360,
-    "sourceUrl": "https://www.spigotmc.org/resources/107700/history/"
-  }
+  "name": "1.2",
+  "downloadUrl": "resources/sculk-invasion.107700/download?version=484097",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1675056360,
+  "sourceUrl": "https://www.spigotmc.org/resources/107700/history/"
 }

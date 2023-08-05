@@ -1,12 +1,9 @@
 {
   "name": "0.18.0",
-  "version": {
-    "name": "0.18.0",
-    "downloadUrl": "resources/invsee.82342/download?version=483413",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1674604320,
-    "sourceUrl": "https://www.spigotmc.org/resources/invsee.82342/history"
-  }
+  "downloadUrl": "resources/invsee.82342/download?version=483413",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1674604320,
+  "sourceUrl": "https://www.spigotmc.org/resources/invsee.82342/history"
 }

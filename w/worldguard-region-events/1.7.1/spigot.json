@@ -1,12 +1,9 @@
 {
   "name": "1.7.1",
-  "version": {
-    "name": "1.7.1",
-    "downloadUrl": "resources/worldguard-region-events-updated.61490/download?version=439596",
-    "numberOfDownloads": 129,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1643898660,
-    "sourceUrl": "https://www.spigotmc.org/resources/worldguard-region-events-updated.61490/history"
-  }
+  "downloadUrl": "resources/worldguard-region-events-updated.61490/download?version=439596",
+  "numberOfDownloads": 129,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1643898660,
+  "sourceUrl": "https://www.spigotmc.org/resources/worldguard-region-events-updated.61490/history"
 }

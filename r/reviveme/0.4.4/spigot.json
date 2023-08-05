@@ -1,12 +1,9 @@
 {
   "name": "0.4.4",
-  "version": {
-    "name": "0.4.4",
-    "downloadUrl": "resources/reviveme-beta.78184/download?version=448747",
-    "numberOfDownloads": 38,
-    "rating": 8.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1649866020,
-    "sourceUrl": "https://www.spigotmc.org/resources/reviveme-beta.78184/history"
-  }
+  "downloadUrl": "resources/reviveme-beta.78184/download?version=448747",
+  "numberOfDownloads": 38,
+  "rating": 8.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1649866020,
+  "sourceUrl": "https://www.spigotmc.org/resources/reviveme-beta.78184/history"
 }

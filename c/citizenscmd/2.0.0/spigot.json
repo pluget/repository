@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0",
-  "version": {
-    "name": "2.0",
-    "downloadUrl": "resources/citizenscmd.30224/download?version=233286",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1533297300,
-    "sourceUrl": "https://www.spigotmc.org/resources/citizenscmd.30224/history"
-  }
+  "name": "2.0",
+  "downloadUrl": "resources/citizenscmd.30224/download?version=233286",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1533297300,
+  "sourceUrl": "https://www.spigotmc.org/resources/citizenscmd.30224/history"
 }

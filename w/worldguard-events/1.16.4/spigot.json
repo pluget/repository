@@ -1,12 +1,9 @@
 {
   "name": "1.16.4",
-  "version": {
-    "name": "1.16.4",
-    "downloadUrl": "resources/worldguard-events.65176/download?version=372500",
-    "numberOfDownloads": 1,
-    "rating": 8,
-    "numberOfVotes": 3,
-    "releaseDate": 1608276960,
-    "sourceUrl": "https://www.spigotmc.org/resources/worldguard-events.65176/history"
-  }
+  "downloadUrl": "resources/worldguard-events.65176/download?version=372500",
+  "numberOfDownloads": 1,
+  "rating": 8,
+  "numberOfVotes": 3,
+  "releaseDate": 1608276960,
+  "sourceUrl": "https://www.spigotmc.org/resources/worldguard-events.65176/history"
 }

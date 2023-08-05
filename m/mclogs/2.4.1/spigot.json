@@ -1,12 +1,9 @@
 {
-  "name": "2.4.1",
-  "version": {
-    "name": "v2.4.1",
-    "downloadUrl": "resources/mclo-gs.47502/download?version=475523",
-    "numberOfDownloads": 180,
-    "rating": 2,
-    "numberOfVotes": 1,
-    "releaseDate": 1668606420,
-    "sourceUrl": "https://www.spigotmc.org/resources/mclo-gs.47502/history"
-  }
+  "name": "v2.4.1",
+  "downloadUrl": "resources/mclo-gs.47502/download?version=475523",
+  "numberOfDownloads": 180,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releaseDate": 1668606420,
+  "sourceUrl": "https://www.spigotmc.org/resources/mclo-gs.47502/history"
 }

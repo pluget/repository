@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/beechat.102520/download?version=455471",
-    "numberOfDownloads": 12,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1654813020,
-    "sourceUrl": "https://www.spigotmc.org/resources/beechat.102520/history"
-  }
+  "downloadUrl": "resources/beechat.102520/download?version=455471",
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1654813020,
+  "sourceUrl": "https://www.spigotmc.org/resources/beechat.102520/history"
 }

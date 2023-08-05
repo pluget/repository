@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/toolstats.99606/download?version=440000",
-    "numberOfDownloads": 32,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1644093900,
-    "sourceUrl": "https://www.spigotmc.org/resources/toolstats.99606/history"
-  }
+  "downloadUrl": "resources/toolstats.99606/download?version=440000",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1644093900,
+  "sourceUrl": "https://www.spigotmc.org/resources/toolstats.99606/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.2.5",
-  "version": {
-    "name": "v.1.2.5",
-    "downloadUrl": "resources/spawnpoint-plugin-1-8-x-1-18-x.96749/download?version=434947",
-    "numberOfDownloads": 233,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1641283200,
-    "sourceUrl": "https://www.spigotmc.org/resources/spawnpoint-plugin-1-8-x-1-18-x.96749/history"
-  }
+  "name": "v.1.2.5",
+  "downloadUrl": "resources/spawnpoint-plugin-1-8-x-1-18-x.96749/download?version=434947",
+  "numberOfDownloads": 233,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1641283200,
+  "sourceUrl": "https://www.spigotmc.org/resources/spawnpoint-plugin-1-8-x-1-18-x.96749/history"
 }

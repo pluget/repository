@@ -1,12 +1,9 @@
 {
-  "name": "2.4.3-pre.1",
-  "version": {
-    "name": "2.4.3",
-    "downloadUrl": "resources/deep-dark.96324/download?version=421773",
-    "numberOfDownloads": 64,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1633275660,
-    "sourceUrl": "https://www.spigotmc.org/resources/deep-dark.96324/history"
-  }
+  "name": "2.4.3",
+  "downloadUrl": "resources/deep-dark.96324/download?version=421773",
+  "numberOfDownloads": 64,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1633275660,
+  "sourceUrl": "https://www.spigotmc.org/resources/deep-dark.96324/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.6",
-  "version": {
-    "name": "1.0.6",
-    "downloadUrl": "resources/lcraft-apis.97603/download?version=432019",
-    "numberOfDownloads": 11,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1639765260,
-    "sourceUrl": "https://www.spigotmc.org/resources/lcraft-apis.97603/history"
-  }
+  "downloadUrl": "resources/lcraft-apis.97603/download?version=432019",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1639765260,
+  "sourceUrl": "https://www.spigotmc.org/resources/lcraft-apis.97603/history"
 }

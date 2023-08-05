@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0-pre.1",
-  "version": {
-    "name": "v2.0",
-    "downloadUrl": "resources/savedstructures-1-17-1-1-19-2.106066/download?version=478833",
-    "numberOfDownloads": 19,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1671398340,
-    "sourceUrl": "https://www.spigotmc.org/resources/savedstructures-1-17-1-1-19-2.106066/history"
-  }
+  "name": "v2.0",
+  "downloadUrl": "resources/savedstructures-1-17-1-1-19-2.106066/download?version=478833",
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1671398340,
+  "sourceUrl": "https://www.spigotmc.org/resources/savedstructures-1-17-1-1-19-2.106066/history"
 }

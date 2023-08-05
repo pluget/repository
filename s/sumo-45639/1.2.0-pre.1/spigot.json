@@ -1,12 +1,9 @@
 {
-  "name": "1.2.0-pre.1",
-  "version": {
-    "name": "1.2",
-    "downloadUrl": "resources/sumo.45639/download?version=186421",
-    "numberOfDownloads": 626,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1506358500,
-    "sourceUrl": "https://www.spigotmc.org/resources/sumo.45639/history"
-  }
+  "name": "1.2",
+  "downloadUrl": "resources/sumo.45639/download?version=186421",
+  "numberOfDownloads": 626,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1506358500,
+  "sourceUrl": "https://www.spigotmc.org/resources/sumo.45639/history"
 }

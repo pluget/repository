@@ -1,12 +1,9 @@
 {
   "name": "0.0.1",
-  "version": {
-    "name": "0.0.1",
-    "downloadUrl": "resources/join-commands.51758/download?version=202210",
-    "numberOfDownloads": 209,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1515285000,
-    "sourceUrl": "https://www.spigotmc.org/resources/join-commands.51758/history"
-  }
+  "downloadUrl": "resources/join-commands.51758/download?version=202210",
+  "numberOfDownloads": 209,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1515285000,
+  "sourceUrl": "https://www.spigotmc.org/resources/join-commands.51758/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/commandminerewards.27316/download?version=155396",
-    "numberOfDownloads": 55,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1492632840,
-    "sourceUrl": "https://www.spigotmc.org/resources/commandminerewards.27316/history"
-  }
+  "downloadUrl": "resources/commandminerewards.27316/download?version=155396",
+  "numberOfDownloads": 55,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1492632840,
+  "sourceUrl": "https://www.spigotmc.org/resources/commandminerewards.27316/history"
 }

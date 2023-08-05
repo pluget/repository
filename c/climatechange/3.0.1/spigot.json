@@ -1,12 +1,9 @@
 {
   "name": "3.0.1",
-  "version": {
-    "name": "3.0.1",
-    "downloadUrl": "resources/climatechange-weather-and-time-conditions.48161/download?version=295891",
-    "numberOfDownloads": 132,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1569688620,
-    "sourceUrl": "https://www.spigotmc.org/resources/48161/history/"
-  }
+  "downloadUrl": "resources/climatechange-weather-and-time-conditions.48161/download?version=295891",
+  "numberOfDownloads": 132,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1569688620,
+  "sourceUrl": "https://www.spigotmc.org/resources/48161/history/"
 }

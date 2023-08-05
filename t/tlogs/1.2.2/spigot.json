@@ -1,12 +1,9 @@
 {
   "name": "1.2.2",
-  "version": {
-    "name": "1.2.2",
-    "downloadUrl": "resources/tlogs.106211/download?version=477562",
-    "numberOfDownloads": 24,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1670439060,
-    "sourceUrl": "https://www.spigotmc.org/resources/tlogs.106211/history"
-  }
+  "downloadUrl": "resources/tlogs.106211/download?version=477562",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1670439060,
+  "sourceUrl": "https://www.spigotmc.org/resources/tlogs.106211/history"
 }

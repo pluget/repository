@@ -1,12 +1,9 @@
 {
   "name": "3.3.0-alpha.13",
-  "version": {
-    "name": "3.3.0-alpha.13",
-    "downloadUrl": "resources/prison.1223/download?version=467138",
-    "numberOfDownloads": 3,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1661488020,
-    "sourceUrl": "https://www.spigotmc.org/resources/prison.1223/history"
-  }
+  "downloadUrl": "resources/prison.1223/download?version=467138",
+  "numberOfDownloads": 3,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1661488020,
+  "sourceUrl": "https://www.spigotmc.org/resources/prison.1223/history"
 }

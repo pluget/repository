@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-BETA-15",
-  "version": {
-    "name": "1.0.BETA-15",
-    "downloadUrl": "resources/vampirerevamp.75479/download?version=455395",
-    "numberOfDownloads": 248,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1654782780,
-    "sourceUrl": "https://www.spigotmc.org/resources/vampirerevamp.75479/history"
-  }
+  "name": "1.0.BETA-15",
+  "downloadUrl": "resources/vampirerevamp.75479/download?version=455395",
+  "numberOfDownloads": 248,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1654782780,
+  "sourceUrl": "https://www.spigotmc.org/resources/vampirerevamp.75479/history"
 }

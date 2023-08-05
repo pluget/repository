@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/policeplus-1-0-0-free-test-version.103326/download?version=460530",
-    "numberOfDownloads": 24,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657697160,
-    "sourceUrl": "https://www.spigotmc.org/resources/103326/history/"
-  }
+  "downloadUrl": "resources/policeplus-1-0-0-free-test-version.103326/download?version=460530",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657697160,
+  "sourceUrl": "https://www.spigotmc.org/resources/103326/history/"
 }

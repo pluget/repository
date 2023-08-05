@@ -1,12 +1,9 @@
 {
-  "name": "1.8.0",
-  "version": {
-    "name": "1.8",
-    "downloadUrl": "resources/action-bar-health.2661/download?version=13620",
-    "numberOfDownloads": 1,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1423771560,
-    "sourceUrl": "https://www.spigotmc.org/resources/action-bar-health.2661/history"
-  }
+  "name": "1.8",
+  "downloadUrl": "resources/action-bar-health.2661/download?version=13620",
+  "numberOfDownloads": 1,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1423771560,
+  "sourceUrl": "https://www.spigotmc.org/resources/action-bar-health.2661/history"
 }

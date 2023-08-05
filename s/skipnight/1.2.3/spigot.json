@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/skipnight.48334/download?version=251314",
-    "numberOfDownloads": 63,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1543976340,
-    "sourceUrl": "https://www.spigotmc.org/resources/48334/history/"
-  }
+  "downloadUrl": "resources/skipnight.48334/download?version=251314",
+  "numberOfDownloads": 63,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1543976340,
+  "sourceUrl": "https://www.spigotmc.org/resources/48334/history/"
 }

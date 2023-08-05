@@ -1,12 +1,9 @@
 {
   "name": "1.8.2",
-  "version": {
-    "name": "1.8.2",
-    "downloadUrl": "resources/globalmarketchest-gui-shop-plugin.64921/download?version=353865",
-    "numberOfDownloads": 2,
-    "rating": 8.6666666666666,
-    "numberOfVotes": 3,
-    "releaseDate": 1598722740,
-    "sourceUrl": "https://www.spigotmc.org/resources/globalmarketchest-gui-shop-plugin.64921/history"
-  }
+  "downloadUrl": "resources/globalmarketchest-gui-shop-plugin.64921/download?version=353865",
+  "numberOfDownloads": 2,
+  "rating": 8.6666666666666,
+  "numberOfVotes": 3,
+  "releaseDate": 1598722740,
+  "sourceUrl": "https://www.spigotmc.org/resources/globalmarketchest-gui-shop-plugin.64921/history"
 }

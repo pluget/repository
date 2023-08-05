@@ -1,12 +1,9 @@
 {
   "name": "1.6.1",
-  "version": {
-    "name": "1.6.1",
-    "downloadUrl": "resources/latchs-money-for-mobs.85373/download?version=405989",
-    "numberOfDownloads": 32,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1624828260,
-    "sourceUrl": "https://www.spigotmc.org/resources/85373/history/"
-  }
+  "downloadUrl": "resources/latchs-money-for-mobs.85373/download?version=405989",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1624828260,
+  "sourceUrl": "https://www.spigotmc.org/resources/85373/history/"
 }

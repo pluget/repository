@@ -1,12 +1,9 @@
 {
   "name": "1.4.8",
-  "version": {
-    "name": "1.4.8",
-    "downloadUrl": "resources/ez-chest-shop-ecs-1-14-x-1-19-x-mega-update.90411/download?version=488229",
-    "numberOfDownloads": 45,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1678143900,
-    "sourceUrl": "https://www.spigotmc.org/resources/90411/history/"
-  }
+  "downloadUrl": "resources/ez-chest-shop-ecs-1-14-x-1-19-x-mega-update.90411/download?version=488229",
+  "numberOfDownloads": 45,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1678143900,
+  "sourceUrl": "https://www.spigotmc.org/resources/90411/history/"
 }

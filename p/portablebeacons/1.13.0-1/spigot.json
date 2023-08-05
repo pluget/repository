@@ -1,12 +1,9 @@
 {
-  "name": "1.13.0-1",
-  "version": {
-    "name": "1.13.0.1",
-    "downloadUrl": "resources/portablebeacons.74566/download?version=479616",
-    "numberOfDownloads": 145,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1671954000,
-    "sourceUrl": "https://www.spigotmc.org/resources/portablebeacons.74566/history"
-  }
+  "name": "1.13.0.1",
+  "downloadUrl": "resources/portablebeacons.74566/download?version=479616",
+  "numberOfDownloads": 145,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1671954000,
+  "sourceUrl": "https://www.spigotmc.org/resources/portablebeacons.74566/history"
 }

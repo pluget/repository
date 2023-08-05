@@ -1,12 +1,9 @@
 {
   "name": "1.1.1-1.4.5",
-  "version": {
-    "name": "1.1.1-1.4.5",
-    "downloadUrl": "resources/expansion-statz.57873/download?version=278528",
-    "numberOfDownloads": 35,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1560388260,
-    "sourceUrl": "https://www.spigotmc.org/resources/expansion-statz.57873/history"
-  }
+  "downloadUrl": "resources/expansion-statz.57873/download?version=278528",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1560388260,
+  "sourceUrl": "https://www.spigotmc.org/resources/expansion-statz.57873/history"
 }

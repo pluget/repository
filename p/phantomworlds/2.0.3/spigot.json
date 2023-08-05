@@ -1,12 +1,9 @@
 {
   "name": "2.0.3",
-  "version": {
-    "name": "2.0.3",
-    "downloadUrl": "resources/phantomworlds.84099/download?version=449033",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 9,
-    "releaseDate": 1650074520,
-    "sourceUrl": "https://www.spigotmc.org/resources/phantomworlds.84099/history"
-  }
+  "downloadUrl": "resources/phantomworlds.84099/download?version=449033",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 9,
+  "releaseDate": 1650074520,
+  "sourceUrl": "https://www.spigotmc.org/resources/phantomworlds.84099/history"
 }

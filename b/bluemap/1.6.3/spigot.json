@@ -1,12 +1,9 @@
 {
   "name": "1.6.3",
-  "version": {
-    "name": "1.6.3",
-    "downloadUrl": "resources/bluemap.83557/download?version=421462",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1633037280,
-    "sourceUrl": "https://www.spigotmc.org/resources/83557/history/"
-  }
+  "downloadUrl": "resources/bluemap.83557/download?version=421462",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1633037280,
+  "sourceUrl": "https://www.spigotmc.org/resources/83557/history/"
 }

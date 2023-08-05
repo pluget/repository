@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/enchantlib.98769/download?version=433948",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1640770380,
-    "sourceUrl": "https://www.spigotmc.org/resources/enchantlib.98769/history"
-  }
+  "downloadUrl": "resources/enchantlib.98769/download?version=433948",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1640770380,
+  "sourceUrl": "https://www.spigotmc.org/resources/enchantlib.98769/history"
 }

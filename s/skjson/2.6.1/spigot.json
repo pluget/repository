@@ -1,12 +1,9 @@
 {
   "name": "2.6.1",
-  "version": {
-    "name": "2.6.1",
-    "downloadUrl": "resources/skjson.106019/download?version=483194",
-    "numberOfDownloads": 26,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1674433920,
-    "sourceUrl": "https://www.spigotmc.org/resources/106019/history/"
-  }
+  "downloadUrl": "resources/skjson.106019/download?version=483194",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1674433920,
+  "sourceUrl": "https://www.spigotmc.org/resources/106019/history/"
 }

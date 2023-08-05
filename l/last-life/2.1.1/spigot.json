@@ -1,12 +1,9 @@
 {
   "name": "2.1.1",
-  "version": {
-    "name": "2.1.1",
-    "downloadUrl": "resources/last-life.91586/download?version=421307",
-    "numberOfDownloads": 1,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1632922680,
-    "sourceUrl": "https://www.spigotmc.org/resources/last-life.91586/history"
-  }
+  "downloadUrl": "resources/last-life.91586/download?version=421307",
+  "numberOfDownloads": 1,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1632922680,
+  "sourceUrl": "https://www.spigotmc.org/resources/last-life.91586/history"
 }

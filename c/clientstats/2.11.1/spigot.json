@@ -1,12 +1,9 @@
 {
   "name": "2.11.1",
-  "version": {
-    "name": "2.11.1",
-    "downloadUrl": "resources/clientstats-bungee.27919/download?version=339143",
-    "numberOfDownloads": 355,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1593019140,
-    "sourceUrl": "https://www.spigotmc.org/resources/clientstats-bungee.27919/history"
-  }
+  "downloadUrl": "resources/clientstats-bungee.27919/download?version=339143",
+  "numberOfDownloads": 355,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1593019140,
+  "sourceUrl": "https://www.spigotmc.org/resources/clientstats-bungee.27919/history"
 }

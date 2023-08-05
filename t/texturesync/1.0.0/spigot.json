@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/texturesync.101485/download?version=449461",
-    "numberOfDownloads": 24,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1650355680,
-    "sourceUrl": "https://www.spigotmc.org/resources/101485/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/texturesync.101485/download?version=449461",
+  "numberOfDownloads": 24,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1650355680,
+  "sourceUrl": "https://www.spigotmc.org/resources/101485/history/"
 }

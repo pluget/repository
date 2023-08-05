@@ -1,12 +1,9 @@
 {
   "name": "1.0.64",
-  "version": {
-    "name": "1.0.64",
-    "downloadUrl": "resources/chunkyborder.84278/download?version=433284",
-    "numberOfDownloads": 4,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1640413200,
-    "sourceUrl": "https://www.spigotmc.org/resources/chunkyborder.84278/history"
-  }
+  "downloadUrl": "resources/chunkyborder.84278/download?version=433284",
+  "numberOfDownloads": 4,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1640413200,
+  "sourceUrl": "https://www.spigotmc.org/resources/chunkyborder.84278/history"
 }

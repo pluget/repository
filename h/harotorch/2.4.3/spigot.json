@@ -1,12 +1,9 @@
 {
   "name": "2.4.3",
-  "version": {
-    "name": "2.4.3",
-    "downloadUrl": "resources/harotorch.70065/download?version=431012",
-    "numberOfDownloads": 145,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1639231140,
-    "sourceUrl": "https://www.spigotmc.org/resources/harotorch.70065/history"
-  }
+  "downloadUrl": "resources/harotorch.70065/download?version=431012",
+  "numberOfDownloads": 145,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1639231140,
+  "sourceUrl": "https://www.spigotmc.org/resources/harotorch.70065/history"
 }

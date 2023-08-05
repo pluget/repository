@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/liveatlas-alternative-map-ui-dynmap-squaremap-pl3xmap-overviewer.86939/download?version=405226",
-    "numberOfDownloads": 626,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1624483920,
-    "sourceUrl": "https://www.spigotmc.org/resources/liveatlas-alternative-map-ui-dynmap-squaremap-pl3xmap-overviewer.86939/history"
-  }
+  "downloadUrl": "resources/liveatlas-alternative-map-ui-dynmap-squaremap-pl3xmap-overviewer.86939/download?version=405226",
+  "numberOfDownloads": 626,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1624483920,
+  "sourceUrl": "https://www.spigotmc.org/resources/liveatlas-alternative-map-ui-dynmap-squaremap-pl3xmap-overviewer.86939/history"
 }

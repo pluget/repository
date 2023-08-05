@@ -1,12 +1,9 @@
 {
   "name": "1.6.3",
-  "version": {
-    "name": "1.6.3",
-    "downloadUrl": "resources/autoreconnect-bungeecord-reconnect.62729/download?version=362987",
-    "numberOfDownloads": 210,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1603351380,
-    "sourceUrl": "https://www.spigotmc.org/resources/autoreconnect-bungeecord-reconnect.62729/history"
-  }
+  "downloadUrl": "resources/autoreconnect-bungeecord-reconnect.62729/download?version=362987",
+  "numberOfDownloads": 210,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1603351380,
+  "sourceUrl": "https://www.spigotmc.org/resources/autoreconnect-bungeecord-reconnect.62729/history"
 }

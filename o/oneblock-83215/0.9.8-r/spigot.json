@@ -1,12 +1,9 @@
 {
-  "name": "0.9.8-r",
-  "version": {
-    "name": "0.9.8r",
-    "downloadUrl": "resources/oneblock.83215/download?version=446408",
-    "numberOfDownloads": 7,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1648147800,
-    "sourceUrl": "https://www.spigotmc.org/resources/oneblock.83215/history"
-  }
+  "name": "0.9.8r",
+  "downloadUrl": "resources/oneblock.83215/download?version=446408",
+  "numberOfDownloads": 7,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1648147800,
+  "sourceUrl": "https://www.spigotmc.org/resources/oneblock.83215/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "0.1.0",
-  "version": {
-    "name": "0.1",
-    "downloadUrl": "resources/pve-bosses-%E2%9C%851-14-1-19-3%E2%9C%85.104029/download?version=463762",
-    "numberOfDownloads": 50,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1659520740,
-    "sourceUrl": "https://www.spigotmc.org/resources/pve-bosses-%E2%9C%851-14-1-19-3%E2%9C%85.104029/history"
-  }
+  "name": "0.1",
+  "downloadUrl": "resources/pve-bosses-%E2%9C%851-14-1-19-3%E2%9C%85.104029/download?version=463762",
+  "numberOfDownloads": 50,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1659520740,
+  "sourceUrl": "https://www.spigotmc.org/resources/pve-bosses-%E2%9C%851-14-1-19-3%E2%9C%85.104029/history"
 }

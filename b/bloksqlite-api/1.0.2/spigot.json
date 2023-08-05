@@ -1,12 +1,9 @@
 {
   "name": "1.0.2",
-  "version": {
-    "name": "1.0.2",
-    "downloadUrl": "resources/bloksqlite-api.94043/download?version=407932",
-    "numberOfDownloads": 40,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1625733660,
-    "sourceUrl": "https://www.spigotmc.org/resources/bloksqlite-api.94043/history"
-  }
+  "downloadUrl": "resources/bloksqlite-api.94043/download?version=407932",
+  "numberOfDownloads": 40,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1625733660,
+  "sourceUrl": "https://www.spigotmc.org/resources/bloksqlite-api.94043/history"
 }

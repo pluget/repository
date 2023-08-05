@@ -1,12 +1,9 @@
 {
-  "name": "1.8.0",
-  "version": {
-    "name": "1.8",
-    "downloadUrl": "resources/player-settings.14622/download?version=54979",
-    "numberOfDownloads": 222,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1448479620,
-    "sourceUrl": "https://www.spigotmc.org/resources/player-settings.14622/history"
-  }
+  "name": "1.8",
+  "downloadUrl": "resources/player-settings.14622/download?version=54979",
+  "numberOfDownloads": 222,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1448479620,
+  "sourceUrl": "https://www.spigotmc.org/resources/player-settings.14622/history"
 }

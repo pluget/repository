@@ -1,12 +1,9 @@
 {
   "name": "1.3.3",
-  "version": {
-    "name": "1.3.3",
-    "downloadUrl": "resources/galistener-master.105159/download?version=468883",
-    "numberOfDownloads": 128,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1662722280,
-    "sourceUrl": "https://www.spigotmc.org/resources/105159/history/"
-  }
+  "downloadUrl": "resources/galistener-master.105159/download?version=468883",
+  "numberOfDownloads": 128,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1662722280,
+  "sourceUrl": "https://www.spigotmc.org/resources/105159/history/"
 }

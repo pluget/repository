@@ -1,12 +1,9 @@
 {
-  "name": "6.0.0",
-  "version": {
-    "name": "v6.0.0",
-    "downloadUrl": "resources/admin-tools.81484/download?version=365722",
-    "numberOfDownloads": 184,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1604709600,
-    "sourceUrl": "https://www.spigotmc.org/resources/admin-tools.81484/history"
-  }
+  "name": "v6.0.0",
+  "downloadUrl": "resources/admin-tools.81484/download?version=365722",
+  "numberOfDownloads": 184,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1604709600,
+  "sourceUrl": "https://www.spigotmc.org/resources/admin-tools.81484/history"
 }

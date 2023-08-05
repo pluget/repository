@@ -1,12 +1,9 @@
 {
   "name": "2.4.3",
-  "version": {
-    "name": "2.4.3",
-    "downloadUrl": "resources/bungeetablistplus.313/download?version=75563",
-    "numberOfDownloads": 1,
-    "rating": 7.2,
-    "numberOfVotes": 5,
-    "releaseDate": 1458063420,
-    "sourceUrl": "https://www.spigotmc.org/resources/bungeetablistplus.313/history"
-  }
+  "downloadUrl": "resources/bungeetablistplus.313/download?version=75563",
+  "numberOfDownloads": 1,
+  "rating": 7.2,
+  "numberOfVotes": 5,
+  "releaseDate": 1458063420,
+  "sourceUrl": "https://www.spigotmc.org/resources/bungeetablistplus.313/history"
 }

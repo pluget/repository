@@ -1,12 +1,9 @@
 {
   "name": "1.5.8",
-  "version": {
-    "name": "1.5.8",
-    "downloadUrl": "resources/advanced-gathering.65356/download?version=395752",
-    "numberOfDownloads": 8,
-    "rating": 6.6666666666666,
-    "numberOfVotes": 3,
-    "releaseDate": 1619318580,
-    "sourceUrl": "https://www.spigotmc.org/resources/advanced-gathering.65356/history"
-  }
+  "downloadUrl": "resources/advanced-gathering.65356/download?version=395752",
+  "numberOfDownloads": 8,
+  "rating": 6.6666666666666,
+  "numberOfVotes": 3,
+  "releaseDate": 1619318580,
+  "sourceUrl": "https://www.spigotmc.org/resources/advanced-gathering.65356/history"
 }

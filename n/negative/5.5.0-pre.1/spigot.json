@@ -1,12 +1,9 @@
 {
-  "name": "5.5.0-pre.1",
-  "version": {
-    "name": "5.5",
-    "downloadUrl": "resources/negative-addon-for-anticheats.100650/download?version=446843",
-    "numberOfDownloads": 18,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1648473900,
-    "sourceUrl": "https://www.spigotmc.org/resources/negative-addon-for-anticheats.100650/history"
-  }
+  "name": "5.5",
+  "downloadUrl": "resources/negative-addon-for-anticheats.100650/download?version=446843",
+  "numberOfDownloads": 18,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1648473900,
+  "sourceUrl": "https://www.spigotmc.org/resources/negative-addon-for-anticheats.100650/history"
 }

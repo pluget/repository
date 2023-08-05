@@ -1,12 +1,9 @@
 {
   "name": "9.0.3",
-  "version": {
-    "name": "9.0.3",
-    "downloadUrl": "resources/terraformgenerator-alpha-1-16-5-1-19-4.75132/download?version=467308",
-    "numberOfDownloads": 4,
-    "rating": 10,
-    "numberOfVotes": 6,
-    "releaseDate": 1661605740,
-    "sourceUrl": "https://www.spigotmc.org/resources/75132/history/"
-  }
+  "downloadUrl": "resources/terraformgenerator-alpha-1-16-5-1-19-4.75132/download?version=467308",
+  "numberOfDownloads": 4,
+  "rating": 10,
+  "numberOfVotes": 6,
+  "releaseDate": 1661605740,
+  "sourceUrl": "https://www.spigotmc.org/resources/75132/history/"
 }

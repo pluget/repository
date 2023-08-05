@@ -1,12 +1,9 @@
 {
   "name": "1.8.7",
-  "version": {
-    "name": "1.8.7",
-    "downloadUrl": "resources/tokenmanager.8610/download?version=64660",
-    "numberOfDownloads": 205,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1453615740,
-    "sourceUrl": "https://www.spigotmc.org/resources/tokenmanager.8610/history"
-  }
+  "downloadUrl": "resources/tokenmanager.8610/download?version=64660",
+  "numberOfDownloads": 205,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1453615740,
+  "sourceUrl": "https://www.spigotmc.org/resources/tokenmanager.8610/history"
 }

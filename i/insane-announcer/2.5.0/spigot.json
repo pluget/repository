@@ -1,12 +1,9 @@
 {
   "name": "2.5.0",
-  "version": {
-    "name": "2.5.0",
-    "downloadUrl": "resources/insane-announcer.53334/download?version=260108",
-    "numberOfDownloads": 105,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1549497600,
-    "sourceUrl": "https://www.spigotmc.org/resources/insane-announcer.53334/history"
-  }
+  "downloadUrl": "resources/insane-announcer.53334/download?version=260108",
+  "numberOfDownloads": 105,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1549497600,
+  "sourceUrl": "https://www.spigotmc.org/resources/insane-announcer.53334/history"
 }

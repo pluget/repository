@@ -1,12 +1,9 @@
 {
   "name": "1.9.5",
-  "version": {
-    "name": "1.9.5",
-    "downloadUrl": "resources/skrayfall.10012/download?version=101356",
-    "numberOfDownloads": 3,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1467863580,
-    "sourceUrl": "https://www.spigotmc.org/resources/10012/history/"
-  }
+  "downloadUrl": "resources/skrayfall.10012/download?version=101356",
+  "numberOfDownloads": 3,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1467863580,
+  "sourceUrl": "https://www.spigotmc.org/resources/10012/history/"
 }

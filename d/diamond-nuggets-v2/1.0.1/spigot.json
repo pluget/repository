@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/diamond-nuggets-v2-1-19-1-19-2.104677/download?version=466291",
-    "numberOfDownloads": 36,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660941300,
-    "sourceUrl": "https://www.spigotmc.org/resources/diamond-nuggets-v2-1-19-1-19-2.104677/history"
-  }
+  "downloadUrl": "resources/diamond-nuggets-v2-1-19-1-19-2.104677/download?version=466291",
+  "numberOfDownloads": 36,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660941300,
+  "sourceUrl": "https://www.spigotmc.org/resources/diamond-nuggets-v2-1-19-1-19-2.104677/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/dynamicfaq-your-interactive-faq-1-9-1-19.54245/download?version=213653",
-    "numberOfDownloads": 248,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1521633780,
-    "sourceUrl": "https://www.spigotmc.org/resources/54245/history/"
-  }
+  "downloadUrl": "resources/dynamicfaq-your-interactive-faq-1-9-1-19.54245/download?version=213653",
+  "numberOfDownloads": 248,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1521633780,
+  "sourceUrl": "https://www.spigotmc.org/resources/54245/history/"
 }

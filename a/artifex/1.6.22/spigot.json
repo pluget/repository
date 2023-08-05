@@ -1,12 +1,9 @@
 {
   "name": "1.6.22",
-  "version": {
-    "name": "1.6.22",
-    "downloadUrl": "resources/artifex.101858/download?version=492003",
-    "numberOfDownloads": 8,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1680625.942,
-    "sourceUrl": "https://www.spigotmc.org/resources/artifex.101858/history"
-  }
+  "downloadUrl": "resources/artifex.101858/download?version=492003",
+  "numberOfDownloads": 8,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1680625.942,
+  "sourceUrl": "https://www.spigotmc.org/resources/artifex.101858/history"
 }

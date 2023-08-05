@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/acmd-%E2%8F%B0-%E2%8F%B3-autocommands-1-15-1-18.100090/download?version=441798",
-    "numberOfDownloads": 29,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1645269360,
-    "sourceUrl": "https://www.spigotmc.org/resources/acmd-%E2%8F%B0-%E2%8F%B3-autocommands-1-15-1-18.100090/history"
-  }
+  "downloadUrl": "resources/acmd-%E2%8F%B0-%E2%8F%B3-autocommands-1-15-1-18.100090/download?version=441798",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1645269360,
+  "sourceUrl": "https://www.spigotmc.org/resources/acmd-%E2%8F%B0-%E2%8F%B3-autocommands-1-15-1-18.100090/history"
 }

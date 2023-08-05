@@ -1,12 +1,9 @@
 {
   "name": "2.2.86",
-  "version": {
-    "name": "2.2.86",
-    "downloadUrl": "resources/call-of-minecraft-zombies.81309/download?version=388671",
-    "numberOfDownloads": 144,
-    "rating": 8,
-    "numberOfVotes": 4,
-    "releaseDate": 1615830000,
-    "sourceUrl": "https://www.spigotmc.org/resources/call-of-minecraft-zombies.81309/history"
-  }
+  "downloadUrl": "resources/call-of-minecraft-zombies.81309/download?version=388671",
+  "numberOfDownloads": 144,
+  "rating": 8,
+  "numberOfVotes": 4,
+  "releaseDate": 1615830000,
+  "sourceUrl": "https://www.spigotmc.org/resources/call-of-minecraft-zombies.81309/history"
 }

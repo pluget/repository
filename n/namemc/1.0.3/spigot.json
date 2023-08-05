@@ -1,12 +1,9 @@
 {
   "name": "1.0.3",
-  "version": {
-    "name": "1.0.3",
-    "downloadUrl": "resources/namemc-api-serversmc.88871/download?version=401475",
-    "numberOfDownloads": 246,
-    "rating": 6,
-    "numberOfVotes": 1,
-    "releaseDate": 1622691180,
-    "sourceUrl": "https://www.spigotmc.org/resources/namemc-api-serversmc.88871/history"
-  }
+  "downloadUrl": "resources/namemc-api-serversmc.88871/download?version=401475",
+  "numberOfDownloads": 246,
+  "rating": 6,
+  "numberOfVotes": 1,
+  "releaseDate": 1622691180,
+  "sourceUrl": "https://www.spigotmc.org/resources/namemc-api-serversmc.88871/history"
 }

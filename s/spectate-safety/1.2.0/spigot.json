@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/spectate-safety.98654/download?version=457013",
-    "numberOfDownloads": 36,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655600640,
-    "sourceUrl": "https://www.spigotmc.org/resources/spectate-safety.98654/history"
-  }
+  "downloadUrl": "resources/spectate-safety.98654/download?version=457013",
+  "numberOfDownloads": 36,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655600640,
+  "sourceUrl": "https://www.spigotmc.org/resources/spectate-safety.98654/history"
 }

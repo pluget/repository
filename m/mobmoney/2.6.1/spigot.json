@@ -1,12 +1,9 @@
 {
   "name": "2.6.1",
-  "version": {
-    "name": "2.6.1",
-    "downloadUrl": "resources/mobmoney.19852/download?version=378116",
-    "numberOfDownloads": 4,
-    "rating": 9.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1610917620,
-    "sourceUrl": "https://www.spigotmc.org/resources/mobmoney.19852/history"
-  }
+  "downloadUrl": "resources/mobmoney.19852/download?version=378116",
+  "numberOfDownloads": 4,
+  "rating": 9.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1610917620,
+  "sourceUrl": "https://www.spigotmc.org/resources/mobmoney.19852/history"
 }

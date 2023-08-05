@@ -1,12 +1,9 @@
 {
   "name": "8.0.0",
-  "version": {
-    "name": "8.0.0",
-    "downloadUrl": "resources/creeperheal.13346/download?version=459409",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1657028700,
-    "sourceUrl": "https://www.spigotmc.org/resources/13346/history/"
-  }
+  "downloadUrl": "resources/creeperheal.13346/download?version=459409",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1657028700,
+  "sourceUrl": "https://www.spigotmc.org/resources/13346/history/"
 }

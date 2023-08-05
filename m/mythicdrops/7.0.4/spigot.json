@@ -1,12 +1,9 @@
 {
   "name": "7.0.4",
-  "version": {
-    "name": "7.0.4",
-    "downloadUrl": "resources/mythicdrops.6114/download?version=387350",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1615164360,
-    "sourceUrl": "https://www.spigotmc.org/resources/mythicdrops.6114/history"
-  }
+  "downloadUrl": "resources/mythicdrops.6114/download?version=387350",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1615164360,
+  "sourceUrl": "https://www.spigotmc.org/resources/mythicdrops.6114/history"
 }

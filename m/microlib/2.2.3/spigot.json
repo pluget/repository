@@ -1,12 +1,9 @@
 {
   "name": "2.2.3",
-  "version": {
-    "name": "2.2.3",
-    "downloadUrl": "resources/microlib.84017/download?version=392662",
-    "numberOfDownloads": 97,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1617790500,
-    "sourceUrl": "https://www.spigotmc.org/resources/microlib.84017/history"
-  }
+  "downloadUrl": "resources/microlib.84017/download?version=392662",
+  "numberOfDownloads": 97,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1617790500,
+  "sourceUrl": "https://www.spigotmc.org/resources/microlib.84017/history"
 }

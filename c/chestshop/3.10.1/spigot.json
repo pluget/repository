@@ -1,12 +1,9 @@
 {
   "name": "3.10.1",
-  "version": {
-    "name": "3.10.1",
-    "downloadUrl": "resources/chestshop.51856/download?version=315306",
-    "numberOfDownloads": 30,
-    "rating": 9.7142857142858,
-    "numberOfVotes": 7,
-    "releaseDate": 1582387500,
-    "sourceUrl": "https://www.spigotmc.org/resources/chestshop.51856/history"
-  }
+  "downloadUrl": "resources/chestshop.51856/download?version=315306",
+  "numberOfDownloads": 30,
+  "rating": 9.7142857142858,
+  "numberOfVotes": 7,
+  "releaseDate": 1582387500,
+  "sourceUrl": "https://www.spigotmc.org/resources/chestshop.51856/history"
 }

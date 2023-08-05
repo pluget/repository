@@ -1,12 +1,9 @@
 {
   "name": "1.0.2",
-  "version": {
-    "name": "1.0.2",
-    "downloadUrl": "resources/announcer.107397/download?version=490293",
-    "numberOfDownloads": 40,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1679507700,
-    "sourceUrl": "https://www.spigotmc.org/resources/announcer.107397/history"
-  }
+  "downloadUrl": "resources/announcer.107397/download?version=490293",
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1679507700,
+  "sourceUrl": "https://www.spigotmc.org/resources/announcer.107397/history"
 }

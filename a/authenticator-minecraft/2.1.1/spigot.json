@@ -1,12 +1,9 @@
 {
   "name": "2.1.1",
-  "version": {
-    "name": "2.1.1",
-    "downloadUrl": "resources/authenticator-minecraft.103098/download?version=480751",
-    "numberOfDownloads": 84,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672689180,
-    "sourceUrl": "https://www.spigotmc.org/resources/authenticator-minecraft.103098/history"
-  }
+  "downloadUrl": "resources/authenticator-minecraft.103098/download?version=480751",
+  "numberOfDownloads": 84,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672689180,
+  "sourceUrl": "https://www.spigotmc.org/resources/authenticator-minecraft.103098/history"
 }

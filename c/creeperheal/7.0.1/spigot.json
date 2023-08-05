@@ -1,12 +1,9 @@
 {
   "name": "7.0.1",
-  "version": {
-    "name": "7.0.1",
-    "downloadUrl": "resources/creeperheal.13346/download?version=127313",
-    "numberOfDownloads": 466,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1480544460,
-    "sourceUrl": "https://www.spigotmc.org/resources/13346/history/"
-  }
+  "downloadUrl": "resources/creeperheal.13346/download?version=127313",
+  "numberOfDownloads": 466,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1480544460,
+  "sourceUrl": "https://www.spigotmc.org/resources/13346/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/spigot-miner.104088/download?version=464465",
-    "numberOfDownloads": 16,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1659841440,
-    "sourceUrl": "https://www.spigotmc.org/resources/spigot-miner.104088/history"
-  }
+  "downloadUrl": "resources/spigot-miner.104088/download?version=464465",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1659841440,
+  "sourceUrl": "https://www.spigotmc.org/resources/spigot-miner.104088/history"
 }

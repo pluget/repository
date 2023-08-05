@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/smiley-player-trader.74063/download?version=356505",
-    "numberOfDownloads": 75,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1599896280,
-    "sourceUrl": "https://www.spigotmc.org/resources/74063/history/"
-  }
+  "downloadUrl": "resources/smiley-player-trader.74063/download?version=356505",
+  "numberOfDownloads": 75,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1599896280,
+  "sourceUrl": "https://www.spigotmc.org/resources/74063/history/"
 }

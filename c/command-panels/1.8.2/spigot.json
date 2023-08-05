@@ -1,12 +1,9 @@
 {
   "name": "1.8.2",
-  "version": {
-    "name": "1.8.2",
-    "downloadUrl": "resources/commandpanels.67788/download?version=281914",
-    "numberOfDownloads": 150,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1562110920,
-    "sourceUrl": "https://www.spigotmc.org/resources/67788/history/"
-  }
+  "downloadUrl": "resources/commandpanels.67788/download?version=281914",
+  "numberOfDownloads": 150,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1562110920,
+  "sourceUrl": "https://www.spigotmc.org/resources/67788/history/"
 }

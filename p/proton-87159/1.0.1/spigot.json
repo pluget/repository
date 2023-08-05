@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/proton-cross-server-plugin-messaging.87159/download?version=374296",
-    "numberOfDownloads": 61,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1609166040,
-    "sourceUrl": "https://www.spigotmc.org/resources/proton-cross-server-plugin-messaging.87159/history"
-  }
+  "downloadUrl": "resources/proton-cross-server-plugin-messaging.87159/download?version=374296",
+  "numberOfDownloads": 61,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1609166040,
+  "sourceUrl": "https://www.spigotmc.org/resources/proton-cross-server-plugin-messaging.87159/history"
 }

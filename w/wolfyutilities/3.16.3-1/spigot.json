@@ -1,12 +1,9 @@
 {
-  "name": "3.16.3-1",
-  "version": {
-    "name": "3.16.3.1",
-    "downloadUrl": "resources/wolfyutilities-core-plugin-api-1-16-1-19.64124/download?version=444192",
-    "numberOfDownloads": 410,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646668560,
-    "sourceUrl": "https://www.spigotmc.org/resources/64124/history/"
-  }
+  "name": "3.16.3.1",
+  "downloadUrl": "resources/wolfyutilities-core-plugin-api-1-16-1-19.64124/download?version=444192",
+  "numberOfDownloads": 410,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646668560,
+  "sourceUrl": "https://www.spigotmc.org/resources/64124/history/"
 }

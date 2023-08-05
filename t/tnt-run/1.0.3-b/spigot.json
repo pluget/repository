@@ -1,12 +1,9 @@
 {
-  "name": "1.0.3-b",
-  "version": {
-    "name": "1.0.3b",
-    "downloadUrl": "resources/tnt-run-1-9-1-19.83196/download?version=357060",
-    "numberOfDownloads": 73,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1600156020,
-    "sourceUrl": "https://www.spigotmc.org/resources/tnt-run-1-9-1-19.83196/history"
-  }
+  "name": "1.0.3b",
+  "downloadUrl": "resources/tnt-run-1-9-1-19.83196/download?version=357060",
+  "numberOfDownloads": 73,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1600156020,
+  "sourceUrl": "https://www.spigotmc.org/resources/tnt-run-1-9-1-19.83196/history"
 }

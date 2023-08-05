@@ -1,12 +1,9 @@
 {
   "name": "1.4.1",
-  "version": {
-    "name": "1.4.1",
-    "downloadUrl": "resources/anarchystats.66089/download?version=377262",
-    "numberOfDownloads": 47,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1610556780,
-    "sourceUrl": "https://www.spigotmc.org/resources/66089/history/"
-  }
+  "downloadUrl": "resources/anarchystats.66089/download?version=377262",
+  "numberOfDownloads": 47,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1610556780,
+  "sourceUrl": "https://www.spigotmc.org/resources/66089/history/"
 }

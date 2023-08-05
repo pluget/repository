@@ -1,12 +1,9 @@
 {
   "name": "0.0.0-mc1.18.2",
-  "version": {
-    "name": "0.0.0-mc1.18.2",
-    "downloadUrl": "resources/steves-series-gui-library.85154/download?version=450327",
-    "numberOfDownloads": 28,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1650985260,
-    "sourceUrl": "https://www.spigotmc.org/resources/steves-series-gui-library.85154/history"
-  }
+  "downloadUrl": "resources/steves-series-gui-library.85154/download?version=450327",
+  "numberOfDownloads": 28,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1650985260,
+  "sourceUrl": "https://www.spigotmc.org/resources/steves-series-gui-library.85154/history"
 }

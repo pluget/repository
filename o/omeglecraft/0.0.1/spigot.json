@@ -1,12 +1,9 @@
 {
   "name": "0.0.1",
-  "version": {
-    "name": "0.0.1",
-    "downloadUrl": "resources/omeglecraft.102556/download?version=455866",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655021820,
-    "sourceUrl": "https://www.spigotmc.org/resources/omeglecraft.102556/history"
-  }
+  "downloadUrl": "resources/omeglecraft.102556/download?version=455866",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655021820,
+  "sourceUrl": "https://www.spigotmc.org/resources/omeglecraft.102556/history"
 }

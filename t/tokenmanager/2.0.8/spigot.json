@@ -1,12 +1,9 @@
 {
   "name": "2.0.8",
-  "version": {
-    "name": "2.0.8",
-    "downloadUrl": "resources/tokenmanager.8610/download?version=165019",
-    "numberOfDownloads": 2,
-    "rating": 8.8888888888888,
-    "numberOfVotes": 9,
-    "releaseDate": 1497235200,
-    "sourceUrl": "https://www.spigotmc.org/resources/tokenmanager.8610/history"
-  }
+  "downloadUrl": "resources/tokenmanager.8610/download?version=165019",
+  "numberOfDownloads": 2,
+  "rating": 8.8888888888888,
+  "numberOfVotes": 9,
+  "releaseDate": 1497235200,
+  "sourceUrl": "https://www.spigotmc.org/resources/tokenmanager.8610/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "0.2.0-BETA",
-  "version": {
-    "name": "v0.2.0-BETA",
-    "downloadUrl": "resources/mccosmetics-beta-version.101609/download?version=450041",
-    "numberOfDownloads": 130,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1650773700,
-    "sourceUrl": "https://www.spigotmc.org/resources/101609/history/"
-  }
+  "name": "v0.2.0-BETA",
+  "downloadUrl": "resources/mccosmetics-beta-version.101609/download?version=450041",
+  "numberOfDownloads": 130,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1650773700,
+  "sourceUrl": "https://www.spigotmc.org/resources/101609/history/"
 }

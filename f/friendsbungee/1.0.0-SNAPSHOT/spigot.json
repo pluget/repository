@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-SNAPSHOT",
-  "version": {
-    "name": "1.0-SNAPSHOT",
-    "downloadUrl": "resources/friendsbungee.103013/download?version=458807",
-    "numberOfDownloads": 114,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1656682920,
-    "sourceUrl": "https://www.spigotmc.org/resources/friendsbungee.103013/history"
-  }
+  "name": "1.0-SNAPSHOT",
+  "downloadUrl": "resources/friendsbungee.103013/download?version=458807",
+  "numberOfDownloads": 114,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1656682920,
+  "sourceUrl": "https://www.spigotmc.org/resources/friendsbungee.103013/history"
 }

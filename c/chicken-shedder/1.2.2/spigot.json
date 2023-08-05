@@ -1,12 +1,9 @@
 {
   "name": "1.2.2",
-  "version": {
-    "name": "1.2.2",
-    "downloadUrl": "resources/chicken-shedder.99449/download?version=456384",
-    "numberOfDownloads": 162,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1655257800,
-    "sourceUrl": "https://www.spigotmc.org/resources/99449/history/"
-  }
+  "downloadUrl": "resources/chicken-shedder.99449/download?version=456384",
+  "numberOfDownloads": 162,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1655257800,
+  "sourceUrl": "https://www.spigotmc.org/resources/99449/history/"
 }

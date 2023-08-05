@@ -1,12 +1,9 @@
 {
-  "name": "6.0.0",
-  "version": {
-    "name": "6.0",
-    "downloadUrl": "resources/command-blocker.5280/download?version=188573",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1507566480,
-    "sourceUrl": "https://www.spigotmc.org/resources/command-blocker.5280/history"
-  }
+  "name": "6.0",
+  "downloadUrl": "resources/command-blocker.5280/download?version=188573",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1507566480,
+  "sourceUrl": "https://www.spigotmc.org/resources/command-blocker.5280/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.12.1",
-  "version": {
-    "name": "2.12.1",
-    "downloadUrl": "resources/skillslibrary.93523/download?version=491183",
-    "numberOfDownloads": 7,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1680103380,
-    "sourceUrl": "https://www.spigotmc.org/resources/skillslibrary.93523/history"
-  }
+  "downloadUrl": "resources/skillslibrary.93523/download?version=491183",
+  "numberOfDownloads": 7,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1680103380,
+  "sourceUrl": "https://www.spigotmc.org/resources/skillslibrary.93523/history"
 }

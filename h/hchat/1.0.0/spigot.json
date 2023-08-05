@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/hchat.107089/download?version=480501",
-    "numberOfDownloads": 18,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1672519980,
-    "sourceUrl": "https://www.spigotmc.org/resources/hchat.107089/history"
-  }
+  "downloadUrl": "resources/hchat.107089/download?version=480501",
+  "numberOfDownloads": 18,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1672519980,
+  "sourceUrl": "https://www.spigotmc.org/resources/hchat.107089/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.12.2",
-  "version": {
-    "name": "1.12.2",
-    "downloadUrl": "resources/simplechat.108229/download?version=487107",
-    "numberOfDownloads": 5,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1677256980,
-    "sourceUrl": "https://www.spigotmc.org/resources/simplechat.108229/history"
-  }
+  "downloadUrl": "resources/simplechat.108229/download?version=487107",
+  "numberOfDownloads": 5,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1677256980,
+  "sourceUrl": "https://www.spigotmc.org/resources/simplechat.108229/history"
 }

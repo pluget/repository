@@ -1,12 +1,9 @@
 {
   "name": "0.6.17-ALPHA-1.19.2",
-  "version": {
-    "name": "0.6.17-ALPHA-1.19.2",
-    "downloadUrl": "resources/limbo-standalone-server-lightweight-solution-for-afk-or-waiting-rooms-in-your-server-network.82468/download?version=464305",
-    "numberOfDownloads": 357,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1659787860,
-    "sourceUrl": "https://www.spigotmc.org/resources/82468/history/"
-  }
+  "downloadUrl": "resources/limbo-standalone-server-lightweight-solution-for-afk-or-waiting-rooms-in-your-server-network.82468/download?version=464305",
+  "numberOfDownloads": 357,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1659787860,
+  "sourceUrl": "https://www.spigotmc.org/resources/82468/history/"
 }

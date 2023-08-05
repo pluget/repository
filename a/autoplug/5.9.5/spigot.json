@@ -1,12 +1,9 @@
 {
   "name": "5.9.5",
-  "version": {
-    "name": "5.9.5",
-    "downloadUrl": "resources/autoplug-automatic-updater-for-plugins-mods-server-java-itself.78414/download?version=444414",
-    "numberOfDownloads": 338,
-    "rating": 2,
-    "numberOfVotes": 1,
-    "releaseDate": 1646823660,
-    "sourceUrl": "https://www.spigotmc.org/resources/autoplug-automatic-updater-for-plugins-mods-server-java-itself.78414/history"
-  }
+  "downloadUrl": "resources/autoplug-automatic-updater-for-plugins-mods-server-java-itself.78414/download?version=444414",
+  "numberOfDownloads": 338,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releaseDate": 1646823660,
+  "sourceUrl": "https://www.spigotmc.org/resources/autoplug-automatic-updater-for-plugins-mods-server-java-itself.78414/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "3.1.51",
-  "version": {
-    "name": "3.1.51",
-    "downloadUrl": "resources/luckperms.28140/download?version=159712",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1494794880,
-    "sourceUrl": "https://www.spigotmc.org/resources/luckperms.28140/history"
-  }
+  "downloadUrl": "resources/luckperms.28140/download?version=159712",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1494794880,
+  "sourceUrl": "https://www.spigotmc.org/resources/luckperms.28140/history"
 }

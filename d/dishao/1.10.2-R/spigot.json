@@ -1,12 +1,9 @@
 {
   "name": "1.10.2-R",
-  "version": {
-    "name": "1.10.2-R",
-    "downloadUrl": "resources/dishao.106176/download?version=476097",
-    "numberOfDownloads": 14,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1669076700,
-    "sourceUrl": "https://www.spigotmc.org/resources/dishao.106176/history"
-  }
+  "downloadUrl": "resources/dishao.106176/download?version=476097",
+  "numberOfDownloads": 14,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1669076700,
+  "sourceUrl": "https://www.spigotmc.org/resources/dishao.106176/history"
 }

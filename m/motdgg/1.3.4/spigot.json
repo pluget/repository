@@ -1,12 +1,9 @@
 {
   "name": "1.3.4",
-  "version": {
-    "name": "1.3.4",
-    "downloadUrl": "resources/motd-gg.106501/download?version=491838",
-    "numberOfDownloads": 22,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1680516420,
-    "sourceUrl": "https://www.spigotmc.org/resources/motd-gg.106501/history"
-  }
+  "downloadUrl": "resources/motd-gg.106501/download?version=491838",
+  "numberOfDownloads": 22,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1680516420,
+  "sourceUrl": "https://www.spigotmc.org/resources/motd-gg.106501/history"
 }

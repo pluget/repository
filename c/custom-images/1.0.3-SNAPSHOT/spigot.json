@@ -1,12 +1,9 @@
 {
   "name": "1.0.3-SNAPSHOT",
-  "version": {
-    "name": "1.0.3-SNAPSHOT",
-    "downloadUrl": "resources/custom-images.53036/download?version=208046",
-    "numberOfDownloads": 907,
-    "rating": 9.75,
-    "numberOfVotes": 8,
-    "releaseDate": 1518495540,
-    "sourceUrl": "https://www.spigotmc.org/resources/custom-images.53036/history"
-  }
+  "downloadUrl": "resources/custom-images.53036/download?version=208046",
+  "numberOfDownloads": 907,
+  "rating": 9.75,
+  "numberOfVotes": 8,
+  "releaseDate": 1518495540,
+  "sourceUrl": "https://www.spigotmc.org/resources/custom-images.53036/history"
 }

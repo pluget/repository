@@ -1,12 +1,9 @@
 {
-  "name": "1.1.100-c",
-  "version": {
-    "name": "1.1.100c",
-    "downloadUrl": "resources/quality-armory.47561/download?version=226005",
-    "numberOfDownloads": 223,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1529113920,
-    "sourceUrl": "https://www.spigotmc.org/resources/quality-armory.47561/history"
-  }
+  "name": "1.1.100c",
+  "downloadUrl": "resources/quality-armory.47561/download?version=226005",
+  "numberOfDownloads": 223,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1529113920,
+  "sourceUrl": "https://www.spigotmc.org/resources/quality-armory.47561/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.5.0-SNAPSHOT",
-  "version": {
-    "name": "2.5.0-SNAPSHOT",
-    "downloadUrl": "resources/spicord.64918/download?version=304775",
-    "numberOfDownloads": 168,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1576213380,
-    "sourceUrl": "https://www.spigotmc.org/resources/64918/history/"
-  }
+  "downloadUrl": "resources/spicord.64918/download?version=304775",
+  "numberOfDownloads": 168,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1576213380,
+  "sourceUrl": "https://www.spigotmc.org/resources/64918/history/"
 }

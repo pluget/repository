@@ -1,12 +1,9 @@
 {
   "name": "1.9.1",
-  "version": {
-    "name": "1.9.1",
-    "downloadUrl": "resources/banitem-1-7-1-19.67701/download?version=293394",
-    "numberOfDownloads": 288,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1568102640,
-    "sourceUrl": "https://www.spigotmc.org/resources/67701/history/"
-  }
+  "downloadUrl": "resources/banitem-1-7-1-19.67701/download?version=293394",
+  "numberOfDownloads": 288,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1568102640,
+  "sourceUrl": "https://www.spigotmc.org/resources/67701/history/"
 }

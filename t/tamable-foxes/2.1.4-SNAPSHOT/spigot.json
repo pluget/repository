@@ -1,12 +1,9 @@
 {
   "name": "2.1.4-SNAPSHOT",
-  "version": {
-    "name": "2.1.4-SNAPSHOT",
-    "downloadUrl": "resources/tamable-foxes-1-14-x-1-19-2.69537/download?version=410017",
-    "numberOfDownloads": 650,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1626661020,
-    "sourceUrl": "https://www.spigotmc.org/resources/tamable-foxes-1-14-x-1-19-2.69537/history"
-  }
+  "downloadUrl": "resources/tamable-foxes-1-14-x-1-19-2.69537/download?version=410017",
+  "numberOfDownloads": 650,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1626661020,
+  "sourceUrl": "https://www.spigotmc.org/resources/tamable-foxes-1-14-x-1-19-2.69537/history"
 }

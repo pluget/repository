@@ -1,12 +1,9 @@
 {
-  "name": "9.3.0",
-  "version": {
-    "name": "9.3",
-    "downloadUrl": "resources/tntrun_reloaded-tntrun-for-1-13-1-19.53359/download?version=348551",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1596486300,
-    "sourceUrl": "https://www.spigotmc.org/resources/53359/history/"
-  }
+  "name": "9.3",
+  "downloadUrl": "resources/tntrun_reloaded-tntrun-for-1-13-1-19.53359/download?version=348551",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1596486300,
+  "sourceUrl": "https://www.spigotmc.org/resources/53359/history/"
 }

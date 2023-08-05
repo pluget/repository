@@ -1,12 +1,9 @@
 {
   "name": "1.0.6",
-  "version": {
-    "name": "1.0.6",
-    "downloadUrl": "resources/votifierplus.74040/download?version=441069",
-    "numberOfDownloads": 224,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1644775080,
-    "sourceUrl": "https://www.spigotmc.org/resources/votifierplus.74040/history"
-  }
+  "downloadUrl": "resources/votifierplus.74040/download?version=441069",
+  "numberOfDownloads": 224,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1644775080,
+  "sourceUrl": "https://www.spigotmc.org/resources/votifierplus.74040/history"
 }

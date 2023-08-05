@@ -1,12 +1,9 @@
 {
   "name": "2.4.0-beta",
-  "version": {
-    "name": "2.4.0-beta",
-    "downloadUrl": "resources/1-9-1-19-custom-recipes-and-crafting-craftenhance.65058/download?version=342405",
-    "numberOfDownloads": 305,
-    "rating": 9,
-    "numberOfVotes": 4,
-    "releaseDate": 1594058160,
-    "sourceUrl": "https://www.spigotmc.org/resources/1-9-1-19-custom-recipes-and-crafting-craftenhance.65058/history"
-  }
+  "downloadUrl": "resources/1-9-1-19-custom-recipes-and-crafting-craftenhance.65058/download?version=342405",
+  "numberOfDownloads": 305,
+  "rating": 9,
+  "numberOfVotes": 4,
+  "releaseDate": 1594058160,
+  "sourceUrl": "https://www.spigotmc.org/resources/1-9-1-19-custom-recipes-and-crafting-craftenhance.65058/history"
 }

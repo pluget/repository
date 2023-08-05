@@ -1,12 +1,9 @@
 {
   "name": "1.3.5",
-  "version": {
-    "name": "1.3.5",
-    "downloadUrl": "resources/advancedworldcreatorapi.89100/download?version=392286",
-    "numberOfDownloads": 42,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1617620460,
-    "sourceUrl": "https://www.spigotmc.org/resources/89100/history/"
-  }
+  "downloadUrl": "resources/advancedworldcreatorapi.89100/download?version=392286",
+  "numberOfDownloads": 42,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1617620460,
+  "sourceUrl": "https://www.spigotmc.org/resources/89100/history/"
 }

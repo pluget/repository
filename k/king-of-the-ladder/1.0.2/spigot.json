@@ -1,12 +1,9 @@
 {
   "name": "1.0.2",
-  "version": {
-    "name": "1.0.2",
-    "downloadUrl": "resources/king-of-the-ladder-1-8-1-19-4.80686/download?version=340335",
-    "numberOfDownloads": 144,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1593349980,
-    "sourceUrl": "https://www.spigotmc.org/resources/king-of-the-ladder-1-8-1-19-4.80686/history"
-  }
+  "downloadUrl": "resources/king-of-the-ladder-1-8-1-19-4.80686/download?version=340335",
+  "numberOfDownloads": 144,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1593349980,
+  "sourceUrl": "https://www.spigotmc.org/resources/king-of-the-ladder-1-8-1-19-4.80686/history"
 }

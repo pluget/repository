@@ -1,12 +1,9 @@
 {
   "name": "1.3.0",
-  "version": {
-    "name": "1.3.0",
-    "downloadUrl": "resources/farmassistreboot-1-13-1-19-3.64064/download?version=474711",
-    "numberOfDownloads": 355,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1667839680,
-    "sourceUrl": "https://www.spigotmc.org/resources/64064/history/"
-  }
+  "downloadUrl": "resources/farmassistreboot-1-13-1-19-3.64064/download?version=474711",
+  "numberOfDownloads": 355,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1667839680,
+  "sourceUrl": "https://www.spigotmc.org/resources/64064/history/"
 }

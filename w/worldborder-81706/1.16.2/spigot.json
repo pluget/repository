@@ -1,12 +1,9 @@
 {
   "name": "1.16.2",
-  "version": {
-    "name": "1.16.2",
-    "downloadUrl": "resources/worldborder-pures-fork.81706/download?version=351784",
-    "numberOfDownloads": 434,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1597804560,
-    "sourceUrl": "https://www.spigotmc.org/resources/worldborder-pures-fork.81706/history"
-  }
+  "downloadUrl": "resources/worldborder-pures-fork.81706/download?version=351784",
+  "numberOfDownloads": 434,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1597804560,
+  "sourceUrl": "https://www.spigotmc.org/resources/worldborder-pures-fork.81706/history"
 }

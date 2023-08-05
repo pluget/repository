@@ -1,12 +1,9 @@
 {
-  "name": "5.0.1-8-(MC-1.9-1.9.4)",
-  "version": {
-    "name": "5.0.1.8 (MC 1.9-1.9.4)",
-    "downloadUrl": "resources/ships.2072/download?version=80508",
-    "numberOfDownloads": 389,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1459846680,
-    "sourceUrl": "https://www.spigotmc.org/resources/ships.2072/history"
-  }
+  "name": "5.0.1.8 (MC 1.9-1.9.4)",
+  "downloadUrl": "resources/ships.2072/download?version=80508",
+  "numberOfDownloads": 389,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1459846680,
+  "sourceUrl": "https://www.spigotmc.org/resources/ships.2072/history"
 }

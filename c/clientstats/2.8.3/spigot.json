@@ -1,12 +1,9 @@
 {
   "name": "2.8.3",
-  "version": {
-    "name": "2.8.3",
-    "downloadUrl": "resources/clientstats-bungee.27919/download?version=163996",
-    "numberOfDownloads": 263,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1496852100,
-    "sourceUrl": "https://www.spigotmc.org/resources/clientstats-bungee.27919/history"
-  }
+  "downloadUrl": "resources/clientstats-bungee.27919/download?version=163996",
+  "numberOfDownloads": 263,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1496852100,
+  "sourceUrl": "https://www.spigotmc.org/resources/clientstats-bungee.27919/history"
 }

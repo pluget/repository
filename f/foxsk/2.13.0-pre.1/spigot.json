@@ -1,12 +1,9 @@
 {
-  "name": "2.13.0-pre.1",
-  "version": {
-    "name": "2.13",
-    "downloadUrl": "resources/foxsk.93426/download?version=420204",
-    "numberOfDownloads": 45,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1632120180,
-    "sourceUrl": "https://www.spigotmc.org/resources/93426/history/"
-  }
+  "name": "2.13",
+  "downloadUrl": "resources/foxsk.93426/download?version=420204",
+  "numberOfDownloads": 45,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1632120180,
+  "sourceUrl": "https://www.spigotmc.org/resources/93426/history/"
 }

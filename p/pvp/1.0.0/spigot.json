@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/pvp.108160/download?version=486763",
-    "numberOfDownloads": 40,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1676989500,
-    "sourceUrl": "https://www.spigotmc.org/resources/pvp.108160/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/pvp.108160/download?version=486763",
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1676989500,
+  "sourceUrl": "https://www.spigotmc.org/resources/pvp.108160/history"
 }

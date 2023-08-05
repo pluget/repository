@@ -1,12 +1,9 @@
 {
   "name": "1.4.1",
-  "version": {
-    "name": "1.4.1",
-    "downloadUrl": "resources/lightapi.4510/download?version=40718",
-    "numberOfDownloads": 355,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1440162600,
-    "sourceUrl": "https://www.spigotmc.org/resources/lightapi.4510/history"
-  }
+  "downloadUrl": "resources/lightapi.4510/download?version=40718",
+  "numberOfDownloads": 355,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1440162600,
+  "sourceUrl": "https://www.spigotmc.org/resources/lightapi.4510/history"
 }

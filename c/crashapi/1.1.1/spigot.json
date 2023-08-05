@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/crashapi.82229/download?version=439448",
-    "numberOfDownloads": 1,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1643775600,
-    "sourceUrl": "https://www.spigotmc.org/resources/82229/history/"
-  }
+  "downloadUrl": "resources/crashapi.82229/download?version=439448",
+  "numberOfDownloads": 1,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1643775600,
+  "sourceUrl": "https://www.spigotmc.org/resources/82229/history/"
 }

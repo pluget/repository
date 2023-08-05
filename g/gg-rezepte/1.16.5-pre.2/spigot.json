@@ -1,12 +1,9 @@
 {
-  "name": "1.16.5-pre.2",
-  "version": {
-    "name": "1.16.5",
-    "downloadUrl": "resources/gg-rezepte-griefergames-recipes.79346/download?version=462916",
-    "numberOfDownloads": 9,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1659084960,
-    "sourceUrl": "https://www.spigotmc.org/resources/gg-rezepte-griefergames-recipes.79346/history"
-  }
+  "name": "1.16.5",
+  "downloadUrl": "resources/gg-rezepte-griefergames-recipes.79346/download?version=462916",
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1659084960,
+  "sourceUrl": "https://www.spigotmc.org/resources/gg-rezepte-griefergames-recipes.79346/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.10.0",
-  "version": {
-    "name": "2.10.0",
-    "downloadUrl": "resources/jedcore.100214/download?version=453614",
-    "numberOfDownloads": 123,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1653575700,
-    "sourceUrl": "https://www.spigotmc.org/resources/jedcore.100214/history"
-  }
+  "downloadUrl": "resources/jedcore.100214/download?version=453614",
+  "numberOfDownloads": 123,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1653575700,
+  "sourceUrl": "https://www.spigotmc.org/resources/jedcore.100214/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "10.1.0",
-  "version": {
-    "name": "10.1",
-    "downloadUrl": "resources/cchat-1-8-1-18-1.98993/download?version=435231",
-    "numberOfDownloads": 79,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1641433440,
-    "sourceUrl": "https://www.spigotmc.org/resources/cchat-1-8-1-18-1.98993/history"
-  }
+  "name": "10.1",
+  "downloadUrl": "resources/cchat-1-8-1-18-1.98993/download?version=435231",
+  "numberOfDownloads": 79,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1641433440,
+  "sourceUrl": "https://www.spigotmc.org/resources/cchat-1-8-1-18-1.98993/history"
 }

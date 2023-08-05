@@ -1,12 +1,9 @@
 {
   "name": "0.0.2",
-  "version": {
-    "name": "0.0.2",
-    "downloadUrl": "resources/betterfood.50469/download?version=197334",
-    "numberOfDownloads": 85,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1512746760,
-    "sourceUrl": "https://www.spigotmc.org/resources/betterfood.50469/history"
-  }
+  "downloadUrl": "resources/betterfood.50469/download?version=197334",
+  "numberOfDownloads": 85,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1512746760,
+  "sourceUrl": "https://www.spigotmc.org/resources/betterfood.50469/history"
 }

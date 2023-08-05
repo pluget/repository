@@ -1,12 +1,9 @@
 {
   "name": "3.6.3-SNAPSHOT",
-  "version": {
-    "name": "3.6.3-SNAPSHOT",
-    "downloadUrl": "resources/protocollib.1997/download?version=6965",
-    "numberOfDownloads": 40,
-    "rating": 9.6923076923076,
-    "numberOfVotes": 13,
-    "releaseDate": 1417283640,
-    "sourceUrl": "https://www.spigotmc.org/resources/protocollib.1997/history"
-  }
+  "downloadUrl": "resources/protocollib.1997/download?version=6965",
+  "numberOfDownloads": 40,
+  "rating": 9.6923076923076,
+  "numberOfVotes": 13,
+  "releaseDate": 1417283640,
+  "sourceUrl": "https://www.spigotmc.org/resources/protocollib.1997/history"
 }

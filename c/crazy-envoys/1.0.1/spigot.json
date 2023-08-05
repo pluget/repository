@@ -1,12 +1,9 @@
 {
-  "name": "1.0.1",
-  "version": {
-    "name": "v1.0.1",
-    "downloadUrl": "resources/crazy-envoys.32870/download?version=128561",
-    "numberOfDownloads": 171,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1481080320,
-    "sourceUrl": "https://www.spigotmc.org/resources/32870/history/"
-  }
+  "name": "v1.0.1",
+  "downloadUrl": "resources/crazy-envoys.32870/download?version=128561",
+  "numberOfDownloads": 171,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1481080320,
+  "sourceUrl": "https://www.spigotmc.org/resources/32870/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/mysql-sync.101554/download?version=454979",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1654613700,
-    "sourceUrl": "https://www.spigotmc.org/resources/mysql-sync.101554/history"
-  }
+  "downloadUrl": "resources/mysql-sync.101554/download?version=454979",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1654613700,
+  "sourceUrl": "https://www.spigotmc.org/resources/mysql-sync.101554/history"
 }

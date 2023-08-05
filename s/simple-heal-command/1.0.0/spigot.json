@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/simple-heal-command.101741/download?version=450721",
-    "numberOfDownloads": 77,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1651312380,
-    "sourceUrl": "https://www.spigotmc.org/resources/101741/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/simple-heal-command.101741/download?version=450721",
+  "numberOfDownloads": 77,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1651312380,
+  "sourceUrl": "https://www.spigotmc.org/resources/101741/history/"
 }

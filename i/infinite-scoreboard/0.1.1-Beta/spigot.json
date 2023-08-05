@@ -1,12 +1,9 @@
 {
   "name": "0.1.1-Beta",
-  "version": {
-    "name": "0.1.1-Beta",
-    "downloadUrl": "resources/infinite-scoreboard.87425/download?version=377358",
-    "numberOfDownloads": 558,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1610612940,
-    "sourceUrl": "https://www.spigotmc.org/resources/infinite-scoreboard.87425/history"
-  }
+  "downloadUrl": "resources/infinite-scoreboard.87425/download?version=377358",
+  "numberOfDownloads": 558,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1610612940,
+  "sourceUrl": "https://www.spigotmc.org/resources/infinite-scoreboard.87425/history"
 }

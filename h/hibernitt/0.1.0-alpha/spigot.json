@@ -1,12 +1,9 @@
 {
   "name": "0.1.0-alpha",
-  "version": {
-    "name": "0.1.0-alpha",
-    "downloadUrl": "resources/hibernitt.106789/download?version=478671",
-    "numberOfDownloads": 21,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1671303780,
-    "sourceUrl": "https://www.spigotmc.org/resources/106789/history/"
-  }
+  "downloadUrl": "resources/hibernitt.106789/download?version=478671",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1671303780,
+  "sourceUrl": "https://www.spigotmc.org/resources/106789/history/"
 }

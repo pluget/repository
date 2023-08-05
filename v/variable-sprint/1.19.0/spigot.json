@@ -1,12 +1,9 @@
 {
-  "name": "1.19.0",
-  "version": {
-    "name": "1.19",
-    "downloadUrl": "resources/variable-sprint.105946/download?version=473515",
-    "numberOfDownloads": 27,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1666842300,
-    "sourceUrl": "https://www.spigotmc.org/resources/105946/history/"
-  }
+  "name": "1.19",
+  "downloadUrl": "resources/variable-sprint.105946/download?version=473515",
+  "numberOfDownloads": 27,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1666842300,
+  "sourceUrl": "https://www.spigotmc.org/resources/105946/history/"
 }

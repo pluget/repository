@@ -1,12 +1,9 @@
 {
   "name": "0.0.12",
-  "version": {
-    "name": "0.0.12",
-    "downloadUrl": "resources/combatlogx.31689/download?version=126831",
-    "numberOfDownloads": 202,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1480289580,
-    "sourceUrl": "https://www.spigotmc.org/resources/combatlogx.31689/history"
-  }
+  "downloadUrl": "resources/combatlogx.31689/download?version=126831",
+  "numberOfDownloads": 202,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1480289580,
+  "sourceUrl": "https://www.spigotmc.org/resources/combatlogx.31689/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.4",
-  "version": {
-    "name": "1.0.4",
-    "downloadUrl": "resources/hidden-armor.100374/download?version=481649",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1673289840,
-    "sourceUrl": "https://www.spigotmc.org/resources/100374/history/"
-  }
+  "downloadUrl": "resources/hidden-armor.100374/download?version=481649",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1673289840,
+  "sourceUrl": "https://www.spigotmc.org/resources/100374/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.18.0-v2",
-  "version": {
-    "name": "Minecraft 1.18 v2",
-    "downloadUrl": "resources/knokko-core.88178/download?version=444855",
-    "numberOfDownloads": 64,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1647095100,
-    "sourceUrl": "https://www.spigotmc.org/resources/88178/history/"
-  }
+  "name": "Minecraft 1.18 v2",
+  "downloadUrl": "resources/knokko-core.88178/download?version=444855",
+  "numberOfDownloads": 64,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1647095100,
+  "sourceUrl": "https://www.spigotmc.org/resources/88178/history/"
 }

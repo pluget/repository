@@ -1,12 +1,9 @@
 {
   "name": "1.15.42",
-  "version": {
-    "name": "1.15.42",
-    "downloadUrl": "resources/staff.83562/download?version=386076",
-    "numberOfDownloads": 24,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1614542700,
-    "sourceUrl": "https://www.spigotmc.org/resources/staff.83562/history"
-  }
+  "downloadUrl": "resources/staff.83562/download?version=386076",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1614542700,
+  "sourceUrl": "https://www.spigotmc.org/resources/staff.83562/history"
 }

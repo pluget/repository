@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-pre1",
-  "version": {
-    "name": "1.0pre1",
-    "downloadUrl": "resources/ghostchat.103209/download?version=459872",
-    "numberOfDownloads": 11,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657302360,
-    "sourceUrl": "https://www.spigotmc.org/resources/ghostchat.103209/history"
-  }
+  "name": "1.0pre1",
+  "downloadUrl": "resources/ghostchat.103209/download?version=459872",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657302360,
+  "sourceUrl": "https://www.spigotmc.org/resources/ghostchat.103209/history"
 }

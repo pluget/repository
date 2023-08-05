@@ -1,12 +1,9 @@
 {
   "name": "0.1.7",
-  "version": {
-    "name": "0.1.7",
-    "downloadUrl": "resources/1-17-playtimerewards.100231/download?version=457391",
-    "numberOfDownloads": 334,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655825760,
-    "sourceUrl": "https://www.spigotmc.org/resources/1-17-playtimerewards.100231/history"
-  }
+  "downloadUrl": "resources/1-17-playtimerewards.100231/download?version=457391",
+  "numberOfDownloads": 334,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655825760,
+  "sourceUrl": "https://www.spigotmc.org/resources/1-17-playtimerewards.100231/history"
 }

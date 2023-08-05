@@ -1,12 +1,9 @@
 {
   "name": "1.12.2",
-  "version": {
-    "name": "1.12.2",
-    "downloadUrl": "resources/chat-time.100001/download?version=441167",
-    "numberOfDownloads": 12,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1644849000,
-    "sourceUrl": "https://www.spigotmc.org/resources/chat-time.100001/history"
-  }
+  "downloadUrl": "resources/chat-time.100001/download?version=441167",
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1644849000,
+  "sourceUrl": "https://www.spigotmc.org/resources/chat-time.100001/history"
 }

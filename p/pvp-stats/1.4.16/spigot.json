@@ -1,12 +1,9 @@
 {
   "name": "1.4.16",
-  "version": {
-    "name": "1.4.16",
-    "downloadUrl": "resources/pvp-stats.59124/download?version=323635",
-    "numberOfDownloads": 101,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1586516520,
-    "sourceUrl": "https://www.spigotmc.org/resources/pvp-stats.59124/history"
-  }
+  "downloadUrl": "resources/pvp-stats.59124/download?version=323635",
+  "numberOfDownloads": 101,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1586516520,
+  "sourceUrl": "https://www.spigotmc.org/resources/pvp-stats.59124/history"
 }

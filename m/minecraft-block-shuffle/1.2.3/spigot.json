@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/minecraft-block-shuffle.95458/download?version=459655",
-    "numberOfDownloads": 36,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657152240,
-    "sourceUrl": "https://www.spigotmc.org/resources/minecraft-block-shuffle.95458/history"
-  }
+  "downloadUrl": "resources/minecraft-block-shuffle.95458/download?version=459655",
+  "numberOfDownloads": 36,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657152240,
+  "sourceUrl": "https://www.spigotmc.org/resources/minecraft-block-shuffle.95458/history"
 }

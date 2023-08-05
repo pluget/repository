@@ -1,12 +1,9 @@
 {
   "name": "1.5.8",
-  "version": {
-    "name": "1.5.8",
-    "downloadUrl": "resources/plugin-hide-1-13-1-19-choose-which-commands-players-can-execute-and-see.68767/download?version=310482",
-    "numberOfDownloads": 377,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1579460640,
-    "sourceUrl": "https://www.spigotmc.org/resources/68767/history/"
-  }
+  "downloadUrl": "resources/plugin-hide-1-13-1-19-choose-which-commands-players-can-execute-and-see.68767/download?version=310482",
+  "numberOfDownloads": 377,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1579460640,
+  "sourceUrl": "https://www.spigotmc.org/resources/68767/history/"
 }

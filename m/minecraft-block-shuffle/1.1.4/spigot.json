@@ -1,12 +1,9 @@
 {
   "name": "1.1.4",
-  "version": {
-    "name": "1.1.4",
-    "downloadUrl": "resources/minecraft-block-shuffle.95458/download?version=417117",
-    "numberOfDownloads": 121,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1630152000,
-    "sourceUrl": "https://www.spigotmc.org/resources/minecraft-block-shuffle.95458/history"
-  }
+  "downloadUrl": "resources/minecraft-block-shuffle.95458/download?version=417117",
+  "numberOfDownloads": 121,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1630152000,
+  "sourceUrl": "https://www.spigotmc.org/resources/minecraft-block-shuffle.95458/history"
 }

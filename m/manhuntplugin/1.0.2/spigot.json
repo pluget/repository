@@ -1,12 +1,9 @@
 {
   "name": "1.0.2",
-  "version": {
-    "name": "1.0.2",
-    "downloadUrl": "resources/manhunt-plugin.103256/download?version=460704",
-    "numberOfDownloads": 48,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657791480,
-    "sourceUrl": "https://www.spigotmc.org/resources/manhunt-plugin.103256/history"
-  }
+  "downloadUrl": "resources/manhunt-plugin.103256/download?version=460704",
+  "numberOfDownloads": 48,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657791480,
+  "sourceUrl": "https://www.spigotmc.org/resources/manhunt-plugin.103256/history"
 }

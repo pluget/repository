@@ -1,12 +1,9 @@
 {
   "name": "1.0.5",
-  "version": {
-    "name": "1.0.5",
-    "downloadUrl": "resources/fastblockbreak-1-8-1-19.101985/download?version=452158",
-    "numberOfDownloads": 29,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1652497980,
-    "sourceUrl": "https://www.spigotmc.org/resources/101985/history/"
-  }
+  "downloadUrl": "resources/fastblockbreak-1-8-1-19.101985/download?version=452158",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1652497980,
+  "sourceUrl": "https://www.spigotmc.org/resources/101985/history/"
 }

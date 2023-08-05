@@ -1,12 +1,9 @@
 {
   "name": "3.0.5",
-  "version": {
-    "name": "3.0.5",
-    "downloadUrl": "resources/homespawn.14108/download?version=248224",
-    "numberOfDownloads": 455,
-    "rating": 4,
-    "numberOfVotes": 1,
-    "releaseDate": 1542095640,
-    "sourceUrl": "https://www.spigotmc.org/resources/homespawn.14108/history"
-  }
+  "downloadUrl": "resources/homespawn.14108/download?version=248224",
+  "numberOfDownloads": 455,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releaseDate": 1542095640,
+  "sourceUrl": "https://www.spigotmc.org/resources/homespawn.14108/history"
 }

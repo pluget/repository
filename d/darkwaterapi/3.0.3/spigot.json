@@ -1,12 +1,9 @@
 {
   "name": "3.0.3",
-  "version": {
-    "name": "3.0.3",
-    "downloadUrl": "resources/darkwaterapi.104040/download?version=471185",
-    "numberOfDownloads": 29,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1664719080,
-    "sourceUrl": "https://www.spigotmc.org/resources/darkwaterapi.104040/history"
-  }
+  "downloadUrl": "resources/darkwaterapi.104040/download?version=471185",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1664719080,
+  "sourceUrl": "https://www.spigotmc.org/resources/darkwaterapi.104040/history"
 }

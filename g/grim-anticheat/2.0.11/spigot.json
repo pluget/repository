@@ -1,12 +1,9 @@
 {
   "name": "2.0.11",
-  "version": {
-    "name": "2.0.11",
-    "downloadUrl": "resources/grim-anticheat.99923/download?version=442203",
-    "numberOfDownloads": 47,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1645484820,
-    "sourceUrl": "https://www.spigotmc.org/resources/grim-anticheat.99923/history"
-  }
+  "downloadUrl": "resources/grim-anticheat.99923/download?version=442203",
+  "numberOfDownloads": 47,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1645484820,
+  "sourceUrl": "https://www.spigotmc.org/resources/grim-anticheat.99923/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/spigot-teamchat.105018/download?version=468152",
-    "numberOfDownloads": 21,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1662142200,
-    "sourceUrl": "https://www.spigotmc.org/resources/105018/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/spigot-teamchat.105018/download?version=468152",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1662142200,
+  "sourceUrl": "https://www.spigotmc.org/resources/105018/history/"
 }

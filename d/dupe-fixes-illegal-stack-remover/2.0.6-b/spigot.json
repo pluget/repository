@@ -1,12 +1,9 @@
 {
-  "name": "2.0.6-b",
-  "version": {
-    "name": "2.0.6b",
-    "downloadUrl": "resources/dupe-fixes-illegal-stack-remover.44411/download?version=297346",
-    "numberOfDownloads": 458,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1570655700,
-    "sourceUrl": "https://www.spigotmc.org/resources/dupe-fixes-illegal-stack-remover.44411/history"
-  }
+  "name": "2.0.6b",
+  "downloadUrl": "resources/dupe-fixes-illegal-stack-remover.44411/download?version=297346",
+  "numberOfDownloads": 458,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1570655700,
+  "sourceUrl": "https://www.spigotmc.org/resources/dupe-fixes-illegal-stack-remover.44411/history"
 }

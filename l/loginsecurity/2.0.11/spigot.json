@@ -1,12 +1,9 @@
 {
   "name": "2.0.11",
-  "version": {
-    "name": "2.0.11",
-    "downloadUrl": "resources/loginsecurity.19362/download?version=72385",
-    "numberOfDownloads": 2,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1456925940,
-    "sourceUrl": "https://www.spigotmc.org/resources/loginsecurity.19362/history"
-  }
+  "downloadUrl": "resources/loginsecurity.19362/download?version=72385",
+  "numberOfDownloads": 2,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1456925940,
+  "sourceUrl": "https://www.spigotmc.org/resources/loginsecurity.19362/history"
 }

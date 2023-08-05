@@ -1,12 +1,9 @@
 {
-  "name": "3.3.2-1",
-  "version": {
-    "name": "3.3.2.1",
-    "downloadUrl": "resources/pvpmanager-lite.845/download?version=112497",
-    "numberOfDownloads": 1,
-    "rating": 8.6666666666666,
-    "numberOfVotes": 3,
-    "releaseDate": 1472754600,
-    "sourceUrl": "https://www.spigotmc.org/resources/845/history/"
-  }
+  "name": "3.3.2.1",
+  "downloadUrl": "resources/pvpmanager-lite.845/download?version=112497",
+  "numberOfDownloads": 1,
+  "rating": 8.6666666666666,
+  "numberOfVotes": 3,
+  "releaseDate": 1472754600,
+  "sourceUrl": "https://www.spigotmc.org/resources/845/history/"
 }

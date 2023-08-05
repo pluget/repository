@@ -1,12 +1,9 @@
 {
-  "name": "8.5.0",
-  "version": {
-    "name": "8.5",
-    "downloadUrl": "resources/guishop.2451/download?version=384897",
-    "numberOfDownloads": 8,
-    "rating": 8.4,
-    "numberOfVotes": 5,
-    "releaseDate": 1613939520,
-    "sourceUrl": "https://www.spigotmc.org/resources/guishop.2451/history"
-  }
+  "name": "8.5",
+  "downloadUrl": "resources/guishop.2451/download?version=384897",
+  "numberOfDownloads": 8,
+  "rating": 8.4,
+  "numberOfVotes": 5,
+  "releaseDate": 1613939520,
+  "sourceUrl": "https://www.spigotmc.org/resources/guishop.2451/history"
 }

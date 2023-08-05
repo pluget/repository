@@ -1,12 +1,9 @@
 {
   "name": "1.1.7",
-  "version": {
-    "name": "1.1.7",
-    "downloadUrl": "resources/serversystem.78974/download?version=352182",
-    "numberOfDownloads": 66,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1598000640,
-    "sourceUrl": "https://www.spigotmc.org/resources/serversystem.78974/history"
-  }
+  "downloadUrl": "resources/serversystem.78974/download?version=352182",
+  "numberOfDownloads": 66,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1598000640,
+  "sourceUrl": "https://www.spigotmc.org/resources/serversystem.78974/history"
 }

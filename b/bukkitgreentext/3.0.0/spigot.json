@@ -1,12 +1,9 @@
 {
   "name": "3.0.0",
-  "version": {
-    "name": "3.0.0",
-    "downloadUrl": "resources/bukkitgreentext.55295/download?version=458344",
-    "numberOfDownloads": 29,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1656352920,
-    "sourceUrl": "https://www.spigotmc.org/resources/55295/history/"
-  }
+  "downloadUrl": "resources/bukkitgreentext.55295/download?version=458344",
+  "numberOfDownloads": 29,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1656352920,
+  "sourceUrl": "https://www.spigotmc.org/resources/55295/history/"
 }

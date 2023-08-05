@@ -1,12 +1,9 @@
 {
   "name": "5.0.0",
-  "version": {
-    "name": "5.0.0",
-    "downloadUrl": "resources/dtltraders.35890/download?version=254987",
-    "numberOfDownloads": 224,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1546369380,
-    "sourceUrl": "https://www.spigotmc.org/resources/dtltraders.35890/history"
-  }
+  "downloadUrl": "resources/dtltraders.35890/download?version=254987",
+  "numberOfDownloads": 224,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1546369380,
+  "sourceUrl": "https://www.spigotmc.org/resources/dtltraders.35890/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "2.8.0-i",
-  "version": {
-    "name": "2.8i",
-    "downloadUrl": "resources/bank-24k-downloads-updated-for-1-19.18968/download?version=206230",
-    "numberOfDownloads": 313,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1517601720,
-    "sourceUrl": "https://www.spigotmc.org/resources/bank-24k-downloads-updated-for-1-19.18968/history"
-  }
+  "name": "2.8i",
+  "downloadUrl": "resources/bank-24k-downloads-updated-for-1-19.18968/download?version=206230",
+  "numberOfDownloads": 313,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1517601720,
+  "sourceUrl": "https://www.spigotmc.org/resources/bank-24k-downloads-updated-for-1-19.18968/history"
 }

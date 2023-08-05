@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/killstats.99497/download?version=438284",
-    "numberOfDownloads": 321,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1643059860,
-    "sourceUrl": "https://www.spigotmc.org/resources/killstats.99497/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/killstats.99497/download?version=438284",
+  "numberOfDownloads": 321,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1643059860,
+  "sourceUrl": "https://www.spigotmc.org/resources/killstats.99497/history"
 }

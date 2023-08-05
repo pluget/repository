@@ -1,12 +1,9 @@
 {
   "name": "2.0.2",
-  "version": {
-    "name": "2.0.2",
-    "downloadUrl": "resources/mcdeob.77792/download?version=326551",
-    "numberOfDownloads": 62,
-    "rating": 8.8,
-    "numberOfVotes": 5,
-    "releaseDate": 1587766740,
-    "sourceUrl": "https://www.spigotmc.org/resources/mcdeob.77792/history"
-  }
+  "downloadUrl": "resources/mcdeob.77792/download?version=326551",
+  "numberOfDownloads": 62,
+  "rating": 8.8,
+  "numberOfVotes": 5,
+  "releaseDate": 1587766740,
+  "sourceUrl": "https://www.spigotmc.org/resources/mcdeob.77792/history"
 }

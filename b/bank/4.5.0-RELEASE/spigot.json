@@ -1,12 +1,9 @@
 {
   "name": "4.5.0-RELEASE",
-  "version": {
-    "name": "4.5.0-RELEASE",
-    "downloadUrl": "resources/bank-24k-downloads-updated-for-1-19.18968/download?version=414258",
-    "numberOfDownloads": 453,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1628670600,
-    "sourceUrl": "https://www.spigotmc.org/resources/bank-24k-downloads-updated-for-1-19.18968/history"
-  }
+  "downloadUrl": "resources/bank-24k-downloads-updated-for-1-19.18968/download?version=414258",
+  "numberOfDownloads": 453,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1628670600,
+  "sourceUrl": "https://www.spigotmc.org/resources/bank-24k-downloads-updated-for-1-19.18968/history"
 }

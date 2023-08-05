@@ -1,12 +1,9 @@
 {
   "name": "1.12.2",
-  "version": {
-    "name": "1.12.2",
-    "downloadUrl": "resources/xpbank.101132/download?version=488762",
-    "numberOfDownloads": 63,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1678563840,
-    "sourceUrl": "https://www.spigotmc.org/resources/xpbank.101132/history"
-  }
+  "downloadUrl": "resources/xpbank.101132/download?version=488762",
+  "numberOfDownloads": 63,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1678563840,
+  "sourceUrl": "https://www.spigotmc.org/resources/xpbank.101132/history"
 }

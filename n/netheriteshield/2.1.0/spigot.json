@@ -1,12 +1,9 @@
 {
-  "name": "2.1.0",
-  "version": {
-    "name": "2.1",
-    "downloadUrl": "resources/netheriteshield.91813/download?version=415454",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1629294060,
-    "sourceUrl": "https://www.spigotmc.org/resources/91813/history/"
-  }
+  "name": "2.1",
+  "downloadUrl": "resources/netheriteshield.91813/download?version=415454",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1629294060,
+  "sourceUrl": "https://www.spigotmc.org/resources/91813/history/"
 }

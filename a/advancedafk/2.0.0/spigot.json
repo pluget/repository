@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0",
-  "version": {
-    "name": "[1.18] 2.0",
-    "downloadUrl": "",
-    "numberOfDownloads": 50,
-    "rating": 6,
-    "numberOfVotes": 2,
-    "releaseDate": 1642333860,
-    "sourceUrl": "https://www.spigotmc.org/resources/advancedafk.60761/history"
-  }
+  "name": "[1.18] 2.0",
+  "downloadUrl": "",
+  "numberOfDownloads": 50,
+  "rating": 6,
+  "numberOfVotes": 2,
+  "releaseDate": 1642333860,
+  "sourceUrl": "https://www.spigotmc.org/resources/advancedafk.60761/history"
 }

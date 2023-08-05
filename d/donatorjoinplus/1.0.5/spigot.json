@@ -1,12 +1,9 @@
 {
   "name": "1.0.5",
-  "version": {
-    "name": "1.0.5",
-    "downloadUrl": "resources/donatorjoin.8690/download?version=46894",
-    "numberOfDownloads": 618,
-    "rating": 8.5714285714286,
-    "numberOfVotes": 7,
-    "releaseDate": 1443548580,
-    "sourceUrl": "https://www.spigotmc.org/resources/8690/history/"
-  }
+  "downloadUrl": "resources/donatorjoin.8690/download?version=46894",
+  "numberOfDownloads": 618,
+  "rating": 8.5714285714286,
+  "numberOfVotes": 7,
+  "releaseDate": 1443548580,
+  "sourceUrl": "https://www.spigotmc.org/resources/8690/history/"
 }

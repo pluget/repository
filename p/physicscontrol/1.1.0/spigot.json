@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/physicscontrol-1-8-1-19.72124/download?version=456201",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1655168700,
-    "sourceUrl": "https://www.spigotmc.org/resources/physicscontrol-1-8-1-19.72124/history"
-  }
+  "downloadUrl": "resources/physicscontrol-1-8-1-19.72124/download?version=456201",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1655168700,
+  "sourceUrl": "https://www.spigotmc.org/resources/physicscontrol-1-8-1-19.72124/history"
 }

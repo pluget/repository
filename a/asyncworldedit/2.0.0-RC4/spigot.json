@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0-RC4",
-  "version": {
-    "name": "2.0-RC4",
-    "downloadUrl": "resources/asyncworldedit.327/download?version=2556",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1405081920,
-    "sourceUrl": "https://www.spigotmc.org/resources/asyncworldedit.327/history"
-  }
+  "name": "2.0-RC4",
+  "downloadUrl": "resources/asyncworldedit.327/download?version=2556",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1405081920,
+  "sourceUrl": "https://www.spigotmc.org/resources/asyncworldedit.327/history"
 }

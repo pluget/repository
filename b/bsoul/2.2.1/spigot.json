@@ -1,12 +1,9 @@
 {
   "name": "2.2.1",
-  "version": {
-    "name": "2.2.1",
-    "downloadUrl": "resources/bsoul-soulpoints-recode.102499/download?version=455383",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1654780860,
-    "sourceUrl": "https://www.spigotmc.org/resources/102499/history/"
-  }
+  "downloadUrl": "resources/bsoul-soulpoints-recode.102499/download?version=455383",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1654780860,
+  "sourceUrl": "https://www.spigotmc.org/resources/102499/history/"
 }

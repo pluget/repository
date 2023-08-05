@@ -1,12 +1,9 @@
 {
   "name": "4.7.3",
-  "version": {
-    "name": "4.7.3",
-    "downloadUrl": "resources/redlib.78713/download?version=375508",
-    "numberOfDownloads": 40,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1609743300,
-    "sourceUrl": "https://www.spigotmc.org/resources/redlib.78713/history"
-  }
+  "downloadUrl": "resources/redlib.78713/download?version=375508",
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1609743300,
+  "sourceUrl": "https://www.spigotmc.org/resources/redlib.78713/history"
 }

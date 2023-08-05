@@ -1,12 +1,9 @@
 {
   "name": "1.1.4",
-  "version": {
-    "name": "1.1.4",
-    "downloadUrl": "resources/deprecated.101819/download?version=451240",
-    "numberOfDownloads": 67,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1651723080,
-    "sourceUrl": "https://www.spigotmc.org/resources/deprecated.101819/history"
-  }
+  "downloadUrl": "resources/deprecated.101819/download?version=451240",
+  "numberOfDownloads": 67,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1651723080,
+  "sourceUrl": "https://www.spigotmc.org/resources/deprecated.101819/history"
 }

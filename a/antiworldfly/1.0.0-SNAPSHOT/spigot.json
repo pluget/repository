@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-SNAPSHOT",
-  "version": {
-    "name": "1.0-SNAPSHOT",
-    "downloadUrl": "resources/antiworldfly.104959/download?version=467839",
-    "numberOfDownloads": 17,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1661934540,
-    "sourceUrl": "https://www.spigotmc.org/resources/104959/history/"
-  }
+  "name": "1.0-SNAPSHOT",
+  "downloadUrl": "resources/antiworldfly.104959/download?version=467839",
+  "numberOfDownloads": 17,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1661934540,
+  "sourceUrl": "https://www.spigotmc.org/resources/104959/history/"
 }

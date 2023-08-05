@@ -1,12 +1,9 @@
 {
-  "name": "3.6.0",
-  "version": {
-    "name": "3.6",
-    "downloadUrl": "resources/autorank.3239/download?version=38427",
-    "numberOfDownloads": 2,
-    "rating": 8.1666666666666,
-    "numberOfVotes": 12,
-    "releaseDate": 1439049540,
-    "sourceUrl": "https://www.spigotmc.org/resources/autorank.3239/history"
-  }
+  "name": "3.6",
+  "downloadUrl": "resources/autorank.3239/download?version=38427",
+  "numberOfDownloads": 2,
+  "rating": 8.1666666666666,
+  "numberOfVotes": 12,
+  "releaseDate": 1439049540,
+  "sourceUrl": "https://www.spigotmc.org/resources/autorank.3239/history"
 }

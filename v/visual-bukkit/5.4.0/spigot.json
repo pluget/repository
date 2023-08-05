@@ -1,12 +1,9 @@
 {
   "name": "5.4.0",
-  "version": {
-    "name": "5.4.0",
-    "downloadUrl": "resources/visual-bukkit-create-plugins.76474/download?version=459184",
-    "numberOfDownloads": 7,
-    "rating": 8.6666666666666,
-    "numberOfVotes": 3,
-    "releaseDate": 1656891000,
-    "sourceUrl": "https://www.spigotmc.org/resources/visual-bukkit-create-plugins.76474/history"
-  }
+  "downloadUrl": "resources/visual-bukkit-create-plugins.76474/download?version=459184",
+  "numberOfDownloads": 7,
+  "rating": 8.6666666666666,
+  "numberOfVotes": 3,
+  "releaseDate": 1656891000,
+  "sourceUrl": "https://www.spigotmc.org/resources/visual-bukkit-create-plugins.76474/history"
 }

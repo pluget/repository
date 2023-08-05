@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/chattime.100824/download?version=445787",
-    "numberOfDownloads": 35,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1647721140,
-    "sourceUrl": "https://www.spigotmc.org/resources/chattime.100824/history"
-  }
+  "downloadUrl": "resources/chattime.100824/download?version=445787",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1647721140,
+  "sourceUrl": "https://www.spigotmc.org/resources/chattime.100824/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "0.2.2-mc1.18.2",
-  "version": {
-    "name": "0.2.2mc1.18.2",
-    "downloadUrl": "resources/the-gate.70247/download?version=443884",
-    "numberOfDownloads": 347,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646513760,
-    "sourceUrl": "https://www.spigotmc.org/resources/the-gate.70247/history"
-  }
+  "name": "0.2.2mc1.18.2",
+  "downloadUrl": "resources/the-gate.70247/download?version=443884",
+  "numberOfDownloads": 347,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646513760,
+  "sourceUrl": "https://www.spigotmc.org/resources/the-gate.70247/history"
 }

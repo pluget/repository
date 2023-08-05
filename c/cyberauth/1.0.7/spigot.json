@@ -1,12 +1,9 @@
 {
   "name": "1.0.7",
-  "version": {
-    "name": "1.0.7",
-    "downloadUrl": "resources/cyberauth.98429/download?version=455517",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1654850520,
-    "sourceUrl": "https://www.spigotmc.org/resources/cyberauth.98429/history"
-  }
+  "downloadUrl": "resources/cyberauth.98429/download?version=455517",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1654850520,
+  "sourceUrl": "https://www.spigotmc.org/resources/cyberauth.98429/history"
 }

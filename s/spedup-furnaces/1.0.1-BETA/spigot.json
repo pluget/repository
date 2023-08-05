@@ -1,12 +1,9 @@
 {
   "name": "1.0.1-BETA",
-  "version": {
-    "name": "1.0.1-BETA",
-    "downloadUrl": "resources/spedup-furnaces.108326/download?version=487753",
-    "numberOfDownloads": 12,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1677788460,
-    "sourceUrl": "https://www.spigotmc.org/resources/spedup-furnaces.108326/history"
-  }
+  "downloadUrl": "resources/spedup-furnaces.108326/download?version=487753",
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1677788460,
+  "sourceUrl": "https://www.spigotmc.org/resources/spedup-furnaces.108326/history"
 }

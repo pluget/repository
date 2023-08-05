@@ -1,12 +1,9 @@
 {
   "name": "1.3.3",
-  "version": {
-    "name": "1.3.3",
-    "downloadUrl": "resources/bungeeguard.79601/download?version=471195",
-    "numberOfDownloads": 10,
-    "rating": 5.4,
-    "numberOfVotes": 10,
-    "releaseDate": 1664723220,
-    "sourceUrl": "https://www.spigotmc.org/resources/79601/history/"
-  }
+  "downloadUrl": "resources/bungeeguard.79601/download?version=471195",
+  "numberOfDownloads": 10,
+  "rating": 5.4,
+  "numberOfVotes": 10,
+  "releaseDate": 1664723220,
+  "sourceUrl": "https://www.spigotmc.org/resources/79601/history/"
 }

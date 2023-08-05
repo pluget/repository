@@ -1,12 +1,9 @@
 {
-  "name": "0.1.0-ALPHA",
-  "version": {
-    "name": "0.1-ALPHA",
-    "downloadUrl": "resources/smp-plugin.102754/download?version=457139",
-    "numberOfDownloads": 24,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655656980,
-    "sourceUrl": "https://www.spigotmc.org/resources/smp-plugin.102754/history"
-  }
+  "name": "0.1-ALPHA",
+  "downloadUrl": "resources/smp-plugin.102754/download?version=457139",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655656980,
+  "sourceUrl": "https://www.spigotmc.org/resources/smp-plugin.102754/history"
 }

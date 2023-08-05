@@ -1,12 +1,9 @@
 {
-  "name": "1.4.0-SNAPSHOT",
-  "version": {
-    "name": "1.4-SNAPSHOT",
-    "downloadUrl": "resources/beesplus.77224/download?version=324850",
-    "numberOfDownloads": 47,
-    "rating": 4,
-    "numberOfVotes": 1,
-    "releaseDate": 1586956140,
-    "sourceUrl": "https://www.spigotmc.org/resources/beesplus.77224/history"
-  }
+  "name": "1.4-SNAPSHOT",
+  "downloadUrl": "resources/beesplus.77224/download?version=324850",
+  "numberOfDownloads": 47,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releaseDate": 1586956140,
+  "sourceUrl": "https://www.spigotmc.org/resources/beesplus.77224/history"
 }

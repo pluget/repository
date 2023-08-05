@@ -1,12 +1,9 @@
 {
-  "name": "5.12.0",
-  "version": {
-    "name": "5.12",
-    "downloadUrl": "resources/api-commandapi-1-13-1-19-4.62353/download?version=399183",
-    "numberOfDownloads": 509,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1621268220,
-    "sourceUrl": "https://www.spigotmc.org/resources/api-commandapi-1-13-1-19-4.62353/history"
-  }
+  "name": "5.12",
+  "downloadUrl": "resources/api-commandapi-1-13-1-19-4.62353/download?version=399183",
+  "numberOfDownloads": 509,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1621268220,
+  "sourceUrl": "https://www.spigotmc.org/resources/api-commandapi-1-13-1-19-4.62353/history"
 }

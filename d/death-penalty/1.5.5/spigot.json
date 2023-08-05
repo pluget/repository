@@ -1,12 +1,9 @@
 {
   "name": "1.5.5",
-  "version": {
-    "name": "1.5.5",
-    "downloadUrl": "resources/death-penalty.94788/download?version=416285",
-    "numberOfDownloads": 66,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1629712800,
-    "sourceUrl": "https://www.spigotmc.org/resources/death-penalty.94788/history"
-  }
+  "downloadUrl": "resources/death-penalty.94788/download?version=416285",
+  "numberOfDownloads": 66,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1629712800,
+  "sourceUrl": "https://www.spigotmc.org/resources/death-penalty.94788/history"
 }

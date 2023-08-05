@@ -1,12 +1,9 @@
 {
   "name": "2.7.3",
-  "version": {
-    "name": "2.7.3",
-    "downloadUrl": "resources/venturechat.771/download?version=69280",
-    "numberOfDownloads": 433,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1455727200,
-    "sourceUrl": "https://www.spigotmc.org/resources/venturechat.771/history"
-  }
+  "downloadUrl": "resources/venturechat.771/download?version=69280",
+  "numberOfDownloads": 433,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1455727200,
+  "sourceUrl": "https://www.spigotmc.org/resources/venturechat.771/history"
 }

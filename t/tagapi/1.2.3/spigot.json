@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/tagapi.97399/download?version=459801",
-    "numberOfDownloads": 458,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1657249380,
-    "sourceUrl": "https://www.spigotmc.org/resources/tagapi.97399/history"
-  }
+  "downloadUrl": "resources/tagapi.97399/download?version=459801",
+  "numberOfDownloads": 458,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1657249380,
+  "sourceUrl": "https://www.spigotmc.org/resources/tagapi.97399/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "4.3.5",
-  "version": {
-    "name": "4.3.5",
-    "downloadUrl": "resources/better-teams.17129/download?version=443082",
-    "numberOfDownloads": 15,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1646068620,
-    "sourceUrl": "https://www.spigotmc.org/resources/better-teams.17129/history"
-  }
+  "downloadUrl": "resources/better-teams.17129/download?version=443082",
+  "numberOfDownloads": 15,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1646068620,
+  "sourceUrl": "https://www.spigotmc.org/resources/better-teams.17129/history"
 }

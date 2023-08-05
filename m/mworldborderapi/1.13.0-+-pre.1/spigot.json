@@ -1,12 +1,9 @@
 {
-  "name": "1.13.0-+-pre.1",
-  "version": {
-    "name": "1.13+",
-    "downloadUrl": "resources/mworldborderapi-1-13.100931/download?version=446376",
-    "numberOfDownloads": 11,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1648137780,
-    "sourceUrl": "https://www.spigotmc.org/resources/100931/history/"
-  }
+  "name": "1.13+",
+  "downloadUrl": "resources/mworldborderapi-1-13.100931/download?version=446376",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1648137780,
+  "sourceUrl": "https://www.spigotmc.org/resources/100931/history/"
 }

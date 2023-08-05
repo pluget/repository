@@ -1,12 +1,9 @@
 {
   "name": "1.3.1",
-  "version": {
-    "name": "1.3.1",
-    "downloadUrl": "resources/beaconwaypoints.99866/download?version=447484",
-    "numberOfDownloads": 30,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1648927140,
-    "sourceUrl": "https://www.spigotmc.org/resources/beaconwaypoints.99866/history"
-  }
+  "downloadUrl": "resources/beaconwaypoints.99866/download?version=447484",
+  "numberOfDownloads": 30,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1648927140,
+  "sourceUrl": "https://www.spigotmc.org/resources/beaconwaypoints.99866/history"
 }

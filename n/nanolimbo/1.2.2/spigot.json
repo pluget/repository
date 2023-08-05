@@ -1,12 +1,9 @@
 {
   "name": "1.2.2",
-  "version": {
-    "name": "1.2.2",
-    "downloadUrl": "resources/nanolimbo-1-7-1-19.86198/download?version=374162",
-    "numberOfDownloads": 274,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1609096560,
-    "sourceUrl": "https://www.spigotmc.org/resources/nanolimbo-1-7-1-19.86198/history"
-  }
+  "downloadUrl": "resources/nanolimbo-1-7-1-19.86198/download?version=374162",
+  "numberOfDownloads": 274,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1609096560,
+  "sourceUrl": "https://www.spigotmc.org/resources/nanolimbo-1-7-1-19.86198/history"
 }

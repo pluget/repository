@@ -1,12 +1,9 @@
 {
-  "name": "95.0.0",
-  "version": {
-    "name": "build95",
-    "downloadUrl": "resources/landlord-4.44398/download?version=188342",
-    "numberOfDownloads": 498,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1507460640,
-    "sourceUrl": "https://www.spigotmc.org/resources/44398/history/"
-  }
+  "name": "build95",
+  "downloadUrl": "resources/landlord-4.44398/download?version=188342",
+  "numberOfDownloads": 498,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1507460640,
+  "sourceUrl": "https://www.spigotmc.org/resources/44398/history/"
 }

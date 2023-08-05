@@ -1,12 +1,9 @@
 {
   "name": "3.2.8",
-  "version": {
-    "name": "3.2.8",
-    "downloadUrl": "resources/lightapi.4510/download?version=273691",
-    "numberOfDownloads": 1,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1557939120,
-    "sourceUrl": "https://www.spigotmc.org/resources/lightapi.4510/history"
-  }
+  "downloadUrl": "resources/lightapi.4510/download?version=273691",
+  "numberOfDownloads": 1,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1557939120,
+  "sourceUrl": "https://www.spigotmc.org/resources/lightapi.4510/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.19",
-  "version": {
-    "name": "1.0.19",
-    "downloadUrl": "resources/slabbo-1-8-x-1-19-x.81368/download?version=376459",
-    "numberOfDownloads": 171,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1610183280,
-    "sourceUrl": "https://www.spigotmc.org/resources/slabbo-1-8-x-1-19-x.81368/history"
-  }
+  "downloadUrl": "resources/slabbo-1-8-x-1-19-x.81368/download?version=376459",
+  "numberOfDownloads": 171,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1610183280,
+  "sourceUrl": "https://www.spigotmc.org/resources/slabbo-1-8-x-1-19-x.81368/history"
 }

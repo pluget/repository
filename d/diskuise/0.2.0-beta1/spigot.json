@@ -1,12 +1,9 @@
 {
-  "name": "0.2.0-beta1",
-  "version": {
-    "name": "0.2-beta1",
-    "downloadUrl": "resources/diskuise.101529/download?version=450270",
-    "numberOfDownloads": 35,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1650916620,
-    "sourceUrl": "https://www.spigotmc.org/resources/diskuise.101529/history"
-  }
+  "name": "0.2-beta1",
+  "downloadUrl": "resources/diskuise.101529/download?version=450270",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1650916620,
+  "sourceUrl": "https://www.spigotmc.org/resources/diskuise.101529/history"
 }

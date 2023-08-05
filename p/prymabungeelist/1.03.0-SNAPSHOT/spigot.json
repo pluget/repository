@@ -1,12 +1,9 @@
 {
-  "name": "1.03.0-SNAPSHOT",
-  "version": {
-    "name": "1.03 SNAPSHOT",
-    "downloadUrl": "resources/prymabungeelist.102589/download?version=456671",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655396580,
-    "sourceUrl": "https://www.spigotmc.org/resources/102589/history/"
-  }
+  "name": "1.03 SNAPSHOT",
+  "downloadUrl": "resources/prymabungeelist.102589/download?version=456671",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655396580,
+  "sourceUrl": "https://www.spigotmc.org/resources/102589/history/"
 }

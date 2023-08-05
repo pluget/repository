@@ -1,12 +1,9 @@
 {
   "name": "4.9.16",
-  "version": {
-    "name": "4.9.16",
-    "downloadUrl": "resources/tigerreports.25773/download?version=330368",
-    "numberOfDownloads": 1,
-    "rating": 9.7777777777778,
-    "numberOfVotes": 9,
-    "releaseDate": 1589032980,
-    "sourceUrl": "https://www.spigotmc.org/resources/tigerreports.25773/history"
-  }
+  "downloadUrl": "resources/tigerreports.25773/download?version=330368",
+  "numberOfDownloads": 1,
+  "rating": 9.7777777777778,
+  "numberOfVotes": 9,
+  "releaseDate": 1589032980,
+  "sourceUrl": "https://www.spigotmc.org/resources/tigerreports.25773/history"
 }

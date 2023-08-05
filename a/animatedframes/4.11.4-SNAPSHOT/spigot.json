@@ -1,12 +1,9 @@
 {
   "name": "4.11.4-SNAPSHOT",
-  "version": {
-    "name": "4.11.4-SNAPSHOT",
-    "downloadUrl": "resources/animatedframes.5583/download?version=306390",
-    "numberOfDownloads": 5,
-    "rating": 7.7777777777778,
-    "numberOfVotes": 9,
-    "releaseDate": 1577103420,
-    "sourceUrl": "https://www.spigotmc.org/resources/animatedframes.5583/history"
-  }
+  "downloadUrl": "resources/animatedframes.5583/download?version=306390",
+  "numberOfDownloads": 5,
+  "rating": 7.7777777777778,
+  "numberOfVotes": 9,
+  "releaseDate": 1577103420,
+  "sourceUrl": "https://www.spigotmc.org/resources/animatedframes.5583/history"
 }

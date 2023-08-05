@@ -1,12 +1,9 @@
 {
   "name": "1.2.7",
-  "version": {
-    "name": "1.2.7",
-    "downloadUrl": "resources/api-hologramlib.98899/download?version=455924",
-    "numberOfDownloads": 59,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655049360,
-    "sourceUrl": "https://www.spigotmc.org/resources/api-hologramlib.98899/history"
-  }
+  "downloadUrl": "resources/api-hologramlib.98899/download?version=455924",
+  "numberOfDownloads": 59,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655049360,
+  "sourceUrl": "https://www.spigotmc.org/resources/api-hologramlib.98899/history"
 }

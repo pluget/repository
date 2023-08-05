@@ -1,12 +1,9 @@
 {
   "name": "1.7.2",
-  "version": {
-    "name": "1.7.2",
-    "downloadUrl": "resources/deluxehub-3-professional-hub-management.49425/download?version=220232",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1525453740,
-    "sourceUrl": "https://www.spigotmc.org/resources/deluxehub-3-professional-hub-management.49425/history"
-  }
+  "downloadUrl": "resources/deluxehub-3-professional-hub-management.49425/download?version=220232",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1525453740,
+  "sourceUrl": "https://www.spigotmc.org/resources/deluxehub-3-professional-hub-management.49425/history"
 }

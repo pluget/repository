@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/player-stats.104893/download?version=467457",
-    "numberOfDownloads": 59,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1661700000,
-    "sourceUrl": "https://www.spigotmc.org/resources/player-stats.104893/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/player-stats.104893/download?version=467457",
+  "numberOfDownloads": 59,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1661700000,
+  "sourceUrl": "https://www.spigotmc.org/resources/player-stats.104893/history"
 }

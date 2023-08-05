@@ -1,12 +1,9 @@
 {
-  "name": "0.18.0-SNAPSHOT-1081",
-  "version": {
-    "name": "0.18-SNAPSHOT-1081",
-    "downloadUrl": "resources/dungeonsxl.9488/download?version=385932",
-    "numberOfDownloads": 3,
-    "rating": 10,
-    "numberOfVotes": 5,
-    "releaseDate": 1614461220,
-    "sourceUrl": "https://www.spigotmc.org/resources/dungeonsxl.9488/history"
-  }
+  "name": "0.18-SNAPSHOT-1081",
+  "downloadUrl": "resources/dungeonsxl.9488/download?version=385932",
+  "numberOfDownloads": 3,
+  "rating": 10,
+  "numberOfVotes": 5,
+  "releaseDate": 1614461220,
+  "sourceUrl": "https://www.spigotmc.org/resources/dungeonsxl.9488/history"
 }

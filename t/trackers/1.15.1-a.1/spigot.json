@@ -1,12 +1,9 @@
 {
-  "name": "1.15.1-a.1",
-  "version": {
-    "name": "1.15.1.a.1",
-    "downloadUrl": "resources/trackers-1-14-1-18-hologram-compass-trackers.73487/download?version=305851",
-    "numberOfDownloads": 880,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1576789260,
-    "sourceUrl": "https://www.spigotmc.org/resources/73487/history/"
-  }
+  "name": "1.15.1.a.1",
+  "downloadUrl": "resources/trackers-1-14-1-18-hologram-compass-trackers.73487/download?version=305851",
+  "numberOfDownloads": 880,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1576789260,
+  "sourceUrl": "https://www.spigotmc.org/resources/73487/history/"
 }

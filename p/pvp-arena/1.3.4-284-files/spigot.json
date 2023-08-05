@@ -1,12 +1,9 @@
 {
-  "name": "1.3.4-284-files",
-  "version": {
-    "name": "1.3.4.284-files",
-    "downloadUrl": "resources/pvp-arena.16584/download?version=172907",
-    "numberOfDownloads": 1,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1500483660,
-    "sourceUrl": "https://www.spigotmc.org/resources/pvp-arena.16584/history"
-  }
+  "name": "1.3.4.284-files",
+  "downloadUrl": "resources/pvp-arena.16584/download?version=172907",
+  "numberOfDownloads": 1,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1500483660,
+  "sourceUrl": "https://www.spigotmc.org/resources/pvp-arena.16584/history"
 }

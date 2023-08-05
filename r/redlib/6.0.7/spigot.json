@@ -1,12 +1,9 @@
 {
   "name": "6.0.7",
-  "version": {
-    "name": "6.0.7",
-    "downloadUrl": "resources/redlib.78713/download?version=418785",
-    "numberOfDownloads": 63,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1631191320,
-    "sourceUrl": "https://www.spigotmc.org/resources/redlib.78713/history"
-  }
+  "downloadUrl": "resources/redlib.78713/download?version=418785",
+  "numberOfDownloads": 63,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1631191320,
+  "sourceUrl": "https://www.spigotmc.org/resources/redlib.78713/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/missile-warfare.99902/download?version=440609",
-    "numberOfDownloads": 34,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1644487020,
-    "sourceUrl": "https://www.spigotmc.org/resources/99902/history/"
-  }
+  "downloadUrl": "resources/missile-warfare.99902/download?version=440609",
+  "numberOfDownloads": 34,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1644487020,
+  "sourceUrl": "https://www.spigotmc.org/resources/99902/history/"
 }

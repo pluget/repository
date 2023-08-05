@@ -1,12 +1,9 @@
 {
   "name": "2.1.1",
-  "version": {
-    "name": "2.1.1",
-    "downloadUrl": "resources/bowspleef.50721/download?version=480402",
-    "numberOfDownloads": 41,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672464000,
-    "sourceUrl": "https://www.spigotmc.org/resources/bowspleef.50721/history"
-  }
+  "downloadUrl": "resources/bowspleef.50721/download?version=480402",
+  "numberOfDownloads": 41,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672464000,
+  "sourceUrl": "https://www.spigotmc.org/resources/bowspleef.50721/history"
 }

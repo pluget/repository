@@ -1,12 +1,9 @@
 {
   "name": "0.0.4-ALPHA",
-  "version": {
-    "name": "0.0.4-ALPHA",
-    "downloadUrl": "resources/buildablemobs.106380/download?version=477170",
-    "numberOfDownloads": 46,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1670021640,
-    "sourceUrl": "https://www.spigotmc.org/resources/buildablemobs.106380/history"
-  }
+  "downloadUrl": "resources/buildablemobs.106380/download?version=477170",
+  "numberOfDownloads": 46,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1670021640,
+  "sourceUrl": "https://www.spigotmc.org/resources/buildablemobs.106380/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.2.8",
-  "version": {
-    "name": "2.2.8",
-    "downloadUrl": "resources/controlplayer-1-8-8-1-19.102987/download?version=467089",
-    "numberOfDownloads": 37,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1661452380,
-    "sourceUrl": "https://www.spigotmc.org/resources/controlplayer-1-8-8-1-19.102987/history"
-  }
+  "downloadUrl": "resources/controlplayer-1-8-8-1-19.102987/download?version=467089",
+  "numberOfDownloads": 37,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1661452380,
+  "sourceUrl": "https://www.spigotmc.org/resources/controlplayer-1-8-8-1-19.102987/history"
 }

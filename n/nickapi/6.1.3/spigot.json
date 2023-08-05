@@ -1,12 +1,9 @@
 {
   "name": "6.1.3",
-  "version": {
-    "name": "6.1.3",
-    "downloadUrl": "resources/nickapi-advanced-nickapi-1-8-1-19.26013/download?version=393855",
-    "numberOfDownloads": 2,
-    "rating": 8.4,
-    "numberOfVotes": 5,
-    "releaseDate": 1618333380,
-    "sourceUrl": "https://www.spigotmc.org/resources/26013/history/"
-  }
+  "downloadUrl": "resources/nickapi-advanced-nickapi-1-8-1-19.26013/download?version=393855",
+  "numberOfDownloads": 2,
+  "rating": 8.4,
+  "numberOfVotes": 5,
+  "releaseDate": 1618333380,
+  "sourceUrl": "https://www.spigotmc.org/resources/26013/history/"
 }

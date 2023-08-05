@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-PRE-RELEASE",
-  "version": {
-    "name": "1.0-PRE-RELEASE",
-    "downloadUrl": "resources/lifestolen.99220/download?version=462878",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1659048360,
-    "sourceUrl": "https://www.spigotmc.org/resources/lifestolen.99220/history"
-  }
+  "name": "1.0-PRE-RELEASE",
+  "downloadUrl": "resources/lifestolen.99220/download?version=462878",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1659048360,
+  "sourceUrl": "https://www.spigotmc.org/resources/lifestolen.99220/history"
 }

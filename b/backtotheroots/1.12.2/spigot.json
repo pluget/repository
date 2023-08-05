@@ -1,12 +1,9 @@
 {
   "name": "1.12.2",
-  "version": {
-    "name": "1.12.2",
-    "downloadUrl": "resources/backtotheroots.19602/download?version=214442",
-    "numberOfDownloads": 887,
-    "rating": 6,
-    "numberOfVotes": 2,
-    "releaseDate": 1522078560,
-    "sourceUrl": "https://www.spigotmc.org/resources/backtotheroots.19602/history"
-  }
+  "downloadUrl": "resources/backtotheroots.19602/download?version=214442",
+  "numberOfDownloads": 887,
+  "rating": 6,
+  "numberOfVotes": 2,
+  "releaseDate": 1522078560,
+  "sourceUrl": "https://www.spigotmc.org/resources/backtotheroots.19602/history"
 }

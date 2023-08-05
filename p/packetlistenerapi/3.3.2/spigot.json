@@ -1,12 +1,9 @@
 {
   "name": "3.3.2",
-  "version": {
-    "name": "3.3.2",
-    "downloadUrl": "resources/api-packetlistenerapi.2930/download?version=74371",
-    "numberOfDownloads": 974,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1457610960,
-    "sourceUrl": "https://www.spigotmc.org/resources/api-packetlistenerapi.2930/history"
-  }
+  "downloadUrl": "resources/api-packetlistenerapi.2930/download?version=74371",
+  "numberOfDownloads": 974,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1457610960,
+  "sourceUrl": "https://www.spigotmc.org/resources/api-packetlistenerapi.2930/history"
 }

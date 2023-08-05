@@ -1,12 +1,9 @@
 {
   "name": "1.2.8",
-  "version": {
-    "name": "1.2.8",
-    "downloadUrl": "resources/mctranslate-1-19-automatically-translate-per-player.42465/download?version=166860",
-    "numberOfDownloads": 37,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1497975900,
-    "sourceUrl": "https://www.spigotmc.org/resources/42465/history/"
-  }
+  "downloadUrl": "resources/mctranslate-1-19-automatically-translate-per-player.42465/download?version=166860",
+  "numberOfDownloads": 37,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1497975900,
+  "sourceUrl": "https://www.spigotmc.org/resources/42465/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.9.0",
-  "version": {
-    "name": "1.9",
-    "downloadUrl": "resources/graves.74208/download?version=310238",
-    "numberOfDownloads": 352,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1579340400,
-    "sourceUrl": "https://www.spigotmc.org/resources/graves.74208/history"
-  }
+  "name": "1.9",
+  "downloadUrl": "resources/graves.74208/download?version=310238",
+  "numberOfDownloads": 352,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1579340400,
+  "sourceUrl": "https://www.spigotmc.org/resources/graves.74208/history"
 }

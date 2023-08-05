@@ -1,12 +1,9 @@
 {
   "name": "1.2.2",
-  "version": {
-    "name": "1.2.2",
-    "downloadUrl": "resources/pos.107301/download?version=483343",
-    "numberOfDownloads": 3,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1674572940,
-    "sourceUrl": "https://www.spigotmc.org/resources/pos.107301/history"
-  }
+  "downloadUrl": "resources/pos.107301/download?version=483343",
+  "numberOfDownloads": 3,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1674572940,
+  "sourceUrl": "https://www.spigotmc.org/resources/pos.107301/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/autocraft-1-8-x-1-12-x.103165/download?version=463429",
-    "numberOfDownloads": 38,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1659355140,
-    "sourceUrl": "https://www.spigotmc.org/resources/autocraft-1-8-x-1-12-x.103165/history"
-  }
+  "downloadUrl": "resources/autocraft-1-8-x-1-12-x.103165/download?version=463429",
+  "numberOfDownloads": 38,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1659355140,
+  "sourceUrl": "https://www.spigotmc.org/resources/autocraft-1-8-x-1-12-x.103165/history"
 }

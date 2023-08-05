@@ -1,12 +1,9 @@
 {
   "name": "0.18.1",
-  "version": {
-    "name": "0.18.1",
-    "downloadUrl": "resources/choco-random-teleport-1-18-1-19.98896/download?version=457991",
-    "numberOfDownloads": 9,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1656165420,
-    "sourceUrl": "https://www.spigotmc.org/resources/choco-random-teleport-1-18-1-19.98896/history"
-  }
+  "downloadUrl": "resources/choco-random-teleport-1-18-1-19.98896/download?version=457991",
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1656165420,
+  "sourceUrl": "https://www.spigotmc.org/resources/choco-random-teleport-1-18-1-19.98896/history"
 }

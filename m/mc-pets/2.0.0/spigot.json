@@ -1,12 +1,9 @@
 {
   "name": "2.0.0",
-  "version": {
-    "name": "2.0.0",
-    "downloadUrl": "resources/mc-pets-3d-model-pets-mounts.97628/download?version=461180",
-    "numberOfDownloads": 1,
-    "rating": 8,
-    "numberOfVotes": 3,
-    "releaseDate": 1658084220,
-    "sourceUrl": "https://www.spigotmc.org/resources/mc-pets-3d-model-pets-mounts.97628/history"
-  }
+  "downloadUrl": "resources/mc-pets-3d-model-pets-mounts.97628/download?version=461180",
+  "numberOfDownloads": 1,
+  "rating": 8,
+  "numberOfVotes": 3,
+  "releaseDate": 1658084220,
+  "sourceUrl": "https://www.spigotmc.org/resources/mc-pets-3d-model-pets-mounts.97628/history"
 }

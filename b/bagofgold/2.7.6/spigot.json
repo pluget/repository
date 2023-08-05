@@ -1,12 +1,9 @@
 {
   "name": "2.7.6",
-  "version": {
-    "name": "2.7.6",
-    "downloadUrl": "resources/bagofgold.49332/download?version=288480",
-    "numberOfDownloads": 404,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1565416560,
-    "sourceUrl": "https://www.spigotmc.org/resources/bagofgold.49332/history"
-  }
+  "downloadUrl": "resources/bagofgold.49332/download?version=288480",
+  "numberOfDownloads": 404,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1565416560,
+  "sourceUrl": "https://www.spigotmc.org/resources/bagofgold.49332/history"
 }

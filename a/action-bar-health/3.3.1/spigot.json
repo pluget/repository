@@ -1,12 +1,9 @@
 {
   "name": "3.3.1",
-  "version": {
-    "name": "3.3.1",
-    "downloadUrl": "resources/action-bar-health.2661/download?version=277602",
-    "numberOfDownloads": 18,
-    "rating": 8.8,
-    "numberOfVotes": 10,
-    "releaseDate": 1559942760,
-    "sourceUrl": "https://www.spigotmc.org/resources/action-bar-health.2661/history"
-  }
+  "downloadUrl": "resources/action-bar-health.2661/download?version=277602",
+  "numberOfDownloads": 18,
+  "rating": 8.8,
+  "numberOfVotes": 10,
+  "releaseDate": 1559942760,
+  "sourceUrl": "https://www.spigotmc.org/resources/action-bar-health.2661/history"
 }

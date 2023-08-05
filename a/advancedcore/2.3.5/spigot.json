@@ -1,12 +1,9 @@
 {
   "name": "2.3.5",
-  "version": {
-    "name": "2.3.5",
-    "downloadUrl": "resources/advancedcore.28295/download?version=135558",
-    "numberOfDownloads": 124,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1484009760,
-    "sourceUrl": "https://www.spigotmc.org/resources/advancedcore.28295/history"
-  }
+  "downloadUrl": "resources/advancedcore.28295/download?version=135558",
+  "numberOfDownloads": 124,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1484009760,
+  "sourceUrl": "https://www.spigotmc.org/resources/advancedcore.28295/history"
 }

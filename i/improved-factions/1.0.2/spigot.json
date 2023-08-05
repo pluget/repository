@@ -1,12 +1,9 @@
 {
-  "name": "1.0.2",
-  "version": {
-    "name": "BETAv1.0.2",
-    "downloadUrl": "resources/improved-factions.95617/download?version=416860",
-    "numberOfDownloads": 24,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1630012260,
-    "sourceUrl": "https://www.spigotmc.org/resources/improved-factions.95617/history"
-  }
+  "name": "BETAv1.0.2",
+  "downloadUrl": "resources/improved-factions.95617/download?version=416860",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1630012260,
+  "sourceUrl": "https://www.spigotmc.org/resources/improved-factions.95617/history"
 }

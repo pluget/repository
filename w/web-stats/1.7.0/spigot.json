@@ -1,12 +1,9 @@
 {
   "name": "1.7.0",
-  "version": {
-    "name": "1.7.0",
-    "downloadUrl": "resources/web-stats.89649/download?version=449004",
-    "numberOfDownloads": 39,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1650050700,
-    "sourceUrl": "https://www.spigotmc.org/resources/web-stats.89649/history"
-  }
+  "downloadUrl": "resources/web-stats.89649/download?version=449004",
+  "numberOfDownloads": 39,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1650050700,
+  "sourceUrl": "https://www.spigotmc.org/resources/web-stats.89649/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/compressed-hearts.44024/download?version=172334",
-    "numberOfDownloads": 59,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1500254880,
-    "sourceUrl": "https://www.spigotmc.org/resources/compressed-hearts.44024/history"
-  }
+  "downloadUrl": "resources/compressed-hearts.44024/download?version=172334",
+  "numberOfDownloads": 59,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1500254880,
+  "sourceUrl": "https://www.spigotmc.org/resources/compressed-hearts.44024/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.6.16",
-  "version": {
-    "name": "v1.6.16",
-    "downloadUrl": "resources/pvp-stats.59124/download?version=369106",
-    "numberOfDownloads": 247,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1606390920,
-    "sourceUrl": "https://www.spigotmc.org/resources/pvp-stats.59124/history"
-  }
+  "name": "v1.6.16",
+  "downloadUrl": "resources/pvp-stats.59124/download?version=369106",
+  "numberOfDownloads": 247,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1606390920,
+  "sourceUrl": "https://www.spigotmc.org/resources/pvp-stats.59124/history"
 }

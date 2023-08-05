@@ -1,12 +1,9 @@
 {
-  "name": "3.6.0",
-  "version": {
-    "name": "3.6",
-    "downloadUrl": "resources/playtime.26016/download?version=482356",
-    "numberOfDownloads": 10,
-    "rating": 10,
-    "numberOfVotes": 5,
-    "releaseDate": 1673877120,
-    "sourceUrl": "https://www.spigotmc.org/resources/26016/history/"
-  }
+  "name": "3.6",
+  "downloadUrl": "resources/playtime.26016/download?version=482356",
+  "numberOfDownloads": 10,
+  "rating": 10,
+  "numberOfVotes": 5,
+  "releaseDate": 1673877120,
+  "sourceUrl": "https://www.spigotmc.org/resources/26016/history/"
 }

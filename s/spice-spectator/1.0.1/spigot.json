@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/spice-spectator-ssp.100970/download?version=446598",
-    "numberOfDownloads": 14,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1648307580,
-    "sourceUrl": "https://www.spigotmc.org/resources/100970/history/"
-  }
+  "downloadUrl": "resources/spice-spectator-ssp.100970/download?version=446598",
+  "numberOfDownloads": 14,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1648307580,
+  "sourceUrl": "https://www.spigotmc.org/resources/100970/history/"
 }

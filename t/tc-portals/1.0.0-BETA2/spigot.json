@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-BETA2",
-  "version": {
-    "name": "1.0-BETA2",
-    "downloadUrl": "resources/tc-portals.107442/download?version=487540",
-    "numberOfDownloads": 24,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1677611280,
-    "sourceUrl": "https://www.spigotmc.org/resources/tc-portals.107442/history"
-  }
+  "name": "1.0-BETA2",
+  "downloadUrl": "resources/tc-portals.107442/download?version=487540",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1677611280,
+  "sourceUrl": "https://www.spigotmc.org/resources/tc-portals.107442/history"
 }

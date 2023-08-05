@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/plutochat.99282/download?version=454763",
-    "numberOfDownloads": 29,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1654463700,
-    "sourceUrl": "https://www.spigotmc.org/resources/99282/history/"
-  }
+  "downloadUrl": "resources/plutochat.99282/download?version=454763",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1654463700,
+  "sourceUrl": "https://www.spigotmc.org/resources/99282/history/"
 }

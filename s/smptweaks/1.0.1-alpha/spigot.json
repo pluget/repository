@@ -1,12 +1,9 @@
 {
   "name": "1.0.1-alpha",
-  "version": {
-    "name": "1.0.1-alpha",
-    "downloadUrl": "resources/smptweaks.93381/download?version=404235",
-    "numberOfDownloads": 42,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1624044840,
-    "sourceUrl": "https://www.spigotmc.org/resources/smptweaks.93381/history"
-  }
+  "downloadUrl": "resources/smptweaks.93381/download?version=404235",
+  "numberOfDownloads": 42,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1624044840,
+  "sourceUrl": "https://www.spigotmc.org/resources/smptweaks.93381/history"
 }

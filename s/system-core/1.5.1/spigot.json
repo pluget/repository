@@ -1,12 +1,9 @@
 {
   "name": "1.5.1",
-  "version": {
-    "name": "1.5.1",
-    "downloadUrl": "resources/system-core.95848/download?version=418871",
-    "numberOfDownloads": 21,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1631237640,
-    "sourceUrl": "https://www.spigotmc.org/resources/system-core.95848/history"
-  }
+  "downloadUrl": "resources/system-core.95848/download?version=418871",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1631237640,
+  "sourceUrl": "https://www.spigotmc.org/resources/system-core.95848/history"
 }

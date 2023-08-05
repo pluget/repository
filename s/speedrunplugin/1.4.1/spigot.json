@@ -1,12 +1,9 @@
 {
   "name": "1.4.1",
-  "version": {
-    "name": "1.4.1",
-    "downloadUrl": "resources/speedrunplugin.105467/download?version=471113",
-    "numberOfDownloads": 23,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1664670960,
-    "sourceUrl": "https://www.spigotmc.org/resources/speedrunplugin.105467/history"
-  }
+  "downloadUrl": "resources/speedrunplugin.105467/download?version=471113",
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1664670960,
+  "sourceUrl": "https://www.spigotmc.org/resources/speedrunplugin.105467/history"
 }

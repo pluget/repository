@@ -1,12 +1,9 @@
 {
   "name": "1.0.10",
-  "version": {
-    "name": "1.0.10",
-    "downloadUrl": "resources/buildbuddy.103139/download?version=481212",
-    "numberOfDownloads": 40,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1673001060,
-    "sourceUrl": "https://www.spigotmc.org/resources/103139/history/"
-  }
+  "downloadUrl": "resources/buildbuddy.103139/download?version=481212",
+  "numberOfDownloads": 40,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1673001060,
+  "sourceUrl": "https://www.spigotmc.org/resources/103139/history/"
 }

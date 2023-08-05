@@ -1,12 +1,9 @@
 {
   "name": "1.9.8",
-  "version": {
-    "name": "1.9.8",
-    "downloadUrl": "resources/ancient-gates.6583/download?version=42079",
-    "numberOfDownloads": 1,
-    "rating": 6.8,
-    "numberOfVotes": 5,
-    "releaseDate": 1440868620,
-    "sourceUrl": "https://www.spigotmc.org/resources/ancient-gates.6583/history"
-  }
+  "downloadUrl": "resources/ancient-gates.6583/download?version=42079",
+  "numberOfDownloads": 1,
+  "rating": 6.8,
+  "numberOfVotes": 5,
+  "releaseDate": 1440868620,
+  "sourceUrl": "https://www.spigotmc.org/resources/ancient-gates.6583/history"
 }

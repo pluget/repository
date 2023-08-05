@@ -1,12 +1,9 @@
 {
-  "name": "1.2.0",
-  "version": {
-    "name": "v1.2.0",
-    "downloadUrl": "resources/plotsquared-addon-plotsquaredsettings.82509/download?version=357966",
-    "numberOfDownloads": 426,
-    "rating": 8.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1600609980,
-    "sourceUrl": "https://www.spigotmc.org/resources/plotsquared-addon-plotsquaredsettings.82509/history"
-  }
+  "name": "v1.2.0",
+  "downloadUrl": "resources/plotsquared-addon-plotsquaredsettings.82509/download?version=357966",
+  "numberOfDownloads": 426,
+  "rating": 8.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1600609980,
+  "sourceUrl": "https://www.spigotmc.org/resources/plotsquared-addon-plotsquaredsettings.82509/history"
 }

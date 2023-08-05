@@ -1,12 +1,9 @@
 {
   "name": "2.2.4",
-  "version": {
-    "name": "2.2.4",
-    "downloadUrl": "resources/hubparkour.47713/download?version=366147",
-    "numberOfDownloads": 724,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1604877000,
-    "sourceUrl": "https://www.spigotmc.org/resources/hubparkour.47713/history"
-  }
+  "downloadUrl": "resources/hubparkour.47713/download?version=366147",
+  "numberOfDownloads": 724,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1604877000,
+  "sourceUrl": "https://www.spigotmc.org/resources/hubparkour.47713/history"
 }

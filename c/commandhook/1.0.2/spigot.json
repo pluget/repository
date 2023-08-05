@@ -1,12 +1,9 @@
 {
   "name": "1.0.2",
-  "version": {
-    "name": "1.0.2",
-    "downloadUrl": "resources/commandhook.61415/download?version=255362",
-    "numberOfDownloads": 164,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1546567800,
-    "sourceUrl": "https://www.spigotmc.org/resources/61415/history/"
-  }
+  "downloadUrl": "resources/commandhook.61415/download?version=255362",
+  "numberOfDownloads": 164,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1546567800,
+  "sourceUrl": "https://www.spigotmc.org/resources/61415/history/"
 }

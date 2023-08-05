@@ -1,12 +1,9 @@
 {
   "name": "2.6.4",
-  "version": {
-    "name": "2.6.4",
-    "downloadUrl": "resources/skript-1-16.106762/download?version=478475",
-    "numberOfDownloads": 399,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1671188520,
-    "sourceUrl": "https://www.spigotmc.org/resources/skript-1-16.106762/history"
-  }
+  "downloadUrl": "resources/skript-1-16.106762/download?version=478475",
+  "numberOfDownloads": 399,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1671188520,
+  "sourceUrl": "https://www.spigotmc.org/resources/skript-1-16.106762/history"
 }

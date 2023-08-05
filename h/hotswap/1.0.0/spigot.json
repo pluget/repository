@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/hotswap.79203/download?version=333309",
-    "numberOfDownloads": 82,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1590265560,
-    "sourceUrl": "https://www.spigotmc.org/resources/79203/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/hotswap.79203/download?version=333309",
+  "numberOfDownloads": 82,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1590265560,
+  "sourceUrl": "https://www.spigotmc.org/resources/79203/history/"
 }

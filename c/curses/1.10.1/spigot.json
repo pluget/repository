@@ -1,12 +1,9 @@
 {
   "name": "1.10.1",
-  "version": {
-    "name": "1.10.1",
-    "downloadUrl": "resources/curses-troll-and-bother-your-friends-1-8-1-19.71484/download?version=324273",
-    "numberOfDownloads": 2,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1586736960,
-    "sourceUrl": "https://www.spigotmc.org/resources/curses-troll-and-bother-your-friends-1-8-1-19.71484/history"
-  }
+  "downloadUrl": "resources/curses-troll-and-bother-your-friends-1-8-1-19.71484/download?version=324273",
+  "numberOfDownloads": 2,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1586736960,
+  "sourceUrl": "https://www.spigotmc.org/resources/curses-troll-and-bother-your-friends-1-8-1-19.71484/history"
 }

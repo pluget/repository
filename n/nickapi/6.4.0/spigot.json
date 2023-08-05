@@ -1,12 +1,9 @@
 {
   "name": "6.4.0",
-  "version": {
-    "name": "6.4.0",
-    "downloadUrl": "resources/nickapi-advanced-nickapi-1-8-1-19.26013/download?version=443679",
-    "numberOfDownloads": 2,
-    "rating": 2,
-    "numberOfVotes": 1,
-    "releaseDate": 1646420880,
-    "sourceUrl": "https://www.spigotmc.org/resources/26013/history/"
-  }
+  "downloadUrl": "resources/nickapi-advanced-nickapi-1-8-1-19.26013/download?version=443679",
+  "numberOfDownloads": 2,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releaseDate": 1646420880,
+  "sourceUrl": "https://www.spigotmc.org/resources/26013/history/"
 }

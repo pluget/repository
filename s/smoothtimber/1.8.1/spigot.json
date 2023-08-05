@@ -1,12 +1,9 @@
 {
   "name": "1.8.1",
-  "version": {
-    "name": "1.8.1",
-    "downloadUrl": "resources/smoothtimber.39965/download?version=342545",
-    "numberOfDownloads": 5,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1594110240,
-    "sourceUrl": "https://www.spigotmc.org/resources/smoothtimber.39965/history"
-  }
+  "downloadUrl": "resources/smoothtimber.39965/download?version=342545",
+  "numberOfDownloads": 5,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1594110240,
+  "sourceUrl": "https://www.spigotmc.org/resources/smoothtimber.39965/history"
 }

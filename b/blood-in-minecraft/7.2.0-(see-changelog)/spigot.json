@@ -1,12 +1,9 @@
 {
-  "name": "7.2.0-(see-changelog)",
-  "version": {
-    "name": "7.2 (see changelog)",
-    "downloadUrl": "resources/blood-in-minecraft.31549/download?version=329425",
-    "numberOfDownloads": 1,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1588692660,
-    "sourceUrl": "https://www.spigotmc.org/resources/blood-in-minecraft.31549/history"
-  }
+  "name": "7.2 (see changelog)",
+  "downloadUrl": "resources/blood-in-minecraft.31549/download?version=329425",
+  "numberOfDownloads": 1,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1588692660,
+  "sourceUrl": "https://www.spigotmc.org/resources/blood-in-minecraft.31549/history"
 }

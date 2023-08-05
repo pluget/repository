@@ -1,12 +1,9 @@
 {
-  "name": "1.6.0-pre.1",
-  "version": {
-    "name": "1.6",
-    "downloadUrl": "resources/blockwhitelist-1-8-1-19.6961/download?version=77341",
-    "numberOfDownloads": 157,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1458746340,
-    "sourceUrl": "https://www.spigotmc.org/resources/6961/history/"
-  }
+  "name": "1.6",
+  "downloadUrl": "resources/blockwhitelist-1-8-1-19.6961/download?version=77341",
+  "numberOfDownloads": 157,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1458746340,
+  "sourceUrl": "https://www.spigotmc.org/resources/6961/history/"
 }

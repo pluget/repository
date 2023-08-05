@@ -1,12 +1,9 @@
 {
   "name": "1.1.8",
-  "version": {
-    "name": "1.1.8",
-    "downloadUrl": "resources/forcepack.45439/download?version=440084",
-    "numberOfDownloads": 640,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1644151740,
-    "sourceUrl": "https://www.spigotmc.org/resources/forcepack.45439/history"
-  }
+  "downloadUrl": "resources/forcepack.45439/download?version=440084",
+  "numberOfDownloads": 640,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1644151740,
+  "sourceUrl": "https://www.spigotmc.org/resources/forcepack.45439/history"
 }

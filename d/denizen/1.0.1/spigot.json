@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/denizen.21039/download?version=124712",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 5,
-    "releaseDate": 1479441000,
-    "sourceUrl": "https://www.spigotmc.org/resources/denizen.21039/history"
-  }
+  "downloadUrl": "resources/denizen.21039/download?version=124712",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 5,
+  "releaseDate": 1479441000,
+  "sourceUrl": "https://www.spigotmc.org/resources/denizen.21039/history"
 }

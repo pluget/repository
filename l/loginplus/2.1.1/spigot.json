@@ -1,12 +1,9 @@
 {
   "name": "2.1.1",
-  "version": {
-    "name": "2.1.1",
-    "downloadUrl": "resources/loginplus.39601/download?version=364250",
-    "numberOfDownloads": 120,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1604067480,
-    "sourceUrl": "https://www.spigotmc.org/resources/39601/history/"
-  }
+  "downloadUrl": "resources/loginplus.39601/download?version=364250",
+  "numberOfDownloads": 120,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1604067480,
+  "sourceUrl": "https://www.spigotmc.org/resources/39601/history/"
 }

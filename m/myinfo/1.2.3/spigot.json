@@ -1,12 +1,9 @@
 {
-  "name": "1.2.3",
-  "version": {
-    "name": "Release 1.2.3",
-    "downloadUrl": "resources/myinfo.18360/download?version=68949",
-    "numberOfDownloads": 45,
-    "rating": 4,
-    "numberOfVotes": 1,
-    "releaseDate": 1455564360,
-    "sourceUrl": "https://www.spigotmc.org/resources/myinfo.18360/history"
-  }
+  "name": "Release 1.2.3",
+  "downloadUrl": "resources/myinfo.18360/download?version=68949",
+  "numberOfDownloads": 45,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releaseDate": 1455564360,
+  "sourceUrl": "https://www.spigotmc.org/resources/myinfo.18360/history"
 }

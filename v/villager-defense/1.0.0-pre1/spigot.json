@@ -1,12 +1,9 @@
 {
   "name": "1.0.0-pre1",
-  "version": {
-    "name": "1.0.0-pre1",
-    "downloadUrl": "resources/villager-defense.90055/download?version=415907",
-    "numberOfDownloads": 49,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1629517200,
-    "sourceUrl": "https://www.spigotmc.org/resources/villager-defense.90055/history"
-  }
+  "downloadUrl": "resources/villager-defense.90055/download?version=415907",
+  "numberOfDownloads": 49,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1629517200,
+  "sourceUrl": "https://www.spigotmc.org/resources/villager-defense.90055/history"
 }

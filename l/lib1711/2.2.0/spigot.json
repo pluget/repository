@@ -1,12 +1,9 @@
 {
-  "name": "2.2.0",
-  "version": {
-    "name": "v2.2",
-    "downloadUrl": "resources/lib1711.35982/download?version=367092",
-    "numberOfDownloads": 83,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1605377520,
-    "sourceUrl": "https://www.spigotmc.org/resources/lib1711.35982/history"
-  }
+  "name": "v2.2",
+  "downloadUrl": "resources/lib1711.35982/download?version=367092",
+  "numberOfDownloads": 83,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1605377520,
+  "sourceUrl": "https://www.spigotmc.org/resources/lib1711.35982/history"
 }

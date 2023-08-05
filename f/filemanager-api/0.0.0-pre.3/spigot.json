@@ -1,12 +1,9 @@
 {
-  "name": "0.0.0-pre.3",
-  "version": {
-    "name": "all",
-    "downloadUrl": "resources/filemanager-api.99418/download?version=441018",
-    "numberOfDownloads": 14,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1644753000,
-    "sourceUrl": "https://www.spigotmc.org/resources/filemanager-api.99418/history"
-  }
+  "name": "all",
+  "downloadUrl": "resources/filemanager-api.99418/download?version=441018",
+  "numberOfDownloads": 14,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1644753000,
+  "sourceUrl": "https://www.spigotmc.org/resources/filemanager-api.99418/history"
 }

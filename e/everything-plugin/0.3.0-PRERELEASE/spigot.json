@@ -1,12 +1,9 @@
 {
-  "name": "0.3.0-PRERELEASE",
-  "version": {
-    "name": "0.3-PRERELEASE",
-    "downloadUrl": "resources/everything-plugin.107875/download?version=485246",
-    "numberOfDownloads": 12,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1675874940,
-    "sourceUrl": "https://www.spigotmc.org/resources/everything-plugin.107875/history"
-  }
+  "name": "0.3-PRERELEASE",
+  "downloadUrl": "resources/everything-plugin.107875/download?version=485246",
+  "numberOfDownloads": 12,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1675874940,
+  "sourceUrl": "https://www.spigotmc.org/resources/everything-plugin.107875/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0",
-  "version": {
-    "name": "v2",
-    "downloadUrl": "resources/mtfreeze.102810/download?version=467105",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1661463780,
-    "sourceUrl": "https://www.spigotmc.org/resources/mtfreeze.102810/history"
-  }
+  "name": "v2",
+  "downloadUrl": "resources/mtfreeze.102810/download?version=467105",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1661463780,
+  "sourceUrl": "https://www.spigotmc.org/resources/mtfreeze.102810/history"
 }

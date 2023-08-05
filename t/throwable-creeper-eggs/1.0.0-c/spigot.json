@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-c",
-  "version": {
-    "name": "1.0.0c",
-    "downloadUrl": "resources/throwable-creeper-eggs.75877/download?version=317946",
-    "numberOfDownloads": 133,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1583959020,
-    "sourceUrl": "https://www.spigotmc.org/resources/throwable-creeper-eggs.75877/history"
-  }
+  "name": "1.0.0c",
+  "downloadUrl": "resources/throwable-creeper-eggs.75877/download?version=317946",
+  "numberOfDownloads": 133,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1583959020,
+  "sourceUrl": "https://www.spigotmc.org/resources/throwable-creeper-eggs.75877/history"
 }

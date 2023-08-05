@@ -1,12 +1,9 @@
 {
   "name": "2.0.1",
-  "version": {
-    "name": "2.0.1",
-    "downloadUrl": "resources/temporarywhitelist.99914/download?version=447844",
-    "numberOfDownloads": 70,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1649181600,
-    "sourceUrl": "https://www.spigotmc.org/resources/temporarywhitelist.99914/history"
-  }
+  "downloadUrl": "resources/temporarywhitelist.99914/download?version=447844",
+  "numberOfDownloads": 70,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1649181600,
+  "sourceUrl": "https://www.spigotmc.org/resources/temporarywhitelist.99914/history"
 }

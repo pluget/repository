@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/script-detector.102716/download?version=480419",
-    "numberOfDownloads": 16,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672480860,
-    "sourceUrl": "https://www.spigotmc.org/resources/script-detector.102716/history"
-  }
+  "downloadUrl": "resources/script-detector.102716/download?version=480419",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672480860,
+  "sourceUrl": "https://www.spigotmc.org/resources/script-detector.102716/history"
 }

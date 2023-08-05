@@ -1,12 +1,9 @@
 {
   "name": "6.0.0-RC7",
-  "version": {
-    "name": "6.0.0-RC7",
-    "downloadUrl": "resources/insights-super-configurable-region-limits-asynchronous-scans-1-19-2.56489/download?version=384407",
-    "numberOfDownloads": 153,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1613729340,
-    "sourceUrl": "https://www.spigotmc.org/resources/insights-super-configurable-region-limits-asynchronous-scans-1-19-2.56489/history"
-  }
+  "downloadUrl": "resources/insights-super-configurable-region-limits-asynchronous-scans-1-19-2.56489/download?version=384407",
+  "numberOfDownloads": 153,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1613729340,
+  "sourceUrl": "https://www.spigotmc.org/resources/insights-super-configurable-region-limits-asynchronous-scans-1-19-2.56489/history"
 }

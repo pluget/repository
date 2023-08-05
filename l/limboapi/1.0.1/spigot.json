@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/limboapi.95748/download?version=425471",
-    "numberOfDownloads": 124,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1635868320,
-    "sourceUrl": "https://www.spigotmc.org/resources/limboapi.95748/history"
-  }
+  "downloadUrl": "resources/limboapi.95748/download?version=425471",
+  "numberOfDownloads": 124,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1635868320,
+  "sourceUrl": "https://www.spigotmc.org/resources/limboapi.95748/history"
 }

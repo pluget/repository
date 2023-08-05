@@ -1,12 +1,9 @@
 {
   "name": "1.6.0",
-  "version": {
-    "name": "1.6.0",
-    "downloadUrl": "resources/infinite-announcements.71266/download?version=316005",
-    "numberOfDownloads": 157,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1582796160,
-    "sourceUrl": "https://www.spigotmc.org/resources/infinite-announcements.71266/history"
-  }
+  "downloadUrl": "resources/infinite-announcements.71266/download?version=316005",
+  "numberOfDownloads": 157,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1582796160,
+  "sourceUrl": "https://www.spigotmc.org/resources/infinite-announcements.71266/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.5.0",
-  "version": {
-    "name": "1.5.0",
-    "downloadUrl": "resources/random-teleport-all-world-types-supported-1-19-1.76021/download?version=339463",
-    "numberOfDownloads": 460,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1593099240,
-    "sourceUrl": "https://www.spigotmc.org/resources/random-teleport-all-world-types-supported-1-19-1.76021/history"
-  }
+  "downloadUrl": "resources/random-teleport-all-world-types-supported-1-19-1.76021/download?version=339463",
+  "numberOfDownloads": 460,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1593099240,
+  "sourceUrl": "https://www.spigotmc.org/resources/random-teleport-all-world-types-supported-1-19-1.76021/history"
 }

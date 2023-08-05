@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/chestgifts.101563/download?version=449828",
-    "numberOfDownloads": 55,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1650637440,
-    "sourceUrl": "https://www.spigotmc.org/resources/101563/history/"
-  }
+  "downloadUrl": "resources/chestgifts.101563/download?version=449828",
+  "numberOfDownloads": 55,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1650637440,
+  "sourceUrl": "https://www.spigotmc.org/resources/101563/history/"
 }

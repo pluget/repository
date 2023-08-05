@@ -1,12 +1,9 @@
 {
   "name": "2.1.1",
-  "version": {
-    "name": "2.1.1",
-    "downloadUrl": "resources/fastasyncworldedit.13932/download?version=447688",
-    "numberOfDownloads": 8,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1649067480,
-    "sourceUrl": "https://www.spigotmc.org/resources/fastasyncworldedit.13932/history"
-  }
+  "downloadUrl": "resources/fastasyncworldedit.13932/download?version=447688",
+  "numberOfDownloads": 8,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1649067480,
+  "sourceUrl": "https://www.spigotmc.org/resources/fastasyncworldedit.13932/history"
 }

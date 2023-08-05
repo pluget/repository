@@ -1,12 +1,9 @@
 {
   "name": "1.10.0-SNAPSHOT",
-  "version": {
-    "name": "1.10.0-SNAPSHOT",
-    "downloadUrl": "resources/ouroboros-mines.72325/download?version=385195",
-    "numberOfDownloads": 47,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1614093240,
-    "sourceUrl": "https://www.spigotmc.org/resources/ouroboros-mines.72325/history"
-  }
+  "downloadUrl": "resources/ouroboros-mines.72325/download?version=385195",
+  "numberOfDownloads": 47,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1614093240,
+  "sourceUrl": "https://www.spigotmc.org/resources/ouroboros-mines.72325/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.17.0-0.3",
-  "version": {
-    "name": "1.17-0.0.3",
-    "downloadUrl": "resources/spawnonjoin.100626/download?version=444764",
-    "numberOfDownloads": 11,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1647035940,
-    "sourceUrl": "https://www.spigotmc.org/resources/spawnonjoin.100626/history"
-  }
+  "name": "1.17-0.0.3",
+  "downloadUrl": "resources/spawnonjoin.100626/download?version=444764",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1647035940,
+  "sourceUrl": "https://www.spigotmc.org/resources/spawnonjoin.100626/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.0-RC1",
-  "version": {
-    "name": "1.0.0-RC1",
-    "downloadUrl": "resources/pronouns.86199/download?version=385604",
-    "numberOfDownloads": 26,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1614285480,
-    "sourceUrl": "https://www.spigotmc.org/resources/pronouns.86199/history"
-  }
+  "downloadUrl": "resources/pronouns.86199/download?version=385604",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1614285480,
+  "sourceUrl": "https://www.spigotmc.org/resources/pronouns.86199/history"
 }

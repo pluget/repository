@@ -1,12 +1,9 @@
 {
   "name": "1.11.0",
-  "version": {
-    "name": "1.11.0",
-    "downloadUrl": "resources/medieval-roleplay-engine.79993/download?version=477429",
-    "numberOfDownloads": 354,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1670279520,
-    "sourceUrl": "https://www.spigotmc.org/resources/79993/history/"
-  }
+  "downloadUrl": "resources/medieval-roleplay-engine.79993/download?version=477429",
+  "numberOfDownloads": 354,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1670279520,
+  "sourceUrl": "https://www.spigotmc.org/resources/79993/history/"
 }

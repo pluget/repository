@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/betabarrels.97841/download?version=439427",
-    "numberOfDownloads": 23,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1643759460,
-    "sourceUrl": "https://www.spigotmc.org/resources/97841/history/"
-  }
+  "downloadUrl": "resources/betabarrels.97841/download?version=439427",
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1643759460,
+  "sourceUrl": "https://www.spigotmc.org/resources/97841/history/"
 }

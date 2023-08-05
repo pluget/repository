@@ -1,12 +1,9 @@
 {
   "name": "2019.05.2",
-  "version": {
-    "name": "2019.05.2",
-    "downloadUrl": "resources/custom-ore-generator-%E3%80%8E1-8-1-19-4%E3%80%8F.64339/download?version=271520",
-    "numberOfDownloads": 440,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1556802060,
-    "sourceUrl": "https://www.spigotmc.org/resources/64339/history/"
-  }
+  "downloadUrl": "resources/custom-ore-generator-%E3%80%8E1-8-1-19-4%E3%80%8F.64339/download?version=271520",
+  "numberOfDownloads": 440,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1556802060,
+  "sourceUrl": "https://www.spigotmc.org/resources/64339/history/"
 }

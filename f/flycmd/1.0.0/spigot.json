@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/flycmd-good-for-lobby.100225/download?version=442240",
-    "numberOfDownloads": 18,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1645528500,
-    "sourceUrl": "https://www.spigotmc.org/resources/flycmd-good-for-lobby.100225/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/flycmd-good-for-lobby.100225/download?version=442240",
+  "numberOfDownloads": 18,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1645528500,
+  "sourceUrl": "https://www.spigotmc.org/resources/flycmd-good-for-lobby.100225/history"
 }

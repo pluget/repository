@@ -1,12 +1,9 @@
 {
-  "name": "2.3.8",
-  "version": {
-    "name": "MobHunting V2.3.8",
-    "downloadUrl": "resources/mobhunting.3582/download?version=51834",
-    "numberOfDownloads": 182,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1446493440,
-    "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
-  }
+  "name": "MobHunting V2.3.8",
+  "downloadUrl": "resources/mobhunting.3582/download?version=51834",
+  "numberOfDownloads": 182,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1446493440,
+  "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
 }

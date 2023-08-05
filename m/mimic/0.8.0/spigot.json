@@ -1,12 +1,9 @@
 {
   "name": "0.8.0",
-  "version": {
-    "name": "0.8.0",
-    "downloadUrl": "resources/mimic.82515/download?version=449408",
-    "numberOfDownloads": 799,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1650309480,
-    "sourceUrl": "https://www.spigotmc.org/resources/82515/history/"
-  }
+  "downloadUrl": "resources/mimic.82515/download?version=449408",
+  "numberOfDownloads": 799,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1650309480,
+  "sourceUrl": "https://www.spigotmc.org/resources/82515/history/"
 }

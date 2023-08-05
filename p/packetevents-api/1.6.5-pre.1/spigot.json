@@ -1,12 +1,9 @@
 {
-  "name": "1.6.5-pre.1",
-  "version": {
-    "name": "1.6.5",
-    "downloadUrl": "resources/packetevents-api.80279/download?version=355166",
-    "numberOfDownloads": 57,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1599293340,
-    "sourceUrl": "https://www.spigotmc.org/resources/packetevents-api.80279/history"
-  }
+  "name": "1.6.5",
+  "downloadUrl": "resources/packetevents-api.80279/download?version=355166",
+  "numberOfDownloads": 57,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1599293340,
+  "sourceUrl": "https://www.spigotmc.org/resources/packetevents-api.80279/history"
 }

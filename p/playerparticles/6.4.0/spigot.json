@@ -1,12 +1,9 @@
 {
-  "name": "6.4.0",
-  "version": {
-    "name": "6.4",
-    "downloadUrl": "resources/playerparticles.40261/download?version=271013",
-    "numberOfDownloads": 1,
-    "rating": 9.7777777777778,
-    "numberOfVotes": 9,
-    "releaseDate": 1556482140,
-    "sourceUrl": "https://www.spigotmc.org/resources/40261/history/"
-  }
+  "name": "6.4",
+  "downloadUrl": "resources/playerparticles.40261/download?version=271013",
+  "numberOfDownloads": 1,
+  "rating": 9.7777777777778,
+  "numberOfVotes": 9,
+  "releaseDate": 1556482140,
+  "sourceUrl": "https://www.spigotmc.org/resources/40261/history/"
 }

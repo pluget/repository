@@ -1,12 +1,9 @@
 {
   "name": "1.19.3",
-  "version": {
-    "name": "1.19.3",
-    "downloadUrl": "resources/skript-administrative-panel.108217/download?version=487039",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1677185400,
-    "sourceUrl": "https://www.spigotmc.org/resources/skript-administrative-panel.108217/history"
-  }
+  "downloadUrl": "resources/skript-administrative-panel.108217/download?version=487039",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1677185400,
+  "sourceUrl": "https://www.spigotmc.org/resources/skript-administrative-panel.108217/history"
 }

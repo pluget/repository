@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/buildarea-for-testserver.105936/download?version=473455",
-    "numberOfDownloads": 60,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1666803180,
-    "sourceUrl": "https://www.spigotmc.org/resources/105936/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/buildarea-for-testserver.105936/download?version=473455",
+  "numberOfDownloads": 60,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1666803180,
+  "sourceUrl": "https://www.spigotmc.org/resources/105936/history/"
 }

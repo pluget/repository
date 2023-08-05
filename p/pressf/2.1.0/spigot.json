@@ -1,12 +1,9 @@
 {
   "name": "2.1.0",
-  "version": {
-    "name": "2.1.0",
-    "downloadUrl": "resources/pressf.102450/download?version=454760",
-    "numberOfDownloads": 77,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1654461780,
-    "sourceUrl": "https://www.spigotmc.org/resources/pressf.102450/history"
-  }
+  "downloadUrl": "resources/pressf.102450/download?version=454760",
+  "numberOfDownloads": 77,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1654461780,
+  "sourceUrl": "https://www.spigotmc.org/resources/pressf.102450/history"
 }

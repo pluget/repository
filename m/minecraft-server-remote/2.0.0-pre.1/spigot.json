@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0-pre.1",
-  "version": {
-    "name": "2.0",
-    "downloadUrl": "resources/minecraft-server-remote.72231/download?version=317550",
-    "numberOfDownloads": 42,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1583694540,
-    "sourceUrl": "https://www.spigotmc.org/resources/minecraft-server-remote.72231/history"
-  }
+  "name": "2.0",
+  "downloadUrl": "resources/minecraft-server-remote.72231/download?version=317550",
+  "numberOfDownloads": 42,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1583694540,
+  "sourceUrl": "https://www.spigotmc.org/resources/minecraft-server-remote.72231/history"
 }

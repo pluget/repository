@@ -1,12 +1,9 @@
 {
   "name": "1.11.2-v1",
-  "version": {
-    "name": "1.11.2-v1",
-    "downloadUrl": "resources/tc-hangrail.39627/download?version=154963",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1492431660,
-    "sourceUrl": "https://www.spigotmc.org/resources/tc-hangrail.39627/history"
-  }
+  "downloadUrl": "resources/tc-hangrail.39627/download?version=154963",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1492431660,
+  "sourceUrl": "https://www.spigotmc.org/resources/tc-hangrail.39627/history"
 }

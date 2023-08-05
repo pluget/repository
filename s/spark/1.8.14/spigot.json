@@ -1,12 +1,9 @@
 {
   "name": "1.8.14",
-  "version": {
-    "name": "1.8.14",
-    "downloadUrl": "resources/spark.57242/download?version=443379",
-    "numberOfDownloads": 7,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1646247480,
-    "sourceUrl": "https://www.spigotmc.org/resources/spark.57242/history"
-  }
+  "downloadUrl": "resources/spark.57242/download?version=443379",
+  "numberOfDownloads": 7,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1646247480,
+  "sourceUrl": "https://www.spigotmc.org/resources/spark.57242/history"
 }

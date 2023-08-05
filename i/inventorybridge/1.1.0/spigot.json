@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0",
-  "version": {
-    "name": "1.1",
-    "downloadUrl": "resources/inventorybridge-datasync-cross-server-sync.96942/download?version=450991",
-    "numberOfDownloads": 81,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1651512300,
-    "sourceUrl": "https://www.spigotmc.org/resources/inventorybridge-datasync-cross-server-sync.96942/history"
-  }
+  "name": "1.1",
+  "downloadUrl": "resources/inventorybridge-datasync-cross-server-sync.96942/download?version=450991",
+  "numberOfDownloads": 81,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1651512300,
+  "sourceUrl": "https://www.spigotmc.org/resources/inventorybridge-datasync-cross-server-sync.96942/history"
 }

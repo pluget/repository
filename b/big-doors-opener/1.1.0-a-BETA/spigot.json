@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0-a-BETA",
-  "version": {
-    "name": "1.1a-BETA",
-    "downloadUrl": "resources/big-doors-opener.80805/download?version=340457",
-    "numberOfDownloads": 78,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1593377880,
-    "sourceUrl": "https://www.spigotmc.org/resources/big-doors-opener.80805/history"
-  }
+  "name": "1.1a-BETA",
+  "downloadUrl": "resources/big-doors-opener.80805/download?version=340457",
+  "numberOfDownloads": 78,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1593377880,
+  "sourceUrl": "https://www.spigotmc.org/resources/big-doors-opener.80805/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.4.1",
-  "version": {
-    "name": "1.4.1",
-    "downloadUrl": "resources/storage.100516/download?version=445212",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1647310920,
-    "sourceUrl": "https://www.spigotmc.org/resources/storage.100516/history"
-  }
+  "downloadUrl": "resources/storage.100516/download?version=445212",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1647310920,
+  "sourceUrl": "https://www.spigotmc.org/resources/storage.100516/history"
 }

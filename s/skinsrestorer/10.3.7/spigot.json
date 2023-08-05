@@ -1,12 +1,9 @@
 {
   "name": "10.3.7",
-  "version": {
-    "name": "10.3.7",
-    "downloadUrl": "resources/skinsrestorer.2124/download?version=52703",
-    "numberOfDownloads": 3,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1446986880,
-    "sourceUrl": "https://www.spigotmc.org/resources/skinsrestorer.2124/history"
-  }
+  "downloadUrl": "resources/skinsrestorer.2124/download?version=52703",
+  "numberOfDownloads": 3,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1446986880,
+  "sourceUrl": "https://www.spigotmc.org/resources/skinsrestorer.2124/history"
 }

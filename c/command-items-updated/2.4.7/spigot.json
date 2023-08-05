@@ -1,12 +1,9 @@
 {
   "name": "2.4.7",
-  "version": {
-    "name": "2.4.7",
-    "downloadUrl": "resources/command-items-updated-1-18.98317/download?version=466191",
-    "numberOfDownloads": 205,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660852380,
-    "sourceUrl": "https://www.spigotmc.org/resources/98317/history/"
-  }
+  "downloadUrl": "resources/command-items-updated-1-18.98317/download?version=466191",
+  "numberOfDownloads": 205,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660852380,
+  "sourceUrl": "https://www.spigotmc.org/resources/98317/history/"
 }

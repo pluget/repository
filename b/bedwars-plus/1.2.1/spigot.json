@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/bedwars-plus.78867/download?version=343345",
-    "numberOfDownloads": 17,
-    "rating": 8,
-    "numberOfVotes": 9,
-    "releaseDate": 1594406340,
-    "sourceUrl": "https://www.spigotmc.org/resources/bedwars-plus.78867/history"
-  }
+  "downloadUrl": "resources/bedwars-plus.78867/download?version=343345",
+  "numberOfDownloads": 17,
+  "rating": 8,
+  "numberOfVotes": 9,
+  "releaseDate": 1594406340,
+  "sourceUrl": "https://www.spigotmc.org/resources/bedwars-plus.78867/history"
 }

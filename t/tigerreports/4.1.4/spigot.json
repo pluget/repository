@@ -1,12 +1,9 @@
 {
   "name": "4.1.4",
-  "version": {
-    "name": "4.1.4",
-    "downloadUrl": "resources/tigerreports.25773/download?version=222132",
-    "numberOfDownloads": 123,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1526662860,
-    "sourceUrl": "https://www.spigotmc.org/resources/tigerreports.25773/history"
-  }
+  "downloadUrl": "resources/tigerreports.25773/download?version=222132",
+  "numberOfDownloads": 123,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1526662860,
+  "sourceUrl": "https://www.spigotmc.org/resources/tigerreports.25773/history"
 }

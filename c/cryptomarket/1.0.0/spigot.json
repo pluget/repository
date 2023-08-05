@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/cryptomarket.69031/download?version=282344",
-    "numberOfDownloads": 116,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1562362800,
-    "sourceUrl": "https://www.spigotmc.org/resources/cryptomarket.69031/history"
-  }
+  "downloadUrl": "resources/cryptomarket.69031/download?version=282344",
+  "numberOfDownloads": 116,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1562362800,
+  "sourceUrl": "https://www.spigotmc.org/resources/cryptomarket.69031/history"
 }

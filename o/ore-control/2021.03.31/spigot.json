@@ -1,12 +1,9 @@
 {
   "name": "2021.03.31",
-  "version": {
-    "name": "2021.03.31",
-    "downloadUrl": "resources/ore-control-%E3%80%8E1-18-1-19-4%E3%80%8F.63621/download?version=391487",
-    "numberOfDownloads": 1,
-    "rating": 8.8,
-    "numberOfVotes": 5,
-    "releaseDate": 1617213660,
-    "sourceUrl": "https://www.spigotmc.org/resources/63621/history/"
-  }
+  "downloadUrl": "resources/ore-control-%E3%80%8E1-18-1-19-4%E3%80%8F.63621/download?version=391487",
+  "numberOfDownloads": 1,
+  "rating": 8.8,
+  "numberOfVotes": 5,
+  "releaseDate": 1617213660,
+  "sourceUrl": "https://www.spigotmc.org/resources/63621/history/"
 }

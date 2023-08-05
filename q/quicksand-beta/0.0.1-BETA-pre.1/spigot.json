@@ -1,12 +1,9 @@
 {
-  "name": "0.0.1-BETA-pre.1",
-  "version": {
-    "name": "0.0.1-BETA",
-    "downloadUrl": "resources/quicksand-beta.57615/download?version=225767",
-    "numberOfDownloads": 278,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1528939500,
-    "sourceUrl": "https://www.spigotmc.org/resources/quicksand-beta.57615/history"
-  }
+  "name": "0.0.1-BETA",
+  "downloadUrl": "resources/quicksand-beta.57615/download?version=225767",
+  "numberOfDownloads": 278,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1528939500,
+  "sourceUrl": "https://www.spigotmc.org/resources/quicksand-beta.57615/history"
 }

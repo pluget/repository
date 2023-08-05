@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/anticooldown-old-pvp-1-9-1-19-2.51321/download?version=200573",
-    "numberOfDownloads": 416,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1514481720,
-    "sourceUrl": "https://www.spigotmc.org/resources/anticooldown-old-pvp-1-9-1-19-2.51321/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/anticooldown-old-pvp-1-9-1-19-2.51321/download?version=200573",
+  "numberOfDownloads": 416,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1514481720,
+  "sourceUrl": "https://www.spigotmc.org/resources/anticooldown-old-pvp-1-9-1-19-2.51321/history"
 }

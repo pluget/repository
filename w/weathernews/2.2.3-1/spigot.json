@@ -1,12 +1,9 @@
 {
-  "name": "2.2.3-1",
-  "version": {
-    "name": "2.2.3.1",
-    "downloadUrl": "resources/weathernews.68529/download?version=441442",
-    "numberOfDownloads": 799,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1645027260,
-    "sourceUrl": "https://www.spigotmc.org/resources/weathernews.68529/history"
-  }
+  "name": "2.2.3.1",
+  "downloadUrl": "resources/weathernews.68529/download?version=441442",
+  "numberOfDownloads": 799,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1645027260,
+  "sourceUrl": "https://www.spigotmc.org/resources/weathernews.68529/history"
 }

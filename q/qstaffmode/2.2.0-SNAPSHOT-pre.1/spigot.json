@@ -1,12 +1,9 @@
 {
-  "name": "2.2.0-SNAPSHOT-pre.1",
-  "version": {
-    "name": "2.2-SNAPSHOT",
-    "downloadUrl": "resources/qstaffmode-1-8-1-19-ultimate-staff-moderation-plugin.73301/download?version=304213",
-    "numberOfDownloads": 324,
-    "rating": 8,
-    "numberOfVotes": 3,
-    "releaseDate": 1575893700,
-    "sourceUrl": "https://www.spigotmc.org/resources/73301/history/"
-  }
+  "name": "2.2-SNAPSHOT",
+  "downloadUrl": "resources/qstaffmode-1-8-1-19-ultimate-staff-moderation-plugin.73301/download?version=304213",
+  "numberOfDownloads": 324,
+  "rating": 8,
+  "numberOfVotes": 3,
+  "releaseDate": 1575893700,
+  "sourceUrl": "https://www.spigotmc.org/resources/73301/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-pre-release-5",
-  "version": {
-    "name": "v1 pre release 5",
-    "downloadUrl": "resources/improved-factions.95617/download?version=458327",
-    "numberOfDownloads": 975,
-    "rating": 6,
-    "numberOfVotes": 2,
-    "releaseDate": 1656345180,
-    "sourceUrl": "https://www.spigotmc.org/resources/improved-factions.95617/history"
-  }
+  "name": "v1 pre release 5",
+  "downloadUrl": "resources/improved-factions.95617/download?version=458327",
+  "numberOfDownloads": 975,
+  "rating": 6,
+  "numberOfVotes": 2,
+  "releaseDate": 1656345180,
+  "sourceUrl": "https://www.spigotmc.org/resources/improved-factions.95617/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0",
-  "version": {
-    "name": "1.1",
-    "downloadUrl": "resources/simplestats-pvp-stats-killstreaks-placeholderapi-support-1-14-1-19.105454/download?version=470501",
-    "numberOfDownloads": 96,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1664103900,
-    "sourceUrl": "https://www.spigotmc.org/resources/105454/history/"
-  }
+  "name": "1.1",
+  "downloadUrl": "resources/simplestats-pvp-stats-killstreaks-placeholderapi-support-1-14-1-19.105454/download?version=470501",
+  "numberOfDownloads": 96,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1664103900,
+  "sourceUrl": "https://www.spigotmc.org/resources/105454/history/"
 }

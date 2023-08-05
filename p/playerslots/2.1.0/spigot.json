@@ -1,12 +1,9 @@
 {
   "name": "2.1.0",
-  "version": {
-    "name": "2.1.0",
-    "downloadUrl": "resources/playerslots%E2%84%A2.106001/download?version=474185",
-    "numberOfDownloads": 28,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1667403780,
-    "sourceUrl": "https://www.spigotmc.org/resources/playerslots%E2%84%A2.106001/history"
-  }
+  "downloadUrl": "resources/playerslots%E2%84%A2.106001/download?version=474185",
+  "numberOfDownloads": 28,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1667403780,
+  "sourceUrl": "https://www.spigotmc.org/resources/playerslots%E2%84%A2.106001/history"
 }

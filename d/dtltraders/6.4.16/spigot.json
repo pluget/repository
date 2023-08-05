@@ -1,12 +1,9 @@
 {
   "name": "6.4.16",
-  "version": {
-    "name": "6.4.16",
-    "downloadUrl": "resources/dtltraders.35890/download?version=465007",
-    "numberOfDownloads": 7,
-    "rating": 3,
-    "numberOfVotes": 2,
-    "releaseDate": 1660149240,
-    "sourceUrl": "https://www.spigotmc.org/resources/dtltraders.35890/history"
-  }
+  "downloadUrl": "resources/dtltraders.35890/download?version=465007",
+  "numberOfDownloads": 7,
+  "rating": 3,
+  "numberOfVotes": 2,
+  "releaseDate": 1660149240,
+  "sourceUrl": "https://www.spigotmc.org/resources/dtltraders.35890/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "8.0.0-2",
-  "version": {
-    "name": "8.0.0.2",
-    "downloadUrl": "resources/combatlogx.31689/download?version=242144",
-    "numberOfDownloads": 130,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1538255400,
-    "sourceUrl": "https://www.spigotmc.org/resources/combatlogx.31689/history"
-  }
+  "name": "8.0.0.2",
+  "downloadUrl": "resources/combatlogx.31689/download?version=242144",
+  "numberOfDownloads": 130,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1538255400,
+  "sourceUrl": "https://www.spigotmc.org/resources/combatlogx.31689/history"
 }

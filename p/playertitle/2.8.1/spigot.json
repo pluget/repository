@@ -1,12 +1,9 @@
 {
   "name": "2.8.1",
-  "version": {
-    "name": "2.8.1",
-    "downloadUrl": "resources/playertitle-free-version.78048/download?version=415424",
-    "numberOfDownloads": 160,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1629276900,
-    "sourceUrl": "https://www.spigotmc.org/resources/playertitle-free-version.78048/history"
-  }
+  "downloadUrl": "resources/playertitle-free-version.78048/download?version=415424",
+  "numberOfDownloads": 160,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1629276900,
+  "sourceUrl": "https://www.spigotmc.org/resources/playertitle-free-version.78048/history"
 }

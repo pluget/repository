@@ -1,12 +1,9 @@
 {
-  "name": "1.2.0",
-  "version": {
-    "name": "1.2",
-    "downloadUrl": "resources/addon-item-shop-plus-itemsadder.100207/download?version=442303",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1645557060,
-    "sourceUrl": "https://www.spigotmc.org/resources/100207/history/"
-  }
+  "name": "1.2",
+  "downloadUrl": "resources/addon-item-shop-plus-itemsadder.100207/download?version=442303",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1645557060,
+  "sourceUrl": "https://www.spigotmc.org/resources/100207/history/"
 }

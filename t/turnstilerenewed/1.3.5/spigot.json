@@ -1,12 +1,9 @@
 {
   "name": "1.3.5",
-  "version": {
-    "name": "1.3.5",
-    "downloadUrl": "resources/turnstile-renewed-1-19-1-19-3.104570/download?version=480150",
-    "numberOfDownloads": 52,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672309980,
-    "sourceUrl": "https://www.spigotmc.org/resources/turnstile-renewed-1-19-1-19-3.104570/history"
-  }
+  "downloadUrl": "resources/turnstile-renewed-1-19-1-19-3.104570/download?version=480150",
+  "numberOfDownloads": 52,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672309980,
+  "sourceUrl": "https://www.spigotmc.org/resources/turnstile-renewed-1-19-1-19-3.104570/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.2.1-BETA",
-  "version": {
-    "name": "1.2.1-BETA",
-    "downloadUrl": "resources/combatutils.107791/download?version=485626",
-    "numberOfDownloads": 19,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1676159520,
-    "sourceUrl": "https://www.spigotmc.org/resources/combatutils.107791/history"
-  }
+  "downloadUrl": "resources/combatutils.107791/download?version=485626",
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1676159520,
+  "sourceUrl": "https://www.spigotmc.org/resources/combatutils.107791/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "8.4.2",
-  "version": {
-    "name": "8.4.2",
-    "downloadUrl": "resources/fartherviewdistance.84950/download?version=428894",
-    "numberOfDownloads": 76,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1638282000,
-    "sourceUrl": "https://www.spigotmc.org/resources/fartherviewdistance.84950/history"
-  }
+  "downloadUrl": "resources/fartherviewdistance.84950/download?version=428894",
+  "numberOfDownloads": 76,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1638282000,
+  "sourceUrl": "https://www.spigotmc.org/resources/fartherviewdistance.84950/history"
 }

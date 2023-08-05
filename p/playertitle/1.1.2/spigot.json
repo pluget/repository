@@ -1,12 +1,9 @@
 {
   "name": "1.1.2",
-  "version": {
-    "name": "1.1.2",
-    "downloadUrl": "resources/playertitle-free-version.78048/download?version=331370",
-    "numberOfDownloads": 188,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1589428980,
-    "sourceUrl": "https://www.spigotmc.org/resources/playertitle-free-version.78048/history"
-  }
+  "downloadUrl": "resources/playertitle-free-version.78048/download?version=331370",
+  "numberOfDownloads": 188,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1589428980,
+  "sourceUrl": "https://www.spigotmc.org/resources/playertitle-free-version.78048/history"
 }

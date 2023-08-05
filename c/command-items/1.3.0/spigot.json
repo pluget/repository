@@ -1,12 +1,9 @@
 {
   "name": "1.3.0",
-  "version": {
-    "name": "1.3.0",
-    "downloadUrl": "resources/%E2%9A%A1-command-items-%E2%9A%A1.106847/download?version=482957",
-    "numberOfDownloads": 50,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1674310560,
-    "sourceUrl": "https://www.spigotmc.org/resources/106847/history/"
-  }
+  "downloadUrl": "resources/%E2%9A%A1-command-items-%E2%9A%A1.106847/download?version=482957",
+  "numberOfDownloads": 50,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1674310560,
+  "sourceUrl": "https://www.spigotmc.org/resources/106847/history/"
 }

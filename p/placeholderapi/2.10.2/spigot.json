@@ -1,12 +1,9 @@
 {
   "name": "2.10.2",
-  "version": {
-    "name": "2.10.2",
-    "downloadUrl": "resources/placeholderapi.6245/download?version=272849",
-    "numberOfDownloads": 18,
-    "rating": 9.8,
-    "numberOfVotes": 10,
-    "releaseDate": 1557496560,
-    "sourceUrl": "https://www.spigotmc.org/resources/placeholderapi.6245/history"
-  }
+  "downloadUrl": "resources/placeholderapi.6245/download?version=272849",
+  "numberOfDownloads": 18,
+  "rating": 9.8,
+  "numberOfVotes": 10,
+  "releaseDate": 1557496560,
+  "sourceUrl": "https://www.spigotmc.org/resources/placeholderapi.6245/history"
 }

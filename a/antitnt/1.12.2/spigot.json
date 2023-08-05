@@ -1,12 +1,9 @@
 {
   "name": "1.12.2",
-  "version": {
-    "name": "1.12.2",
-    "downloadUrl": "resources/antitnt.105620/download?version=471423",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1664897340,
-    "sourceUrl": "https://www.spigotmc.org/resources/antitnt.105620/history"
-  }
+  "downloadUrl": "resources/antitnt.105620/download?version=471423",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1664897340,
+  "sourceUrl": "https://www.spigotmc.org/resources/antitnt.105620/history"
 }

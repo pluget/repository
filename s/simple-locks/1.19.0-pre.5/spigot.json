@@ -1,12 +1,9 @@
 {
-  "name": "1.19.0-pre.5",
-  "version": {
-    "name": "1.19",
-    "downloadUrl": "resources/simple-locks.106256/download?version=475509",
-    "numberOfDownloads": 49,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1668594300,
-    "sourceUrl": "https://www.spigotmc.org/resources/simple-locks.106256/history"
-  }
+  "name": "1.19",
+  "downloadUrl": "resources/simple-locks.106256/download?version=475509",
+  "numberOfDownloads": 49,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1668594300,
+  "sourceUrl": "https://www.spigotmc.org/resources/simple-locks.106256/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "0.9.2",
-  "version": {
-    "name": "0.9.2",
-    "downloadUrl": "resources/cursed-item.99181/download?version=436464",
-    "numberOfDownloads": 20,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1642113000,
-    "sourceUrl": "https://www.spigotmc.org/resources/cursed-item.99181/history"
-  }
+  "downloadUrl": "resources/cursed-item.99181/download?version=436464",
+  "numberOfDownloads": 20,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1642113000,
+  "sourceUrl": "https://www.spigotmc.org/resources/cursed-item.99181/history"
 }

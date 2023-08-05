@@ -1,12 +1,9 @@
 {
   "name": "1.0.3",
-  "version": {
-    "name": "1.0.3",
-    "downloadUrl": "resources/command-framework-1-7-1-19-4.89933/download?version=399278",
-    "numberOfDownloads": 48,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1621341900,
-    "sourceUrl": "https://www.spigotmc.org/resources/command-framework-1-7-1-19-4.89933/history"
-  }
+  "downloadUrl": "resources/command-framework-1-7-1-19-4.89933/download?version=399278",
+  "numberOfDownloads": 48,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1621341900,
+  "sourceUrl": "https://www.spigotmc.org/resources/command-framework-1-7-1-19-4.89933/history"
 }

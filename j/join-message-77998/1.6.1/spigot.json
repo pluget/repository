@@ -1,12 +1,9 @@
 {
   "name": "1.6.1",
-  "version": {
-    "name": "1.6.1",
-    "downloadUrl": "resources/join-message.77998/download?version=365625",
-    "numberOfDownloads": 48,
-    "rating": 6,
-    "numberOfVotes": 2,
-    "releaseDate": 1604673300,
-    "sourceUrl": "https://www.spigotmc.org/resources/join-message.77998/history"
-  }
+  "downloadUrl": "resources/join-message.77998/download?version=365625",
+  "numberOfDownloads": 48,
+  "rating": 6,
+  "numberOfVotes": 2,
+  "releaseDate": 1604673300,
+  "sourceUrl": "https://www.spigotmc.org/resources/join-message.77998/history"
 }

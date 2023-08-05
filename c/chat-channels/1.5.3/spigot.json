@@ -1,12 +1,9 @@
 {
-  "name": "1.5.3",
-  "version": {
-    "name": "v1.5.3",
-    "downloadUrl": "resources/chat-channels.101148/download?version=447602",
-    "numberOfDownloads": 54,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1649004600,
-    "sourceUrl": "https://www.spigotmc.org/resources/chat-channels.101148/history"
-  }
+  "name": "v1.5.3",
+  "downloadUrl": "resources/chat-channels.101148/download?version=447602",
+  "numberOfDownloads": 54,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1649004600,
+  "sourceUrl": "https://www.spigotmc.org/resources/chat-channels.101148/history"
 }

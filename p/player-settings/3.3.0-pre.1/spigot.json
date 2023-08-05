@@ -1,12 +1,9 @@
 {
-  "name": "3.3.0-pre.1",
-  "version": {
-    "name": "3.3",
-    "downloadUrl": "resources/player-settings.14622/download?version=94110",
-    "numberOfDownloads": 95,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1465155120,
-    "sourceUrl": "https://www.spigotmc.org/resources/player-settings.14622/history"
-  }
+  "name": "3.3",
+  "downloadUrl": "resources/player-settings.14622/download?version=94110",
+  "numberOfDownloads": 95,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1465155120,
+  "sourceUrl": "https://www.spigotmc.org/resources/player-settings.14622/history"
 }

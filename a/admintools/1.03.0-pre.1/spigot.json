@@ -1,12 +1,9 @@
 {
-  "name": "1.03.0-pre.1",
-  "version": {
-    "name": "1.03",
-    "downloadUrl": "resources/admintools-1-19.100683/download?version=445041",
-    "numberOfDownloads": 63,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1647191160,
-    "sourceUrl": "https://www.spigotmc.org/resources/admintools-1-19.100683/history"
-  }
+  "name": "1.03",
+  "downloadUrl": "resources/admintools-1-19.100683/download?version=445041",
+  "numberOfDownloads": 63,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1647191160,
+  "sourceUrl": "https://www.spigotmc.org/resources/admintools-1-19.100683/history"
 }

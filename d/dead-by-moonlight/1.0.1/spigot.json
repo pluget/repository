@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/dead-by-moonlight.83310/download?version=353983",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1598781240,
-    "sourceUrl": "https://www.spigotmc.org/resources/83310/history/"
-  }
+  "downloadUrl": "resources/dead-by-moonlight.83310/download?version=353983",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1598781240,
+  "sourceUrl": "https://www.spigotmc.org/resources/83310/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "8.1.1",
-  "version": {
-    "name": "8.1.1",
-    "downloadUrl": "resources/mobhunting.3582/download?version=449285",
-    "numberOfDownloads": 169,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1650226980,
-    "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
-  }
+  "downloadUrl": "resources/mobhunting.3582/download?version=449285",
+  "numberOfDownloads": 169,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1650226980,
+  "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
 }

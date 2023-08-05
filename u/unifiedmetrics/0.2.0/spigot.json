@@ -1,12 +1,9 @@
 {
   "name": "0.2.0",
-  "version": {
-    "name": "0.2.0",
-    "downloadUrl": "resources/unifiedmetrics-1-8-1-18-1-fully-featured-metrics-collection-agent-for-minecraft-servers.88798/download?version=385002",
-    "numberOfDownloads": 174,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1614000960,
-    "sourceUrl": "https://www.spigotmc.org/resources/unifiedmetrics-1-8-1-18-1-fully-featured-metrics-collection-agent-for-minecraft-servers.88798/history"
-  }
+  "downloadUrl": "resources/unifiedmetrics-1-8-1-18-1-fully-featured-metrics-collection-agent-for-minecraft-servers.88798/download?version=385002",
+  "numberOfDownloads": 174,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1614000960,
+  "sourceUrl": "https://www.spigotmc.org/resources/unifiedmetrics-1-8-1-18-1-fully-featured-metrics-collection-agent-for-minecraft-servers.88798/history"
 }

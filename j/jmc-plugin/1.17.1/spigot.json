@@ -1,12 +1,9 @@
 {
   "name": "1.17.1",
-  "version": {
-    "name": "1.17.1",
-    "downloadUrl": "resources/jmc-plugin.103469/download?version=461222",
-    "numberOfDownloads": 17,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1658116440,
-    "sourceUrl": "https://www.spigotmc.org/resources/jmc-plugin.103469/history"
-  }
+  "downloadUrl": "resources/jmc-plugin.103469/download?version=461222",
+  "numberOfDownloads": 17,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1658116440,
+  "sourceUrl": "https://www.spigotmc.org/resources/jmc-plugin.103469/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "0.3.1",
-  "version": {
-    "name": "0.3.1",
-    "downloadUrl": "resources/nova-addon-machines.102712/download?version=475344",
-    "numberOfDownloads": 300,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1668440160,
-    "sourceUrl": "https://www.spigotmc.org/resources/nova-addon-machines.102712/history"
-  }
+  "downloadUrl": "resources/nova-addon-machines.102712/download?version=475344",
+  "numberOfDownloads": 300,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1668440160,
+  "sourceUrl": "https://www.spigotmc.org/resources/nova-addon-machines.102712/history"
 }

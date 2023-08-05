@@ -1,12 +1,9 @@
 {
   "name": "1.5.1",
-  "version": {
-    "name": "1.5.1",
-    "downloadUrl": "resources/deathstand-1-13-1-18-x.86596/download?version=435573",
-    "numberOfDownloads": 36,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1641604200,
-    "sourceUrl": "https://www.spigotmc.org/resources/deathstand-1-13-1-18-x.86596/history"
-  }
+  "downloadUrl": "resources/deathstand-1-13-1-18-x.86596/download?version=435573",
+  "numberOfDownloads": 36,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1641604200,
+  "sourceUrl": "https://www.spigotmc.org/resources/deathstand-1-13-1-18-x.86596/history"
 }

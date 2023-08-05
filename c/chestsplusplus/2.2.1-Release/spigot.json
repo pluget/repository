@@ -1,12 +1,9 @@
 {
   "name": "2.2.1-Release",
-  "version": {
-    "name": "2.2.1-Release",
-    "downloadUrl": "resources/chests-now-with-autocrafting-chest-linking-hopper-filtering-remote-chests-menus.71355/download?version=347333",
-    "numberOfDownloads": 431,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1595970060,
-    "sourceUrl": "https://www.spigotmc.org/resources/chests-now-with-autocrafting-chest-linking-hopper-filtering-remote-chests-menus.71355/history"
-  }
+  "downloadUrl": "resources/chests-now-with-autocrafting-chest-linking-hopper-filtering-remote-chests-menus.71355/download?version=347333",
+  "numberOfDownloads": 431,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1595970060,
+  "sourceUrl": "https://www.spigotmc.org/resources/chests-now-with-autocrafting-chest-linking-hopper-filtering-remote-chests-menus.71355/history"
 }

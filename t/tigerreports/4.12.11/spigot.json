@@ -1,12 +1,9 @@
 {
   "name": "4.12.11",
-  "version": {
-    "name": "4.12.11",
-    "downloadUrl": "resources/tigerreports.25773/download?version=417735",
-    "numberOfDownloads": 245,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1630501800,
-    "sourceUrl": "https://www.spigotmc.org/resources/tigerreports.25773/history"
-  }
+  "downloadUrl": "resources/tigerreports.25773/download?version=417735",
+  "numberOfDownloads": 245,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1630501800,
+  "sourceUrl": "https://www.spigotmc.org/resources/tigerreports.25773/history"
 }

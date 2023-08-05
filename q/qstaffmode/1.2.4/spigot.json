@@ -1,12 +1,9 @@
 {
   "name": "1.2.4",
-  "version": {
-    "name": "1.2.4",
-    "downloadUrl": "resources/qstaffmode-1-8-1-19-ultimate-staff-moderation-plugin.73301/download?version=459649",
-    "numberOfDownloads": 737,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1657148640,
-    "sourceUrl": "https://www.spigotmc.org/resources/73301/history/"
-  }
+  "downloadUrl": "resources/qstaffmode-1-8-1-19-ultimate-staff-moderation-plugin.73301/download?version=459649",
+  "numberOfDownloads": 737,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1657148640,
+  "sourceUrl": "https://www.spigotmc.org/resources/73301/history/"
 }

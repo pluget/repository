@@ -1,12 +1,9 @@
 {
   "name": "21.12.1",
-  "version": {
-    "name": "21.12.1",
-    "downloadUrl": "resources/bedwars1058-opensource.97320/download?version=432330",
-    "numberOfDownloads": 3,
-    "rating": 8.1538461538462,
-    "numberOfVotes": 13,
-    "releaseDate": 1639927380,
-    "sourceUrl": "https://www.spigotmc.org/resources/bedwars1058-opensource.97320/history"
-  }
+  "downloadUrl": "resources/bedwars1058-opensource.97320/download?version=432330",
+  "numberOfDownloads": 3,
+  "rating": 8.1538461538462,
+  "numberOfVotes": 13,
+  "releaseDate": 1639927380,
+  "sourceUrl": "https://www.spigotmc.org/resources/bedwars1058-opensource.97320/history"
 }

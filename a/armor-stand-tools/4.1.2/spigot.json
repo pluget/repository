@@ -1,12 +1,9 @@
 {
   "name": "4.1.2",
-  "version": {
-    "name": "4.1.2",
-    "downloadUrl": "resources/armor-stand-tools.2237/download?version=410405",
-    "numberOfDownloads": 6,
-    "rating": 5,
-    "numberOfVotes": 4,
-    "releaseDate": 1626837240,
-    "sourceUrl": "https://www.spigotmc.org/resources/armor-stand-tools.2237/history"
-  }
+  "downloadUrl": "resources/armor-stand-tools.2237/download?version=410405",
+  "numberOfDownloads": 6,
+  "rating": 5,
+  "numberOfVotes": 4,
+  "releaseDate": 1626837240,
+  "sourceUrl": "https://www.spigotmc.org/resources/armor-stand-tools.2237/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.8.1",
-  "version": {
-    "name": "1.8.1",
-    "downloadUrl": "resources/fraud-alts-finder-geoip-precision-update.69872/download?version=423177",
-    "numberOfDownloads": 79,
-    "rating": 5,
-    "numberOfVotes": 2,
-    "releaseDate": 1634315460,
-    "sourceUrl": "https://www.spigotmc.org/resources/fraud-alts-finder-geoip-precision-update.69872/history"
-  }
+  "downloadUrl": "resources/fraud-alts-finder-geoip-precision-update.69872/download?version=423177",
+  "numberOfDownloads": 79,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releaseDate": 1634315460,
+  "sourceUrl": "https://www.spigotmc.org/resources/fraud-alts-finder-geoip-precision-update.69872/history"
 }

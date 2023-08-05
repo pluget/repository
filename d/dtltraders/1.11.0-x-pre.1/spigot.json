@@ -1,12 +1,9 @@
 {
-  "name": "1.11.0-x-pre.1",
-  "version": {
-    "name": "1.11.x",
-    "downloadUrl": "resources/dtltraders.35890/download?version=140880",
-    "numberOfDownloads": 389,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1486315740,
-    "sourceUrl": "https://www.spigotmc.org/resources/dtltraders.35890/history"
-  }
+  "name": "1.11.x",
+  "downloadUrl": "resources/dtltraders.35890/download?version=140880",
+  "numberOfDownloads": 389,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1486315740,
+  "sourceUrl": "https://www.spigotmc.org/resources/dtltraders.35890/history"
 }

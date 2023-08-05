@@ -1,12 +1,9 @@
 {
   "name": "4.4.6",
-  "version": {
-    "name": "4.4.6",
-    "downloadUrl": "resources/nametagedit.3836/download?version=305119",
-    "numberOfDownloads": 112,
-    "rating": 7.5555555555556,
-    "numberOfVotes": 27,
-    "releaseDate": 1576391400,
-    "sourceUrl": "https://www.spigotmc.org/resources/nametagedit.3836/history"
-  }
+  "downloadUrl": "resources/nametagedit.3836/download?version=305119",
+  "numberOfDownloads": 112,
+  "rating": 7.5555555555556,
+  "numberOfVotes": 27,
+  "releaseDate": 1576391400,
+  "sourceUrl": "https://www.spigotmc.org/resources/nametagedit.3836/history"
 }

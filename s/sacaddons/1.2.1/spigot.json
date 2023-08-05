@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/sacaddons.95930/download?version=418073",
-    "numberOfDownloads": 26,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1630727220,
-    "sourceUrl": "https://www.spigotmc.org/resources/sacaddons.95930/history"
-  }
+  "downloadUrl": "resources/sacaddons.95930/download?version=418073",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1630727220,
+  "sourceUrl": "https://www.spigotmc.org/resources/sacaddons.95930/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "0.0.5",
-  "version": {
-    "name": "0.0.5",
-    "downloadUrl": "resources/getsupport.91749/download?version=398575",
-    "numberOfDownloads": 28,
-    "rating": 2,
-    "numberOfVotes": 1,
-    "releaseDate": 1620930600,
-    "sourceUrl": "https://www.spigotmc.org/resources/getsupport.91749/history"
-  }
+  "downloadUrl": "resources/getsupport.91749/download?version=398575",
+  "numberOfDownloads": 28,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releaseDate": 1620930600,
+  "sourceUrl": "https://www.spigotmc.org/resources/getsupport.91749/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.18.0-native",
-  "version": {
-    "name": "1.18 native",
-    "downloadUrl": "resources/noleafdecay.101860/download?version=459516",
-    "numberOfDownloads": 24,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657075500,
-    "sourceUrl": "https://www.spigotmc.org/resources/noleafdecay.101860/history"
-  }
+  "name": "1.18 native",
+  "downloadUrl": "resources/noleafdecay.101860/download?version=459516",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657075500,
+  "sourceUrl": "https://www.spigotmc.org/resources/noleafdecay.101860/history"
 }

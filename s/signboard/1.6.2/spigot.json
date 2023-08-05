@@ -1,12 +1,9 @@
 {
-  "name": "1.6.2",
-  "version": {
-    "name": "v1.6.2",
-    "downloadUrl": "resources/signboard.29024/download?version=343324",
-    "numberOfDownloads": 274,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1594401540,
-    "sourceUrl": "https://www.spigotmc.org/resources/signboard.29024/history"
-  }
+  "name": "v1.6.2",
+  "downloadUrl": "resources/signboard.29024/download?version=343324",
+  "numberOfDownloads": 274,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1594401540,
+  "sourceUrl": "https://www.spigotmc.org/resources/signboard.29024/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.18.1",
-  "version": {
-    "name": "1.18.1",
-    "downloadUrl": "resources/ptlssmp.102610/download?version=456204",
-    "numberOfDownloads": 14,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655174220,
-    "sourceUrl": "https://www.spigotmc.org/resources/ptlssmp.102610/history"
-  }
+  "downloadUrl": "resources/ptlssmp.102610/download?version=456204",
+  "numberOfDownloads": 14,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655174220,
+  "sourceUrl": "https://www.spigotmc.org/resources/ptlssmp.102610/history"
 }

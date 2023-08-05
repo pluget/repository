@@ -1,12 +1,9 @@
 {
   "name": "1.5.16",
-  "version": {
-    "name": "1.5.16",
-    "downloadUrl": "resources/death-chest.101066/download?version=480691",
-    "numberOfDownloads": 1,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1672668480,
-    "sourceUrl": "https://www.spigotmc.org/resources/death-chest.101066/history"
-  }
+  "downloadUrl": "resources/death-chest.101066/download?version=480691",
+  "numberOfDownloads": 1,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1672668480,
+  "sourceUrl": "https://www.spigotmc.org/resources/death-chest.101066/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/script-elevators.102106/download?version=452908",
-    "numberOfDownloads": 86,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1653066000,
-    "sourceUrl": "https://www.spigotmc.org/resources/102106/history/"
-  }
+  "downloadUrl": "resources/script-elevators.102106/download?version=452908",
+  "numberOfDownloads": 86,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1653066000,
+  "sourceUrl": "https://www.spigotmc.org/resources/102106/history/"
 }

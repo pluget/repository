@@ -1,12 +1,9 @@
 {
-  "name": "0.2.0",
-  "version": {
-    "name": "0.2",
-    "downloadUrl": "resources/blacklist-names-1-18.105900/download?version=488045",
-    "numberOfDownloads": 4,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1678022100,
-    "sourceUrl": "https://www.spigotmc.org/resources/105900/history/"
-  }
+  "name": "0.2",
+  "downloadUrl": "resources/blacklist-names-1-18.105900/download?version=488045",
+  "numberOfDownloads": 4,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1678022100,
+  "sourceUrl": "https://www.spigotmc.org/resources/105900/history/"
 }

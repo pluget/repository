@@ -1,12 +1,9 @@
 {
-  "name": "5.10.0-pre.1",
-  "version": {
-    "name": "5.10.0",
-    "downloadUrl": "resources/autoplug-automatic-updater-for-plugins-mods-server-java-itself.78414/download?version=445854",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1647775260,
-    "sourceUrl": "https://www.spigotmc.org/resources/autoplug-automatic-updater-for-plugins-mods-server-java-itself.78414/history"
-  }
+  "name": "5.10.0",
+  "downloadUrl": "resources/autoplug-automatic-updater-for-plugins-mods-server-java-itself.78414/download?version=445854",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1647775260,
+  "sourceUrl": "https://www.spigotmc.org/resources/autoplug-automatic-updater-for-plugins-mods-server-java-itself.78414/history"
 }

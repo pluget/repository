@@ -1,12 +1,9 @@
 {
-  "name": "3.0.0-beta",
-  "version": {
-    "name": "3.0-beta",
-    "downloadUrl": "resources/nickapi-advanced-nickapi-1-8-1-19.26013/download?version=296638",
-    "numberOfDownloads": 146,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1570183860,
-    "sourceUrl": "https://www.spigotmc.org/resources/26013/history/"
-  }
+  "name": "3.0-beta",
+  "downloadUrl": "resources/nickapi-advanced-nickapi-1-8-1-19.26013/download?version=296638",
+  "numberOfDownloads": 146,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1570183860,
+  "sourceUrl": "https://www.spigotmc.org/resources/26013/history/"
 }

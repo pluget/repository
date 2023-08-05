@@ -1,12 +1,9 @@
 {
   "name": "1.3.2",
-  "version": {
-    "name": "1.3.2",
-    "downloadUrl": "resources/community-quests-1-12-2-1-18-2-%E2%AD%90run-server-wide-quests-%E2%AD%90.90798/download?version=450896",
-    "numberOfDownloads": 46,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1651423380,
-    "sourceUrl": "https://www.spigotmc.org/resources/90798/history/"
-  }
+  "downloadUrl": "resources/community-quests-1-12-2-1-18-2-%E2%AD%90run-server-wide-quests-%E2%AD%90.90798/download?version=450896",
+  "numberOfDownloads": 46,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1651423380,
+  "sourceUrl": "https://www.spigotmc.org/resources/90798/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "4.4.0",
-  "version": {
-    "name": "4.4.0",
-    "downloadUrl": "resources/luckperms.28140/download?version=267129",
-    "numberOfDownloads": 32,
-    "rating": 9.2,
-    "numberOfVotes": 10,
-    "releaseDate": 1554217620,
-    "sourceUrl": "https://www.spigotmc.org/resources/luckperms.28140/history"
-  }
+  "downloadUrl": "resources/luckperms.28140/download?version=267129",
+  "numberOfDownloads": 32,
+  "rating": 9.2,
+  "numberOfVotes": 10,
+  "releaseDate": 1554217620,
+  "sourceUrl": "https://www.spigotmc.org/resources/luckperms.28140/history"
 }

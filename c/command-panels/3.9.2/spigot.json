@@ -1,12 +1,9 @@
 {
   "name": "3.9.2",
-  "version": {
-    "name": "3.9.2",
-    "downloadUrl": "resources/commandpanels.67788/download?version=351423",
-    "numberOfDownloads": 243,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1597661520,
-    "sourceUrl": "https://www.spigotmc.org/resources/67788/history/"
-  }
+  "downloadUrl": "resources/commandpanels.67788/download?version=351423",
+  "numberOfDownloads": 243,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1597661520,
+  "sourceUrl": "https://www.spigotmc.org/resources/67788/history/"
 }

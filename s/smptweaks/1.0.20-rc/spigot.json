@@ -1,12 +1,9 @@
 {
   "name": "1.0.20-rc",
-  "version": {
-    "name": "1.0.20-rc",
-    "downloadUrl": "resources/smptweaks.93381/download?version=429116",
-    "numberOfDownloads": 944,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1638353220,
-    "sourceUrl": "https://www.spigotmc.org/resources/smptweaks.93381/history"
-  }
+  "downloadUrl": "resources/smptweaks.93381/download?version=429116",
+  "numberOfDownloads": 944,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1638353220,
+  "sourceUrl": "https://www.spigotmc.org/resources/smptweaks.93381/history"
 }

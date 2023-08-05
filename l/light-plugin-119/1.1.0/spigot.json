@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0",
-  "version": {
-    "name": "1.1",
-    "downloadUrl": "resources/light-plugin-1-19.104681/download?version=468061",
-    "numberOfDownloads": 99,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1662064320,
-    "sourceUrl": "https://www.spigotmc.org/resources/light-plugin-1-19.104681/history"
-  }
+  "name": "1.1",
+  "downloadUrl": "resources/light-plugin-1-19.104681/download?version=468061",
+  "numberOfDownloads": 99,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1662064320,
+  "sourceUrl": "https://www.spigotmc.org/resources/light-plugin-1-19.104681/history"
 }

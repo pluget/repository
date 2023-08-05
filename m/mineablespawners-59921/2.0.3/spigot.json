@@ -1,12 +1,9 @@
 {
   "name": "2.0.3",
-  "version": {
-    "name": "2.0.3",
-    "downloadUrl": "resources/mineablespawners-1-8-1-18-silkspawners-alternative.59921/download?version=278778",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1560525960,
-    "sourceUrl": "https://www.spigotmc.org/resources/mineablespawners-1-8-1-18-silkspawners-alternative.59921/history"
-  }
+  "downloadUrl": "resources/mineablespawners-1-8-1-18-silkspawners-alternative.59921/download?version=278778",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1560525960,
+  "sourceUrl": "https://www.spigotmc.org/resources/mineablespawners-1-8-1-18-silkspawners-alternative.59921/history"
 }

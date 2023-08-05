@@ -1,12 +1,9 @@
 {
   "name": "1.9.1",
-  "version": {
-    "name": "1.9.1",
-    "downloadUrl": "resources/codex-rpg-discoveries-1-8-1-19.90371/download?version=423282",
-    "numberOfDownloads": 450,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1634389140,
-    "sourceUrl": "https://www.spigotmc.org/resources/codex-rpg-discoveries-1-8-1-19.90371/history"
-  }
+  "downloadUrl": "resources/codex-rpg-discoveries-1-8-1-19.90371/download?version=423282",
+  "numberOfDownloads": 450,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1634389140,
+  "sourceUrl": "https://www.spigotmc.org/resources/codex-rpg-discoveries-1-8-1-19.90371/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.19.0-v1",
-  "version": {
-    "name": "1.19-v1",
-    "downloadUrl": "resources/myworlds.39594/download?version=457107",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1655644320,
-    "sourceUrl": "https://www.spigotmc.org/resources/myworlds.39594/history"
-  }
+  "name": "1.19-v1",
+  "downloadUrl": "resources/myworlds.39594/download?version=457107",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1655644320,
+  "sourceUrl": "https://www.spigotmc.org/resources/myworlds.39594/history"
 }

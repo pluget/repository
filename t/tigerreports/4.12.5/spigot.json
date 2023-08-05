@@ -1,12 +1,9 @@
 {
   "name": "4.12.5",
-  "version": {
-    "name": "4.12.5",
-    "downloadUrl": "resources/tigerreports.25773/download?version=393006",
-    "numberOfDownloads": 95,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1617958920,
-    "sourceUrl": "https://www.spigotmc.org/resources/tigerreports.25773/history"
-  }
+  "downloadUrl": "resources/tigerreports.25773/download?version=393006",
+  "numberOfDownloads": 95,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1617958920,
+  "sourceUrl": "https://www.spigotmc.org/resources/tigerreports.25773/history"
 }

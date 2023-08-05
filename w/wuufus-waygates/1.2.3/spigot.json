@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/wuufus-waygates-1-13-1-19.80094/download?version=380829",
-    "numberOfDownloads": 306,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1612115040,
-    "sourceUrl": "https://www.spigotmc.org/resources/wuufus-waygates-1-13-1-19.80094/history"
-  }
+  "downloadUrl": "resources/wuufus-waygates-1-13-1-19.80094/download?version=380829",
+  "numberOfDownloads": 306,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1612115040,
+  "sourceUrl": "https://www.spigotmc.org/resources/wuufus-waygates-1-13-1-19.80094/history"
 }

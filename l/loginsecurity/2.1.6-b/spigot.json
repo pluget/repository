@@ -1,12 +1,9 @@
 {
-  "name": "2.1.6-b",
-  "version": {
-    "name": "v2.1.6b",
-    "downloadUrl": "resources/loginsecurity.19362/download?version=128591",
-    "numberOfDownloads": 7,
-    "rating": 9,
-    "numberOfVotes": 8,
-    "releaseDate": 1481115960,
-    "sourceUrl": "https://www.spigotmc.org/resources/loginsecurity.19362/history"
-  }
+  "name": "v2.1.6b",
+  "downloadUrl": "resources/loginsecurity.19362/download?version=128591",
+  "numberOfDownloads": 7,
+  "rating": 9,
+  "numberOfVotes": 8,
+  "releaseDate": 1481115960,
+  "sourceUrl": "https://www.spigotmc.org/resources/loginsecurity.19362/history"
 }

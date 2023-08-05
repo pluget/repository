@@ -1,12 +1,9 @@
 {
-  "name": "1.6.6-pre.1",
-  "version": {
-    "name": "1.6.6",
-    "downloadUrl": "resources/telecraft.75751/download?version=371592",
-    "numberOfDownloads": 26,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1607723400,
-    "sourceUrl": "https://www.spigotmc.org/resources/75751/history/"
-  }
+  "name": "1.6.6",
+  "downloadUrl": "resources/telecraft.75751/download?version=371592",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1607723400,
+  "sourceUrl": "https://www.spigotmc.org/resources/75751/history/"
 }

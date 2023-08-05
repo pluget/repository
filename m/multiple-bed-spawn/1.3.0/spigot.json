@@ -1,12 +1,9 @@
 {
-  "name": "1.3.0",
-  "version": {
-    "name": "V1.3",
-    "downloadUrl": "resources/multiple-bed-spawn.107057/download?version=485138",
-    "numberOfDownloads": 55,
-    "rating": 7,
-    "numberOfVotes": 2,
-    "releaseDate": 1675794120,
-    "sourceUrl": "https://www.spigotmc.org/resources/107057/history/"
-  }
+  "name": "V1.3",
+  "downloadUrl": "resources/multiple-bed-spawn.107057/download?version=485138",
+  "numberOfDownloads": 55,
+  "rating": 7,
+  "numberOfVotes": 2,
+  "releaseDate": 1675794120,
+  "sourceUrl": "https://www.spigotmc.org/resources/107057/history/"
 }

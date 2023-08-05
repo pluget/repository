@@ -1,12 +1,9 @@
 {
-  "name": "1.9.0-r-18",
-  "version": {
-    "name": "1.9r-18",
-    "downloadUrl": "resources/enchantments.86901/download?version=476054",
-    "numberOfDownloads": 2,
-    "rating": 8,
-    "numberOfVotes": 2,
-    "releaseDate": 1669051560,
-    "sourceUrl": "https://www.spigotmc.org/resources/enchantments.86901/history"
-  }
+  "name": "1.9r-18",
+  "downloadUrl": "resources/enchantments.86901/download?version=476054",
+  "numberOfDownloads": 2,
+  "rating": 8,
+  "numberOfVotes": 2,
+  "releaseDate": 1669051560,
+  "sourceUrl": "https://www.spigotmc.org/resources/enchantments.86901/history"
 }

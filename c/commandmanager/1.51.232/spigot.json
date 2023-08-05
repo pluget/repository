@@ -1,12 +1,9 @@
 {
   "name": "1.51.232",
-  "version": {
-    "name": "1.51.232",
-    "downloadUrl": "resources/commandmanager.97478/download?version=430947",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1639202820,
-    "sourceUrl": "https://www.spigotmc.org/resources/commandmanager.97478/history"
-  }
+  "downloadUrl": "resources/commandmanager.97478/download?version=430947",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1639202820,
+  "sourceUrl": "https://www.spigotmc.org/resources/commandmanager.97478/history"
 }

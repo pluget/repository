@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "ALPHA-1.0.0",
-    "downloadUrl": "resources/abandoned-midnight-core-skript.99954/download?version=440900",
-    "numberOfDownloads": 27,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1644679920,
-    "sourceUrl": "https://www.spigotmc.org/resources/abandoned-midnight-core-skript.99954/history"
-  }
+  "name": "ALPHA-1.0.0",
+  "downloadUrl": "resources/abandoned-midnight-core-skript.99954/download?version=440900",
+  "numberOfDownloads": 27,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1644679920,
+  "sourceUrl": "https://www.spigotmc.org/resources/abandoned-midnight-core-skript.99954/history"
 }

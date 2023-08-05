@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0",
-  "version": {
-    "name": "DEV1.1.0",
-    "downloadUrl": "resources/simple-grappling-hook-1-16-1-19-towny-support.107065/download?version=485785",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1676305320,
-    "sourceUrl": "https://www.spigotmc.org/resources/simple-grappling-hook-1-16-1-19-towny-support.107065/history"
-  }
+  "name": "DEV1.1.0",
+  "downloadUrl": "resources/simple-grappling-hook-1-16-1-19-towny-support.107065/download?version=485785",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1676305320,
+  "sourceUrl": "https://www.spigotmc.org/resources/simple-grappling-hook-1-16-1-19-towny-support.107065/history"
 }

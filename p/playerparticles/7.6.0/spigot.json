@@ -1,12 +1,9 @@
 {
-  "name": "7.6.0",
-  "version": {
-    "name": "7.6",
-    "downloadUrl": "resources/playerparticles.40261/download?version=322360",
-    "numberOfDownloads": 586,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1586031840,
-    "sourceUrl": "https://www.spigotmc.org/resources/40261/history/"
-  }
+  "name": "7.6",
+  "downloadUrl": "resources/playerparticles.40261/download?version=322360",
+  "numberOfDownloads": 586,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1586031840,
+  "sourceUrl": "https://www.spigotmc.org/resources/40261/history/"
 }

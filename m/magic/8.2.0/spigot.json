@@ -1,12 +1,9 @@
 {
-  "name": "8.2.0",
-  "version": {
-    "name": "8.2",
-    "downloadUrl": "resources/magic.1056/download?version=373095",
-    "numberOfDownloads": 1,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1608527460,
-    "sourceUrl": "https://www.spigotmc.org/resources/magic.1056/history"
-  }
+  "name": "8.2",
+  "downloadUrl": "resources/magic.1056/download?version=373095",
+  "numberOfDownloads": 1,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1608527460,
+  "sourceUrl": "https://www.spigotmc.org/resources/magic.1056/history"
 }

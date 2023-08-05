@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0-pre.1",
-  "version": {
-    "name": "BETA2",
-    "downloadUrl": "resources/flightcontrol-1-19-beta-on-discord.55168/download?version=215659",
-    "numberOfDownloads": 116,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1522712640,
-    "sourceUrl": "https://www.spigotmc.org/resources/flightcontrol-1-19-beta-on-discord.55168/history"
-  }
+  "name": "BETA2",
+  "downloadUrl": "resources/flightcontrol-1-19-beta-on-discord.55168/download?version=215659",
+  "numberOfDownloads": 116,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1522712640,
+  "sourceUrl": "https://www.spigotmc.org/resources/flightcontrol-1-19-beta-on-discord.55168/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "4.0.1",
-  "version": {
-    "name": "4.0.1",
-    "downloadUrl": "resources/obsidianauctions-1-12-1-19.5595/download?version=78629",
-    "numberOfDownloads": 192,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1459182300,
-    "sourceUrl": "https://www.spigotmc.org/resources/obsidianauctions-1-12-1-19.5595/history"
-  }
+  "downloadUrl": "resources/obsidianauctions-1-12-1-19.5595/download?version=78629",
+  "numberOfDownloads": 192,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1459182300,
+  "sourceUrl": "https://www.spigotmc.org/resources/obsidianauctions-1-12-1-19.5595/history"
 }

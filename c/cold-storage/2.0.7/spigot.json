@@ -1,12 +1,9 @@
 {
   "name": "2.0.7",
-  "version": {
-    "name": "2.0.7",
-    "downloadUrl": "resources/cold-storage.59581/download?version=291235",
-    "numberOfDownloads": 60,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1566853920,
-    "sourceUrl": "https://www.spigotmc.org/resources/59581/history/"
-  }
+  "downloadUrl": "resources/cold-storage.59581/download?version=291235",
+  "numberOfDownloads": 60,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1566853920,
+  "sourceUrl": "https://www.spigotmc.org/resources/59581/history/"
 }

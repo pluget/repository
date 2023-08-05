@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/informant-notification-of-plugin-updates-via-discord-discord-webhook-free.100826/download?version=445910",
-    "numberOfDownloads": 34,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1647792840,
-    "sourceUrl": "https://www.spigotmc.org/resources/100826/history/"
-  }
+  "downloadUrl": "resources/informant-notification-of-plugin-updates-via-discord-discord-webhook-free.100826/download?version=445910",
+  "numberOfDownloads": 34,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1647792840,
+  "sourceUrl": "https://www.spigotmc.org/resources/100826/history/"
 }

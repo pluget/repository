@@ -1,12 +1,9 @@
 {
   "name": "0.1.7",
-  "version": {
-    "name": "0.1.7",
-    "downloadUrl": "resources/deep-dark.96324/download?version=420241",
-    "numberOfDownloads": 30,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1632147360,
-    "sourceUrl": "https://www.spigotmc.org/resources/deep-dark.96324/history"
-  }
+  "downloadUrl": "resources/deep-dark.96324/download?version=420241",
+  "numberOfDownloads": 30,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1632147360,
+  "sourceUrl": "https://www.spigotmc.org/resources/deep-dark.96324/history"
 }

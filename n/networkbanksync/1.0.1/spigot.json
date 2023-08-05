@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/networkbanksync-towny-vault-economy-mysql.103635/download?version=462064",
-    "numberOfDownloads": 28,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1658627460,
-    "sourceUrl": "https://www.spigotmc.org/resources/networkbanksync-towny-vault-economy-mysql.103635/history"
-  }
+  "downloadUrl": "resources/networkbanksync-towny-vault-economy-mysql.103635/download?version=462064",
+  "numberOfDownloads": 28,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1658627460,
+  "sourceUrl": "https://www.spigotmc.org/resources/networkbanksync-towny-vault-economy-mysql.103635/history"
 }

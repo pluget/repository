@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/sleepez-1-8-1-19-fully-configurable-night-time-lapse.64732/download?version=437345",
-    "numberOfDownloads": 152,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1642562340,
-    "sourceUrl": "https://www.spigotmc.org/resources/64732/history/"
-  }
+  "downloadUrl": "resources/sleepez-1-8-1-19-fully-configurable-night-time-lapse.64732/download?version=437345",
+  "numberOfDownloads": 152,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1642562340,
+  "sourceUrl": "https://www.spigotmc.org/resources/64732/history/"
 }

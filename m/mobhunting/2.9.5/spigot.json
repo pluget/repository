@@ -1,12 +1,9 @@
 {
-  "name": "2.9.5",
-  "version": {
-    "name": "V2.9.5",
-    "downloadUrl": "resources/mobhunting.3582/download?version=88055",
-    "numberOfDownloads": 103,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1462777980,
-    "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
-  }
+  "name": "V2.9.5",
+  "downloadUrl": "resources/mobhunting.3582/download?version=88055",
+  "numberOfDownloads": 103,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1462777980,
+  "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
 }

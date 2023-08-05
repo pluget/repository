@@ -1,12 +1,9 @@
 {
   "name": "0.13.9",
-  "version": {
-    "name": "0.13.9",
-    "downloadUrl": "resources/scalaloader.59568/download?version=385114",
-    "numberOfDownloads": 35,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1614048900,
-    "sourceUrl": "https://www.spigotmc.org/resources/59568/history/"
-  }
+  "downloadUrl": "resources/scalaloader.59568/download?version=385114",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1614048900,
+  "sourceUrl": "https://www.spigotmc.org/resources/59568/history/"
 }

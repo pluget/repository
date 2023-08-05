@@ -1,12 +1,9 @@
 {
   "name": "1.17.3",
-  "version": {
-    "name": "1.17.3",
-    "downloadUrl": "resources/veinminer.12038/download?version=382663",
-    "numberOfDownloads": 525,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1612900320,
-    "sourceUrl": "https://www.spigotmc.org/resources/veinminer.12038/history"
-  }
+  "downloadUrl": "resources/veinminer.12038/download?version=382663",
+  "numberOfDownloads": 525,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1612900320,
+  "sourceUrl": "https://www.spigotmc.org/resources/veinminer.12038/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0",
-  "version": {
-    "name": "1.1",
-    "downloadUrl": "resources/1-19-2-fireworks.82431/download?version=382948",
-    "numberOfDownloads": 100,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1613033580,
-    "sourceUrl": "https://www.spigotmc.org/resources/1-19-2-fireworks.82431/history"
-  }
+  "name": "1.1",
+  "downloadUrl": "resources/1-19-2-fireworks.82431/download?version=382948",
+  "numberOfDownloads": 100,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1613033580,
+  "sourceUrl": "https://www.spigotmc.org/resources/1-19-2-fireworks.82431/history"
 }

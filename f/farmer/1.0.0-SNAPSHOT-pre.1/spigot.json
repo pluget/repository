@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-SNAPSHOT-pre.1",
-  "version": {
-    "name": "1.0-SNAPSHOT",
-    "downloadUrl": "resources/farmer-1-17-1-19-3.103640/download?version=479562",
-    "numberOfDownloads": 71,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1671896640,
-    "sourceUrl": "https://www.spigotmc.org/resources/farmer-1-17-1-19-3.103640/history"
-  }
+  "name": "1.0-SNAPSHOT",
+  "downloadUrl": "resources/farmer-1-17-1-19-3.103640/download?version=479562",
+  "numberOfDownloads": 71,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1671896640,
+  "sourceUrl": "https://www.spigotmc.org/resources/farmer-1-17-1-19-3.103640/history"
 }

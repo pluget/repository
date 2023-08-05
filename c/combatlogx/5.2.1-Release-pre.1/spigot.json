@@ -1,12 +1,9 @@
 {
-  "name": "5.2.1-Release-pre.1",
-  "version": {
-    "name": "5.2.1 Release",
-    "downloadUrl": "resources/combatlogx.31689/download?version=183006",
-    "numberOfDownloads": 2,
-    "rating": 8.6666666666666,
-    "numberOfVotes": 9,
-    "releaseDate": 1504533840,
-    "sourceUrl": "https://www.spigotmc.org/resources/combatlogx.31689/history"
-  }
+  "name": "5.2.1 Release",
+  "downloadUrl": "resources/combatlogx.31689/download?version=183006",
+  "numberOfDownloads": 2,
+  "rating": 8.6666666666666,
+  "numberOfVotes": 9,
+  "releaseDate": 1504533840,
+  "sourceUrl": "https://www.spigotmc.org/resources/combatlogx.31689/history"
 }

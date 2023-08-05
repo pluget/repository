@@ -1,12 +1,9 @@
 {
   "name": "1.5.3-alpha",
-  "version": {
-    "name": "1.5.3-alpha",
-    "downloadUrl": "resources/inventory-rollback-continued.93436/download?version=430273",
-    "numberOfDownloads": 46,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1638844080,
-    "sourceUrl": "https://www.spigotmc.org/resources/inventory-rollback-continued.93436/history"
-  }
+  "downloadUrl": "resources/inventory-rollback-continued.93436/download?version=430273",
+  "numberOfDownloads": 46,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1638844080,
+  "sourceUrl": "https://www.spigotmc.org/resources/inventory-rollback-continued.93436/history"
 }

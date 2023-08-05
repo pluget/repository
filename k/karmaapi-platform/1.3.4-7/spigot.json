@@ -1,12 +1,9 @@
 {
   "name": "1.3.4-7",
-  "version": {
-    "name": "1.3.4-7",
-    "downloadUrl": "resources/karmaapi-platform.98542/download?version=485218",
-    "numberOfDownloads": 50,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1675860660,
-    "sourceUrl": "https://www.spigotmc.org/resources/karmaapi-platform.98542/history"
-  }
+  "downloadUrl": "resources/karmaapi-platform.98542/download?version=485218",
+  "numberOfDownloads": 50,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1675860660,
+  "sourceUrl": "https://www.spigotmc.org/resources/karmaapi-platform.98542/history"
 }

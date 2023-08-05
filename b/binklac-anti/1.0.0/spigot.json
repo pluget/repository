@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/binklac-anti-cheat-for-bungee.102014/download?version=452329",
-    "numberOfDownloads": 10,
-    "rating": 2,
-    "numberOfVotes": 1,
-    "releaseDate": 1652614380,
-    "sourceUrl": "https://www.spigotmc.org/resources/binklac-anti-cheat-for-bungee.102014/history"
-  }
+  "downloadUrl": "resources/binklac-anti-cheat-for-bungee.102014/download?version=452329",
+  "numberOfDownloads": 10,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releaseDate": 1652614380,
+  "sourceUrl": "https://www.spigotmc.org/resources/binklac-anti-cheat-for-bungee.102014/history"
 }

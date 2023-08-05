@@ -1,12 +1,9 @@
 {
-  "name": "1.8.0",
-  "version": {
-    "name": "1.8",
-    "downloadUrl": "resources/venturechat.771/download?version=3260",
-    "numberOfDownloads": 191,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1408823160,
-    "sourceUrl": "https://www.spigotmc.org/resources/venturechat.771/history"
-  }
+  "name": "1.8",
+  "downloadUrl": "resources/venturechat.771/download?version=3260",
+  "numberOfDownloads": 191,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1408823160,
+  "sourceUrl": "https://www.spigotmc.org/resources/venturechat.771/history"
 }

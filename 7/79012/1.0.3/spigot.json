@@ -1,12 +1,9 @@
 {
   "name": "1.0.3",
-  "version": {
-    "name": "1.0.3",
-    "downloadUrl": "resources/addon-itemsadder-worldedit.79012/download?version=382775",
-    "numberOfDownloads": 737,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1612949760,
-    "sourceUrl": "https://www.spigotmc.org/resources/addon-itemsadder-worldedit.79012/history"
-  }
+  "downloadUrl": "resources/addon-itemsadder-worldedit.79012/download?version=382775",
+  "numberOfDownloads": 737,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1612949760,
+  "sourceUrl": "https://www.spigotmc.org/resources/addon-itemsadder-worldedit.79012/history"
 }

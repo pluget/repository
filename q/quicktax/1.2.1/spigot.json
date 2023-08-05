@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/quicktax.96495/download?version=421439",
-    "numberOfDownloads": 29,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1633025520,
-    "sourceUrl": "https://www.spigotmc.org/resources/quicktax.96495/history"
-  }
+  "downloadUrl": "resources/quicktax.96495/download?version=421439",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1633025520,
+  "sourceUrl": "https://www.spigotmc.org/resources/quicktax.96495/history"
 }

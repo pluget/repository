@@ -1,12 +1,9 @@
 {
   "name": "2.0.6",
-  "version": {
-    "name": "2.0.6",
-    "downloadUrl": "resources/worldeditselectionvisualizer-1-7-10-1-19.17311/download?version=353826",
-    "numberOfDownloads": 9,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1598707320,
-    "sourceUrl": "https://www.spigotmc.org/resources/worldeditselectionvisualizer-1-7-10-1-19.17311/history"
-  }
+  "downloadUrl": "resources/worldeditselectionvisualizer-1-7-10-1-19.17311/download?version=353826",
+  "numberOfDownloads": 9,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1598707320,
+  "sourceUrl": "https://www.spigotmc.org/resources/worldeditselectionvisualizer-1-7-10-1-19.17311/history"
 }

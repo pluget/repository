@@ -1,12 +1,9 @@
 {
   "name": "2.0.0",
-  "version": {
-    "name": "2.0.0",
-    "downloadUrl": "resources/unlimitedelytra.100035/download?version=441343",
-    "numberOfDownloads": 42,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1644956520,
-    "sourceUrl": "https://www.spigotmc.org/resources/unlimitedelytra.100035/history"
-  }
+  "downloadUrl": "resources/unlimitedelytra.100035/download?version=441343",
+  "numberOfDownloads": 42,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1644956520,
+  "sourceUrl": "https://www.spigotmc.org/resources/unlimitedelytra.100035/history"
 }

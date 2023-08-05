@@ -1,12 +1,9 @@
 {
   "name": "2.0.0",
-  "version": {
-    "name": "2.0.0",
-    "downloadUrl": "resources/srvcron-1-8-1-18-scheduler-events-jobs-conditions-spigot-bungee.100382/download?version=443196",
-    "numberOfDownloads": 45,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646135040,
-    "sourceUrl": "https://www.spigotmc.org/resources/srvcron-1-8-1-18-scheduler-events-jobs-conditions-spigot-bungee.100382/history"
-  }
+  "downloadUrl": "resources/srvcron-1-8-1-18-scheduler-events-jobs-conditions-spigot-bungee.100382/download?version=443196",
+  "numberOfDownloads": 45,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646135040,
+  "sourceUrl": "https://www.spigotmc.org/resources/srvcron-1-8-1-18-scheduler-events-jobs-conditions-spigot-bungee.100382/history"
 }

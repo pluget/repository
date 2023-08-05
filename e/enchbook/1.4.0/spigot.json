@@ -1,12 +1,9 @@
 {
   "name": "1.4.0",
-  "version": {
-    "name": "1.4.0",
-    "downloadUrl": "resources/enchbook.62545/download?version=357256",
-    "numberOfDownloads": 88,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1600249680,
-    "sourceUrl": "https://www.spigotmc.org/resources/enchbook.62545/history"
-  }
+  "downloadUrl": "resources/enchbook.62545/download?version=357256",
+  "numberOfDownloads": 88,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1600249680,
+  "sourceUrl": "https://www.spigotmc.org/resources/enchbook.62545/history"
 }

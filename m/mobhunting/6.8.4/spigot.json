@@ -1,12 +1,9 @@
 {
   "name": "6.8.4",
-  "version": {
-    "name": "6.8.4",
-    "downloadUrl": "resources/mobhunting.3582/download?version=288481",
-    "numberOfDownloads": 195,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1565416680,
-    "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
-  }
+  "downloadUrl": "resources/mobhunting.3582/download?version=288481",
+  "numberOfDownloads": 195,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1565416680,
+  "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
 }

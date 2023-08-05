@@ -1,12 +1,9 @@
 {
   "name": "1.18.2",
-  "version": {
-    "name": "1.18.2",
-    "downloadUrl": "resources/lprankmanager.105216/download?version=469126",
-    "numberOfDownloads": 24,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1662883200,
-    "sourceUrl": "https://www.spigotmc.org/resources/lprankmanager.105216/history"
-  }
+  "downloadUrl": "resources/lprankmanager.105216/download?version=469126",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1662883200,
+  "sourceUrl": "https://www.spigotmc.org/resources/lprankmanager.105216/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "5.2.3",
-  "version": {
-    "name": "5.2.3",
-    "downloadUrl": "resources/infernal-mobs.2156/download?version=166062",
-    "numberOfDownloads": 282,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1497678360,
-    "sourceUrl": "https://www.spigotmc.org/resources/infernal-mobs.2156/history"
-  }
+  "downloadUrl": "resources/infernal-mobs.2156/download?version=166062",
+  "numberOfDownloads": 282,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1497678360,
+  "sourceUrl": "https://www.spigotmc.org/resources/infernal-mobs.2156/history"
 }

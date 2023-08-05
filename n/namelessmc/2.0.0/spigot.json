@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0",
-  "version": {
-    "name": "v2.0.0",
-    "downloadUrl": "resources/namelessmc.11434/download?version=464142",
-    "numberOfDownloads": 40,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1659738180,
-    "sourceUrl": "https://www.spigotmc.org/resources/namelessmc.11434/history"
-  }
+  "name": "v2.0.0",
+  "downloadUrl": "resources/namelessmc.11434/download?version=464142",
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1659738180,
+  "sourceUrl": "https://www.spigotmc.org/resources/namelessmc.11434/history"
 }

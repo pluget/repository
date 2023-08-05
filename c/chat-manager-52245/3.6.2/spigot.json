@@ -1,12 +1,9 @@
 {
   "name": "3.6.2",
-  "version": {
-    "name": "3.6.2",
-    "downloadUrl": "resources/chat-manager-1-7-1-19-30-features-and-40-commands.52245/download?version=311458",
-    "numberOfDownloads": 6,
-    "rating": 9.25,
-    "numberOfVotes": 8,
-    "releaseDate": 1580002800,
-    "sourceUrl": "https://www.spigotmc.org/resources/chat-manager-1-7-1-19-30-features-and-40-commands.52245/history"
-  }
+  "downloadUrl": "resources/chat-manager-1-7-1-19-30-features-and-40-commands.52245/download?version=311458",
+  "numberOfDownloads": 6,
+  "rating": 9.25,
+  "numberOfVotes": 8,
+  "releaseDate": 1580002800,
+  "sourceUrl": "https://www.spigotmc.org/resources/chat-manager-1-7-1-19-30-features-and-40-commands.52245/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.2.0-SNAPSHOT",
-  "version": {
-    "name": "1.2-SNAPSHOT",
-    "downloadUrl": "resources/twitchkillme.107399/download?version=482965",
-    "numberOfDownloads": 18,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1674312960,
-    "sourceUrl": "https://www.spigotmc.org/resources/twitchkillme.107399/history"
-  }
+  "name": "1.2-SNAPSHOT",
+  "downloadUrl": "resources/twitchkillme.107399/download?version=482965",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1674312960,
+  "sourceUrl": "https://www.spigotmc.org/resources/twitchkillme.107399/history"
 }

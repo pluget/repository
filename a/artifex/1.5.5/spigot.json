@@ -1,12 +1,9 @@
 {
   "name": "1.5.5",
-  "version": {
-    "name": "1.5.5",
-    "downloadUrl": "resources/artifex.101858/download?version=485761",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1676274840,
-    "sourceUrl": "https://www.spigotmc.org/resources/artifex.101858/history"
-  }
+  "downloadUrl": "resources/artifex.101858/download?version=485761",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1676274840,
+  "sourceUrl": "https://www.spigotmc.org/resources/artifex.101858/history"
 }

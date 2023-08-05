@@ -1,12 +1,9 @@
 {
   "name": "1.6.10",
-  "version": {
-    "name": "1.6.10",
-    "downloadUrl": "resources/telecraft.75751/download?version=387717",
-    "numberOfDownloads": 202,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1615379520,
-    "sourceUrl": "https://www.spigotmc.org/resources/75751/history/"
-  }
+  "downloadUrl": "resources/telecraft.75751/download?version=387717",
+  "numberOfDownloads": 202,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1615379520,
+  "sourceUrl": "https://www.spigotmc.org/resources/75751/history/"
 }

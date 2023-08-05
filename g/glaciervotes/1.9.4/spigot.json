@@ -1,12 +1,9 @@
 {
   "name": "1.9.4",
-  "version": {
-    "name": "1.9.4",
-    "downloadUrl": "resources/glaciervotes.94245/download?version=459209",
-    "numberOfDownloads": 50,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1656910740,
-    "sourceUrl": "https://www.spigotmc.org/resources/94245/history/"
-  }
+  "downloadUrl": "resources/glaciervotes.94245/download?version=459209",
+  "numberOfDownloads": 50,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1656910740,
+  "sourceUrl": "https://www.spigotmc.org/resources/94245/history/"
 }

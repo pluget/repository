@@ -1,12 +1,9 @@
 {
   "name": "1.0.2-SNAPSHOT",
-  "version": {
-    "name": "1.0.2-SNAPSHOT",
-    "downloadUrl": "resources/antibot.102581/download?version=460452",
-    "numberOfDownloads": 99,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1657639560,
-    "sourceUrl": "https://www.spigotmc.org/resources/antibot.102581/history"
-  }
+  "downloadUrl": "resources/antibot.102581/download?version=460452",
+  "numberOfDownloads": 99,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1657639560,
+  "sourceUrl": "https://www.spigotmc.org/resources/antibot.102581/history"
 }

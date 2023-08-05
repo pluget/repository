@@ -1,12 +1,9 @@
 {
-  "name": "1.2.1-pre.4",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/gungame-1-8-1-16.90494/download?version=407742",
-    "numberOfDownloads": 37,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1625655480,
-    "sourceUrl": "https://www.spigotmc.org/resources/gungame-1-8-1-16.90494/history"
-  }
+  "name": "1.2.1",
+  "downloadUrl": "resources/gungame-1-8-1-16.90494/download?version=407742",
+  "numberOfDownloads": 37,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1625655480,
+  "sourceUrl": "https://www.spigotmc.org/resources/gungame-1-8-1-16.90494/history"
 }

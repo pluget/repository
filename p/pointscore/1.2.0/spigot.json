@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/pointscore.83263/download?version=485408",
-    "numberOfDownloads": 90,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1676025540,
-    "sourceUrl": "https://www.spigotmc.org/resources/pointscore.83263/history"
-  }
+  "downloadUrl": "resources/pointscore.83263/download?version=485408",
+  "numberOfDownloads": 90,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1676025540,
+  "sourceUrl": "https://www.spigotmc.org/resources/pointscore.83263/history"
 }

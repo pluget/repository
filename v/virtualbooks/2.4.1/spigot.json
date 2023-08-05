@@ -1,12 +1,9 @@
 {
   "name": "2.4.1",
-  "version": {
-    "name": "2.4.1",
-    "downloadUrl": "resources/virtualbooks-1-8-8-1-19-2.78627/download?version=419288",
-    "numberOfDownloads": 150,
-    "rating": 6,
-    "numberOfVotes": 1,
-    "releaseDate": 1631522400,
-    "sourceUrl": "https://www.spigotmc.org/resources/virtualbooks-1-8-8-1-19-2.78627/history"
-  }
+  "downloadUrl": "resources/virtualbooks-1-8-8-1-19-2.78627/download?version=419288",
+  "numberOfDownloads": 150,
+  "rating": 6,
+  "numberOfVotes": 1,
+  "releaseDate": 1631522400,
+  "sourceUrl": "https://www.spigotmc.org/resources/virtualbooks-1-8-8-1-19-2.78627/history"
 }

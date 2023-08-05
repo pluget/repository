@@ -1,12 +1,9 @@
 {
   "name": "1.5.10",
-  "version": {
-    "name": "1.5.10",
-    "downloadUrl": "resources/enchantgui-1-17-1-1-19-4.63972/download?version=282199",
-    "numberOfDownloads": 371,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1562270160,
-    "sourceUrl": "https://www.spigotmc.org/resources/enchantgui-1-17-1-1-19-4.63972/history"
-  }
+  "downloadUrl": "resources/enchantgui-1-17-1-1-19-4.63972/download?version=282199",
+  "numberOfDownloads": 371,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1562270160,
+  "sourceUrl": "https://www.spigotmc.org/resources/enchantgui-1-17-1-1-19-4.63972/history"
 }

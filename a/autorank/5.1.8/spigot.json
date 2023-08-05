@@ -1,12 +1,9 @@
 {
   "name": "5.1.8",
-  "version": {
-    "name": "5.1.8",
-    "downloadUrl": "resources/autorank.3239/download?version=475967",
-    "numberOfDownloads": 766,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1668997860,
-    "sourceUrl": "https://www.spigotmc.org/resources/autorank.3239/history"
-  }
+  "downloadUrl": "resources/autorank.3239/download?version=475967",
+  "numberOfDownloads": 766,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1668997860,
+  "sourceUrl": "https://www.spigotmc.org/resources/autorank.3239/history"
 }

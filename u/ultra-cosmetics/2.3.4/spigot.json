@@ -1,12 +1,9 @@
 {
   "name": "2.3.4",
-  "version": {
-    "name": "2.3.4",
-    "downloadUrl": "resources/1-8-8-1-19-4-ultra-cosmetics-opensource-free.10905/download?version=99247",
-    "numberOfDownloads": 5,
-    "rating": 9.2857142857142,
-    "numberOfVotes": 28,
-    "releaseDate": 1466941800,
-    "sourceUrl": "https://www.spigotmc.org/resources/1-8-8-1-19-4-ultra-cosmetics-opensource-free.10905/history"
-  }
+  "downloadUrl": "resources/1-8-8-1-19-4-ultra-cosmetics-opensource-free.10905/download?version=99247",
+  "numberOfDownloads": 5,
+  "rating": 9.2857142857142,
+  "numberOfVotes": 28,
+  "releaseDate": 1466941800,
+  "sourceUrl": "https://www.spigotmc.org/resources/1-8-8-1-19-4-ultra-cosmetics-opensource-free.10905/history"
 }

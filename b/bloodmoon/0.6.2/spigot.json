@@ -1,12 +1,9 @@
 {
   "name": "0.6.2",
-  "version": {
-    "name": "0.6.2",
-    "downloadUrl": "resources/bloodmoon.74270/download?version=311790",
-    "numberOfDownloads": 8,
-    "rating": 9.764705882353,
-    "numberOfVotes": 17,
-    "releaseDate": 1580189040,
-    "sourceUrl": "https://www.spigotmc.org/resources/bloodmoon.74270/history"
-  }
+  "downloadUrl": "resources/bloodmoon.74270/download?version=311790",
+  "numberOfDownloads": 8,
+  "rating": 9.764705882353,
+  "numberOfVotes": 17,
+  "releaseDate": 1580189040,
+  "sourceUrl": "https://www.spigotmc.org/resources/bloodmoon.74270/history"
 }

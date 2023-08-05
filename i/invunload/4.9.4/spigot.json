@@ -1,12 +1,9 @@
 {
   "name": "4.9.4",
-  "version": {
-    "name": "4.9.4",
-    "downloadUrl": "resources/invunload.60095/download?version=378315",
-    "numberOfDownloads": 338,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1611000720,
-    "sourceUrl": "https://www.spigotmc.org/resources/60095/history/"
-  }
+  "downloadUrl": "resources/invunload.60095/download?version=378315",
+  "numberOfDownloads": 338,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1611000720,
+  "sourceUrl": "https://www.spigotmc.org/resources/60095/history/"
 }

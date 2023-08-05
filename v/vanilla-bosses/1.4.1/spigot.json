@@ -1,12 +1,9 @@
 {
   "name": "1.4.1",
-  "version": {
-    "name": "1.4.1",
-    "downloadUrl": "resources/vanilla-bosses-abandoned-check-description.95205/download?version=420276",
-    "numberOfDownloads": 175,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1632159780,
-    "sourceUrl": "https://www.spigotmc.org/resources/95205/history/"
-  }
+  "downloadUrl": "resources/vanilla-bosses-abandoned-check-description.95205/download?version=420276",
+  "numberOfDownloads": 175,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1632159780,
+  "sourceUrl": "https://www.spigotmc.org/resources/95205/history/"
 }

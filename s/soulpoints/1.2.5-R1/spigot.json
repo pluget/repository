@@ -1,12 +1,9 @@
 {
   "name": "1.2.5-R1",
-  "version": {
-    "name": "1.2.5-R1",
-    "downloadUrl": "resources/soulpoints.96396/download?version=421489",
-    "numberOfDownloads": 24,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1633065360,
-    "sourceUrl": "https://www.spigotmc.org/resources/soulpoints.96396/history"
-  }
+  "downloadUrl": "resources/soulpoints.96396/download?version=421489",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1633065360,
+  "sourceUrl": "https://www.spigotmc.org/resources/soulpoints.96396/history"
 }

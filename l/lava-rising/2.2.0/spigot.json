@@ -1,12 +1,9 @@
 {
   "name": "2.2.0",
-  "version": {
-    "name": "2.2.0",
-    "downloadUrl": "resources/lava-rising.93552/download?version=481301",
-    "numberOfDownloads": 399,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1673070360,
-    "sourceUrl": "https://www.spigotmc.org/resources/lava-rising.93552/history"
-  }
+  "downloadUrl": "resources/lava-rising.93552/download?version=481301",
+  "numberOfDownloads": 399,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1673070360,
+  "sourceUrl": "https://www.spigotmc.org/resources/lava-rising.93552/history"
 }

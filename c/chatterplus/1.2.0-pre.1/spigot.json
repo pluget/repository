@@ -1,12 +1,9 @@
 {
-  "name": "1.2.0-pre.1",
-  "version": {
-    "name": "BETA: 1.2",
-    "downloadUrl": "resources/chatterplus-manage-and-secure-your-chat-easily-with-this-chat-manager-1-8-1-19.103626/download?version=464742",
-    "numberOfDownloads": 19,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1659978720,
-    "sourceUrl": "https://www.spigotmc.org/resources/103626/history/"
-  }
+  "name": "BETA: 1.2",
+  "downloadUrl": "resources/chatterplus-manage-and-secure-your-chat-easily-with-this-chat-manager-1-8-1-19.103626/download?version=464742",
+  "numberOfDownloads": 19,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1659978720,
+  "sourceUrl": "https://www.spigotmc.org/resources/103626/history/"
 }

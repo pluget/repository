@@ -1,12 +1,9 @@
 {
   "name": "1.16.3",
-  "version": {
-    "name": "1.16.3",
-    "downloadUrl": "resources/disable-ender-chests.85452/download?version=365038",
-    "numberOfDownloads": 214,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1604422680,
-    "sourceUrl": "https://www.spigotmc.org/resources/disable-ender-chests.85452/history"
-  }
+  "downloadUrl": "resources/disable-ender-chests.85452/download?version=365038",
+  "numberOfDownloads": 214,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1604422680,
+  "sourceUrl": "https://www.spigotmc.org/resources/disable-ender-chests.85452/history"
 }

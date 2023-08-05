@@ -1,12 +1,9 @@
 {
   "name": "1.2.9",
-  "version": {
-    "name": "1.2.9",
-    "downloadUrl": "resources/commandblocks.62720/download?version=483350",
-    "numberOfDownloads": 460,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1674574620,
-    "sourceUrl": "https://www.spigotmc.org/resources/62720/history/"
-  }
+  "downloadUrl": "resources/commandblocks.62720/download?version=483350",
+  "numberOfDownloads": 460,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1674574620,
+  "sourceUrl": "https://www.spigotmc.org/resources/62720/history/"
 }

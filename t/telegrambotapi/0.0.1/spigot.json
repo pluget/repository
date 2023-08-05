@@ -1,12 +1,9 @@
 {
   "name": "0.0.1",
-  "version": {
-    "name": "0.0.1",
-    "downloadUrl": "resources/telegrambotapi.102027/download?version=452442",
-    "numberOfDownloads": 1,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1652699220,
-    "sourceUrl": "https://www.spigotmc.org/resources/telegrambotapi.102027/history"
-  }
+  "downloadUrl": "resources/telegrambotapi.102027/download?version=452442",
+  "numberOfDownloads": 1,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1652699220,
+  "sourceUrl": "https://www.spigotmc.org/resources/telegrambotapi.102027/history"
 }

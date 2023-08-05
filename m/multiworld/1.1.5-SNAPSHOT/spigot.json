@@ -1,12 +1,9 @@
 {
   "name": "1.1.5-SNAPSHOT",
-  "version": {
-    "name": "1.1.5-SNAPSHOT",
-    "downloadUrl": "resources/multiworld.92559/download?version=451218",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1651697700,
-    "sourceUrl": "https://www.spigotmc.org/resources/multiworld.92559/history"
-  }
+  "downloadUrl": "resources/multiworld.92559/download?version=451218",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1651697700,
+  "sourceUrl": "https://www.spigotmc.org/resources/multiworld.92559/history"
 }

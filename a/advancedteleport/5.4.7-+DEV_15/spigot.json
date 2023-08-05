@@ -1,12 +1,9 @@
 {
-  "name": "5.4.7-+DEV_15",
-  "version": {
-    "name": "5.4.7+DEV_15",
-    "downloadUrl": "resources/advancedteleport.64139/download?version=394733",
-    "numberOfDownloads": 5,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1618771380,
-    "sourceUrl": "https://www.spigotmc.org/resources/advancedteleport.64139/history"
-  }
+  "name": "5.4.7+DEV_15",
+  "downloadUrl": "resources/advancedteleport.64139/download?version=394733",
+  "numberOfDownloads": 5,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1618771380,
+  "sourceUrl": "https://www.spigotmc.org/resources/advancedteleport.64139/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.7.2",
-  "version": {
-    "name": "2.7.2",
-    "downloadUrl": "resources/pluginmanager.69061/download?version=470254",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1663871520,
-    "sourceUrl": "https://www.spigotmc.org/resources/pluginmanager.69061/history"
-  }
+  "downloadUrl": "resources/pluginmanager.69061/download?version=470254",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1663871520,
+  "sourceUrl": "https://www.spigotmc.org/resources/pluginmanager.69061/history"
 }

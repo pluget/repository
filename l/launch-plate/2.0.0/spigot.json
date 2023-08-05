@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0",
-  "version": {
-    "name": "2.0",
-    "downloadUrl": "resources/launch-plate.42251/download?version=240693",
-    "numberOfDownloads": 72,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1537271100,
-    "sourceUrl": "https://www.spigotmc.org/resources/42251/history/"
-  }
+  "name": "2.0",
+  "downloadUrl": "resources/launch-plate.42251/download?version=240693",
+  "numberOfDownloads": 72,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1537271100,
+  "sourceUrl": "https://www.spigotmc.org/resources/42251/history/"
 }

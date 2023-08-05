@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/afk-kicker.100525/download?version=444079",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646597160,
-    "sourceUrl": "https://www.spigotmc.org/resources/100525/history/"
-  }
+  "downloadUrl": "resources/afk-kicker.100525/download?version=444079",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646597160,
+  "sourceUrl": "https://www.spigotmc.org/resources/100525/history/"
 }

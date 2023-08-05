@@ -1,12 +1,9 @@
 {
   "name": "2.2.4",
-  "version": {
-    "name": "2.2.4",
-    "downloadUrl": "resources/vanilla-bosses-abandoned-check-description.95205/download?version=458638",
-    "numberOfDownloads": 221,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1656571620,
-    "sourceUrl": "https://www.spigotmc.org/resources/95205/history/"
-  }
+  "downloadUrl": "resources/vanilla-bosses-abandoned-check-description.95205/download?version=458638",
+  "numberOfDownloads": 221,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1656571620,
+  "sourceUrl": "https://www.spigotmc.org/resources/95205/history/"
 }

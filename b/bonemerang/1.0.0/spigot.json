@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/ei-prem-addon-bonemerang.102126/download?version=453012",
-    "numberOfDownloads": 148,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1653142800,
-    "sourceUrl": "https://www.spigotmc.org/resources/102126/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/ei-prem-addon-bonemerang.102126/download?version=453012",
+  "numberOfDownloads": 148,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1653142800,
+  "sourceUrl": "https://www.spigotmc.org/resources/102126/history/"
 }

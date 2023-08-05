@@ -1,12 +1,9 @@
 {
-  "name": "24.02.0-HOTFIX",
-  "version": {
-    "name": "Singularity-24.02-HOTFIX",
-    "downloadUrl": "resources/singularity-anticheat.97779/download?version=435565",
-    "numberOfDownloads": 28,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1641596040,
-    "sourceUrl": "https://www.spigotmc.org/resources/singularity-anticheat.97779/history"
-  }
+  "name": "Singularity-24.02-HOTFIX",
+  "downloadUrl": "resources/singularity-anticheat.97779/download?version=435565",
+  "numberOfDownloads": 28,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1641596040,
+  "sourceUrl": "https://www.spigotmc.org/resources/singularity-anticheat.97779/history"
 }

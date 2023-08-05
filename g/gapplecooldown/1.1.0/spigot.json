@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/gapplecooldown.99706/download?version=440033",
-    "numberOfDownloads": 23,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1644105300,
-    "sourceUrl": "https://www.spigotmc.org/resources/gapplecooldown.99706/history"
-  }
+  "downloadUrl": "resources/gapplecooldown.99706/download?version=440033",
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1644105300,
+  "sourceUrl": "https://www.spigotmc.org/resources/gapplecooldown.99706/history"
 }

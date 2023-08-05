@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-ALPHA",
-  "version": {
-    "name": "1.0-ALPHA",
-    "downloadUrl": "resources/discordapi-jda-api-library.104636/download?version=466107",
-    "numberOfDownloads": 66,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1660778520,
-    "sourceUrl": "https://www.spigotmc.org/resources/discordapi-jda-api-library.104636/history"
-  }
+  "name": "1.0-ALPHA",
+  "downloadUrl": "resources/discordapi-jda-api-library.104636/download?version=466107",
+  "numberOfDownloads": 66,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1660778520,
+  "sourceUrl": "https://www.spigotmc.org/resources/discordapi-jda-api-library.104636/history"
 }

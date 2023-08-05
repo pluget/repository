@@ -1,12 +1,9 @@
 {
   "name": "16.15.0",
-  "version": {
-    "name": "16.15.0",
-    "downloadUrl": "resources/griefprevention.1884/download?version=356895",
-    "numberOfDownloads": 5,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1600062720,
-    "sourceUrl": "https://www.spigotmc.org/resources/griefprevention.1884/history"
-  }
+  "downloadUrl": "resources/griefprevention.1884/download?version=356895",
+  "numberOfDownloads": 5,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1600062720,
+  "sourceUrl": "https://www.spigotmc.org/resources/griefprevention.1884/history"
 }

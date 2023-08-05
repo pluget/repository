@@ -1,12 +1,9 @@
 {
   "name": "2.2.1",
-  "version": {
-    "name": "2.2.1",
-    "downloadUrl": "resources/commandpanels.67788/download?version=289773",
-    "numberOfDownloads": 239,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1566116040,
-    "sourceUrl": "https://www.spigotmc.org/resources/67788/history/"
-  }
+  "downloadUrl": "resources/commandpanels.67788/download?version=289773",
+  "numberOfDownloads": 239,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1566116040,
+  "sourceUrl": "https://www.spigotmc.org/resources/67788/history/"
 }

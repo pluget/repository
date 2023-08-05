@@ -1,12 +1,9 @@
 {
   "name": "2.6.1",
-  "version": {
-    "name": "2.6.1",
-    "downloadUrl": "resources/tabuucore.54173/download?version=465778",
-    "numberOfDownloads": 395,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1660584900,
-    "sourceUrl": "https://www.spigotmc.org/resources/tabuucore.54173/history"
-  }
+  "downloadUrl": "resources/tabuucore.54173/download?version=465778",
+  "numberOfDownloads": 395,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1660584900,
+  "sourceUrl": "https://www.spigotmc.org/resources/tabuucore.54173/history"
 }

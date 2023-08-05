@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/autosellchests.103060/download?version=461445",
-    "numberOfDownloads": 73,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1658254620,
-    "sourceUrl": "https://www.spigotmc.org/resources/autosellchests.103060/history"
-  }
+  "downloadUrl": "resources/autosellchests.103060/download?version=461445",
+  "numberOfDownloads": 73,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1658254620,
+  "sourceUrl": "https://www.spigotmc.org/resources/autosellchests.103060/history"
 }

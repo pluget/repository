@@ -1,12 +1,9 @@
 {
   "name": "0.0.1",
-  "version": {
-    "name": "0.0.1",
-    "downloadUrl": "resources/skullhunter-1-7-1-18.72351/download?version=299426",
-    "numberOfDownloads": 161,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1572212340,
-    "sourceUrl": "https://www.spigotmc.org/resources/skullhunter-1-7-1-18.72351/history"
-  }
+  "downloadUrl": "resources/skullhunter-1-7-1-18.72351/download?version=299426",
+  "numberOfDownloads": 161,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1572212340,
+  "sourceUrl": "https://www.spigotmc.org/resources/skullhunter-1-7-1-18.72351/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/opto-jobs-1-16-5.104662/download?version=466212",
-    "numberOfDownloads": 21,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660883820,
-    "sourceUrl": "https://www.spigotmc.org/resources/104662/history/"
-  }
+  "downloadUrl": "resources/opto-jobs-1-16-5.104662/download?version=466212",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660883820,
+  "sourceUrl": "https://www.spigotmc.org/resources/104662/history/"
 }

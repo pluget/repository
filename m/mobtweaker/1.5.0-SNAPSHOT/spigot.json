@@ -1,12 +1,9 @@
 {
-  "name": "1.5.0-SNAPSHOT",
-  "version": {
-    "name": "1.5-SNAPSHOT",
-    "downloadUrl": "resources/mobtweaker.94187/download?version=454416",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1654219920,
-    "sourceUrl": "https://www.spigotmc.org/resources/mobtweaker.94187/history"
-  }
+  "name": "1.5-SNAPSHOT",
+  "downloadUrl": "resources/mobtweaker.94187/download?version=454416",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1654219920,
+  "sourceUrl": "https://www.spigotmc.org/resources/mobtweaker.94187/history"
 }

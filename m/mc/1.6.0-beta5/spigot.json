@@ -1,12 +1,9 @@
 {
   "name": "1.6.0-beta5",
-  "version": {
-    "name": "1.6.0-beta5",
-    "downloadUrl": "resources/mc-auth-with-social-link.94870/download?version=455710",
-    "numberOfDownloads": 780,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1654940640,
-    "sourceUrl": "https://www.spigotmc.org/resources/mc-auth-with-social-link.94870/history"
-  }
+  "downloadUrl": "resources/mc-auth-with-social-link.94870/download?version=455710",
+  "numberOfDownloads": 780,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1654940640,
+  "sourceUrl": "https://www.spigotmc.org/resources/mc-auth-with-social-link.94870/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.3.4-RELEASE",
-  "version": {
-    "name": "1.3.4-RELEASE",
-    "downloadUrl": "resources/essentialsmini.82775/download?version=438022",
-    "numberOfDownloads": 184,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1642946280,
-    "sourceUrl": "https://www.spigotmc.org/resources/essentialsmini.82775/history"
-  }
+  "downloadUrl": "resources/essentialsmini.82775/download?version=438022",
+  "numberOfDownloads": 184,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1642946280,
+  "sourceUrl": "https://www.spigotmc.org/resources/essentialsmini.82775/history"
 }

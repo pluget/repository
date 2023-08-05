@@ -1,12 +1,9 @@
 {
   "name": "12.8.3",
-  "version": {
-    "name": "12.8.3",
-    "downloadUrl": "resources/skinsrestorer.2124/download?version=121197",
-    "numberOfDownloads": 4,
-    "rating": 6,
-    "numberOfVotes": 3,
-    "releaseDate": 1477691520,
-    "sourceUrl": "https://www.spigotmc.org/resources/skinsrestorer.2124/history"
-  }
+  "downloadUrl": "resources/skinsrestorer.2124/download?version=121197",
+  "numberOfDownloads": 4,
+  "rating": 6,
+  "numberOfVotes": 3,
+  "releaseDate": 1477691520,
+  "sourceUrl": "https://www.spigotmc.org/resources/skinsrestorer.2124/history"
 }

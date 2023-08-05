@@ -1,12 +1,9 @@
 {
   "name": "1.0.6",
-  "version": {
-    "name": "1.0.6",
-    "downloadUrl": "resources/rpgdrop-reloaded.105365/download?version=474088",
-    "numberOfDownloads": 32,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1667323440,
-    "sourceUrl": "https://www.spigotmc.org/resources/rpgdrop-reloaded.105365/history"
-  }
+  "downloadUrl": "resources/rpgdrop-reloaded.105365/download?version=474088",
+  "numberOfDownloads": 32,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1667323440,
+  "sourceUrl": "https://www.spigotmc.org/resources/rpgdrop-reloaded.105365/history"
 }

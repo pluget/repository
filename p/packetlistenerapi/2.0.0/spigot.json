@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0",
-  "version": {
-    "name": "2.0",
-    "downloadUrl": "resources/api-packetlistenerapi.2930/download?version=17591",
-    "numberOfDownloads": 374,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1426767420,
-    "sourceUrl": "https://www.spigotmc.org/resources/api-packetlistenerapi.2930/history"
-  }
+  "name": "2.0",
+  "downloadUrl": "resources/api-packetlistenerapi.2930/download?version=17591",
+  "numberOfDownloads": 374,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1426767420,
+  "sourceUrl": "https://www.spigotmc.org/resources/api-packetlistenerapi.2930/history"
 }

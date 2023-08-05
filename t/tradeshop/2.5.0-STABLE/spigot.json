@@ -1,12 +1,9 @@
 {
   "name": "2.5.0-STABLE",
-  "version": {
-    "name": "2.5.0-STABLE",
-    "downloadUrl": "resources/tradeshop.32762/download?version=444047",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1646588100,
-    "sourceUrl": "https://www.spigotmc.org/resources/32762/history/"
-  }
+  "downloadUrl": "resources/tradeshop.32762/download?version=444047",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1646588100,
+  "sourceUrl": "https://www.spigotmc.org/resources/32762/history/"
 }

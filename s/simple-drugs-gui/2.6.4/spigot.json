@@ -1,12 +1,9 @@
 {
   "name": "2.6.4",
-  "version": {
-    "name": "2.6.4",
-    "downloadUrl": "resources/simple-drugs-gui.9684/download?version=103469",
-    "numberOfDownloads": 4,
-    "rating": 8,
-    "numberOfVotes": 6,
-    "releaseDate": 1468785540,
-    "sourceUrl": "https://www.spigotmc.org/resources/simple-drugs-gui.9684/history"
-  }
+  "downloadUrl": "resources/simple-drugs-gui.9684/download?version=103469",
+  "numberOfDownloads": 4,
+  "rating": 8,
+  "numberOfVotes": 6,
+  "releaseDate": 1468785540,
+  "sourceUrl": "https://www.spigotmc.org/resources/simple-drugs-gui.9684/history"
 }

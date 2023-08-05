@@ -1,12 +1,9 @@
 {
   "name": "1.19.2-38",
-  "version": {
-    "name": "1.19.2-38",
-    "downloadUrl": "resources/armorstandeditor-reborn.94503/download?version=472773",
-    "numberOfDownloads": 1,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1666083840,
-    "sourceUrl": "https://www.spigotmc.org/resources/armorstandeditor-reborn.94503/history"
-  }
+  "downloadUrl": "resources/armorstandeditor-reborn.94503/download?version=472773",
+  "numberOfDownloads": 1,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1666083840,
+  "sourceUrl": "https://www.spigotmc.org/resources/armorstandeditor-reborn.94503/history"
 }

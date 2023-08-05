@@ -1,12 +1,9 @@
 {
   "name": "2.1.0",
-  "version": {
-    "name": "2.1.0",
-    "downloadUrl": "resources/silkspawners-versions-1-8-8-1-19-4.60063/download?version=452788",
-    "numberOfDownloads": 141,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1652979660,
-    "sourceUrl": "https://www.spigotmc.org/resources/silkspawners-versions-1-8-8-1-19-4.60063/history"
-  }
+  "downloadUrl": "resources/silkspawners-versions-1-8-8-1-19-4.60063/download?version=452788",
+  "numberOfDownloads": 141,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1652979660,
+  "sourceUrl": "https://www.spigotmc.org/resources/silkspawners-versions-1-8-8-1-19-4.60063/history"
 }

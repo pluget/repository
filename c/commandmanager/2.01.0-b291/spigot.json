@@ -1,12 +1,9 @@
 {
   "name": "2.01.0-b291",
-  "version": {
-    "name": "2.01.0-b291",
-    "downloadUrl": "resources/commandmanager.97478/download?version=452165",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1652508960,
-    "sourceUrl": "https://www.spigotmc.org/resources/commandmanager.97478/history"
-  }
+  "downloadUrl": "resources/commandmanager.97478/download?version=452165",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1652508960,
+  "sourceUrl": "https://www.spigotmc.org/resources/commandmanager.97478/history"
 }

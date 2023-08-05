@@ -1,12 +1,9 @@
 {
   "name": "8.9.7",
-  "version": {
-    "name": "8.9.7",
-    "downloadUrl": "resources/uberenchant.19448/download?version=458157",
-    "numberOfDownloads": 45,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1656252840,
-    "sourceUrl": "https://www.spigotmc.org/resources/19448/history/"
-  }
+  "downloadUrl": "resources/uberenchant.19448/download?version=458157",
+  "numberOfDownloads": 45,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1656252840,
+  "sourceUrl": "https://www.spigotmc.org/resources/19448/history/"
 }

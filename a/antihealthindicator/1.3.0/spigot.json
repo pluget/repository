@@ -1,12 +1,9 @@
 {
   "name": "1.3.0",
-  "version": {
-    "name": "1.3.0",
-    "downloadUrl": "resources/antihealthindicator.100955/download?version=479294",
-    "numberOfDownloads": 78,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1671733380,
-    "sourceUrl": "https://www.spigotmc.org/resources/antihealthindicator.100955/history"
-  }
+  "downloadUrl": "resources/antihealthindicator.100955/download?version=479294",
+  "numberOfDownloads": 78,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1671733380,
+  "sourceUrl": "https://www.spigotmc.org/resources/antihealthindicator.100955/history"
 }

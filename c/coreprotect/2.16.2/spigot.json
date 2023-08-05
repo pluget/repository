@@ -1,12 +1,9 @@
 {
   "name": "2.16.2",
-  "version": {
-    "name": "2.16.2",
-    "downloadUrl": "resources/coreprotect.8631/download?version=264442",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1552324200,
-    "sourceUrl": "https://www.spigotmc.org/resources/coreprotect.8631/history"
-  }
+  "downloadUrl": "resources/coreprotect.8631/download?version=264442",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1552324200,
+  "sourceUrl": "https://www.spigotmc.org/resources/coreprotect.8631/history"
 }

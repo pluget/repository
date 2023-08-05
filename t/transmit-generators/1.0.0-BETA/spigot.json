@@ -1,12 +1,9 @@
 {
   "name": "1.0.0-BETA",
-  "version": {
-    "name": "1.0.0-BETA",
-    "downloadUrl": "resources/transmit-generators.105233/download?version=469221",
-    "numberOfDownloads": 28,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1662946380,
-    "sourceUrl": "https://www.spigotmc.org/resources/transmit-generators.105233/history"
-  }
+  "downloadUrl": "resources/transmit-generators.105233/download?version=469221",
+  "numberOfDownloads": 28,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1662946380,
+  "sourceUrl": "https://www.spigotmc.org/resources/transmit-generators.105233/history"
 }

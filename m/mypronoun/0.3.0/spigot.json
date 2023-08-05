@@ -1,12 +1,9 @@
 {
   "name": "0.3.0",
-  "version": {
-    "name": "0.3.0",
-    "downloadUrl": "resources/mypronoun.93506/download?version=465701",
-    "numberOfDownloads": 38,
-    "rating": 6,
-    "numberOfVotes": 2,
-    "releaseDate": 1660559520,
-    "sourceUrl": "https://www.spigotmc.org/resources/93506/history/"
-  }
+  "downloadUrl": "resources/mypronoun.93506/download?version=465701",
+  "numberOfDownloads": 38,
+  "rating": 6,
+  "numberOfVotes": 2,
+  "releaseDate": 1660559520,
+  "sourceUrl": "https://www.spigotmc.org/resources/93506/history/"
 }

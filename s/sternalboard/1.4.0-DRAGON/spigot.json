@@ -1,12 +1,9 @@
 {
-  "name": "1.4.0-DRAGON",
-  "version": {
-    "name": "1.4-DRAGON",
-    "downloadUrl": "resources/sternalboard-lightweight-animated-scoreboard.89245/download?version=420441",
-    "numberOfDownloads": 56,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1632298020,
-    "sourceUrl": "https://www.spigotmc.org/resources/89245/history/"
-  }
+  "name": "1.4-DRAGON",
+  "downloadUrl": "resources/sternalboard-lightweight-animated-scoreboard.89245/download?version=420441",
+  "numberOfDownloads": 56,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1632298020,
+  "sourceUrl": "https://www.spigotmc.org/resources/89245/history/"
 }

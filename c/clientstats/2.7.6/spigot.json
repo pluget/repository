@@ -1,12 +1,9 @@
 {
   "name": "2.7.6",
-  "version": {
-    "name": "2.7.6",
-    "downloadUrl": "resources/clientstats-bungee.27919/download?version=110101",
-    "numberOfDownloads": 160,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1471708440,
-    "sourceUrl": "https://www.spigotmc.org/resources/clientstats-bungee.27919/history"
-  }
+  "downloadUrl": "resources/clientstats-bungee.27919/download?version=110101",
+  "numberOfDownloads": 160,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1471708440,
+  "sourceUrl": "https://www.spigotmc.org/resources/clientstats-bungee.27919/history"
 }

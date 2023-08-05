@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/preventcrafting-1-7-1-18.78624/download?version=377710",
-    "numberOfDownloads": 63,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1610785020,
-    "sourceUrl": "https://www.spigotmc.org/resources/preventcrafting-1-7-1-18.78624/history"
-  }
+  "downloadUrl": "resources/preventcrafting-1-7-1-18.78624/download?version=377710",
+  "numberOfDownloads": 63,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1610785020,
+  "sourceUrl": "https://www.spigotmc.org/resources/preventcrafting-1-7-1-18.78624/history"
 }

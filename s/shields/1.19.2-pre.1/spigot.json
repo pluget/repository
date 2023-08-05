@@ -1,12 +1,9 @@
 {
-  "name": "1.19.2-pre.1",
-  "version": {
-    "name": "1.19.2",
-    "downloadUrl": "resources/shields.104416/download?version=467026",
-    "numberOfDownloads": 18,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1661413800,
-    "sourceUrl": "https://www.spigotmc.org/resources/shields.104416/history"
-  }
+  "name": "1.19.2",
+  "downloadUrl": "resources/shields.104416/download?version=467026",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1661413800,
+  "sourceUrl": "https://www.spigotmc.org/resources/shields.104416/history"
 }

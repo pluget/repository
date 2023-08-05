@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/mineit-1-8-1-19.69161/download?version=407887",
-    "numberOfDownloads": 136,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1625702220,
-    "sourceUrl": "https://www.spigotmc.org/resources/mineit-1-8-1-19.69161/history"
-  }
+  "downloadUrl": "resources/mineit-1-8-1-19.69161/download?version=407887",
+  "numberOfDownloads": 136,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1625702220,
+  "sourceUrl": "https://www.spigotmc.org/resources/mineit-1-8-1-19.69161/history"
 }

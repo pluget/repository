@@ -1,12 +1,9 @@
 {
   "name": "1.6.9",
-  "version": {
-    "name": "1.6.9",
-    "downloadUrl": "resources/star-mail.73406/download?version=361396",
-    "numberOfDownloads": 874,
-    "rating": 9.1428571428572,
-    "numberOfVotes": 7,
-    "releaseDate": 1602461100,
-    "sourceUrl": "https://www.spigotmc.org/resources/star-mail.73406/history"
-  }
+  "downloadUrl": "resources/star-mail.73406/download?version=361396",
+  "numberOfDownloads": 874,
+  "rating": 9.1428571428572,
+  "numberOfVotes": 7,
+  "releaseDate": 1602461100,
+  "sourceUrl": "https://www.spigotmc.org/resources/star-mail.73406/history"
 }

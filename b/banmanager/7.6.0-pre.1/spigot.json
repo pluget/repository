@@ -1,12 +1,9 @@
 {
-  "name": "7.6.0-pre.1",
-  "version": {
-    "name": "v7.6.0",
-    "downloadUrl": "resources/banmanager.21927/download?version=432891",
-    "numberOfDownloads": 167,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1640195400,
-    "sourceUrl": "https://www.spigotmc.org/resources/banmanager.21927/history"
-  }
+  "name": "v7.6.0",
+  "downloadUrl": "resources/banmanager.21927/download?version=432891",
+  "numberOfDownloads": 167,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1640195400,
+  "sourceUrl": "https://www.spigotmc.org/resources/banmanager.21927/history"
 }

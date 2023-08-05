@@ -1,12 +1,9 @@
 {
   "name": "0.17.3",
-  "version": {
-    "name": "0.17.3",
-    "downloadUrl": "resources/foxapi.97745/download?version=445926",
-    "numberOfDownloads": 38,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1647803340,
-    "sourceUrl": "https://www.spigotmc.org/resources/97745/history/"
-  }
+  "downloadUrl": "resources/foxapi.97745/download?version=445926",
+  "numberOfDownloads": 38,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1647803340,
+  "sourceUrl": "https://www.spigotmc.org/resources/97745/history/"
 }

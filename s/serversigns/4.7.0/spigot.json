@@ -1,12 +1,9 @@
 {
-  "name": "4.7.0",
-  "version": {
-    "name": "v4.7.0",
-    "downloadUrl": "resources/serversigns.10693/download?version=403910",
-    "numberOfDownloads": 4,
-    "rating": 9,
-    "numberOfVotes": 4,
-    "releaseDate": 1623884280,
-    "sourceUrl": "https://www.spigotmc.org/resources/serversigns.10693/history"
-  }
+  "name": "v4.7.0",
+  "downloadUrl": "resources/serversigns.10693/download?version=403910",
+  "numberOfDownloads": 4,
+  "rating": 9,
+  "numberOfVotes": 4,
+  "releaseDate": 1623884280,
+  "sourceUrl": "https://www.spigotmc.org/resources/serversigns.10693/history"
 }

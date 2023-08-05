@@ -1,12 +1,9 @@
 {
   "name": "0.4.15",
-  "version": {
-    "name": "0.4.15",
-    "downloadUrl": "resources/pluralkitmc.85018/download?version=465975",
-    "numberOfDownloads": 102,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1660709880,
-    "sourceUrl": "https://www.spigotmc.org/resources/85018/history/"
-  }
+  "downloadUrl": "resources/pluralkitmc.85018/download?version=465975",
+  "numberOfDownloads": 102,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1660709880,
+  "sourceUrl": "https://www.spigotmc.org/resources/85018/history/"
 }

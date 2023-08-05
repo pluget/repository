@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/vshop2.104903/download?version=475936",
-    "numberOfDownloads": 46,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1668966720,
-    "sourceUrl": "https://www.spigotmc.org/resources/104903/history/"
-  }
+  "downloadUrl": "resources/vshop2.104903/download?version=475936",
+  "numberOfDownloads": 46,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1668966720,
+  "sourceUrl": "https://www.spigotmc.org/resources/104903/history/"
 }

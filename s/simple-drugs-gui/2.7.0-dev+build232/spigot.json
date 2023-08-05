@@ -1,12 +1,9 @@
 {
-  "name": "2.7.0-dev+build232",
-  "version": {
-    "name": "v2.7-dev+build232",
-    "downloadUrl": "resources/simple-drugs-gui.9684/download?version=425193",
-    "numberOfDownloads": 212,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1635688800,
-    "sourceUrl": "https://www.spigotmc.org/resources/simple-drugs-gui.9684/history"
-  }
+  "name": "v2.7-dev+build232",
+  "downloadUrl": "resources/simple-drugs-gui.9684/download?version=425193",
+  "numberOfDownloads": 212,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1635688800,
+  "sourceUrl": "https://www.spigotmc.org/resources/simple-drugs-gui.9684/history"
 }

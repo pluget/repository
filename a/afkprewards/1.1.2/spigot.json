@@ -1,12 +1,9 @@
 {
   "name": "1.1.2",
-  "version": {
-    "name": "1.1.2",
-    "downloadUrl": "resources/afkprewards.102940/download?version=458260",
-    "numberOfDownloads": 23,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1656304860,
-    "sourceUrl": "https://www.spigotmc.org/resources/afkprewards.102940/history"
-  }
+  "downloadUrl": "resources/afkprewards.102940/download?version=458260",
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1656304860,
+  "sourceUrl": "https://www.spigotmc.org/resources/afkprewards.102940/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.11.0",
-  "version": {
-    "name": "2.11.0",
-    "downloadUrl": "resources/uskyblock-revived.66795/download?version=435165",
-    "numberOfDownloads": 45,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1641394500,
-    "sourceUrl": "https://www.spigotmc.org/resources/uskyblock-revived.66795/history"
-  }
+  "downloadUrl": "resources/uskyblock-revived.66795/download?version=435165",
+  "numberOfDownloads": 45,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1641394500,
+  "sourceUrl": "https://www.spigotmc.org/resources/uskyblock-revived.66795/history"
 }

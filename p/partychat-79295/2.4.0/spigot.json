@@ -1,12 +1,9 @@
 {
   "name": "2.4.0",
-  "version": {
-    "name": "2.4.0",
-    "downloadUrl": "resources/partychat.79295/download?version=356232",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1599773640,
-    "sourceUrl": "https://www.spigotmc.org/resources/79295/history/"
-  }
+  "downloadUrl": "resources/partychat.79295/download?version=356232",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1599773640,
+  "sourceUrl": "https://www.spigotmc.org/resources/79295/history/"
 }

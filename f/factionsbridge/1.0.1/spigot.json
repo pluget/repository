@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/factionsbridge.89716/download?version=386565",
-    "numberOfDownloads": 37,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1614789540,
-    "sourceUrl": "https://www.spigotmc.org/resources/factionsbridge.89716/history"
-  }
+  "downloadUrl": "resources/factionsbridge.89716/download?version=386565",
+  "numberOfDownloads": 37,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1614789540,
+  "sourceUrl": "https://www.spigotmc.org/resources/factionsbridge.89716/history"
 }

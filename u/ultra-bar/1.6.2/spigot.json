@@ -1,12 +1,9 @@
 {
   "name": "1.6.2",
-  "version": {
-    "name": "1.6.2",
-    "downloadUrl": "resources/ultra-bar.20113/download?version=271042",
-    "numberOfDownloads": 256,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1556495400,
-    "sourceUrl": "https://www.spigotmc.org/resources/ultra-bar.20113/history"
-  }
+  "downloadUrl": "resources/ultra-bar.20113/download?version=271042",
+  "numberOfDownloads": 256,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1556495400,
+  "sourceUrl": "https://www.spigotmc.org/resources/ultra-bar.20113/history"
 }

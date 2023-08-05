@@ -1,12 +1,9 @@
 {
   "name": "2.7.9-SNAPSHOT",
-  "version": {
-    "name": "2.7.9-SNAPSHOT",
-    "downloadUrl": "resources/uskyblock-revived.66795/download?version=275998",
-    "numberOfDownloads": 840,
-    "rating": 7.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1559146500,
-    "sourceUrl": "https://www.spigotmc.org/resources/uskyblock-revived.66795/history"
-  }
+  "downloadUrl": "resources/uskyblock-revived.66795/download?version=275998",
+  "numberOfDownloads": 840,
+  "rating": 7.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1559146500,
+  "sourceUrl": "https://www.spigotmc.org/resources/uskyblock-revived.66795/history"
 }

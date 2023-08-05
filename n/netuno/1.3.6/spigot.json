@@ -1,12 +1,9 @@
 {
   "name": "1.3.6",
-  "version": {
-    "name": "1.3.6",
-    "downloadUrl": "resources/netuno.94864/download?version=432809",
-    "numberOfDownloads": 17,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1640163120,
-    "sourceUrl": "https://www.spigotmc.org/resources/netuno.94864/history"
-  }
+  "downloadUrl": "resources/netuno.94864/download?version=432809",
+  "numberOfDownloads": 17,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1640163120,
+  "sourceUrl": "https://www.spigotmc.org/resources/netuno.94864/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "5.5.4",
-  "version": {
-    "name": "5.5.4",
-    "downloadUrl": "resources/hoverstats.100245/download?version=482642",
-    "numberOfDownloads": 116,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1674083280,
-    "sourceUrl": "https://www.spigotmc.org/resources/hoverstats.100245/history"
-  }
+  "downloadUrl": "resources/hoverstats.100245/download?version=482642",
+  "numberOfDownloads": 116,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1674083280,
+  "sourceUrl": "https://www.spigotmc.org/resources/hoverstats.100245/history"
 }

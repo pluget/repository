@@ -1,12 +1,9 @@
 {
   "name": "2.6.0",
-  "version": {
-    "name": "2.6.0",
-    "downloadUrl": "resources/smartsigneditor.24594/download?version=290886",
-    "numberOfDownloads": 210,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1566666480,
-    "sourceUrl": "https://www.spigotmc.org/resources/smartsigneditor.24594/history"
-  }
+  "downloadUrl": "resources/smartsigneditor.24594/download?version=290886",
+  "numberOfDownloads": 210,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1566666480,
+  "sourceUrl": "https://www.spigotmc.org/resources/smartsigneditor.24594/history"
 }

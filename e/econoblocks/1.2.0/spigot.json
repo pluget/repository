@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/econoblocks.91161/download?version=401322",
-    "numberOfDownloads": 99,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1622582940,
-    "sourceUrl": "https://www.spigotmc.org/resources/econoblocks.91161/history"
-  }
+  "downloadUrl": "resources/econoblocks.91161/download?version=401322",
+  "numberOfDownloads": 99,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1622582940,
+  "sourceUrl": "https://www.spigotmc.org/resources/econoblocks.91161/history"
 }

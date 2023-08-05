@@ -1,12 +1,9 @@
 {
   "name": "1.2.5",
-  "version": {
-    "name": "1.2.5",
-    "downloadUrl": "resources/chatitem-display-items-in-chat.19064/download?version=127060",
-    "numberOfDownloads": 180,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1480426920,
-    "sourceUrl": "https://www.spigotmc.org/resources/chatitem-display-items-in-chat.19064/history"
-  }
+  "downloadUrl": "resources/chatitem-display-items-in-chat.19064/download?version=127060",
+  "numberOfDownloads": 180,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1480426920,
+  "sourceUrl": "https://www.spigotmc.org/resources/chatitem-display-items-in-chat.19064/history"
 }

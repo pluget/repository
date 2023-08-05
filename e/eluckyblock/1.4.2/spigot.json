@@ -1,12 +1,9 @@
 {
   "name": "1.4.2",
-  "version": {
-    "name": "1.4.2",
-    "downloadUrl": "resources/eluckyblock.97759/download?version=447377",
-    "numberOfDownloads": 109,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1648848840,
-    "sourceUrl": "https://www.spigotmc.org/resources/eluckyblock.97759/history"
-  }
+  "downloadUrl": "resources/eluckyblock.97759/download?version=447377",
+  "numberOfDownloads": 109,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1648848840,
+  "sourceUrl": "https://www.spigotmc.org/resources/eluckyblock.97759/history"
 }

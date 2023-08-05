@@ -1,12 +1,9 @@
 {
   "name": "1.5.4-SNAPSHOT",
-  "version": {
-    "name": "1.5.4-SNAPSHOT",
-    "downloadUrl": "resources/api-glowapi.19422/download?version=460718",
-    "numberOfDownloads": 678,
-    "rating": 4,
-    "numberOfVotes": 2,
-    "releaseDate": 1657794780,
-    "sourceUrl": "https://www.spigotmc.org/resources/api-glowapi.19422/history"
-  }
+  "downloadUrl": "resources/api-glowapi.19422/download?version=460718",
+  "numberOfDownloads": 678,
+  "rating": 4,
+  "numberOfVotes": 2,
+  "releaseDate": 1657794780,
+  "sourceUrl": "https://www.spigotmc.org/resources/api-glowapi.19422/history"
 }

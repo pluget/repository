@@ -1,12 +1,9 @@
 {
   "name": "2.4.1",
-  "version": {
-    "name": "2.4.1",
-    "downloadUrl": "resources/simplejoin.86925/download?version=453842",
-    "numberOfDownloads": 252,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1653760320,
-    "sourceUrl": "https://www.spigotmc.org/resources/simplejoin.86925/history"
-  }
+  "downloadUrl": "resources/simplejoin.86925/download?version=453842",
+  "numberOfDownloads": 252,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1653760320,
+  "sourceUrl": "https://www.spigotmc.org/resources/simplejoin.86925/history"
 }

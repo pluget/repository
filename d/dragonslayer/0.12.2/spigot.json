@@ -1,12 +1,9 @@
 {
   "name": "0.12.2",
-  "version": {
-    "name": "0.12.2",
-    "downloadUrl": "resources/dragonslayer.36250/download?version=475541",
-    "numberOfDownloads": 455,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1668616860,
-    "sourceUrl": "https://www.spigotmc.org/resources/dragonslayer.36250/history"
-  }
+  "downloadUrl": "resources/dragonslayer.36250/download?version=475541",
+  "numberOfDownloads": 455,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1668616860,
+  "sourceUrl": "https://www.spigotmc.org/resources/dragonslayer.36250/history"
 }

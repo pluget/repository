@@ -1,12 +1,9 @@
 {
   "name": "2.7.1",
-  "version": {
-    "name": "2.7.1",
-    "downloadUrl": "resources/redlib.78713/download?version=345414",
-    "numberOfDownloads": 26,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1595199600,
-    "sourceUrl": "https://www.spigotmc.org/resources/redlib.78713/history"
-  }
+  "downloadUrl": "resources/redlib.78713/download?version=345414",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1595199600,
+  "sourceUrl": "https://www.spigotmc.org/resources/redlib.78713/history"
 }

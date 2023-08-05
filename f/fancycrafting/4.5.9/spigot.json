@@ -1,12 +1,9 @@
 {
-  "name": "4.5.9",
-  "version": {
-    "name": "v4.5.9",
-    "downloadUrl": "resources/fancycrafting-1-8-1-19.87300/download?version=470071",
-    "numberOfDownloads": 232,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1663685520,
-    "sourceUrl": "https://www.spigotmc.org/resources/fancycrafting-1-8-1-19.87300/history"
-  }
+  "name": "v4.5.9",
+  "downloadUrl": "resources/fancycrafting-1-8-1-19.87300/download?version=470071",
+  "numberOfDownloads": 232,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1663685520,
+  "sourceUrl": "https://www.spigotmc.org/resources/fancycrafting-1-8-1-19.87300/history"
 }

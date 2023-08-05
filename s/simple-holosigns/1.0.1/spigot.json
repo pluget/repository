@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/simple-holosigns.100572/download?version=444559",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646918940,
-    "sourceUrl": "https://www.spigotmc.org/resources/simple-holosigns.100572/history"
-  }
+  "downloadUrl": "resources/simple-holosigns.100572/download?version=444559",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646918940,
+  "sourceUrl": "https://www.spigotmc.org/resources/simple-holosigns.100572/history"
 }

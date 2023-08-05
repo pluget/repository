@@ -1,12 +1,9 @@
 {
   "name": "6.1.3",
-  "version": {
-    "name": "6.1.3",
-    "downloadUrl": "resources/command-timer.24141/download?version=437635",
-    "numberOfDownloads": 589,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1642759080,
-    "sourceUrl": "https://www.spigotmc.org/resources/24141/history/"
-  }
+  "downloadUrl": "resources/command-timer.24141/download?version=437635",
+  "numberOfDownloads": 589,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1642759080,
+  "sourceUrl": "https://www.spigotmc.org/resources/24141/history/"
 }

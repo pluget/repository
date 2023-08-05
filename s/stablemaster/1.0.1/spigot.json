@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/stablemaster.35286/download?version=139721",
-    "numberOfDownloads": 39,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1485818940,
-    "sourceUrl": "https://www.spigotmc.org/resources/stablemaster.35286/history"
-  }
+  "downloadUrl": "resources/stablemaster.35286/download?version=139721",
+  "numberOfDownloads": 39,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1485818940,
+  "sourceUrl": "https://www.spigotmc.org/resources/stablemaster.35286/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "3.8.2",
-  "version": {
-    "name": "3.8.2",
-    "downloadUrl": "resources/extra-hard-mode.19673/download?version=85511",
-    "numberOfDownloads": 109,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1461732660,
-    "sourceUrl": "https://www.spigotmc.org/resources/extra-hard-mode.19673/history"
-  }
+  "downloadUrl": "resources/extra-hard-mode.19673/download?version=85511",
+  "numberOfDownloads": 109,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1461732660,
+  "sourceUrl": "https://www.spigotmc.org/resources/extra-hard-mode.19673/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.2.9",
-  "version": {
-    "name": "1.2.9",
-    "downloadUrl": "resources/elevators.34229/download?version=194495",
-    "numberOfDownloads": 254,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1511065980,
-    "sourceUrl": "https://www.spigotmc.org/resources/34229/history/"
-  }
+  "downloadUrl": "resources/elevators.34229/download?version=194495",
+  "numberOfDownloads": 254,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1511065980,
+  "sourceUrl": "https://www.spigotmc.org/resources/34229/history/"
 }

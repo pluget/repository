@@ -1,12 +1,9 @@
 {
-  "name": "3.2.2-pre.4",
-  "version": {
-    "name": "3.2.2",
-    "downloadUrl": "resources/universes.68067/download?version=340755",
-    "numberOfDownloads": 75,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1593483780,
-    "sourceUrl": "https://www.spigotmc.org/resources/universes.68067/history"
-  }
+  "name": "3.2.2",
+  "downloadUrl": "resources/universes.68067/download?version=340755",
+  "numberOfDownloads": 75,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1593483780,
+  "sourceUrl": "https://www.spigotmc.org/resources/universes.68067/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.4.3",
-  "version": {
-    "name": "2.4.3",
-    "downloadUrl": "resources/book.107994/download?version=486457",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1676799120,
-    "sourceUrl": "https://www.spigotmc.org/resources/book.107994/history"
-  }
+  "downloadUrl": "resources/book.107994/download?version=486457",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1676799120,
+  "sourceUrl": "https://www.spigotmc.org/resources/book.107994/history"
 }

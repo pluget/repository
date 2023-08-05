@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/webcraftapi.99733/download?version=439609",
-    "numberOfDownloads": 84,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1643903280,
-    "sourceUrl": "https://www.spigotmc.org/resources/99733/history/"
-  }
+  "downloadUrl": "resources/webcraftapi.99733/download?version=439609",
+  "numberOfDownloads": 84,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1643903280,
+  "sourceUrl": "https://www.spigotmc.org/resources/99733/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/chainmail-craftable-chainmail-armor.81330/download?version=344015",
-    "numberOfDownloads": 222,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1594652940,
-    "sourceUrl": "https://www.spigotmc.org/resources/chainmail-craftable-chainmail-armor.81330/history"
-  }
+  "downloadUrl": "resources/chainmail-craftable-chainmail-armor.81330/download?version=344015",
+  "numberOfDownloads": 222,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1594652940,
+  "sourceUrl": "https://www.spigotmc.org/resources/chainmail-craftable-chainmail-armor.81330/history"
 }

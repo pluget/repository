@@ -1,12 +1,9 @@
 {
-  "name": "1.3.0-SNAPSHOT",
-  "version": {
-    "name": "1.3-SNAPSHOT",
-    "downloadUrl": "resources/custom-villager-trades.99540/download?version=439436",
-    "numberOfDownloads": 39,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1643766120,
-    "sourceUrl": "https://www.spigotmc.org/resources/99540/history/"
-  }
+  "name": "1.3-SNAPSHOT",
+  "downloadUrl": "resources/custom-villager-trades.99540/download?version=439436",
+  "numberOfDownloads": 39,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1643766120,
+  "sourceUrl": "https://www.spigotmc.org/resources/99540/history/"
 }

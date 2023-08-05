@@ -1,12 +1,9 @@
 {
-  "name": "1.8.0-Dev-Build-v9",
-  "version": {
-    "name": "v1.8 Dev Build v9",
-    "downloadUrl": "resources/crazy-enchantments.16470/download?version=390721",
-    "numberOfDownloads": 22,
-    "rating": 7.875,
-    "numberOfVotes": 16,
-    "releaseDate": 1616822580,
-    "sourceUrl": "https://www.spigotmc.org/resources/crazy-enchantments.16470/history"
-  }
+  "name": "v1.8 Dev Build v9",
+  "downloadUrl": "resources/crazy-enchantments.16470/download?version=390721",
+  "numberOfDownloads": 22,
+  "rating": 7.875,
+  "numberOfVotes": 16,
+  "releaseDate": 1616822580,
+  "sourceUrl": "https://www.spigotmc.org/resources/crazy-enchantments.16470/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.5.5",
-  "version": {
-    "name": "1.5.5",
-    "downloadUrl": "resources/venturechat.771/download?version=2745",
-    "numberOfDownloads": 150,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1406271660,
-    "sourceUrl": "https://www.spigotmc.org/resources/venturechat.771/history"
-  }
+  "downloadUrl": "resources/venturechat.771/download?version=2745",
+  "numberOfDownloads": 150,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1406271660,
+  "sourceUrl": "https://www.spigotmc.org/resources/venturechat.771/history"
 }

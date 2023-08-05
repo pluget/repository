@@ -1,12 +1,9 @@
 {
   "name": "2.0.7",
-  "version": {
-    "name": "2.0.7",
-    "downloadUrl": "resources/pvptoggle.80533/download?version=385983",
-    "numberOfDownloads": 141,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1614487800,
-    "sourceUrl": "https://www.spigotmc.org/resources/pvptoggle.80533/history"
-  }
+  "downloadUrl": "resources/pvptoggle.80533/download?version=385983",
+  "numberOfDownloads": 141,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1614487800,
+  "sourceUrl": "https://www.spigotmc.org/resources/pvptoggle.80533/history"
 }

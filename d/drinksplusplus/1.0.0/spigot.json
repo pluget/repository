@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/drinks-closed.102077/download?version=452743",
-    "numberOfDownloads": 82,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1652939640,
-    "sourceUrl": "https://www.spigotmc.org/resources/102077/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/drinks-closed.102077/download?version=452743",
+  "numberOfDownloads": 82,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1652939640,
+  "sourceUrl": "https://www.spigotmc.org/resources/102077/history/"
 }

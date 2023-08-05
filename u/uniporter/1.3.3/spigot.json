@@ -1,12 +1,9 @@
 {
   "name": "1.3.3",
-  "version": {
-    "name": "1.3.3",
-    "downloadUrl": "resources/uniporter.93782/download?version=429122",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1638355920,
-    "sourceUrl": "https://www.spigotmc.org/resources/93782/history/"
-  }
+  "downloadUrl": "resources/uniporter.93782/download?version=429122",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1638355920,
+  "sourceUrl": "https://www.spigotmc.org/resources/93782/history/"
 }

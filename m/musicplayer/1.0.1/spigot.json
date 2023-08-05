@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/musicplayer.90321/download?version=389514",
-    "numberOfDownloads": 109,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1616216100,
-    "sourceUrl": "https://www.spigotmc.org/resources/musicplayer.90321/history"
-  }
+  "downloadUrl": "resources/musicplayer.90321/download?version=389514",
+  "numberOfDownloads": 109,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1616216100,
+  "sourceUrl": "https://www.spigotmc.org/resources/musicplayer.90321/history"
 }

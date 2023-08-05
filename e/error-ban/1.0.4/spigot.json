@@ -1,12 +1,9 @@
 {
   "name": "1.0.4",
-  "version": {
-    "name": "1.0.4",
-    "downloadUrl": "resources/error-ban.99450/download?version=438059",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1642957440,
-    "sourceUrl": "https://www.spigotmc.org/resources/99450/history/"
-  }
+  "downloadUrl": "resources/error-ban.99450/download?version=438059",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1642957440,
+  "sourceUrl": "https://www.spigotmc.org/resources/99450/history/"
 }

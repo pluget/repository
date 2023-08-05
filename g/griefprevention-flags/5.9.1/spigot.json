@@ -1,12 +1,9 @@
 {
   "name": "5.9.1",
-  "version": {
-    "name": "5.9.1",
-    "downloadUrl": "resources/gpflags.55773/download?version=340798",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1593508500,
-    "sourceUrl": "https://www.spigotmc.org/resources/gpflags.55773/history"
-  }
+  "downloadUrl": "resources/gpflags.55773/download?version=340798",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1593508500,
+  "sourceUrl": "https://www.spigotmc.org/resources/gpflags.55773/history"
 }

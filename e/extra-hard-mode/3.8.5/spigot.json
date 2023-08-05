@@ -1,12 +1,9 @@
 {
   "name": "3.8.5",
-  "version": {
-    "name": "3.8.5",
-    "downloadUrl": "resources/extra-hard-mode.19673/download?version=96376",
-    "numberOfDownloads": 248,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1465877820,
-    "sourceUrl": "https://www.spigotmc.org/resources/extra-hard-mode.19673/history"
-  }
+  "downloadUrl": "resources/extra-hard-mode.19673/download?version=96376",
+  "numberOfDownloads": 248,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1465877820,
+  "sourceUrl": "https://www.spigotmc.org/resources/extra-hard-mode.19673/history"
 }

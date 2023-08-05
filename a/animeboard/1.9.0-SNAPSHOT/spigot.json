@@ -1,12 +1,9 @@
 {
-  "name": "1.9.0-SNAPSHOT",
-  "version": {
-    "name": "1.9 SNAPSHOT",
-    "downloadUrl": "resources/animeboard.87050/download?version=395625",
-    "numberOfDownloads": 42,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1619255220,
-    "sourceUrl": "https://www.spigotmc.org/resources/87050/history/"
-  }
+  "name": "1.9 SNAPSHOT",
+  "downloadUrl": "resources/animeboard.87050/download?version=395625",
+  "numberOfDownloads": 42,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1619255220,
+  "sourceUrl": "https://www.spigotmc.org/resources/87050/history/"
 }

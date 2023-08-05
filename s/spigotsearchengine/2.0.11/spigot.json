@@ -1,12 +1,9 @@
 {
   "name": "2.0.11",
-  "version": {
-    "name": "2.0.11",
-    "downloadUrl": "resources/spigotsearchengine.54108/download?version=305257",
-    "numberOfDownloads": 793,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1576438800,
-    "sourceUrl": "https://www.spigotmc.org/resources/spigotsearchengine.54108/history"
-  }
+  "downloadUrl": "resources/spigotsearchengine.54108/download?version=305257",
+  "numberOfDownloads": 793,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1576438800,
+  "sourceUrl": "https://www.spigotmc.org/resources/spigotsearchengine.54108/history"
 }

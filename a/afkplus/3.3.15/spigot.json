@@ -1,12 +1,9 @@
 {
   "name": "3.3.15",
-  "version": {
-    "name": "3.3.15",
-    "downloadUrl": "resources/afk.35065/download?version=458100",
-    "numberOfDownloads": 24,
-    "rating": 6.6666666666666,
-    "numberOfVotes": 3,
-    "releaseDate": 1656228240,
-    "sourceUrl": "https://www.spigotmc.org/resources/35065/history/"
-  }
+  "downloadUrl": "resources/afk.35065/download?version=458100",
+  "numberOfDownloads": 24,
+  "rating": 6.6666666666666,
+  "numberOfVotes": 3,
+  "releaseDate": 1656228240,
+  "sourceUrl": "https://www.spigotmc.org/resources/35065/history/"
 }

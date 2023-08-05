@@ -1,12 +1,9 @@
 {
   "name": "10.0.1",
-  "version": {
-    "name": "10.0.1",
-    "downloadUrl": "resources/chestsort-api.59773/download?version=399410",
-    "numberOfDownloads": 814,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1621429560,
-    "sourceUrl": "https://www.spigotmc.org/resources/59773/history/"
-  }
+  "downloadUrl": "resources/chestsort-api.59773/download?version=399410",
+  "numberOfDownloads": 814,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1621429560,
+  "sourceUrl": "https://www.spigotmc.org/resources/59773/history/"
 }

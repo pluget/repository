@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/infinite-buckets-unlimited-lava-and-water-buckets.103483/download?version=461308",
-    "numberOfDownloads": 40,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1658166840,
-    "sourceUrl": "https://www.spigotmc.org/resources/103483/history/"
-  }
+  "downloadUrl": "resources/infinite-buckets-unlimited-lava-and-water-buckets.103483/download?version=461308",
+  "numberOfDownloads": 40,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1658166840,
+  "sourceUrl": "https://www.spigotmc.org/resources/103483/history/"
 }

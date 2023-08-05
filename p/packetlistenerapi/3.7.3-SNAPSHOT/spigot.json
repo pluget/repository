@@ -1,12 +1,9 @@
 {
   "name": "3.7.3-SNAPSHOT",
-  "version": {
-    "name": "3.7.3-SNAPSHOT",
-    "downloadUrl": "resources/api-packetlistenerapi.2930/download?version=276281",
-    "numberOfDownloads": 8,
-    "rating": 5,
-    "numberOfVotes": 2,
-    "releaseDate": 1559298180,
-    "sourceUrl": "https://www.spigotmc.org/resources/api-packetlistenerapi.2930/history"
-  }
+  "downloadUrl": "resources/api-packetlistenerapi.2930/download?version=276281",
+  "numberOfDownloads": 8,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releaseDate": 1559298180,
+  "sourceUrl": "https://www.spigotmc.org/resources/api-packetlistenerapi.2930/history"
 }

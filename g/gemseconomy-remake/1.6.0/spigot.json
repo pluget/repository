@@ -1,12 +1,9 @@
 {
-  "name": "1.6.0",
-  "version": {
-    "name": "GCRemake-1.6",
-    "downloadUrl": "resources/gemseconomy-remake-unofficial-fork-1-19-ready.95658/download?version=437492",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 5,
-    "releaseDate": 1642666920,
-    "sourceUrl": "https://www.spigotmc.org/resources/gemseconomy-remake-unofficial-fork-1-19-ready.95658/history"
-  }
+  "name": "GCRemake-1.6",
+  "downloadUrl": "resources/gemseconomy-remake-unofficial-fork-1-19-ready.95658/download?version=437492",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 5,
+  "releaseDate": 1642666920,
+  "sourceUrl": "https://www.spigotmc.org/resources/gemseconomy-remake-unofficial-fork-1-19-ready.95658/history"
 }

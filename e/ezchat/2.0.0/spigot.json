@@ -1,12 +1,9 @@
 {
   "name": "2.0.0",
-  "version": {
-    "name": "2.0.0",
-    "downloadUrl": "resources/ezchat-next-generation-chat.75048/download?version=315517",
-    "numberOfDownloads": 81,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1582492260,
-    "sourceUrl": "https://www.spigotmc.org/resources/ezchat-next-generation-chat.75048/history"
-  }
+  "downloadUrl": "resources/ezchat-next-generation-chat.75048/download?version=315517",
+  "numberOfDownloads": 81,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1582492260,
+  "sourceUrl": "https://www.spigotmc.org/resources/ezchat-next-generation-chat.75048/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "2.3.0",
-  "version": {
-    "name": "2.3",
-    "downloadUrl": "resources/znpcs.80940/download?version=379094",
-    "numberOfDownloads": 2,
-    "rating": 9.090909090909,
-    "numberOfVotes": 11,
-    "releaseDate": 1611375840,
-    "sourceUrl": "https://www.spigotmc.org/resources/znpcs.80940/history"
-  }
+  "name": "2.3",
+  "downloadUrl": "resources/znpcs.80940/download?version=379094",
+  "numberOfDownloads": 2,
+  "rating": 9.090909090909,
+  "numberOfVotes": 11,
+  "releaseDate": 1611375840,
+  "sourceUrl": "https://www.spigotmc.org/resources/znpcs.80940/history"
 }

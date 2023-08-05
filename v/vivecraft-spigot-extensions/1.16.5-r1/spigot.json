@@ -1,12 +1,9 @@
 {
-  "name": "1.16.5-r1",
-  "version": {
-    "name": "VSE 1.16.5 r1",
-    "downloadUrl": "resources/vivecraft-spigot-extensions.33166/download?version=379406",
-    "numberOfDownloads": 15,
-    "rating": 7.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1611510780,
-    "sourceUrl": "https://www.spigotmc.org/resources/33166/history/"
-  }
+  "name": "VSE 1.16.5 r1",
+  "downloadUrl": "resources/vivecraft-spigot-extensions.33166/download?version=379406",
+  "numberOfDownloads": 15,
+  "rating": 7.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1611510780,
+  "sourceUrl": "https://www.spigotmc.org/resources/33166/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "0.0.5",
-  "version": {
-    "name": "0.0.5",
-    "downloadUrl": "resources/javaloader.66828/download?version=330711",
-    "numberOfDownloads": 66,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1589163840,
-    "sourceUrl": "https://www.spigotmc.org/resources/66828/history/"
-  }
+  "downloadUrl": "resources/javaloader.66828/download?version=330711",
+  "numberOfDownloads": 66,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1589163840,
+  "sourceUrl": "https://www.spigotmc.org/resources/66828/history/"
 }

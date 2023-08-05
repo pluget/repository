@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-RELEASE",
-  "version": {
-    "name": "1.0.0 RELEASE",
-    "downloadUrl": "resources/afk-rewards.107675/download?version=485169",
-    "numberOfDownloads": 217,
-    "rating": 4,
-    "numberOfVotes": 1,
-    "releaseDate": 1675808580,
-    "sourceUrl": "https://www.spigotmc.org/resources/107675/history/"
-  }
+  "name": "1.0.0 RELEASE",
+  "downloadUrl": "resources/afk-rewards.107675/download?version=485169",
+  "numberOfDownloads": 217,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releaseDate": 1675808580,
+  "sourceUrl": "https://www.spigotmc.org/resources/107675/history/"
 }

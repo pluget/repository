@@ -1,12 +1,9 @@
 {
-  "name": "1.2.0-without-date",
-  "version": {
-    "name": "1.2 without date",
-    "downloadUrl": "resources/player-head-drops.96542/download?version=472709",
-    "numberOfDownloads": 8,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1666018080,
-    "sourceUrl": "https://www.spigotmc.org/resources/player-head-drops.96542/history"
-  }
+  "name": "1.2 without date",
+  "downloadUrl": "resources/player-head-drops.96542/download?version=472709",
+  "numberOfDownloads": 8,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1666018080,
+  "sourceUrl": "https://www.spigotmc.org/resources/player-head-drops.96542/history"
 }

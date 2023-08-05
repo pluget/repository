@@ -1,12 +1,9 @@
 {
-  "name": "5.4.0-build-1722",
-  "version": {
-    "name": "5.4 build 1722",
-    "downloadUrl": "resources/plan-player-analytics.32536/download?version=455766",
-    "numberOfDownloads": 3,
-    "rating": 10,
-    "numberOfVotes": 7,
-    "releaseDate": 1654960560,
-    "sourceUrl": "https://www.spigotmc.org/resources/plan-player-analytics.32536/history"
-  }
+  "name": "5.4 build 1722",
+  "downloadUrl": "resources/plan-player-analytics.32536/download?version=455766",
+  "numberOfDownloads": 3,
+  "rating": 10,
+  "numberOfVotes": 7,
+  "releaseDate": 1654960560,
+  "sourceUrl": "https://www.spigotmc.org/resources/plan-player-analytics.32536/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.9.1",
-  "version": {
-    "name": "1.9.1",
-    "downloadUrl": "resources/loup-garou-uhc-werewolf-uhc.73113/download?version=448762",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1649872380,
-    "sourceUrl": "https://www.spigotmc.org/resources/73113/history/"
-  }
+  "downloadUrl": "resources/loup-garou-uhc-werewolf-uhc.73113/download?version=448762",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1649872380,
+  "sourceUrl": "https://www.spigotmc.org/resources/73113/history/"
 }

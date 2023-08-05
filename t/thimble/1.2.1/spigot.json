@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/thimble.88191/download?version=405733",
-    "numberOfDownloads": 100,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1624725720,
-    "sourceUrl": "https://www.spigotmc.org/resources/thimble.88191/history"
-  }
+  "downloadUrl": "resources/thimble.88191/download?version=405733",
+  "numberOfDownloads": 100,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1624725720,
+  "sourceUrl": "https://www.spigotmc.org/resources/thimble.88191/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.3.5",
-  "version": {
-    "name": "1.3.5",
-    "downloadUrl": "resources/sternalboard-lightweight-animated-scoreboard.89245/download?version=415471",
-    "numberOfDownloads": 103,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1629299640,
-    "sourceUrl": "https://www.spigotmc.org/resources/89245/history/"
-  }
+  "downloadUrl": "resources/sternalboard-lightweight-animated-scoreboard.89245/download?version=415471",
+  "numberOfDownloads": 103,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1629299640,
+  "sourceUrl": "https://www.spigotmc.org/resources/89245/history/"
 }

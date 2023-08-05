@@ -1,12 +1,9 @@
 {
   "name": "2.6.6",
-  "version": {
-    "name": "2.6.6",
-    "downloadUrl": "resources/craftingstore-net-free-minecraft-donation-system-1-19-compatible.31331/download?version=401409",
-    "numberOfDownloads": 666,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1622646480,
-    "sourceUrl": "https://www.spigotmc.org/resources/craftingstore-net-free-minecraft-donation-system-1-19-compatible.31331/history"
-  }
+  "downloadUrl": "resources/craftingstore-net-free-minecraft-donation-system-1-19-compatible.31331/download?version=401409",
+  "numberOfDownloads": 666,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1622646480,
+  "sourceUrl": "https://www.spigotmc.org/resources/craftingstore-net-free-minecraft-donation-system-1-19-compatible.31331/history"
 }

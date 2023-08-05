@@ -1,12 +1,9 @@
 {
   "name": "2.3.6",
-  "version": {
-    "name": "2.3.6",
-    "downloadUrl": "resources/playertitle-free-version.78048/download?version=361586",
-    "numberOfDownloads": 63,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1602564540,
-    "sourceUrl": "https://www.spigotmc.org/resources/playertitle-free-version.78048/history"
-  }
+  "downloadUrl": "resources/playertitle-free-version.78048/download?version=361586",
+  "numberOfDownloads": 63,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1602564540,
+  "sourceUrl": "https://www.spigotmc.org/resources/playertitle-free-version.78048/history"
 }

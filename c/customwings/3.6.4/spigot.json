@@ -1,12 +1,9 @@
 {
   "name": "3.6.4",
-  "version": {
-    "name": "3.6.4",
-    "downloadUrl": "resources/customwings-1-13-1-19-2-opensource.59912/download?version=377727",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1610790420,
-    "sourceUrl": "https://www.spigotmc.org/resources/customwings-1-13-1-19-2-opensource.59912/history"
-  }
+  "downloadUrl": "resources/customwings-1-13-1-19-2-opensource.59912/download?version=377727",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1610790420,
+  "sourceUrl": "https://www.spigotmc.org/resources/customwings-1-13-1-19-2-opensource.59912/history"
 }

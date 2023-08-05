@@ -1,12 +1,9 @@
 {
   "name": "5.0.0-rc.3",
-  "version": {
-    "name": "5.0.0-rc.3",
-    "downloadUrl": "resources/headdb-head-menu-free.84967/download?version=485711",
-    "numberOfDownloads": 1,
-    "rating": 7,
-    "numberOfVotes": 2,
-    "releaseDate": 1676233020,
-    "sourceUrl": "https://www.spigotmc.org/resources/headdb-head-menu-free.84967/history"
-  }
+  "downloadUrl": "resources/headdb-head-menu-free.84967/download?version=485711",
+  "numberOfDownloads": 1,
+  "rating": 7,
+  "numberOfVotes": 2,
+  "releaseDate": 1676233020,
+  "sourceUrl": "https://www.spigotmc.org/resources/headdb-head-menu-free.84967/history"
 }

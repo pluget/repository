@@ -1,12 +1,9 @@
 {
   "name": "1.0.3",
-  "version": {
-    "name": "1.0.3",
-    "downloadUrl": "resources/luckyblock-full-config.99935/download?version=457505",
-    "numberOfDownloads": 72,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655884560,
-    "sourceUrl": "https://www.spigotmc.org/resources/luckyblock-full-config.99935/history"
-  }
+  "downloadUrl": "resources/luckyblock-full-config.99935/download?version=457505",
+  "numberOfDownloads": 72,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655884560,
+  "sourceUrl": "https://www.spigotmc.org/resources/luckyblock-full-config.99935/history"
 }

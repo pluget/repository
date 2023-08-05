@@ -1,12 +1,9 @@
 {
   "name": "1.5.1",
-  "version": {
-    "name": "1.5.1",
-    "downloadUrl": "resources/novaconomy.100503/download?version=466584",
-    "numberOfDownloads": 124,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1661130240,
-    "sourceUrl": "https://www.spigotmc.org/resources/novaconomy.100503/history"
-  }
+  "downloadUrl": "resources/novaconomy.100503/download?version=466584",
+  "numberOfDownloads": 124,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1661130240,
+  "sourceUrl": "https://www.spigotmc.org/resources/novaconomy.100503/history"
 }

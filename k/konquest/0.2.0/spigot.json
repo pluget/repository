@@ -1,12 +1,9 @@
 {
   "name": "0.2.0",
-  "version": {
-    "name": "0.2.0",
-    "downloadUrl": "resources/konquest.92220/download?version=400744",
-    "numberOfDownloads": 105,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1622244540,
-    "sourceUrl": "https://www.spigotmc.org/resources/konquest.92220/history"
-  }
+  "downloadUrl": "resources/konquest.92220/download?version=400744",
+  "numberOfDownloads": 105,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1622244540,
+  "sourceUrl": "https://www.spigotmc.org/resources/konquest.92220/history"
 }

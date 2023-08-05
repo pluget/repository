@@ -1,12 +1,9 @@
 {
-  "name": "0.8.0",
-  "version": {
-    "name": "v0.8",
-    "downloadUrl": "resources/ponder-bukkit.97663/download?version=430603",
-    "numberOfDownloads": 24,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1639003380,
-    "sourceUrl": "https://www.spigotmc.org/resources/ponder-bukkit.97663/history"
-  }
+  "name": "v0.8",
+  "downloadUrl": "resources/ponder-bukkit.97663/download?version=430603",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1639003380,
+  "sourceUrl": "https://www.spigotmc.org/resources/ponder-bukkit.97663/history"
 }

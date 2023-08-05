@@ -1,12 +1,9 @@
 {
-  "name": "3.4.5",
-  "version": {
-    "name": "Dev3.4.5",
-    "downloadUrl": "resources/telepost.91988/download?version=409035",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1626215700,
-    "sourceUrl": "https://www.spigotmc.org/resources/telepost.91988/history"
-  }
+  "name": "Dev3.4.5",
+  "downloadUrl": "resources/telepost.91988/download?version=409035",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1626215700,
+  "sourceUrl": "https://www.spigotmc.org/resources/telepost.91988/history"
 }

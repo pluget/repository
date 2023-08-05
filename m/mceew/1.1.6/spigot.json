@@ -1,12 +1,9 @@
 {
   "name": "1.1.6",
-  "version": {
-    "name": "1.1.6",
-    "downloadUrl": "resources/mceew-earthquake-early-warning.104549/download?version=468805",
-    "numberOfDownloads": 36,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1662640740,
-    "sourceUrl": "https://www.spigotmc.org/resources/104549/history/"
-  }
+  "downloadUrl": "resources/mceew-earthquake-early-warning.104549/download?version=468805",
+  "numberOfDownloads": 36,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1662640740,
+  "sourceUrl": "https://www.spigotmc.org/resources/104549/history/"
 }

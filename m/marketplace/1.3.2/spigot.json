@@ -1,12 +1,9 @@
 {
   "name": "1.3.2",
-  "version": {
-    "name": "1.3.2",
-    "downloadUrl": "resources/marketplace-1-12-1-19-4.92212/download?version=430587",
-    "numberOfDownloads": 165,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1638995820,
-    "sourceUrl": "https://www.spigotmc.org/resources/marketplace-1-12-1-19-4.92212/history"
-  }
+  "downloadUrl": "resources/marketplace-1-12-1-19-4.92212/download?version=430587",
+  "numberOfDownloads": 165,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1638995820,
+  "sourceUrl": "https://www.spigotmc.org/resources/marketplace-1-12-1-19-4.92212/history"
 }

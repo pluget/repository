@@ -1,12 +1,9 @@
 {
   "name": "2.8.2",
-  "version": {
-    "name": "2.8.2",
-    "downloadUrl": "resources/commandsync.52093/download?version=454150",
-    "numberOfDownloads": 529,
-    "rating": 7.3333333333334,
-    "numberOfVotes": 6,
-    "releaseDate": 1654008240,
-    "sourceUrl": "https://www.spigotmc.org/resources/commandsync.52093/history"
-  }
+  "downloadUrl": "resources/commandsync.52093/download?version=454150",
+  "numberOfDownloads": 529,
+  "rating": 7.3333333333334,
+  "numberOfVotes": 6,
+  "releaseDate": 1654008240,
+  "sourceUrl": "https://www.spigotmc.org/resources/commandsync.52093/history"
 }

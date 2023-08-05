@@ -1,12 +1,9 @@
 {
-  "name": "0.1.0-beta",
-  "version": {
-    "name": "0.1 beta",
-    "downloadUrl": "resources/minecraft-server-list-php-script.99929/download?version=440733",
-    "numberOfDownloads": 50,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1644577980,
-    "sourceUrl": "https://www.spigotmc.org/resources/minecraft-server-list-php-script.99929/history"
-  }
+  "name": "0.1 beta",
+  "downloadUrl": "resources/minecraft-server-list-php-script.99929/download?version=440733",
+  "numberOfDownloads": 50,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1644577980,
+  "sourceUrl": "https://www.spigotmc.org/resources/minecraft-server-list-php-script.99929/history"
 }

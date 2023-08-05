@@ -1,12 +1,9 @@
 {
-  "name": "0.3.0",
-  "version": {
-    "name": "0.3",
-    "downloadUrl": "resources/choco-tree-chopper-1-19-x.102616/download?version=456365",
-    "numberOfDownloads": 113,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655244780,
-    "sourceUrl": "https://www.spigotmc.org/resources/102616/history/"
-  }
+  "name": "0.3",
+  "downloadUrl": "resources/choco-tree-chopper-1-19-x.102616/download?version=456365",
+  "numberOfDownloads": 113,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655244780,
+  "sourceUrl": "https://www.spigotmc.org/resources/102616/history/"
 }

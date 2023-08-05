@@ -1,12 +1,9 @@
 {
   "name": "3.6.1",
-  "version": {
-    "name": "3.6.1",
-    "downloadUrl": "resources/telepost.91988/download?version=405684",
-    "numberOfDownloads": 35,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1624709940,
-    "sourceUrl": "https://www.spigotmc.org/resources/telepost.91988/history"
-  }
+  "downloadUrl": "resources/telepost.91988/download?version=405684",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1624709940,
+  "sourceUrl": "https://www.spigotmc.org/resources/telepost.91988/history"
 }

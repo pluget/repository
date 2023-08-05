@@ -1,12 +1,9 @@
 {
   "name": "5.0.0-beta.3",
-  "version": {
-    "name": "5.0.0-beta.3",
-    "downloadUrl": "resources/mc-jda.107567/download?version=483240",
-    "numberOfDownloads": 75,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1674485220,
-    "sourceUrl": "https://www.spigotmc.org/resources/mc-jda.107567/history"
-  }
+  "downloadUrl": "resources/mc-jda.107567/download?version=483240",
+  "numberOfDownloads": 75,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1674485220,
+  "sourceUrl": "https://www.spigotmc.org/resources/mc-jda.107567/history"
 }

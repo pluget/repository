@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "v1.0",
-    "downloadUrl": "resources/awaken-life.102537/download?version=455703",
-    "numberOfDownloads": 9,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1654938720,
-    "sourceUrl": "https://www.spigotmc.org/resources/102537/history/"
-  }
+  "name": "v1.0",
+  "downloadUrl": "resources/awaken-life.102537/download?version=455703",
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1654938720,
+  "sourceUrl": "https://www.spigotmc.org/resources/102537/history/"
 }

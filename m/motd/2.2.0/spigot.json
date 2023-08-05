@@ -1,12 +1,9 @@
 {
-  "name": "2.2.0",
-  "version": {
-    "name": "2.2",
-    "downloadUrl": "resources/motd-1-8-1-19-2.8390/download?version=37492",
-    "numberOfDownloads": 16,
-    "rating": 9.7333333333334,
-    "numberOfVotes": 15,
-    "releaseDate": 1438592760,
-    "sourceUrl": "https://www.spigotmc.org/resources/motd-1-8-1-19-2.8390/history"
-  }
+  "name": "2.2",
+  "downloadUrl": "resources/motd-1-8-1-19-2.8390/download?version=37492",
+  "numberOfDownloads": 16,
+  "rating": 9.7333333333334,
+  "numberOfVotes": 15,
+  "releaseDate": 1438592760,
+  "sourceUrl": "https://www.spigotmc.org/resources/motd-1-8-1-19-2.8390/history"
 }

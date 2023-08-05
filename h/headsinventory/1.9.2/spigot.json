@@ -1,12 +1,9 @@
 {
   "name": "1.9.2",
-  "version": {
-    "name": "1.9.2",
-    "downloadUrl": "resources/headsinventory-1-17-1-19.30167/download?version=265418",
-    "numberOfDownloads": 14,
-    "rating": 9.6,
-    "numberOfVotes": 5,
-    "releaseDate": 1553010300,
-    "sourceUrl": "https://www.spigotmc.org/resources/headsinventory-1-17-1-19.30167/history"
-  }
+  "downloadUrl": "resources/headsinventory-1-17-1-19.30167/download?version=265418",
+  "numberOfDownloads": 14,
+  "rating": 9.6,
+  "numberOfVotes": 5,
+  "releaseDate": 1553010300,
+  "sourceUrl": "https://www.spigotmc.org/resources/headsinventory-1-17-1-19.30167/history"
 }

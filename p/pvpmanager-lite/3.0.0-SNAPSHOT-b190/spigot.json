@@ -1,12 +1,9 @@
 {
-  "name": "3.0.0-SNAPSHOT-b190",
-  "version": {
-    "name": "3.0-SNAPSHOT-b190",
-    "downloadUrl": "resources/pvpmanager-lite.845/download?version=57079",
-    "numberOfDownloads": 3,
-    "rating": 9.6,
-    "numberOfVotes": 5,
-    "releaseDate": 1449676620,
-    "sourceUrl": "https://www.spigotmc.org/resources/845/history/"
-  }
+  "name": "3.0-SNAPSHOT-b190",
+  "downloadUrl": "resources/pvpmanager-lite.845/download?version=57079",
+  "numberOfDownloads": 3,
+  "rating": 9.6,
+  "numberOfVotes": 5,
+  "releaseDate": 1449676620,
+  "sourceUrl": "https://www.spigotmc.org/resources/845/history/"
 }

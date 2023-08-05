@@ -1,12 +1,9 @@
 {
-  "name": "5.5.0-build-1984",
-  "version": {
-    "name": "5.5 build 1984",
-    "downloadUrl": "resources/plan-player-analytics.32536/download?version=471793",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1665219420,
-    "sourceUrl": "https://www.spigotmc.org/resources/plan-player-analytics.32536/history"
-  }
+  "name": "5.5 build 1984",
+  "downloadUrl": "resources/plan-player-analytics.32536/download?version=471793",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1665219420,
+  "sourceUrl": "https://www.spigotmc.org/resources/plan-player-analytics.32536/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.1.2",
-  "version": {
-    "name": "1.1.2",
-    "downloadUrl": "resources/nochatlagserver-fixes-chat-lag-spikes.99046/download?version=435727",
-    "numberOfDownloads": 63,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1641678240,
-    "sourceUrl": "https://www.spigotmc.org/resources/nochatlagserver-fixes-chat-lag-spikes.99046/history"
-  }
+  "downloadUrl": "resources/nochatlagserver-fixes-chat-lag-spikes.99046/download?version=435727",
+  "numberOfDownloads": 63,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1641678240,
+  "sourceUrl": "https://www.spigotmc.org/resources/nochatlagserver-fixes-chat-lag-spikes.99046/history"
 }

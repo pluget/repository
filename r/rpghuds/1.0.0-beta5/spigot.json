@@ -1,12 +1,9 @@
 {
   "name": "1.0.0-beta5",
-  "version": {
-    "name": "1.0.0-beta5",
-    "downloadUrl": "resources/addon-rpghuds-for-itemsadder.97486/download?version=426167",
-    "numberOfDownloads": 244,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1636392180,
-    "sourceUrl": "https://www.spigotmc.org/resources/addon-rpghuds-for-itemsadder.97486/history"
-  }
+  "downloadUrl": "resources/addon-rpghuds-for-itemsadder.97486/download?version=426167",
+  "numberOfDownloads": 244,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1636392180,
+  "sourceUrl": "https://www.spigotmc.org/resources/addon-rpghuds-for-itemsadder.97486/history"
 }

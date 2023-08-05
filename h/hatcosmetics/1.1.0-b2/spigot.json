@@ -1,12 +1,9 @@
 {
   "name": "1.1.0-b2",
-  "version": {
-    "name": "1.1.0-b2",
-    "downloadUrl": "resources/hatcosmetics.83111/download?version=368400",
-    "numberOfDownloads": 158,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1606004700,
-    "sourceUrl": "https://www.spigotmc.org/resources/hatcosmetics.83111/history"
-  }
+  "downloadUrl": "resources/hatcosmetics.83111/download?version=368400",
+  "numberOfDownloads": 158,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1606004700,
+  "sourceUrl": "https://www.spigotmc.org/resources/hatcosmetics.83111/history"
 }

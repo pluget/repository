@@ -1,12 +1,9 @@
 {
   "name": "3.1.0",
-  "version": {
-    "name": "3.1.0",
-    "downloadUrl": "resources/simplecurrencies.86192/download?version=441708",
-    "numberOfDownloads": 73,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1645199040,
-    "sourceUrl": "https://www.spigotmc.org/resources/simplecurrencies.86192/history"
-  }
+  "downloadUrl": "resources/simplecurrencies.86192/download?version=441708",
+  "numberOfDownloads": 73,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1645199040,
+  "sourceUrl": "https://www.spigotmc.org/resources/simplecurrencies.86192/history"
 }

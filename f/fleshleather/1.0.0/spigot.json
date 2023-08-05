@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/fleshleather.103989/download?version=463621",
-    "numberOfDownloads": 12,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1659443460,
-    "sourceUrl": "https://www.spigotmc.org/resources/fleshleather.103989/history"
-  }
+  "downloadUrl": "resources/fleshleather.103989/download?version=463621",
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1659443460,
+  "sourceUrl": "https://www.spigotmc.org/resources/fleshleather.103989/history"
 }

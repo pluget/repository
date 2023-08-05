@@ -1,12 +1,9 @@
 {
   "name": "3.1.1-fixed",
-  "version": {
-    "name": "3.1.1-fixed",
-    "downloadUrl": "resources/telepost.91988/download?version=399499",
-    "numberOfDownloads": 32,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1621464060,
-    "sourceUrl": "https://www.spigotmc.org/resources/telepost.91988/history"
-  }
+  "downloadUrl": "resources/telepost.91988/download?version=399499",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1621464060,
+  "sourceUrl": "https://www.spigotmc.org/resources/telepost.91988/history"
 }

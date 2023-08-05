@@ -1,12 +1,9 @@
 {
   "name": "3.2.8",
-  "version": {
-    "name": "3.2.8",
-    "downloadUrl": "resources/partychat.79295/download?version=385984",
-    "numberOfDownloads": 224,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1614488040,
-    "sourceUrl": "https://www.spigotmc.org/resources/79295/history/"
-  }
+  "downloadUrl": "resources/partychat.79295/download?version=385984",
+  "numberOfDownloads": 224,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1614488040,
+  "sourceUrl": "https://www.spigotmc.org/resources/79295/history/"
 }

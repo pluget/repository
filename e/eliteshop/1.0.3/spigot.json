@@ -1,12 +1,9 @@
 {
   "name": "1.0.3",
-  "version": {
-    "name": "1.0.3",
-    "downloadUrl": "resources/eliteshop-itemsadder-oraxen-mythicmobs-mysql-support-1-8-1-19.106171/download?version=474970",
-    "numberOfDownloads": 90,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1668105000,
-    "sourceUrl": "https://www.spigotmc.org/resources/eliteshop-itemsadder-oraxen-mythicmobs-mysql-support-1-8-1-19.106171/history"
-  }
+  "downloadUrl": "resources/eliteshop-itemsadder-oraxen-mythicmobs-mysql-support-1-8-1-19.106171/download?version=474970",
+  "numberOfDownloads": 90,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1668105000,
+  "sourceUrl": "https://www.spigotmc.org/resources/eliteshop-itemsadder-oraxen-mythicmobs-mysql-support-1-8-1-19.106171/history"
 }

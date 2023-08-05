@@ -1,12 +1,9 @@
 {
-  "name": "0.1.0",
-  "version": {
-    "name": "BETA 0.1",
-    "downloadUrl": "resources/wuselutils-api.100951/download?version=446472",
-    "numberOfDownloads": 28,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1648209240,
-    "sourceUrl": "https://www.spigotmc.org/resources/100951/history/"
-  }
+  "name": "BETA 0.1",
+  "downloadUrl": "resources/wuselutils-api.100951/download?version=446472",
+  "numberOfDownloads": 28,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1648209240,
+  "sourceUrl": "https://www.spigotmc.org/resources/100951/history/"
 }

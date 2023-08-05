@@ -1,12 +1,9 @@
 {
   "name": "2.10.2",
-  "version": {
-    "name": "2.10.2",
-    "downloadUrl": "resources/redirect-plus.51975/download?version=343711",
-    "numberOfDownloads": 671,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1594549740,
-    "sourceUrl": "https://www.spigotmc.org/resources/redirect-plus.51975/history"
-  }
+  "downloadUrl": "resources/redirect-plus.51975/download?version=343711",
+  "numberOfDownloads": 671,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1594549740,
+  "sourceUrl": "https://www.spigotmc.org/resources/redirect-plus.51975/history"
 }

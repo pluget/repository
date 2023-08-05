@@ -1,12 +1,9 @@
 {
   "name": "1.0.0-prod",
-  "version": {
-    "name": "1.0.0-prod",
-    "downloadUrl": "resources/improved-flint-and-steel.108100/download?version=486463",
-    "numberOfDownloads": 4,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1676802420,
-    "sourceUrl": "https://www.spigotmc.org/resources/improved-flint-and-steel.108100/history"
-  }
+  "downloadUrl": "resources/improved-flint-and-steel.108100/download?version=486463",
+  "numberOfDownloads": 4,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1676802420,
+  "sourceUrl": "https://www.spigotmc.org/resources/improved-flint-and-steel.108100/history"
 }

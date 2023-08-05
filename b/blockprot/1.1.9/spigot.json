@@ -1,12 +1,9 @@
 {
   "name": "1.1.9",
-  "version": {
-    "name": "1.1.9",
-    "downloadUrl": "resources/blockprot.87829/download?version=490789",
-    "numberOfDownloads": 150,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1679838300,
-    "sourceUrl": "https://www.spigotmc.org/resources/87829/history/"
-  }
+  "downloadUrl": "resources/blockprot.87829/download?version=490789",
+  "numberOfDownloads": 150,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1679838300,
+  "sourceUrl": "https://www.spigotmc.org/resources/87829/history/"
 }

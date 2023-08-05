@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/ticketsystem.99324/download?version=437314",
-    "numberOfDownloads": 21,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1642540620,
-    "sourceUrl": "https://www.spigotmc.org/resources/ticketsystem.99324/history"
-  }
+  "downloadUrl": "resources/ticketsystem.99324/download?version=437314",
+  "numberOfDownloads": 21,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1642540620,
+  "sourceUrl": "https://www.spigotmc.org/resources/ticketsystem.99324/history"
 }

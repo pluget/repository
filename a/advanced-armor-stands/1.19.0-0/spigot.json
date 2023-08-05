@@ -1,12 +1,9 @@
 {
-  "name": "1.19.0-0",
-  "version": {
-    "name": "1.19.0.0",
-    "downloadUrl": "resources/advanced-armor-stands.38513/download?version=458736",
-    "numberOfDownloads": 1,
-    "rating": 4,
-    "numberOfVotes": 1,
-    "releaseDate": 1656623940,
-    "sourceUrl": "https://www.spigotmc.org/resources/38513/history/"
-  }
+  "name": "1.19.0.0",
+  "downloadUrl": "resources/advanced-armor-stands.38513/download?version=458736",
+  "numberOfDownloads": 1,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releaseDate": 1656623940,
+  "sourceUrl": "https://www.spigotmc.org/resources/38513/history/"
 }

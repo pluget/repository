@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/player-tracker.101299/download?version=448475",
-    "numberOfDownloads": 107,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1649670120,
-    "sourceUrl": "https://www.spigotmc.org/resources/player-tracker.101299/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/player-tracker.101299/download?version=448475",
+  "numberOfDownloads": 107,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1649670120,
+  "sourceUrl": "https://www.spigotmc.org/resources/player-tracker.101299/history"
 }

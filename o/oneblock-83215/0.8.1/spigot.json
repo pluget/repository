@@ -1,12 +1,9 @@
 {
   "name": "0.8.1",
-  "version": {
-    "name": "0.8.1",
-    "downloadUrl": "resources/oneblock.83215/download?version=407020",
-    "numberOfDownloads": 4,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1625330160,
-    "sourceUrl": "https://www.spigotmc.org/resources/oneblock.83215/history"
-  }
+  "downloadUrl": "resources/oneblock.83215/download?version=407020",
+  "numberOfDownloads": 4,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1625330160,
+  "sourceUrl": "https://www.spigotmc.org/resources/oneblock.83215/history"
 }

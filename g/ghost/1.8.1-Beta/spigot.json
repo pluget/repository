@@ -1,12 +1,9 @@
 {
-  "name": "1.8.1-Beta",
-  "version": {
-    "name": "V. 1.8.1 Beta",
-    "downloadUrl": "resources/ghost.101401/download?version=449003",
-    "numberOfDownloads": 21,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1650049440,
-    "sourceUrl": "https://www.spigotmc.org/resources/ghost.101401/history"
-  }
+  "name": "V. 1.8.1 Beta",
+  "downloadUrl": "resources/ghost.101401/download?version=449003",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1650049440,
+  "sourceUrl": "https://www.spigotmc.org/resources/ghost.101401/history"
 }

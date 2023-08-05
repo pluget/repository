@@ -1,12 +1,9 @@
 {
   "name": "1.19.2",
-  "version": {
-    "name": "1.19.2",
-    "downloadUrl": "resources/farmerbalance.104396/download?version=467664",
-    "numberOfDownloads": 40,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1661830560,
-    "sourceUrl": "https://www.spigotmc.org/resources/104396/history/"
-  }
+  "downloadUrl": "resources/farmerbalance.104396/download?version=467664",
+  "numberOfDownloads": 40,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1661830560,
+  "sourceUrl": "https://www.spigotmc.org/resources/104396/history/"
 }

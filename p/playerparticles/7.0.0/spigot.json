@@ -1,12 +1,9 @@
 {
-  "name": "7.0.0",
-  "version": {
-    "name": "7.0",
-    "downloadUrl": "resources/playerparticles.40261/download?version=313865",
-    "numberOfDownloads": 241,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1581478200,
-    "sourceUrl": "https://www.spigotmc.org/resources/40261/history/"
-  }
+  "name": "7.0",
+  "downloadUrl": "resources/playerparticles.40261/download?version=313865",
+  "numberOfDownloads": 241,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1581478200,
+  "sourceUrl": "https://www.spigotmc.org/resources/40261/history/"
 }

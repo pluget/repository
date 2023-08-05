@@ -1,12 +1,9 @@
 {
-  "name": "1.2.0-pre.1",
-  "version": {
-    "name": "1.2",
-    "downloadUrl": "resources/blendchat.105382/download?version=470372",
-    "numberOfDownloads": 27,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1663996500,
-    "sourceUrl": "https://www.spigotmc.org/resources/105382/history/"
-  }
+  "name": "1.2",
+  "downloadUrl": "resources/blendchat.105382/download?version=470372",
+  "numberOfDownloads": 27,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1663996500,
+  "sourceUrl": "https://www.spigotmc.org/resources/105382/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "0.0.0",
-  "version": {
-    "name": "ALPHA",
-    "downloadUrl": "resources/moddedvanilla_alpha.106646/download?version=477703",
-    "numberOfDownloads": 18,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1670590920,
-    "sourceUrl": "https://www.spigotmc.org/resources/106646/history/"
-  }
+  "name": "ALPHA",
+  "downloadUrl": "resources/moddedvanilla_alpha.106646/download?version=477703",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1670590920,
+  "sourceUrl": "https://www.spigotmc.org/resources/106646/history/"
 }

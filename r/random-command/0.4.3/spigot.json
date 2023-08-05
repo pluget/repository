@@ -1,12 +1,9 @@
 {
   "name": "0.4.3",
-  "version": {
-    "name": "0.4.3",
-    "downloadUrl": "resources/random-command.12640/download?version=105494",
-    "numberOfDownloads": 657,
-    "rating": 8.6666666666666,
-    "numberOfVotes": 6,
-    "releaseDate": 1469709360,
-    "sourceUrl": "https://www.spigotmc.org/resources/random-command.12640/history"
-  }
+  "downloadUrl": "resources/random-command.12640/download?version=105494",
+  "numberOfDownloads": 657,
+  "rating": 8.6666666666666,
+  "numberOfVotes": 6,
+  "releaseDate": 1469709360,
+  "sourceUrl": "https://www.spigotmc.org/resources/random-command.12640/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "0.5.5",
-  "version": {
-    "name": "0.5.5",
-    "downloadUrl": "resources/itemsxl.14472/download?version=279045",
-    "numberOfDownloads": 3,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1560654420,
-    "sourceUrl": "https://www.spigotmc.org/resources/itemsxl.14472/history"
-  }
+  "downloadUrl": "resources/itemsxl.14472/download?version=279045",
+  "numberOfDownloads": 3,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1560654420,
+  "sourceUrl": "https://www.spigotmc.org/resources/itemsxl.14472/history"
 }

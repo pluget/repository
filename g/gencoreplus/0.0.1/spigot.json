@@ -1,12 +1,9 @@
 {
   "name": "0.0.1",
-  "version": {
-    "name": "0.0.1",
-    "downloadUrl": "resources/gencore.104404/download?version=464926",
-    "numberOfDownloads": 37,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660090620,
-    "sourceUrl": "https://www.spigotmc.org/resources/gencore.104404/history"
-  }
+  "downloadUrl": "resources/gencore.104404/download?version=464926",
+  "numberOfDownloads": 37,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660090620,
+  "sourceUrl": "https://www.spigotmc.org/resources/gencore.104404/history"
 }

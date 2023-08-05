@@ -1,12 +1,9 @@
 {
   "name": "1.0.14",
-  "version": {
-    "name": "1.0.14",
-    "downloadUrl": "resources/webinfospigot.78005/download?version=450006",
-    "numberOfDownloads": 49,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1650744180,
-    "sourceUrl": "https://www.spigotmc.org/resources/webinfospigot.78005/history"
-  }
+  "downloadUrl": "resources/webinfospigot.78005/download?version=450006",
+  "numberOfDownloads": 49,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1650744180,
+  "sourceUrl": "https://www.spigotmc.org/resources/webinfospigot.78005/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "3.0.0-b1",
-  "version": {
-    "name": "3.0-b1",
-    "downloadUrl": "resources/auctionhouse.61836/download?version=403588",
-    "numberOfDownloads": 10,
-    "rating": 7,
-    "numberOfVotes": 10,
-    "releaseDate": 1623767400,
-    "sourceUrl": "https://www.spigotmc.org/resources/61836/history/"
-  }
+  "name": "3.0-b1",
+  "downloadUrl": "resources/auctionhouse.61836/download?version=403588",
+  "numberOfDownloads": 10,
+  "rating": 7,
+  "numberOfVotes": 10,
+  "releaseDate": 1623767400,
+  "sourceUrl": "https://www.spigotmc.org/resources/61836/history/"
 }

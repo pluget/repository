@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "v1.0",
-    "downloadUrl": "resources/minecraft-grians-last-life.99325/download?version=437306",
-    "numberOfDownloads": 37,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1642536960,
-    "sourceUrl": "https://www.spigotmc.org/resources/minecraft-grians-last-life.99325/history"
-  }
+  "name": "v1.0",
+  "downloadUrl": "resources/minecraft-grians-last-life.99325/download?version=437306",
+  "numberOfDownloads": 37,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1642536960,
+  "sourceUrl": "https://www.spigotmc.org/resources/minecraft-grians-last-life.99325/history"
 }

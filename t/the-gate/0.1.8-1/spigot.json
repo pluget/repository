@@ -1,12 +1,9 @@
 {
   "name": "0.1.8-1",
-  "version": {
-    "name": "0.1.8-1",
-    "downloadUrl": "resources/the-gate.70247/download?version=325766",
-    "numberOfDownloads": 284,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1587300240,
-    "sourceUrl": "https://www.spigotmc.org/resources/the-gate.70247/history"
-  }
+  "downloadUrl": "resources/the-gate.70247/download?version=325766",
+  "numberOfDownloads": 284,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1587300240,
+  "sourceUrl": "https://www.spigotmc.org/resources/the-gate.70247/history"
 }

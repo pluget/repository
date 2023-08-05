@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/wirez.100188/download?version=485173",
-    "numberOfDownloads": 27,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1675813500,
-    "sourceUrl": "https://www.spigotmc.org/resources/wirez.100188/history"
-  }
+  "downloadUrl": "resources/wirez.100188/download?version=485173",
+  "numberOfDownloads": 27,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1675813500,
+  "sourceUrl": "https://www.spigotmc.org/resources/wirez.100188/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.7.6",
-  "version": {
-    "name": "2.7.6",
-    "downloadUrl": "resources/anticheat-replay.97845/download?version=482401",
-    "numberOfDownloads": 3,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1673897220,
-    "sourceUrl": "https://www.spigotmc.org/resources/anticheat-replay.97845/history"
-  }
+  "downloadUrl": "resources/anticheat-replay.97845/download?version=482401",
+  "numberOfDownloads": 3,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1673897220,
+  "sourceUrl": "https://www.spigotmc.org/resources/anticheat-replay.97845/history"
 }

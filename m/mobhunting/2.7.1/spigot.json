@@ -1,12 +1,9 @@
 {
-  "name": "2.7.1",
-  "version": {
-    "name": "V2.7.1",
-    "downloadUrl": "resources/mobhunting.3582/download?version=74774",
-    "numberOfDownloads": 301,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1457771340,
-    "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
-  }
+  "name": "V2.7.1",
+  "downloadUrl": "resources/mobhunting.3582/download?version=74774",
+  "numberOfDownloads": 301,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1457771340,
+  "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
 }

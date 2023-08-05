@@ -1,12 +1,9 @@
 {
-  "name": "1.3.3-pre.1",
-  "version": {
-    "name": "1.3.3",
-    "downloadUrl": "resources/nexauth-simple-auth-system-for-offline-mode.88015/download?version=436016",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1641826680,
-    "sourceUrl": "https://www.spigotmc.org/resources/nexauth-simple-auth-system-for-offline-mode.88015/history"
-  }
+  "name": "1.3.3",
+  "downloadUrl": "resources/nexauth-simple-auth-system-for-offline-mode.88015/download?version=436016",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1641826680,
+  "sourceUrl": "https://www.spigotmc.org/resources/nexauth-simple-auth-system-for-offline-mode.88015/history"
 }

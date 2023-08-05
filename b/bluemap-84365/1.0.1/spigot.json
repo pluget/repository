@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/bluemap-essentials.84365/download?version=359984",
-    "numberOfDownloads": 245,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1601695920,
-    "sourceUrl": "https://www.spigotmc.org/resources/bluemap-essentials.84365/history"
-  }
+  "downloadUrl": "resources/bluemap-essentials.84365/download?version=359984",
+  "numberOfDownloads": 245,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1601695920,
+  "sourceUrl": "https://www.spigotmc.org/resources/bluemap-essentials.84365/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.2.0-a",
-  "version": {
-    "name": "1.2.0-a",
-    "downloadUrl": "resources/customcommands-new-1-19-tab-completion-in-game-configs-edition.14363/download?version=101882",
-    "numberOfDownloads": 500,
-    "rating": 6,
-    "numberOfVotes": 3,
-    "releaseDate": 1468095660,
-    "sourceUrl": "https://www.spigotmc.org/resources/customcommands-new-1-19-tab-completion-in-game-configs-edition.14363/history"
-  }
+  "downloadUrl": "resources/customcommands-new-1-19-tab-completion-in-game-configs-edition.14363/download?version=101882",
+  "numberOfDownloads": 500,
+  "rating": 6,
+  "numberOfVotes": 3,
+  "releaseDate": 1468095660,
+  "sourceUrl": "https://www.spigotmc.org/resources/customcommands-new-1-19-tab-completion-in-game-configs-edition.14363/history"
 }

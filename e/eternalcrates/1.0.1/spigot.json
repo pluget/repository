@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/eternalcrates-1-16.97992/download?version=429072",
-    "numberOfDownloads": 49,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1638326940,
-    "sourceUrl": "https://www.spigotmc.org/resources/eternalcrates-1-16.97992/history"
-  }
+  "downloadUrl": "resources/eternalcrates-1-16.97992/download?version=429072",
+  "numberOfDownloads": 49,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1638326940,
+  "sourceUrl": "https://www.spigotmc.org/resources/eternalcrates-1-16.97992/history"
 }

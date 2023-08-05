@@ -1,12 +1,9 @@
 {
   "name": "2.5.2",
-  "version": {
-    "name": "2.5.2",
-    "downloadUrl": "resources/userlogin.80669/download?version=356338",
-    "numberOfDownloads": 450,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1599828540,
-    "sourceUrl": "https://www.spigotmc.org/resources/userlogin.80669/history"
-  }
+  "downloadUrl": "resources/userlogin.80669/download?version=356338",
+  "numberOfDownloads": 450,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1599828540,
+  "sourceUrl": "https://www.spigotmc.org/resources/userlogin.80669/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "8.6.7",
-  "version": {
-    "name": "8.6.7",
-    "downloadUrl": "resources/libs-disguises-free.81/download?version=69816",
-    "numberOfDownloads": 25,
-    "rating": 10,
-    "numberOfVotes": 5,
-    "releaseDate": 1455950580,
-    "sourceUrl": "https://www.spigotmc.org/resources/81/history/"
-  }
+  "downloadUrl": "resources/libs-disguises-free.81/download?version=69816",
+  "numberOfDownloads": 25,
+  "rating": 10,
+  "numberOfVotes": 5,
+  "releaseDate": 1455950580,
+  "sourceUrl": "https://www.spigotmc.org/resources/81/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.18.1-b2",
-  "version": {
-    "name": "VSE 1.18.1 b2",
-    "downloadUrl": "resources/vivecraft-spigot-extensions.33166/download?version=433567",
-    "numberOfDownloads": 8,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1640570640,
-    "sourceUrl": "https://www.spigotmc.org/resources/33166/history/"
-  }
+  "name": "VSE 1.18.1 b2",
+  "downloadUrl": "resources/vivecraft-spigot-extensions.33166/download?version=433567",
+  "numberOfDownloads": 8,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1640570640,
+  "sourceUrl": "https://www.spigotmc.org/resources/33166/history/"
 }

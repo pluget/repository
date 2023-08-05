@@ -1,12 +1,9 @@
 {
   "name": "1.5.7",
-  "version": {
-    "name": "1.5.7",
-    "downloadUrl": "resources/pluget-automatic-plugin-updater.90161/download?version=401001",
-    "numberOfDownloads": 69,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1622390580,
-    "sourceUrl": "https://www.spigotmc.org/resources/pluget-automatic-plugin-updater.90161/history"
-  }
+  "downloadUrl": "resources/pluget-automatic-plugin-updater.90161/download?version=401001",
+  "numberOfDownloads": 69,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1622390580,
+  "sourceUrl": "https://www.spigotmc.org/resources/pluget-automatic-plugin-updater.90161/history"
 }

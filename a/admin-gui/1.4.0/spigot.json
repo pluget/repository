@@ -1,12 +1,9 @@
 {
   "name": "1.4.0",
-  "version": {
-    "name": "1.4.0",
-    "downloadUrl": "resources/admin-gui.71157/download?version=297791",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1570971960,
-    "sourceUrl": "https://www.spigotmc.org/resources/admin-gui.71157/history"
-  }
+  "downloadUrl": "resources/admin-gui.71157/download?version=297791",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1570971960,
+  "sourceUrl": "https://www.spigotmc.org/resources/admin-gui.71157/history"
 }

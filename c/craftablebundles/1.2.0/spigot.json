@@ -1,12 +1,9 @@
 {
-  "name": "1.2.0",
-  "version": {
-    "name": "1.2",
-    "downloadUrl": "resources/craftablebundles-1-17-1-19-2.105622/download?version=471617",
-    "numberOfDownloads": 147,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1665072600,
-    "sourceUrl": "https://www.spigotmc.org/resources/105622/history/"
-  }
+  "name": "1.2",
+  "downloadUrl": "resources/craftablebundles-1-17-1-19-2.105622/download?version=471617",
+  "numberOfDownloads": 147,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1665072600,
+  "sourceUrl": "https://www.spigotmc.org/resources/105622/history/"
 }

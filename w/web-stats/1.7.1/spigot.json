@@ -1,12 +1,9 @@
 {
   "name": "1.7.1",
-  "version": {
-    "name": "1.7.1",
-    "downloadUrl": "resources/web-stats.89649/download?version=449253",
-    "numberOfDownloads": 47,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1650211020,
-    "sourceUrl": "https://www.spigotmc.org/resources/web-stats.89649/history"
-  }
+  "downloadUrl": "resources/web-stats.89649/download?version=449253",
+  "numberOfDownloads": 47,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1650211020,
+  "sourceUrl": "https://www.spigotmc.org/resources/web-stats.89649/history"
 }

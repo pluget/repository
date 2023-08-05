@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/skjade.89127/download?version=384214",
-    "numberOfDownloads": 30,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1613640420,
-    "sourceUrl": "https://www.spigotmc.org/resources/skjade.89127/history"
-  }
+  "downloadUrl": "resources/skjade.89127/download?version=384214",
+  "numberOfDownloads": 30,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1613640420,
+  "sourceUrl": "https://www.spigotmc.org/resources/skjade.89127/history"
 }

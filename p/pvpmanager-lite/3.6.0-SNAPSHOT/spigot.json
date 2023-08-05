@@ -1,12 +1,9 @@
 {
-  "name": "3.6.0-SNAPSHOT",
-  "version": {
-    "name": "3.6-SNAPSHOT",
-    "downloadUrl": "resources/pvpmanager-lite.845/download?version=303959",
-    "numberOfDownloads": 379,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1575728100,
-    "sourceUrl": "https://www.spigotmc.org/resources/845/history/"
-  }
+  "name": "3.6-SNAPSHOT",
+  "downloadUrl": "resources/pvpmanager-lite.845/download?version=303959",
+  "numberOfDownloads": 379,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1575728100,
+  "sourceUrl": "https://www.spigotmc.org/resources/845/history/"
 }

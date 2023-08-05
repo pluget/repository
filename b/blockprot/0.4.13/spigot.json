@@ -1,12 +1,9 @@
 {
   "name": "0.4.13",
-  "version": {
-    "name": "0.4.13",
-    "downloadUrl": "resources/blockprot.87829/download?version=416640",
-    "numberOfDownloads": 260,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1629891420,
-    "sourceUrl": "https://www.spigotmc.org/resources/87829/history/"
-  }
+  "downloadUrl": "resources/blockprot.87829/download?version=416640",
+  "numberOfDownloads": 260,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1629891420,
+  "sourceUrl": "https://www.spigotmc.org/resources/87829/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.5.0",
-  "version": {
-    "name": "1.5.0",
-    "downloadUrl": "resources/interactivebooks.45604/download?version=339907",
-    "numberOfDownloads": 403,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1593209100,
-    "sourceUrl": "https://www.spigotmc.org/resources/interactivebooks.45604/history"
-  }
+  "downloadUrl": "resources/interactivebooks.45604/download?version=339907",
+  "numberOfDownloads": 403,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1593209100,
+  "sourceUrl": "https://www.spigotmc.org/resources/interactivebooks.45604/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "3.6.0",
-  "version": {
-    "name": "3.6.0",
-    "downloadUrl": "resources/lpc-chat-formatter-1-7-10-1-19.68965/download?version=460354",
-    "numberOfDownloads": 59,
-    "rating": 8.6153846153846,
-    "numberOfVotes": 13,
-    "releaseDate": 1657566360,
-    "sourceUrl": "https://www.spigotmc.org/resources/68965/history/"
-  }
+  "downloadUrl": "resources/lpc-chat-formatter-1-7-10-1-19.68965/download?version=460354",
+  "numberOfDownloads": 59,
+  "rating": 8.6153846153846,
+  "numberOfVotes": 13,
+  "releaseDate": 1657566360,
+  "sourceUrl": "https://www.spigotmc.org/resources/68965/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.2.7",
-  "version": {
-    "name": "1.2.7",
-    "downloadUrl": "resources/the-piggy-bank.74104/download?version=315298",
-    "numberOfDownloads": 376,
-    "rating": 6,
-    "numberOfVotes": 1,
-    "releaseDate": 1582383300,
-    "sourceUrl": "https://www.spigotmc.org/resources/the-piggy-bank.74104/history"
-  }
+  "downloadUrl": "resources/the-piggy-bank.74104/download?version=315298",
+  "numberOfDownloads": 376,
+  "rating": 6,
+  "numberOfVotes": 1,
+  "releaseDate": 1582383300,
+  "sourceUrl": "https://www.spigotmc.org/resources/the-piggy-bank.74104/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.9.8",
-  "version": {
-    "name": "1.9.8",
-    "downloadUrl": "resources/lootchest.61564/download?version=316480",
-    "numberOfDownloads": 161,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1583060940,
-    "sourceUrl": "https://www.spigotmc.org/resources/lootchest.61564/history"
-  }
+  "downloadUrl": "resources/lootchest.61564/download?version=316480",
+  "numberOfDownloads": 161,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1583060940,
+  "sourceUrl": "https://www.spigotmc.org/resources/lootchest.61564/history"
 }

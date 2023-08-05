@@ -1,12 +1,9 @@
 {
   "name": "4.4.2-BETA",
-  "version": {
-    "name": "4.4.2-BETA",
-    "downloadUrl": "resources/timedfly-4-beta-mysql-sqlite-support-1-14.48668/download?version=442336",
-    "numberOfDownloads": 593,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1645573980,
-    "sourceUrl": "https://www.spigotmc.org/resources/timedfly-4-beta-mysql-sqlite-support-1-14.48668/history"
-  }
+  "downloadUrl": "resources/timedfly-4-beta-mysql-sqlite-support-1-14.48668/download?version=442336",
+  "numberOfDownloads": 593,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1645573980,
+  "sourceUrl": "https://www.spigotmc.org/resources/timedfly-4-beta-mysql-sqlite-support-1-14.48668/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.4",
-  "version": {
-    "name": "1.0.4",
-    "downloadUrl": "resources/stopwatch.82008/download?version=374746",
-    "numberOfDownloads": 1,
-    "rating": 9.6,
-    "numberOfVotes": 5,
-    "releaseDate": 1609368720,
-    "sourceUrl": "https://www.spigotmc.org/resources/stopwatch.82008/history"
-  }
+  "downloadUrl": "resources/stopwatch.82008/download?version=374746",
+  "numberOfDownloads": 1,
+  "rating": 9.6,
+  "numberOfVotes": 5,
+  "releaseDate": 1609368720,
+  "sourceUrl": "https://www.spigotmc.org/resources/stopwatch.82008/history"
 }

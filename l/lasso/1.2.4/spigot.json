@@ -1,12 +1,9 @@
 {
   "name": "1.2.4",
-  "version": {
-    "name": "1.2.4",
-    "downloadUrl": "resources/lasso.54815/download?version=293580",
-    "numberOfDownloads": 160,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1568226180,
-    "sourceUrl": "https://www.spigotmc.org/resources/lasso.54815/history"
-  }
+  "downloadUrl": "resources/lasso.54815/download?version=293580",
+  "numberOfDownloads": 160,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1568226180,
+  "sourceUrl": "https://www.spigotmc.org/resources/lasso.54815/history"
 }

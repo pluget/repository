@@ -1,12 +1,9 @@
 {
   "name": "1.5.1",
-  "version": {
-    "name": "1.5.1",
-    "downloadUrl": "resources/skipnight.48334/download?version=389207",
-    "numberOfDownloads": 109,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1616074200,
-    "sourceUrl": "https://www.spigotmc.org/resources/48334/history/"
-  }
+  "downloadUrl": "resources/skipnight.48334/download?version=389207",
+  "numberOfDownloads": 109,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1616074200,
+  "sourceUrl": "https://www.spigotmc.org/resources/48334/history/"
 }

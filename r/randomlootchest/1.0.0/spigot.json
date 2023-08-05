@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/randomlootchest-custom-drops-cooldowns-mysql-sqlite-yaml.100851/download?version=445906",
-    "numberOfDownloads": 38,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1647791700,
-    "sourceUrl": "https://www.spigotmc.org/resources/randomlootchest-custom-drops-cooldowns-mysql-sqlite-yaml.100851/history"
-  }
+  "downloadUrl": "resources/randomlootchest-custom-drops-cooldowns-mysql-sqlite-yaml.100851/download?version=445906",
+  "numberOfDownloads": 38,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1647791700,
+  "sourceUrl": "https://www.spigotmc.org/resources/randomlootchest-custom-drops-cooldowns-mysql-sqlite-yaml.100851/history"
 }

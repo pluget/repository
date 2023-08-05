@@ -1,12 +1,9 @@
 {
   "name": "2.3.3",
-  "version": {
-    "name": "2.3.3",
-    "downloadUrl": "resources/acuteloot.81899/download?version=437372",
-    "numberOfDownloads": 51,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1642595820,
-    "sourceUrl": "https://www.spigotmc.org/resources/acuteloot.81899/history"
-  }
+  "downloadUrl": "resources/acuteloot.81899/download?version=437372",
+  "numberOfDownloads": 51,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1642595820,
+  "sourceUrl": "https://www.spigotmc.org/resources/acuteloot.81899/history"
 }

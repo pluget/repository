@@ -1,12 +1,9 @@
 {
   "name": "1.3.1",
-  "version": {
-    "name": "1.3.1",
-    "downloadUrl": "resources/api-glowapi.19422/download?version=74166",
-    "numberOfDownloads": 305,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1457533380,
-    "sourceUrl": "https://www.spigotmc.org/resources/api-glowapi.19422/history"
-  }
+  "downloadUrl": "resources/api-glowapi.19422/download?version=74166",
+  "numberOfDownloads": 305,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1457533380,
+  "sourceUrl": "https://www.spigotmc.org/resources/api-glowapi.19422/history"
 }

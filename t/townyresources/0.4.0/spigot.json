@@ -1,12 +1,9 @@
 {
   "name": "0.4.0",
-  "version": {
-    "name": "0.4.0",
-    "downloadUrl": "resources/townyresources.107468/download?version=484456",
-    "numberOfDownloads": 86,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1675287180,
-    "sourceUrl": "https://www.spigotmc.org/resources/107468/history/"
-  }
+  "downloadUrl": "resources/townyresources.107468/download?version=484456",
+  "numberOfDownloads": 86,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1675287180,
+  "sourceUrl": "https://www.spigotmc.org/resources/107468/history/"
 }

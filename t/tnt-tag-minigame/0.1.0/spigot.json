@@ -1,12 +1,9 @@
 {
   "name": "0.1.0",
-  "version": {
-    "name": "0.1.0",
-    "downloadUrl": "resources/tnt-tag-minigame.63326/download?version=335029",
-    "numberOfDownloads": 2,
-    "rating": 9,
-    "numberOfVotes": 6,
-    "releaseDate": 1591088700,
-    "sourceUrl": "https://www.spigotmc.org/resources/tnt-tag-minigame.63326/history"
-  }
+  "downloadUrl": "resources/tnt-tag-minigame.63326/download?version=335029",
+  "numberOfDownloads": 2,
+  "rating": 9,
+  "numberOfVotes": 6,
+  "releaseDate": 1591088700,
+  "sourceUrl": "https://www.spigotmc.org/resources/tnt-tag-minigame.63326/history"
 }

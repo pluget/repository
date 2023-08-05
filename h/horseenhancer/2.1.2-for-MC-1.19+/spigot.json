@@ -1,12 +1,9 @@
 {
-  "name": "2.1.2-for-MC-1.19+",
-  "version": {
-    "name": "v2.1.2 for MC 1.19+",
-    "downloadUrl": "resources/horseenhancer-2-0-mc-1-18.75692/download?version=482621",
-    "numberOfDownloads": 119,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1674065580,
-    "sourceUrl": "https://www.spigotmc.org/resources/horseenhancer-2-0-mc-1-18.75692/history"
-  }
+  "name": "v2.1.2 for MC 1.19+",
+  "downloadUrl": "resources/horseenhancer-2-0-mc-1-18.75692/download?version=482621",
+  "numberOfDownloads": 119,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1674065580,
+  "sourceUrl": "https://www.spigotmc.org/resources/horseenhancer-2-0-mc-1-18.75692/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.1.2",
-  "version": {
-    "name": "1.1.2",
-    "downloadUrl": "resources/getspawners.103578/download?version=461790",
-    "numberOfDownloads": 96,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1658460540,
-    "sourceUrl": "https://www.spigotmc.org/resources/getspawners.103578/history"
-  }
+  "downloadUrl": "resources/getspawners.103578/download?version=461790",
+  "numberOfDownloads": 96,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1658460540,
+  "sourceUrl": "https://www.spigotmc.org/resources/getspawners.103578/history"
 }

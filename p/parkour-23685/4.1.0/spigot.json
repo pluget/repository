@@ -1,12 +1,9 @@
 {
-  "name": "4.1.0",
-  "version": {
-    "name": "4.1",
-    "downloadUrl": "resources/parkour.23685/download?version=162299",
-    "numberOfDownloads": 1,
-    "rating": 9.6,
-    "numberOfVotes": 10,
-    "releaseDate": 1496079000,
-    "sourceUrl": "https://www.spigotmc.org/resources/parkour.23685/history"
-  }
+  "name": "4.1",
+  "downloadUrl": "resources/parkour.23685/download?version=162299",
+  "numberOfDownloads": 1,
+  "rating": 9.6,
+  "numberOfVotes": 10,
+  "releaseDate": 1496079000,
+  "sourceUrl": "https://www.spigotmc.org/resources/parkour.23685/history"
 }

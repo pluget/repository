@@ -1,12 +1,9 @@
 {
   "name": "2.10.10",
-  "version": {
-    "name": "2.10.10",
-    "downloadUrl": "resources/ajparkour-rewards-1-7-10-1-19-x-mysql-storage-option.60909/download?version=373364",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 7,
-    "releaseDate": 1608661980,
-    "sourceUrl": "https://www.spigotmc.org/resources/60909/history/"
-  }
+  "downloadUrl": "resources/ajparkour-rewards-1-7-10-1-19-x-mysql-storage-option.60909/download?version=373364",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 7,
+  "releaseDate": 1608661980,
+  "sourceUrl": "https://www.spigotmc.org/resources/60909/history/"
 }

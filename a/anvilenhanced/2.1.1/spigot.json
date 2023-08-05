@@ -1,12 +1,9 @@
 {
   "name": "2.1.1",
-  "version": {
-    "name": "2.1.1",
-    "downloadUrl": "resources/anvilenhanced-1-16-1-19.83601/download?version=450375",
-    "numberOfDownloads": 235,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1651014420,
-    "sourceUrl": "https://www.spigotmc.org/resources/anvilenhanced-1-16-1-19.83601/history"
-  }
+  "downloadUrl": "resources/anvilenhanced-1-16-1-19.83601/download?version=450375",
+  "numberOfDownloads": 235,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1651014420,
+  "sourceUrl": "https://www.spigotmc.org/resources/anvilenhanced-1-16-1-19.83601/history"
 }

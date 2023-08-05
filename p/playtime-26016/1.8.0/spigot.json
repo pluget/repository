@@ -1,12 +1,9 @@
 {
-  "name": "1.8.0",
-  "version": {
-    "name": "1.8",
-    "downloadUrl": "resources/playtime.26016/download?version=178118",
-    "numberOfDownloads": 3,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 15,
-    "releaseDate": 1502552760,
-    "sourceUrl": "https://www.spigotmc.org/resources/26016/history/"
-  }
+  "name": "1.8",
+  "downloadUrl": "resources/playtime.26016/download?version=178118",
+  "numberOfDownloads": 3,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 15,
+  "releaseDate": 1502552760,
+  "sourceUrl": "https://www.spigotmc.org/resources/26016/history/"
 }

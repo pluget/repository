@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-DEV1",
-  "version": {
-    "name": "1.0-DEV1",
-    "downloadUrl": "resources/telepost.91988/download?version=453216",
-    "numberOfDownloads": 9,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1653268980,
-    "sourceUrl": "https://www.spigotmc.org/resources/telepost.91988/history"
-  }
+  "name": "1.0-DEV1",
+  "downloadUrl": "resources/telepost.91988/download?version=453216",
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1653268980,
+  "sourceUrl": "https://www.spigotmc.org/resources/telepost.91988/history"
 }

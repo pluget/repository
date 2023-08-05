@@ -1,12 +1,9 @@
 {
-  "name": "2.2.0",
-  "version": {
-    "name": "2.2",
-    "downloadUrl": "resources/disease.3911/download?version=99480",
-    "numberOfDownloads": 225,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1467042960,
-    "sourceUrl": "https://www.spigotmc.org/resources/disease.3911/history"
-  }
+  "name": "2.2",
+  "downloadUrl": "resources/disease.3911/download?version=99480",
+  "numberOfDownloads": 225,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1467042960,
+  "sourceUrl": "https://www.spigotmc.org/resources/disease.3911/history"
 }

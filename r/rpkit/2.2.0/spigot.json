@@ -1,12 +1,9 @@
 {
   "name": "2.2.0",
-  "version": {
-    "name": "2.2.0",
-    "downloadUrl": "resources/rpkit.70739/download?version=449613",
-    "numberOfDownloads": 35,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1650460680,
-    "sourceUrl": "https://www.spigotmc.org/resources/rpkit.70739/history"
-  }
+  "downloadUrl": "resources/rpkit.70739/download?version=449613",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1650460680,
+  "sourceUrl": "https://www.spigotmc.org/resources/rpkit.70739/history"
 }

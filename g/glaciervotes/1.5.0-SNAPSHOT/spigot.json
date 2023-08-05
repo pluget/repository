@@ -1,12 +1,9 @@
 {
-  "name": "1.5.0-SNAPSHOT",
-  "version": {
-    "name": "V1.5-SNAPSHOT",
-    "downloadUrl": "resources/glaciervotes.94245/download?version=409068",
-    "numberOfDownloads": 85,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1626229860,
-    "sourceUrl": "https://www.spigotmc.org/resources/94245/history/"
-  }
+  "name": "V1.5-SNAPSHOT",
+  "downloadUrl": "resources/glaciervotes.94245/download?version=409068",
+  "numberOfDownloads": 85,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1626229860,
+  "sourceUrl": "https://www.spigotmc.org/resources/94245/history/"
 }

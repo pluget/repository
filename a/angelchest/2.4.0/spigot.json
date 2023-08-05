@@ -1,12 +1,9 @@
 {
   "name": "2.4.0",
-  "version": {
-    "name": "2.4.0",
-    "downloadUrl": "resources/angelchest-free.60383/download?version=340358",
-    "numberOfDownloads": 667,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1593355380,
-    "sourceUrl": "https://www.spigotmc.org/resources/angelchest-free.60383/history"
-  }
+  "downloadUrl": "resources/angelchest-free.60383/download?version=340358",
+  "numberOfDownloads": 667,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1593355380,
+  "sourceUrl": "https://www.spigotmc.org/resources/angelchest-free.60383/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "0.1.0",
-  "version": {
-    "name": "v0.1",
-    "downloadUrl": "resources/nomorecreepers.97946/download?version=428522",
-    "numberOfDownloads": 19,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1638043440,
-    "sourceUrl": "https://www.spigotmc.org/resources/97946/history/"
-  }
+  "name": "v0.1",
+  "downloadUrl": "resources/nomorecreepers.97946/download?version=428522",
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1638043440,
+  "sourceUrl": "https://www.spigotmc.org/resources/97946/history/"
 }

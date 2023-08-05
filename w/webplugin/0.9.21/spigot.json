@@ -1,12 +1,9 @@
 {
   "name": "0.9.21",
-  "version": {
-    "name": "0.9.21",
-    "downloadUrl": "resources/webplugin-official-php-support-1-13-1-19.85640/download?version=377564",
-    "numberOfDownloads": 92,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1610715780,
-    "sourceUrl": "https://www.spigotmc.org/resources/webplugin-official-php-support-1-13-1-19.85640/history"
-  }
+  "downloadUrl": "resources/webplugin-official-php-support-1-13-1-19.85640/download?version=377564",
+  "numberOfDownloads": 92,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1610715780,
+  "sourceUrl": "https://www.spigotmc.org/resources/webplugin-official-php-support-1-13-1-19.85640/history"
 }

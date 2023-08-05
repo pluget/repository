@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-SNAPSHOT",
-  "version": {
-    "name": "1.0-SNAPSHOT",
-    "downloadUrl": "resources/rainbowtext.99194/download?version=436540",
-    "numberOfDownloads": 45,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1642162380,
-    "sourceUrl": "https://www.spigotmc.org/resources/99194/history/"
-  }
+  "name": "1.0-SNAPSHOT",
+  "downloadUrl": "resources/rainbowtext.99194/download?version=436540",
+  "numberOfDownloads": 45,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1642162380,
+  "sourceUrl": "https://www.spigotmc.org/resources/99194/history/"
 }

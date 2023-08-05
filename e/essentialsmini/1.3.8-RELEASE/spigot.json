@@ -1,12 +1,9 @@
 {
   "name": "1.3.8-RELEASE",
-  "version": {
-    "name": "1.3.8-RELEASE",
-    "downloadUrl": "resources/essentialsmini.82775/download?version=480029",
-    "numberOfDownloads": 145,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672226820,
-    "sourceUrl": "https://www.spigotmc.org/resources/essentialsmini.82775/history"
-  }
+  "downloadUrl": "resources/essentialsmini.82775/download?version=480029",
+  "numberOfDownloads": 145,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672226820,
+  "sourceUrl": "https://www.spigotmc.org/resources/essentialsmini.82775/history"
 }

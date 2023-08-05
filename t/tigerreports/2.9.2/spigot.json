@@ -1,12 +1,9 @@
 {
   "name": "2.9.2",
-  "version": {
-    "name": "2.9.2",
-    "downloadUrl": "resources/tigerreports.25773/download?version=138615",
-    "numberOfDownloads": 177,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1485357480,
-    "sourceUrl": "https://www.spigotmc.org/resources/tigerreports.25773/history"
-  }
+  "downloadUrl": "resources/tigerreports.25773/download?version=138615",
+  "numberOfDownloads": 177,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1485357480,
+  "sourceUrl": "https://www.spigotmc.org/resources/tigerreports.25773/history"
 }

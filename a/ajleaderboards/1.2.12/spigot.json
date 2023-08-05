@@ -1,12 +1,9 @@
 {
   "name": "1.2.12",
-  "version": {
-    "name": "1.2.12",
-    "downloadUrl": "resources/ajleaderboards.85548/download?version=403435",
-    "numberOfDownloads": 4,
-    "rating": 10,
-    "numberOfVotes": 14,
-    "releaseDate": 1623685680,
-    "sourceUrl": "https://www.spigotmc.org/resources/ajleaderboards.85548/history"
-  }
+  "downloadUrl": "resources/ajleaderboards.85548/download?version=403435",
+  "numberOfDownloads": 4,
+  "rating": 10,
+  "numberOfVotes": 14,
+  "releaseDate": 1623685680,
+  "sourceUrl": "https://www.spigotmc.org/resources/ajleaderboards.85548/history"
 }

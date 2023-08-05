@@ -1,12 +1,9 @@
 {
   "name": "1.1.0-SNAPSHOT",
-  "version": {
-    "name": "1.1.0-SNAPSHOT",
-    "downloadUrl": "resources/yamipa.88709/download?version=404385",
-    "numberOfDownloads": 78,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1624114020,
-    "sourceUrl": "https://www.spigotmc.org/resources/yamipa.88709/history"
-  }
+  "downloadUrl": "resources/yamipa.88709/download?version=404385",
+  "numberOfDownloads": 78,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1624114020,
+  "sourceUrl": "https://www.spigotmc.org/resources/yamipa.88709/history"
 }

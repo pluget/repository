@@ -1,12 +1,9 @@
 {
   "name": "1.1.4-SNAPSHOT",
-  "version": {
-    "name": "1.1.4-SNAPSHOT",
-    "downloadUrl": "resources/chunkentitylimiter-1-13-limit-entities-and-dropped-items-per-chunk.108040/download?version=486430",
-    "numberOfDownloads": 62,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1676766960,
-    "sourceUrl": "https://www.spigotmc.org/resources/chunkentitylimiter-1-13-limit-entities-and-dropped-items-per-chunk.108040/history"
-  }
+  "downloadUrl": "resources/chunkentitylimiter-1-13-limit-entities-and-dropped-items-per-chunk.108040/download?version=486430",
+  "numberOfDownloads": 62,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1676766960,
+  "sourceUrl": "https://www.spigotmc.org/resources/chunkentitylimiter-1-13-limit-entities-and-dropped-items-per-chunk.108040/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.15.0-v6",
-  "version": {
-    "name": "Minecraft 1.15 v6",
-    "downloadUrl": "resources/knokko-core.88178/download?version=379117",
-    "numberOfDownloads": 28,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1611387660,
-    "sourceUrl": "https://www.spigotmc.org/resources/88178/history/"
-  }
+  "name": "Minecraft 1.15 v6",
+  "downloadUrl": "resources/knokko-core.88178/download?version=379117",
+  "numberOfDownloads": 28,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1611387660,
+  "sourceUrl": "https://www.spigotmc.org/resources/88178/history/"
 }

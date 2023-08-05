@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0-beta0",
-  "version": {
-    "name": "2.0.0beta0",
-    "downloadUrl": "resources/buildportals.21922/download?version=452414",
-    "numberOfDownloads": 32,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1652654220,
-    "sourceUrl": "https://www.spigotmc.org/resources/21922/history/"
-  }
+  "name": "2.0.0beta0",
+  "downloadUrl": "resources/buildportals.21922/download?version=452414",
+  "numberOfDownloads": 32,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1652654220,
+  "sourceUrl": "https://www.spigotmc.org/resources/21922/history/"
 }

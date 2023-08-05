@@ -1,12 +1,9 @@
 {
   "name": "1.6.8",
-  "version": {
-    "name": "1.6.8",
-    "downloadUrl": "resources/evenmorefish-%E2%96%AA-extensive-fishing-plugin-%E2%96%AA.91310/download?version=480523",
-    "numberOfDownloads": 914,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1672563480,
-    "sourceUrl": "https://www.spigotmc.org/resources/evenmorefish-%E2%96%AA-extensive-fishing-plugin-%E2%96%AA.91310/history"
-  }
+  "downloadUrl": "resources/evenmorefish-%E2%96%AA-extensive-fishing-plugin-%E2%96%AA.91310/download?version=480523",
+  "numberOfDownloads": 914,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1672563480,
+  "sourceUrl": "https://www.spigotmc.org/resources/evenmorefish-%E2%96%AA-extensive-fishing-plugin-%E2%96%AA.91310/history"
 }

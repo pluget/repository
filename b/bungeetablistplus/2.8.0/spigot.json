@@ -1,12 +1,9 @@
 {
   "name": "2.8.0",
-  "version": {
-    "name": "2.8.0",
-    "downloadUrl": "resources/bungeetablistplus.313/download?version=170496",
-    "numberOfDownloads": 2,
-    "rating": 9.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1499518080,
-    "sourceUrl": "https://www.spigotmc.org/resources/bungeetablistplus.313/history"
-  }
+  "downloadUrl": "resources/bungeetablistplus.313/download?version=170496",
+  "numberOfDownloads": 2,
+  "rating": 9.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1499518080,
+  "sourceUrl": "https://www.spigotmc.org/resources/bungeetablistplus.313/history"
 }

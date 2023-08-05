@@ -1,12 +1,9 @@
 {
   "name": "2.0.2",
-  "version": {
-    "name": "2.0.2",
-    "downloadUrl": "resources/house-pets.80418/download?version=370100",
-    "numberOfDownloads": 62,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1606919640,
-    "sourceUrl": "https://www.spigotmc.org/resources/house-pets.80418/history"
-  }
+  "downloadUrl": "resources/house-pets.80418/download?version=370100",
+  "numberOfDownloads": 62,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1606919640,
+  "sourceUrl": "https://www.spigotmc.org/resources/house-pets.80418/history"
 }

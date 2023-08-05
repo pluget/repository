@@ -1,12 +1,9 @@
 {
-  "name": "4.9.0",
-  "version": {
-    "name": "4.9",
-    "downloadUrl": "resources/magic.1056/download?version=20551",
-    "numberOfDownloads": 259,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1428724140,
-    "sourceUrl": "https://www.spigotmc.org/resources/magic.1056/history"
-  }
+  "name": "4.9",
+  "downloadUrl": "resources/magic.1056/download?version=20551",
+  "numberOfDownloads": 259,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1428724140,
+  "sourceUrl": "https://www.spigotmc.org/resources/magic.1056/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "4.3.0",
-  "version": {
-    "name": "beta-4.3",
-    "downloadUrl": "resources/smallpets.81184/download?version=350886",
-    "numberOfDownloads": 114,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1597425120,
-    "sourceUrl": "https://www.spigotmc.org/resources/smallpets.81184/history"
-  }
+  "name": "beta-4.3",
+  "downloadUrl": "resources/smallpets.81184/download?version=350886",
+  "numberOfDownloads": 114,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1597425120,
+  "sourceUrl": "https://www.spigotmc.org/resources/smallpets.81184/history"
 }

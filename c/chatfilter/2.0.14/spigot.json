@@ -1,12 +1,9 @@
 {
   "name": "2.0.14",
-  "version": {
-    "name": "2.0.14",
-    "downloadUrl": "resources/chatfilter-chat-signs-books-and-anvils.81652/download?version=484376",
-    "numberOfDownloads": 618,
-    "rating": 7,
-    "numberOfVotes": 4,
-    "releaseDate": 1675240800,
-    "sourceUrl": "https://www.spigotmc.org/resources/81652/history/"
-  }
+  "downloadUrl": "resources/chatfilter-chat-signs-books-and-anvils.81652/download?version=484376",
+  "numberOfDownloads": 618,
+  "rating": 7,
+  "numberOfVotes": 4,
+  "releaseDate": 1675240800,
+  "sourceUrl": "https://www.spigotmc.org/resources/81652/history/"
 }

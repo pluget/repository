@@ -1,12 +1,9 @@
 {
   "name": "2.4.0",
-  "version": {
-    "name": "2.4.0",
-    "downloadUrl": "resources/playertitle-free-version.78048/download?version=369203",
-    "numberOfDownloads": 142,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1606442040,
-    "sourceUrl": "https://www.spigotmc.org/resources/playertitle-free-version.78048/history"
-  }
+  "downloadUrl": "resources/playertitle-free-version.78048/download?version=369203",
+  "numberOfDownloads": 142,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1606442040,
+  "sourceUrl": "https://www.spigotmc.org/resources/playertitle-free-version.78048/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-SNAPSHOT",
-  "version": {
-    "name": "1.0-SNAPSHOT",
-    "downloadUrl": "resources/abchat.106316/download?version=475725",
-    "numberOfDownloads": 4,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1668789900,
-    "sourceUrl": "https://www.spigotmc.org/resources/abchat.106316/history"
-  }
+  "name": "1.0-SNAPSHOT",
+  "downloadUrl": "resources/abchat.106316/download?version=475725",
+  "numberOfDownloads": 4,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1668789900,
+  "sourceUrl": "https://www.spigotmc.org/resources/abchat.106316/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.13.0-_2.13.45.2",
-  "version": {
-    "name": "1.13_2.13.45.2",
-    "downloadUrl": "resources/singleplayersleep.68139/download?version=364368",
-    "numberOfDownloads": 11,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1604102940,
-    "sourceUrl": "https://www.spigotmc.org/resources/singleplayersleep.68139/history"
-  }
+  "name": "1.13_2.13.45.2",
+  "downloadUrl": "resources/singleplayersleep.68139/download?version=364368",
+  "numberOfDownloads": 11,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1604102940,
+  "sourceUrl": "https://www.spigotmc.org/resources/singleplayersleep.68139/history"
 }

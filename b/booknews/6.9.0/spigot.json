@@ -1,12 +1,9 @@
 {
-  "name": "6.9.0",
-  "version": {
-    "name": "6.9",
-    "downloadUrl": "resources/booknews-1-8-1-19-4.61163/download?version=489193",
-    "numberOfDownloads": 203,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1678853460,
-    "sourceUrl": "https://www.spigotmc.org/resources/booknews-1-8-1-19-4.61163/history"
-  }
+  "name": "6.9",
+  "downloadUrl": "resources/booknews-1-8-1-19-4.61163/download?version=489193",
+  "numberOfDownloads": 203,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1678853460,
+  "sourceUrl": "https://www.spigotmc.org/resources/booknews-1-8-1-19-4.61163/history"
 }

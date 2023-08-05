@@ -1,12 +1,9 @@
 {
-  "name": "1.11.38",
-  "version": {
-    "name": "v1.11.38",
-    "downloadUrl": "resources/pvp-stats.59124/download?version=454538",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1654331820,
-    "sourceUrl": "https://www.spigotmc.org/resources/pvp-stats.59124/history"
-  }
+  "name": "v1.11.38",
+  "downloadUrl": "resources/pvp-stats.59124/download?version=454538",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1654331820,
+  "sourceUrl": "https://www.spigotmc.org/resources/pvp-stats.59124/history"
 }

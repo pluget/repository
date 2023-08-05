@@ -1,12 +1,9 @@
 {
   "name": "1.1.2",
-  "version": {
-    "name": "1.1.2",
-    "downloadUrl": "resources/nerfphantoms.59218/download?version=276716",
-    "numberOfDownloads": 2,
-    "rating": 9,
-    "numberOfVotes": 4,
-    "releaseDate": 1559494740,
-    "sourceUrl": "https://www.spigotmc.org/resources/nerfphantoms.59218/history"
-  }
+  "downloadUrl": "resources/nerfphantoms.59218/download?version=276716",
+  "numberOfDownloads": 2,
+  "rating": 9,
+  "numberOfVotes": 4,
+  "releaseDate": 1559494740,
+  "sourceUrl": "https://www.spigotmc.org/resources/nerfphantoms.59218/history"
 }

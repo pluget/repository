@@ -1,12 +1,9 @@
 {
   "name": "3.0.5",
-  "version": {
-    "name": "3.0.5",
-    "downloadUrl": "resources/skoice-proximity-voice-chat.82861/download?version=465829",
-    "numberOfDownloads": 220,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660639440,
-    "sourceUrl": "https://www.spigotmc.org/resources/82861/history/"
-  }
+  "downloadUrl": "resources/skoice-proximity-voice-chat.82861/download?version=465829",
+  "numberOfDownloads": 220,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660639440,
+  "sourceUrl": "https://www.spigotmc.org/resources/82861/history/"
 }

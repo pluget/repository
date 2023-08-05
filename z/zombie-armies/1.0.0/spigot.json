@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/zombie-armies.105928/download?version=473408",
-    "numberOfDownloads": 48,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1666742580,
-    "sourceUrl": "https://www.spigotmc.org/resources/zombie-armies.105928/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/zombie-armies.105928/download?version=473408",
+  "numberOfDownloads": 48,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1666742580,
+  "sourceUrl": "https://www.spigotmc.org/resources/zombie-armies.105928/history"
 }

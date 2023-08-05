@@ -1,12 +1,9 @@
 {
-  "name": "5.6.7",
-  "version": {
-    "name": "v5.6.7",
-    "downloadUrl": "resources/mycommand.22272/download?version=361039",
-    "numberOfDownloads": 9,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1602273780,
-    "sourceUrl": "https://www.spigotmc.org/resources/mycommand.22272/history"
-  }
+  "name": "v5.6.7",
+  "downloadUrl": "resources/mycommand.22272/download?version=361039",
+  "numberOfDownloads": 9,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1602273780,
+  "sourceUrl": "https://www.spigotmc.org/resources/mycommand.22272/history"
 }

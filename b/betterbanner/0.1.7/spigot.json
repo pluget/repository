@@ -1,12 +1,9 @@
 {
   "name": "0.1.7",
-  "version": {
-    "name": "0.1.7",
-    "downloadUrl": "resources/betterbanner-1-13-1-13-2.63993/download?version=256735",
-    "numberOfDownloads": 79,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1547366100,
-    "sourceUrl": "https://www.spigotmc.org/resources/betterbanner-1-13-1-13-2.63993/history"
-  }
+  "downloadUrl": "resources/betterbanner-1-13-1-13-2.63993/download?version=256735",
+  "numberOfDownloads": 79,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1547366100,
+  "sourceUrl": "https://www.spigotmc.org/resources/betterbanner-1-13-1-13-2.63993/history"
 }

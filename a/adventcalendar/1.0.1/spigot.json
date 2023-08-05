@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/adventcalendar.106813/download?version=478767",
-    "numberOfDownloads": 24,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1671363960,
-    "sourceUrl": "https://www.spigotmc.org/resources/adventcalendar.106813/history"
-  }
+  "downloadUrl": "resources/adventcalendar.106813/download?version=478767",
+  "numberOfDownloads": 24,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1671363960,
+  "sourceUrl": "https://www.spigotmc.org/resources/adventcalendar.106813/history"
 }

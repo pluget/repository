@@ -1,12 +1,9 @@
 {
   "name": "2.1.1",
-  "version": {
-    "name": "2.1.1",
-    "downloadUrl": "resources/survivaltop.96737/download?version=474842",
-    "numberOfDownloads": 23,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1667981040,
-    "sourceUrl": "https://www.spigotmc.org/resources/survivaltop.96737/history"
-  }
+  "downloadUrl": "resources/survivaltop.96737/download?version=474842",
+  "numberOfDownloads": 23,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1667981040,
+  "sourceUrl": "https://www.spigotmc.org/resources/survivaltop.96737/history"
 }

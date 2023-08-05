@@ -1,12 +1,9 @@
 {
   "name": "2.2.0",
-  "version": {
-    "name": "2.2.0",
-    "downloadUrl": "resources/topper.101325/download?version=489048",
-    "numberOfDownloads": 22,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1678781160,
-    "sourceUrl": "https://www.spigotmc.org/resources/topper.101325/history"
-  }
+  "downloadUrl": "resources/topper.101325/download?version=489048",
+  "numberOfDownloads": 22,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1678781160,
+  "sourceUrl": "https://www.spigotmc.org/resources/topper.101325/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "2.9.0",
-  "version": {
-    "name": "v2.9",
-    "downloadUrl": "resources/groupmanager.38875/download?version=461387",
-    "numberOfDownloads": 7,
-    "rating": 9,
-    "numberOfVotes": 4,
-    "releaseDate": 1658220960,
-    "sourceUrl": "https://www.spigotmc.org/resources/groupmanager.38875/history"
-  }
+  "name": "v2.9",
+  "downloadUrl": "resources/groupmanager.38875/download?version=461387",
+  "numberOfDownloads": 7,
+  "rating": 9,
+  "numberOfVotes": 4,
+  "releaseDate": 1658220960,
+  "sourceUrl": "https://www.spigotmc.org/resources/groupmanager.38875/history"
 }

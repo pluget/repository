@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/simpletools.108067/download?version=487661",
-    "numberOfDownloads": 12,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1677718020,
-    "sourceUrl": "https://www.spigotmc.org/resources/simpletools.108067/history"
-  }
+  "downloadUrl": "resources/simpletools.108067/download?version=487661",
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1677718020,
+  "sourceUrl": "https://www.spigotmc.org/resources/simpletools.108067/history"
 }

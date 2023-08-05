@@ -1,12 +1,9 @@
 {
   "name": "1.0.8",
-  "version": {
-    "name": "1.0.8",
-    "downloadUrl": "resources/ajqueue.78266/download?version=329536",
-    "numberOfDownloads": 67,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1588720380,
-    "sourceUrl": "https://www.spigotmc.org/resources/ajqueue.78266/history"
-  }
+  "downloadUrl": "resources/ajqueue.78266/download?version=329536",
+  "numberOfDownloads": 67,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1588720380,
+  "sourceUrl": "https://www.spigotmc.org/resources/ajqueue.78266/history"
 }

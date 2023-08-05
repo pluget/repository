@@ -1,12 +1,9 @@
 {
-  "name": "1.8.1",
-  "version": {
-    "name": "v1.8.1",
-    "downloadUrl": "resources/lib1711.35982/download?version=347882",
-    "numberOfDownloads": 36,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1596207240,
-    "sourceUrl": "https://www.spigotmc.org/resources/lib1711.35982/history"
-  }
+  "name": "v1.8.1",
+  "downloadUrl": "resources/lib1711.35982/download?version=347882",
+  "numberOfDownloads": 36,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1596207240,
+  "sourceUrl": "https://www.spigotmc.org/resources/lib1711.35982/history"
 }

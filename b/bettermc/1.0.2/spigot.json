@@ -1,12 +1,9 @@
 {
   "name": "1.0.2",
-  "version": {
-    "name": "1.0.2",
-    "downloadUrl": "resources/bettermc.101005/download?version=446720",
-    "numberOfDownloads": 24,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1648385040,
-    "sourceUrl": "https://www.spigotmc.org/resources/bettermc.101005/history"
-  }
+  "downloadUrl": "resources/bettermc.101005/download?version=446720",
+  "numberOfDownloads": 24,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1648385040,
+  "sourceUrl": "https://www.spigotmc.org/resources/bettermc.101005/history"
 }

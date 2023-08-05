@@ -1,12 +1,9 @@
 {
   "name": "1.0.8",
-  "version": {
-    "name": "1.0.8",
-    "downloadUrl": "resources/leaderos-net-webshop-plugin.105496/download?version=472933",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1666240440,
-    "sourceUrl": "https://www.spigotmc.org/resources/105496/history/"
-  }
+  "downloadUrl": "resources/leaderos-net-webshop-plugin.105496/download?version=472933",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1666240440,
+  "sourceUrl": "https://www.spigotmc.org/resources/105496/history/"
 }

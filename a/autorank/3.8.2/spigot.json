@@ -1,12 +1,9 @@
 {
-  "name": "3.8.2",
-  "version": {
-    "name": "v3.8.2",
-    "downloadUrl": "resources/autorank.3239/download?version=104731",
-    "numberOfDownloads": 463,
-    "rating": 9.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1469372640,
-    "sourceUrl": "https://www.spigotmc.org/resources/autorank.3239/history"
-  }
+  "name": "v3.8.2",
+  "downloadUrl": "resources/autorank.3239/download?version=104731",
+  "numberOfDownloads": 463,
+  "rating": 9.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1469372640,
+  "sourceUrl": "https://www.spigotmc.org/resources/autorank.3239/history"
 }

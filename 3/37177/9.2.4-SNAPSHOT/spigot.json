@@ -1,12 +1,9 @@
 {
   "name": "9.2.4-SNAPSHOT",
-  "version": {
-    "name": "9.2.4-SNAPSHOT",
-    "downloadUrl": "resources/%E2%9E%A5-pixel-motd-1-8-1-19.37177/download?version=444756",
-    "numberOfDownloads": 3,
-    "rating": 8.5714285714286,
-    "numberOfVotes": 7,
-    "releaseDate": 1647033420,
-    "sourceUrl": "https://www.spigotmc.org/resources/%E2%9E%A5-pixel-motd-1-8-1-19.37177/history"
-  }
+  "downloadUrl": "resources/%E2%9E%A5-pixel-motd-1-8-1-19.37177/download?version=444756",
+  "numberOfDownloads": 3,
+  "rating": 8.5714285714286,
+  "numberOfVotes": 7,
+  "releaseDate": 1647033420,
+  "sourceUrl": "https://www.spigotmc.org/resources/%E2%9E%A5-pixel-motd-1-8-1-19.37177/history"
 }

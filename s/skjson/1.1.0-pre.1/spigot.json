@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0-pre.1",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/skjson.106019/download?version=473994",
-    "numberOfDownloads": 35,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1667252580,
-    "sourceUrl": "https://www.spigotmc.org/resources/106019/history/"
-  }
+  "name": "1.1.0",
+  "downloadUrl": "resources/skjson.106019/download?version=473994",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1667252580,
+  "sourceUrl": "https://www.spigotmc.org/resources/106019/history/"
 }

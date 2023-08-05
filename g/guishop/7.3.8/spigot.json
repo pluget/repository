@@ -1,12 +1,9 @@
 {
   "name": "7.3.8",
-  "version": {
-    "name": "7.3.8",
-    "downloadUrl": "resources/guishop.2451/download?version=317660",
-    "numberOfDownloads": 12,
-    "rating": 6.5882352941176,
-    "numberOfVotes": 17,
-    "releaseDate": 1583777640,
-    "sourceUrl": "https://www.spigotmc.org/resources/guishop.2451/history"
-  }
+  "downloadUrl": "resources/guishop.2451/download?version=317660",
+  "numberOfDownloads": 12,
+  "rating": 6.5882352941176,
+  "numberOfVotes": 17,
+  "releaseDate": 1583777640,
+  "sourceUrl": "https://www.spigotmc.org/resources/guishop.2451/history"
 }

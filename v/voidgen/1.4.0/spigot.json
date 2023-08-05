@@ -1,12 +1,9 @@
 {
   "name": "1.4.0",
-  "version": {
-    "name": "1.4.0",
-    "downloadUrl": "resources/voidgen.25391/download?version=245191",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1540140840,
-    "sourceUrl": "https://www.spigotmc.org/resources/voidgen.25391/history"
-  }
+  "downloadUrl": "resources/voidgen.25391/download?version=245191",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1540140840,
+  "sourceUrl": "https://www.spigotmc.org/resources/voidgen.25391/history"
 }

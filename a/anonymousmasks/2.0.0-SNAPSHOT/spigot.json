@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0-SNAPSHOT",
-  "version": {
-    "name": "2.0-SNAPSHOT",
-    "downloadUrl": "resources/anonymousmasks.89836/download?version=396034",
-    "numberOfDownloads": 34,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1619448480,
-    "sourceUrl": "https://www.spigotmc.org/resources/89836/history/"
-  }
+  "name": "2.0-SNAPSHOT",
+  "downloadUrl": "resources/anonymousmasks.89836/download?version=396034",
+  "numberOfDownloads": 34,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1619448480,
+  "sourceUrl": "https://www.spigotmc.org/resources/89836/history/"
 }

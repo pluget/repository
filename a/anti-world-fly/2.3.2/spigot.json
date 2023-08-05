@@ -1,12 +1,9 @@
 {
   "name": "2.3.2",
-  "version": {
-    "name": "2.3.2",
-    "downloadUrl": "resources/anti-world-fly.5357/download?version=179716",
-    "numberOfDownloads": 6,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1503141780,
-    "sourceUrl": "https://www.spigotmc.org/resources/anti-world-fly.5357/history"
-  }
+  "downloadUrl": "resources/anti-world-fly.5357/download?version=179716",
+  "numberOfDownloads": 6,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1503141780,
+  "sourceUrl": "https://www.spigotmc.org/resources/anti-world-fly.5357/history"
 }

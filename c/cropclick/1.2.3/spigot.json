@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/cropclick.69480/download?version=312688",
-    "numberOfDownloads": 90,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1580742480,
-    "sourceUrl": "https://www.spigotmc.org/resources/cropclick.69480/history"
-  }
+  "downloadUrl": "resources/cropclick.69480/download?version=312688",
+  "numberOfDownloads": 90,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1580742480,
+  "sourceUrl": "https://www.spigotmc.org/resources/cropclick.69480/history"
 }

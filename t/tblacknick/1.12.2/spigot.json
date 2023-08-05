@@ -1,12 +1,9 @@
 {
   "name": "1.12.2",
-  "version": {
-    "name": "1.12.2",
-    "downloadUrl": "resources/tblacknick.99735/download?version=440502",
-    "numberOfDownloads": 144,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1644416880,
-    "sourceUrl": "https://www.spigotmc.org/resources/tblacknick.99735/history"
-  }
+  "downloadUrl": "resources/tblacknick.99735/download?version=440502",
+  "numberOfDownloads": 144,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1644416880,
+  "sourceUrl": "https://www.spigotmc.org/resources/tblacknick.99735/history"
 }

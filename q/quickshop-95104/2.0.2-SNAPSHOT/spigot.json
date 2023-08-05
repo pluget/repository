@@ -1,12 +1,9 @@
 {
   "name": "2.0.2-SNAPSHOT",
-  "version": {
-    "name": "2.0.2-SNAPSHOT",
-    "downloadUrl": "resources/quickshop-addon-shop-search.95104/download?version=452315",
-    "numberOfDownloads": 46,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1652605560,
-    "sourceUrl": "https://www.spigotmc.org/resources/quickshop-addon-shop-search.95104/history"
-  }
+  "downloadUrl": "resources/quickshop-addon-shop-search.95104/download?version=452315",
+  "numberOfDownloads": 46,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1652605560,
+  "sourceUrl": "https://www.spigotmc.org/resources/quickshop-addon-shop-search.95104/history"
 }

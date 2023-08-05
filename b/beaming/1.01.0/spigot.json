@@ -1,12 +1,9 @@
 {
-  "name": "1.01.0",
-  "version": {
-    "name": "1.01",
-    "downloadUrl": "resources/beaming.8094/download?version=29538",
-    "numberOfDownloads": 78,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1434232740,
-    "sourceUrl": "https://www.spigotmc.org/resources/8094/history/"
-  }
+  "name": "1.01",
+  "downloadUrl": "resources/beaming.8094/download?version=29538",
+  "numberOfDownloads": 78,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1434232740,
+  "sourceUrl": "https://www.spigotmc.org/resources/8094/history/"
 }

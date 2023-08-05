@@ -1,12 +1,9 @@
 {
   "name": "2.3.4",
-  "version": {
-    "name": "2.3.4",
-    "downloadUrl": "resources/quests.3711/download?version=17647",
-    "numberOfDownloads": 902,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1426791720,
-    "sourceUrl": "https://www.spigotmc.org/resources/quests.3711/history"
-  }
+  "downloadUrl": "resources/quests.3711/download?version=17647",
+  "numberOfDownloads": 902,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1426791720,
+  "sourceUrl": "https://www.spigotmc.org/resources/quests.3711/history"
 }

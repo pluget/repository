@@ -1,12 +1,9 @@
 {
   "name": "2.1.9",
-  "version": {
-    "name": "2.1.9",
-    "downloadUrl": "resources/auctionhouse.61836/download?version=360676",
-    "numberOfDownloads": 936,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1602053460,
-    "sourceUrl": "https://www.spigotmc.org/resources/61836/history/"
-  }
+  "downloadUrl": "resources/auctionhouse.61836/download?version=360676",
+  "numberOfDownloads": 936,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1602053460,
+  "sourceUrl": "https://www.spigotmc.org/resources/61836/history/"
 }

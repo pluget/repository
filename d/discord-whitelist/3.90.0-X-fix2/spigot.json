@@ -1,12 +1,9 @@
 {
-  "name": "3.90.0-X-fix2",
-  "version": {
-    "name": "3.90X-fix2",
-    "downloadUrl": "resources/discord-whitelist-fourth-generation.97587/download?version=460140",
-    "numberOfDownloads": 56,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1657456140,
-    "sourceUrl": "https://www.spigotmc.org/resources/97587/history/"
-  }
+  "name": "3.90X-fix2",
+  "downloadUrl": "resources/discord-whitelist-fourth-generation.97587/download?version=460140",
+  "numberOfDownloads": 56,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1657456140,
+  "sourceUrl": "https://www.spigotmc.org/resources/97587/history/"
 }

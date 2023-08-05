@@ -1,12 +1,9 @@
 {
   "name": "1.2.2",
-  "version": {
-    "name": "1.2.2",
-    "downloadUrl": "resources/deathmessages.3789/download?version=386424",
-    "numberOfDownloads": 521,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1614717660,
-    "sourceUrl": "https://www.spigotmc.org/resources/deathmessages.3789/history"
-  }
+  "downloadUrl": "resources/deathmessages.3789/download?version=386424",
+  "numberOfDownloads": 521,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1614717660,
+  "sourceUrl": "https://www.spigotmc.org/resources/deathmessages.3789/history"
 }

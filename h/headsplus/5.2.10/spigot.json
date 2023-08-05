@@ -1,12 +1,9 @@
 {
   "name": "5.2.10",
-  "version": {
-    "name": "5.2.10",
-    "downloadUrl": "resources/headsplus-%C2%BB-1-15-2-1-19-x.40265/download?version=253033",
-    "numberOfDownloads": 256,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1545148620,
-    "sourceUrl": "https://www.spigotmc.org/resources/headsplus-%C2%BB-1-15-2-1-19-x.40265/history"
-  }
+  "downloadUrl": "resources/headsplus-%C2%BB-1-15-2-1-19-x.40265/download?version=253033",
+  "numberOfDownloads": 256,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1545148620,
+  "sourceUrl": "https://www.spigotmc.org/resources/headsplus-%C2%BB-1-15-2-1-19-x.40265/history"
 }

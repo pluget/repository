@@ -1,12 +1,9 @@
 {
   "name": "1.0.0-BETA.5",
-  "version": {
-    "name": "1.0.0-BETA.5",
-    "downloadUrl": "resources/discord-role-sync.78829/download?version=331526",
-    "numberOfDownloads": 44,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1589484240,
-    "sourceUrl": "https://www.spigotmc.org/resources/discord-role-sync.78829/history"
-  }
+  "downloadUrl": "resources/discord-role-sync.78829/download?version=331526",
+  "numberOfDownloads": 44,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1589484240,
+  "sourceUrl": "https://www.spigotmc.org/resources/discord-role-sync.78829/history"
 }

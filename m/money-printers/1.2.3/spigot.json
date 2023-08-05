@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/money-printers.49107/download?version=256001",
-    "numberOfDownloads": 554,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1546889460,
-    "sourceUrl": "https://www.spigotmc.org/resources/money-printers.49107/history"
-  }
+  "downloadUrl": "resources/money-printers.49107/download?version=256001",
+  "numberOfDownloads": 554,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1546889460,
+  "sourceUrl": "https://www.spigotmc.org/resources/money-printers.49107/history"
 }

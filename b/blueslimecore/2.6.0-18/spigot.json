@@ -1,12 +1,9 @@
 {
-  "name": "2.6.0-18",
-  "version": {
-    "name": "2.6.0.18",
-    "downloadUrl": "resources/blueslimecore.83189/download?version=470200",
-    "numberOfDownloads": 6,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1663813140,
-    "sourceUrl": "https://www.spigotmc.org/resources/blueslimecore.83189/history"
-  }
+  "name": "2.6.0.18",
+  "downloadUrl": "resources/blueslimecore.83189/download?version=470200",
+  "numberOfDownloads": 6,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1663813140,
+  "sourceUrl": "https://www.spigotmc.org/resources/blueslimecore.83189/history"
 }

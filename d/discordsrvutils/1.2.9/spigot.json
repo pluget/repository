@@ -1,12 +1,9 @@
 {
   "name": "1.2.9",
-  "version": {
-    "name": "1.2.9",
-    "downloadUrl": "resources/discordsrvutils.85958/download?version=457738",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1656009540,
-    "sourceUrl": "https://www.spigotmc.org/resources/discordsrvutils.85958/history"
-  }
+  "downloadUrl": "resources/discordsrvutils.85958/download?version=457738",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1656009540,
+  "sourceUrl": "https://www.spigotmc.org/resources/discordsrvutils.85958/history"
 }

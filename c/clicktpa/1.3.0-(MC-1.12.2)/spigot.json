@@ -1,12 +1,9 @@
 {
-  "name": "1.3.0-(MC-1.12.2)",
-  "version": {
-    "name": "1.3.0 (MC 1.12.2)",
-    "downloadUrl": "resources/clicktpa.62596/download?version=323765",
-    "numberOfDownloads": 5,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1586552640,
-    "sourceUrl": "https://www.spigotmc.org/resources/clicktpa.62596/history"
-  }
+  "name": "1.3.0 (MC 1.12.2)",
+  "downloadUrl": "resources/clicktpa.62596/download?version=323765",
+  "numberOfDownloads": 5,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1586552640,
+  "sourceUrl": "https://www.spigotmc.org/resources/clicktpa.62596/history"
 }

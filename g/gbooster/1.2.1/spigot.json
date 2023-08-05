@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/gbooster.89069/download?version=422773",
-    "numberOfDownloads": 24,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1634002500,
-    "sourceUrl": "https://www.spigotmc.org/resources/89069/history/"
-  }
+  "downloadUrl": "resources/gbooster.89069/download?version=422773",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1634002500,
+  "sourceUrl": "https://www.spigotmc.org/resources/89069/history/"
 }

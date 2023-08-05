@@ -1,12 +1,9 @@
 {
   "name": "1.1.6",
-  "version": {
-    "name": "1.1.6",
-    "downloadUrl": "resources/skhwid.80137/download?version=346580",
-    "numberOfDownloads": 42,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1595671200,
-    "sourceUrl": "https://www.spigotmc.org/resources/80137/history/"
-  }
+  "downloadUrl": "resources/skhwid.80137/download?version=346580",
+  "numberOfDownloads": 42,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1595671200,
+  "sourceUrl": "https://www.spigotmc.org/resources/80137/history/"
 }

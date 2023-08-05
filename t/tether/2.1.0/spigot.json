@@ -1,12 +1,9 @@
 {
   "name": "2.1.0",
-  "version": {
-    "name": "2.1.0",
-    "downloadUrl": "resources/tether.100941/download?version=448003",
-    "numberOfDownloads": 164,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1649336760,
-    "sourceUrl": "https://www.spigotmc.org/resources/tether.100941/history"
-  }
+  "downloadUrl": "resources/tether.100941/download?version=448003",
+  "numberOfDownloads": 164,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1649336760,
+  "sourceUrl": "https://www.spigotmc.org/resources/tether.100941/history"
 }

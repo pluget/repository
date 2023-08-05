@@ -1,12 +1,9 @@
 {
   "name": "1.0.8",
-  "version": {
-    "name": "1.0.8",
-    "downloadUrl": "resources/plasmo-voice-server.91064/download?version=429201",
-    "numberOfDownloads": 19,
-    "rating": 9.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1638377280,
-    "sourceUrl": "https://www.spigotmc.org/resources/91064/history/"
-  }
+  "downloadUrl": "resources/plasmo-voice-server.91064/download?version=429201",
+  "numberOfDownloads": 19,
+  "rating": 9.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1638377280,
+  "sourceUrl": "https://www.spigotmc.org/resources/91064/history/"
 }

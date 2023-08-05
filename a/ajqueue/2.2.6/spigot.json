@@ -1,12 +1,9 @@
 {
   "name": "2.2.6",
-  "version": {
-    "name": "2.2.6",
-    "downloadUrl": "resources/ajqueue.78266/download?version=443857",
-    "numberOfDownloads": 602,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646505480,
-    "sourceUrl": "https://www.spigotmc.org/resources/ajqueue.78266/history"
-  }
+  "downloadUrl": "resources/ajqueue.78266/download?version=443857",
+  "numberOfDownloads": 602,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646505480,
+  "sourceUrl": "https://www.spigotmc.org/resources/ajqueue.78266/history"
 }

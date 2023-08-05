@@ -1,12 +1,9 @@
 {
   "name": "1.7.18",
-  "version": {
-    "name": "1.7.18",
-    "downloadUrl": "resources/anti-farm.99472/download?version=474286",
-    "numberOfDownloads": 430,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1667489220,
-    "sourceUrl": "https://www.spigotmc.org/resources/anti-farm.99472/history"
-  }
+  "downloadUrl": "resources/anti-farm.99472/download?version=474286",
+  "numberOfDownloads": 430,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1667489220,
+  "sourceUrl": "https://www.spigotmc.org/resources/anti-farm.99472/history"
 }

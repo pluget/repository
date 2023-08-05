@@ -1,12 +1,9 @@
 {
   "name": "1.2.5",
-  "version": {
-    "name": "1.2.5",
-    "downloadUrl": "resources/playermounts-mount-your-friends-1-16-1-19.103499/download?version=461416",
-    "numberOfDownloads": 181,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1658240280,
-    "sourceUrl": "https://www.spigotmc.org/resources/playermounts-mount-your-friends-1-16-1-19.103499/history"
-  }
+  "downloadUrl": "resources/playermounts-mount-your-friends-1-16-1-19.103499/download?version=461416",
+  "numberOfDownloads": 181,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1658240280,
+  "sourceUrl": "https://www.spigotmc.org/resources/playermounts-mount-your-friends-1-16-1-19.103499/history"
 }

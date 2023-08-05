@@ -1,12 +1,9 @@
 {
   "name": "1.5.1",
-  "version": {
-    "name": "1.5.1",
-    "downloadUrl": "resources/villager-bank.83092/download?version=369960",
-    "numberOfDownloads": 250,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1606822140,
-    "sourceUrl": "https://www.spigotmc.org/resources/villager-bank.83092/history"
-  }
+  "downloadUrl": "resources/villager-bank.83092/download?version=369960",
+  "numberOfDownloads": 250,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1606822140,
+  "sourceUrl": "https://www.spigotmc.org/resources/villager-bank.83092/history"
 }

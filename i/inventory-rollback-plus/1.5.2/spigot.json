@@ -1,12 +1,9 @@
 {
   "name": "1.5.2",
-  "version": {
-    "name": "1.5.2",
-    "downloadUrl": "resources/inventory-rollback-plus-1-8-1-19-x.85811/download?version=367280",
-    "numberOfDownloads": 287,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1605474660,
-    "sourceUrl": "https://www.spigotmc.org/resources/85811/history/"
-  }
+  "downloadUrl": "resources/inventory-rollback-plus-1-8-1-19-x.85811/download?version=367280",
+  "numberOfDownloads": 287,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1605474660,
+  "sourceUrl": "https://www.spigotmc.org/resources/85811/history/"
 }

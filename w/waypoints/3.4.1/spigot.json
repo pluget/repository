@@ -1,12 +1,9 @@
 {
   "name": "3.4.1",
-  "version": {
-    "name": "3.4.1",
-    "downloadUrl": "resources/waypoints.66647/download?version=455905",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1655040120,
-    "sourceUrl": "https://www.spigotmc.org/resources/waypoints.66647/history"
-  }
+  "downloadUrl": "resources/waypoints.66647/download?version=455905",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1655040120,
+  "sourceUrl": "https://www.spigotmc.org/resources/waypoints.66647/history"
 }

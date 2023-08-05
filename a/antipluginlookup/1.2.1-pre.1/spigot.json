@@ -1,12 +1,9 @@
 {
-  "name": "1.2.1-pre.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/antipluginlookup.63007/download?version=470765",
-    "numberOfDownloads": 4,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1664365800,
-    "sourceUrl": "https://www.spigotmc.org/resources/antipluginlookup.63007/history"
-  }
+  "name": "1.2.1",
+  "downloadUrl": "resources/antipluginlookup.63007/download?version=470765",
+  "numberOfDownloads": 4,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1664365800,
+  "sourceUrl": "https://www.spigotmc.org/resources/antipluginlookup.63007/history"
 }

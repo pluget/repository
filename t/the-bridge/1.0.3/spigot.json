@@ -1,12 +1,9 @@
 {
   "name": "1.0.3",
-  "version": {
-    "name": "1.0.3",
-    "downloadUrl": "resources/the-bridge-1-8-8-1-17.87320/download?version=375186",
-    "numberOfDownloads": 81,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1609592220,
-    "sourceUrl": "https://www.spigotmc.org/resources/87320/history/"
-  }
+  "downloadUrl": "resources/the-bridge-1-8-8-1-17.87320/download?version=375186",
+  "numberOfDownloads": 81,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1609592220,
+  "sourceUrl": "https://www.spigotmc.org/resources/87320/history/"
 }

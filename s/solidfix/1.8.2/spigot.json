@@ -1,12 +1,9 @@
 {
   "name": "1.8.2",
-  "version": {
-    "name": "1.8.2",
-    "downloadUrl": "resources/solidfix.54103/download?version=327629",
-    "numberOfDownloads": 143,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1588011960,
-    "sourceUrl": "https://www.spigotmc.org/resources/solidfix.54103/history"
-  }
+  "downloadUrl": "resources/solidfix.54103/download?version=327629",
+  "numberOfDownloads": 143,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1588011960,
+  "sourceUrl": "https://www.spigotmc.org/resources/solidfix.54103/history"
 }

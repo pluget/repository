@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/villagerleash.99410/download?version=437879",
-    "numberOfDownloads": 110,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1642871340,
-    "sourceUrl": "https://www.spigotmc.org/resources/99410/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/villagerleash.99410/download?version=437879",
+  "numberOfDownloads": 110,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1642871340,
+  "sourceUrl": "https://www.spigotmc.org/resources/99410/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.1.1-0233d12-RELEASE",
-  "version": {
-    "name": "1.1.1-0233d12-RELEASE",
-    "downloadUrl": "resources/treasury.99531/download?version=441523",
-    "numberOfDownloads": 94,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1645084320,
-    "sourceUrl": "https://www.spigotmc.org/resources/treasury.99531/history"
-  }
+  "downloadUrl": "resources/treasury.99531/download?version=441523",
+  "numberOfDownloads": 94,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1645084320,
+  "sourceUrl": "https://www.spigotmc.org/resources/treasury.99531/history"
 }

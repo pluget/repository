@@ -1,12 +1,9 @@
 {
-  "name": "5.1.0-build-545",
-  "version": {
-    "name": "5.1 build 545",
-    "downloadUrl": "resources/plan-player-analytics.32536/download?version=329846",
-    "numberOfDownloads": 531,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1588837140,
-    "sourceUrl": "https://www.spigotmc.org/resources/plan-player-analytics.32536/history"
-  }
+  "name": "5.1 build 545",
+  "downloadUrl": "resources/plan-player-analytics.32536/download?version=329846",
+  "numberOfDownloads": 531,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1588837140,
+  "sourceUrl": "https://www.spigotmc.org/resources/plan-player-analytics.32536/history"
 }

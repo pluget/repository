@@ -1,12 +1,9 @@
 {
-  "name": "1.9.0",
-  "version": {
-    "name": "v1.9",
-    "downloadUrl": "resources/printer.79811/download?version=370042",
-    "numberOfDownloads": 48,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1606868280,
-    "sourceUrl": "https://www.spigotmc.org/resources/printer.79811/history"
-  }
+  "name": "v1.9",
+  "downloadUrl": "resources/printer.79811/download?version=370042",
+  "numberOfDownloads": 48,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1606868280,
+  "sourceUrl": "https://www.spigotmc.org/resources/printer.79811/history"
 }

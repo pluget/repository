@@ -1,12 +1,9 @@
 {
-  "name": "0.1.0-b-alpha",
-  "version": {
-    "name": "0.1b-alpha",
-    "downloadUrl": "resources/easytimesync-sync-your-minecraft-time-with-reallife.92510/download?version=399418",
-    "numberOfDownloads": 161,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1621431960,
-    "sourceUrl": "https://www.spigotmc.org/resources/easytimesync-sync-your-minecraft-time-with-reallife.92510/history"
-  }
+  "name": "0.1b-alpha",
+  "downloadUrl": "resources/easytimesync-sync-your-minecraft-time-with-reallife.92510/download?version=399418",
+  "numberOfDownloads": 161,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1621431960,
+  "sourceUrl": "https://www.spigotmc.org/resources/easytimesync-sync-your-minecraft-time-with-reallife.92510/history"
 }

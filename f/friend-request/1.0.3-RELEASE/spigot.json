@@ -1,12 +1,9 @@
 {
   "name": "1.0.3-RELEASE",
-  "version": {
-    "name": "1.0.3-RELEASE",
-    "downloadUrl": "resources/friend-request-list-command-extension-for-party-and-friends.30323/download?version=438739",
-    "numberOfDownloads": 186,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1643370000,
-    "sourceUrl": "https://www.spigotmc.org/resources/30323/history/"
-  }
+  "downloadUrl": "resources/friend-request-list-command-extension-for-party-and-friends.30323/download?version=438739",
+  "numberOfDownloads": 186,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1643370000,
+  "sourceUrl": "https://www.spigotmc.org/resources/30323/history/"
 }

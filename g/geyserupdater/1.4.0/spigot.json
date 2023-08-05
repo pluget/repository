@@ -1,12 +1,9 @@
 {
   "name": "1.4.0",
-  "version": {
-    "name": "1.4.0",
-    "downloadUrl": "resources/geyserupdater.88555/download?version=400196",
-    "numberOfDownloads": 174,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1621903020,
-    "sourceUrl": "https://www.spigotmc.org/resources/88555/history/"
-  }
+  "downloadUrl": "resources/geyserupdater.88555/download?version=400196",
+  "numberOfDownloads": 174,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1621903020,
+  "sourceUrl": "https://www.spigotmc.org/resources/88555/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.1.0-ALPHA",
-  "version": {
-    "name": "1.1.0-ALPHA",
-    "downloadUrl": "resources/procosmetics-bridge-1-19.101799/download?version=457181",
-    "numberOfDownloads": 34,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1655673840,
-    "sourceUrl": "https://www.spigotmc.org/resources/procosmetics-bridge-1-19.101799/history"
-  }
+  "downloadUrl": "resources/procosmetics-bridge-1-19.101799/download?version=457181",
+  "numberOfDownloads": 34,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1655673840,
+  "sourceUrl": "https://www.spigotmc.org/resources/procosmetics-bridge-1-19.101799/history"
 }

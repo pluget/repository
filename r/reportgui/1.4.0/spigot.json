@@ -1,12 +1,9 @@
 {
-  "name": "1.4.0",
-  "version": {
-    "name": "1.4",
-    "downloadUrl": "resources/reportgui.27456/download?version=108107",
-    "numberOfDownloads": 66,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1470844680,
-    "sourceUrl": "https://www.spigotmc.org/resources/27456/history/"
-  }
+  "name": "1.4",
+  "downloadUrl": "resources/reportgui.27456/download?version=108107",
+  "numberOfDownloads": 66,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1470844680,
+  "sourceUrl": "https://www.spigotmc.org/resources/27456/history/"
 }

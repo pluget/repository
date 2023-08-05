@@ -1,12 +1,9 @@
 {
   "name": "6.1.0",
-  "version": {
-    "name": "6.1.0",
-    "downloadUrl": "resources/player-settings.14622/download?version=473413",
-    "numberOfDownloads": 76,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1666753620,
-    "sourceUrl": "https://www.spigotmc.org/resources/player-settings.14622/history"
-  }
+  "downloadUrl": "resources/player-settings.14622/download?version=473413",
+  "numberOfDownloads": 76,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1666753620,
+  "sourceUrl": "https://www.spigotmc.org/resources/player-settings.14622/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.14.19",
-  "version": {
-    "name": "1.14.19",
-    "downloadUrl": "resources/system.102876/download?version=457878",
-    "numberOfDownloads": 1,
-    "rating": 5,
-    "numberOfVotes": 2,
-    "releaseDate": 1656092880,
-    "sourceUrl": "https://www.spigotmc.org/resources/system.102876/history"
-  }
+  "downloadUrl": "resources/system.102876/download?version=457878",
+  "numberOfDownloads": 1,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releaseDate": 1656092880,
+  "sourceUrl": "https://www.spigotmc.org/resources/system.102876/history"
 }

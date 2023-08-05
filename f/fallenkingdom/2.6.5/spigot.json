@@ -1,12 +1,9 @@
 {
   "name": "2.6.5",
-  "version": {
-    "name": "2.6.5",
-    "downloadUrl": "resources/fallenkingdom.38878/download?version=225907",
-    "numberOfDownloads": 63,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1529052420,
-    "sourceUrl": "https://www.spigotmc.org/resources/fallenkingdom.38878/history"
-  }
+  "downloadUrl": "resources/fallenkingdom.38878/download?version=225907",
+  "numberOfDownloads": 63,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1529052420,
+  "sourceUrl": "https://www.spigotmc.org/resources/fallenkingdom.38878/history"
 }

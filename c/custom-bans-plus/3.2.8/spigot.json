@@ -1,12 +1,9 @@
 {
   "name": "3.2.8",
-  "version": {
-    "name": "3.2.8",
-    "downloadUrl": "resources/custom-bans-plus-fully-customizable-ban-manager.89075/download?version=398629",
-    "numberOfDownloads": 70,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1620971100,
-    "sourceUrl": "https://www.spigotmc.org/resources/custom-bans-plus-fully-customizable-ban-manager.89075/history"
-  }
+  "downloadUrl": "resources/custom-bans-plus-fully-customizable-ban-manager.89075/download?version=398629",
+  "numberOfDownloads": 70,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1620971100,
+  "sourceUrl": "https://www.spigotmc.org/resources/custom-bans-plus-fully-customizable-ban-manager.89075/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "3.2.1",
-  "version": {
-    "name": "3.2.1",
-    "downloadUrl": "resources/chunkloader.92834/download?version=481562",
-    "numberOfDownloads": 2,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1673218800,
-    "sourceUrl": "https://www.spigotmc.org/resources/92834/history/"
-  }
+  "downloadUrl": "resources/chunkloader.92834/download?version=481562",
+  "numberOfDownloads": 2,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1673218800,
+  "sourceUrl": "https://www.spigotmc.org/resources/92834/history/"
 }

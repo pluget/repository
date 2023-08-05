@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/command-blocker.5280/download?version=232292",
-    "numberOfDownloads": 15,
-    "rating": 9.090909090909,
-    "numberOfVotes": 22,
-    "releaseDate": 1532810700,
-    "sourceUrl": "https://www.spigotmc.org/resources/command-blocker.5280/history"
-  }
+  "downloadUrl": "resources/command-blocker.5280/download?version=232292",
+  "numberOfDownloads": 15,
+  "rating": 9.090909090909,
+  "numberOfVotes": 22,
+  "releaseDate": 1532810700,
+  "sourceUrl": "https://www.spigotmc.org/resources/command-blocker.5280/history"
 }

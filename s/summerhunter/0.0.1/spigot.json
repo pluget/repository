@@ -1,12 +1,9 @@
 {
   "name": "0.0.1",
-  "version": {
-    "name": "0.0.1",
-    "downloadUrl": "resources/summerhunter-1-7-1-18.43136/download?version=169025",
-    "numberOfDownloads": 342,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1498888140,
-    "sourceUrl": "https://www.spigotmc.org/resources/summerhunter-1-7-1-18.43136/history"
-  }
+  "downloadUrl": "resources/summerhunter-1-7-1-18.43136/download?version=169025",
+  "numberOfDownloads": 342,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1498888140,
+  "sourceUrl": "https://www.spigotmc.org/resources/summerhunter-1-7-1-18.43136/history"
 }

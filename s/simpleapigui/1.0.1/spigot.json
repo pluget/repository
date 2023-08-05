@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/simpleapigui.99310/download?version=440187",
-    "numberOfDownloads": 27,
-    "rating": 4,
-    "numberOfVotes": 1,
-    "releaseDate": 1644181800,
-    "sourceUrl": "https://www.spigotmc.org/resources/simpleapigui.99310/history"
-  }
+  "downloadUrl": "resources/simpleapigui.99310/download?version=440187",
+  "numberOfDownloads": 27,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releaseDate": 1644181800,
+  "sourceUrl": "https://www.spigotmc.org/resources/simpleapigui.99310/history"
 }

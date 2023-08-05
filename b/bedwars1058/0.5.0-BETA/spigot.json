@@ -1,12 +1,9 @@
 {
-  "name": "0.5.0-BETA",
-  "version": {
-    "name": "0.5BETA",
-    "downloadUrl": "resources/bedwars1058-per-group-stats-addon.105279/download?version=469455",
-    "numberOfDownloads": 23,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1663155960,
-    "sourceUrl": "https://www.spigotmc.org/resources/bedwars1058-per-group-stats-addon.105279/history"
-  }
+  "name": "0.5BETA",
+  "downloadUrl": "resources/bedwars1058-per-group-stats-addon.105279/download?version=469455",
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1663155960,
+  "sourceUrl": "https://www.spigotmc.org/resources/bedwars1058-per-group-stats-addon.105279/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/actisocials.99888/download?version=440495",
-    "numberOfDownloads": 33,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1644414780,
-    "sourceUrl": "https://www.spigotmc.org/resources/actisocials.99888/history"
-  }
+  "downloadUrl": "resources/actisocials.99888/download?version=440495",
+  "numberOfDownloads": 33,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1644414780,
+  "sourceUrl": "https://www.spigotmc.org/resources/actisocials.99888/history"
 }

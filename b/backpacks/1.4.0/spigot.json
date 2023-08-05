@@ -1,12 +1,9 @@
 {
   "name": "1.4.0",
-  "version": {
-    "name": "1.4.0",
-    "downloadUrl": "resources/backpacks.99840/download?version=445858",
-    "numberOfDownloads": 122,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1647775620,
-    "sourceUrl": "https://www.spigotmc.org/resources/backpacks.99840/history"
-  }
+  "downloadUrl": "resources/backpacks.99840/download?version=445858",
+  "numberOfDownloads": 122,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1647775620,
+  "sourceUrl": "https://www.spigotmc.org/resources/backpacks.99840/history"
 }

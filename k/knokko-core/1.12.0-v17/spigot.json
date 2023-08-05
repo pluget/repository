@@ -1,12 +1,9 @@
 {
-  "name": "1.12.0-v17",
-  "version": {
-    "name": "Minecraft 1.12 v17",
-    "downloadUrl": "resources/knokko-core.88178/download?version=449392",
-    "numberOfDownloads": 16,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1650304920,
-    "sourceUrl": "https://www.spigotmc.org/resources/88178/history/"
-  }
+  "name": "Minecraft 1.12 v17",
+  "downloadUrl": "resources/knokko-core.88178/download?version=449392",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1650304920,
+  "sourceUrl": "https://www.spigotmc.org/resources/88178/history/"
 }

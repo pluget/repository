@@ -1,12 +1,9 @@
 {
-  "name": "1.2.1",
-  "version": {
-    "name": "v1.2.1",
-    "downloadUrl": "resources/basics.101345/download?version=448706",
-    "numberOfDownloads": 26,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1649846160,
-    "sourceUrl": "https://www.spigotmc.org/resources/basics.101345/history"
-  }
+  "name": "v1.2.1",
+  "downloadUrl": "resources/basics.101345/download?version=448706",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1649846160,
+  "sourceUrl": "https://www.spigotmc.org/resources/basics.101345/history"
 }

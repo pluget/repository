@@ -1,12 +1,9 @@
 {
   "name": "4.1.1",
-  "version": {
-    "name": "4.1.1",
-    "downloadUrl": "resources/mainlobby.96309/download?version=462288",
-    "numberOfDownloads": 21,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1658733000,
-    "sourceUrl": "https://www.spigotmc.org/resources/mainlobby.96309/history"
-  }
+  "downloadUrl": "resources/mainlobby.96309/download?version=462288",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1658733000,
+  "sourceUrl": "https://www.spigotmc.org/resources/mainlobby.96309/history"
 }

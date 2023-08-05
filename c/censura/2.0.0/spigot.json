@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0",
-  "version": {
-    "name": "2.0",
-    "downloadUrl": "resources/censura.84123/download?version=388886",
-    "numberOfDownloads": 49,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1615925700,
-    "sourceUrl": "https://www.spigotmc.org/resources/84123/history/"
-  }
+  "name": "2.0",
+  "downloadUrl": "resources/censura.84123/download?version=388886",
+  "numberOfDownloads": 49,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1615925700,
+  "sourceUrl": "https://www.spigotmc.org/resources/84123/history/"
 }

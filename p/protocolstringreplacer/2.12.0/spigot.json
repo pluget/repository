@@ -1,12 +1,9 @@
 {
   "name": "2.12.0",
-  "version": {
-    "name": "2.12.0",
-    "downloadUrl": "resources/protocolstringreplacer-efficient-message-editor-1-8-1-19-3.96573/download?version=469552",
-    "numberOfDownloads": 25,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1663242000,
-    "sourceUrl": "https://www.spigotmc.org/resources/protocolstringreplacer-efficient-message-editor-1-8-1-19-3.96573/history"
-  }
+  "downloadUrl": "resources/protocolstringreplacer-efficient-message-editor-1-8-1-19-3.96573/download?version=469552",
+  "numberOfDownloads": 25,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1663242000,
+  "sourceUrl": "https://www.spigotmc.org/resources/protocolstringreplacer-efficient-message-editor-1-8-1-19-3.96573/history"
 }

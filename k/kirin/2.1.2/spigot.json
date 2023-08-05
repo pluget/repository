@@ -1,12 +1,9 @@
 {
   "name": "2.1.2",
-  "version": {
-    "name": "2.1.2",
-    "downloadUrl": "resources/kirin.100456/download?version=467055",
-    "numberOfDownloads": 40,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1661432940,
-    "sourceUrl": "https://www.spigotmc.org/resources/kirin.100456/history"
-  }
+  "downloadUrl": "resources/kirin.100456/download?version=467055",
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1661432940,
+  "sourceUrl": "https://www.spigotmc.org/resources/kirin.100456/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.1.1",
-  "version": {
-    "name": "2.1.1",
-    "downloadUrl": "resources/bettertridents.92656/download?version=403217",
-    "numberOfDownloads": 229,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1623604740,
-    "sourceUrl": "https://www.spigotmc.org/resources/92656/history/"
-  }
+  "downloadUrl": "resources/bettertridents.92656/download?version=403217",
+  "numberOfDownloads": 229,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1623604740,
+  "sourceUrl": "https://www.spigotmc.org/resources/92656/history/"
 }

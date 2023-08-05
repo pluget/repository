@@ -1,12 +1,9 @@
 {
-  "name": "1.9.3",
-  "version": {
-    "name": "v1.9.3",
-    "downloadUrl": "resources/referral-1-7-1-18.72219/download?version=326507",
-    "numberOfDownloads": 176,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1587574260,
-    "sourceUrl": "https://www.spigotmc.org/resources/72219/history/"
-  }
+  "name": "v1.9.3",
+  "downloadUrl": "resources/referral-1-7-1-18.72219/download?version=326507",
+  "numberOfDownloads": 176,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1587574260,
+  "sourceUrl": "https://www.spigotmc.org/resources/72219/history/"
 }

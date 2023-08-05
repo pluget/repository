@@ -1,12 +1,9 @@
 {
   "name": "1.1.2",
-  "version": {
-    "name": "1.1.2",
-    "downloadUrl": "resources/joinplugin.82111/download?version=476282",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1669233960,
-    "sourceUrl": "https://www.spigotmc.org/resources/joinplugin.82111/history"
-  }
+  "downloadUrl": "resources/joinplugin.82111/download?version=476282",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1669233960,
+  "sourceUrl": "https://www.spigotmc.org/resources/joinplugin.82111/history"
 }

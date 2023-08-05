@@ -1,12 +1,9 @@
 {
-  "name": "1.3.2-1",
-  "version": {
-    "name": "v1.3.2.1",
-    "downloadUrl": "resources/refs-skript.104565/download?version=465835",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660641660,
-    "sourceUrl": "https://www.spigotmc.org/resources/refs-skript.104565/history"
-  }
+  "name": "v1.3.2.1",
+  "downloadUrl": "resources/refs-skript.104565/download?version=465835",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660641660,
+  "sourceUrl": "https://www.spigotmc.org/resources/refs-skript.104565/history"
 }

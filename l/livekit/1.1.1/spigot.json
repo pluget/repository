@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/livekit.88742/download?version=396579",
-    "numberOfDownloads": 377,
-    "rating": 10,
-    "numberOfVotes": 5,
-    "releaseDate": 1619781480,
-    "sourceUrl": "https://www.spigotmc.org/resources/livekit.88742/history"
-  }
+  "downloadUrl": "resources/livekit.88742/download?version=396579",
+  "numberOfDownloads": 377,
+  "rating": 10,
+  "numberOfVotes": 5,
+  "releaseDate": 1619781480,
+  "sourceUrl": "https://www.spigotmc.org/resources/livekit.88742/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "5.1.3",
-  "version": {
-    "name": "5.1.3",
-    "downloadUrl": "resources/telepost.91988/download?version=411277",
-    "numberOfDownloads": 40,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1627221960,
-    "sourceUrl": "https://www.spigotmc.org/resources/telepost.91988/history"
-  }
+  "downloadUrl": "resources/telepost.91988/download?version=411277",
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1627221960,
+  "sourceUrl": "https://www.spigotmc.org/resources/telepost.91988/history"
 }

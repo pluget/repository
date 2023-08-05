@@ -1,12 +1,9 @@
 {
   "name": "1.0.4-RELEASE",
-  "version": {
-    "name": "1.0.4-RELEASE",
-    "downloadUrl": "resources/max-friends-for-party-and-friends.32978/download?version=438601",
-    "numberOfDownloads": 60,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1643286120,
-    "sourceUrl": "https://www.spigotmc.org/resources/max-friends-for-party-and-friends.32978/history"
-  }
+  "downloadUrl": "resources/max-friends-for-party-and-friends.32978/download?version=438601",
+  "numberOfDownloads": 60,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1643286120,
+  "sourceUrl": "https://www.spigotmc.org/resources/max-friends-for-party-and-friends.32978/history"
 }

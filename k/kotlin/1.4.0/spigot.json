@@ -1,12 +1,9 @@
 {
   "name": "1.4.0",
-  "version": {
-    "name": "1.4.0",
-    "downloadUrl": "resources/kotlin-stdlib.80808/download?version=355578",
-    "numberOfDownloads": 159,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1599447780,
-    "sourceUrl": "https://www.spigotmc.org/resources/kotlin-stdlib.80808/history"
-  }
+  "downloadUrl": "resources/kotlin-stdlib.80808/download?version=355578",
+  "numberOfDownloads": 159,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1599447780,
+  "sourceUrl": "https://www.spigotmc.org/resources/kotlin-stdlib.80808/history"
 }

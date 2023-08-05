@@ -1,12 +1,9 @@
 {
   "name": "1.5.9",
-  "version": {
-    "name": "1.5.9",
-    "downloadUrl": "resources/grappling-hook.22854/download?version=355590",
-    "numberOfDownloads": 5,
-    "rating": 4.6666666666666,
-    "numberOfVotes": 3,
-    "releaseDate": 1599458520,
-    "sourceUrl": "https://www.spigotmc.org/resources/grappling-hook.22854/history"
-  }
+  "downloadUrl": "resources/grappling-hook.22854/download?version=355590",
+  "numberOfDownloads": 5,
+  "rating": 4.6666666666666,
+  "numberOfVotes": 3,
+  "releaseDate": 1599458520,
+  "sourceUrl": "https://www.spigotmc.org/resources/grappling-hook.22854/history"
 }

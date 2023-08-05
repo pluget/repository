@@ -1,12 +1,9 @@
 {
   "name": "3.8.0",
-  "version": {
-    "name": "3.8.0",
-    "downloadUrl": "resources/tweakin-1-17-1-19.93444/download?version=427905",
-    "numberOfDownloads": 95,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1637647980,
-    "sourceUrl": "https://www.spigotmc.org/resources/tweakin-1-17-1-19.93444/history"
-  }
+  "downloadUrl": "resources/tweakin-1-17-1-19.93444/download?version=427905",
+  "numberOfDownloads": 95,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1637647980,
+  "sourceUrl": "https://www.spigotmc.org/resources/tweakin-1-17-1-19.93444/history"
 }

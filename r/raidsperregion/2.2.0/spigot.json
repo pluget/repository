@@ -1,12 +1,9 @@
 {
-  "name": "2.2.0",
-  "version": {
-    "name": "2.2",
-    "downloadUrl": "resources/raidsperregion.87585/download?version=452259",
-    "numberOfDownloads": 147,
-    "rating": 6,
-    "numberOfVotes": 2,
-    "releaseDate": 1652552880,
-    "sourceUrl": "https://www.spigotmc.org/resources/raidsperregion.87585/history"
-  }
+  "name": "2.2",
+  "downloadUrl": "resources/raidsperregion.87585/download?version=452259",
+  "numberOfDownloads": 147,
+  "rating": 6,
+  "numberOfVotes": 2,
+  "releaseDate": 1652552880,
+  "sourceUrl": "https://www.spigotmc.org/resources/raidsperregion.87585/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "14.8.0",
-  "version": {
-    "name": "14.8",
-    "downloadUrl": "resources/discordsrv.18494/download?version=174031",
-    "numberOfDownloads": 1,
-    "rating": 9.1428571428572,
-    "numberOfVotes": 7,
-    "releaseDate": 1500950820,
-    "sourceUrl": "https://www.spigotmc.org/resources/discordsrv.18494/history"
-  }
+  "name": "14.8",
+  "downloadUrl": "resources/discordsrv.18494/download?version=174031",
+  "numberOfDownloads": 1,
+  "rating": 9.1428571428572,
+  "numberOfVotes": 7,
+  "releaseDate": 1500950820,
+  "sourceUrl": "https://www.spigotmc.org/resources/discordsrv.18494/history"
 }

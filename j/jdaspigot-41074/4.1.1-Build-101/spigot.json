@@ -1,12 +1,9 @@
 {
-  "name": "4.1.1-Build-101",
-  "version": {
-    "name": "JDA 4.1.1 Build 101",
-    "downloadUrl": "resources/jdaspigot.41074/download?version=331593",
-    "numberOfDownloads": 203,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1589516700,
-    "sourceUrl": "https://www.spigotmc.org/resources/jdaspigot.41074/history"
-  }
+  "name": "JDA 4.1.1 Build 101",
+  "downloadUrl": "resources/jdaspigot.41074/download?version=331593",
+  "numberOfDownloads": 203,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1589516700,
+  "sourceUrl": "https://www.spigotmc.org/resources/jdaspigot.41074/history"
 }

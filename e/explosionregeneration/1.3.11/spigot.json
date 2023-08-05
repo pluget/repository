@@ -1,12 +1,9 @@
 {
   "name": "1.3.11",
-  "version": {
-    "name": "1.3.11",
-    "downloadUrl": "resources/explosionregeneration.20221/download?version=345183",
-    "numberOfDownloads": 89,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1595107080,
-    "sourceUrl": "https://www.spigotmc.org/resources/explosionregeneration.20221/history"
-  }
+  "downloadUrl": "resources/explosionregeneration.20221/download?version=345183",
+  "numberOfDownloads": 89,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1595107080,
+  "sourceUrl": "https://www.spigotmc.org/resources/explosionregeneration.20221/history"
 }

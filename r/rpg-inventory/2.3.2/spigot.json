@@ -1,12 +1,9 @@
 {
   "name": "2.3.2",
-  "version": {
-    "name": "2.3.2",
-    "downloadUrl": "resources/rpg-inventory-custom-model-data-support.11809/download?version=340964",
-    "numberOfDownloads": 3,
-    "rating": 7.25,
-    "numberOfVotes": 8,
-    "releaseDate": 1593552420,
-    "sourceUrl": "https://www.spigotmc.org/resources/rpg-inventory-custom-model-data-support.11809/history"
-  }
+  "downloadUrl": "resources/rpg-inventory-custom-model-data-support.11809/download?version=340964",
+  "numberOfDownloads": 3,
+  "rating": 7.25,
+  "numberOfVotes": 8,
+  "releaseDate": 1593552420,
+  "sourceUrl": "https://www.spigotmc.org/resources/rpg-inventory-custom-model-data-support.11809/history"
 }

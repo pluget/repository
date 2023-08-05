@@ -1,12 +1,9 @@
 {
   "name": "1.3.5",
-  "version": {
-    "name": "1.3.5",
-    "downloadUrl": "resources/qstaffmode-1-8-1-19-ultimate-staff-moderation-plugin.73301/download?version=464667",
-    "numberOfDownloads": 123,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1659945000,
-    "sourceUrl": "https://www.spigotmc.org/resources/73301/history/"
-  }
+  "downloadUrl": "resources/qstaffmode-1-8-1-19-ultimate-staff-moderation-plugin.73301/download?version=464667",
+  "numberOfDownloads": 123,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1659945000,
+  "sourceUrl": "https://www.spigotmc.org/resources/73301/history/"
 }

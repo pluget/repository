@@ -1,12 +1,9 @@
 {
   "name": "10.0.29",
-  "version": {
-    "name": "10.0.29",
-    "downloadUrl": "resources/libs-disguises-free.81/download?version=461286",
-    "numberOfDownloads": 6,
-    "rating": 6,
-    "numberOfVotes": 1,
-    "releaseDate": 1658152320,
-    "sourceUrl": "https://www.spigotmc.org/resources/81/history/"
-  }
+  "downloadUrl": "resources/libs-disguises-free.81/download?version=461286",
+  "numberOfDownloads": 6,
+  "rating": 6,
+  "numberOfVotes": 1,
+  "releaseDate": 1658152320,
+  "sourceUrl": "https://www.spigotmc.org/resources/81/history/"
 }

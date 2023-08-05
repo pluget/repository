@@ -1,12 +1,9 @@
 {
-  "name": "2.0.9-pre.1",
-  "version": {
-    "name": "2.0.9",
-    "downloadUrl": "resources/spigotsearchengine.54108/download?version=271529",
-    "numberOfDownloads": 507,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1556808660,
-    "sourceUrl": "https://www.spigotmc.org/resources/spigotsearchengine.54108/history"
-  }
+  "name": "2.0.9",
+  "downloadUrl": "resources/spigotsearchengine.54108/download?version=271529",
+  "numberOfDownloads": 507,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1556808660,
+  "sourceUrl": "https://www.spigotmc.org/resources/spigotsearchengine.54108/history"
 }

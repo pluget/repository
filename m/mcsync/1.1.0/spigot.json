@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/mcsync-twitch-whitelist-manager.99838/download?version=444450",
-    "numberOfDownloads": 56,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1646842560,
-    "sourceUrl": "https://www.spigotmc.org/resources/mcsync-twitch-whitelist-manager.99838/history"
-  }
+  "downloadUrl": "resources/mcsync-twitch-whitelist-manager.99838/download?version=444450",
+  "numberOfDownloads": 56,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1646842560,
+  "sourceUrl": "https://www.spigotmc.org/resources/mcsync-twitch-whitelist-manager.99838/history"
 }

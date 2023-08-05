@@ -1,12 +1,9 @@
 {
   "name": "1.6.9",
-  "version": {
-    "name": "1.6.9",
-    "downloadUrl": "resources/murder-mystery-1-8-8-1-17.66614/download?version=369898",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 5,
-    "releaseDate": 1606773240,
-    "sourceUrl": "https://www.spigotmc.org/resources/murder-mystery-1-8-8-1-17.66614/history"
-  }
+  "downloadUrl": "resources/murder-mystery-1-8-8-1-17.66614/download?version=369898",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 5,
+  "releaseDate": 1606773240,
+  "sourceUrl": "https://www.spigotmc.org/resources/murder-mystery-1-8-8-1-17.66614/history"
 }

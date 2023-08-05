@@ -1,12 +1,9 @@
 {
   "name": "3.1.12",
-  "version": {
-    "name": "3.1.12",
-    "downloadUrl": "resources/parties-an-advanced-parties-manager.3709/download?version=421347",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 5,
-    "releaseDate": 1632939540,
-    "sourceUrl": "https://www.spigotmc.org/resources/parties-an-advanced-parties-manager.3709/history"
-  }
+  "downloadUrl": "resources/parties-an-advanced-parties-manager.3709/download?version=421347",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 5,
+  "releaseDate": 1632939540,
+  "sourceUrl": "https://www.spigotmc.org/resources/parties-an-advanced-parties-manager.3709/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/actionbarapi-1-8-1-19-4.102995/download?version=458618",
-    "numberOfDownloads": 19,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1656560160,
-    "sourceUrl": "https://www.spigotmc.org/resources/102995/history/"
-  }
+  "downloadUrl": "resources/actionbarapi-1-8-1-19-4.102995/download?version=458618",
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1656560160,
+  "sourceUrl": "https://www.spigotmc.org/resources/102995/history/"
 }

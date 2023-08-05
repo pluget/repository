@@ -1,12 +1,9 @@
 {
   "name": "2.5.6",
-  "version": {
-    "name": "2.5.6",
-    "downloadUrl": "resources/randombox.3217/download?version=90102",
-    "numberOfDownloads": 6,
-    "rating": 9.8181818181818,
-    "numberOfVotes": 11,
-    "releaseDate": 1463573280,
-    "sourceUrl": "https://www.spigotmc.org/resources/randombox.3217/history"
-  }
+  "downloadUrl": "resources/randombox.3217/download?version=90102",
+  "numberOfDownloads": 6,
+  "rating": 9.8181818181818,
+  "numberOfVotes": 11,
+  "releaseDate": 1463573280,
+  "sourceUrl": "https://www.spigotmc.org/resources/randombox.3217/history"
 }

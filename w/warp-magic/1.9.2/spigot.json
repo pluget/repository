@@ -1,12 +1,9 @@
 {
   "name": "1.9.2",
-  "version": {
-    "name": "1.9.2",
-    "downloadUrl": "resources/warp-magic.68165/download?version=331273",
-    "numberOfDownloads": 2,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1589386740,
-    "sourceUrl": "https://www.spigotmc.org/resources/warp-magic.68165/history"
-  }
+  "downloadUrl": "resources/warp-magic.68165/download?version=331273",
+  "numberOfDownloads": 2,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1589386740,
+  "sourceUrl": "https://www.spigotmc.org/resources/warp-magic.68165/history"
 }

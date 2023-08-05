@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/game.103364/download?version=460738",
-    "numberOfDownloads": 16,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657806480,
-    "sourceUrl": "https://www.spigotmc.org/resources/game.103364/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/game.103364/download?version=460738",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657806480,
+  "sourceUrl": "https://www.spigotmc.org/resources/game.103364/history"
 }

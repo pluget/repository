@@ -1,12 +1,9 @@
 {
   "name": "0.0.5",
-  "version": {
-    "name": "0.0.5",
-    "downloadUrl": "resources/particleprojectileapi.48721/download?version=192907",
-    "numberOfDownloads": 39,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1510164000,
-    "sourceUrl": "https://www.spigotmc.org/resources/particleprojectileapi.48721/history"
-  }
+  "downloadUrl": "resources/particleprojectileapi.48721/download?version=192907",
+  "numberOfDownloads": 39,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1510164000,
+  "sourceUrl": "https://www.spigotmc.org/resources/particleprojectileapi.48721/history"
 }

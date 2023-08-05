@@ -1,12 +1,9 @@
 {
   "name": "1.18.1",
-  "version": {
-    "name": "1.18.1",
-    "downloadUrl": "resources/petal-support-dropped.100464/download?version=443631",
-    "numberOfDownloads": 41,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646405520,
-    "sourceUrl": "https://www.spigotmc.org/resources/petal-support-dropped.100464/history"
-  }
+  "downloadUrl": "resources/petal-support-dropped.100464/download?version=443631",
+  "numberOfDownloads": 41,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646405520,
+  "sourceUrl": "https://www.spigotmc.org/resources/petal-support-dropped.100464/history"
 }

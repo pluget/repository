@@ -1,12 +1,9 @@
 {
   "name": "2.16.2",
-  "version": {
-    "name": "2.16.2",
-    "downloadUrl": "resources/simpleclans.71242/download?version=442898",
-    "numberOfDownloads": 5,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1645959720,
-    "sourceUrl": "https://www.spigotmc.org/resources/simpleclans.71242/history"
-  }
+  "downloadUrl": "resources/simpleclans.71242/download?version=442898",
+  "numberOfDownloads": 5,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1645959720,
+  "sourceUrl": "https://www.spigotmc.org/resources/simpleclans.71242/history"
 }

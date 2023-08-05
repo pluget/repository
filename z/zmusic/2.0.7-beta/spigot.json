@@ -1,12 +1,9 @@
 {
   "name": "2.0.7-beta",
-  "version": {
-    "name": "2.0.7-beta",
-    "downloadUrl": "resources/zmusic-1-19-ready-powerful-music-system.83027/download?version=406538",
-    "numberOfDownloads": 35,
-    "rating": 2,
-    "numberOfVotes": 1,
-    "releaseDate": 1625110440,
-    "sourceUrl": "https://www.spigotmc.org/resources/zmusic-1-19-ready-powerful-music-system.83027/history"
-  }
+  "downloadUrl": "resources/zmusic-1-19-ready-powerful-music-system.83027/download?version=406538",
+  "numberOfDownloads": 35,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releaseDate": 1625110440,
+  "sourceUrl": "https://www.spigotmc.org/resources/zmusic-1-19-ready-powerful-music-system.83027/history"
 }

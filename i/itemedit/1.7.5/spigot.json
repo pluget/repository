@@ -1,12 +1,9 @@
 {
   "name": "1.7.5",
-  "version": {
-    "name": "1.7.5",
-    "downloadUrl": "resources/itemedit-1-8-x-1-19-x.40993/download?version=307970",
-    "numberOfDownloads": 1,
-    "rating": 9.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1577980740,
-    "sourceUrl": "https://www.spigotmc.org/resources/40993/history/"
-  }
+  "downloadUrl": "resources/itemedit-1-8-x-1-19-x.40993/download?version=307970",
+  "numberOfDownloads": 1,
+  "rating": 9.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1577980740,
+  "sourceUrl": "https://www.spigotmc.org/resources/40993/history/"
 }

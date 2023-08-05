@@ -1,12 +1,9 @@
 {
   "name": "0.14.5",
-  "version": {
-    "name": "0.14.5",
-    "downloadUrl": "resources/themis-anti-cheat-1-17-1-18-1-19-bedrock-support-paper-compatibility-free-optimized.90766/download?version=481700",
-    "numberOfDownloads": 1,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1673344980,
-    "sourceUrl": "https://www.spigotmc.org/resources/90766/history/"
-  }
+  "downloadUrl": "resources/themis-anti-cheat-1-17-1-18-1-19-bedrock-support-paper-compatibility-free-optimized.90766/download?version=481700",
+  "numberOfDownloads": 1,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1673344980,
+  "sourceUrl": "https://www.spigotmc.org/resources/90766/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.3.8-(1.14.3)",
-  "version": {
-    "name": "1.3.8-(1.14.3)",
-    "downloadUrl": "resources/civs.67350/download?version=282286",
-    "numberOfDownloads": 119,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1562338140,
-    "sourceUrl": "https://www.spigotmc.org/resources/civs.67350/history"
-  }
+  "downloadUrl": "resources/civs.67350/download?version=282286",
+  "numberOfDownloads": 119,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1562338140,
+  "sourceUrl": "https://www.spigotmc.org/resources/civs.67350/history"
 }

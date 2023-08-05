@@ -1,12 +1,9 @@
 {
-  "name": "1.83.0-b",
-  "version": {
-    "name": "1.83b",
-    "downloadUrl": "resources/enchantments.86901/download?version=375026",
-    "numberOfDownloads": 46,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1609518180,
-    "sourceUrl": "https://www.spigotmc.org/resources/enchantments.86901/history"
-  }
+  "name": "1.83b",
+  "downloadUrl": "resources/enchantments.86901/download?version=375026",
+  "numberOfDownloads": 46,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1609518180,
+  "sourceUrl": "https://www.spigotmc.org/resources/enchantments.86901/history"
 }

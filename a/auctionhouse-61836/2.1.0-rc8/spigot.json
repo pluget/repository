@@ -1,12 +1,9 @@
 {
-  "name": "2.1.0-rc8",
-  "version": {
-    "name": "2.1-rc8",
-    "downloadUrl": "resources/auctionhouse.61836/download?version=351609",
-    "numberOfDownloads": 2,
-    "rating": 8,
-    "numberOfVotes": 4,
-    "releaseDate": 1597740120,
-    "sourceUrl": "https://www.spigotmc.org/resources/61836/history/"
-  }
+  "name": "2.1-rc8",
+  "downloadUrl": "resources/auctionhouse.61836/download?version=351609",
+  "numberOfDownloads": 2,
+  "rating": 8,
+  "numberOfVotes": 4,
+  "releaseDate": 1597740120,
+  "sourceUrl": "https://www.spigotmc.org/resources/61836/history/"
 }

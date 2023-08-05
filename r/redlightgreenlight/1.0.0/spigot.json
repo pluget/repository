@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/redlight-greenlight-1-19-3-support.96866/download?version=423144",
-    "numberOfDownloads": 40,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1634299560,
-    "sourceUrl": "https://www.spigotmc.org/resources/redlight-greenlight-1-19-3-support.96866/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/redlight-greenlight-1-19-3-support.96866/download?version=423144",
+  "numberOfDownloads": 40,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1634299560,
+  "sourceUrl": "https://www.spigotmc.org/resources/redlight-greenlight-1-19-3-support.96866/history"
 }

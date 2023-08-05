@@ -1,12 +1,9 @@
 {
   "name": "2.3.2",
-  "version": {
-    "name": "2.3.2",
-    "downloadUrl": "resources/mp-auto-pickup.80867/download?version=462062",
-    "numberOfDownloads": 788,
-    "rating": 6,
-    "numberOfVotes": 1,
-    "releaseDate": 1658627100,
-    "sourceUrl": "https://www.spigotmc.org/resources/mp-auto-pickup.80867/history"
-  }
+  "downloadUrl": "resources/mp-auto-pickup.80867/download?version=462062",
+  "numberOfDownloads": 788,
+  "rating": 6,
+  "numberOfVotes": 1,
+  "releaseDate": 1658627100,
+  "sourceUrl": "https://www.spigotmc.org/resources/mp-auto-pickup.80867/history"
 }

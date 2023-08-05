@@ -1,12 +1,9 @@
 {
-  "name": "1.9.0-]",
-  "version": {
-    "name": "[1.9]",
-    "downloadUrl": "resources/totemfactions.45986/download?version=249044",
-    "numberOfDownloads": 252,
-    "rating": 9,
-    "numberOfVotes": 4,
-    "releaseDate": 1542575040,
-    "sourceUrl": "https://www.spigotmc.org/resources/totemfactions.45986/history"
-  }
+  "name": "[1.9]",
+  "downloadUrl": "resources/totemfactions.45986/download?version=249044",
+  "numberOfDownloads": 252,
+  "rating": 9,
+  "numberOfVotes": 4,
+  "releaseDate": 1542575040,
+  "sourceUrl": "https://www.spigotmc.org/resources/totemfactions.45986/history"
 }

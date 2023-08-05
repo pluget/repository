@@ -1,12 +1,9 @@
 {
   "name": "1.18.5",
-  "version": {
-    "name": "1.18.5",
-    "downloadUrl": "resources/savagedeathchest.6633/download?version=437013",
-    "numberOfDownloads": 234,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1642374780,
-    "sourceUrl": "https://www.spigotmc.org/resources/savagedeathchest.6633/history"
-  }
+  "downloadUrl": "resources/savagedeathchest.6633/download?version=437013",
+  "numberOfDownloads": 234,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1642374780,
+  "sourceUrl": "https://www.spigotmc.org/resources/savagedeathchest.6633/history"
 }

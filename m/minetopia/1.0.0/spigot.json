@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "V1.0",
-    "downloadUrl": "resources/minetopia-egg.107514/download?version=482933",
-    "numberOfDownloads": 39,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1674298620,
-    "sourceUrl": "https://www.spigotmc.org/resources/minetopia-egg.107514/history"
-  }
+  "name": "V1.0",
+  "downloadUrl": "resources/minetopia-egg.107514/download?version=482933",
+  "numberOfDownloads": 39,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1674298620,
+  "sourceUrl": "https://www.spigotmc.org/resources/minetopia-egg.107514/history"
 }

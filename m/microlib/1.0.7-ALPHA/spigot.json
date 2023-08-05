@@ -1,12 +1,9 @@
 {
   "name": "1.0.7-ALPHA",
-  "version": {
-    "name": "1.0.7-ALPHA",
-    "downloadUrl": "resources/microlib.84017/download?version=357797",
-    "numberOfDownloads": 73,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1600519500,
-    "sourceUrl": "https://www.spigotmc.org/resources/microlib.84017/history"
-  }
+  "downloadUrl": "resources/microlib.84017/download?version=357797",
+  "numberOfDownloads": 73,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1600519500,
+  "sourceUrl": "https://www.spigotmc.org/resources/microlib.84017/history"
 }

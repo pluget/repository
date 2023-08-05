@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/expensivedeaths.96065/download?version=487770",
-    "numberOfDownloads": 50,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1677806220,
-    "sourceUrl": "https://www.spigotmc.org/resources/expensivedeaths.96065/history"
-  }
+  "downloadUrl": "resources/expensivedeaths.96065/download?version=487770",
+  "numberOfDownloads": 50,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1677806220,
+  "sourceUrl": "https://www.spigotmc.org/resources/expensivedeaths.96065/history"
 }

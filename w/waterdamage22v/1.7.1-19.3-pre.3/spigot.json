@@ -1,12 +1,9 @@
 {
-  "name": "1.7.1-19.3-pre.3",
-  "version": {
-    "name": "1.7-1.19.3",
-    "downloadUrl": "resources/waterdamage-2-3v.107878/download?version=485685",
-    "numberOfDownloads": 9,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1676222400,
-    "sourceUrl": "https://www.spigotmc.org/resources/waterdamage-2-3v.107878/history"
-  }
+  "name": "1.7-1.19.3",
+  "downloadUrl": "resources/waterdamage-2-3v.107878/download?version=485685",
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1676222400,
+  "sourceUrl": "https://www.spigotmc.org/resources/waterdamage-2-3v.107878/history"
 }

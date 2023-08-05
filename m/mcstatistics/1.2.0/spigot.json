@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/mcstatistics.91926/download?version=420099",
-    "numberOfDownloads": 575,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1632059700,
-    "sourceUrl": "https://www.spigotmc.org/resources/mcstatistics.91926/history"
-  }
+  "downloadUrl": "resources/mcstatistics.91926/download?version=420099",
+  "numberOfDownloads": 575,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1632059700,
+  "sourceUrl": "https://www.spigotmc.org/resources/mcstatistics.91926/history"
 }

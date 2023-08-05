@@ -1,12 +1,9 @@
 {
   "name": "4.0.0",
-  "version": {
-    "name": "4.0.0",
-    "downloadUrl": "resources/skychanger.37524/download?version=339505",
-    "numberOfDownloads": 338,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1593105660,
-    "sourceUrl": "https://www.spigotmc.org/resources/skychanger.37524/history"
-  }
+  "downloadUrl": "resources/skychanger.37524/download?version=339505",
+  "numberOfDownloads": 338,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1593105660,
+  "sourceUrl": "https://www.spigotmc.org/resources/skychanger.37524/history"
 }

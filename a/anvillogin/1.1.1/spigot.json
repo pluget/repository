@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/anvillogin.31861/download?version=384654",
-    "numberOfDownloads": 8,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1613837520,
-    "sourceUrl": "https://www.spigotmc.org/resources/anvillogin.31861/history"
-  }
+  "downloadUrl": "resources/anvillogin.31861/download?version=384654",
+  "numberOfDownloads": 8,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1613837520,
+  "sourceUrl": "https://www.spigotmc.org/resources/anvillogin.31861/history"
 }

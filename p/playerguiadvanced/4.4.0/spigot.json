@@ -1,12 +1,9 @@
 {
-  "name": "4.4.0",
-  "version": {
-    "name": "4.4",
-    "downloadUrl": "resources/playerguiadvanced-1-19-4-support.74596/download?version=364036",
-    "numberOfDownloads": 128,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1603919400,
-    "sourceUrl": "https://www.spigotmc.org/resources/playerguiadvanced-1-19-4-support.74596/history"
-  }
+  "name": "4.4",
+  "downloadUrl": "resources/playerguiadvanced-1-19-4-support.74596/download?version=364036",
+  "numberOfDownloads": 128,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1603919400,
+  "sourceUrl": "https://www.spigotmc.org/resources/playerguiadvanced-1-19-4-support.74596/history"
 }

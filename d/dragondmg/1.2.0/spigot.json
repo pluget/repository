@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/dragon-dmg.99041/download?version=436739",
-    "numberOfDownloads": 92,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1642257960,
-    "sourceUrl": "https://www.spigotmc.org/resources/dragon-dmg.99041/history"
-  }
+  "downloadUrl": "resources/dragon-dmg.99041/download?version=436739",
+  "numberOfDownloads": 92,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1642257960,
+  "sourceUrl": "https://www.spigotmc.org/resources/dragon-dmg.99041/history"
 }

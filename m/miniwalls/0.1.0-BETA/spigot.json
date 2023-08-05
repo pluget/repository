@@ -1,12 +1,9 @@
 {
-  "name": "0.1.0-BETA",
-  "version": {
-    "name": "0.1BETA",
-    "downloadUrl": "resources/miniwalls.104675/download?version=466388",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1661011860,
-    "sourceUrl": "https://www.spigotmc.org/resources/104675/history/"
-  }
+  "name": "0.1BETA",
+  "downloadUrl": "resources/miniwalls.104675/download?version=466388",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1661011860,
+  "sourceUrl": "https://www.spigotmc.org/resources/104675/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.1.13",
-  "version": {
-    "name": "1.1.13",
-    "downloadUrl": "resources/timed-rewards.34008/download?version=407564",
-    "numberOfDownloads": 272,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1625587680,
-    "sourceUrl": "https://www.spigotmc.org/resources/timed-rewards.34008/history"
-  }
+  "downloadUrl": "resources/timed-rewards.34008/download?version=407564",
+  "numberOfDownloads": 272,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1625587680,
+  "sourceUrl": "https://www.spigotmc.org/resources/timed-rewards.34008/history"
 }

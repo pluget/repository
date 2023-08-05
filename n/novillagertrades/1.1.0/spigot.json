@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/novillagertrades.103247/download?version=460113",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657440720,
-    "sourceUrl": "https://www.spigotmc.org/resources/novillagertrades.103247/history"
-  }
+  "downloadUrl": "resources/novillagertrades.103247/download?version=460113",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657440720,
+  "sourceUrl": "https://www.spigotmc.org/resources/novillagertrades.103247/history"
 }

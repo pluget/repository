@@ -1,12 +1,9 @@
 {
   "name": "1.0.0-1.18.2-Fabric",
-  "version": {
-    "name": "1.0.0-1.18.2-Fabric",
-    "downloadUrl": "resources/discord-statusbot.91444/download?version=449830",
-    "numberOfDownloads": 46,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1650638700,
-    "sourceUrl": "https://www.spigotmc.org/resources/discord-statusbot.91444/history"
-  }
+  "downloadUrl": "resources/discord-statusbot.91444/download?version=449830",
+  "numberOfDownloads": 46,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1650638700,
+  "sourceUrl": "https://www.spigotmc.org/resources/discord-statusbot.91444/history"
 }

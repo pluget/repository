@@ -1,12 +1,9 @@
 {
   "name": "5.10.2",
-  "version": {
-    "name": "5.10.2",
-    "downloadUrl": "resources/jsonapi-reloaded.69447/download?version=306548",
-    "numberOfDownloads": 153,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1577189760,
-    "sourceUrl": "https://www.spigotmc.org/resources/jsonapi-reloaded.69447/history"
-  }
+  "downloadUrl": "resources/jsonapi-reloaded.69447/download?version=306548",
+  "numberOfDownloads": 153,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1577189760,
+  "sourceUrl": "https://www.spigotmc.org/resources/jsonapi-reloaded.69447/history"
 }

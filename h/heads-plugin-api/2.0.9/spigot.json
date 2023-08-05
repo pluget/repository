@@ -1,12 +1,9 @@
 {
   "name": "2.0.9",
-  "version": {
-    "name": "2.0.9",
-    "downloadUrl": "resources/heads-plugin-api-3-1-17-1-19.19672/download?version=354480",
-    "numberOfDownloads": 1,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1598979720,
-    "sourceUrl": "https://www.spigotmc.org/resources/heads-plugin-api-3-1-17-1-19.19672/history"
-  }
+  "downloadUrl": "resources/heads-plugin-api-3-1-17-1-19.19672/download?version=354480",
+  "numberOfDownloads": 1,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1598979720,
+  "sourceUrl": "https://www.spigotmc.org/resources/heads-plugin-api-3-1-17-1-19.19672/history"
 }

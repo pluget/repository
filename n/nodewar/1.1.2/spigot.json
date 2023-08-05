@@ -1,12 +1,9 @@
 {
   "name": "1.1.2",
-  "version": {
-    "name": "1.1.2",
-    "downloadUrl": "resources/nodewar.98373/download?version=435897",
-    "numberOfDownloads": 8,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1641760320,
-    "sourceUrl": "https://www.spigotmc.org/resources/98373/history/"
-  }
+  "downloadUrl": "resources/nodewar.98373/download?version=435897",
+  "numberOfDownloads": 8,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1641760320,
+  "sourceUrl": "https://www.spigotmc.org/resources/98373/history/"
 }

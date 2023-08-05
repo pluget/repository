@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/chatinjector-1-13.81201/download?version=342714",
-    "numberOfDownloads": 296,
-    "rating": 6.6666666666666,
-    "numberOfVotes": 6,
-    "releaseDate": 1594165080,
-    "sourceUrl": "https://www.spigotmc.org/resources/chatinjector-1-13.81201/history"
-  }
+  "downloadUrl": "resources/chatinjector-1-13.81201/download?version=342714",
+  "numberOfDownloads": 296,
+  "rating": 6.6666666666666,
+  "numberOfVotes": 6,
+  "releaseDate": 1594165080,
+  "sourceUrl": "https://www.spigotmc.org/resources/chatinjector-1-13.81201/history"
 }

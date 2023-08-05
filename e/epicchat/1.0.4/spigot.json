@@ -1,12 +1,9 @@
 {
   "name": "1.0.4",
-  "version": {
-    "name": "1.0.4",
-    "downloadUrl": "resources/epicchat.96618/download?version=432792",
-    "numberOfDownloads": 63,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1640141580,
-    "sourceUrl": "https://www.spigotmc.org/resources/96618/history/"
-  }
+  "downloadUrl": "resources/epicchat.96618/download?version=432792",
+  "numberOfDownloads": 63,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1640141580,
+  "sourceUrl": "https://www.spigotmc.org/resources/96618/history/"
 }

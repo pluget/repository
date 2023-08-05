@@ -1,12 +1,9 @@
 {
   "name": "2.3.4",
-  "version": {
-    "name": "2.3.4",
-    "downloadUrl": "resources/luckpermsgui.53460/download?version=262005",
-    "numberOfDownloads": 527,
-    "rating": 8,
-    "numberOfVotes": 2,
-    "releaseDate": 1550689020,
-    "sourceUrl": "https://www.spigotmc.org/resources/luckpermsgui.53460/history"
-  }
+  "downloadUrl": "resources/luckpermsgui.53460/download?version=262005",
+  "numberOfDownloads": 527,
+  "rating": 8,
+  "numberOfVotes": 2,
+  "releaseDate": 1550689020,
+  "sourceUrl": "https://www.spigotmc.org/resources/luckpermsgui.53460/history"
 }

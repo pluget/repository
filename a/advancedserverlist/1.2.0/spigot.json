@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/advancedserverlist.102910/download?version=463543",
-    "numberOfDownloads": 28,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1659394380,
-    "sourceUrl": "https://www.spigotmc.org/resources/102910/history/"
-  }
+  "downloadUrl": "resources/advancedserverlist.102910/download?version=463543",
+  "numberOfDownloads": 28,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1659394380,
+  "sourceUrl": "https://www.spigotmc.org/resources/102910/history/"
 }

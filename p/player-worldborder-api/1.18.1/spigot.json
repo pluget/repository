@@ -1,12 +1,9 @@
 {
   "name": "1.18.1",
-  "version": {
-    "name": "1.18.1",
-    "downloadUrl": "resources/player-worldborder-api.67734/download?version=430991",
-    "numberOfDownloads": 389,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1639225620,
-    "sourceUrl": "https://www.spigotmc.org/resources/player-worldborder-api.67734/history"
-  }
+  "downloadUrl": "resources/player-worldborder-api.67734/download?version=430991",
+  "numberOfDownloads": 389,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1639225620,
+  "sourceUrl": "https://www.spigotmc.org/resources/player-worldborder-api.67734/history"
 }

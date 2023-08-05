@@ -1,12 +1,9 @@
 {
   "name": "4.1.9",
-  "version": {
-    "name": "4.1.9",
-    "downloadUrl": "resources/bagofgold.49332/download?version=466337",
-    "numberOfDownloads": 145,
-    "rating": 7.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1660980240,
-    "sourceUrl": "https://www.spigotmc.org/resources/bagofgold.49332/history"
-  }
+  "downloadUrl": "resources/bagofgold.49332/download?version=466337",
+  "numberOfDownloads": 145,
+  "rating": 7.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1660980240,
+  "sourceUrl": "https://www.spigotmc.org/resources/bagofgold.49332/history"
 }

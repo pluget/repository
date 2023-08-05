@@ -1,12 +1,9 @@
 {
   "name": "1.0.3",
-  "version": {
-    "name": "1.0.3",
-    "downloadUrl": "resources/nightclub.94801/download?version=416104",
-    "numberOfDownloads": 32,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1629604260,
-    "sourceUrl": "https://www.spigotmc.org/resources/nightclub.94801/history"
-  }
+  "downloadUrl": "resources/nightclub.94801/download?version=416104",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1629604260,
+  "sourceUrl": "https://www.spigotmc.org/resources/nightclub.94801/history"
 }

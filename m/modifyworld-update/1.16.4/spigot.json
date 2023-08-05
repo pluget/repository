@@ -1,12 +1,9 @@
 {
   "name": "1.16.4",
-  "version": {
-    "name": "1.16.4",
-    "downloadUrl": "resources/modifyworld-update.65347/download?version=334279",
-    "numberOfDownloads": 1,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1590702240,
-    "sourceUrl": "https://www.spigotmc.org/resources/65347/history/"
-  }
+  "downloadUrl": "resources/modifyworld-update.65347/download?version=334279",
+  "numberOfDownloads": 1,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1590702240,
+  "sourceUrl": "https://www.spigotmc.org/resources/65347/history/"
 }

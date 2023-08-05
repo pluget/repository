@@ -1,12 +1,9 @@
 {
-  "name": "0.21.0",
-  "version": {
-    "name": "0.21",
-    "downloadUrl": "resources/choco-fly-1-17-to-1-19-x.95180/download?version=459727",
-    "numberOfDownloads": 17,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657209300,
-    "sourceUrl": "https://www.spigotmc.org/resources/choco-fly-1-17-to-1-19-x.95180/history"
-  }
+  "name": "0.21",
+  "downloadUrl": "resources/choco-fly-1-17-to-1-19-x.95180/download?version=459727",
+  "numberOfDownloads": 17,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657209300,
+  "sourceUrl": "https://www.spigotmc.org/resources/choco-fly-1-17-to-1-19-x.95180/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.8.4",
-  "version": {
-    "name": "1.8.4",
-    "downloadUrl": "resources/advancedcore.28295/download?version=122050",
-    "numberOfDownloads": 98,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1478130840,
-    "sourceUrl": "https://www.spigotmc.org/resources/advancedcore.28295/history"
-  }
+  "downloadUrl": "resources/advancedcore.28295/download?version=122050",
+  "numberOfDownloads": 98,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1478130840,
+  "sourceUrl": "https://www.spigotmc.org/resources/advancedcore.28295/history"
 }

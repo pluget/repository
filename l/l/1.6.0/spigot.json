@@ -1,12 +1,9 @@
 {
   "name": "1.6.0",
-  "version": {
-    "name": "1.6.0",
-    "downloadUrl": "resources/l-clearlag.98464/download?version=450061",
-    "numberOfDownloads": 275,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1650788880,
-    "sourceUrl": "https://www.spigotmc.org/resources/l-clearlag.98464/history"
-  }
+  "downloadUrl": "resources/l-clearlag.98464/download?version=450061",
+  "numberOfDownloads": 275,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1650788880,
+  "sourceUrl": "https://www.spigotmc.org/resources/l-clearlag.98464/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.0.2-alfa-pre.1",
-  "version": {
-    "name": "1.0.2-alfa",
-    "downloadUrl": "resources/welcomeplugin-mc-1-18.99601/download?version=439095",
-    "numberOfDownloads": 12,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1643551500,
-    "sourceUrl": "https://www.spigotmc.org/resources/welcomeplugin-mc-1-18.99601/history"
-  }
+  "name": "1.0.2-alfa",
+  "downloadUrl": "resources/welcomeplugin-mc-1-18.99601/download?version=439095",
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1643551500,
+  "sourceUrl": "https://www.spigotmc.org/resources/welcomeplugin-mc-1-18.99601/history"
 }

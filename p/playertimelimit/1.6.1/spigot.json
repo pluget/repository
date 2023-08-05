@@ -1,12 +1,9 @@
 {
   "name": "1.6.1",
-  "version": {
-    "name": "1.6.1",
-    "downloadUrl": "resources/playertimelimit-1-8-1-19.96577/download?version=455202",
-    "numberOfDownloads": 20,
-    "rating": 10,
-    "numberOfVotes": 14,
-    "releaseDate": 1654694820,
-    "sourceUrl": "https://www.spigotmc.org/resources/playertimelimit-1-8-1-19.96577/history"
-  }
+  "downloadUrl": "resources/playertimelimit-1-8-1-19.96577/download?version=455202",
+  "numberOfDownloads": 20,
+  "rating": 10,
+  "numberOfVotes": 14,
+  "releaseDate": 1654694820,
+  "sourceUrl": "https://www.spigotmc.org/resources/playertimelimit-1-8-1-19.96577/history"
 }

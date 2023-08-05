@@ -1,12 +1,9 @@
 {
   "name": "2.7.1",
-  "version": {
-    "name": "2.7.1",
-    "downloadUrl": "resources/flyblock-1-18-x-1-19-x-highly-configurable.45756/download?version=456431",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655288820,
-    "sourceUrl": "https://www.spigotmc.org/resources/flyblock-1-18-x-1-19-x-highly-configurable.45756/history"
-  }
+  "downloadUrl": "resources/flyblock-1-18-x-1-19-x-highly-configurable.45756/download?version=456431",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655288820,
+  "sourceUrl": "https://www.spigotmc.org/resources/flyblock-1-18-x-1-19-x-highly-configurable.45756/history"
 }

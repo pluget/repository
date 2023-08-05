@@ -1,12 +1,9 @@
 {
-  "name": "1.1.3-pre.1",
-  "version": {
-    "name": "1.1.3",
-    "downloadUrl": "resources/webrush.75646/download?version=479739",
-    "numberOfDownloads": 3,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672050300,
-    "sourceUrl": "https://www.spigotmc.org/resources/webrush.75646/history"
-  }
+  "name": "1.1.3",
+  "downloadUrl": "resources/webrush.75646/download?version=479739",
+  "numberOfDownloads": 3,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672050300,
+  "sourceUrl": "https://www.spigotmc.org/resources/webrush.75646/history"
 }

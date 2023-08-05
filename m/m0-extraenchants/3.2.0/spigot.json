@@ -1,12 +1,9 @@
 {
   "name": "3.2.0",
-  "version": {
-    "name": "3.2.0",
-    "downloadUrl": "resources/m0-extraenchants-1-13-1-19.88737/download?version=478177",
-    "numberOfDownloads": 79,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1670909700,
-    "sourceUrl": "https://www.spigotmc.org/resources/m0-extraenchants-1-13-1-19.88737/history"
-  }
+  "downloadUrl": "resources/m0-extraenchants-1-13-1-19.88737/download?version=478177",
+  "numberOfDownloads": 79,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1670909700,
+  "sourceUrl": "https://www.spigotmc.org/resources/m0-extraenchants-1-13-1-19.88737/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "0.0.6",
-  "version": {
-    "name": "0.0.6",
-    "downloadUrl": "resources/potion-stacker.66168/download?version=444753",
-    "numberOfDownloads": 162,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1647030360,
-    "sourceUrl": "https://www.spigotmc.org/resources/potion-stacker.66168/history"
-  }
+  "downloadUrl": "resources/potion-stacker.66168/download?version=444753",
+  "numberOfDownloads": 162,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1647030360,
+  "sourceUrl": "https://www.spigotmc.org/resources/potion-stacker.66168/history"
 }

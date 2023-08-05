@@ -1,12 +1,9 @@
 {
   "name": "1.6.2",
-  "version": {
-    "name": "1.6.2",
-    "downloadUrl": "resources/grappling-hook.22854/download?version=421014",
-    "numberOfDownloads": 11,
-    "rating": 8,
-    "numberOfVotes": 5,
-    "releaseDate": 1632700560,
-    "sourceUrl": "https://www.spigotmc.org/resources/grappling-hook.22854/history"
-  }
+  "downloadUrl": "resources/grappling-hook.22854/download?version=421014",
+  "numberOfDownloads": 11,
+  "rating": 8,
+  "numberOfVotes": 5,
+  "releaseDate": 1632700560,
+  "sourceUrl": "https://www.spigotmc.org/resources/grappling-hook.22854/history"
 }

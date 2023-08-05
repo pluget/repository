@@ -1,12 +1,9 @@
 {
-  "name": "5.1.9-pre.1",
-  "version": {
-    "name": "5.1.9",
-    "downloadUrl": "resources/dtltraders.35890/download?version=301073",
-    "numberOfDownloads": 371,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1573465500,
-    "sourceUrl": "https://www.spigotmc.org/resources/dtltraders.35890/history"
-  }
+  "name": "5.1.9",
+  "downloadUrl": "resources/dtltraders.35890/download?version=301073",
+  "numberOfDownloads": 371,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1573465500,
+  "sourceUrl": "https://www.spigotmc.org/resources/dtltraders.35890/history"
 }

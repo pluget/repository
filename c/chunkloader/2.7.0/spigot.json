@@ -1,12 +1,9 @@
 {
-  "name": "2.7.0",
-  "version": {
-    "name": "2.7",
-    "downloadUrl": "resources/chunkloader.92834/download?version=421009",
-    "numberOfDownloads": 60,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1632691980,
-    "sourceUrl": "https://www.spigotmc.org/resources/92834/history/"
-  }
+  "name": "2.7",
+  "downloadUrl": "resources/chunkloader.92834/download?version=421009",
+  "numberOfDownloads": 60,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1632691980,
+  "sourceUrl": "https://www.spigotmc.org/resources/92834/history/"
 }

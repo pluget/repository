@@ -1,12 +1,9 @@
 {
   "name": "4.10.0-BETA2",
-  "version": {
-    "name": "4.10.0-BETA2",
-    "downloadUrl": "resources/hungergames.65942/download?version=280988",
-    "numberOfDownloads": 173,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1561594320,
-    "sourceUrl": "https://www.spigotmc.org/resources/hungergames.65942/history"
-  }
+  "downloadUrl": "resources/hungergames.65942/download?version=280988",
+  "numberOfDownloads": 173,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1561594320,
+  "sourceUrl": "https://www.spigotmc.org/resources/hungergames.65942/history"
 }

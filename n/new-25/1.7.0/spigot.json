@@ -1,12 +1,9 @@
 {
-  "name": "1.7.0",
-  "version": {
-    "name": "1.7",
-    "downloadUrl": "resources/the-bridge-1-8-1-19-new-2-5.60170/download?version=254070",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1545833700,
-    "sourceUrl": "https://www.spigotmc.org/resources/60170/history/"
-  }
+  "name": "1.7",
+  "downloadUrl": "resources/the-bridge-1-8-1-19-new-2-5.60170/download?version=254070",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1545833700,
+  "sourceUrl": "https://www.spigotmc.org/resources/60170/history/"
 }

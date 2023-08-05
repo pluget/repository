@@ -1,12 +1,9 @@
 {
   "name": "1.6.2",
-  "version": {
-    "name": "1.6.2",
-    "downloadUrl": "resources/sentinel.22017/download?version=243569",
-    "numberOfDownloads": 2,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1539071580,
-    "sourceUrl": "https://www.spigotmc.org/resources/sentinel.22017/history"
-  }
+  "downloadUrl": "resources/sentinel.22017/download?version=243569",
+  "numberOfDownloads": 2,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1539071580,
+  "sourceUrl": "https://www.spigotmc.org/resources/sentinel.22017/history"
 }

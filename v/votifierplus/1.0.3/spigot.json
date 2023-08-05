@@ -1,12 +1,9 @@
 {
   "name": "1.0.3",
-  "version": {
-    "name": "1.0.3",
-    "downloadUrl": "resources/votifierplus.74040/download?version=384884",
-    "numberOfDownloads": 544,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1613935380,
-    "sourceUrl": "https://www.spigotmc.org/resources/votifierplus.74040/history"
-  }
+  "downloadUrl": "resources/votifierplus.74040/download?version=384884",
+  "numberOfDownloads": 544,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1613935380,
+  "sourceUrl": "https://www.spigotmc.org/resources/votifierplus.74040/history"
 }

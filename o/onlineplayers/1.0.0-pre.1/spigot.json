@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-pre.1",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/onlineplayers.105534/download?version=470952",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1664550840,
-    "sourceUrl": "https://www.spigotmc.org/resources/onlineplayers.105534/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/onlineplayers.105534/download?version=470952",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1664550840,
+  "sourceUrl": "https://www.spigotmc.org/resources/onlineplayers.105534/history"
 }

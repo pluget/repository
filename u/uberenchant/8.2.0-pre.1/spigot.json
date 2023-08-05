@@ -1,12 +1,9 @@
 {
-  "name": "8.2.0-pre.1",
-  "version": {
-    "name": "8.2",
-    "downloadUrl": "resources/uberenchant.19448/download?version=245736",
-    "numberOfDownloads": 977,
-    "rating": 9.25,
-    "numberOfVotes": 8,
-    "releaseDate": 1540482120,
-    "sourceUrl": "https://www.spigotmc.org/resources/19448/history/"
-  }
+  "name": "8.2",
+  "downloadUrl": "resources/uberenchant.19448/download?version=245736",
+  "numberOfDownloads": 977,
+  "rating": 9.25,
+  "numberOfVotes": 8,
+  "releaseDate": 1540482120,
+  "sourceUrl": "https://www.spigotmc.org/resources/19448/history/"
 }

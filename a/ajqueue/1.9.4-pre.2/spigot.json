@@ -1,12 +1,9 @@
 {
-  "name": "1.9.4-pre.2",
-  "version": {
-    "name": "1.9.4",
-    "downloadUrl": "resources/ajqueue.78266/download?version=400317",
-    "numberOfDownloads": 29,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1621975200,
-    "sourceUrl": "https://www.spigotmc.org/resources/ajqueue.78266/history"
-  }
+  "name": "1.9.4",
+  "downloadUrl": "resources/ajqueue.78266/download?version=400317",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1621975200,
+  "sourceUrl": "https://www.spigotmc.org/resources/ajqueue.78266/history"
 }

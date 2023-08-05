@@ -1,12 +1,9 @@
 {
   "name": "1.10.0",
-  "version": {
-    "name": "1.10.0",
-    "downloadUrl": "resources/worlds.106196/download?version=492349",
-    "numberOfDownloads": 21,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1680858.264,
-    "sourceUrl": "https://www.spigotmc.org/resources/worlds.106196/history"
-  }
+  "downloadUrl": "resources/worlds.106196/download?version=492349",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1680858.264,
+  "sourceUrl": "https://www.spigotmc.org/resources/worlds.106196/history"
 }

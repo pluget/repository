@@ -1,12 +1,9 @@
 {
   "name": "1.3.17",
-  "version": {
-    "name": "1.3.17",
-    "downloadUrl": "resources/customoregen.9532/download?version=288461",
-    "numberOfDownloads": 3,
-    "rating": 6.75,
-    "numberOfVotes": 8,
-    "releaseDate": 1565398560,
-    "sourceUrl": "https://www.spigotmc.org/resources/customoregen.9532/history"
-  }
+  "downloadUrl": "resources/customoregen.9532/download?version=288461",
+  "numberOfDownloads": 3,
+  "rating": 6.75,
+  "numberOfVotes": 8,
+  "releaseDate": 1565398560,
+  "sourceUrl": "https://www.spigotmc.org/resources/customoregen.9532/history"
 }

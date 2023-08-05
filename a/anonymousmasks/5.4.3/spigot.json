@@ -1,12 +1,9 @@
 {
   "name": "5.4.3",
-  "version": {
-    "name": "5.4.3",
-    "downloadUrl": "resources/anonymousmasks.89836/download?version=444611",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1646942160,
-    "sourceUrl": "https://www.spigotmc.org/resources/89836/history/"
-  }
+  "downloadUrl": "resources/anonymousmasks.89836/download?version=444611",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1646942160,
+  "sourceUrl": "https://www.spigotmc.org/resources/89836/history/"
 }

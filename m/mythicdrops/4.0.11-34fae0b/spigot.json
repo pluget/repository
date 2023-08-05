@@ -1,12 +1,9 @@
 {
   "name": "4.0.11-34fae0b",
-  "version": {
-    "name": "4.0.11-34fae0b",
-    "downloadUrl": "resources/mythicdrops.6114/download?version=101516",
-    "numberOfDownloads": 736,
-    "rating": 10,
-    "numberOfVotes": 5,
-    "releaseDate": 1467940800,
-    "sourceUrl": "https://www.spigotmc.org/resources/mythicdrops.6114/history"
-  }
+  "downloadUrl": "resources/mythicdrops.6114/download?version=101516",
+  "numberOfDownloads": 736,
+  "rating": 10,
+  "numberOfVotes": 5,
+  "releaseDate": 1467940800,
+  "sourceUrl": "https://www.spigotmc.org/resources/mythicdrops.6114/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0-dev",
-  "version": {
-    "name": "2.0-dev",
-    "downloadUrl": "resources/furniturelibary-protectionlib.9368/download?version=231766",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1532563200,
-    "sourceUrl": "https://www.spigotmc.org/resources/furniturelibary-protectionlib.9368/history"
-  }
+  "name": "2.0-dev",
+  "downloadUrl": "resources/furniturelibary-protectionlib.9368/download?version=231766",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1532563200,
+  "sourceUrl": "https://www.spigotmc.org/resources/furniturelibary-protectionlib.9368/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-GA",
-  "version": {
-    "name": "1.0-GA",
-    "downloadUrl": "resources/badboys-chat-formatter.106510/download?version=476908",
-    "numberOfDownloads": 11,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1669790100,
-    "sourceUrl": "https://www.spigotmc.org/resources/106510/history/"
-  }
+  "name": "1.0-GA",
+  "downloadUrl": "resources/badboys-chat-formatter.106510/download?version=476908",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1669790100,
+  "sourceUrl": "https://www.spigotmc.org/resources/106510/history/"
 }

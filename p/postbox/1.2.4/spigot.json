@@ -1,12 +1,9 @@
 {
   "name": "1.2.4",
-  "version": {
-    "name": "1.2.4",
-    "downloadUrl": "resources/postbox.101309/download?version=473396",
-    "numberOfDownloads": 39,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1666729800,
-    "sourceUrl": "https://www.spigotmc.org/resources/postbox.101309/history"
-  }
+  "downloadUrl": "resources/postbox.101309/download?version=473396",
+  "numberOfDownloads": 39,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1666729800,
+  "sourceUrl": "https://www.spigotmc.org/resources/postbox.101309/history"
 }

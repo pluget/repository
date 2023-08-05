@@ -1,12 +1,9 @@
 {
   "name": "2.19.1",
-  "version": {
-    "name": "2.19.1",
-    "downloadUrl": "resources/venturechat.771/download?version=340462",
-    "numberOfDownloads": 1,
-    "rating": 9,
-    "numberOfVotes": 4,
-    "releaseDate": 1593379740,
-    "sourceUrl": "https://www.spigotmc.org/resources/venturechat.771/history"
-  }
+  "downloadUrl": "resources/venturechat.771/download?version=340462",
+  "numberOfDownloads": 1,
+  "rating": 9,
+  "numberOfVotes": 4,
+  "releaseDate": 1593379740,
+  "sourceUrl": "https://www.spigotmc.org/resources/venturechat.771/history"
 }

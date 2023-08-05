@@ -1,12 +1,9 @@
 {
-  "name": "4.244.0",
-  "version": {
-    "name": "4.244",
-    "downloadUrl": "resources/landlord-4.44398/download?version=281617",
-    "numberOfDownloads": 1,
-    "rating": 9.4285714285714,
-    "numberOfVotes": 7,
-    "releaseDate": 1561961940,
-    "sourceUrl": "https://www.spigotmc.org/resources/44398/history/"
-  }
+  "name": "4.244",
+  "downloadUrl": "resources/landlord-4.44398/download?version=281617",
+  "numberOfDownloads": 1,
+  "rating": 9.4285714285714,
+  "numberOfVotes": 7,
+  "releaseDate": 1561961940,
+  "sourceUrl": "https://www.spigotmc.org/resources/44398/history/"
 }

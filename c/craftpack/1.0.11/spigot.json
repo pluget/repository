@@ -1,12 +1,9 @@
 {
   "name": "1.0.11",
-  "version": {
-    "name": "1.0.11",
-    "downloadUrl": "resources/craftpack.102983/download?version=458871",
-    "numberOfDownloads": 55,
-    "rating": 6,
-    "numberOfVotes": 1,
-    "releaseDate": 1656710460,
-    "sourceUrl": "https://www.spigotmc.org/resources/craftpack.102983/history"
-  }
+  "downloadUrl": "resources/craftpack.102983/download?version=458871",
+  "numberOfDownloads": 55,
+  "rating": 6,
+  "numberOfVotes": 1,
+  "releaseDate": 1656710460,
+  "sourceUrl": "https://www.spigotmc.org/resources/craftpack.102983/history"
 }

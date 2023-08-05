@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/ghoulmode.104895/download?version=467518",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1661726220,
-    "sourceUrl": "https://www.spigotmc.org/resources/104895/history/"
-  }
+  "downloadUrl": "resources/ghoulmode.104895/download?version=467518",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1661726220,
+  "sourceUrl": "https://www.spigotmc.org/resources/104895/history/"
 }

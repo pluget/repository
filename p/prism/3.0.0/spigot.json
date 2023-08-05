@@ -1,12 +1,9 @@
 {
   "name": "3.0.0",
-  "version": {
-    "name": "3.0.0",
-    "downloadUrl": "resources/prism.99397/download?version=437857",
-    "numberOfDownloads": 41,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1642863900,
-    "sourceUrl": "https://www.spigotmc.org/resources/99397/history/"
-  }
+  "downloadUrl": "resources/prism.99397/download?version=437857",
+  "numberOfDownloads": 41,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1642863900,
+  "sourceUrl": "https://www.spigotmc.org/resources/99397/history/"
 }

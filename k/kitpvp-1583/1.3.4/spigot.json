@@ -1,12 +1,9 @@
 {
   "name": "1.3.4",
-  "version": {
-    "name": "1.3.4",
-    "downloadUrl": "resources/kitpvp-ffa-1vs1.1583/download?version=11345",
-    "numberOfDownloads": 338,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1421863800,
-    "sourceUrl": "https://www.spigotmc.org/resources/kitpvp-ffa-1vs1.1583/history"
-  }
+  "downloadUrl": "resources/kitpvp-ffa-1vs1.1583/download?version=11345",
+  "numberOfDownloads": 338,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1421863800,
+  "sourceUrl": "https://www.spigotmc.org/resources/kitpvp-ffa-1vs1.1583/history"
 }

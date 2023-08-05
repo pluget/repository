@@ -1,12 +1,9 @@
 {
-  "name": "4.5.0",
-  "version": {
-    "name": "v4.5",
-    "downloadUrl": "resources/itemjoin.12661/download?version=185550",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 11,
-    "releaseDate": 1505845800,
-    "sourceUrl": "https://www.spigotmc.org/resources/itemjoin.12661/history"
-  }
+  "name": "v4.5",
+  "downloadUrl": "resources/itemjoin.12661/download?version=185550",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 11,
+  "releaseDate": 1505845800,
+  "sourceUrl": "https://www.spigotmc.org/resources/itemjoin.12661/history"
 }

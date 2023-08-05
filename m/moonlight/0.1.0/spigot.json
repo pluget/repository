@@ -1,12 +1,9 @@
 {
-  "name": "0.1.0",
-  "version": {
-    "name": "BETA 0.1",
-    "downloadUrl": "resources/moonlight-essentials-plugin.103731/download?version=462593",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1658904540,
-    "sourceUrl": "https://www.spigotmc.org/resources/moonlight-essentials-plugin.103731/history"
-  }
+  "name": "BETA 0.1",
+  "downloadUrl": "resources/moonlight-essentials-plugin.103731/download?version=462593",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1658904540,
+  "sourceUrl": "https://www.spigotmc.org/resources/moonlight-essentials-plugin.103731/history"
 }

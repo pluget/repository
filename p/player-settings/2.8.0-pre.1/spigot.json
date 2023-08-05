@@ -1,12 +1,9 @@
 {
-  "name": "2.8.0-pre.1",
-  "version": {
-    "name": "2.8",
-    "downloadUrl": "resources/player-settings.14622/download?version=80430",
-    "numberOfDownloads": 114,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1459803360,
-    "sourceUrl": "https://www.spigotmc.org/resources/player-settings.14622/history"
-  }
+  "name": "2.8",
+  "downloadUrl": "resources/player-settings.14622/download?version=80430",
+  "numberOfDownloads": 114,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1459803360,
+  "sourceUrl": "https://www.spigotmc.org/resources/player-settings.14622/history"
 }

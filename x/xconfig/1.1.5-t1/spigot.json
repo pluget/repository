@@ -1,12 +1,9 @@
 {
   "name": "1.1.5-t1",
-  "version": {
-    "name": "1.1.5-t1",
-    "downloadUrl": "resources/xconfig.105977/download?version=485383",
-    "numberOfDownloads": 14,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1675994220,
-    "sourceUrl": "https://www.spigotmc.org/resources/105977/history/"
-  }
+  "downloadUrl": "resources/xconfig.105977/download?version=485383",
+  "numberOfDownloads": 14,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1675994220,
+  "sourceUrl": "https://www.spigotmc.org/resources/105977/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "3.4.0",
-  "version": {
-    "name": "3.4.0",
-    "downloadUrl": "resources/plothider.20701/download?version=169851",
-    "numberOfDownloads": 1,
-    "rating": 6,
-    "numberOfVotes": 2,
-    "releaseDate": 1499248860,
-    "sourceUrl": "https://www.spigotmc.org/resources/plothider.20701/history"
-  }
+  "downloadUrl": "resources/plothider.20701/download?version=169851",
+  "numberOfDownloads": 1,
+  "rating": 6,
+  "numberOfVotes": 2,
+  "releaseDate": 1499248860,
+  "sourceUrl": "https://www.spigotmc.org/resources/plothider.20701/history"
 }

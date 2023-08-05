@@ -1,12 +1,9 @@
 {
   "name": "1.15.6",
-  "version": {
-    "name": "1.15.6",
-    "downloadUrl": "resources/plots.44573/download?version=409765",
-    "numberOfDownloads": 143,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1626545280,
-    "sourceUrl": "https://www.spigotmc.org/resources/plots.44573/history"
-  }
+  "downloadUrl": "resources/plots.44573/download?version=409765",
+  "numberOfDownloads": 143,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1626545280,
+  "sourceUrl": "https://www.spigotmc.org/resources/plots.44573/history"
 }

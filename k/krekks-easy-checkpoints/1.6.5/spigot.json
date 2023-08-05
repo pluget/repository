@@ -1,12 +1,9 @@
 {
   "name": "1.6.5",
-  "version": {
-    "name": "1.6.5",
-    "downloadUrl": "resources/krekks-easy-checkpoints.103261/download?version=470764",
-    "numberOfDownloads": 15,
-    "rating": 6,
-    "numberOfVotes": 1,
-    "releaseDate": 1664365500,
-    "sourceUrl": "https://www.spigotmc.org/resources/krekks-easy-checkpoints.103261/history"
-  }
+  "downloadUrl": "resources/krekks-easy-checkpoints.103261/download?version=470764",
+  "numberOfDownloads": 15,
+  "rating": 6,
+  "numberOfVotes": 1,
+  "releaseDate": 1664365500,
+  "sourceUrl": "https://www.spigotmc.org/resources/krekks-easy-checkpoints.103261/history"
 }

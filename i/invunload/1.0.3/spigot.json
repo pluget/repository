@@ -1,12 +1,9 @@
 {
   "name": "1.0.3",
-  "version": {
-    "name": "1.0.3",
-    "downloadUrl": "resources/invunload.60095/download?version=237334",
-    "numberOfDownloads": 125,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1535352480,
-    "sourceUrl": "https://www.spigotmc.org/resources/60095/history/"
-  }
+  "downloadUrl": "resources/invunload.60095/download?version=237334",
+  "numberOfDownloads": 125,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1535352480,
+  "sourceUrl": "https://www.spigotmc.org/resources/60095/history/"
 }

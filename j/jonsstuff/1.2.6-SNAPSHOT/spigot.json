@@ -1,12 +1,9 @@
 {
   "name": "1.2.6-SNAPSHOT",
-  "version": {
-    "name": "1.2.6-SNAPSHOT",
-    "downloadUrl": "resources/jonsstuff.101181/download?version=448307",
-    "numberOfDownloads": 9,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1649552520,
-    "sourceUrl": "https://www.spigotmc.org/resources/jonsstuff.101181/history"
-  }
+  "downloadUrl": "resources/jonsstuff.101181/download?version=448307",
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1649552520,
+  "sourceUrl": "https://www.spigotmc.org/resources/jonsstuff.101181/history"
 }

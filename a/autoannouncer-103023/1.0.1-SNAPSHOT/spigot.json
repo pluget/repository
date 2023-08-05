@@ -1,12 +1,9 @@
 {
   "name": "1.0.1-SNAPSHOT",
-  "version": {
-    "name": "1.0.1-SNAPSHOT",
-    "downloadUrl": "resources/autoannouncer.103023/download?version=459027",
-    "numberOfDownloads": 41,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1656800460,
-    "sourceUrl": "https://www.spigotmc.org/resources/autoannouncer.103023/history"
-  }
+  "downloadUrl": "resources/autoannouncer.103023/download?version=459027",
+  "numberOfDownloads": 41,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1656800460,
+  "sourceUrl": "https://www.spigotmc.org/resources/autoannouncer.103023/history"
 }

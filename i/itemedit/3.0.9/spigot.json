@@ -1,12 +1,9 @@
 {
   "name": "3.0.9",
-  "version": {
-    "name": "3.0.9",
-    "downloadUrl": "resources/itemedit-1-8-x-1-19-x.40993/download?version=488489",
-    "numberOfDownloads": 15,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1678363680,
-    "sourceUrl": "https://www.spigotmc.org/resources/40993/history/"
-  }
+  "downloadUrl": "resources/itemedit-1-8-x-1-19-x.40993/download?version=488489",
+  "numberOfDownloads": 15,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1678363680,
+  "sourceUrl": "https://www.spigotmc.org/resources/40993/history/"
 }

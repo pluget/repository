@@ -1,12 +1,9 @@
 {
   "name": "1.4.7-Legacy",
-  "version": {
-    "name": "1.4.7-Legacy",
-    "downloadUrl": "resources/townyflight.50360/download?version=286394",
-    "numberOfDownloads": 175,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1564400340,
-    "sourceUrl": "https://www.spigotmc.org/resources/townyflight.50360/history"
-  }
+  "downloadUrl": "resources/townyflight.50360/download?version=286394",
+  "numberOfDownloads": 175,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1564400340,
+  "sourceUrl": "https://www.spigotmc.org/resources/townyflight.50360/history"
 }

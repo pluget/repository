@@ -1,12 +1,9 @@
 {
   "name": "2.1.1-1",
-  "version": {
-    "name": "2.1.1-1",
-    "downloadUrl": "resources/better-messages-customisable-messages-1-7-1-19-papi-support-hex-colours.82830/download?version=391202",
-    "numberOfDownloads": 152,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1617053280,
-    "sourceUrl": "https://www.spigotmc.org/resources/82830/history/"
-  }
+  "downloadUrl": "resources/better-messages-customisable-messages-1-7-1-19-papi-support-hex-colours.82830/download?version=391202",
+  "numberOfDownloads": 152,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1617053280,
+  "sourceUrl": "https://www.spigotmc.org/resources/82830/history/"
 }

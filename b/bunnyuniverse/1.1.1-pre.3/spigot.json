@@ -1,12 +1,9 @@
 {
-  "name": "1.1.1-pre.3",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/bunnyuniverse.101047/download?version=447198",
-    "numberOfDownloads": 5,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1648735800,
-    "sourceUrl": "https://www.spigotmc.org/resources/bunnyuniverse.101047/history"
-  }
+  "name": "1.1.1",
+  "downloadUrl": "resources/bunnyuniverse.101047/download?version=447198",
+  "numberOfDownloads": 5,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1648735800,
+  "sourceUrl": "https://www.spigotmc.org/resources/bunnyuniverse.101047/history"
 }

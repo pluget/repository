@@ -1,12 +1,9 @@
 {
-  "name": "2.3.0",
-  "version": {
-    "name": "2.3",
-    "downloadUrl": "resources/player-settings.14622/download?version=60240",
-    "numberOfDownloads": 163,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1451333700,
-    "sourceUrl": "https://www.spigotmc.org/resources/player-settings.14622/history"
-  }
+  "name": "2.3",
+  "downloadUrl": "resources/player-settings.14622/download?version=60240",
+  "numberOfDownloads": 163,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1451333700,
+  "sourceUrl": "https://www.spigotmc.org/resources/player-settings.14622/history"
 }

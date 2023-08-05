@@ -1,12 +1,9 @@
 {
   "name": "1.9.9",
-  "version": {
-    "name": "1.9.9",
-    "downloadUrl": "resources/bottledexp.2815/download?version=55253",
-    "numberOfDownloads": 417,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1448646480,
-    "sourceUrl": "https://www.spigotmc.org/resources/bottledexp.2815/history"
-  }
+  "downloadUrl": "resources/bottledexp.2815/download?version=55253",
+  "numberOfDownloads": 417,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1448646480,
+  "sourceUrl": "https://www.spigotmc.org/resources/bottledexp.2815/history"
 }

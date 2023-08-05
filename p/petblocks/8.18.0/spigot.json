@@ -1,12 +1,9 @@
 {
   "name": "8.18.0",
-  "version": {
-    "name": "8.18.0",
-    "downloadUrl": "resources/petblocks-mysql-bungeecord-customizeable-gui-1-8-1-19.12056/download?version=335957",
-    "numberOfDownloads": 774,
-    "rating": 6,
-    "numberOfVotes": 2,
-    "releaseDate": 1591527540,
-    "sourceUrl": "https://www.spigotmc.org/resources/petblocks-mysql-bungeecord-customizeable-gui-1-8-1-19.12056/history"
-  }
+  "downloadUrl": "resources/petblocks-mysql-bungeecord-customizeable-gui-1-8-1-19.12056/download?version=335957",
+  "numberOfDownloads": 774,
+  "rating": 6,
+  "numberOfVotes": 2,
+  "releaseDate": 1591527540,
+  "sourceUrl": "https://www.spigotmc.org/resources/petblocks-mysql-bungeecord-customizeable-gui-1-8-1-19.12056/history"
 }

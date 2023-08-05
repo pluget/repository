@@ -1,12 +1,9 @@
 {
   "name": "2.1.0",
-  "version": {
-    "name": "2.1.0",
-    "downloadUrl": "resources/%E2%9C%AFcustom-enchantments-2-1-16-1-19-%E2%9C%AF.89793/download?version=406917",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1625293740,
-    "sourceUrl": "https://www.spigotmc.org/resources/%E2%9C%AFcustom-enchantments-2-1-16-1-19-%E2%9C%AF.89793/history"
-  }
+  "downloadUrl": "resources/%E2%9C%AFcustom-enchantments-2-1-16-1-19-%E2%9C%AF.89793/download?version=406917",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1625293740,
+  "sourceUrl": "https://www.spigotmc.org/resources/%E2%9C%AFcustom-enchantments-2-1-16-1-19-%E2%9C%AF.89793/history"
 }

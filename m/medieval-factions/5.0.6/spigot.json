@@ -1,12 +1,9 @@
 {
   "name": "5.0.6",
-  "version": {
-    "name": "5.0.6",
-    "downloadUrl": "resources/medieval-factions.79941/download?version=478898",
-    "numberOfDownloads": 741,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1671461700,
-    "sourceUrl": "https://www.spigotmc.org/resources/medieval-factions.79941/history"
-  }
+  "downloadUrl": "resources/medieval-factions.79941/download?version=478898",
+  "numberOfDownloads": 741,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1671461700,
+  "sourceUrl": "https://www.spigotmc.org/resources/medieval-factions.79941/history"
 }

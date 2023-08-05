@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/opensourcesectors.104643/download?version=466135",
-    "numberOfDownloads": 67,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660821840,
-    "sourceUrl": "https://www.spigotmc.org/resources/opensourcesectors.104643/history"
-  }
+  "downloadUrl": "resources/opensourcesectors.104643/download?version=466135",
+  "numberOfDownloads": 67,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660821840,
+  "sourceUrl": "https://www.spigotmc.org/resources/opensourcesectors.104643/history"
 }

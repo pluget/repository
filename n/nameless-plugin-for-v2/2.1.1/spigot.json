@@ -1,12 +1,9 @@
 {
   "name": "2.1.1",
-  "version": {
-    "name": "2.1.1",
-    "downloadUrl": "resources/nameless-plugin-for-v2.59032/download?version=423736",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1634673120,
-    "sourceUrl": "https://www.spigotmc.org/resources/nameless-plugin-for-v2.59032/history"
-  }
+  "downloadUrl": "resources/nameless-plugin-for-v2.59032/download?version=423736",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1634673120,
+  "sourceUrl": "https://www.spigotmc.org/resources/nameless-plugin-for-v2.59032/history"
 }

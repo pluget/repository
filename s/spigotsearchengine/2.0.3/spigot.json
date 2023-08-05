@@ -1,12 +1,9 @@
 {
   "name": "2.0.3",
-  "version": {
-    "name": "2.0.3",
-    "downloadUrl": "resources/spigotsearchengine.54108/download?version=240957",
-    "numberOfDownloads": 135,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1537453440,
-    "sourceUrl": "https://www.spigotmc.org/resources/spigotsearchengine.54108/history"
-  }
+  "downloadUrl": "resources/spigotsearchengine.54108/download?version=240957",
+  "numberOfDownloads": 135,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1537453440,
+  "sourceUrl": "https://www.spigotmc.org/resources/spigotsearchengine.54108/history"
 }

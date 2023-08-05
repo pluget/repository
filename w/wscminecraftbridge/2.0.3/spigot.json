@@ -1,12 +1,9 @@
 {
   "name": "2.0.3",
-  "version": {
-    "name": "2.0.3",
-    "downloadUrl": "resources/wsc-minecraft-bridge.100716/download?version=489274",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1678906800,
-    "sourceUrl": "https://www.spigotmc.org/resources/wsc-minecraft-bridge.100716/history"
-  }
+  "downloadUrl": "resources/wsc-minecraft-bridge.100716/download?version=489274",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1678906800,
+  "sourceUrl": "https://www.spigotmc.org/resources/wsc-minecraft-bridge.100716/history"
 }

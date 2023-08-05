@@ -1,12 +1,9 @@
 {
-  "name": "1.3.1",
-  "version": {
-    "name": "ElevatorSigns-V1.3.1",
-    "downloadUrl": "resources/elevator-signs.64108/download?version=307868",
-    "numberOfDownloads": 240,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1577923380,
-    "sourceUrl": "https://www.spigotmc.org/resources/elevator-signs.64108/history"
-  }
+  "name": "ElevatorSigns-V1.3.1",
+  "downloadUrl": "resources/elevator-signs.64108/download?version=307868",
+  "numberOfDownloads": 240,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1577923380,
+  "sourceUrl": "https://www.spigotmc.org/resources/elevator-signs.64108/history"
 }

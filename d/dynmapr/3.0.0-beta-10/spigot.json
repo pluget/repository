@@ -1,12 +1,9 @@
 {
-  "name": "3.0.0-beta-10",
-  "version": {
-    "name": "v3.0-beta-10",
-    "downloadUrl": "resources/dynmap%C2%AE.274/download?version=311170",
-    "numberOfDownloads": 58,
-    "rating": 8.6666666666666,
-    "numberOfVotes": 15,
-    "releaseDate": 1579842120,
-    "sourceUrl": "https://www.spigotmc.org/resources/dynmap%C2%AE.274/history"
-  }
+  "name": "v3.0-beta-10",
+  "downloadUrl": "resources/dynmap%C2%AE.274/download?version=311170",
+  "numberOfDownloads": 58,
+  "rating": 8.6666666666666,
+  "numberOfVotes": 15,
+  "releaseDate": 1579842120,
+  "sourceUrl": "https://www.spigotmc.org/resources/dynmap%C2%AE.274/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.2.2",
-  "version": {
-    "name": "1.2.2",
-    "downloadUrl": "resources/notewrite.56679/download?version=386600",
-    "numberOfDownloads": 75,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1614802500,
-    "sourceUrl": "https://www.spigotmc.org/resources/notewrite.56679/history"
-  }
+  "downloadUrl": "resources/notewrite.56679/download?version=386600",
+  "numberOfDownloads": 75,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1614802500,
+  "sourceUrl": "https://www.spigotmc.org/resources/notewrite.56679/history"
 }

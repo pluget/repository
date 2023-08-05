@@ -1,12 +1,9 @@
 {
-  "name": "0.0.5-a",
-  "version": {
-    "name": "0.0.5a",
-    "downloadUrl": "resources/open-clans.104804/download?version=466954",
-    "numberOfDownloads": 28,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1661357760,
-    "sourceUrl": "https://www.spigotmc.org/resources/open-clans.104804/history"
-  }
+  "name": "0.0.5a",
+  "downloadUrl": "resources/open-clans.104804/download?version=466954",
+  "numberOfDownloads": 28,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1661357760,
+  "sourceUrl": "https://www.spigotmc.org/resources/open-clans.104804/history"
 }

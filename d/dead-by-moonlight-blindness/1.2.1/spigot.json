@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/dead-by-moonlight-blindness.85831/download?version=441659",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1645179060,
-    "sourceUrl": "https://www.spigotmc.org/resources/dead-by-moonlight-blindness.85831/history"
-  }
+  "downloadUrl": "resources/dead-by-moonlight-blindness.85831/download?version=441659",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1645179060,
+  "sourceUrl": "https://www.spigotmc.org/resources/dead-by-moonlight-blindness.85831/history"
 }

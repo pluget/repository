@@ -1,12 +1,9 @@
 {
   "name": "2.20.2",
-  "version": {
-    "name": "2.20.2",
-    "downloadUrl": "resources/advancedcore.28295/download?version=296324",
-    "numberOfDownloads": 168,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1569968700,
-    "sourceUrl": "https://www.spigotmc.org/resources/advancedcore.28295/history"
-  }
+  "downloadUrl": "resources/advancedcore.28295/download?version=296324",
+  "numberOfDownloads": 168,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1569968700,
+  "sourceUrl": "https://www.spigotmc.org/resources/advancedcore.28295/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/small-pets-expansion.101098/download?version=447284",
-    "numberOfDownloads": 70,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1648800420,
-    "sourceUrl": "https://www.spigotmc.org/resources/small-pets-expansion.101098/history"
-  }
+  "downloadUrl": "resources/small-pets-expansion.101098/download?version=447284",
+  "numberOfDownloads": 70,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1648800420,
+  "sourceUrl": "https://www.spigotmc.org/resources/small-pets-expansion.101098/history"
 }

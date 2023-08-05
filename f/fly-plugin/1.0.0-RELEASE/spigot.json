@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-RELEASE",
-  "version": {
-    "name": "1.0-RELEASE",
-    "downloadUrl": "resources/fly-plugin.107160/download?version=480830",
-    "numberOfDownloads": 16,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672756080,
-    "sourceUrl": "https://www.spigotmc.org/resources/107160/history/"
-  }
+  "name": "1.0-RELEASE",
+  "downloadUrl": "resources/fly-plugin.107160/download?version=480830",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672756080,
+  "sourceUrl": "https://www.spigotmc.org/resources/107160/history/"
 }

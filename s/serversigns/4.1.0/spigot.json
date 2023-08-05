@@ -1,12 +1,9 @@
 {
-  "name": "4.1.0",
-  "version": {
-    "name": "4.1",
-    "downloadUrl": "resources/serversigns.10693/download?version=38915",
-    "numberOfDownloads": 188,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1439292000,
-    "sourceUrl": "https://www.spigotmc.org/resources/serversigns.10693/history"
-  }
+  "name": "4.1",
+  "downloadUrl": "resources/serversigns.10693/download?version=38915",
+  "numberOfDownloads": 188,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1439292000,
+  "sourceUrl": "https://www.spigotmc.org/resources/serversigns.10693/history"
 }

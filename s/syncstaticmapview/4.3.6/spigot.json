@@ -1,12 +1,9 @@
 {
   "name": "4.3.6",
-  "version": {
-    "name": "4.3.6",
-    "downloadUrl": "resources/syncstaticmapview.96333/download?version=478132",
-    "numberOfDownloads": 65,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1670871480,
-    "sourceUrl": "https://www.spigotmc.org/resources/syncstaticmapview.96333/history"
-  }
+  "downloadUrl": "resources/syncstaticmapview.96333/download?version=478132",
+  "numberOfDownloads": 65,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1670871480,
+  "sourceUrl": "https://www.spigotmc.org/resources/syncstaticmapview.96333/history"
 }

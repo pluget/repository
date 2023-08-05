@@ -1,12 +1,9 @@
 {
   "name": "1.8.7",
-  "version": {
-    "name": "1.8.7",
-    "downloadUrl": "resources/projectkorra-core.2734/download?version=233913",
-    "numberOfDownloads": 7,
-    "rating": 8.6666666666666,
-    "numberOfVotes": 6,
-    "releaseDate": 1533627900,
-    "sourceUrl": "https://www.spigotmc.org/resources/projectkorra-core.2734/history"
-  }
+  "downloadUrl": "resources/projectkorra-core.2734/download?version=233913",
+  "numberOfDownloads": 7,
+  "rating": 8.6666666666666,
+  "numberOfVotes": 6,
+  "releaseDate": 1533627900,
+  "sourceUrl": "https://www.spigotmc.org/resources/projectkorra-core.2734/history"
 }

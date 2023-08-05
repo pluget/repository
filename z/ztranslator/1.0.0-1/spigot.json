@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-1",
-  "version": {
-    "name": "1.0.0.1",
-    "downloadUrl": "resources/ztranslator.99994/download?version=441641",
-    "numberOfDownloads": 80,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1645169880,
-    "sourceUrl": "https://www.spigotmc.org/resources/99994/history/"
-  }
+  "name": "1.0.0.1",
+  "downloadUrl": "resources/ztranslator.99994/download?version=441641",
+  "numberOfDownloads": 80,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1645169880,
+  "sourceUrl": "https://www.spigotmc.org/resources/99994/history/"
 }

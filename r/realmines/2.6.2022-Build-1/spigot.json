@@ -1,12 +1,9 @@
 {
-  "name": "2.6.2022-Build-1",
-  "version": {
-    "name": "2-6-2022 Build 1",
-    "downloadUrl": "resources/realmines-1-14-to-1-19-3.73707/download?version=454368",
-    "numberOfDownloads": 2,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1654175820,
-    "sourceUrl": "https://www.spigotmc.org/resources/realmines-1-14-to-1-19-3.73707/history"
-  }
+  "name": "2-6-2022 Build 1",
+  "downloadUrl": "resources/realmines-1-14-to-1-19-3.73707/download?version=454368",
+  "numberOfDownloads": 2,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1654175820,
+  "sourceUrl": "https://www.spigotmc.org/resources/realmines-1-14-to-1-19-3.73707/history"
 }

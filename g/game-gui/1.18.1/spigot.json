@@ -1,12 +1,9 @@
 {
   "name": "1.18.1",
-  "version": {
-    "name": "1.18.1",
-    "downloadUrl": "resources/game-gui.101116/download?version=447383",
-    "numberOfDownloads": 22,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1648853640,
-    "sourceUrl": "https://www.spigotmc.org/resources/game-gui.101116/history"
-  }
+  "downloadUrl": "resources/game-gui.101116/download?version=447383",
+  "numberOfDownloads": 22,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1648853640,
+  "sourceUrl": "https://www.spigotmc.org/resources/game-gui.101116/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "3.3.1",
-  "version": {
-    "name": "3.3.1",
-    "downloadUrl": "resources/dynamicshop-3-1-16-5-1-19-4.65603/download?version=442370",
-    "numberOfDownloads": 64,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1645612320,
-    "sourceUrl": "https://www.spigotmc.org/resources/dynamicshop-3-1-16-5-1-19-4.65603/history"
-  }
+  "downloadUrl": "resources/dynamicshop-3-1-16-5-1-19-4.65603/download?version=442370",
+  "numberOfDownloads": 64,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1645612320,
+  "sourceUrl": "https://www.spigotmc.org/resources/dynamicshop-3-1-16-5-1-19-4.65603/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.8.0",
-  "version": {
-    "name": "1.8",
-    "downloadUrl": "resources/messagehider.91661/download?version=414753",
-    "numberOfDownloads": 30,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1628939520,
-    "sourceUrl": "https://www.spigotmc.org/resources/91661/history/"
-  }
+  "name": "1.8",
+  "downloadUrl": "resources/messagehider.91661/download?version=414753",
+  "numberOfDownloads": 30,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1628939520,
+  "sourceUrl": "https://www.spigotmc.org/resources/91661/history/"
 }

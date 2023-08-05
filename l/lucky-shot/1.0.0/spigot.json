@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "(Minecraft 1.16 +) 1.0",
-    "downloadUrl": "resources/lucky-shot-daily-rewards-minigame.100111/download?version=442015",
-    "numberOfDownloads": 60,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1645370460,
-    "sourceUrl": "https://www.spigotmc.org/resources/lucky-shot-daily-rewards-minigame.100111/history"
-  }
+  "name": "(Minecraft 1.16 +) 1.0",
+  "downloadUrl": "resources/lucky-shot-daily-rewards-minigame.100111/download?version=442015",
+  "numberOfDownloads": 60,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1645370460,
+  "sourceUrl": "https://www.spigotmc.org/resources/lucky-shot-daily-rewards-minigame.100111/history"
 }

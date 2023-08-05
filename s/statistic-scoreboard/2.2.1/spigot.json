@@ -1,12 +1,9 @@
 {
   "name": "2.2.1",
-  "version": {
-    "name": "2.2.1",
-    "downloadUrl": "resources/statistic-scoreboard.83528/download?version=435799",
-    "numberOfDownloads": 42,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1641727920,
-    "sourceUrl": "https://www.spigotmc.org/resources/83528/history/"
-  }
+  "downloadUrl": "resources/statistic-scoreboard.83528/download?version=435799",
+  "numberOfDownloads": 42,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1641727920,
+  "sourceUrl": "https://www.spigotmc.org/resources/83528/history/"
 }

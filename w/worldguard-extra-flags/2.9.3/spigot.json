@@ -1,12 +1,9 @@
 {
   "name": "2.9.3",
-  "version": {
-    "name": "2.9.3",
-    "downloadUrl": "resources/worldguard-extra-flags.4823/download?version=115656",
-    "numberOfDownloads": 1,
-    "rating": 9,
-    "numberOfVotes": 4,
-    "releaseDate": 1474539840,
-    "sourceUrl": "https://www.spigotmc.org/resources/4823/history/"
-  }
+  "downloadUrl": "resources/worldguard-extra-flags.4823/download?version=115656",
+  "numberOfDownloads": 1,
+  "rating": 9,
+  "numberOfVotes": 4,
+  "releaseDate": 1474539840,
+  "sourceUrl": "https://www.spigotmc.org/resources/4823/history/"
 }

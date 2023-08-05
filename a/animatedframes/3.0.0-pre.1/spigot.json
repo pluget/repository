@@ -1,12 +1,9 @@
 {
-  "name": "3.0.0-pre.1",
-  "version": {
-    "name": "3.0.0",
-    "downloadUrl": "resources/animatedframes.5583/download?version=71565",
-    "numberOfDownloads": 524,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1456685400,
-    "sourceUrl": "https://www.spigotmc.org/resources/animatedframes.5583/history"
-  }
+  "name": "3.0.0",
+  "downloadUrl": "resources/animatedframes.5583/download?version=71565",
+  "numberOfDownloads": 524,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1456685400,
+  "sourceUrl": "https://www.spigotmc.org/resources/animatedframes.5583/history"
 }

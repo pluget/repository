@@ -1,12 +1,9 @@
 {
   "name": "1.3.0",
-  "version": {
-    "name": "1.3.0",
-    "downloadUrl": "resources/thecore.84131/download?version=386370",
-    "numberOfDownloads": 296,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1614700800,
-    "sourceUrl": "https://www.spigotmc.org/resources/thecore.84131/history"
-  }
+  "downloadUrl": "resources/thecore.84131/download?version=386370",
+  "numberOfDownloads": 296,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1614700800,
+  "sourceUrl": "https://www.spigotmc.org/resources/thecore.84131/history"
 }

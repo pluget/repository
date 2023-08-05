@@ -1,12 +1,9 @@
 {
-  "name": "1.14.0-_1.0.2",
-  "version": {
-    "name": "1.14_1.0.2",
-    "downloadUrl": "resources/no-enderman-grief2.71236/download?version=387634",
-    "numberOfDownloads": 2,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1615327500,
-    "sourceUrl": "https://www.spigotmc.org/resources/no-enderman-grief2.71236/history"
-  }
+  "name": "1.14_1.0.2",
+  "downloadUrl": "resources/no-enderman-grief2.71236/download?version=387634",
+  "numberOfDownloads": 2,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1615327500,
+  "sourceUrl": "https://www.spigotmc.org/resources/no-enderman-grief2.71236/history"
 }

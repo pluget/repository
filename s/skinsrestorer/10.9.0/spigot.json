@@ -1,12 +1,9 @@
 {
-  "name": "10.9.0",
-  "version": {
-    "name": "10.9",
-    "downloadUrl": "resources/skinsrestorer.2124/download?version=72625",
-    "numberOfDownloads": 4,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1457006100,
-    "sourceUrl": "https://www.spigotmc.org/resources/skinsrestorer.2124/history"
-  }
+  "name": "10.9",
+  "downloadUrl": "resources/skinsrestorer.2124/download?version=72625",
+  "numberOfDownloads": 4,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1457006100,
+  "sourceUrl": "https://www.spigotmc.org/resources/skinsrestorer.2124/history"
 }

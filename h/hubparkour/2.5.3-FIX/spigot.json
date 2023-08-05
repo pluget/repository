@@ -1,12 +1,9 @@
 {
   "name": "2.5.3-FIX",
-  "version": {
-    "name": "2.5.3-FIX",
-    "downloadUrl": "resources/hubparkour.47713/download?version=407636",
-    "numberOfDownloads": 256,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1625605380,
-    "sourceUrl": "https://www.spigotmc.org/resources/hubparkour.47713/history"
-  }
+  "downloadUrl": "resources/hubparkour.47713/download?version=407636",
+  "numberOfDownloads": 256,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1625605380,
+  "sourceUrl": "https://www.spigotmc.org/resources/hubparkour.47713/history"
 }

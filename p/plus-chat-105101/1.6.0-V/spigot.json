@@ -1,12 +1,9 @@
 {
-  "name": "1.6.0-V",
-  "version": {
-    "name": "1.6V",
-    "downloadUrl": "resources/plus-chat.105101/download?version=468541",
-    "numberOfDownloads": 19,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1662407460,
-    "sourceUrl": "https://www.spigotmc.org/resources/105101/history/"
-  }
+  "name": "1.6V",
+  "downloadUrl": "resources/plus-chat.105101/download?version=468541",
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1662407460,
+  "sourceUrl": "https://www.spigotmc.org/resources/105101/history/"
 }

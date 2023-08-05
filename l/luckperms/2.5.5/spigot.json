@@ -1,12 +1,9 @@
 {
   "name": "2.5.5",
-  "version": {
-    "name": "2.5.5",
-    "downloadUrl": "resources/luckperms.28140/download?version=110382",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1471817880,
-    "sourceUrl": "https://www.spigotmc.org/resources/luckperms.28140/history"
-  }
+  "downloadUrl": "resources/luckperms.28140/download?version=110382",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1471817880,
+  "sourceUrl": "https://www.spigotmc.org/resources/luckperms.28140/history"
 }

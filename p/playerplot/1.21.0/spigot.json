@@ -1,12 +1,9 @@
 {
   "name": "1.21.0",
-  "version": {
-    "name": "1.21.0",
-    "downloadUrl": "resources/playerplot-updated.105770/download?version=472689",
-    "numberOfDownloads": 273,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1666008660,
-    "sourceUrl": "https://www.spigotmc.org/resources/105770/history/"
-  }
+  "downloadUrl": "resources/playerplot-updated.105770/download?version=472689",
+  "numberOfDownloads": 273,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1666008660,
+  "sourceUrl": "https://www.spigotmc.org/resources/105770/history/"
 }

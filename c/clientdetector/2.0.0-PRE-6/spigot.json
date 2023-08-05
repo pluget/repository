@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0-PRE-6",
-  "version": {
-    "name": "2.0-PRE-6",
-    "downloadUrl": "resources/clientdetector-client-mod-detection-forge-mod-detection-clientcontrol.90375/download?version=413256",
-    "numberOfDownloads": 107,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1628176320,
-    "sourceUrl": "https://www.spigotmc.org/resources/clientdetector-client-mod-detection-forge-mod-detection-clientcontrol.90375/history"
-  }
+  "name": "2.0-PRE-6",
+  "downloadUrl": "resources/clientdetector-client-mod-detection-forge-mod-detection-clientcontrol.90375/download?version=413256",
+  "numberOfDownloads": 107,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1628176320,
+  "sourceUrl": "https://www.spigotmc.org/resources/clientdetector-client-mod-detection-forge-mod-detection-clientcontrol.90375/history"
 }

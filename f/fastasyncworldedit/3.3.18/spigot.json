@@ -1,12 +1,9 @@
 {
   "name": "3.3.18",
-  "version": {
-    "name": "3.3.18",
-    "downloadUrl": "resources/fastasyncworldedit.13932/download?version=84139",
-    "numberOfDownloads": 969,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1461176100,
-    "sourceUrl": "https://www.spigotmc.org/resources/fastasyncworldedit.13932/history"
-  }
+  "downloadUrl": "resources/fastasyncworldedit.13932/download?version=84139",
+  "numberOfDownloads": 969,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1461176100,
+  "sourceUrl": "https://www.spigotmc.org/resources/fastasyncworldedit.13932/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/proxypackfix.103210/download?version=459876",
-    "numberOfDownloads": 83,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657304940,
-    "sourceUrl": "https://www.spigotmc.org/resources/proxypackfix.103210/history"
-  }
+  "downloadUrl": "resources/proxypackfix.103210/download?version=459876",
+  "numberOfDownloads": 83,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657304940,
+  "sourceUrl": "https://www.spigotmc.org/resources/proxypackfix.103210/history"
 }

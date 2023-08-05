@@ -1,12 +1,9 @@
 {
   "name": "0.0.2",
-  "version": {
-    "name": "0.0.2",
-    "downloadUrl": "resources/easycmd.100476/download?version=443710",
-    "numberOfDownloads": 16,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646430240,
-    "sourceUrl": "https://www.spigotmc.org/resources/easycmd.100476/history"
-  }
+  "downloadUrl": "resources/easycmd.100476/download?version=443710",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646430240,
+  "sourceUrl": "https://www.spigotmc.org/resources/easycmd.100476/history"
 }

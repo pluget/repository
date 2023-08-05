@@ -1,12 +1,9 @@
 {
   "name": "4.0.4",
-  "version": {
-    "name": "4.0.4",
-    "downloadUrl": "resources/censor-reloaded-advanced-chat-filter.14752/download?version=350750",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1597384920,
-    "sourceUrl": "https://www.spigotmc.org/resources/censor-reloaded-advanced-chat-filter.14752/history"
-  }
+  "downloadUrl": "resources/censor-reloaded-advanced-chat-filter.14752/download?version=350750",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1597384920,
+  "sourceUrl": "https://www.spigotmc.org/resources/censor-reloaded-advanced-chat-filter.14752/history"
 }

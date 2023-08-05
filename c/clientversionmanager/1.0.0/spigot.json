@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/clientversionmanager.97177/download?version=424667",
-    "numberOfDownloads": 93,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1635342540,
-    "sourceUrl": "https://www.spigotmc.org/resources/clientversionmanager.97177/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/clientversionmanager.97177/download?version=424667",
+  "numberOfDownloads": 93,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1635342540,
+  "sourceUrl": "https://www.spigotmc.org/resources/clientversionmanager.97177/history"
 }

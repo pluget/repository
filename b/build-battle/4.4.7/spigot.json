@@ -1,12 +1,9 @@
 {
   "name": "4.4.7",
-  "version": {
-    "name": "4.4.7",
-    "downloadUrl": "resources/build-battle-guessthebuild-1-8-8-1-17.44703/download?version=380274",
-    "numberOfDownloads": 2,
-    "rating": 9.7777777777778,
-    "numberOfVotes": 9,
-    "releaseDate": 1611873180,
-    "sourceUrl": "https://www.spigotmc.org/resources/build-battle-guessthebuild-1-8-8-1-17.44703/history"
-  }
+  "downloadUrl": "resources/build-battle-guessthebuild-1-8-8-1-17.44703/download?version=380274",
+  "numberOfDownloads": 2,
+  "rating": 9.7777777777778,
+  "numberOfVotes": 9,
+  "releaseDate": 1611873180,
+  "sourceUrl": "https://www.spigotmc.org/resources/build-battle-guessthebuild-1-8-8-1-17.44703/history"
 }

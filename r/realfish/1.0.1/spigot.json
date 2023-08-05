@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/realfish.104083/download?version=464493",
-    "numberOfDownloads": 74,
-    "rating": 8,
-    "numberOfVotes": 2,
-    "releaseDate": 1659862200,
-    "sourceUrl": "https://www.spigotmc.org/resources/104083/history/"
-  }
+  "downloadUrl": "resources/realfish.104083/download?version=464493",
+  "numberOfDownloads": 74,
+  "rating": 8,
+  "numberOfVotes": 2,
+  "releaseDate": 1659862200,
+  "sourceUrl": "https://www.spigotmc.org/resources/104083/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.19.3-#1.0",
-  "version": {
-    "name": "MC-1.19.3 #1.0",
-    "downloadUrl": "resources/deep-dark.96324/download?version=487016",
-    "numberOfDownloads": 39,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1677173880,
-    "sourceUrl": "https://www.spigotmc.org/resources/deep-dark.96324/history"
-  }
+  "name": "MC-1.19.3 #1.0",
+  "downloadUrl": "resources/deep-dark.96324/download?version=487016",
+  "numberOfDownloads": 39,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1677173880,
+  "sourceUrl": "https://www.spigotmc.org/resources/deep-dark.96324/history"
 }

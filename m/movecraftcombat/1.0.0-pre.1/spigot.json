@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-pre.1",
-  "version": {
-    "name": "v1.0.0",
-    "downloadUrl": "resources/movecraft-combat.81574/download?version=347345",
-    "numberOfDownloads": 32,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1595976540,
-    "sourceUrl": "https://www.spigotmc.org/resources/movecraft-combat.81574/history"
-  }
+  "name": "v1.0.0",
+  "downloadUrl": "resources/movecraft-combat.81574/download?version=347345",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1595976540,
+  "sourceUrl": "https://www.spigotmc.org/resources/movecraft-combat.81574/history"
 }

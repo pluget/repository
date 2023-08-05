@@ -1,12 +1,9 @@
 {
   "name": "2.6.7",
-  "version": {
-    "name": "2.6.7",
-    "downloadUrl": "resources/quests.3711/download?version=100869",
-    "numberOfDownloads": 1,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1467655260,
-    "sourceUrl": "https://www.spigotmc.org/resources/quests.3711/history"
-  }
+  "downloadUrl": "resources/quests.3711/download?version=100869",
+  "numberOfDownloads": 1,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1467655260,
+  "sourceUrl": "https://www.spigotmc.org/resources/quests.3711/history"
 }

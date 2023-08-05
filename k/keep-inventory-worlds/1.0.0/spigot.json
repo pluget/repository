@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/keep-inventory-worlds.100495/download?version=443858",
-    "numberOfDownloads": 14,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646505600,
-    "sourceUrl": "https://www.spigotmc.org/resources/keep-inventory-worlds.100495/history"
-  }
+  "downloadUrl": "resources/keep-inventory-worlds.100495/download?version=443858",
+  "numberOfDownloads": 14,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646505600,
+  "sourceUrl": "https://www.spigotmc.org/resources/keep-inventory-worlds.100495/history"
 }

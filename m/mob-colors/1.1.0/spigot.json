@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/mob-colors.96771/download?version=460150",
-    "numberOfDownloads": 50,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657461660,
-    "sourceUrl": "https://www.spigotmc.org/resources/96771/history/"
-  }
+  "downloadUrl": "resources/mob-colors.96771/download?version=460150",
+  "numberOfDownloads": 50,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657461660,
+  "sourceUrl": "https://www.spigotmc.org/resources/96771/history/"
 }

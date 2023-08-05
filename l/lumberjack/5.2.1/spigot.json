@@ -1,12 +1,9 @@
 {
   "name": "5.2.1",
-  "version": {
-    "name": "5.2.1",
-    "downloadUrl": "resources/lumberjack-tree-gravity-leaf-decay-custom-tree-drops.60306/download?version=465253",
-    "numberOfDownloads": 8,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1660303440,
-    "sourceUrl": "https://www.spigotmc.org/resources/lumberjack-tree-gravity-leaf-decay-custom-tree-drops.60306/history"
-  }
+  "downloadUrl": "resources/lumberjack-tree-gravity-leaf-decay-custom-tree-drops.60306/download?version=465253",
+  "numberOfDownloads": 8,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1660303440,
+  "sourceUrl": "https://www.spigotmc.org/resources/lumberjack-tree-gravity-leaf-decay-custom-tree-drops.60306/history"
 }

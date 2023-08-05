@@ -1,12 +1,9 @@
 {
   "name": "1.3.1",
-  "version": {
-    "name": "1.3.1",
-    "downloadUrl": "resources/admingui-admin-backpack.79353/download?version=334224",
-    "numberOfDownloads": 70,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1590680280,
-    "sourceUrl": "https://www.spigotmc.org/resources/admingui-admin-backpack.79353/history"
-  }
+  "downloadUrl": "resources/admingui-admin-backpack.79353/download?version=334224",
+  "numberOfDownloads": 70,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1590680280,
+  "sourceUrl": "https://www.spigotmc.org/resources/admingui-admin-backpack.79353/history"
 }

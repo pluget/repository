@@ -1,12 +1,9 @@
 {
   "name": "0.3.2",
-  "version": {
-    "name": "0.3.2",
-    "downloadUrl": "resources/wirelessredstone-1-16-1-19.101871/download?version=473562",
-    "numberOfDownloads": 84,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1666895280,
-    "sourceUrl": "https://www.spigotmc.org/resources/wirelessredstone-1-16-1-19.101871/history"
-  }
+  "downloadUrl": "resources/wirelessredstone-1-16-1-19.101871/download?version=473562",
+  "numberOfDownloads": 84,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1666895280,
+  "sourceUrl": "https://www.spigotmc.org/resources/wirelessredstone-1-16-1-19.101871/history"
 }

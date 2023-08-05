@@ -1,12 +1,9 @@
 {
   "name": "1.4.1",
-  "version": {
-    "name": "1.4.1",
-    "downloadUrl": "resources/gravestonesplus.95132/download?version=470549",
-    "numberOfDownloads": 3,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1664132700,
-    "sourceUrl": "https://www.spigotmc.org/resources/gravestonesplus.95132/history"
-  }
+  "downloadUrl": "resources/gravestonesplus.95132/download?version=470549",
+  "numberOfDownloads": 3,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1664132700,
+  "sourceUrl": "https://www.spigotmc.org/resources/gravestonesplus.95132/history"
 }

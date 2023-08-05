@@ -1,12 +1,9 @@
 {
-  "name": "1.7.1-beta",
-  "version": {
-    "name": "1.7.1 beta",
-    "downloadUrl": "resources/clash-of-minecrafters.31180/download?version=126158",
-    "numberOfDownloads": 311,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1480018920,
-    "sourceUrl": "https://www.spigotmc.org/resources/clash-of-minecrafters.31180/history"
-  }
+  "name": "1.7.1 beta",
+  "downloadUrl": "resources/clash-of-minecrafters.31180/download?version=126158",
+  "numberOfDownloads": 311,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1480018920,
+  "sourceUrl": "https://www.spigotmc.org/resources/clash-of-minecrafters.31180/history"
 }

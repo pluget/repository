@@ -1,12 +1,9 @@
 {
   "name": "1.7.1",
-  "version": {
-    "name": "1.7.1",
-    "downloadUrl": "resources/star-mail.73406/download?version=416461",
-    "numberOfDownloads": 419,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1629807660,
-    "sourceUrl": "https://www.spigotmc.org/resources/star-mail.73406/history"
-  }
+  "downloadUrl": "resources/star-mail.73406/download?version=416461",
+  "numberOfDownloads": 419,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1629807660,
+  "sourceUrl": "https://www.spigotmc.org/resources/star-mail.73406/history"
 }

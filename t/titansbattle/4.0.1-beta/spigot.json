@@ -1,12 +1,9 @@
 {
   "name": "4.0.1-beta",
-  "version": {
-    "name": "4.0.1-beta",
-    "downloadUrl": "resources/titansbattle.47145/download?version=372321",
-    "numberOfDownloads": 60,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1608160020,
-    "sourceUrl": "https://www.spigotmc.org/resources/titansbattle.47145/history"
-  }
+  "downloadUrl": "resources/titansbattle.47145/download?version=372321",
+  "numberOfDownloads": 60,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1608160020,
+  "sourceUrl": "https://www.spigotmc.org/resources/titansbattle.47145/history"
 }

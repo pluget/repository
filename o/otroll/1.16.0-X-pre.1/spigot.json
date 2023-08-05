@@ -1,12 +1,9 @@
 {
-  "name": "1.16.0-X-pre.1",
-  "version": {
-    "name": "1.16.X",
-    "downloadUrl": "resources/otroll.88813/download?version=382505",
-    "numberOfDownloads": 141,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1612819620,
-    "sourceUrl": "https://www.spigotmc.org/resources/88813/history/"
-  }
+  "name": "1.16.X",
+  "downloadUrl": "resources/otroll.88813/download?version=382505",
+  "numberOfDownloads": 141,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1612819620,
+  "sourceUrl": "https://www.spigotmc.org/resources/88813/history/"
 }

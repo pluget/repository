@@ -1,12 +1,9 @@
 {
   "name": "2.18.10",
-  "version": {
-    "name": "2.18.10",
-    "downloadUrl": "resources/xconomy.75669/download?version=456212",
-    "numberOfDownloads": 227,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655180880,
-    "sourceUrl": "https://www.spigotmc.org/resources/xconomy.75669/history"
-  }
+  "downloadUrl": "resources/xconomy.75669/download?version=456212",
+  "numberOfDownloads": 227,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655180880,
+  "sourceUrl": "https://www.spigotmc.org/resources/xconomy.75669/history"
 }

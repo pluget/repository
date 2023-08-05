@@ -1,12 +1,9 @@
 {
   "name": "3.0.15",
-  "version": {
-    "name": "3.0.15",
-    "downloadUrl": "resources/sunlight-server-management-plugin-essentials-update-part-vi.67733/download?version=471388",
-    "numberOfDownloads": 1,
-    "rating": 7.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1664868720,
-    "sourceUrl": "https://www.spigotmc.org/resources/sunlight-server-management-plugin-essentials-update-part-vi.67733/history"
-  }
+  "downloadUrl": "resources/sunlight-server-management-plugin-essentials-update-part-vi.67733/download?version=471388",
+  "numberOfDownloads": 1,
+  "rating": 7.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1664868720,
+  "sourceUrl": "https://www.spigotmc.org/resources/sunlight-server-management-plugin-essentials-update-part-vi.67733/history"
 }

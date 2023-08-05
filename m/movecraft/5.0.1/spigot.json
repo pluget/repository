@@ -1,12 +1,9 @@
 {
   "name": "5.0.1",
-  "version": {
-    "name": "5.0.1",
-    "downloadUrl": "resources/movecraft.31321/download?version=122548",
-    "numberOfDownloads": 414,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1478388120,
-    "sourceUrl": "https://www.spigotmc.org/resources/movecraft.31321/history"
-  }
+  "downloadUrl": "resources/movecraft.31321/download?version=122548",
+  "numberOfDownloads": 414,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1478388120,
+  "sourceUrl": "https://www.spigotmc.org/resources/movecraft.31321/history"
 }

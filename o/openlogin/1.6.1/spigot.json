@@ -1,12 +1,9 @@
 {
   "name": "1.6.1",
-  "version": {
-    "name": "1.6.1",
-    "downloadUrl": "resources/openlogin-1-7x-1-19x.57272/download?version=469123",
-    "numberOfDownloads": 61,
-    "rating": 9.75,
-    "numberOfVotes": 8,
-    "releaseDate": 1662881940,
-    "sourceUrl": "https://www.spigotmc.org/resources/openlogin-1-7x-1-19x.57272/history"
-  }
+  "downloadUrl": "resources/openlogin-1-7x-1-19x.57272/download?version=469123",
+  "numberOfDownloads": 61,
+  "rating": 9.75,
+  "numberOfVotes": 8,
+  "releaseDate": 1662881940,
+  "sourceUrl": "https://www.spigotmc.org/resources/openlogin-1-7x-1-19x.57272/history"
 }

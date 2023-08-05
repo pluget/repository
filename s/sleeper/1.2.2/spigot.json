@@ -1,12 +1,9 @@
 {
   "name": "1.2.2",
-  "version": {
-    "name": "1.2.2",
-    "downloadUrl": "resources/sleeper.102406/download?version=479003",
-    "numberOfDownloads": 86,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1671552000,
-    "sourceUrl": "https://www.spigotmc.org/resources/sleeper.102406/history"
-  }
+  "downloadUrl": "resources/sleeper.102406/download?version=479003",
+  "numberOfDownloads": 86,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1671552000,
+  "sourceUrl": "https://www.spigotmc.org/resources/sleeper.102406/history"
 }

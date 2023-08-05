@@ -1,12 +1,9 @@
 {
   "name": "4.3.17",
-  "version": {
-    "name": "4.3.17",
-    "downloadUrl": "resources/luckperms.28140/download?version=246477",
-    "numberOfDownloads": 18,
-    "rating": 9.6363636363636,
-    "numberOfVotes": 33,
-    "releaseDate": 1540932180,
-    "sourceUrl": "https://www.spigotmc.org/resources/luckperms.28140/history"
-  }
+  "downloadUrl": "resources/luckperms.28140/download?version=246477",
+  "numberOfDownloads": 18,
+  "rating": 9.6363636363636,
+  "numberOfVotes": 33,
+  "releaseDate": 1540932180,
+  "sourceUrl": "https://www.spigotmc.org/resources/luckperms.28140/history"
 }

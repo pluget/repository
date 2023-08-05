@@ -1,12 +1,9 @@
 {
-  "name": "1.18.0-pre.1",
-  "version": {
-    "name": "1.18.0",
-    "downloadUrl": "resources/ironicchest.60674/download?version=320329",
-    "numberOfDownloads": 162,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1585223040,
-    "sourceUrl": "https://www.spigotmc.org/resources/ironicchest.60674/history"
-  }
+  "name": "1.18.0",
+  "downloadUrl": "resources/ironicchest.60674/download?version=320329",
+  "numberOfDownloads": 162,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1585223040,
+  "sourceUrl": "https://www.spigotmc.org/resources/ironicchest.60674/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.1-a",
-  "version": {
-    "name": "1.0.1-a",
-    "downloadUrl": "resources/fireguard.104496/download?version=465569",
-    "numberOfDownloads": 24,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660481280,
-    "sourceUrl": "https://www.spigotmc.org/resources/fireguard.104496/history"
-  }
+  "downloadUrl": "resources/fireguard.104496/download?version=465569",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660481280,
+  "sourceUrl": "https://www.spigotmc.org/resources/fireguard.104496/history"
 }

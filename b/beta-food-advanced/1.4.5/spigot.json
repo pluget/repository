@@ -1,12 +1,9 @@
 {
-  "name": "1.4.5",
-  "version": {
-    "name": "v.1.4.5",
-    "downloadUrl": "resources/beta-food-advanced.99622/download?version=448303",
-    "numberOfDownloads": 7,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1649550480,
-    "sourceUrl": "https://www.spigotmc.org/resources/beta-food-advanced.99622/history"
-  }
+  "name": "v.1.4.5",
+  "downloadUrl": "resources/beta-food-advanced.99622/download?version=448303",
+  "numberOfDownloads": 7,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1649550480,
+  "sourceUrl": "https://www.spigotmc.org/resources/beta-food-advanced.99622/history"
 }

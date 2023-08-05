@@ -1,12 +1,9 @@
 {
-  "name": "1.6.0",
-  "version": {
-    "name": "1.6",
-    "downloadUrl": "resources/celeste.81862/download?version=430024",
-    "numberOfDownloads": 959,
-    "rating": 10,
-    "numberOfVotes": 8,
-    "releaseDate": 1638724920,
-    "sourceUrl": "https://www.spigotmc.org/resources/celeste.81862/history"
-  }
+  "name": "1.6",
+  "downloadUrl": "resources/celeste.81862/download?version=430024",
+  "numberOfDownloads": 959,
+  "rating": 10,
+  "numberOfVotes": 8,
+  "releaseDate": 1638724920,
+  "sourceUrl": "https://www.spigotmc.org/resources/celeste.81862/history"
 }

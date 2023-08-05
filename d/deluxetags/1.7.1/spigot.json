@@ -1,12 +1,9 @@
 {
   "name": "1.7.1",
-  "version": {
-    "name": "1.7.1",
-    "downloadUrl": "resources/deluxetags.4390/download?version=68883",
-    "numberOfDownloads": 70,
-    "rating": 8.5650224215246,
-    "numberOfVotes": 223,
-    "releaseDate": 1455550440,
-    "sourceUrl": "https://www.spigotmc.org/resources/deluxetags.4390/history"
-  }
+  "downloadUrl": "resources/deluxetags.4390/download?version=68883",
+  "numberOfDownloads": 70,
+  "rating": 8.5650224215246,
+  "numberOfVotes": 223,
+  "releaseDate": 1455550440,
+  "sourceUrl": "https://www.spigotmc.org/resources/deluxetags.4390/history"
 }

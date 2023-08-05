@@ -1,12 +1,9 @@
 {
   "name": "1.0.4",
-  "version": {
-    "name": "1.0.4",
-    "downloadUrl": "resources/crewchat.96107/download?version=457895",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1656100080,
-    "sourceUrl": "https://www.spigotmc.org/resources/crewchat.96107/history"
-  }
+  "downloadUrl": "resources/crewchat.96107/download?version=457895",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1656100080,
+  "sourceUrl": "https://www.spigotmc.org/resources/crewchat.96107/history"
 }

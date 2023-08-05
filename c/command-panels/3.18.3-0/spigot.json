@@ -1,12 +1,9 @@
 {
-  "name": "3.18.3-0",
-  "version": {
-    "name": "3.18.3.0",
-    "downloadUrl": "resources/commandpanels.67788/download?version=476406",
-    "numberOfDownloads": 5,
-    "rating": 10,
-    "numberOfVotes": 6,
-    "releaseDate": 1669355880,
-    "sourceUrl": "https://www.spigotmc.org/resources/67788/history/"
-  }
+  "name": "3.18.3.0",
+  "downloadUrl": "resources/commandpanels.67788/download?version=476406",
+  "numberOfDownloads": 5,
+  "rating": 10,
+  "numberOfVotes": 6,
+  "releaseDate": 1669355880,
+  "sourceUrl": "https://www.spigotmc.org/resources/67788/history/"
 }

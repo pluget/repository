@@ -1,12 +1,9 @@
 {
   "name": "2.0.8",
-  "version": {
-    "name": "2.0.8",
-    "downloadUrl": "resources/rtp.94812/download?version=485644",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1676187000,
-    "sourceUrl": "https://www.spigotmc.org/resources/rtp.94812/history"
-  }
+  "downloadUrl": "resources/rtp.94812/download?version=485644",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1676187000,
+  "sourceUrl": "https://www.spigotmc.org/resources/rtp.94812/history"
 }

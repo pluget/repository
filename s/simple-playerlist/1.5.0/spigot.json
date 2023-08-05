@@ -1,12 +1,9 @@
 {
   "name": "1.5.0",
-  "version": {
-    "name": "1.5.0",
-    "downloadUrl": "resources/simple-playerlist.77331/download?version=459955",
-    "numberOfDownloads": 52,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657357500,
-    "sourceUrl": "https://www.spigotmc.org/resources/simple-playerlist.77331/history"
-  }
+  "downloadUrl": "resources/simple-playerlist.77331/download?version=459955",
+  "numberOfDownloads": 52,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657357500,
+  "sourceUrl": "https://www.spigotmc.org/resources/simple-playerlist.77331/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-SNAPSHOT",
-  "version": {
-    "name": "1.0-SNAPSHOT",
-    "downloadUrl": "resources/roulette.82197/download?version=427599",
-    "numberOfDownloads": 127,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1637441880,
-    "sourceUrl": "https://www.spigotmc.org/resources/roulette.82197/history"
-  }
+  "name": "1.0-SNAPSHOT",
+  "downloadUrl": "resources/roulette.82197/download?version=427599",
+  "numberOfDownloads": 127,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1637441880,
+  "sourceUrl": "https://www.spigotmc.org/resources/roulette.82197/history"
 }

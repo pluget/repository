@@ -1,12 +1,9 @@
 {
   "name": "3.1.1",
-  "version": {
-    "name": "3.1.1",
-    "downloadUrl": "resources/qwaypoints.92554/download?version=404342",
-    "numberOfDownloads": 72,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1624101900,
-    "sourceUrl": "https://www.spigotmc.org/resources/qwaypoints.92554/history"
-  }
+  "downloadUrl": "resources/qwaypoints.92554/download?version=404342",
+  "numberOfDownloads": 72,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1624101900,
+  "sourceUrl": "https://www.spigotmc.org/resources/qwaypoints.92554/history"
 }

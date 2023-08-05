@@ -1,12 +1,9 @@
 {
   "name": "4.3.5-1",
-  "version": {
-    "name": "4.3.5-1",
-    "downloadUrl": "resources/redlib.78713/download?version=366395",
-    "numberOfDownloads": 35,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1605027060,
-    "sourceUrl": "https://www.spigotmc.org/resources/redlib.78713/history"
-  }
+  "downloadUrl": "resources/redlib.78713/download?version=366395",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1605027060,
+  "sourceUrl": "https://www.spigotmc.org/resources/redlib.78713/history"
 }

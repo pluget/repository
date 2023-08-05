@@ -1,12 +1,9 @@
 {
-  "name": "1.7.0-snap",
-  "version": {
-    "name": "1.7-snap",
-    "downloadUrl": "resources/furnituremaker.20667/download?version=159772",
-    "numberOfDownloads": 472,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1494831240,
-    "sourceUrl": "https://www.spigotmc.org/resources/furnituremaker.20667/history"
-  }
+  "name": "1.7-snap",
+  "downloadUrl": "resources/furnituremaker.20667/download?version=159772",
+  "numberOfDownloads": 472,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1494831240,
+  "sourceUrl": "https://www.spigotmc.org/resources/furnituremaker.20667/history"
 }

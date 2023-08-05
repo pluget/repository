@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/economobs.90004/download?version=393312",
-    "numberOfDownloads": 50,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1618099380,
-    "sourceUrl": "https://www.spigotmc.org/resources/90004/history/"
-  }
+  "downloadUrl": "resources/economobs.90004/download?version=393312",
+  "numberOfDownloads": 50,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1618099380,
+  "sourceUrl": "https://www.spigotmc.org/resources/90004/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/bedrockchanger.103047/download?version=458906",
-    "numberOfDownloads": 18,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1656732360,
-    "sourceUrl": "https://www.spigotmc.org/resources/103047/history/"
-  }
+  "downloadUrl": "resources/bedrockchanger.103047/download?version=458906",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1656732360,
+  "sourceUrl": "https://www.spigotmc.org/resources/103047/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "7.1.2",
-  "version": {
-    "name": "7.1.2",
-    "downloadUrl": "resources/mine-rabs-minecraft.101521/download?version=449642",
-    "numberOfDownloads": 12,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1650477720,
-    "sourceUrl": "https://www.spigotmc.org/resources/101521/history/"
-  }
+  "downloadUrl": "resources/mine-rabs-minecraft.101521/download?version=449642",
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1650477720,
+  "sourceUrl": "https://www.spigotmc.org/resources/101521/history/"
 }

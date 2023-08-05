@@ -1,12 +1,9 @@
 {
-  "name": "1.28.0-RELEASE",
-  "version": {
-    "name": "1.28-RELEASE",
-    "downloadUrl": "resources/levelledmobs.74304/download?version=322183",
-    "numberOfDownloads": 772,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1585975620,
-    "sourceUrl": "https://www.spigotmc.org/resources/levelledmobs.74304/history"
-  }
+  "name": "1.28-RELEASE",
+  "downloadUrl": "resources/levelledmobs.74304/download?version=322183",
+  "numberOfDownloads": 772,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1585975620,
+  "sourceUrl": "https://www.spigotmc.org/resources/levelledmobs.74304/history"
 }

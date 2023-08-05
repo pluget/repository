@@ -1,12 +1,9 @@
 {
-  "name": "1.8.0",
-  "version": {
-    "name": "1.8",
-    "downloadUrl": "resources/limbo.68055/download?version=280741",
-    "numberOfDownloads": 75,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1561481340,
-    "sourceUrl": "https://www.spigotmc.org/resources/limbo.68055/history"
-  }
+  "name": "1.8",
+  "downloadUrl": "resources/limbo.68055/download?version=280741",
+  "numberOfDownloads": 75,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1561481340,
+  "sourceUrl": "https://www.spigotmc.org/resources/limbo.68055/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "3.8.1",
-  "version": {
-    "name": "3.8.1",
-    "downloadUrl": "resources/simplescore-animated-scoreboard.23243/download?version=405955",
-    "numberOfDownloads": 18,
-    "rating": 10,
-    "numberOfVotes": 10,
-    "releaseDate": 1624815240,
-    "sourceUrl": "https://www.spigotmc.org/resources/simplescore-animated-scoreboard.23243/history"
-  }
+  "downloadUrl": "resources/simplescore-animated-scoreboard.23243/download?version=405955",
+  "numberOfDownloads": 18,
+  "rating": 10,
+  "numberOfVotes": 10,
+  "releaseDate": 1624815240,
+  "sourceUrl": "https://www.spigotmc.org/resources/simplescore-animated-scoreboard.23243/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.3.0",
-  "version": {
-    "name": "1.3.0",
-    "downloadUrl": "resources/combatlogger.85755/download?version=427781",
-    "numberOfDownloads": 251,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1637560440,
-    "sourceUrl": "https://www.spigotmc.org/resources/combatlogger.85755/history"
-  }
+  "downloadUrl": "resources/combatlogger.85755/download?version=427781",
+  "numberOfDownloads": 251,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1637560440,
+  "sourceUrl": "https://www.spigotmc.org/resources/combatlogger.85755/history"
 }

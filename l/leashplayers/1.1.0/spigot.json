@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0",
-  "version": {
-    "name": "1.1",
-    "downloadUrl": "resources/1-16-1-19-3-leashplayers.100458/download?version=443639",
-    "numberOfDownloads": 223,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1646407920,
-    "sourceUrl": "https://www.spigotmc.org/resources/100458/history/"
-  }
+  "name": "1.1",
+  "downloadUrl": "resources/1-16-1-19-3-leashplayers.100458/download?version=443639",
+  "numberOfDownloads": 223,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1646407920,
+  "sourceUrl": "https://www.spigotmc.org/resources/100458/history/"
 }

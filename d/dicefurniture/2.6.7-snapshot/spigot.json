@@ -1,12 +1,9 @@
 {
   "name": "2.6.7-snapshot",
-  "version": {
-    "name": "2.6.7-snapshot",
-    "downloadUrl": "resources/dicefurniture-plugin-m%C3%B6bel-plugin.6006/download?version=76889",
-    "numberOfDownloads": 755,
-    "rating": 8.4,
-    "numberOfVotes": 5,
-    "releaseDate": 1458558180,
-    "sourceUrl": "https://www.spigotmc.org/resources/dicefurniture-plugin-m%C3%B6bel-plugin.6006/history"
-  }
+  "downloadUrl": "resources/dicefurniture-plugin-m%C3%B6bel-plugin.6006/download?version=76889",
+  "numberOfDownloads": 755,
+  "rating": 8.4,
+  "numberOfVotes": 5,
+  "releaseDate": 1458558180,
+  "sourceUrl": "https://www.spigotmc.org/resources/dicefurniture-plugin-m%C3%B6bel-plugin.6006/history"
 }

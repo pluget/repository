@@ -1,12 +1,9 @@
 {
   "name": "8.0.3",
-  "version": {
-    "name": "8.0.3",
-    "downloadUrl": "resources/mobhunting.3582/download?version=409975",
-    "numberOfDownloads": 184,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1626636420,
-    "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
-  }
+  "downloadUrl": "resources/mobhunting.3582/download?version=409975",
+  "numberOfDownloads": 184,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1626636420,
+  "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
 }

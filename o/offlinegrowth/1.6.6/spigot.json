@@ -1,12 +1,9 @@
 {
   "name": "1.6.6",
-  "version": {
-    "name": "1.6.6",
-    "downloadUrl": "resources/offlinegrowth-plants-grow-on-unloaded-chunks-1-8x-1-19x.87615/download?version=455480",
-    "numberOfDownloads": 550,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1654818300,
-    "sourceUrl": "https://www.spigotmc.org/resources/offlinegrowth-plants-grow-on-unloaded-chunks-1-8x-1-19x.87615/history"
-  }
+  "downloadUrl": "resources/offlinegrowth-plants-grow-on-unloaded-chunks-1-8x-1-19x.87615/download?version=455480",
+  "numberOfDownloads": 550,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1654818300,
+  "sourceUrl": "https://www.spigotmc.org/resources/offlinegrowth-plants-grow-on-unloaded-chunks-1-8x-1-19x.87615/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "3.12.3",
-  "version": {
-    "name": "3.12.3",
-    "downloadUrl": "resources/angelchest-free.60383/download?version=393137",
-    "numberOfDownloads": 64,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1618006560,
-    "sourceUrl": "https://www.spigotmc.org/resources/angelchest-free.60383/history"
-  }
+  "downloadUrl": "resources/angelchest-free.60383/download?version=393137",
+  "numberOfDownloads": 64,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1618006560,
+  "sourceUrl": "https://www.spigotmc.org/resources/angelchest-free.60383/history"
 }

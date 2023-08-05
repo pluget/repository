@@ -1,12 +1,9 @@
 {
-  "name": "3.0.0",
-  "version": {
-    "name": "3.0",
-    "downloadUrl": "resources/battlemusic-1-12-1-18.73435/download?version=450811",
-    "numberOfDownloads": 105,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1651365060,
-    "sourceUrl": "https://www.spigotmc.org/resources/73435/history/"
-  }
+  "name": "3.0",
+  "downloadUrl": "resources/battlemusic-1-12-1-18.73435/download?version=450811",
+  "numberOfDownloads": 105,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1651365060,
+  "sourceUrl": "https://www.spigotmc.org/resources/73435/history/"
 }

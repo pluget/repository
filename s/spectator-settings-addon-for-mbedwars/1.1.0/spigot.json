@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/spectator-settings-addon-for-mbedwars.104651/download?version=480160",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672315560,
-    "sourceUrl": "https://www.spigotmc.org/resources/spectator-settings-addon-for-mbedwars.104651/history"
-  }
+  "downloadUrl": "resources/spectator-settings-addon-for-mbedwars.104651/download?version=480160",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672315560,
+  "sourceUrl": "https://www.spigotmc.org/resources/spectator-settings-addon-for-mbedwars.104651/history"
 }

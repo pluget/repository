@@ -1,12 +1,9 @@
 {
-  "name": "5.2.0",
-  "version": {
-    "name": "5.2",
-    "downloadUrl": "resources/booknews-1-8-1-19-4.61163/download?version=376609",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1610245560,
-    "sourceUrl": "https://www.spigotmc.org/resources/booknews-1-8-1-19-4.61163/history"
-  }
+  "name": "5.2",
+  "downloadUrl": "resources/booknews-1-8-1-19-4.61163/download?version=376609",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1610245560,
+  "sourceUrl": "https://www.spigotmc.org/resources/booknews-1-8-1-19-4.61163/history"
 }

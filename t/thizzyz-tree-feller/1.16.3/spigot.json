@@ -1,12 +1,9 @@
 {
   "name": "1.16.3",
-  "version": {
-    "name": "1.16.3",
-    "downloadUrl": "resources/thizzyz-tree-feller.64346/download?version=421919",
-    "numberOfDownloads": 868,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1633380720,
-    "sourceUrl": "https://www.spigotmc.org/resources/thizzyz-tree-feller.64346/history"
-  }
+  "downloadUrl": "resources/thizzyz-tree-feller.64346/download?version=421919",
+  "numberOfDownloads": 868,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1633380720,
+  "sourceUrl": "https://www.spigotmc.org/resources/thizzyz-tree-feller.64346/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "5.3.1",
-  "version": {
-    "name": "5.3.1",
-    "downloadUrl": "resources/orebfuscator-anti-x-ray.82710/download?version=469018",
-    "numberOfDownloads": 16,
-    "rating": 9.2,
-    "numberOfVotes": 5,
-    "releaseDate": 1662808320,
-    "sourceUrl": "https://www.spigotmc.org/resources/orebfuscator-anti-x-ray.82710/history"
-  }
+  "downloadUrl": "resources/orebfuscator-anti-x-ray.82710/download?version=469018",
+  "numberOfDownloads": 16,
+  "rating": 9.2,
+  "numberOfVotes": 5,
+  "releaseDate": 1662808320,
+  "sourceUrl": "https://www.spigotmc.org/resources/orebfuscator-anti-x-ray.82710/history"
 }

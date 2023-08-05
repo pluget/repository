@@ -1,12 +1,9 @@
 {
   "name": "1.6.1",
-  "version": {
-    "name": "1.6.1",
-    "downloadUrl": "resources/timemanager.44344/download?version=439155",
-    "numberOfDownloads": 976,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1643569260,
-    "sourceUrl": "https://www.spigotmc.org/resources/timemanager.44344/history"
-  }
+  "downloadUrl": "resources/timemanager.44344/download?version=439155",
+  "numberOfDownloads": 976,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1643569260,
+  "sourceUrl": "https://www.spigotmc.org/resources/timemanager.44344/history"
 }

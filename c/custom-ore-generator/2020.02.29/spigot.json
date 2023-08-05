@@ -1,12 +1,9 @@
 {
   "name": "2020.02.29",
-  "version": {
-    "name": "2020.02.29",
-    "downloadUrl": "resources/custom-ore-generator-%E3%80%8E1-8-1-19-4%E3%80%8F.64339/download?version=316327",
-    "numberOfDownloads": 560,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1582972560,
-    "sourceUrl": "https://www.spigotmc.org/resources/64339/history/"
-  }
+  "downloadUrl": "resources/custom-ore-generator-%E3%80%8E1-8-1-19-4%E3%80%8F.64339/download?version=316327",
+  "numberOfDownloads": 560,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1582972560,
+  "sourceUrl": "https://www.spigotmc.org/resources/64339/history/"
 }

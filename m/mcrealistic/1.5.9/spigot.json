@@ -1,12 +1,9 @@
 {
-  "name": "1.5.9",
-  "version": {
-    "name": "ALPHA 1.5.9",
-    "downloadUrl": "resources/mcrealistic-1-17.21628/download?version=169918",
-    "numberOfDownloads": 291,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1499268480,
-    "sourceUrl": "https://www.spigotmc.org/resources/21628/history/"
-  }
+  "name": "ALPHA 1.5.9",
+  "downloadUrl": "resources/mcrealistic-1-17.21628/download?version=169918",
+  "numberOfDownloads": 291,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1499268480,
+  "sourceUrl": "https://www.spigotmc.org/resources/21628/history/"
 }

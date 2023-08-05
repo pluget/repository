@@ -1,12 +1,9 @@
 {
-  "name": "2.7.3",
-  "version": {
-    "name": "MobHunting V2.7.3",
-    "downloadUrl": "resources/mobhunting.3582/download?version=80789",
-    "numberOfDownloads": 154,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1459941720,
-    "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
-  }
+  "name": "MobHunting V2.7.3",
+  "downloadUrl": "resources/mobhunting.3582/download?version=80789",
+  "numberOfDownloads": 154,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1459941720,
+  "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
 }

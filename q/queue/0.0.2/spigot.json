@@ -1,12 +1,9 @@
 {
-  "name": "0.0.2",
-  "version": {
-    "name": "v0.0.2",
-    "downloadUrl": "resources/queue.103282/download?version=460298",
-    "numberOfDownloads": 17,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657545180,
-    "sourceUrl": "https://www.spigotmc.org/resources/queue.103282/history"
-  }
+  "name": "v0.0.2",
+  "downloadUrl": "resources/queue.103282/download?version=460298",
+  "numberOfDownloads": 17,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657545180,
+  "sourceUrl": "https://www.spigotmc.org/resources/queue.103282/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.3.2",
-  "version": {
-    "name": "1.3.2",
-    "downloadUrl": "resources/minecreator-1-7-1-18.98585/download?version=437833",
-    "numberOfDownloads": 208,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1642858080,
-    "sourceUrl": "https://www.spigotmc.org/resources/minecreator-1-7-1-18.98585/history"
-  }
+  "downloadUrl": "resources/minecreator-1-7-1-18.98585/download?version=437833",
+  "numberOfDownloads": 208,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1642858080,
+  "sourceUrl": "https://www.spigotmc.org/resources/minecreator-1-7-1-18.98585/history"
 }

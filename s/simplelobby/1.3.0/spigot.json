@@ -1,12 +1,9 @@
 {
-  "name": "1.3.0",
-  "version": {
-    "name": "v1.3",
-    "downloadUrl": "resources/simplelobby-1-8-1-19-2.105614/download?version=471715",
-    "numberOfDownloads": 28,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1665155280,
-    "sourceUrl": "https://www.spigotmc.org/resources/simplelobby-1-8-1-19-2.105614/history"
-  }
+  "name": "v1.3",
+  "downloadUrl": "resources/simplelobby-1-8-1-19-2.105614/download?version=471715",
+  "numberOfDownloads": 28,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1665155280,
+  "sourceUrl": "https://www.spigotmc.org/resources/simplelobby-1-8-1-19-2.105614/history"
 }

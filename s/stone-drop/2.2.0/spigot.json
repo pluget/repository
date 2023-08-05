@@ -1,12 +1,9 @@
 {
-  "name": "2.2.0",
-  "version": {
-    "name": "StoneDrop v2.2.0",
-    "downloadUrl": "resources/stone-drop.75366/download?version=428801",
-    "numberOfDownloads": 6,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1638221520,
-    "sourceUrl": "https://www.spigotmc.org/resources/stone-drop.75366/history"
-  }
+  "name": "StoneDrop v2.2.0",
+  "downloadUrl": "resources/stone-drop.75366/download?version=428801",
+  "numberOfDownloads": 6,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1638221520,
+  "sourceUrl": "https://www.spigotmc.org/resources/stone-drop.75366/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "4.5.3",
-  "version": {
-    "name": "4.5.3",
-    "downloadUrl": "resources/jobs-reborn.4216/download?version=216774",
-    "numberOfDownloads": 6,
-    "rating": 7.7142857142858,
-    "numberOfVotes": 7,
-    "releaseDate": 1523368320,
-    "sourceUrl": "https://www.spigotmc.org/resources/jobs-reborn.4216/history"
-  }
+  "downloadUrl": "resources/jobs-reborn.4216/download?version=216774",
+  "numberOfDownloads": 6,
+  "rating": 7.7142857142858,
+  "numberOfVotes": 7,
+  "releaseDate": 1523368320,
+  "sourceUrl": "https://www.spigotmc.org/resources/jobs-reborn.4216/history"
 }

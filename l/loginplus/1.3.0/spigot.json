@@ -1,12 +1,9 @@
 {
-  "name": "1.3.0",
-  "version": {
-    "name": "1.3",
-    "downloadUrl": "resources/loginplus.39601/download?version=180033",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1503259920,
-    "sourceUrl": "https://www.spigotmc.org/resources/39601/history/"
-  }
+  "name": "1.3",
+  "downloadUrl": "resources/loginplus.39601/download?version=180033",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1503259920,
+  "sourceUrl": "https://www.spigotmc.org/resources/39601/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "5.1.0-build-770",
-  "version": {
-    "name": "5.1 build 770",
-    "downloadUrl": "resources/plan-player-analytics.32536/download?version=361415",
-    "numberOfDownloads": 815,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1602485100,
-    "sourceUrl": "https://www.spigotmc.org/resources/plan-player-analytics.32536/history"
-  }
+  "name": "5.1 build 770",
+  "downloadUrl": "resources/plan-player-analytics.32536/download?version=361415",
+  "numberOfDownloads": 815,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1602485100,
+  "sourceUrl": "https://www.spigotmc.org/resources/plan-player-analytics.32536/history"
 }

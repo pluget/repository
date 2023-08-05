@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0-pre.3",
-  "version": {
-    "name": "v2.0",
-    "downloadUrl": "resources/venus-pouches-1-8-1-18-animations-update.101753/download?version=462321",
-    "numberOfDownloads": 8,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1658750100,
-    "sourceUrl": "https://www.spigotmc.org/resources/venus-pouches-1-8-1-18-animations-update.101753/history"
-  }
+  "name": "v2.0",
+  "downloadUrl": "resources/venus-pouches-1-8-1-18-animations-update.101753/download?version=462321",
+  "numberOfDownloads": 8,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1658750100,
+  "sourceUrl": "https://www.spigotmc.org/resources/venus-pouches-1-8-1-18-animations-update.101753/history"
 }

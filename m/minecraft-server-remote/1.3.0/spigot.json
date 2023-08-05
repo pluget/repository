@@ -1,12 +1,9 @@
 {
-  "name": "1.3.0",
-  "version": {
-    "name": "1.3",
-    "downloadUrl": "resources/minecraft-server-remote.72231/download?version=315927",
-    "numberOfDownloads": 69,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1582738080,
-    "sourceUrl": "https://www.spigotmc.org/resources/minecraft-server-remote.72231/history"
-  }
+  "name": "1.3",
+  "downloadUrl": "resources/minecraft-server-remote.72231/download?version=315927",
+  "numberOfDownloads": 69,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1582738080,
+  "sourceUrl": "https://www.spigotmc.org/resources/minecraft-server-remote.72231/history"
 }

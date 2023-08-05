@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/inventoryperworld.100566/download?version=444371",
-    "numberOfDownloads": 42,
-    "rating": 2,
-    "numberOfVotes": 1,
-    "releaseDate": 1646772900,
-    "sourceUrl": "https://www.spigotmc.org/resources/inventoryperworld.100566/history"
-  }
+  "downloadUrl": "resources/inventoryperworld.100566/download?version=444371",
+  "numberOfDownloads": 42,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releaseDate": 1646772900,
+  "sourceUrl": "https://www.spigotmc.org/resources/inventoryperworld.100566/history"
 }

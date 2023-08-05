@@ -1,12 +1,9 @@
 {
   "name": "0.5.8",
-  "version": {
-    "name": "0.5.8",
-    "downloadUrl": "resources/viaversion.19254/download?version=73868",
-    "numberOfDownloads": 1,
-    "rating": 9.2,
-    "numberOfVotes": 5,
-    "releaseDate": 1457391480,
-    "sourceUrl": "https://www.spigotmc.org/resources/viaversion.19254/history"
-  }
+  "downloadUrl": "resources/viaversion.19254/download?version=73868",
+  "numberOfDownloads": 1,
+  "rating": 9.2,
+  "numberOfVotes": 5,
+  "releaseDate": 1457391480,
+  "sourceUrl": "https://www.spigotmc.org/resources/viaversion.19254/history"
 }

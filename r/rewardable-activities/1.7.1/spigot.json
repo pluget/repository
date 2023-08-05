@@ -1,12 +1,9 @@
 {
   "name": "1.7.1",
-  "version": {
-    "name": "1.7.1",
-    "downloadUrl": "resources/rewardable-activities.86090/download?version=373191",
-    "numberOfDownloads": 48,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1608571800,
-    "sourceUrl": "https://www.spigotmc.org/resources/rewardable-activities.86090/history"
-  }
+  "downloadUrl": "resources/rewardable-activities.86090/download?version=373191",
+  "numberOfDownloads": 48,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1608571800,
+  "sourceUrl": "https://www.spigotmc.org/resources/rewardable-activities.86090/history"
 }

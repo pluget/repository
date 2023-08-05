@@ -1,12 +1,9 @@
 {
   "name": "6.8.1",
-  "version": {
-    "name": "6.8.1",
-    "downloadUrl": "resources/votingplugin.15358/download?version=436845",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1642294320,
-    "sourceUrl": "https://www.spigotmc.org/resources/votingplugin.15358/history"
-  }
+  "downloadUrl": "resources/votingplugin.15358/download?version=436845",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1642294320,
+  "sourceUrl": "https://www.spigotmc.org/resources/votingplugin.15358/history"
 }

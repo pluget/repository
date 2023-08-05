@@ -1,12 +1,9 @@
 {
-  "name": "1.8.7",
-  "version": {
-    "name": "v1.8.7",
-    "downloadUrl": "resources/throwable-fireballs.59566/download?version=384836",
-    "numberOfDownloads": 2,
-    "rating": 6.6666666666666,
-    "numberOfVotes": 3,
-    "releaseDate": 1613915580,
-    "sourceUrl": "https://www.spigotmc.org/resources/throwable-fireballs.59566/history"
-  }
+  "name": "v1.8.7",
+  "downloadUrl": "resources/throwable-fireballs.59566/download?version=384836",
+  "numberOfDownloads": 2,
+  "rating": 6.6666666666666,
+  "numberOfVotes": 3,
+  "releaseDate": 1613915580,
+  "sourceUrl": "https://www.spigotmc.org/resources/throwable-fireballs.59566/history"
 }

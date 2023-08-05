@@ -1,12 +1,9 @@
 {
   "name": "4.6.0-SNAPSHOT",
-  "version": {
-    "name": "4.6.0-SNAPSHOT",
-    "downloadUrl": "resources/animatedframes.5583/download?version=207282",
-    "numberOfDownloads": 11,
-    "rating": 7.5384615384616,
-    "numberOfVotes": 13,
-    "releaseDate": 1518114360,
-    "sourceUrl": "https://www.spigotmc.org/resources/animatedframes.5583/history"
-  }
+  "downloadUrl": "resources/animatedframes.5583/download?version=207282",
+  "numberOfDownloads": 11,
+  "rating": 7.5384615384616,
+  "numberOfVotes": 13,
+  "releaseDate": 1518114360,
+  "sourceUrl": "https://www.spigotmc.org/resources/animatedframes.5583/history"
 }

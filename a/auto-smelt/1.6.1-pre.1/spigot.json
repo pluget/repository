@@ -1,12 +1,9 @@
 {
-  "name": "1.6.1-pre.1",
-  "version": {
-    "name": "1.6.1",
-    "downloadUrl": "resources/auto-smelt.71576/download?version=343584",
-    "numberOfDownloads": 1,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1594497660,
-    "sourceUrl": "https://www.spigotmc.org/resources/auto-smelt.71576/history"
-  }
+  "name": "1.6.1",
+  "downloadUrl": "resources/auto-smelt.71576/download?version=343584",
+  "numberOfDownloads": 1,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1594497660,
+  "sourceUrl": "https://www.spigotmc.org/resources/auto-smelt.71576/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.11.0-Beta",
-  "version": {
-    "name": "1.11 Beta",
-    "downloadUrl": "resources/animeboard.87050/download?version=424103",
-    "numberOfDownloads": 92,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1634960280,
-    "sourceUrl": "https://www.spigotmc.org/resources/87050/history/"
-  }
+  "name": "1.11 Beta",
+  "downloadUrl": "resources/animeboard.87050/download?version=424103",
+  "numberOfDownloads": 92,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1634960280,
+  "sourceUrl": "https://www.spigotmc.org/resources/87050/history/"
 }

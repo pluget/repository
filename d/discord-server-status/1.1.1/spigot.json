@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/discord-server-status.107197/download?version=481398",
-    "numberOfDownloads": 51,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1673119560,
-    "sourceUrl": "https://www.spigotmc.org/resources/discord-server-status.107197/history"
-  }
+  "downloadUrl": "resources/discord-server-status.107197/download?version=481398",
+  "numberOfDownloads": 51,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1673119560,
+  "sourceUrl": "https://www.spigotmc.org/resources/discord-server-status.107197/history"
 }

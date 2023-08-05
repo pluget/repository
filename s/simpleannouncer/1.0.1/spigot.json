@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/simpleannouncer.106836/download?version=478959",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1671509640,
-    "sourceUrl": "https://www.spigotmc.org/resources/simpleannouncer.106836/history"
-  }
+  "downloadUrl": "resources/simpleannouncer.106836/download?version=478959",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1671509640,
+  "sourceUrl": "https://www.spigotmc.org/resources/simpleannouncer.106836/history"
 }

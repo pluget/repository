@@ -1,12 +1,9 @@
 {
   "name": "1.5.1",
-  "version": {
-    "name": "1.5.1",
-    "downloadUrl": "resources/spigot-friend-api-for-party-and-friends-for-bungeecord-velocity.12597/download?version=365286",
-    "numberOfDownloads": 867,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1604502720,
-    "sourceUrl": "https://www.spigotmc.org/resources/spigot-friend-api-for-party-and-friends-for-bungeecord-velocity.12597/history"
-  }
+  "downloadUrl": "resources/spigot-friend-api-for-party-and-friends-for-bungeecord-velocity.12597/download?version=365286",
+  "numberOfDownloads": 867,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1604502720,
+  "sourceUrl": "https://www.spigotmc.org/resources/spigot-friend-api-for-party-and-friends-for-bungeecord-velocity.12597/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0-1",
-  "version": {
-    "name": "1.1.0.1",
-    "downloadUrl": "resources/cmilib.87610/download?version=429778",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1638626280,
-    "sourceUrl": "https://www.spigotmc.org/resources/cmilib.87610/history"
-  }
+  "name": "1.1.0.1",
+  "downloadUrl": "resources/cmilib.87610/download?version=429778",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1638626280,
+  "sourceUrl": "https://www.spigotmc.org/resources/cmilib.87610/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.7.5",
-  "version": {
-    "name": "2.7.5",
-    "downloadUrl": "resources/advanced-drop-manager.65396/download?version=289948",
-    "numberOfDownloads": 931,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1566198840,
-    "sourceUrl": "https://www.spigotmc.org/resources/advanced-drop-manager.65396/history"
-  }
+  "downloadUrl": "resources/advanced-drop-manager.65396/download?version=289948",
+  "numberOfDownloads": 931,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1566198840,
+  "sourceUrl": "https://www.spigotmc.org/resources/advanced-drop-manager.65396/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.3.10",
-  "version": {
-    "name": "1.3.10",
-    "downloadUrl": "resources/ezauctions.42574/download?version=273498",
-    "numberOfDownloads": 89,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1557844980,
-    "sourceUrl": "https://www.spigotmc.org/resources/ezauctions.42574/history"
-  }
+  "downloadUrl": "resources/ezauctions.42574/download?version=273498",
+  "numberOfDownloads": 89,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1557844980,
+  "sourceUrl": "https://www.spigotmc.org/resources/ezauctions.42574/history"
 }

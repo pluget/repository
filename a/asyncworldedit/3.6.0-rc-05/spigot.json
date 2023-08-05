@@ -1,12 +1,9 @@
 {
   "name": "3.6.0-rc-05",
-  "version": {
-    "name": "3.6.0-rc-05",
-    "downloadUrl": "resources/asyncworldedit.327/download?version=274225",
-    "numberOfDownloads": 2,
-    "rating": 8,
-    "numberOfVotes": 2,
-    "releaseDate": 1558199280,
-    "sourceUrl": "https://www.spigotmc.org/resources/asyncworldedit.327/history"
-  }
+  "downloadUrl": "resources/asyncworldedit.327/download?version=274225",
+  "numberOfDownloads": 2,
+  "rating": 8,
+  "numberOfVotes": 2,
+  "releaseDate": 1558199280,
+  "sourceUrl": "https://www.spigotmc.org/resources/asyncworldedit.327/history"
 }

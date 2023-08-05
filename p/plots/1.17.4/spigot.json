@@ -1,12 +1,9 @@
 {
   "name": "1.17.4",
-  "version": {
-    "name": "1.17.4",
-    "downloadUrl": "resources/plots.44573/download?version=444335",
-    "numberOfDownloads": 659,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1646762220,
-    "sourceUrl": "https://www.spigotmc.org/resources/plots.44573/history"
-  }
+  "downloadUrl": "resources/plots.44573/download?version=444335",
+  "numberOfDownloads": 659,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1646762220,
+  "sourceUrl": "https://www.spigotmc.org/resources/plots.44573/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/killstats-reborn-papi-support-for-1-19.103847/download?version=463196",
-    "numberOfDownloads": 555,
-    "rating": 4.8571428571428,
-    "numberOfVotes": 7,
-    "releaseDate": 1659223260,
-    "sourceUrl": "https://www.spigotmc.org/resources/103847/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/killstats-reborn-papi-support-for-1-19.103847/download?version=463196",
+  "numberOfDownloads": 555,
+  "rating": 4.8571428571428,
+  "numberOfVotes": 7,
+  "releaseDate": 1659223260,
+  "sourceUrl": "https://www.spigotmc.org/resources/103847/history/"
 }

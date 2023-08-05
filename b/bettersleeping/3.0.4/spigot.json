@@ -1,12 +1,9 @@
 {
   "name": "3.0.4",
-  "version": {
-    "name": "3.0.4",
-    "downloadUrl": "resources/bettersleeping.60837/download?version=362527",
-    "numberOfDownloads": 40,
-    "rating": 7.2307692307692,
-    "numberOfVotes": 13,
-    "releaseDate": 1603094280,
-    "sourceUrl": "https://www.spigotmc.org/resources/bettersleeping.60837/history"
-  }
+  "downloadUrl": "resources/bettersleeping.60837/download?version=362527",
+  "numberOfDownloads": 40,
+  "rating": 7.2307692307692,
+  "numberOfVotes": 13,
+  "releaseDate": 1603094280,
+  "sourceUrl": "https://www.spigotmc.org/resources/bettersleeping.60837/history"
 }

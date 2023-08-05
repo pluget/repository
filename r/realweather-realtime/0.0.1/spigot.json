@@ -1,12 +1,9 @@
 {
   "name": "0.0.1",
-  "version": {
-    "name": "0.0.1",
-    "downloadUrl": "resources/realweather-realtime.101599/download?version=449989",
-    "numberOfDownloads": 19,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1650735120,
-    "sourceUrl": "https://www.spigotmc.org/resources/101599/history/"
-  }
+  "downloadUrl": "resources/realweather-realtime.101599/download?version=449989",
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1650735120,
+  "sourceUrl": "https://www.spigotmc.org/resources/101599/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/hat.33980/download?version=323422",
-    "numberOfDownloads": 6,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1586434440,
-    "sourceUrl": "https://www.spigotmc.org/resources/hat.33980/history"
-  }
+  "downloadUrl": "resources/hat.33980/download?version=323422",
+  "numberOfDownloads": 6,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1586434440,
+  "sourceUrl": "https://www.spigotmc.org/resources/hat.33980/history"
 }

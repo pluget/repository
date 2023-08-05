@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/tlogs.106211/download?version=477539",
-    "numberOfDownloads": 3,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1670430420,
-    "sourceUrl": "https://www.spigotmc.org/resources/tlogs.106211/history"
-  }
+  "downloadUrl": "resources/tlogs.106211/download?version=477539",
+  "numberOfDownloads": 3,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1670430420,
+  "sourceUrl": "https://www.spigotmc.org/resources/tlogs.106211/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.15.5",
-  "version": {
-    "name": "1.15.5",
-    "downloadUrl": "resources/staff.83562/download?version=356121",
-    "numberOfDownloads": 26,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1599731580,
-    "sourceUrl": "https://www.spigotmc.org/resources/staff.83562/history"
-  }
+  "downloadUrl": "resources/staff.83562/download?version=356121",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1599731580,
+  "sourceUrl": "https://www.spigotmc.org/resources/staff.83562/history"
 }

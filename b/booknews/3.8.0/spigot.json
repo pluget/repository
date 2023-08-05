@@ -1,12 +1,9 @@
 {
-  "name": "3.8.0",
-  "version": {
-    "name": "3.8",
-    "downloadUrl": "resources/booknews-1-8-1-19-4.61163/download?version=272210",
-    "numberOfDownloads": 654,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1557118080,
-    "sourceUrl": "https://www.spigotmc.org/resources/booknews-1-8-1-19-4.61163/history"
-  }
+  "name": "3.8",
+  "downloadUrl": "resources/booknews-1-8-1-19-4.61163/download?version=272210",
+  "numberOfDownloads": 654,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1557118080,
+  "sourceUrl": "https://www.spigotmc.org/resources/booknews-1-8-1-19-4.61163/history"
 }

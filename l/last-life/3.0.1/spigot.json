@@ -1,12 +1,9 @@
 {
   "name": "3.0.1",
-  "version": {
-    "name": "3.0.1",
-    "downloadUrl": "resources/last-life.91586/download?version=466735",
-    "numberOfDownloads": 4,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1661218560,
-    "sourceUrl": "https://www.spigotmc.org/resources/last-life.91586/history"
-  }
+  "downloadUrl": "resources/last-life.91586/download?version=466735",
+  "numberOfDownloads": 4,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1661218560,
+  "sourceUrl": "https://www.spigotmc.org/resources/last-life.91586/history"
 }

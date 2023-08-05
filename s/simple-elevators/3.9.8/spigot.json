@@ -1,12 +1,9 @@
 {
   "name": "3.9.8",
-  "version": {
-    "name": "3.9.8",
-    "downloadUrl": "resources/simple-elevators-1-8-1-19.44462/download?version=318458",
-    "numberOfDownloads": 3,
-    "rating": 10,
-    "numberOfVotes": 7,
-    "releaseDate": 1584289620,
-    "sourceUrl": "https://www.spigotmc.org/resources/simple-elevators-1-8-1-19.44462/history"
-  }
+  "downloadUrl": "resources/simple-elevators-1-8-1-19.44462/download?version=318458",
+  "numberOfDownloads": 3,
+  "rating": 10,
+  "numberOfVotes": 7,
+  "releaseDate": 1584289620,
+  "sourceUrl": "https://www.spigotmc.org/resources/simple-elevators-1-8-1-19.44462/history"
 }

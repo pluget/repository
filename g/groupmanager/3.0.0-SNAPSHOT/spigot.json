@@ -1,12 +1,9 @@
 {
-  "name": "3.0.0-SNAPSHOT",
-  "version": {
-    "name": "v3.0-SNAPSHOT",
-    "downloadUrl": "resources/groupmanager.38875/download?version=468776",
-    "numberOfDownloads": 24,
-    "rating": 10,
-    "numberOfVotes": 5,
-    "releaseDate": 1662606960,
-    "sourceUrl": "https://www.spigotmc.org/resources/groupmanager.38875/history"
-  }
+  "name": "v3.0-SNAPSHOT",
+  "downloadUrl": "resources/groupmanager.38875/download?version=468776",
+  "numberOfDownloads": 24,
+  "rating": 10,
+  "numberOfVotes": 5,
+  "releaseDate": 1662606960,
+  "sourceUrl": "https://www.spigotmc.org/resources/groupmanager.38875/history"
 }

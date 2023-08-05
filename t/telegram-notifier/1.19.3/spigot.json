@@ -1,12 +1,9 @@
 {
   "name": "1.19.3",
-  "version": {
-    "name": "1.19.3",
-    "downloadUrl": "resources/telegram-notifier.108390/download?version=488064",
-    "numberOfDownloads": 16,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1678032180,
-    "sourceUrl": "https://www.spigotmc.org/resources/108390/history/"
-  }
+  "downloadUrl": "resources/telegram-notifier.108390/download?version=488064",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1678032180,
+  "sourceUrl": "https://www.spigotmc.org/resources/108390/history/"
 }

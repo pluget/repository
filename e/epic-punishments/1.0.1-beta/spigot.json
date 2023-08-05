@@ -1,12 +1,9 @@
 {
   "name": "1.0.1-beta",
-  "version": {
-    "name": "1.0.1-beta",
-    "downloadUrl": "resources/epic-punishments.98340/download?version=431322",
-    "numberOfDownloads": 48,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1639337820,
-    "sourceUrl": "https://www.spigotmc.org/resources/epic-punishments.98340/history"
-  }
+  "downloadUrl": "resources/epic-punishments.98340/download?version=431322",
+  "numberOfDownloads": 48,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1639337820,
+  "sourceUrl": "https://www.spigotmc.org/resources/epic-punishments.98340/history"
 }

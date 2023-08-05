@@ -1,12 +1,9 @@
 {
   "name": "2.6.0",
-  "version": {
-    "name": "2.6.0",
-    "downloadUrl": "resources/taupegun.71186/download?version=362789",
-    "numberOfDownloads": 390,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1603228740,
-    "sourceUrl": "https://www.spigotmc.org/resources/taupegun.71186/history"
-  }
+  "downloadUrl": "resources/taupegun.71186/download?version=362789",
+  "numberOfDownloads": 390,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1603228740,
+  "sourceUrl": "https://www.spigotmc.org/resources/taupegun.71186/history"
 }

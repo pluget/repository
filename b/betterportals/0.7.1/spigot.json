@@ -1,12 +1,9 @@
 {
   "name": "0.7.1",
-  "version": {
-    "name": "0.7.1",
-    "downloadUrl": "resources/betterportals.75409/download?version=385491",
-    "numberOfDownloads": 2,
-    "rating": 8.6666666666666,
-    "numberOfVotes": 6,
-    "releaseDate": 1614232200,
-    "sourceUrl": "https://www.spigotmc.org/resources/75409/history/"
-  }
+  "downloadUrl": "resources/betterportals.75409/download?version=385491",
+  "numberOfDownloads": 2,
+  "rating": 8.6666666666666,
+  "numberOfVotes": 6,
+  "releaseDate": 1614232200,
+  "sourceUrl": "https://www.spigotmc.org/resources/75409/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "2.5.3-b",
-  "version": {
-    "name": "2.5.3b",
-    "downloadUrl": "resources/commandsync.52093/download?version=270199",
-    "numberOfDownloads": 2,
-    "rating": 9.6842105263158,
-    "numberOfVotes": 19,
-    "releaseDate": 1556102460,
-    "sourceUrl": "https://www.spigotmc.org/resources/commandsync.52093/history"
-  }
+  "name": "2.5.3b",
+  "downloadUrl": "resources/commandsync.52093/download?version=270199",
+  "numberOfDownloads": 2,
+  "rating": 9.6842105263158,
+  "numberOfVotes": 19,
+  "releaseDate": 1556102460,
+  "sourceUrl": "https://www.spigotmc.org/resources/commandsync.52093/history"
 }

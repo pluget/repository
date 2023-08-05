@@ -1,12 +1,9 @@
 {
   "name": "3.0.2",
-  "version": {
-    "name": "3.0.2",
-    "downloadUrl": "resources/antirelog.101217/download?version=448125",
-    "numberOfDownloads": 71,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1649429100,
-    "sourceUrl": "https://www.spigotmc.org/resources/antirelog.101217/history"
-  }
+  "downloadUrl": "resources/antirelog.101217/download?version=448125",
+  "numberOfDownloads": 71,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1649429100,
+  "sourceUrl": "https://www.spigotmc.org/resources/antirelog.101217/history"
 }

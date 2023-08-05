@@ -1,12 +1,9 @@
 {
-  "name": "3.0.0-pre.1",
-  "version": {
-    "name": "3.0.0",
-    "downloadUrl": "resources/profilestorage.65030/download?version=448946",
-    "numberOfDownloads": 105,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1650026700,
-    "sourceUrl": "https://www.spigotmc.org/resources/profilestorage.65030/history"
-  }
+  "name": "3.0.0",
+  "downloadUrl": "resources/profilestorage.65030/download?version=448946",
+  "numberOfDownloads": 105,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1650026700,
+  "sourceUrl": "https://www.spigotmc.org/resources/profilestorage.65030/history"
 }

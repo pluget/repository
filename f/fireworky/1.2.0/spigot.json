@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/fireworky-gui-firework-editor.105751/download?version=473803",
-    "numberOfDownloads": 70,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1667101860,
-    "sourceUrl": "https://www.spigotmc.org/resources/105751/history/"
-  }
+  "downloadUrl": "resources/fireworky-gui-firework-editor.105751/download?version=473803",
+  "numberOfDownloads": 70,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1667101860,
+  "sourceUrl": "https://www.spigotmc.org/resources/105751/history/"
 }

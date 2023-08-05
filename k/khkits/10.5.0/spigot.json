@@ -1,12 +1,9 @@
 {
-  "name": "10.5.0",
-  "version": {
-    "name": "10.5",
-    "downloadUrl": "resources/khkits.67595/download?version=366591",
-    "numberOfDownloads": 259,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1605129960,
-    "sourceUrl": "https://www.spigotmc.org/resources/67595/history/"
-  }
+  "name": "10.5",
+  "downloadUrl": "resources/khkits.67595/download?version=366591",
+  "numberOfDownloads": 259,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1605129960,
+  "sourceUrl": "https://www.spigotmc.org/resources/67595/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.24.19",
-  "version": {
-    "name": "1.24.19",
-    "downloadUrl": "resources/custom-jumppads-1-8-1-19.44876/download?version=346168",
-    "numberOfDownloads": 1,
-    "rating": 8.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1595504640,
-    "sourceUrl": "https://www.spigotmc.org/resources/custom-jumppads-1-8-1-19.44876/history"
-  }
+  "downloadUrl": "resources/custom-jumppads-1-8-1-19.44876/download?version=346168",
+  "numberOfDownloads": 1,
+  "rating": 8.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1595504640,
+  "sourceUrl": "https://www.spigotmc.org/resources/custom-jumppads-1-8-1-19.44876/history"
 }

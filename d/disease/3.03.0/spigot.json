@@ -1,12 +1,9 @@
 {
-  "name": "3.03.0",
-  "version": {
-    "name": "3.03",
-    "downloadUrl": "resources/disease.3911/download?version=255436",
-    "numberOfDownloads": 393,
-    "rating": 7.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1546618680,
-    "sourceUrl": "https://www.spigotmc.org/resources/disease.3911/history"
-  }
+  "name": "3.03",
+  "downloadUrl": "resources/disease.3911/download?version=255436",
+  "numberOfDownloads": 393,
+  "rating": 7.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1546618680,
+  "sourceUrl": "https://www.spigotmc.org/resources/disease.3911/history"
 }

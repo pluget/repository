@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/piano.103490/download?version=482676",
-    "numberOfDownloads": 207,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1674113400,
-    "sourceUrl": "https://www.spigotmc.org/resources/103490/history/"
-  }
+  "downloadUrl": "resources/piano.103490/download?version=482676",
+  "numberOfDownloads": 207,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1674113400,
+  "sourceUrl": "https://www.spigotmc.org/resources/103490/history/"
 }

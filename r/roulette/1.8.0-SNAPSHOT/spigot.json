@@ -1,12 +1,9 @@
 {
-  "name": "1.8.0-SNAPSHOT",
-  "version": {
-    "name": "1.8-SNAPSHOT",
-    "downloadUrl": "resources/roulette.82197/download?version=436164",
-    "numberOfDownloads": 676,
-    "rating": 8,
-    "numberOfVotes": 8,
-    "releaseDate": 1641915600,
-    "sourceUrl": "https://www.spigotmc.org/resources/roulette.82197/history"
-  }
+  "name": "1.8-SNAPSHOT",
+  "downloadUrl": "resources/roulette.82197/download?version=436164",
+  "numberOfDownloads": 676,
+  "rating": 8,
+  "numberOfVotes": 8,
+  "releaseDate": 1641915600,
+  "sourceUrl": "https://www.spigotmc.org/resources/roulette.82197/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.2.2",
-  "version": {
-    "name": "2.2.2",
-    "downloadUrl": "resources/visual-bukkit-create-plugins.76474/download?version=379055",
-    "numberOfDownloads": 468,
-    "rating": 10,
-    "numberOfVotes": 5,
-    "releaseDate": 1611351660,
-    "sourceUrl": "https://www.spigotmc.org/resources/visual-bukkit-create-plugins.76474/history"
-  }
+  "downloadUrl": "resources/visual-bukkit-create-plugins.76474/download?version=379055",
+  "numberOfDownloads": 468,
+  "rating": 10,
+  "numberOfVotes": 5,
+  "releaseDate": 1611351660,
+  "sourceUrl": "https://www.spigotmc.org/resources/visual-bukkit-create-plugins.76474/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.17.0-x-1.18.x-1.19.x",
-  "version": {
-    "name": "1.17.x 1.18.x 1.19.x",
-    "downloadUrl": "resources/geyserfix-for-bamboo-glitch.107052/download?version=480299",
-    "numberOfDownloads": 59,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672398120,
-    "sourceUrl": "https://www.spigotmc.org/resources/geyserfix-for-bamboo-glitch.107052/history"
-  }
+  "name": "1.17.x 1.18.x 1.19.x",
+  "downloadUrl": "resources/geyserfix-for-bamboo-glitch.107052/download?version=480299",
+  "numberOfDownloads": 59,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672398120,
+  "sourceUrl": "https://www.spigotmc.org/resources/geyserfix-for-bamboo-glitch.107052/history"
 }

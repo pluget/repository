@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/chatcontrol.101003/download?version=455516",
-    "numberOfDownloads": 164,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1654850160,
-    "sourceUrl": "https://www.spigotmc.org/resources/chatcontrol.101003/history"
-  }
+  "downloadUrl": "resources/chatcontrol.101003/download?version=455516",
+  "numberOfDownloads": 164,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1654850160,
+  "sourceUrl": "https://www.spigotmc.org/resources/chatcontrol.101003/history"
 }

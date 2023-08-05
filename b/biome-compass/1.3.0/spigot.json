@@ -1,12 +1,9 @@
 {
   "name": "1.3.0",
-  "version": {
-    "name": "1.3.0",
-    "downloadUrl": "resources/biome-compass.106779/download?version=485984",
-    "numberOfDownloads": 78,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1676470680,
-    "sourceUrl": "https://www.spigotmc.org/resources/biome-compass.106779/history"
-  }
+  "downloadUrl": "resources/biome-compass.106779/download?version=485984",
+  "numberOfDownloads": 78,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1676470680,
+  "sourceUrl": "https://www.spigotmc.org/resources/biome-compass.106779/history"
 }

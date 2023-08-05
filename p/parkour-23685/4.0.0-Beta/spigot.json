@@ -1,12 +1,9 @@
 {
-  "name": "4.0.0-Beta",
-  "version": {
-    "name": "Version 4.0 Beta",
-    "downloadUrl": "resources/parkour.23685/download?version=138265",
-    "numberOfDownloads": 357,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1485175860,
-    "sourceUrl": "https://www.spigotmc.org/resources/parkour.23685/history"
-  }
+  "name": "Version 4.0 Beta",
+  "downloadUrl": "resources/parkour.23685/download?version=138265",
+  "numberOfDownloads": 357,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1485175860,
+  "sourceUrl": "https://www.spigotmc.org/resources/parkour.23685/history"
 }

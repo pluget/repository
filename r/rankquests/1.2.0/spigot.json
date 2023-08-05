@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/rankquests-extremely-configurable.26072/download?version=326163",
-    "numberOfDownloads": 128,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1587445860,
-    "sourceUrl": "https://www.spigotmc.org/resources/rankquests-extremely-configurable.26072/history"
-  }
+  "downloadUrl": "resources/rankquests-extremely-configurable.26072/download?version=326163",
+  "numberOfDownloads": 128,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1587445860,
+  "sourceUrl": "https://www.spigotmc.org/resources/rankquests-extremely-configurable.26072/history"
 }

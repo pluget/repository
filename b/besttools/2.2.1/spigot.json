@@ -1,12 +1,9 @@
 {
   "name": "2.2.1",
-  "version": {
-    "name": "2.2.1",
-    "downloadUrl": "resources/besttools.81490/download?version=486062",
-    "numberOfDownloads": 504,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1676533200,
-    "sourceUrl": "https://www.spigotmc.org/resources/besttools.81490/history"
-  }
+  "downloadUrl": "resources/besttools.81490/download?version=486062",
+  "numberOfDownloads": 504,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1676533200,
+  "sourceUrl": "https://www.spigotmc.org/resources/besttools.81490/history"
 }

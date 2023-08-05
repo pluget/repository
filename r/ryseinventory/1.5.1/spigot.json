@@ -1,12 +1,9 @@
 {
   "name": "1.5.1",
-  "version": {
-    "name": "1.5.1",
-    "downloadUrl": "resources/ryseinventory-advanced-inventory-api-1-8-1-19-adventure-support.100325/download?version=470379",
-    "numberOfDownloads": 27,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1664010900,
-    "sourceUrl": "https://www.spigotmc.org/resources/ryseinventory-advanced-inventory-api-1-8-1-19-adventure-support.100325/history"
-  }
+  "downloadUrl": "resources/ryseinventory-advanced-inventory-api-1-8-1-19-adventure-support.100325/download?version=470379",
+  "numberOfDownloads": 27,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1664010900,
+  "sourceUrl": "https://www.spigotmc.org/resources/ryseinventory-advanced-inventory-api-1-8-1-19-adventure-support.100325/history"
 }

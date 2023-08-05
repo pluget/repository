@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/privateserver.102489/download?version=455061",
-    "numberOfDownloads": 46,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1654636860,
-    "sourceUrl": "https://www.spigotmc.org/resources/privateserver.102489/history"
-  }
+  "downloadUrl": "resources/privateserver.102489/download?version=455061",
+  "numberOfDownloads": 46,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1654636860,
+  "sourceUrl": "https://www.spigotmc.org/resources/privateserver.102489/history"
 }

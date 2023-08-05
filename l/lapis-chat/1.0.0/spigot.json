@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/lapis-chat.59174/download?version=232212",
-    "numberOfDownloads": 51,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1532788800,
-    "sourceUrl": "https://www.spigotmc.org/resources/lapis-chat.59174/history"
-  }
+  "downloadUrl": "resources/lapis-chat.59174/download?version=232212",
+  "numberOfDownloads": 51,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1532788800,
+  "sourceUrl": "https://www.spigotmc.org/resources/lapis-chat.59174/history"
 }

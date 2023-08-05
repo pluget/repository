@@ -1,12 +1,9 @@
 {
   "name": "1.2.9",
-  "version": {
-    "name": "1.2.9",
-    "downloadUrl": "resources/teleportbow.89723/download?version=482948",
-    "numberOfDownloads": 53,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1674306540,
-    "sourceUrl": "https://www.spigotmc.org/resources/89723/history/"
-  }
+  "downloadUrl": "resources/teleportbow.89723/download?version=482948",
+  "numberOfDownloads": 53,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1674306540,
+  "sourceUrl": "https://www.spigotmc.org/resources/89723/history/"
 }

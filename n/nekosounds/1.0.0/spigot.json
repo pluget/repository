@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/nekosounds-1-14-1-19.106384/download?version=476112",
-    "numberOfDownloads": 9,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1669093080,
-    "sourceUrl": "https://www.spigotmc.org/resources/nekosounds-1-14-1-19.106384/history"
-  }
+  "downloadUrl": "resources/nekosounds-1-14-1-19.106384/download?version=476112",
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1669093080,
+  "sourceUrl": "https://www.spigotmc.org/resources/nekosounds-1-14-1-19.106384/history"
 }

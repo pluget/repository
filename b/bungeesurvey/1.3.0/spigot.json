@@ -1,12 +1,9 @@
 {
   "name": "1.3.0",
-  "version": {
-    "name": "1.3.0",
-    "downloadUrl": "resources/bungeesurvey-bungeecord-survey-poll-plugin.66271/download?version=307248",
-    "numberOfDownloads": 129,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1577613000,
-    "sourceUrl": "https://www.spigotmc.org/resources/bungeesurvey-bungeecord-survey-poll-plugin.66271/history"
-  }
+  "downloadUrl": "resources/bungeesurvey-bungeecord-survey-poll-plugin.66271/download?version=307248",
+  "numberOfDownloads": 129,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1577613000,
+  "sourceUrl": "https://www.spigotmc.org/resources/bungeesurvey-bungeecord-survey-poll-plugin.66271/history"
 }

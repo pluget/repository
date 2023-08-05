@@ -1,12 +1,9 @@
 {
-  "name": "1.11.0",
-  "version": {
-    "name": "v1.11",
-    "downloadUrl": "resources/chess-and-more.108263/download?version=488264",
-    "numberOfDownloads": 32,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1678183800,
-    "sourceUrl": "https://www.spigotmc.org/resources/chess-and-more.108263/history"
-  }
+  "name": "v1.11",
+  "downloadUrl": "resources/chess-and-more.108263/download?version=488264",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1678183800,
+  "sourceUrl": "https://www.spigotmc.org/resources/chess-and-more.108263/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "0.67.0",
-  "version": {
-    "name": "0.67",
-    "downloadUrl": "resources/tapp-towny-apartments-flats.99390/download?version=457225",
-    "numberOfDownloads": 19,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1655717580,
-    "sourceUrl": "https://www.spigotmc.org/resources/99390/history/"
-  }
+  "name": "0.67",
+  "downloadUrl": "resources/tapp-towny-apartments-flats.99390/download?version=457225",
+  "numberOfDownloads": 19,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1655717580,
+  "sourceUrl": "https://www.spigotmc.org/resources/99390/history/"
 }

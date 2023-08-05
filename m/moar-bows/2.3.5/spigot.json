@@ -1,12 +1,9 @@
 {
   "name": "2.3.5",
-  "version": {
-    "name": "2.3.5",
-    "downloadUrl": "resources/moar-bows.36387/download?version=253537",
-    "numberOfDownloads": 945,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1545498000,
-    "sourceUrl": "https://www.spigotmc.org/resources/moar-bows.36387/history"
-  }
+  "downloadUrl": "resources/moar-bows.36387/download?version=253537",
+  "numberOfDownloads": 945,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1545498000,
+  "sourceUrl": "https://www.spigotmc.org/resources/moar-bows.36387/history"
 }

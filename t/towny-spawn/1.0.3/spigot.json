@@ -1,12 +1,9 @@
 {
   "name": "1.0.3",
-  "version": {
-    "name": "1.0.3",
-    "downloadUrl": "resources/towny-spawn-menu.105225/download?version=469298",
-    "numberOfDownloads": 35,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1663009560,
-    "sourceUrl": "https://www.spigotmc.org/resources/towny-spawn-menu.105225/history"
-  }
+  "downloadUrl": "resources/towny-spawn-menu.105225/download?version=469298",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1663009560,
+  "sourceUrl": "https://www.spigotmc.org/resources/towny-spawn-menu.105225/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.0.1-Beta",
-  "version": {
-    "name": "1.0.1 Beta",
-    "downloadUrl": "resources/gamemodecommand.101415/download?version=452440",
-    "numberOfDownloads": 37,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1652697480,
-    "sourceUrl": "https://www.spigotmc.org/resources/101415/history/"
-  }
+  "name": "1.0.1 Beta",
+  "downloadUrl": "resources/gamemodecommand.101415/download?version=452440",
+  "numberOfDownloads": 37,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1652697480,
+  "sourceUrl": "https://www.spigotmc.org/resources/101415/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.4.0",
-  "version": {
-    "name": "1.4.0",
-    "downloadUrl": "resources/ezauctions.42574/download?version=274091",
-    "numberOfDownloads": 147,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1558138620,
-    "sourceUrl": "https://www.spigotmc.org/resources/ezauctions.42574/history"
-  }
+  "downloadUrl": "resources/ezauctions.42574/download?version=274091",
+  "numberOfDownloads": 147,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1558138620,
+  "sourceUrl": "https://www.spigotmc.org/resources/ezauctions.42574/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.5-SNAPSHOT",
-  "version": {
-    "name": "1.0.5-SNAPSHOT",
-    "downloadUrl": "resources/portal-gun.96641/download?version=467189",
-    "numberOfDownloads": 222,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1661524860,
-    "sourceUrl": "https://www.spigotmc.org/resources/portal-gun.96641/history"
-  }
+  "downloadUrl": "resources/portal-gun.96641/download?version=467189",
+  "numberOfDownloads": 222,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1661524860,
+  "sourceUrl": "https://www.spigotmc.org/resources/portal-gun.96641/history"
 }

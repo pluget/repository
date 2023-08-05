@@ -1,12 +1,9 @@
 {
   "name": "2.0.1",
-  "version": {
-    "name": "2.0.1",
-    "downloadUrl": "resources/enchantcrystals.75155/download?version=422642",
-    "numberOfDownloads": 32,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1633901340,
-    "sourceUrl": "https://www.spigotmc.org/resources/enchantcrystals.75155/history"
-  }
+  "downloadUrl": "resources/enchantcrystals.75155/download?version=422642",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1633901340,
+  "sourceUrl": "https://www.spigotmc.org/resources/enchantcrystals.75155/history"
 }

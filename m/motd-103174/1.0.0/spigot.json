@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/motd.103174/download?version=459644",
-    "numberOfDownloads": 192,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657146660,
-    "sourceUrl": "https://www.spigotmc.org/resources/motd.103174/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/motd.103174/download?version=459644",
+  "numberOfDownloads": 192,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657146660,
+  "sourceUrl": "https://www.spigotmc.org/resources/motd.103174/history"
 }

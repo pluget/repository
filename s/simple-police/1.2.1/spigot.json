@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/simple-police.73996/download?version=319115",
-    "numberOfDownloads": 90,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1584637380,
-    "sourceUrl": "https://www.spigotmc.org/resources/simple-police.73996/history"
-  }
+  "downloadUrl": "resources/simple-police.73996/download?version=319115",
+  "numberOfDownloads": 90,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1584637380,
+  "sourceUrl": "https://www.spigotmc.org/resources/simple-police.73996/history"
 }

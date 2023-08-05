@@ -1,12 +1,9 @@
 {
   "name": "0.9.0",
-  "version": {
-    "name": "0.9.0",
-    "downloadUrl": "resources/mp-auto-pickup.80867/download?version=340746",
-    "numberOfDownloads": 76,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1593475740,
-    "sourceUrl": "https://www.spigotmc.org/resources/mp-auto-pickup.80867/history"
-  }
+  "downloadUrl": "resources/mp-auto-pickup.80867/download?version=340746",
+  "numberOfDownloads": 76,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1593475740,
+  "sourceUrl": "https://www.spigotmc.org/resources/mp-auto-pickup.80867/history"
 }

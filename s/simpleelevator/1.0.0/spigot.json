@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/simpleelevator-1-13.106759/download?version=478463",
-    "numberOfDownloads": 64,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1671180720,
-    "sourceUrl": "https://www.spigotmc.org/resources/simpleelevator-1-13.106759/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/simpleelevator-1-13.106759/download?version=478463",
+  "numberOfDownloads": 64,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1671180720,
+  "sourceUrl": "https://www.spigotmc.org/resources/simpleelevator-1-13.106759/history"
 }

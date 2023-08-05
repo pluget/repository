@@ -1,12 +1,9 @@
 {
   "name": "4.3.0",
-  "version": {
-    "name": "4.3.0",
-    "downloadUrl": "resources/chunk-spawner-limiter-1-13-1-19-3.66281/download?version=481598",
-    "numberOfDownloads": 512,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1673263560,
-    "sourceUrl": "https://www.spigotmc.org/resources/66281/history/"
-  }
+  "downloadUrl": "resources/chunk-spawner-limiter-1-13-1-19-3.66281/download?version=481598",
+  "numberOfDownloads": 512,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1673263560,
+  "sourceUrl": "https://www.spigotmc.org/resources/66281/history/"
 }

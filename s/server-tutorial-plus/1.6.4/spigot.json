@@ -1,12 +1,9 @@
 {
   "name": "1.6.4",
-  "version": {
-    "name": "1.6.4",
-    "downloadUrl": "resources/server-tutorial-plus.37741/download?version=166167",
-    "numberOfDownloads": 372,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1497709980,
-    "sourceUrl": "https://www.spigotmc.org/resources/server-tutorial-plus.37741/history"
-  }
+  "downloadUrl": "resources/server-tutorial-plus.37741/download?version=166167",
+  "numberOfDownloads": 372,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1497709980,
+  "sourceUrl": "https://www.spigotmc.org/resources/server-tutorial-plus.37741/history"
 }

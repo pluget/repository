@@ -1,12 +1,9 @@
 {
   "name": "0.9.2",
-  "version": {
-    "name": "0.9.2",
-    "downloadUrl": "resources/anchorwars.99374/download?version=438615",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1643290920,
-    "sourceUrl": "https://www.spigotmc.org/resources/anchorwars.99374/history"
-  }
+  "downloadUrl": "resources/anchorwars.99374/download?version=438615",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1643290920,
+  "sourceUrl": "https://www.spigotmc.org/resources/anchorwars.99374/history"
 }

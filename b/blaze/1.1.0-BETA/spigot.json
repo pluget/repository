@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0-BETA",
-  "version": {
-    "name": "1.1-BETA",
-    "downloadUrl": "resources/blaze-play-audio-in-minecraft.101278/download?version=473218",
-    "numberOfDownloads": 41,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1666541520,
-    "sourceUrl": "https://www.spigotmc.org/resources/blaze-play-audio-in-minecraft.101278/history"
-  }
+  "name": "1.1-BETA",
+  "downloadUrl": "resources/blaze-play-audio-in-minecraft.101278/download?version=473218",
+  "numberOfDownloads": 41,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1666541520,
+  "sourceUrl": "https://www.spigotmc.org/resources/blaze-play-audio-in-minecraft.101278/history"
 }

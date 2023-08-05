@@ -1,12 +1,9 @@
 {
   "name": "2.2.4",
-  "version": {
-    "name": "2.2.4",
-    "downloadUrl": "resources/lwc-extended.69551/download?version=313310",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1581153660,
-    "sourceUrl": "https://www.spigotmc.org/resources/lwc-extended.69551/history"
-  }
+  "downloadUrl": "resources/lwc-extended.69551/download?version=313310",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1581153660,
+  "sourceUrl": "https://www.spigotmc.org/resources/lwc-extended.69551/history"
 }

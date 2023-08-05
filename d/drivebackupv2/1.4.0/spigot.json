@@ -1,12 +1,9 @@
 {
   "name": "1.4.0",
-  "version": {
-    "name": "1.4.0",
-    "downloadUrl": "resources/drivebackupv2.79519/download?version=401604",
-    "numberOfDownloads": 1,
-    "rating": 8,
-    "numberOfVotes": 4,
-    "releaseDate": 1622768880,
-    "sourceUrl": "https://www.spigotmc.org/resources/drivebackupv2.79519/history"
-  }
+  "downloadUrl": "resources/drivebackupv2.79519/download?version=401604",
+  "numberOfDownloads": 1,
+  "rating": 8,
+  "numberOfVotes": 4,
+  "releaseDate": 1622768880,
+  "sourceUrl": "https://www.spigotmc.org/resources/drivebackupv2.79519/history"
 }

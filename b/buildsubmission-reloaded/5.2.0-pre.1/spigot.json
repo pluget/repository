@@ -1,12 +1,9 @@
 {
-  "name": "5.2.0-pre.1",
-  "version": {
-    "name": "5.2",
-    "downloadUrl": "resources/buildsubmission-reloaded-1-13-x-1-19-x.81280/download?version=376628",
-    "numberOfDownloads": 107,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1610262600,
-    "sourceUrl": "https://www.spigotmc.org/resources/buildsubmission-reloaded-1-13-x-1-19-x.81280/history"
-  }
+  "name": "5.2",
+  "downloadUrl": "resources/buildsubmission-reloaded-1-13-x-1-19-x.81280/download?version=376628",
+  "numberOfDownloads": 107,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1610262600,
+  "sourceUrl": "https://www.spigotmc.org/resources/buildsubmission-reloaded-1-13-x-1-19-x.81280/history"
 }

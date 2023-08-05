@@ -1,12 +1,9 @@
 {
-  "name": "1.5.0-pre.1",
-  "version": {
-    "name": "1.5.0",
-    "downloadUrl": "resources/geyserupdater.88555/download?version=406684",
-    "numberOfDownloads": 366,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1625170020,
-    "sourceUrl": "https://www.spigotmc.org/resources/88555/history/"
-  }
+  "name": "1.5.0",
+  "downloadUrl": "resources/geyserupdater.88555/download?version=406684",
+  "numberOfDownloads": 366,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1625170020,
+  "sourceUrl": "https://www.spigotmc.org/resources/88555/history/"
 }

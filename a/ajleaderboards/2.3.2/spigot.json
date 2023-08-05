@@ -1,12 +1,9 @@
 {
   "name": "2.3.2",
-  "version": {
-    "name": "2.3.2",
-    "downloadUrl": "resources/ajleaderboards.85548/download?version=448281",
-    "numberOfDownloads": 629,
-    "rating": 8,
-    "numberOfVotes": 2,
-    "releaseDate": 1649531280,
-    "sourceUrl": "https://www.spigotmc.org/resources/ajleaderboards.85548/history"
-  }
+  "downloadUrl": "resources/ajleaderboards.85548/download?version=448281",
+  "numberOfDownloads": 629,
+  "rating": 8,
+  "numberOfVotes": 2,
+  "releaseDate": 1649531280,
+  "sourceUrl": "https://www.spigotmc.org/resources/ajleaderboards.85548/history"
 }

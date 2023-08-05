@@ -1,12 +1,9 @@
 {
   "name": "1.1.2",
-  "version": {
-    "name": "1.1.2",
-    "downloadUrl": "resources/worldloader.96891/download?version=455801",
-    "numberOfDownloads": 49,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1654974720,
-    "sourceUrl": "https://www.spigotmc.org/resources/96891/history/"
-  }
+  "downloadUrl": "resources/worldloader.96891/download?version=455801",
+  "numberOfDownloads": 49,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1654974720,
+  "sourceUrl": "https://www.spigotmc.org/resources/96891/history/"
 }

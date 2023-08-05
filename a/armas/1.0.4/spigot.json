@@ -1,12 +1,9 @@
 {
   "name": "1.0.4",
-  "version": {
-    "name": "1.0.4",
-    "downloadUrl": "resources/armas-weapons-abf.83943/download?version=477365",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1670236560,
-    "sourceUrl": "https://www.spigotmc.org/resources/armas-weapons-abf.83943/history"
-  }
+  "downloadUrl": "resources/armas-weapons-abf.83943/download?version=477365",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1670236560,
+  "sourceUrl": "https://www.spigotmc.org/resources/armas-weapons-abf.83943/history"
 }

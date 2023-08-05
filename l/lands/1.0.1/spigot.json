@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/cartographer2-addon-lands.87038/download?version=373806",
-    "numberOfDownloads": 42,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1608906780,
-    "sourceUrl": "https://www.spigotmc.org/resources/cartographer2-addon-lands.87038/history"
-  }
+  "downloadUrl": "resources/cartographer2-addon-lands.87038/download?version=373806",
+  "numberOfDownloads": 42,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1608906780,
+  "sourceUrl": "https://www.spigotmc.org/resources/cartographer2-addon-lands.87038/history"
 }

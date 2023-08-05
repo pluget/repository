@@ -1,12 +1,9 @@
 {
   "name": "1.0.5",
-  "version": {
-    "name": "1.0.5",
-    "downloadUrl": "resources/aquacoins-1-13-1-18-2.101302/download?version=452077",
-    "numberOfDownloads": 333,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1652433720,
-    "sourceUrl": "https://www.spigotmc.org/resources/aquacoins-1-13-1-18-2.101302/history"
-  }
+  "downloadUrl": "resources/aquacoins-1-13-1-18-2.101302/download?version=452077",
+  "numberOfDownloads": 333,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1652433720,
+  "sourceUrl": "https://www.spigotmc.org/resources/aquacoins-1-13-1-18-2.101302/history"
 }

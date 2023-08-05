@@ -1,12 +1,9 @@
 {
   "name": "9.3.4",
-  "version": {
-    "name": "9.3.4",
-    "downloadUrl": "resources/blood-in-minecraft.31549/download?version=421576",
-    "numberOfDownloads": 123,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1633124820,
-    "sourceUrl": "https://www.spigotmc.org/resources/blood-in-minecraft.31549/history"
-  }
+  "downloadUrl": "resources/blood-in-minecraft.31549/download?version=421576",
+  "numberOfDownloads": 123,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1633124820,
+  "sourceUrl": "https://www.spigotmc.org/resources/blood-in-minecraft.31549/history"
 }

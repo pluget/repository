@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0",
-  "version": {
-    "name": "2.0",
-    "downloadUrl": "resources/simple-freeze-command.101715/download?version=450827",
-    "numberOfDownloads": 50,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1651387680,
-    "sourceUrl": "https://www.spigotmc.org/resources/101715/history/"
-  }
+  "name": "2.0",
+  "downloadUrl": "resources/simple-freeze-command.101715/download?version=450827",
+  "numberOfDownloads": 50,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1651387680,
+  "sourceUrl": "https://www.spigotmc.org/resources/101715/history/"
 }

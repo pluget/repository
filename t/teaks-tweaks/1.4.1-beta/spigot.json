@@ -1,12 +1,9 @@
 {
   "name": "1.4.1-beta",
-  "version": {
-    "name": "1.4.1-beta",
-    "downloadUrl": "resources/teaks-tweaks-1-17-1-19.94021/download?version=412718",
-    "numberOfDownloads": 104,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1627881120,
-    "sourceUrl": "https://www.spigotmc.org/resources/teaks-tweaks-1-17-1-19.94021/history"
-  }
+  "downloadUrl": "resources/teaks-tweaks-1-17-1-19.94021/download?version=412718",
+  "numberOfDownloads": 104,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1627881120,
+  "sourceUrl": "https://www.spigotmc.org/resources/teaks-tweaks-1-17-1-19.94021/history"
 }

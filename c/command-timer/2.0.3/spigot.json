@@ -1,12 +1,9 @@
 {
   "name": "2.0.3",
-  "version": {
-    "name": "2.0.3",
-    "downloadUrl": "resources/command-timer.24141/download?version=249630",
-    "numberOfDownloads": 131,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1542971880,
-    "sourceUrl": "https://www.spigotmc.org/resources/24141/history/"
-  }
+  "downloadUrl": "resources/command-timer.24141/download?version=249630",
+  "numberOfDownloads": 131,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1542971880,
+  "sourceUrl": "https://www.spigotmc.org/resources/24141/history/"
 }

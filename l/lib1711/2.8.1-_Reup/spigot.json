@@ -1,12 +1,9 @@
 {
-  "name": "2.8.1-_Reup",
-  "version": {
-    "name": "v2.8.1_Reup",
-    "downloadUrl": "resources/lib1711.35982/download?version=425811",
-    "numberOfDownloads": 152,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1636127340,
-    "sourceUrl": "https://www.spigotmc.org/resources/lib1711.35982/history"
-  }
+  "name": "v2.8.1_Reup",
+  "downloadUrl": "resources/lib1711.35982/download?version=425811",
+  "numberOfDownloads": 152,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1636127340,
+  "sourceUrl": "https://www.spigotmc.org/resources/lib1711.35982/history"
 }

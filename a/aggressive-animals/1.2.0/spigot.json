@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/aggressive-animals.100934/download?version=480732",
-    "numberOfDownloads": 174,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1672681860,
-    "sourceUrl": "https://www.spigotmc.org/resources/aggressive-animals.100934/history"
-  }
+  "downloadUrl": "resources/aggressive-animals.100934/download?version=480732",
+  "numberOfDownloads": 174,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1672681860,
+  "sourceUrl": "https://www.spigotmc.org/resources/aggressive-animals.100934/history"
 }

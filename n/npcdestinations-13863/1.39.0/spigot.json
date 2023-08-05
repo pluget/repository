@@ -1,12 +1,9 @@
 {
-  "name": "1.39.0",
-  "version": {
-    "name": "1.39",
-    "downloadUrl": "resources/npcdestinations-create-living-npcs.13863/download?version=114931",
-    "numberOfDownloads": 184,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1474096200,
-    "sourceUrl": "https://www.spigotmc.org/resources/13863/history/"
-  }
+  "name": "1.39",
+  "downloadUrl": "resources/npcdestinations-create-living-npcs.13863/download?version=114931",
+  "numberOfDownloads": 184,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1474096200,
+  "sourceUrl": "https://www.spigotmc.org/resources/13863/history/"
 }

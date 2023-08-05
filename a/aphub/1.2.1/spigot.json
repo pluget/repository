@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/aphub.107406/download?version=482440",
-    "numberOfDownloads": 17,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1673915880,
-    "sourceUrl": "https://www.spigotmc.org/resources/107406/history/"
-  }
+  "downloadUrl": "resources/aphub.107406/download?version=482440",
+  "numberOfDownloads": 17,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1673915880,
+  "sourceUrl": "https://www.spigotmc.org/resources/107406/history/"
 }

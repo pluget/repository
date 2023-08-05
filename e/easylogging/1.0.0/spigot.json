@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/easylogging.101438/download?version=449222",
-    "numberOfDownloads": 39,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1650194040,
-    "sourceUrl": "https://www.spigotmc.org/resources/easylogging.101438/history"
-  }
+  "downloadUrl": "resources/easylogging.101438/download?version=449222",
+  "numberOfDownloads": 39,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1650194040,
+  "sourceUrl": "https://www.spigotmc.org/resources/easylogging.101438/history"
 }

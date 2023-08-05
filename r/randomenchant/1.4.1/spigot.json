@@ -1,12 +1,9 @@
 {
   "name": "1.4.1",
-  "version": {
-    "name": "1.4.1",
-    "downloadUrl": "resources/randomenchant.89994/download?version=455070",
-    "numberOfDownloads": 144,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1654637340,
-    "sourceUrl": "https://www.spigotmc.org/resources/randomenchant.89994/history"
-  }
+  "downloadUrl": "resources/randomenchant.89994/download?version=455070",
+  "numberOfDownloads": 144,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1654637340,
+  "sourceUrl": "https://www.spigotmc.org/resources/randomenchant.89994/history"
 }

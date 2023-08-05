@@ -1,12 +1,9 @@
 {
   "name": "3.1.0",
-  "version": {
-    "name": "3.1.0",
-    "downloadUrl": "resources/microlib.84017/download?version=422299",
-    "numberOfDownloads": 40,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1633675980,
-    "sourceUrl": "https://www.spigotmc.org/resources/microlib.84017/history"
-  }
+  "downloadUrl": "resources/microlib.84017/download?version=422299",
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1633675980,
+  "sourceUrl": "https://www.spigotmc.org/resources/microlib.84017/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0-SNAPSHOT",
-  "version": {
-    "name": "1.1-SNAPSHOT",
-    "downloadUrl": "resources/gordonramsay.80869/download?version=340753",
-    "numberOfDownloads": 371,
-    "rating": 10,
-    "numberOfVotes": 6,
-    "releaseDate": 1593480900,
-    "sourceUrl": "https://www.spigotmc.org/resources/80869/history/"
-  }
+  "name": "1.1-SNAPSHOT",
+  "downloadUrl": "resources/gordonramsay.80869/download?version=340753",
+  "numberOfDownloads": 371,
+  "rating": 10,
+  "numberOfVotes": 6,
+  "releaseDate": 1593480900,
+  "sourceUrl": "https://www.spigotmc.org/resources/80869/history/"
 }

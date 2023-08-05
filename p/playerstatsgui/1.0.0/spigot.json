@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/playerstatsgui.100294/download?version=442690",
-    "numberOfDownloads": 78,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1645810680,
-    "sourceUrl": "https://www.spigotmc.org/resources/playerstatsgui.100294/history"
-  }
+  "downloadUrl": "resources/playerstatsgui.100294/download?version=442690",
+  "numberOfDownloads": 78,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1645810680,
+  "sourceUrl": "https://www.spigotmc.org/resources/playerstatsgui.100294/history"
 }

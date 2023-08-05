@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/versioncheckerx.101723/download?version=450609",
-    "numberOfDownloads": 22,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1651231680,
-    "sourceUrl": "https://www.spigotmc.org/resources/versioncheckerx.101723/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/versioncheckerx.101723/download?version=450609",
+  "numberOfDownloads": 22,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1651231680,
+  "sourceUrl": "https://www.spigotmc.org/resources/versioncheckerx.101723/history"
 }

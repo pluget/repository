@@ -1,12 +1,9 @@
 {
   "name": "1.12.2",
-  "version": {
-    "name": "1.12.2",
-    "downloadUrl": "resources/zmaddon.101626/download?version=450111",
-    "numberOfDownloads": 44,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1650818820,
-    "sourceUrl": "https://www.spigotmc.org/resources/zmaddon.101626/history"
-  }
+  "downloadUrl": "resources/zmaddon.101626/download?version=450111",
+  "numberOfDownloads": 44,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1650818820,
+  "sourceUrl": "https://www.spigotmc.org/resources/zmaddon.101626/history"
 }

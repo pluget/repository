@@ -1,12 +1,9 @@
 {
-  "name": "0.1.8",
-  "version": {
-    "name": "Alpha 0.1.8",
-    "downloadUrl": "resources/big-doors.58669/download?version=270075",
-    "numberOfDownloads": 374,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1556012400,
-    "sourceUrl": "https://www.spigotmc.org/resources/58669/history/"
-  }
+  "name": "Alpha 0.1.8",
+  "downloadUrl": "resources/big-doors.58669/download?version=270075",
+  "numberOfDownloads": 374,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1556012400,
+  "sourceUrl": "https://www.spigotmc.org/resources/58669/history/"
 }

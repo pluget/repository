@@ -1,12 +1,9 @@
 {
-  "name": "5.1.0-pre.3",
-  "version": {
-    "name": "5.1",
-    "downloadUrl": "resources/blood-in-minecraft.31549/download?version=269020",
-    "numberOfDownloads": 123,
-    "rating": 6,
-    "numberOfVotes": 2,
-    "releaseDate": 1555355160,
-    "sourceUrl": "https://www.spigotmc.org/resources/blood-in-minecraft.31549/history"
-  }
+  "name": "5.1",
+  "downloadUrl": "resources/blood-in-minecraft.31549/download?version=269020",
+  "numberOfDownloads": 123,
+  "rating": 6,
+  "numberOfVotes": 2,
+  "releaseDate": 1555355160,
+  "sourceUrl": "https://www.spigotmc.org/resources/blood-in-minecraft.31549/history"
 }

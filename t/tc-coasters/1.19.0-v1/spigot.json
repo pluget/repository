@@ -1,12 +1,9 @@
 {
-  "name": "1.19.0-v1",
-  "version": {
-    "name": "1.19-v1",
-    "downloadUrl": "resources/tc-coasters.59583/download?version=462158",
-    "numberOfDownloads": 1,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1658682060,
-    "sourceUrl": "https://www.spigotmc.org/resources/59583/history/"
-  }
+  "name": "1.19-v1",
+  "downloadUrl": "resources/tc-coasters.59583/download?version=462158",
+  "numberOfDownloads": 1,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1658682060,
+  "sourceUrl": "https://www.spigotmc.org/resources/59583/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "2.4.0",
-  "version": {
-    "name": "2.4",
-    "downloadUrl": "resources/lootin-1-16-1-19-no-more-already-looted-chests.90453/download?version=410782",
-    "numberOfDownloads": 150,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1627020360,
-    "sourceUrl": "https://www.spigotmc.org/resources/lootin-1-16-1-19-no-more-already-looted-chests.90453/history"
-  }
+  "name": "2.4",
+  "downloadUrl": "resources/lootin-1-16-1-19-no-more-already-looted-chests.90453/download?version=410782",
+  "numberOfDownloads": 150,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1627020360,
+  "sourceUrl": "https://www.spigotmc.org/resources/lootin-1-16-1-19-no-more-already-looted-chests.90453/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "3.5.1",
-  "version": {
-    "name": "3.5.1",
-    "downloadUrl": "resources/autorank.3239/download?version=17278",
-    "numberOfDownloads": 1,
-    "rating": 8.4,
-    "numberOfVotes": 10,
-    "releaseDate": 1426512360,
-    "sourceUrl": "https://www.spigotmc.org/resources/autorank.3239/history"
-  }
+  "downloadUrl": "resources/autorank.3239/download?version=17278",
+  "numberOfDownloads": 1,
+  "rating": 8.4,
+  "numberOfVotes": 10,
+  "releaseDate": 1426512360,
+  "sourceUrl": "https://www.spigotmc.org/resources/autorank.3239/history"
 }

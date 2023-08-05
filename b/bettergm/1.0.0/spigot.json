@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/bettergm.106517/download?version=476966",
-    "numberOfDownloads": 21,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1669842180,
-    "sourceUrl": "https://www.spigotmc.org/resources/bettergm.106517/history"
-  }
+  "downloadUrl": "resources/bettergm.106517/download?version=476966",
+  "numberOfDownloads": 21,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1669842180,
+  "sourceUrl": "https://www.spigotmc.org/resources/bettergm.106517/history"
 }

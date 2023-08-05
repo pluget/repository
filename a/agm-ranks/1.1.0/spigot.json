@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/agm-ranks-rankup-plugin.75787/download?version=334746",
-    "numberOfDownloads": 75,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1590947280,
-    "sourceUrl": "https://www.spigotmc.org/resources/75787/history/"
-  }
+  "downloadUrl": "resources/agm-ranks-rankup-plugin.75787/download?version=334746",
+  "numberOfDownloads": 75,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1590947280,
+  "sourceUrl": "https://www.spigotmc.org/resources/75787/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "2.3.2",
-  "version": {
-    "name": "v2.3.2",
-    "downloadUrl": "resources/bestserverbasics.67227/download?version=274145",
-    "numberOfDownloads": 106,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1558174380,
-    "sourceUrl": "https://www.spigotmc.org/resources/bestserverbasics.67227/history"
-  }
+  "name": "v2.3.2",
+  "downloadUrl": "resources/bestserverbasics.67227/download?version=274145",
+  "numberOfDownloads": 106,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1558174380,
+  "sourceUrl": "https://www.spigotmc.org/resources/bestserverbasics.67227/history"
 }

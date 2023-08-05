@@ -1,12 +1,9 @@
 {
   "name": "3.6.2",
-  "version": {
-    "name": "3.6.2",
-    "downloadUrl": "resources/buildmoney.43277/download?version=278796",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1560532560,
-    "sourceUrl": "https://www.spigotmc.org/resources/buildmoney.43277/history"
-  }
+  "downloadUrl": "resources/buildmoney.43277/download?version=278796",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1560532560,
+  "sourceUrl": "https://www.spigotmc.org/resources/buildmoney.43277/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-BETA",
-  "version": {
-    "name": "1.0-BETA",
-    "downloadUrl": "resources/waterfight-mysql.94120/download?version=408307",
-    "numberOfDownloads": 48,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1625897040,
-    "sourceUrl": "https://www.spigotmc.org/resources/waterfight-mysql.94120/history"
-  }
+  "name": "1.0-BETA",
+  "downloadUrl": "resources/waterfight-mysql.94120/download?version=408307",
+  "numberOfDownloads": 48,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1625897040,
+  "sourceUrl": "https://www.spigotmc.org/resources/waterfight-mysql.94120/history"
 }

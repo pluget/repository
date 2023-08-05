@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/stopminingdrops.63513/download?version=254122",
-    "numberOfDownloads": 58,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1545872220,
-    "sourceUrl": "https://www.spigotmc.org/resources/stopminingdrops.63513/history"
-  }
+  "downloadUrl": "resources/stopminingdrops.63513/download?version=254122",
+  "numberOfDownloads": 58,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1545872220,
+  "sourceUrl": "https://www.spigotmc.org/resources/stopminingdrops.63513/history"
 }

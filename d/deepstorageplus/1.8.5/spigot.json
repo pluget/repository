@@ -1,12 +1,9 @@
 {
   "name": "1.8.5",
-  "version": {
-    "name": "1.8.5",
-    "downloadUrl": "resources/deepstorageplus-1-13-1-19.74145/download?version=360430",
-    "numberOfDownloads": 123,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1601913240,
-    "sourceUrl": "https://www.spigotmc.org/resources/deepstorageplus-1-13-1-19.74145/history"
-  }
+  "downloadUrl": "resources/deepstorageplus-1-13-1-19.74145/download?version=360430",
+  "numberOfDownloads": 123,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1601913240,
+  "sourceUrl": "https://www.spigotmc.org/resources/deepstorageplus-1-13-1-19.74145/history"
 }

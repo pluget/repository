@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/swappage-bedwars1058-addon.102551/download?version=455839",
-    "numberOfDownloads": 31,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1655001780,
-    "sourceUrl": "https://www.spigotmc.org/resources/swappage-bedwars1058-addon.102551/history"
-  }
+  "downloadUrl": "resources/swappage-bedwars1058-addon.102551/download?version=455839",
+  "numberOfDownloads": 31,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1655001780,
+  "sourceUrl": "https://www.spigotmc.org/resources/swappage-bedwars1058-addon.102551/history"
 }

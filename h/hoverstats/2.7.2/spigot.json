@@ -1,12 +1,9 @@
 {
   "name": "2.7.2",
-  "version": {
-    "name": "2.7.2",
-    "downloadUrl": "resources/hoverstats.100245/download?version=457630",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655943060,
-    "sourceUrl": "https://www.spigotmc.org/resources/hoverstats.100245/history"
-  }
+  "downloadUrl": "resources/hoverstats.100245/download?version=457630",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655943060,
+  "sourceUrl": "https://www.spigotmc.org/resources/hoverstats.100245/history"
 }

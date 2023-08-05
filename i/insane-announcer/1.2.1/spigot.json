@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/insane-announcer.53334/download?version=456183",
-    "numberOfDownloads": 85,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655158200,
-    "sourceUrl": "https://www.spigotmc.org/resources/insane-announcer.53334/history"
-  }
+  "downloadUrl": "resources/insane-announcer.53334/download?version=456183",
+  "numberOfDownloads": 85,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655158200,
+  "sourceUrl": "https://www.spigotmc.org/resources/insane-announcer.53334/history"
 }

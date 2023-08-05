@@ -1,12 +1,9 @@
 {
   "name": "2.2.1",
-  "version": {
-    "name": "2.2.1",
-    "downloadUrl": "resources/freeze.31822/download?version=411596",
-    "numberOfDownloads": 223,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1627362420,
-    "sourceUrl": "https://www.spigotmc.org/resources/freeze.31822/history"
-  }
+  "downloadUrl": "resources/freeze.31822/download?version=411596",
+  "numberOfDownloads": 223,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1627362420,
+  "sourceUrl": "https://www.spigotmc.org/resources/freeze.31822/history"
 }

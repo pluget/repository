@@ -1,12 +1,9 @@
 {
-  "name": "1.18.1-a.1",
-  "version": {
-    "name": "1.18.1.a.1",
-    "downloadUrl": "resources/inventorysharer-1-18-clean-chat-implementation.63276/download?version=450162",
-    "numberOfDownloads": 48,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1650840060,
-    "sourceUrl": "https://www.spigotmc.org/resources/inventorysharer-1-18-clean-chat-implementation.63276/history"
-  }
+  "name": "1.18.1.a.1",
+  "downloadUrl": "resources/inventorysharer-1-18-clean-chat-implementation.63276/download?version=450162",
+  "numberOfDownloads": 48,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1650840060,
+  "sourceUrl": "https://www.spigotmc.org/resources/inventorysharer-1-18-clean-chat-implementation.63276/history"
 }

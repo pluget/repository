@@ -1,12 +1,9 @@
 {
   "name": "2.4.1",
-  "version": {
-    "name": "2.4.1",
-    "downloadUrl": "resources/api-class-mapper-api.90302/download?version=431287",
-    "numberOfDownloads": 26,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1639327620,
-    "sourceUrl": "https://www.spigotmc.org/resources/api-class-mapper-api.90302/history"
-  }
+  "downloadUrl": "resources/api-class-mapper-api.90302/download?version=431287",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1639327620,
+  "sourceUrl": "https://www.spigotmc.org/resources/api-class-mapper-api.90302/history"
 }

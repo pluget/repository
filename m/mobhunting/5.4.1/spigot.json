@@ -1,12 +1,9 @@
 {
   "name": "5.4.1",
-  "version": {
-    "name": "5.4.1",
-    "downloadUrl": "resources/mobhunting.3582/download?version=203423",
-    "numberOfDownloads": 148,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1515963600,
-    "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
-  }
+  "downloadUrl": "resources/mobhunting.3582/download?version=203423",
+  "numberOfDownloads": 148,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1515963600,
+  "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
 }

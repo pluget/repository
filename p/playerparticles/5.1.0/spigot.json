@@ -1,12 +1,9 @@
 {
-  "name": "5.1.0",
-  "version": {
-    "name": "v5.1",
-    "downloadUrl": "resources/playerparticles.40261/download?version=216128",
-    "numberOfDownloads": 1,
-    "rating": 9.5,
-    "numberOfVotes": 8,
-    "releaseDate": 1522980420,
-    "sourceUrl": "https://www.spigotmc.org/resources/40261/history/"
-  }
+  "name": "v5.1",
+  "downloadUrl": "resources/playerparticles.40261/download?version=216128",
+  "numberOfDownloads": 1,
+  "rating": 9.5,
+  "numberOfVotes": 8,
+  "releaseDate": 1522980420,
+  "sourceUrl": "https://www.spigotmc.org/resources/40261/history/"
 }

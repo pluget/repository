@@ -1,12 +1,9 @@
 {
-  "name": "1.2.0-pre.1",
-  "version": {
-    "name": "1.2",
-    "downloadUrl": "resources/playerreport.100182/download?version=442033",
-    "numberOfDownloads": 23,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1645374600,
-    "sourceUrl": "https://www.spigotmc.org/resources/playerreport.100182/history"
-  }
+  "name": "1.2",
+  "downloadUrl": "resources/playerreport.100182/download?version=442033",
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1645374600,
+  "sourceUrl": "https://www.spigotmc.org/resources/playerreport.100182/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.6.4",
-  "version": {
-    "name": "1.6.4",
-    "downloadUrl": "resources/advancedreplay-1-8-1-19.52849/download?version=385893",
-    "numberOfDownloads": 4,
-    "rating": 7.8181818181818,
-    "numberOfVotes": 11,
-    "releaseDate": 1614448800,
-    "sourceUrl": "https://www.spigotmc.org/resources/advancedreplay-1-8-1-19.52849/history"
-  }
+  "downloadUrl": "resources/advancedreplay-1-8-1-19.52849/download?version=385893",
+  "numberOfDownloads": 4,
+  "rating": 7.8181818181818,
+  "numberOfVotes": 11,
+  "releaseDate": 1614448800,
+  "sourceUrl": "https://www.spigotmc.org/resources/advancedreplay-1-8-1-19.52849/history"
 }

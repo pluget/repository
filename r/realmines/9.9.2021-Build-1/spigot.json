@@ -1,12 +1,9 @@
 {
-  "name": "9.9.2021-Build-1",
-  "version": {
-    "name": "9-9-2021 Build 1",
-    "downloadUrl": "resources/realmines-1-14-to-1-19-3.73707/download?version=418829",
-    "numberOfDownloads": 800,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1631209860,
-    "sourceUrl": "https://www.spigotmc.org/resources/realmines-1-14-to-1-19-3.73707/history"
-  }
+  "name": "9-9-2021 Build 1",
+  "downloadUrl": "resources/realmines-1-14-to-1-19-3.73707/download?version=418829",
+  "numberOfDownloads": 800,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1631209860,
+  "sourceUrl": "https://www.spigotmc.org/resources/realmines-1-14-to-1-19-3.73707/history"
 }

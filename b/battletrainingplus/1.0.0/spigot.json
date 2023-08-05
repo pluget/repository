@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/battletraining.104873/download?version=467341",
-    "numberOfDownloads": 41,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1661627580,
-    "sourceUrl": "https://www.spigotmc.org/resources/battletraining.104873/history"
-  }
+  "downloadUrl": "resources/battletraining.104873/download?version=467341",
+  "numberOfDownloads": 41,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1661627580,
+  "sourceUrl": "https://www.spigotmc.org/resources/battletraining.104873/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "2.0.5-pre.1",
-  "version": {
-    "name": "2.0.5",
-    "downloadUrl": "resources/custom-images.53036/download?version=314873",
-    "numberOfDownloads": 612,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1582101480,
-    "sourceUrl": "https://www.spigotmc.org/resources/custom-images.53036/history"
-  }
+  "name": "2.0.5",
+  "downloadUrl": "resources/custom-images.53036/download?version=314873",
+  "numberOfDownloads": 612,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1582101480,
+  "sourceUrl": "https://www.spigotmc.org/resources/custom-images.53036/history"
 }

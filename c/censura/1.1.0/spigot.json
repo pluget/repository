@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0",
-  "version": {
-    "name": "1.1",
-    "downloadUrl": "resources/censura.84123/download?version=358588",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1600943400,
-    "sourceUrl": "https://www.spigotmc.org/resources/84123/history/"
-  }
+  "name": "1.1",
+  "downloadUrl": "resources/censura.84123/download?version=358588",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1600943400,
+  "sourceUrl": "https://www.spigotmc.org/resources/84123/history/"
 }

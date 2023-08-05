@@ -1,12 +1,9 @@
 {
-  "name": "1.1.5-pre.1",
-  "version": {
-    "name": "1.1.5",
-    "downloadUrl": "resources/pointscore.83263/download?version=354976",
-    "numberOfDownloads": 48,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1599206940,
-    "sourceUrl": "https://www.spigotmc.org/resources/pointscore.83263/history"
-  }
+  "name": "1.1.5",
+  "downloadUrl": "resources/pointscore.83263/download?version=354976",
+  "numberOfDownloads": 48,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1599206940,
+  "sourceUrl": "https://www.spigotmc.org/resources/pointscore.83263/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.4.8",
-  "version": {
-    "name": "1.4.8",
-    "downloadUrl": "resources/interactivebooks.45604/download?version=330678",
-    "numberOfDownloads": 552,
-    "rating": 9,
-    "numberOfVotes": 4,
-    "releaseDate": 1589146500,
-    "sourceUrl": "https://www.spigotmc.org/resources/interactivebooks.45604/history"
-  }
+  "downloadUrl": "resources/interactivebooks.45604/download?version=330678",
+  "numberOfDownloads": 552,
+  "rating": 9,
+  "numberOfVotes": 4,
+  "releaseDate": 1589146500,
+  "sourceUrl": "https://www.spigotmc.org/resources/interactivebooks.45604/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.16.42",
-  "version": {
-    "name": "1.16.42",
-    "downloadUrl": "resources/staff.83562/download?version=378886",
-    "numberOfDownloads": 596,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1611271260,
-    "sourceUrl": "https://www.spigotmc.org/resources/staff.83562/history"
-  }
+  "downloadUrl": "resources/staff.83562/download?version=378886",
+  "numberOfDownloads": 596,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1611271260,
+  "sourceUrl": "https://www.spigotmc.org/resources/staff.83562/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/antipluginlookup.63007/download?version=340549",
-    "numberOfDownloads": 81,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1593421560,
-    "sourceUrl": "https://www.spigotmc.org/resources/antipluginlookup.63007/history"
-  }
+  "downloadUrl": "resources/antipluginlookup.63007/download?version=340549",
+  "numberOfDownloads": 81,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1593421560,
+  "sourceUrl": "https://www.spigotmc.org/resources/antipluginlookup.63007/history"
 }

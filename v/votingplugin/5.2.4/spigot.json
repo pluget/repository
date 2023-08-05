@@ -1,12 +1,9 @@
 {
   "name": "5.2.4",
-  "version": {
-    "name": "5.2.4",
-    "downloadUrl": "resources/votingplugin.15358/download?version=134253",
-    "numberOfDownloads": 190,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1483537680,
-    "sourceUrl": "https://www.spigotmc.org/resources/votingplugin.15358/history"
-  }
+  "downloadUrl": "resources/votingplugin.15358/download?version=134253",
+  "numberOfDownloads": 190,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1483537680,
+  "sourceUrl": "https://www.spigotmc.org/resources/votingplugin.15358/history"
 }

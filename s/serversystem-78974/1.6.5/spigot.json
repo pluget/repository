@@ -1,12 +1,9 @@
 {
   "name": "1.6.5",
-  "version": {
-    "name": "1.6.5",
-    "downloadUrl": "resources/serversystem.78974/download?version=403845",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1623860520,
-    "sourceUrl": "https://www.spigotmc.org/resources/serversystem.78974/history"
-  }
+  "downloadUrl": "resources/serversystem.78974/download?version=403845",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1623860520,
+  "sourceUrl": "https://www.spigotmc.org/resources/serversystem.78974/history"
 }

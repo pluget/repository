@@ -1,12 +1,9 @@
 {
-  "name": "3.1.0-alpha",
-  "version": {
-    "name": "3.1 alpha",
-    "downloadUrl": "resources/clash-of-minecrafters.31180/download?version=475051",
-    "numberOfDownloads": 39,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1668193740,
-    "sourceUrl": "https://www.spigotmc.org/resources/clash-of-minecrafters.31180/history"
-  }
+  "name": "3.1 alpha",
+  "downloadUrl": "resources/clash-of-minecrafters.31180/download?version=475051",
+  "numberOfDownloads": 39,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1668193740,
+  "sourceUrl": "https://www.spigotmc.org/resources/clash-of-minecrafters.31180/history"
 }

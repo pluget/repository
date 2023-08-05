@@ -1,12 +1,9 @@
 {
   "name": "5.5.1",
-  "version": {
-    "name": "5.5.1",
-    "downloadUrl": "resources/commandminerewards.27316/download?version=276601",
-    "numberOfDownloads": 60,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1559434020,
-    "sourceUrl": "https://www.spigotmc.org/resources/commandminerewards.27316/history"
-  }
+  "downloadUrl": "resources/commandminerewards.27316/download?version=276601",
+  "numberOfDownloads": 60,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1559434020,
+  "sourceUrl": "https://www.spigotmc.org/resources/commandminerewards.27316/history"
 }

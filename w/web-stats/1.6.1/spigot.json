@@ -1,12 +1,9 @@
 {
   "name": "1.6.1",
-  "version": {
-    "name": "1.6.1",
-    "downloadUrl": "resources/web-stats.89649/download?version=434619",
-    "numberOfDownloads": 32,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1641126120,
-    "sourceUrl": "https://www.spigotmc.org/resources/web-stats.89649/history"
-  }
+  "downloadUrl": "resources/web-stats.89649/download?version=434619",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1641126120,
+  "sourceUrl": "https://www.spigotmc.org/resources/web-stats.89649/history"
 }

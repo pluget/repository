@@ -1,12 +1,9 @@
 {
   "name": "1.7.1",
-  "version": {
-    "name": "1.7.1",
-    "downloadUrl": "resources/consume-food-1-16-1-19.98139/download?version=457789",
-    "numberOfDownloads": 92,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1656041820,
-    "sourceUrl": "https://www.spigotmc.org/resources/98139/history/"
-  }
+  "downloadUrl": "resources/consume-food-1-16-1-19.98139/download?version=457789",
+  "numberOfDownloads": 92,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1656041820,
+  "sourceUrl": "https://www.spigotmc.org/resources/98139/history/"
 }

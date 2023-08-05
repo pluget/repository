@@ -1,12 +1,9 @@
 {
   "name": "4.3.0-BETA",
-  "version": {
-    "name": "4.3.0-BETA",
-    "downloadUrl": "resources/terra.85151/download?version=384376",
-    "numberOfDownloads": 2,
-    "rating": 9.2,
-    "numberOfVotes": 5,
-    "releaseDate": 1613710440,
-    "sourceUrl": "https://www.spigotmc.org/resources/terra.85151/history"
-  }
+  "downloadUrl": "resources/terra.85151/download?version=384376",
+  "numberOfDownloads": 2,
+  "rating": 9.2,
+  "numberOfVotes": 5,
+  "releaseDate": 1613710440,
+  "sourceUrl": "https://www.spigotmc.org/resources/terra.85151/history"
 }

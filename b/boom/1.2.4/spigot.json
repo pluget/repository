@@ -1,12 +1,9 @@
 {
   "name": "1.2.4",
-  "version": {
-    "name": "1.2.4",
-    "downloadUrl": "resources/boom.89540/download?version=387165",
-    "numberOfDownloads": 32,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1615083120,
-    "sourceUrl": "https://www.spigotmc.org/resources/boom.89540/history"
-  }
+  "downloadUrl": "resources/boom.89540/download?version=387165",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1615083120,
+  "sourceUrl": "https://www.spigotmc.org/resources/boom.89540/history"
 }

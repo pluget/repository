@@ -1,12 +1,9 @@
 {
   "name": "1.3.1",
-  "version": {
-    "name": "1.3.1",
-    "downloadUrl": "resources/nuclear-survival-nuker.94486/download?version=410820",
-    "numberOfDownloads": 88,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1627037040,
-    "sourceUrl": "https://www.spigotmc.org/resources/nuclear-survival-nuker.94486/history"
-  }
+  "downloadUrl": "resources/nuclear-survival-nuker.94486/download?version=410820",
+  "numberOfDownloads": 88,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1627037040,
+  "sourceUrl": "https://www.spigotmc.org/resources/nuclear-survival-nuker.94486/history"
 }

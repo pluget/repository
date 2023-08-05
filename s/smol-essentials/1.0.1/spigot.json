@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/smol-essentials-1-19.102744/download?version=457103",
-    "numberOfDownloads": 13,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655643600,
-    "sourceUrl": "https://www.spigotmc.org/resources/smol-essentials-1-19.102744/history"
-  }
+  "downloadUrl": "resources/smol-essentials-1-19.102744/download?version=457103",
+  "numberOfDownloads": 13,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655643600,
+  "sourceUrl": "https://www.spigotmc.org/resources/smol-essentials-1-19.102744/history"
 }

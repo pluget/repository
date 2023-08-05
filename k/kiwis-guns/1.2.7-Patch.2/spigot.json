@@ -1,12 +1,9 @@
 {
   "name": "1.2.7-Patch.2",
-  "version": {
-    "name": "1.2.7-Patch.2",
-    "downloadUrl": "resources/kiwis-guns.93315/download?version=452314",
-    "numberOfDownloads": 37,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1652602320,
-    "sourceUrl": "https://www.spigotmc.org/resources/kiwis-guns.93315/history"
-  }
+  "downloadUrl": "resources/kiwis-guns.93315/download?version=452314",
+  "numberOfDownloads": 37,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1652602320,
+  "sourceUrl": "https://www.spigotmc.org/resources/kiwis-guns.93315/history"
 }

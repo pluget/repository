@@ -1,12 +1,9 @@
 {
   "name": "2.5.0-61",
-  "version": {
-    "name": "2.5.0-61",
-    "downloadUrl": "resources/undeadpandemic.95385/download?version=471510",
-    "numberOfDownloads": 725,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1664976420,
-    "sourceUrl": "https://www.spigotmc.org/resources/undeadpandemic.95385/history"
-  }
+  "downloadUrl": "resources/undeadpandemic.95385/download?version=471510",
+  "numberOfDownloads": 725,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1664976420,
+  "sourceUrl": "https://www.spigotmc.org/resources/undeadpandemic.95385/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.16.0",
-  "version": {
-    "name": "1.16.0",
-    "downloadUrl": "resources/boost-unique-new-minigame-1-12-1-19-3.75950/download?version=377505",
-    "numberOfDownloads": 86,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1610681520,
-    "sourceUrl": "https://www.spigotmc.org/resources/boost-unique-new-minigame-1-12-1-19-3.75950/history"
-  }
+  "downloadUrl": "resources/boost-unique-new-minigame-1-12-1-19-3.75950/download?version=377505",
+  "numberOfDownloads": 86,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1610681520,
+  "sourceUrl": "https://www.spigotmc.org/resources/boost-unique-new-minigame-1-12-1-19-3.75950/history"
 }

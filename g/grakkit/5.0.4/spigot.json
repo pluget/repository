@@ -1,12 +1,9 @@
 {
   "name": "5.0.4",
-  "version": {
-    "name": "5.0.4",
-    "downloadUrl": "resources/grakkit.98995/download?version=435241",
-    "numberOfDownloads": 32,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1641442620,
-    "sourceUrl": "https://www.spigotmc.org/resources/grakkit.98995/history"
-  }
+  "downloadUrl": "resources/grakkit.98995/download?version=435241",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1641442620,
+  "sourceUrl": "https://www.spigotmc.org/resources/grakkit.98995/history"
 }

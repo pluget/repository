@@ -1,12 +1,9 @@
 {
-  "name": "1.8.0",
-  "version": {
-    "name": "1.8",
-    "downloadUrl": "resources/realscoreboard-1-13-to-1-19-3.22928/download?version=296157",
-    "numberOfDownloads": 4,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1569852060,
-    "sourceUrl": "https://www.spigotmc.org/resources/realscoreboard-1-13-to-1-19-3.22928/history"
-  }
+  "name": "1.8",
+  "downloadUrl": "resources/realscoreboard-1-13-to-1-19-3.22928/download?version=296157",
+  "numberOfDownloads": 4,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1569852060,
+  "sourceUrl": "https://www.spigotmc.org/resources/realscoreboard-1-13-to-1-19-3.22928/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0-RELEASE",
-  "version": {
-    "name": "1.1-RELEASE",
-    "downloadUrl": "resources/simpleid-very-simple-id-plugin.100320/download?version=443342",
-    "numberOfDownloads": 44,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1646230200,
-    "sourceUrl": "https://www.spigotmc.org/resources/simpleid-very-simple-id-plugin.100320/history"
-  }
+  "name": "1.1-RELEASE",
+  "downloadUrl": "resources/simpleid-very-simple-id-plugin.100320/download?version=443342",
+  "numberOfDownloads": 44,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1646230200,
+  "sourceUrl": "https://www.spigotmc.org/resources/simpleid-very-simple-id-plugin.100320/history"
 }

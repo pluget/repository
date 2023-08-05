@@ -1,12 +1,9 @@
 {
   "name": "2.0.0",
-  "version": {
-    "name": "2.0.0",
-    "downloadUrl": "resources/lightperms.62447/download?version=349358",
-    "numberOfDownloads": 1,
-    "rating": 8.6666666666666,
-    "numberOfVotes": 3,
-    "releaseDate": 1596815700,
-    "sourceUrl": "https://www.spigotmc.org/resources/lightperms.62447/history"
-  }
+  "downloadUrl": "resources/lightperms.62447/download?version=349358",
+  "numberOfDownloads": 1,
+  "rating": 8.6666666666666,
+  "numberOfVotes": 3,
+  "releaseDate": 1596815700,
+  "sourceUrl": "https://www.spigotmc.org/resources/lightperms.62447/history"
 }

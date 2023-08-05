@@ -1,12 +1,9 @@
 {
   "name": "4.2.1",
-  "version": {
-    "name": "4.2.1",
-    "downloadUrl": "resources/universes.68067/download?version=360732",
-    "numberOfDownloads": 144,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1602088560,
-    "sourceUrl": "https://www.spigotmc.org/resources/universes.68067/history"
-  }
+  "downloadUrl": "resources/universes.68067/download?version=360732",
+  "numberOfDownloads": 144,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1602088560,
+  "sourceUrl": "https://www.spigotmc.org/resources/universes.68067/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0-test-build-V2",
-  "version": {
-    "name": "PRE-2.0 test build V2",
-    "downloadUrl": "resources/blockregen.9885/download?version=193353",
-    "numberOfDownloads": 459,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1510414860,
-    "sourceUrl": "https://www.spigotmc.org/resources/blockregen.9885/history"
-  }
+  "name": "PRE-2.0 test build V2",
+  "downloadUrl": "resources/blockregen.9885/download?version=193353",
+  "numberOfDownloads": 459,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1510414860,
+  "sourceUrl": "https://www.spigotmc.org/resources/blockregen.9885/history"
 }

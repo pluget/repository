@@ -1,12 +1,9 @@
 {
-  "name": "2.7.2",
-  "version": {
-    "name": "Patch 2.7.2",
-    "downloadUrl": "resources/lucky-bounties.94149/download?version=489000",
-    "numberOfDownloads": 147,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1678732560,
-    "sourceUrl": "https://www.spigotmc.org/resources/lucky-bounties.94149/history"
-  }
+  "name": "Patch 2.7.2",
+  "downloadUrl": "resources/lucky-bounties.94149/download?version=489000",
+  "numberOfDownloads": 147,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1678732560,
+  "sourceUrl": "https://www.spigotmc.org/resources/lucky-bounties.94149/history"
 }

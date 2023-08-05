@@ -1,12 +1,9 @@
 {
   "name": "4.1.10-free",
-  "version": {
-    "name": "4.1.10-free",
-    "downloadUrl": "resources/warps-portals-and-more-warp-teleport-system-1-8-1-19.29595/download?version=304798",
-    "numberOfDownloads": 8,
-    "rating": 8.3333333333334,
-    "numberOfVotes": 6,
-    "releaseDate": 1576239240,
-    "sourceUrl": "https://www.spigotmc.org/resources/warps-portals-and-more-warp-teleport-system-1-8-1-19.29595/history"
-  }
+  "downloadUrl": "resources/warps-portals-and-more-warp-teleport-system-1-8-1-19.29595/download?version=304798",
+  "numberOfDownloads": 8,
+  "rating": 8.3333333333334,
+  "numberOfVotes": 6,
+  "releaseDate": 1576239240,
+  "sourceUrl": "https://www.spigotmc.org/resources/warps-portals-and-more-warp-teleport-system-1-8-1-19.29595/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "3.6.0",
-  "version": {
-    "name": "3.6.0",
-    "downloadUrl": "resources/plan-player-analytics.32536/download?version=175573",
-    "numberOfDownloads": 137,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1501562940,
-    "sourceUrl": "https://www.spigotmc.org/resources/plan-player-analytics.32536/history"
-  }
+  "downloadUrl": "resources/plan-player-analytics.32536/download?version=175573",
+  "numberOfDownloads": 137,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1501562940,
+  "sourceUrl": "https://www.spigotmc.org/resources/plan-player-analytics.32536/history"
 }

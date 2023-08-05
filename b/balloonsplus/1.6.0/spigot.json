@@ -1,12 +1,9 @@
 {
-  "name": "1.6.0",
-  "version": {
-    "name": "1.6",
-    "downloadUrl": "resources/balloons.101083/download?version=448342",
-    "numberOfDownloads": 121,
-    "rating": 10,
-    "numberOfVotes": 5,
-    "releaseDate": 1649585220,
-    "sourceUrl": "https://www.spigotmc.org/resources/balloons.101083/history"
-  }
+  "name": "1.6",
+  "downloadUrl": "resources/balloons.101083/download?version=448342",
+  "numberOfDownloads": 121,
+  "rating": 10,
+  "numberOfVotes": 5,
+  "releaseDate": 1649585220,
+  "sourceUrl": "https://www.spigotmc.org/resources/balloons.101083/history"
 }

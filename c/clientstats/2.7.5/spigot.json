@@ -1,12 +1,9 @@
 {
   "name": "2.7.5",
-  "version": {
-    "name": "2.7.5",
-    "downloadUrl": "resources/clientstats-bungee.27919/download?version=109137",
-    "numberOfDownloads": 142,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1471279080,
-    "sourceUrl": "https://www.spigotmc.org/resources/clientstats-bungee.27919/history"
-  }
+  "downloadUrl": "resources/clientstats-bungee.27919/download?version=109137",
+  "numberOfDownloads": 142,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1471279080,
+  "sourceUrl": "https://www.spigotmc.org/resources/clientstats-bungee.27919/history"
 }

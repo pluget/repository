@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/serverpass.103396/download?version=460918",
-    "numberOfDownloads": 32,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657912500,
-    "sourceUrl": "https://www.spigotmc.org/resources/serverpass.103396/history"
-  }
+  "downloadUrl": "resources/serverpass.103396/download?version=460918",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657912500,
+  "sourceUrl": "https://www.spigotmc.org/resources/serverpass.103396/history"
 }

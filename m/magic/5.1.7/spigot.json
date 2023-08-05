@@ -1,12 +1,9 @@
 {
   "name": "5.1.7",
-  "version": {
-    "name": "5.1.7",
-    "downloadUrl": "resources/magic.1056/download?version=31155",
-    "numberOfDownloads": 704,
-    "rating": 9.5,
-    "numberOfVotes": 8,
-    "releaseDate": 1435187280,
-    "sourceUrl": "https://www.spigotmc.org/resources/magic.1056/history"
-  }
+  "downloadUrl": "resources/magic.1056/download?version=31155",
+  "numberOfDownloads": 704,
+  "rating": 9.5,
+  "numberOfVotes": 8,
+  "releaseDate": 1435187280,
+  "sourceUrl": "https://www.spigotmc.org/resources/magic.1056/history"
 }

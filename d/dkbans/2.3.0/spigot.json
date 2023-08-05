@@ -1,12 +1,9 @@
 {
   "name": "2.3.0",
-  "version": {
-    "name": "2.3.0",
-    "downloadUrl": "resources/deprecated-dkbans-v5-bansystem-player-management-punishment-templates-mysql-h2.52570/download?version=315468",
-    "numberOfDownloads": 654,
-    "rating": 8.6666666666666,
-    "numberOfVotes": 3,
-    "releaseDate": 1582473420,
-    "sourceUrl": "https://www.spigotmc.org/resources/deprecated-dkbans-v5-bansystem-player-management-punishment-templates-mysql-h2.52570/history"
-  }
+  "downloadUrl": "resources/deprecated-dkbans-v5-bansystem-player-management-punishment-templates-mysql-h2.52570/download?version=315468",
+  "numberOfDownloads": 654,
+  "rating": 8.6666666666666,
+  "numberOfVotes": 3,
+  "releaseDate": 1582473420,
+  "sourceUrl": "https://www.spigotmc.org/resources/deprecated-dkbans-v5-bansystem-player-management-punishment-templates-mysql-h2.52570/history"
 }

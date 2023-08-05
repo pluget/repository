@@ -1,12 +1,9 @@
 {
-  "name": "2.4.4",
-  "version": {
-    "name": "v2.4.4",
-    "downloadUrl": "resources/lib1711.35982/download?version=376049",
-    "numberOfDownloads": 42,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1609974780,
-    "sourceUrl": "https://www.spigotmc.org/resources/lib1711.35982/history"
-  }
+  "name": "v2.4.4",
+  "downloadUrl": "resources/lib1711.35982/download?version=376049",
+  "numberOfDownloads": 42,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1609974780,
+  "sourceUrl": "https://www.spigotmc.org/resources/lib1711.35982/history"
 }

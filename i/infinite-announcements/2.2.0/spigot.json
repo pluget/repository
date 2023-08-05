@@ -1,12 +1,9 @@
 {
   "name": "2.2.0",
-  "version": {
-    "name": "2.2.0",
-    "downloadUrl": "resources/infinite-announcements.71266/download?version=407646",
-    "numberOfDownloads": 545,
-    "rating": 7.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1625610120,
-    "sourceUrl": "https://www.spigotmc.org/resources/infinite-announcements.71266/history"
-  }
+  "downloadUrl": "resources/infinite-announcements.71266/download?version=407646",
+  "numberOfDownloads": 545,
+  "rating": 7.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1625610120,
+  "sourceUrl": "https://www.spigotmc.org/resources/infinite-announcements.71266/history"
 }

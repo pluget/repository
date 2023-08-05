@@ -1,12 +1,9 @@
 {
   "name": "2.2.1",
-  "version": {
-    "name": "2.2.1",
-    "downloadUrl": "resources/multiarena-duels-1v1-open-source-leaderboard.44820/download?version=236120",
-    "numberOfDownloads": 168,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1534728300,
-    "sourceUrl": "https://www.spigotmc.org/resources/multiarena-duels-1v1-open-source-leaderboard.44820/history"
-  }
+  "downloadUrl": "resources/multiarena-duels-1v1-open-source-leaderboard.44820/download?version=236120",
+  "numberOfDownloads": 168,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1534728300,
+  "sourceUrl": "https://www.spigotmc.org/resources/multiarena-duels-1v1-open-source-leaderboard.44820/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.5.0-TEST",
-  "version": {
-    "name": "1.5-TEST",
-    "downloadUrl": "resources/kore-1-8-x-1-19-x.107023/download?version=481208",
-    "numberOfDownloads": 28,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1672997700,
-    "sourceUrl": "https://www.spigotmc.org/resources/kore-1-8-x-1-19-x.107023/history"
-  }
+  "name": "1.5-TEST",
+  "downloadUrl": "resources/kore-1-8-x-1-19-x.107023/download?version=481208",
+  "numberOfDownloads": 28,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1672997700,
+  "sourceUrl": "https://www.spigotmc.org/resources/kore-1-8-x-1-19-x.107023/history"
 }

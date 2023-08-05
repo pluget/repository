@@ -1,12 +1,9 @@
 {
   "name": "1.4.1",
-  "version": {
-    "name": "1.4.1",
-    "downloadUrl": "resources/logger-1-7-1-19.94236/download?version=411674",
-    "numberOfDownloads": 84,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1627394100,
-    "sourceUrl": "https://www.spigotmc.org/resources/logger-1-7-1-19.94236/history"
-  }
+  "downloadUrl": "resources/logger-1-7-1-19.94236/download?version=411674",
+  "numberOfDownloads": 84,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1627394100,
+  "sourceUrl": "https://www.spigotmc.org/resources/logger-1-7-1-19.94236/history"
 }

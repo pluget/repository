@@ -1,12 +1,9 @@
 {
   "name": "1.7.6",
-  "version": {
-    "name": "1.7.6",
-    "downloadUrl": "resources/blep-fishing.78555/download?version=434798",
-    "numberOfDownloads": 177,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1641217200,
-    "sourceUrl": "https://www.spigotmc.org/resources/blep-fishing.78555/history"
-  }
+  "downloadUrl": "resources/blep-fishing.78555/download?version=434798",
+  "numberOfDownloads": 177,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1641217200,
+  "sourceUrl": "https://www.spigotmc.org/resources/blep-fishing.78555/history"
 }

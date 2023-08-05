@@ -1,12 +1,9 @@
 {
   "name": "0.0.3-SNAPSHOT1a",
-  "version": {
-    "name": "0.0.3-SNAPSHOT1a",
-    "downloadUrl": "resources/blitzssentials.96327/download?version=420022",
-    "numberOfDownloads": 33,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1632007440,
-    "sourceUrl": "https://www.spigotmc.org/resources/blitzssentials.96327/history"
-  }
+  "downloadUrl": "resources/blitzssentials.96327/download?version=420022",
+  "numberOfDownloads": 33,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1632007440,
+  "sourceUrl": "https://www.spigotmc.org/resources/blitzssentials.96327/history"
 }

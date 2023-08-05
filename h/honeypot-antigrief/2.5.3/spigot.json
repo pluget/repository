@@ -1,12 +1,9 @@
 {
   "name": "2.5.3",
-  "version": {
-    "name": "2.5.3",
-    "downloadUrl": "resources/honeypot-anti-grief.96665/download?version=483476",
-    "numberOfDownloads": 48,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1674665100,
-    "sourceUrl": "https://www.spigotmc.org/resources/honeypot-anti-grief.96665/history"
-  }
+  "downloadUrl": "resources/honeypot-anti-grief.96665/download?version=483476",
+  "numberOfDownloads": 48,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1674665100,
+  "sourceUrl": "https://www.spigotmc.org/resources/honeypot-anti-grief.96665/history"
 }

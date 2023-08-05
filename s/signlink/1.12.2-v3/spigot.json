@@ -1,12 +1,9 @@
 {
   "name": "1.12.2-v3",
-  "version": {
-    "name": "1.12.2-v3",
-    "downloadUrl": "resources/signlink.39593/download?version=188240",
-    "numberOfDownloads": 613,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1507408860,
-    "sourceUrl": "https://www.spigotmc.org/resources/signlink.39593/history"
-  }
+  "downloadUrl": "resources/signlink.39593/download?version=188240",
+  "numberOfDownloads": 613,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1507408860,
+  "sourceUrl": "https://www.spigotmc.org/resources/signlink.39593/history"
 }

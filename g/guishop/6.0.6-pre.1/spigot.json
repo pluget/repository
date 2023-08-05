@@ -1,12 +1,9 @@
 {
-  "name": "6.0.6-pre.1",
-  "version": {
-    "name": "6.0.6",
-    "downloadUrl": "resources/guishop.2451/download?version=158844",
-    "numberOfDownloads": 745,
-    "rating": 6,
-    "numberOfVotes": 2,
-    "releaseDate": 1494384180,
-    "sourceUrl": "https://www.spigotmc.org/resources/guishop.2451/history"
-  }
+  "name": "6.0.6",
+  "downloadUrl": "resources/guishop.2451/download?version=158844",
+  "numberOfDownloads": 745,
+  "rating": 6,
+  "numberOfVotes": 2,
+  "releaseDate": 1494384180,
+  "sourceUrl": "https://www.spigotmc.org/resources/guishop.2451/history"
 }

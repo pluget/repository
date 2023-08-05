@@ -1,12 +1,9 @@
 {
   "name": "1.5.0",
-  "version": {
-    "name": "1.5.0",
-    "downloadUrl": "resources/signboard.29024/download?version=238618",
-    "numberOfDownloads": 489,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1535949120,
-    "sourceUrl": "https://www.spigotmc.org/resources/signboard.29024/history"
-  }
+  "downloadUrl": "resources/signboard.29024/download?version=238618",
+  "numberOfDownloads": 489,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1535949120,
+  "sourceUrl": "https://www.spigotmc.org/resources/signboard.29024/history"
 }

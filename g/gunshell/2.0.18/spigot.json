@@ -1,12 +1,9 @@
 {
   "name": "2.0.18",
-  "version": {
-    "name": "2.0.18",
-    "downloadUrl": "resources/gunshell-mt-wapens.76350/download?version=398112",
-    "numberOfDownloads": 61,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1620650640,
-    "sourceUrl": "https://www.spigotmc.org/resources/76350/history/"
-  }
+  "downloadUrl": "resources/gunshell-mt-wapens.76350/download?version=398112",
+  "numberOfDownloads": 61,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1620650640,
+  "sourceUrl": "https://www.spigotmc.org/resources/76350/history/"
 }

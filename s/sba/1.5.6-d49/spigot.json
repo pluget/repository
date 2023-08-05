@@ -1,12 +1,9 @@
 {
   "name": "1.5.6-d49",
-  "version": {
-    "name": "1.5.6-d49",
-    "downloadUrl": "resources/sba-screaming-bedwars-addon-1-9-4-1-19-4.99149/download?version=441236",
-    "numberOfDownloads": 234,
-    "rating": 2,
-    "numberOfVotes": 1,
-    "releaseDate": 1644888660,
-    "sourceUrl": "https://www.spigotmc.org/resources/sba-screaming-bedwars-addon-1-9-4-1-19-4.99149/history"
-  }
+  "downloadUrl": "resources/sba-screaming-bedwars-addon-1-9-4-1-19-4.99149/download?version=441236",
+  "numberOfDownloads": 234,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releaseDate": 1644888660,
+  "sourceUrl": "https://www.spigotmc.org/resources/sba-screaming-bedwars-addon-1-9-4-1-19-4.99149/history"
 }

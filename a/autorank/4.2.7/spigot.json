@@ -1,12 +1,9 @@
 {
-  "name": "4.2.7",
-  "version": {
-    "name": "v4.2.7",
-    "downloadUrl": "resources/autorank.3239/download?version=301349",
-    "numberOfDownloads": 465,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1573728420,
-    "sourceUrl": "https://www.spigotmc.org/resources/autorank.3239/history"
-  }
+  "name": "v4.2.7",
+  "downloadUrl": "resources/autorank.3239/download?version=301349",
+  "numberOfDownloads": 465,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1573728420,
+  "sourceUrl": "https://www.spigotmc.org/resources/autorank.3239/history"
 }

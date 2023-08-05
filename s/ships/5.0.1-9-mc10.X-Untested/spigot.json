@@ -1,12 +1,9 @@
 {
-  "name": "5.0.1-9-mc10.X-Untested",
-  "version": {
-    "name": "5.0.1.9 mc10.X Untested",
-    "downloadUrl": "resources/ships.2072/download?version=100241",
-    "numberOfDownloads": 973,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1467388320,
-    "sourceUrl": "https://www.spigotmc.org/resources/ships.2072/history"
-  }
+  "name": "5.0.1.9 mc10.X Untested",
+  "downloadUrl": "resources/ships.2072/download?version=100241",
+  "numberOfDownloads": 973,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1467388320,
+  "sourceUrl": "https://www.spigotmc.org/resources/ships.2072/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.3.1",
-  "version": {
-    "name": "1.3.1",
-    "downloadUrl": "resources/timebar.90179/download?version=465744",
-    "numberOfDownloads": 140,
-    "rating": 7.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1660574640,
-    "sourceUrl": "https://www.spigotmc.org/resources/timebar.90179/history"
-  }
+  "downloadUrl": "resources/timebar.90179/download?version=465744",
+  "numberOfDownloads": 140,
+  "rating": 7.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1660574640,
+  "sourceUrl": "https://www.spigotmc.org/resources/timebar.90179/history"
 }

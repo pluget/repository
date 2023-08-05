@@ -1,12 +1,9 @@
 {
   "name": "1.5.0",
-  "version": {
-    "name": "1.5.0",
-    "downloadUrl": "resources/laserturrets-1-8-1-19.105494/download?version=485680",
-    "numberOfDownloads": 38,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1676218620,
-    "sourceUrl": "https://www.spigotmc.org/resources/105494/history/"
-  }
+  "downloadUrl": "resources/laserturrets-1-8-1-19.105494/download?version=485680",
+  "numberOfDownloads": 38,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1676218620,
+  "sourceUrl": "https://www.spigotmc.org/resources/105494/history/"
 }

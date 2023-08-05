@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/xvaults-player-vaults-1-19.99163/download?version=446805",
-    "numberOfDownloads": 1,
-    "rating": 8.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1648456020,
-    "sourceUrl": "https://www.spigotmc.org/resources/xvaults-player-vaults-1-19.99163/history"
-  }
+  "downloadUrl": "resources/xvaults-player-vaults-1-19.99163/download?version=446805",
+  "numberOfDownloads": 1,
+  "rating": 8.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1648456020,
+  "sourceUrl": "https://www.spigotmc.org/resources/xvaults-player-vaults-1-19.99163/history"
 }

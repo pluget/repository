@@ -1,12 +1,9 @@
 {
-  "name": "1.8.0",
-  "version": {
-    "name": "1.8",
-    "downloadUrl": "resources/safe-fly-1-13-1-18.86512/download?version=380227",
-    "numberOfDownloads": 187,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1611855780,
-    "sourceUrl": "https://www.spigotmc.org/resources/86512/history/"
-  }
+  "name": "1.8",
+  "downloadUrl": "resources/safe-fly-1-13-1-18.86512/download?version=380227",
+  "numberOfDownloads": 187,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1611855780,
+  "sourceUrl": "https://www.spigotmc.org/resources/86512/history/"
 }

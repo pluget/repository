@@ -1,12 +1,9 @@
 {
-  "name": "1.0.1-pre.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/deltashield-malicious-act-detection.101756/download?version=451191",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1651685340,
-    "sourceUrl": "https://www.spigotmc.org/resources/101756/history/"
-  }
+  "name": "1.0.1",
+  "downloadUrl": "resources/deltashield-malicious-act-detection.101756/download?version=451191",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1651685340,
+  "sourceUrl": "https://www.spigotmc.org/resources/101756/history/"
 }

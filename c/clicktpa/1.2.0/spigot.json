@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/clicktpa.62596/download?version=252009",
-    "numberOfDownloads": 15,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1544474580,
-    "sourceUrl": "https://www.spigotmc.org/resources/clicktpa.62596/history"
-  }
+  "downloadUrl": "resources/clicktpa.62596/download?version=252009",
+  "numberOfDownloads": 15,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1544474580,
+  "sourceUrl": "https://www.spigotmc.org/resources/clicktpa.62596/history"
 }

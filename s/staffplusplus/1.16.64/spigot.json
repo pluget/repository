@@ -1,12 +1,9 @@
 {
   "name": "1.16.64",
-  "version": {
-    "name": "1.16.64",
-    "downloadUrl": "resources/staff.83562/download?version=399125",
-    "numberOfDownloads": 645,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1621239540,
-    "sourceUrl": "https://www.spigotmc.org/resources/staff.83562/history"
-  }
+  "downloadUrl": "resources/staff.83562/download?version=399125",
+  "numberOfDownloads": 645,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1621239540,
+  "sourceUrl": "https://www.spigotmc.org/resources/staff.83562/history"
 }

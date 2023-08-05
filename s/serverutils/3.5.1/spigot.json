@@ -1,12 +1,9 @@
 {
   "name": "3.5.1",
-  "version": {
-    "name": "3.5.1",
-    "downloadUrl": "resources/serverutils-spigot-bungee-velocity-manage-plugins-in-game.79599/download?version=457453",
-    "numberOfDownloads": 747,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1655841000,
-    "sourceUrl": "https://www.spigotmc.org/resources/serverutils-spigot-bungee-velocity-manage-plugins-in-game.79599/history"
-  }
+  "downloadUrl": "resources/serverutils-spigot-bungee-velocity-manage-plugins-in-game.79599/download?version=457453",
+  "numberOfDownloads": 747,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1655841000,
+  "sourceUrl": "https://www.spigotmc.org/resources/serverutils-spigot-bungee-velocity-manage-plugins-in-game.79599/history"
 }

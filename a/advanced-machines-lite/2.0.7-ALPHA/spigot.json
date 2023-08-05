@@ -1,12 +1,9 @@
 {
   "name": "2.0.7-ALPHA",
-  "version": {
-    "name": "2.0.7-ALPHA",
-    "downloadUrl": "resources/advanced-machines.71731/download?version=396124",
-    "numberOfDownloads": 38,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1619501880,
-    "sourceUrl": "https://www.spigotmc.org/resources/advanced-machines.71731/history"
-  }
+  "downloadUrl": "resources/advanced-machines.71731/download?version=396124",
+  "numberOfDownloads": 38,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1619501880,
+  "sourceUrl": "https://www.spigotmc.org/resources/advanced-machines.71731/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.18.1-pre.1",
-  "version": {
-    "name": "1.18.1",
-    "downloadUrl": "resources/rspectate.99375/download?version=437623",
-    "numberOfDownloads": 18,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1642749060,
-    "sourceUrl": "https://www.spigotmc.org/resources/99375/history/"
-  }
+  "name": "1.18.1",
+  "downloadUrl": "resources/rspectate.99375/download?version=437623",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1642749060,
+  "sourceUrl": "https://www.spigotmc.org/resources/99375/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "3.0.1",
-  "version": {
-    "name": "3.0.1",
-    "downloadUrl": "resources/bungeecord-prometheus-exporter-redisbungee-support.91924/download?version=429696",
-    "numberOfDownloads": 176,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1638580080,
-    "sourceUrl": "https://www.spigotmc.org/resources/bungeecord-prometheus-exporter-redisbungee-support.91924/history"
-  }
+  "downloadUrl": "resources/bungeecord-prometheus-exporter-redisbungee-support.91924/download?version=429696",
+  "numberOfDownloads": 176,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1638580080,
+  "sourceUrl": "https://www.spigotmc.org/resources/bungeecord-prometheus-exporter-redisbungee-support.91924/history"
 }

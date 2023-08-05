@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-B10",
-  "version": {
-    "name": "1.0-B10",
-    "downloadUrl": "resources/storage.100516/download?version=452327",
-    "numberOfDownloads": 13,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1652613720,
-    "sourceUrl": "https://www.spigotmc.org/resources/storage.100516/history"
-  }
+  "name": "1.0-B10",
+  "downloadUrl": "resources/storage.100516/download?version=452327",
+  "numberOfDownloads": 13,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1652613720,
+  "sourceUrl": "https://www.spigotmc.org/resources/storage.100516/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "5.15.1",
-  "version": {
-    "name": "5.15.1",
-    "downloadUrl": "resources/chatbot-fully-customizable.55642/download?version=377372",
-    "numberOfDownloads": 80,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1610618940,
-    "sourceUrl": "https://www.spigotmc.org/resources/chatbot-fully-customizable.55642/history"
-  }
+  "downloadUrl": "resources/chatbot-fully-customizable.55642/download?version=377372",
+  "numberOfDownloads": 80,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1610618940,
+  "sourceUrl": "https://www.spigotmc.org/resources/chatbot-fully-customizable.55642/history"
 }

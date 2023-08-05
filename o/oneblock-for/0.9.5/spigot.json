@@ -1,12 +1,9 @@
 {
   "name": "0.9.5",
-  "version": {
-    "name": "0.9.5",
-    "downloadUrl": "resources/oneblock-for-1-5-2-1-7-x.87874/download?version=435666",
-    "numberOfDownloads": 77,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1641656460,
-    "sourceUrl": "https://www.spigotmc.org/resources/oneblock-for-1-5-2-1-7-x.87874/history"
-  }
+  "downloadUrl": "resources/oneblock-for-1-5-2-1-7-x.87874/download?version=435666",
+  "numberOfDownloads": 77,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1641656460,
+  "sourceUrl": "https://www.spigotmc.org/resources/oneblock-for-1-5-2-1-7-x.87874/history"
 }

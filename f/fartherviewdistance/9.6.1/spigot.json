@@ -1,12 +1,9 @@
 {
   "name": "9.6.1",
-  "version": {
-    "name": "9.6.1",
-    "downloadUrl": "resources/fartherviewdistance.84950/download?version=459255",
-    "numberOfDownloads": 180,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1656934740,
-    "sourceUrl": "https://www.spigotmc.org/resources/fartherviewdistance.84950/history"
-  }
+  "downloadUrl": "resources/fartherviewdistance.84950/download?version=459255",
+  "numberOfDownloads": 180,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1656934740,
+  "sourceUrl": "https://www.spigotmc.org/resources/fartherviewdistance.84950/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/sgames.99864/download?version=440351",
-    "numberOfDownloads": 18,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1644294360,
-    "sourceUrl": "https://www.spigotmc.org/resources/sgames.99864/history"
-  }
+  "downloadUrl": "resources/sgames.99864/download?version=440351",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1644294360,
+  "sourceUrl": "https://www.spigotmc.org/resources/sgames.99864/history"
 }

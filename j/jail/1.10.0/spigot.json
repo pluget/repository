@@ -1,12 +1,9 @@
 {
   "name": "1.10.0",
-  "version": {
-    "name": "1.10.0",
-    "downloadUrl": "resources/jail-1-13-2-1-19-3.107613/download?version=483547",
-    "numberOfDownloads": 87,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1674721260,
-    "sourceUrl": "https://www.spigotmc.org/resources/jail-1-13-2-1-19-3.107613/history"
-  }
+  "downloadUrl": "resources/jail-1-13-2-1-19-3.107613/download?version=483547",
+  "numberOfDownloads": 87,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1674721260,
+  "sourceUrl": "https://www.spigotmc.org/resources/jail-1-13-2-1-19-3.107613/history"
 }

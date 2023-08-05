@@ -1,12 +1,9 @@
 {
   "name": "2.3.1",
-  "version": {
-    "name": "2.3.1",
-    "downloadUrl": "resources/breaker-2-configurable-breaking-speeds-1-16-1-19-3.99022/download?version=446909",
-    "numberOfDownloads": 232,
-    "rating": 9.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1648523700,
-    "sourceUrl": "https://www.spigotmc.org/resources/breaker-2-configurable-breaking-speeds-1-16-1-19-3.99022/history"
-  }
+  "downloadUrl": "resources/breaker-2-configurable-breaking-speeds-1-16-1-19-3.99022/download?version=446909",
+  "numberOfDownloads": 232,
+  "rating": 9.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1648523700,
+  "sourceUrl": "https://www.spigotmc.org/resources/breaker-2-configurable-breaking-speeds-1-16-1-19-3.99022/history"
 }

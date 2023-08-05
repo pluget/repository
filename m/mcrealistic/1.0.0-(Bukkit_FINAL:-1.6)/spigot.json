@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-(Bukkit_FINAL:-1.6)",
-  "version": {
-    "name": "1.0 (Bukkit_FINAL: 1.6)",
-    "downloadUrl": "resources/mcrealistic-1-17.21628/download?version=82058",
-    "numberOfDownloads": 451,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1460385720,
-    "sourceUrl": "https://www.spigotmc.org/resources/21628/history/"
-  }
+  "name": "1.0 (Bukkit_FINAL: 1.6)",
+  "downloadUrl": "resources/mcrealistic-1-17.21628/download?version=82058",
+  "numberOfDownloads": 451,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1460385720,
+  "sourceUrl": "https://www.spigotmc.org/resources/21628/history/"
 }

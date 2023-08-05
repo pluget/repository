@@ -1,12 +1,9 @@
 {
   "name": "2.6.4",
-  "version": {
-    "name": "2.6.4",
-    "downloadUrl": "resources/quests.3711/download?version=97125",
-    "numberOfDownloads": 1,
-    "rating": 2,
-    "numberOfVotes": 1,
-    "releaseDate": 1466120040,
-    "sourceUrl": "https://www.spigotmc.org/resources/quests.3711/history"
-  }
+  "downloadUrl": "resources/quests.3711/download?version=97125",
+  "numberOfDownloads": 1,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releaseDate": 1466120040,
+  "sourceUrl": "https://www.spigotmc.org/resources/quests.3711/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "0.2.0",
-  "version": {
-    "name": "0.2.0",
-    "downloadUrl": "resources/animatedscoreboard.20848/download?version=354672",
-    "numberOfDownloads": 4,
-    "rating": 9.75,
-    "numberOfVotes": 8,
-    "releaseDate": 1599070020,
-    "sourceUrl": "https://www.spigotmc.org/resources/animatedscoreboard.20848/history"
-  }
+  "downloadUrl": "resources/animatedscoreboard.20848/download?version=354672",
+  "numberOfDownloads": 4,
+  "rating": 9.75,
+  "numberOfVotes": 8,
+  "releaseDate": 1599070020,
+  "sourceUrl": "https://www.spigotmc.org/resources/animatedscoreboard.20848/history"
 }

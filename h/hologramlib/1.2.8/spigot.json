@@ -1,12 +1,9 @@
 {
   "name": "1.2.8",
-  "version": {
-    "name": "1.2.8",
-    "downloadUrl": "resources/api-hologramlib.98899/download?version=456341",
-    "numberOfDownloads": 18,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1655233920,
-    "sourceUrl": "https://www.spigotmc.org/resources/api-hologramlib.98899/history"
-  }
+  "downloadUrl": "resources/api-hologramlib.98899/download?version=456341",
+  "numberOfDownloads": 18,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1655233920,
+  "sourceUrl": "https://www.spigotmc.org/resources/api-hologramlib.98899/history"
 }

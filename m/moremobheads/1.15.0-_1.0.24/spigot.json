@@ -1,12 +1,9 @@
 {
-  "name": "1.15.0-_1.0.24",
-  "version": {
-    "name": "1.15_1.0.24",
-    "downloadUrl": "resources/moremobheads.73997/download?version=429690",
-    "numberOfDownloads": 10,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1638578280,
-    "sourceUrl": "https://www.spigotmc.org/resources/moremobheads.73997/history"
-  }
+  "name": "1.15_1.0.24",
+  "downloadUrl": "resources/moremobheads.73997/download?version=429690",
+  "numberOfDownloads": 10,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1638578280,
+  "sourceUrl": "https://www.spigotmc.org/resources/moremobheads.73997/history"
 }

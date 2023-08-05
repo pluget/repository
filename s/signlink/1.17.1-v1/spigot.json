@@ -1,12 +1,9 @@
 {
   "name": "1.17.1-v1",
-  "version": {
-    "name": "1.17.1-v1",
-    "downloadUrl": "resources/signlink.39593/download?version=416064",
-    "numberOfDownloads": 558,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1629582540,
-    "sourceUrl": "https://www.spigotmc.org/resources/signlink.39593/history"
-  }
+  "downloadUrl": "resources/signlink.39593/download?version=416064",
+  "numberOfDownloads": 558,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1629582540,
+  "sourceUrl": "https://www.spigotmc.org/resources/signlink.39593/history"
 }

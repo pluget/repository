@@ -1,12 +1,9 @@
 {
   "name": "6.4.2",
-  "version": {
-    "name": "6.4.2",
-    "downloadUrl": "resources/chestsort-api.59773/download?version=284177",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1563306540,
-    "sourceUrl": "https://www.spigotmc.org/resources/59773/history/"
-  }
+  "downloadUrl": "resources/chestsort-api.59773/download?version=284177",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1563306540,
+  "sourceUrl": "https://www.spigotmc.org/resources/59773/history/"
 }

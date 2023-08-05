@@ -1,12 +1,9 @@
 {
   "name": "2.1.3",
-  "version": {
-    "name": "2.1.3",
-    "downloadUrl": "resources/yottabyte-anticraft-1-8-1-19.81146/download?version=418553",
-    "numberOfDownloads": 263,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1631025480,
-    "sourceUrl": "https://www.spigotmc.org/resources/yottabyte-anticraft-1-8-1-19.81146/history"
-  }
+  "downloadUrl": "resources/yottabyte-anticraft-1-8-1-19.81146/download?version=418553",
+  "numberOfDownloads": 263,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1631025480,
+  "sourceUrl": "https://www.spigotmc.org/resources/yottabyte-anticraft-1-8-1-19.81146/history"
 }

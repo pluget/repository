@@ -1,12 +1,9 @@
 {
   "name": "0.9.1",
-  "version": {
-    "name": "0.9.1",
-    "downloadUrl": "resources/clans-for-party-and-friends-extended.13890/download?version=87883",
-    "numberOfDownloads": 243,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1462710960,
-    "sourceUrl": "https://www.spigotmc.org/resources/13890/history/"
-  }
+  "downloadUrl": "resources/clans-for-party-and-friends-extended.13890/download?version=87883",
+  "numberOfDownloads": 243,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1462710960,
+  "sourceUrl": "https://www.spigotmc.org/resources/13890/history/"
 }

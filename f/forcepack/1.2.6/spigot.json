@@ -1,12 +1,9 @@
 {
   "name": "1.2.6",
-  "version": {
-    "name": "1.2.6",
-    "downloadUrl": "resources/forcepack.45439/download?version=476245",
-    "numberOfDownloads": 504,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1669213380,
-    "sourceUrl": "https://www.spigotmc.org/resources/forcepack.45439/history"
-  }
+  "downloadUrl": "resources/forcepack.45439/download?version=476245",
+  "numberOfDownloads": 504,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1669213380,
+  "sourceUrl": "https://www.spigotmc.org/resources/forcepack.45439/history"
 }

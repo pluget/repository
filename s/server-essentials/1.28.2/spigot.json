@@ -1,12 +1,9 @@
 {
   "name": "1.28.2",
-  "version": {
-    "name": "1.28.2",
-    "downloadUrl": "resources/server-essentials.86675/download?version=390153",
-    "numberOfDownloads": 31,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1616520480,
-    "sourceUrl": "https://www.spigotmc.org/resources/server-essentials.86675/history"
-  }
+  "downloadUrl": "resources/server-essentials.86675/download?version=390153",
+  "numberOfDownloads": 31,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1616520480,
+  "sourceUrl": "https://www.spigotmc.org/resources/server-essentials.86675/history"
 }

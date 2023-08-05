@@ -1,12 +1,9 @@
 {
   "name": "1.1.2",
-  "version": {
-    "name": "1.1.2",
-    "downloadUrl": "resources/filemanager-1-13-x-1-18-x.102079/download?version=453093",
-    "numberOfDownloads": 27,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1653210120,
-    "sourceUrl": "https://www.spigotmc.org/resources/102079/history/"
-  }
+  "downloadUrl": "resources/filemanager-1-13-x-1-18-x.102079/download?version=453093",
+  "numberOfDownloads": 27,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1653210120,
+  "sourceUrl": "https://www.spigotmc.org/resources/102079/history/"
 }

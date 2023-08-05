@@ -1,12 +1,9 @@
 {
   "name": "1.10.4",
-  "version": {
-    "name": "1.10.4",
-    "downloadUrl": "resources/gravity-tubes-1-9-1-17.64624/download?version=339105",
-    "numberOfDownloads": 126,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1593007860,
-    "sourceUrl": "https://www.spigotmc.org/resources/gravity-tubes-1-9-1-17.64624/history"
-  }
+  "downloadUrl": "resources/gravity-tubes-1-9-1-17.64624/download?version=339105",
+  "numberOfDownloads": 126,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1593007860,
+  "sourceUrl": "https://www.spigotmc.org/resources/gravity-tubes-1-9-1-17.64624/history"
 }

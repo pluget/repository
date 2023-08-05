@@ -1,12 +1,9 @@
 {
   "name": "4.2.0",
-  "version": {
-    "name": "4.2.0",
-    "downloadUrl": "resources/economyshopgui.69927/download?version=437279",
-    "numberOfDownloads": 5,
-    "rating": 7.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1642527840,
-    "sourceUrl": "https://www.spigotmc.org/resources/69927/history/"
-  }
+  "downloadUrl": "resources/economyshopgui.69927/download?version=437279",
+  "numberOfDownloads": 5,
+  "rating": 7.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1642527840,
+  "sourceUrl": "https://www.spigotmc.org/resources/69927/history/"
 }

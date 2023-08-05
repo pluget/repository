@@ -1,12 +1,9 @@
 {
   "name": "1.2.12",
-  "version": {
-    "name": "1.2.12",
-    "downloadUrl": "resources/reportplus.71581/download?version=299259",
-    "numberOfDownloads": 131,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1572112080,
-    "sourceUrl": "https://www.spigotmc.org/resources/reportplus.71581/history"
-  }
+  "downloadUrl": "resources/reportplus.71581/download?version=299259",
+  "numberOfDownloads": 131,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1572112080,
+  "sourceUrl": "https://www.spigotmc.org/resources/reportplus.71581/history"
 }

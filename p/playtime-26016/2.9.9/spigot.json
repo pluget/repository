@@ -1,12 +1,9 @@
 {
   "name": "2.9.9",
-  "version": {
-    "name": "2.9.9",
-    "downloadUrl": "resources/playtime.26016/download?version=404508",
-    "numberOfDownloads": 628,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1624181280,
-    "sourceUrl": "https://www.spigotmc.org/resources/26016/history/"
-  }
+  "downloadUrl": "resources/playtime.26016/download?version=404508",
+  "numberOfDownloads": 628,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1624181280,
+  "sourceUrl": "https://www.spigotmc.org/resources/26016/history/"
 }

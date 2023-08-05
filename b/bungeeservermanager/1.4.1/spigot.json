@@ -1,12 +1,9 @@
 {
   "name": "1.4.1",
-  "version": {
-    "name": "1.4.1",
-    "downloadUrl": "resources/bungeeservermanager-bungeecord-mysql.24837/download?version=322355",
-    "numberOfDownloads": 36,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1586031360,
-    "sourceUrl": "https://www.spigotmc.org/resources/bungeeservermanager-bungeecord-mysql.24837/history"
-  }
+  "downloadUrl": "resources/bungeeservermanager-bungeecord-mysql.24837/download?version=322355",
+  "numberOfDownloads": 36,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1586031360,
+  "sourceUrl": "https://www.spigotmc.org/resources/bungeeservermanager-bungeecord-mysql.24837/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.72.5",
-  "version": {
-    "name": "1.72.5",
-    "downloadUrl": "resources/server-essentials.86675/download?version=415513",
-    "numberOfDownloads": 200,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1629314580,
-    "sourceUrl": "https://www.spigotmc.org/resources/server-essentials.86675/history"
-  }
+  "downloadUrl": "resources/server-essentials.86675/download?version=415513",
+  "numberOfDownloads": 200,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1629314580,
+  "sourceUrl": "https://www.spigotmc.org/resources/server-essentials.86675/history"
 }

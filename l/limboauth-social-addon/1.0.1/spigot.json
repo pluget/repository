@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/limboauth-social-addon.102170/download?version=453259",
-    "numberOfDownloads": 229,
-    "rating": 8.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1653313020,
-    "sourceUrl": "https://www.spigotmc.org/resources/limboauth-social-addon.102170/history"
-  }
+  "downloadUrl": "resources/limboauth-social-addon.102170/download?version=453259",
+  "numberOfDownloads": 229,
+  "rating": 8.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1653313020,
+  "sourceUrl": "https://www.spigotmc.org/resources/limboauth-social-addon.102170/history"
 }

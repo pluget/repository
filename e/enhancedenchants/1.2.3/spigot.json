@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/enhancedenchants.87089/download?version=382177",
-    "numberOfDownloads": 184,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1612705140,
-    "sourceUrl": "https://www.spigotmc.org/resources/enhancedenchants.87089/history"
-  }
+  "downloadUrl": "resources/enhancedenchants.87089/download?version=382177",
+  "numberOfDownloads": 184,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1612705140,
+  "sourceUrl": "https://www.spigotmc.org/resources/enhancedenchants.87089/history"
 }

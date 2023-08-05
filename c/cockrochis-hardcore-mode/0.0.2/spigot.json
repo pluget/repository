@@ -1,12 +1,9 @@
 {
   "name": "0.0.2",
-  "version": {
-    "name": "0.0.2",
-    "downloadUrl": "resources/cockrochis-hardcore-mode.104991/download?version=470517",
-    "numberOfDownloads": 1,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1664116680,
-    "sourceUrl": "https://www.spigotmc.org/resources/104991/history/"
-  }
+  "downloadUrl": "resources/cockrochis-hardcore-mode.104991/download?version=470517",
+  "numberOfDownloads": 1,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1664116680,
+  "sourceUrl": "https://www.spigotmc.org/resources/104991/history/"
 }

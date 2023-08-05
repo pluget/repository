@@ -1,12 +1,9 @@
 {
   "name": "2.3.3",
-  "version": {
-    "name": "2.3.3",
-    "downloadUrl": "resources/mcrealistic-1-17.21628/download?version=312702",
-    "numberOfDownloads": 916,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1580747040,
-    "sourceUrl": "https://www.spigotmc.org/resources/21628/history/"
-  }
+  "downloadUrl": "resources/mcrealistic-1-17.21628/download?version=312702",
+  "numberOfDownloads": 916,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1580747040,
+  "sourceUrl": "https://www.spigotmc.org/resources/21628/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.5.5",
-  "version": {
-    "name": "1.5.5",
-    "downloadUrl": "resources/ultimatechairs-1-8-1-19.80434/download?version=469437",
-    "numberOfDownloads": 7,
-    "rating": 5,
-    "numberOfVotes": 2,
-    "releaseDate": 1663141620,
-    "sourceUrl": "https://www.spigotmc.org/resources/ultimatechairs-1-8-1-19.80434/history"
-  }
+  "downloadUrl": "resources/ultimatechairs-1-8-1-19.80434/download?version=469437",
+  "numberOfDownloads": 7,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releaseDate": 1663141620,
+  "sourceUrl": "https://www.spigotmc.org/resources/ultimatechairs-1-8-1-19.80434/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "7.1.1",
-  "version": {
-    "name": "7.1.1",
-    "downloadUrl": "resources/libs-disguises-free.81/download?version=581",
-    "numberOfDownloads": 481,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1375252500,
-    "sourceUrl": "https://www.spigotmc.org/resources/81/history/"
-  }
+  "downloadUrl": "resources/libs-disguises-free.81/download?version=581",
+  "numberOfDownloads": 481,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1375252500,
+  "sourceUrl": "https://www.spigotmc.org/resources/81/history/"
 }

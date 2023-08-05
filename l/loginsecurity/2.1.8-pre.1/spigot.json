@@ -1,12 +1,9 @@
 {
-  "name": "2.1.8-pre.1",
-  "version": {
-    "name": "2.1.8",
-    "downloadUrl": "resources/loginsecurity.19362/download?version=254821",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1546261140,
-    "sourceUrl": "https://www.spigotmc.org/resources/loginsecurity.19362/history"
-  }
+  "name": "2.1.8",
+  "downloadUrl": "resources/loginsecurity.19362/download?version=254821",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1546261140,
+  "sourceUrl": "https://www.spigotmc.org/resources/loginsecurity.19362/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.4.1",
-  "version": {
-    "name": "1.4.1",
-    "downloadUrl": "resources/sleeper.102406/download?version=486425",
-    "numberOfDownloads": 138,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1676762040,
-    "sourceUrl": "https://www.spigotmc.org/resources/sleeper.102406/history"
-  }
+  "downloadUrl": "resources/sleeper.102406/download?version=486425",
+  "numberOfDownloads": 138,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1676762040,
+  "sourceUrl": "https://www.spigotmc.org/resources/sleeper.102406/history"
 }

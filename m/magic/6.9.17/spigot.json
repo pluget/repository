@@ -1,12 +1,9 @@
 {
   "name": "6.9.17",
-  "version": {
-    "name": "6.9.17",
-    "downloadUrl": "resources/magic.1056/download?version=182031",
-    "numberOfDownloads": 816,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1504104060,
-    "sourceUrl": "https://www.spigotmc.org/resources/magic.1056/history"
-  }
+  "downloadUrl": "resources/magic.1056/download?version=182031",
+  "numberOfDownloads": 816,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1504104060,
+  "sourceUrl": "https://www.spigotmc.org/resources/magic.1056/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.0-alpha",
-  "version": {
-    "name": "1.0.0-alpha",
-    "downloadUrl": "resources/packetwhitelistnbt.98418/download?version=431842",
-    "numberOfDownloads": 40,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1639648020,
-    "sourceUrl": "https://www.spigotmc.org/resources/packetwhitelistnbt.98418/history"
-  }
+  "downloadUrl": "resources/packetwhitelistnbt.98418/download?version=431842",
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1639648020,
+  "sourceUrl": "https://www.spigotmc.org/resources/packetwhitelistnbt.98418/history"
 }

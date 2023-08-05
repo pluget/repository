@@ -1,12 +1,9 @@
 {
   "name": "1.0.4",
-  "version": {
-    "name": "1.0.4",
-    "downloadUrl": "resources/gamemode-gui.93686/download?version=452367",
-    "numberOfDownloads": 21,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1652628840,
-    "sourceUrl": "https://www.spigotmc.org/resources/gamemode-gui.93686/history"
-  }
+  "downloadUrl": "resources/gamemode-gui.93686/download?version=452367",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1652628840,
+  "sourceUrl": "https://www.spigotmc.org/resources/gamemode-gui.93686/history"
 }

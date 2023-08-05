@@ -1,12 +1,9 @@
 {
   "name": "1.0.3",
-  "version": {
-    "name": "1.0.3",
-    "downloadUrl": "resources/lightstafflist-1-12-x-1-19-x.106172/download?version=476163",
-    "numberOfDownloads": 26,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1669135260,
-    "sourceUrl": "https://www.spigotmc.org/resources/106172/history/"
-  }
+  "downloadUrl": "resources/lightstafflist-1-12-x-1-19-x.106172/download?version=476163",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1669135260,
+  "sourceUrl": "https://www.spigotmc.org/resources/106172/history/"
 }

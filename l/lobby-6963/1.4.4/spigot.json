@@ -1,12 +1,9 @@
 {
   "name": "1.4.4",
-  "version": {
-    "name": "1.4.4",
-    "downloadUrl": "resources/lobby.6963/download?version=276454",
-    "numberOfDownloads": 159,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1559395320,
-    "sourceUrl": "https://www.spigotmc.org/resources/lobby.6963/history"
-  }
+  "downloadUrl": "resources/lobby.6963/download?version=276454",
+  "numberOfDownloads": 159,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1559395320,
+  "sourceUrl": "https://www.spigotmc.org/resources/lobby.6963/history"
 }

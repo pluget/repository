@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/akarian-auction-house-1-14-1-19-4.97504/download?version=488185",
-    "numberOfDownloads": 619,
-    "rating": 2,
-    "numberOfVotes": 3,
-    "releaseDate": 1678116900,
-    "sourceUrl": "https://www.spigotmc.org/resources/akarian-auction-house-1-14-1-19-4.97504/history"
-  }
+  "downloadUrl": "resources/akarian-auction-house-1-14-1-19-4.97504/download?version=488185",
+  "numberOfDownloads": 619,
+  "rating": 2,
+  "numberOfVotes": 3,
+  "releaseDate": 1678116900,
+  "sourceUrl": "https://www.spigotmc.org/resources/akarian-auction-house-1-14-1-19-4.97504/history"
 }

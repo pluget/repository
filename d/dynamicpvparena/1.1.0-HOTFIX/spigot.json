@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0-HOTFIX",
-  "version": {
-    "name": "1.1-HOTFIX",
-    "downloadUrl": "resources/dynamicpvparena.100000/download?version=441221",
-    "numberOfDownloads": 51,
-    "rating": 7,
-    "numberOfVotes": 4,
-    "releaseDate": 1644868920,
-    "sourceUrl": "https://www.spigotmc.org/resources/dynamicpvparena.100000/history"
-  }
+  "name": "1.1-HOTFIX",
+  "downloadUrl": "resources/dynamicpvparena.100000/download?version=441221",
+  "numberOfDownloads": 51,
+  "rating": 7,
+  "numberOfVotes": 4,
+  "releaseDate": 1644868920,
+  "sourceUrl": "https://www.spigotmc.org/resources/dynamicpvparena.100000/history"
 }

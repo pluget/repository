@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/appleskinspigot.97473/download?version=444118",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1646619960,
-    "sourceUrl": "https://www.spigotmc.org/resources/97473/history/"
-  }
+  "downloadUrl": "resources/appleskinspigot.97473/download?version=444118",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1646619960,
+  "sourceUrl": "https://www.spigotmc.org/resources/97473/history/"
 }

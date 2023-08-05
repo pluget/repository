@@ -1,12 +1,9 @@
 {
   "name": "1.2.2",
-  "version": {
-    "name": "1.2.2",
-    "downloadUrl": "resources/api-dynamicjson.99746/download?version=439689",
-    "numberOfDownloads": 31,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1643945580,
-    "sourceUrl": "https://www.spigotmc.org/resources/api-dynamicjson.99746/history"
-  }
+  "downloadUrl": "resources/api-dynamicjson.99746/download?version=439689",
+  "numberOfDownloads": 31,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1643945580,
+  "sourceUrl": "https://www.spigotmc.org/resources/api-dynamicjson.99746/history"
 }

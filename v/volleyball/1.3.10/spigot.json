@@ -1,12 +1,9 @@
 {
   "name": "1.3.10",
-  "version": {
-    "name": "1.3.10",
-    "downloadUrl": "resources/volleyball.75375/download?version=320086",
-    "numberOfDownloads": 530,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1585082100,
-    "sourceUrl": "https://www.spigotmc.org/resources/volleyball.75375/history"
-  }
+  "downloadUrl": "resources/volleyball.75375/download?version=320086",
+  "numberOfDownloads": 530,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1585082100,
+  "sourceUrl": "https://www.spigotmc.org/resources/volleyball.75375/history"
 }

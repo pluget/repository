@@ -1,12 +1,9 @@
 {
   "name": "4.6.1",
-  "version": {
-    "name": "4.6.1",
-    "downloadUrl": "resources/viabackwards.27448/download?version=489430",
-    "numberOfDownloads": 121,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1678992780,
-    "sourceUrl": "https://www.spigotmc.org/resources/viabackwards.27448/history"
-  }
+  "downloadUrl": "resources/viabackwards.27448/download?version=489430",
+  "numberOfDownloads": 121,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1678992780,
+  "sourceUrl": "https://www.spigotmc.org/resources/viabackwards.27448/history"
 }

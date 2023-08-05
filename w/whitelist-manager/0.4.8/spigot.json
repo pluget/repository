@@ -1,12 +1,9 @@
 {
-  "name": "0.4.8",
-  "version": {
-    "name": "Stable 0.4.8",
-    "downloadUrl": "resources/whitelist-manager.92490/download?version=399295",
-    "numberOfDownloads": 29,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1621350960,
-    "sourceUrl": "https://www.spigotmc.org/resources/92490/history/"
-  }
+  "name": "Stable 0.4.8",
+  "downloadUrl": "resources/whitelist-manager.92490/download?version=399295",
+  "numberOfDownloads": 29,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1621350960,
+  "sourceUrl": "https://www.spigotmc.org/resources/92490/history/"
 }

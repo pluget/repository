@@ -1,12 +1,9 @@
 {
   "name": "3.1.1",
-  "version": {
-    "name": "3.1.1",
-    "downloadUrl": "resources/myinfo.18360/download?version=437924",
-    "numberOfDownloads": 18,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1642889400,
-    "sourceUrl": "https://www.spigotmc.org/resources/myinfo.18360/history"
-  }
+  "downloadUrl": "resources/myinfo.18360/download?version=437924",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1642889400,
+  "sourceUrl": "https://www.spigotmc.org/resources/myinfo.18360/history"
 }

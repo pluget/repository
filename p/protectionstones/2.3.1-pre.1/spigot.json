@@ -1,12 +1,9 @@
 {
-  "name": "2.3.1-pre.1",
-  "version": {
-    "name": "2.3.1",
-    "downloadUrl": "resources/protectionstones-updated-for-1-17.61797/download?version=289977",
-    "numberOfDownloads": 350,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1566219120,
-    "sourceUrl": "https://www.spigotmc.org/resources/protectionstones-updated-for-1-17.61797/history"
-  }
+  "name": "2.3.1",
+  "downloadUrl": "resources/protectionstones-updated-for-1-17.61797/download?version=289977",
+  "numberOfDownloads": 350,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1566219120,
+  "sourceUrl": "https://www.spigotmc.org/resources/protectionstones-updated-for-1-17.61797/history"
 }

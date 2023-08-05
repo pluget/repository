@@ -1,12 +1,9 @@
 {
   "name": "1.19.2",
-  "version": {
-    "name": "1.19.2",
-    "downloadUrl": "resources/default-texture-pack-ranks.106777/download?version=478586",
-    "numberOfDownloads": 244,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1671240780,
-    "sourceUrl": "https://www.spigotmc.org/resources/default-texture-pack-ranks.106777/history"
-  }
+  "downloadUrl": "resources/default-texture-pack-ranks.106777/download?version=478586",
+  "numberOfDownloads": 244,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1671240780,
+  "sourceUrl": "https://www.spigotmc.org/resources/default-texture-pack-ranks.106777/history"
 }

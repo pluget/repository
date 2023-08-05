@@ -1,12 +1,9 @@
 {
-  "name": "1.2.0-pre.1",
-  "version": {
-    "name": "Beta 1.2",
-    "downloadUrl": "resources/nekoc.75431/download?version=318447",
-    "numberOfDownloads": 124,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1584284820,
-    "sourceUrl": "https://www.spigotmc.org/resources/nekoc.75431/history"
-  }
+  "name": "Beta 1.2",
+  "downloadUrl": "resources/nekoc.75431/download?version=318447",
+  "numberOfDownloads": 124,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1584284820,
+  "sourceUrl": "https://www.spigotmc.org/resources/nekoc.75431/history"
 }

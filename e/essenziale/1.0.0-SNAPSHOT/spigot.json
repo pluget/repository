@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-SNAPSHOT",
-  "version": {
-    "name": "1.0-SNAPSHOT",
-    "downloadUrl": "resources/essenziale.101087/download?version=447219",
-    "numberOfDownloads": 22,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1648743420,
-    "sourceUrl": "https://www.spigotmc.org/resources/101087/history/"
-  }
+  "name": "1.0-SNAPSHOT",
+  "downloadUrl": "resources/essenziale.101087/download?version=447219",
+  "numberOfDownloads": 22,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1648743420,
+  "sourceUrl": "https://www.spigotmc.org/resources/101087/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.1.17",
-  "version": {
-    "name": "1.1.17",
-    "downloadUrl": "resources/rtp.94812/download?version=417670",
-    "numberOfDownloads": 71,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1630452420,
-    "sourceUrl": "https://www.spigotmc.org/resources/rtp.94812/history"
-  }
+  "downloadUrl": "resources/rtp.94812/download?version=417670",
+  "numberOfDownloads": 71,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1630452420,
+  "sourceUrl": "https://www.spigotmc.org/resources/rtp.94812/history"
 }

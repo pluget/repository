@@ -1,12 +1,9 @@
 {
-  "name": "2.0.3",
-  "version": {
-    "name": "v2.0.3",
-    "downloadUrl": "resources/simple-gamemode-gm-1-8-1-19.86743/download?version=471274",
-    "numberOfDownloads": 222,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1664796060,
-    "sourceUrl": "https://www.spigotmc.org/resources/simple-gamemode-gm-1-8-1-19.86743/history"
-  }
+  "name": "v2.0.3",
+  "downloadUrl": "resources/simple-gamemode-gm-1-8-1-19.86743/download?version=471274",
+  "numberOfDownloads": 222,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1664796060,
+  "sourceUrl": "https://www.spigotmc.org/resources/simple-gamemode-gm-1-8-1-19.86743/history"
 }

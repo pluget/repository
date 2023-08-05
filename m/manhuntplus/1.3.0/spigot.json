@@ -1,12 +1,9 @@
 {
   "name": "1.3.0",
-  "version": {
-    "name": "1.3.0",
-    "downloadUrl": "resources/manhunt-1-16x-1-19x.86708/download?version=408464",
-    "numberOfDownloads": 17,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1625960400,
-    "sourceUrl": "https://www.spigotmc.org/resources/manhunt-1-16x-1-19x.86708/history"
-  }
+  "downloadUrl": "resources/manhunt-1-16x-1-19x.86708/download?version=408464",
+  "numberOfDownloads": 17,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1625960400,
+  "sourceUrl": "https://www.spigotmc.org/resources/manhunt-1-16x-1-19x.86708/history"
 }

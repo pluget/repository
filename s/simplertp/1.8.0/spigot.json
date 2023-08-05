@@ -1,12 +1,9 @@
 {
-  "name": "1.8.0",
-  "version": {
-    "name": "1.8",
-    "downloadUrl": "resources/simplertp-1-19x.61988/download?version=260241",
-    "numberOfDownloads": 185,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1549616820,
-    "sourceUrl": "https://www.spigotmc.org/resources/simplertp-1-19x.61988/history"
-  }
+  "name": "1.8",
+  "downloadUrl": "resources/simplertp-1-19x.61988/download?version=260241",
+  "numberOfDownloads": 185,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1549616820,
+  "sourceUrl": "https://www.spigotmc.org/resources/simplertp-1-19x.61988/history"
 }

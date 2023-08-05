@@ -1,12 +1,9 @@
 {
   "name": "1.3.0-SNAPSHOT",
-  "version": {
-    "name": "1.3.0-SNAPSHOT",
-    "downloadUrl": "resources/multiworld.92559/download?version=481025",
-    "numberOfDownloads": 918,
-    "rating": 4,
-    "numberOfVotes": 1,
-    "releaseDate": 1672858380,
-    "sourceUrl": "https://www.spigotmc.org/resources/multiworld.92559/history"
-  }
+  "downloadUrl": "resources/multiworld.92559/download?version=481025",
+  "numberOfDownloads": 918,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releaseDate": 1672858380,
+  "sourceUrl": "https://www.spigotmc.org/resources/multiworld.92559/history"
 }

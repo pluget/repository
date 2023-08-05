@@ -1,12 +1,9 @@
 {
-  "name": "2.0.1",
-  "version": {
-    "name": "v2.0.1",
-    "downloadUrl": "resources/visual-spigot.87912/download?version=454909",
-    "numberOfDownloads": 1,
-    "rating": 4.6666666666666,
-    "numberOfVotes": 3,
-    "releaseDate": 1654555920,
-    "sourceUrl": "https://www.spigotmc.org/resources/87912/history/"
-  }
+  "name": "v2.0.1",
+  "downloadUrl": "resources/visual-spigot.87912/download?version=454909",
+  "numberOfDownloads": 1,
+  "rating": 4.6666666666666,
+  "numberOfVotes": 3,
+  "releaseDate": 1654555920,
+  "sourceUrl": "https://www.spigotmc.org/resources/87912/history/"
 }

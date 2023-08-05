@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/soulswap-zh.100310/download?version=442784",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1645879200,
-    "sourceUrl": "https://www.spigotmc.org/resources/soulswap-zh.100310/history"
-  }
+  "downloadUrl": "resources/soulswap-zh.100310/download?version=442784",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1645879200,
+  "sourceUrl": "https://www.spigotmc.org/resources/soulswap-zh.100310/history"
 }

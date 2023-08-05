@@ -1,12 +1,9 @@
 {
   "name": "7.1.7",
-  "version": {
-    "name": "7.1.7",
-    "downloadUrl": "resources/guishop.2451/download?version=293221",
-    "numberOfDownloads": 1,
-    "rating": 6,
-    "numberOfVotes": 2,
-    "releaseDate": 1567987200,
-    "sourceUrl": "https://www.spigotmc.org/resources/guishop.2451/history"
-  }
+  "downloadUrl": "resources/guishop.2451/download?version=293221",
+  "numberOfDownloads": 1,
+  "rating": 6,
+  "numberOfVotes": 2,
+  "releaseDate": 1567987200,
+  "sourceUrl": "https://www.spigotmc.org/resources/guishop.2451/history"
 }

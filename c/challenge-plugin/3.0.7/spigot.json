@@ -1,12 +1,9 @@
 {
   "name": "3.0.7",
-  "version": {
-    "name": "3.0.7",
-    "downloadUrl": "resources/challenge-plugin.82074/download?version=453848",
-    "numberOfDownloads": 331,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1653765000,
-    "sourceUrl": "https://www.spigotmc.org/resources/challenge-plugin.82074/history"
-  }
+  "downloadUrl": "resources/challenge-plugin.82074/download?version=453848",
+  "numberOfDownloads": 331,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1653765000,
+  "sourceUrl": "https://www.spigotmc.org/resources/challenge-plugin.82074/history"
 }

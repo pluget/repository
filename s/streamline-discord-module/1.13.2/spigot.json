@@ -1,12 +1,9 @@
 {
   "name": "1.13.2",
-  "version": {
-    "name": "1.13.2",
-    "downloadUrl": "resources/streamline-discord-module.105540/download?version=485845",
-    "numberOfDownloads": 35,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1676362380,
-    "sourceUrl": "https://www.spigotmc.org/resources/streamline-discord-module.105540/history"
-  }
+  "downloadUrl": "resources/streamline-discord-module.105540/download?version=485845",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1676362380,
+  "sourceUrl": "https://www.spigotmc.org/resources/streamline-discord-module.105540/history"
 }

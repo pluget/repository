@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-a6",
-  "version": {
-    "name": "1.0a6",
-    "downloadUrl": "resources/itemessentials.105619/download?version=471573",
-    "numberOfDownloads": 13,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1665040860,
-    "sourceUrl": "https://www.spigotmc.org/resources/105619/history/"
-  }
+  "name": "1.0a6",
+  "downloadUrl": "resources/itemessentials.105619/download?version=471573",
+  "numberOfDownloads": 13,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1665040860,
+  "sourceUrl": "https://www.spigotmc.org/resources/105619/history/"
 }

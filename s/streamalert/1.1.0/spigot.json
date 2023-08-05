@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0",
-  "version": {
-    "name": "1.1",
-    "downloadUrl": "resources/streamalert.102006/download?version=452346",
-    "numberOfDownloads": 42,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1652621880,
-    "sourceUrl": "https://www.spigotmc.org/resources/streamalert.102006/history"
-  }
+  "name": "1.1",
+  "downloadUrl": "resources/streamalert.102006/download?version=452346",
+  "numberOfDownloads": 42,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1652621880,
+  "sourceUrl": "https://www.spigotmc.org/resources/streamalert.102006/history"
 }

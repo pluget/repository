@@ -1,12 +1,9 @@
 {
   "name": "3.0.19",
-  "version": {
-    "name": "3.0.19",
-    "downloadUrl": "resources/obsidianauctions-1-12-1-19.5595/download?version=56351",
-    "numberOfDownloads": 820,
-    "rating": 8,
-    "numberOfVotes": 2,
-    "releaseDate": 1449266160,
-    "sourceUrl": "https://www.spigotmc.org/resources/obsidianauctions-1-12-1-19.5595/history"
-  }
+  "downloadUrl": "resources/obsidianauctions-1-12-1-19.5595/download?version=56351",
+  "numberOfDownloads": 820,
+  "rating": 8,
+  "numberOfVotes": 2,
+  "releaseDate": 1449266160,
+  "sourceUrl": "https://www.spigotmc.org/resources/obsidianauctions-1-12-1-19.5595/history"
 }

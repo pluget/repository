@@ -1,12 +1,9 @@
 {
-  "name": "1.4.0-rev5",
-  "version": {
-    "name": "v1.4-rev5",
-    "downloadUrl": "resources/webconsole.70370/download?version=313409",
-    "numberOfDownloads": 225,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1581200280,
-    "sourceUrl": "https://www.spigotmc.org/resources/webconsole.70370/history"
-  }
+  "name": "v1.4-rev5",
+  "downloadUrl": "resources/webconsole.70370/download?version=313409",
+  "numberOfDownloads": 225,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1581200280,
+  "sourceUrl": "https://www.spigotmc.org/resources/webconsole.70370/history"
 }

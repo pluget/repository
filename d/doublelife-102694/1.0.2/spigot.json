@@ -1,12 +1,9 @@
 {
   "name": "1.0.2",
-  "version": {
-    "name": "1.0.2",
-    "downloadUrl": "resources/doublelife.102694/download?version=457026",
-    "numberOfDownloads": 32,
-    "rating": 2,
-    "numberOfVotes": 1,
-    "releaseDate": 1655611740,
-    "sourceUrl": "https://www.spigotmc.org/resources/doublelife.102694/history"
-  }
+  "downloadUrl": "resources/doublelife.102694/download?version=457026",
+  "numberOfDownloads": 32,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releaseDate": 1655611740,
+  "sourceUrl": "https://www.spigotmc.org/resources/doublelife.102694/history"
 }

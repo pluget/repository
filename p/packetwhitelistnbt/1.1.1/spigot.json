@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/packetwhitelistnbt.98418/download?version=433511",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1640547480,
-    "sourceUrl": "https://www.spigotmc.org/resources/packetwhitelistnbt.98418/history"
-  }
+  "downloadUrl": "resources/packetwhitelistnbt.98418/download?version=433511",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1640547480,
+  "sourceUrl": "https://www.spigotmc.org/resources/packetwhitelistnbt.98418/history"
 }

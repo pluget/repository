@@ -1,12 +1,9 @@
 {
   "name": "1.7.4",
-  "version": {
-    "name": "1.7.4",
-    "downloadUrl": "resources/bottledexp.2815/download?version=9428",
-    "numberOfDownloads": 131,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1420062480,
-    "sourceUrl": "https://www.spigotmc.org/resources/bottledexp.2815/history"
-  }
+  "downloadUrl": "resources/bottledexp.2815/download?version=9428",
+  "numberOfDownloads": 131,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1420062480,
+  "sourceUrl": "https://www.spigotmc.org/resources/bottledexp.2815/history"
 }

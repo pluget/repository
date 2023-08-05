@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/zeroobsidian.104641/download?version=466251",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660913700,
-    "sourceUrl": "https://www.spigotmc.org/resources/zeroobsidian.104641/history"
-  }
+  "downloadUrl": "resources/zeroobsidian.104641/download?version=466251",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660913700,
+  "sourceUrl": "https://www.spigotmc.org/resources/zeroobsidian.104641/history"
 }

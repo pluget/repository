@@ -1,12 +1,9 @@
 {
   "name": "0.8.6",
-  "version": {
-    "name": "0.8.6",
-    "downloadUrl": "resources/villager-defense.90055/download?version=413025",
-    "numberOfDownloads": 51,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1628047200,
-    "sourceUrl": "https://www.spigotmc.org/resources/villager-defense.90055/history"
-  }
+  "downloadUrl": "resources/villager-defense.90055/download?version=413025",
+  "numberOfDownloads": 51,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1628047200,
+  "sourceUrl": "https://www.spigotmc.org/resources/villager-defense.90055/history"
 }

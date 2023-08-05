@@ -1,12 +1,9 @@
 {
   "name": "1.15.2",
-  "version": {
-    "name": "1.15.2",
-    "downloadUrl": "resources/fundy-baby-mode.102235/download?version=453567",
-    "numberOfDownloads": 23,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1653535080,
-    "sourceUrl": "https://www.spigotmc.org/resources/fundy-baby-mode.102235/history"
-  }
+  "downloadUrl": "resources/fundy-baby-mode.102235/download?version=453567",
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1653535080,
+  "sourceUrl": "https://www.spigotmc.org/resources/fundy-baby-mode.102235/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.9.2",
-  "version": {
-    "name": "1.9.2",
-    "downloadUrl": "resources/scriptblockplus-1-9-1-19-x-all-servers-will-be-enhanced.78413/download?version=330291",
-    "numberOfDownloads": 105,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1588998120,
-    "sourceUrl": "https://www.spigotmc.org/resources/scriptblockplus-1-9-1-19-x-all-servers-will-be-enhanced.78413/history"
-  }
+  "downloadUrl": "resources/scriptblockplus-1-9-1-19-x-all-servers-will-be-enhanced.78413/download?version=330291",
+  "numberOfDownloads": 105,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1588998120,
+  "sourceUrl": "https://www.spigotmc.org/resources/scriptblockplus-1-9-1-19-x-all-servers-will-be-enhanced.78413/history"
 }

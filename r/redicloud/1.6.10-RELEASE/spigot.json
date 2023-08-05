@@ -1,12 +1,9 @@
 {
   "name": "1.6.10-RELEASE",
-  "version": {
-    "name": "1.6.10-RELEASE",
-    "downloadUrl": "resources/redicloud.104084/download?version=466833",
-    "numberOfDownloads": 61,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1661286180,
-    "sourceUrl": "https://www.spigotmc.org/resources/104084/history/"
-  }
+  "downloadUrl": "resources/redicloud.104084/download?version=466833",
+  "numberOfDownloads": 61,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1661286180,
+  "sourceUrl": "https://www.spigotmc.org/resources/104084/history/"
 }

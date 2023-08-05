@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/bloblib.103667/download?version=468431",
-    "numberOfDownloads": 6,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1662325620,
-    "sourceUrl": "https://www.spigotmc.org/resources/bloblib.103667/history"
-  }
+  "downloadUrl": "resources/bloblib.103667/download?version=468431",
+  "numberOfDownloads": 6,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1662325620,
+  "sourceUrl": "https://www.spigotmc.org/resources/bloblib.103667/history"
 }

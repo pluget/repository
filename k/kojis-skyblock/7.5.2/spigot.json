@@ -1,12 +1,9 @@
 {
   "name": "7.5.2",
-  "version": {
-    "name": "7.5.2",
-    "downloadUrl": "resources/kojis-skyblock.91345/download?version=434727",
-    "numberOfDownloads": 88,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1641168240,
-    "sourceUrl": "https://www.spigotmc.org/resources/kojis-skyblock.91345/history"
-  }
+  "downloadUrl": "resources/kojis-skyblock.91345/download?version=434727",
+  "numberOfDownloads": 88,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1641168240,
+  "sourceUrl": "https://www.spigotmc.org/resources/kojis-skyblock.91345/history"
 }

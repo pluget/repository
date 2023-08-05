@@ -1,12 +1,9 @@
 {
   "name": "1.0.2",
-  "version": {
-    "name": "1.0.2",
-    "downloadUrl": "resources/instakillmobs.96185/download?version=419231",
-    "numberOfDownloads": 29,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1631483220,
-    "sourceUrl": "https://www.spigotmc.org/resources/instakillmobs.96185/history"
-  }
+  "downloadUrl": "resources/instakillmobs.96185/download?version=419231",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1631483220,
+  "sourceUrl": "https://www.spigotmc.org/resources/instakillmobs.96185/history"
 }

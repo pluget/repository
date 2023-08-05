@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/potatoheads.101553/download?version=449760",
-    "numberOfDownloads": 9,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1650565320,
-    "sourceUrl": "https://www.spigotmc.org/resources/potatoheads.101553/history"
-  }
+  "downloadUrl": "resources/potatoheads.101553/download?version=449760",
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1650565320,
+  "sourceUrl": "https://www.spigotmc.org/resources/potatoheads.101553/history"
 }

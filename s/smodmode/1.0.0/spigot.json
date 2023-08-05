@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/smodmode.101802/download?version=451028",
-    "numberOfDownloads": 17,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1651549740,
-    "sourceUrl": "https://www.spigotmc.org/resources/101802/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/smodmode.101802/download?version=451028",
+  "numberOfDownloads": 17,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1651549740,
+  "sourceUrl": "https://www.spigotmc.org/resources/101802/history/"
 }

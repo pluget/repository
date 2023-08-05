@@ -1,12 +1,9 @@
 {
-  "name": "1.3.0",
-  "version": {
-    "name": "v1.3",
-    "downloadUrl": "resources/wild-pets.95800/download?version=427401",
-    "numberOfDownloads": 18,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1637306640,
-    "sourceUrl": "https://www.spigotmc.org/resources/wild-pets.95800/history"
-  }
+  "name": "v1.3",
+  "downloadUrl": "resources/wild-pets.95800/download?version=427401",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1637306640,
+  "sourceUrl": "https://www.spigotmc.org/resources/wild-pets.95800/history"
 }

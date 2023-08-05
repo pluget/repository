@@ -1,12 +1,9 @@
 {
-  "name": "1.6.5",
-  "version": {
-    "name": "v1.6.5",
-    "downloadUrl": "resources/civs.67350/download?version=311734",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1580157480,
-    "sourceUrl": "https://www.spigotmc.org/resources/civs.67350/history"
-  }
+  "name": "v1.6.5",
+  "downloadUrl": "resources/civs.67350/download?version=311734",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1580157480,
+  "sourceUrl": "https://www.spigotmc.org/resources/civs.67350/history"
 }

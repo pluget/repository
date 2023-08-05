@@ -1,12 +1,9 @@
 {
   "name": "2.0.1",
-  "version": {
-    "name": "2.0.1",
-    "downloadUrl": "resources/crazy-advancements-api.51741/download?version=429728",
-    "numberOfDownloads": 52,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1638608940,
-    "sourceUrl": "https://www.spigotmc.org/resources/crazy-advancements-api.51741/history"
-  }
+  "downloadUrl": "resources/crazy-advancements-api.51741/download?version=429728",
+  "numberOfDownloads": 52,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1638608940,
+  "sourceUrl": "https://www.spigotmc.org/resources/crazy-advancements-api.51741/history"
 }

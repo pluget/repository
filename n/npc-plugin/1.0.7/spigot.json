@@ -1,12 +1,9 @@
 {
   "name": "1.0.7",
-  "version": {
-    "name": "1.0.7",
-    "downloadUrl": "resources/fancy-npcs-1-19-4.107306/download?version=486842",
-    "numberOfDownloads": 237,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1677058080,
-    "sourceUrl": "https://www.spigotmc.org/resources/107306/history/"
-  }
+  "downloadUrl": "resources/fancy-npcs-1-19-4.107306/download?version=486842",
+  "numberOfDownloads": 237,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1677058080,
+  "sourceUrl": "https://www.spigotmc.org/resources/107306/history/"
 }

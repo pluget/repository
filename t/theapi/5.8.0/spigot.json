@@ -1,12 +1,9 @@
 {
-  "name": "5.8.0",
-  "version": {
-    "name": "5.8",
-    "downloadUrl": "resources/theapi.72679/download?version=381767",
-    "numberOfDownloads": 248,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1612529640,
-    "sourceUrl": "https://www.spigotmc.org/resources/theapi.72679/history"
-  }
+  "name": "5.8",
+  "downloadUrl": "resources/theapi.72679/download?version=381767",
+  "numberOfDownloads": 248,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1612529640,
+  "sourceUrl": "https://www.spigotmc.org/resources/theapi.72679/history"
 }

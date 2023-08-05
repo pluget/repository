@@ -1,12 +1,9 @@
 {
-  "name": "1.14.0-v11",
-  "version": {
-    "name": "Minecraft 1.14 v11",
-    "downloadUrl": "resources/knokko-core.88178/download?version=379116",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1611387540,
-    "sourceUrl": "https://www.spigotmc.org/resources/88178/history/"
-  }
+  "name": "Minecraft 1.14 v11",
+  "downloadUrl": "resources/knokko-core.88178/download?version=379116",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1611387540,
+  "sourceUrl": "https://www.spigotmc.org/resources/88178/history/"
 }

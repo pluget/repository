@@ -1,12 +1,9 @@
 {
   "name": "2.2.2",
-  "version": {
-    "name": "2.2.2",
-    "downloadUrl": "resources/plugmanx.88135/download?version=394994",
-    "numberOfDownloads": 4,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1618910580,
-    "sourceUrl": "https://www.spigotmc.org/resources/plugmanx.88135/history"
-  }
+  "downloadUrl": "resources/plugmanx.88135/download?version=394994",
+  "numberOfDownloads": 4,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1618910580,
+  "sourceUrl": "https://www.spigotmc.org/resources/plugmanx.88135/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.2.7",
-  "version": {
-    "name": "2.2.7",
-    "downloadUrl": "resources/iridium-skyblock-1-13-1-19.62480/download?version=308889",
-    "numberOfDownloads": 4,
-    "rating": 9.6521739130434,
-    "numberOfVotes": 23,
-    "releaseDate": 1578497760,
-    "sourceUrl": "https://www.spigotmc.org/resources/iridium-skyblock-1-13-1-19.62480/history"
-  }
+  "downloadUrl": "resources/iridium-skyblock-1-13-1-19.62480/download?version=308889",
+  "numberOfDownloads": 4,
+  "rating": 9.6521739130434,
+  "numberOfVotes": 23,
+  "releaseDate": 1578497760,
+  "sourceUrl": "https://www.spigotmc.org/resources/iridium-skyblock-1-13-1-19.62480/history"
 }

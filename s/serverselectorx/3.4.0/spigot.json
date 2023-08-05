@@ -1,12 +1,9 @@
 {
   "name": "3.4.0",
-  "version": {
-    "name": "3.4.0",
-    "downloadUrl": "resources/serverselectorx-free.32853/download?version=271914",
-    "numberOfDownloads": 5,
-    "rating": 7,
-    "numberOfVotes": 12,
-    "releaseDate": 1556992680,
-    "sourceUrl": "https://www.spigotmc.org/resources/serverselectorx-free.32853/history"
-  }
+  "downloadUrl": "resources/serverselectorx-free.32853/download?version=271914",
+  "numberOfDownloads": 5,
+  "rating": 7,
+  "numberOfVotes": 12,
+  "releaseDate": 1556992680,
+  "sourceUrl": "https://www.spigotmc.org/resources/serverselectorx-free.32853/history"
 }

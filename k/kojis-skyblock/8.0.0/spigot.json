@@ -1,12 +1,9 @@
 {
-  "name": "8.0.0",
-  "version": {
-    "name": "8.0",
-    "downloadUrl": "resources/kojis-skyblock.91345/download?version=453686",
-    "numberOfDownloads": 152,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1653653520,
-    "sourceUrl": "https://www.spigotmc.org/resources/kojis-skyblock.91345/history"
-  }
+  "name": "8.0",
+  "downloadUrl": "resources/kojis-skyblock.91345/download?version=453686",
+  "numberOfDownloads": 152,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1653653520,
+  "sourceUrl": "https://www.spigotmc.org/resources/kojis-skyblock.91345/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.18.2",
-  "version": {
-    "name": "2.18.2",
-    "downloadUrl": "resources/essentialsx.9089/download?version=367353",
-    "numberOfDownloads": 1,
-    "rating": 8.5217391304348,
-    "numberOfVotes": 69,
-    "releaseDate": 1605523380,
-    "sourceUrl": "https://www.spigotmc.org/resources/essentialsx.9089/history"
-  }
+  "downloadUrl": "resources/essentialsx.9089/download?version=367353",
+  "numberOfDownloads": 1,
+  "rating": 8.5217391304348,
+  "numberOfVotes": 69,
+  "releaseDate": 1605523380,
+  "sourceUrl": "https://www.spigotmc.org/resources/essentialsx.9089/history"
 }

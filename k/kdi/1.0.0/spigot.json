@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/kdi-discord-integration-for-koth-plugin-1-18.100469/download?version=443668",
-    "numberOfDownloads": 19,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1646416500,
-    "sourceUrl": "https://www.spigotmc.org/resources/kdi-discord-integration-for-koth-plugin-1-18.100469/history"
-  }
+  "downloadUrl": "resources/kdi-discord-integration-for-koth-plugin-1-18.100469/download?version=443668",
+  "numberOfDownloads": 19,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1646416500,
+  "sourceUrl": "https://www.spigotmc.org/resources/kdi-discord-integration-for-koth-plugin-1-18.100469/history"
 }

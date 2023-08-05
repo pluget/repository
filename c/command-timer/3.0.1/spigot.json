@@ -1,12 +1,9 @@
 {
   "name": "3.0.1",
-  "version": {
-    "name": "3.0.1",
-    "downloadUrl": "resources/command-timer.24141/download?version=314659",
-    "numberOfDownloads": 428,
-    "rating": 6,
-    "numberOfVotes": 1,
-    "releaseDate": 1581967860,
-    "sourceUrl": "https://www.spigotmc.org/resources/24141/history/"
-  }
+  "downloadUrl": "resources/command-timer.24141/download?version=314659",
+  "numberOfDownloads": 428,
+  "rating": 6,
+  "numberOfVotes": 1,
+  "releaseDate": 1581967860,
+  "sourceUrl": "https://www.spigotmc.org/resources/24141/history/"
 }

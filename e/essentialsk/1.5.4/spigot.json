@@ -1,12 +1,9 @@
 {
   "name": "1.5.4",
-  "version": {
-    "name": "1.5.4",
-    "downloadUrl": "resources/essentialsk-1-5-2-1-18-1.98562/download?version=440695",
-    "numberOfDownloads": 55,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1644534240,
-    "sourceUrl": "https://www.spigotmc.org/resources/98562/history/"
-  }
+  "downloadUrl": "resources/essentialsk-1-5-2-1-18-1.98562/download?version=440695",
+  "numberOfDownloads": 55,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1644534240,
+  "sourceUrl": "https://www.spigotmc.org/resources/98562/history/"
 }

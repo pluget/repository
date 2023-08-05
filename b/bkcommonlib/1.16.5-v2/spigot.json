@@ -1,12 +1,9 @@
 {
-  "name": "1.16.5-v2",
-  "version": {
-    "name": "v1.16.5-v2",
-    "downloadUrl": "resources/bkcommonlib.39590/download?version=380665",
-    "numberOfDownloads": 13,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1612043100,
-    "sourceUrl": "https://www.spigotmc.org/resources/bkcommonlib.39590/history"
-  }
+  "name": "v1.16.5-v2",
+  "downloadUrl": "resources/bkcommonlib.39590/download?version=380665",
+  "numberOfDownloads": 13,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1612043100,
+  "sourceUrl": "https://www.spigotmc.org/resources/bkcommonlib.39590/history"
 }

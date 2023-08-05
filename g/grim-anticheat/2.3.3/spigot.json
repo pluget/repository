@@ -1,12 +1,9 @@
 {
   "name": "2.3.3",
-  "version": {
-    "name": "2.3.3",
-    "downloadUrl": "resources/grim-anticheat.99923/download?version=455810",
-    "numberOfDownloads": 319,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1654980060,
-    "sourceUrl": "https://www.spigotmc.org/resources/grim-anticheat.99923/history"
-  }
+  "downloadUrl": "resources/grim-anticheat.99923/download?version=455810",
+  "numberOfDownloads": 319,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1654980060,
+  "sourceUrl": "https://www.spigotmc.org/resources/grim-anticheat.99923/history"
 }

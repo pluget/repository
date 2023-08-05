@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/zombifyvillagers-1-17.107370/download?version=482152",
-    "numberOfDownloads": 5,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1673687100,
-    "sourceUrl": "https://www.spigotmc.org/resources/107370/history/"
-  }
+  "downloadUrl": "resources/zombifyvillagers-1-17.107370/download?version=482152",
+  "numberOfDownloads": 5,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1673687100,
+  "sourceUrl": "https://www.spigotmc.org/resources/107370/history/"
 }

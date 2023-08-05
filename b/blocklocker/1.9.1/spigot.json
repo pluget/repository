@@ -1,12 +1,9 @@
 {
   "name": "1.9.1",
-  "version": {
-    "name": "1.9.1",
-    "downloadUrl": "resources/blocklocker.3268/download?version=370714",
-    "numberOfDownloads": 3,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1607251560,
-    "sourceUrl": "https://www.spigotmc.org/resources/blocklocker.3268/history"
-  }
+  "downloadUrl": "resources/blocklocker.3268/download?version=370714",
+  "numberOfDownloads": 3,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1607251560,
+  "sourceUrl": "https://www.spigotmc.org/resources/blocklocker.3268/history"
 }

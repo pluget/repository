@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/netcore.102424/download?version=454574",
-    "numberOfDownloads": 25,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1654356180,
-    "sourceUrl": "https://www.spigotmc.org/resources/netcore.102424/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/netcore.102424/download?version=454574",
+  "numberOfDownloads": 25,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1654356180,
+  "sourceUrl": "https://www.spigotmc.org/resources/netcore.102424/history"
 }

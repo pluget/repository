@@ -1,12 +1,9 @@
 {
   "name": "1.4.9",
-  "version": {
-    "name": "1.4.9",
-    "downloadUrl": "resources/explosionregeneration.20221/download?version=458805",
-    "numberOfDownloads": 890,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1656680940,
-    "sourceUrl": "https://www.spigotmc.org/resources/explosionregeneration.20221/history"
-  }
+  "downloadUrl": "resources/explosionregeneration.20221/download?version=458805",
+  "numberOfDownloads": 890,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1656680940,
+  "sourceUrl": "https://www.spigotmc.org/resources/explosionregeneration.20221/history"
 }

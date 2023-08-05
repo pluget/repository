@@ -1,12 +1,9 @@
 {
   "name": "1.2.42",
-  "version": {
-    "name": "1.2.42",
-    "downloadUrl": "resources/customoregen.9532/download?version=224697",
-    "numberOfDownloads": 2,
-    "rating": 9.6,
-    "numberOfVotes": 5,
-    "releaseDate": 1528214100,
-    "sourceUrl": "https://www.spigotmc.org/resources/customoregen.9532/history"
-  }
+  "downloadUrl": "resources/customoregen.9532/download?version=224697",
+  "numberOfDownloads": 2,
+  "rating": 9.6,
+  "numberOfVotes": 5,
+  "releaseDate": 1528214100,
+  "sourceUrl": "https://www.spigotmc.org/resources/customoregen.9532/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.2",
-  "version": {
-    "name": "1.0.2",
-    "downloadUrl": "resources/anticombatlog.94540/download?version=411937",
-    "numberOfDownloads": 33,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1627509480,
-    "sourceUrl": "https://www.spigotmc.org/resources/anticombatlog.94540/history"
-  }
+  "downloadUrl": "resources/anticombatlog.94540/download?version=411937",
+  "numberOfDownloads": 33,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1627509480,
+  "sourceUrl": "https://www.spigotmc.org/resources/anticombatlog.94540/history"
 }

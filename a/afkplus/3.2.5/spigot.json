@@ -1,12 +1,9 @@
 {
   "name": "3.2.5",
-  "version": {
-    "name": "3.2.5",
-    "downloadUrl": "resources/afk.35065/download?version=372561",
-    "numberOfDownloads": 129,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1608298680,
-    "sourceUrl": "https://www.spigotmc.org/resources/35065/history/"
-  }
+  "downloadUrl": "resources/afk.35065/download?version=372561",
+  "numberOfDownloads": 129,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1608298680,
+  "sourceUrl": "https://www.spigotmc.org/resources/35065/history/"
 }

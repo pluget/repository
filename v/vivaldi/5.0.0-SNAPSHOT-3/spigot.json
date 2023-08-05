@@ -1,12 +1,9 @@
 {
-  "name": "5.0.0-SNAPSHOT-3",
-  "version": {
-    "name": "5-0-SNAPSHOT-3",
-    "downloadUrl": "resources/vivaldi-unsupported.85292/download?version=475153",
-    "numberOfDownloads": 155,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1668295260,
-    "sourceUrl": "https://www.spigotmc.org/resources/vivaldi-unsupported.85292/history"
-  }
+  "name": "5-0-SNAPSHOT-3",
+  "downloadUrl": "resources/vivaldi-unsupported.85292/download?version=475153",
+  "numberOfDownloads": 155,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1668295260,
+  "sourceUrl": "https://www.spigotmc.org/resources/vivaldi-unsupported.85292/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.2.2",
-  "version": {
-    "name": "2.2.2",
-    "downloadUrl": "resources/playerbalancer.55011/download?version=387212",
-    "numberOfDownloads": 511,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1615117200,
-    "sourceUrl": "https://www.spigotmc.org/resources/55011/history/"
-  }
+  "downloadUrl": "resources/playerbalancer.55011/download?version=387212",
+  "numberOfDownloads": 511,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1615117200,
+  "sourceUrl": "https://www.spigotmc.org/resources/55011/history/"
 }

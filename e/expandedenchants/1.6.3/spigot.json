@@ -1,12 +1,9 @@
 {
   "name": "1.6.3",
-  "version": {
-    "name": "1.6.3",
-    "downloadUrl": "resources/expandedenchants.98780/download?version=453317",
-    "numberOfDownloads": 92,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1653338820,
-    "sourceUrl": "https://www.spigotmc.org/resources/expandedenchants.98780/history"
-  }
+  "downloadUrl": "resources/expandedenchants.98780/download?version=453317",
+  "numberOfDownloads": 92,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1653338820,
+  "sourceUrl": "https://www.spigotmc.org/resources/expandedenchants.98780/history"
 }

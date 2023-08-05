@@ -1,12 +1,9 @@
 {
   "name": "2.2.2",
-  "version": {
-    "name": "2.2.2",
-    "downloadUrl": "resources/custom-images.53036/download?version=408975",
-    "numberOfDownloads": 2,
-    "rating": 8,
-    "numberOfVotes": 2,
-    "releaseDate": 1626197820,
-    "sourceUrl": "https://www.spigotmc.org/resources/custom-images.53036/history"
-  }
+  "downloadUrl": "resources/custom-images.53036/download?version=408975",
+  "numberOfDownloads": 2,
+  "rating": 8,
+  "numberOfVotes": 2,
+  "releaseDate": 1626197820,
+  "sourceUrl": "https://www.spigotmc.org/resources/custom-images.53036/history"
 }

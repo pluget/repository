@@ -1,12 +1,9 @@
 {
   "name": "1.0.9",
-  "version": {
-    "name": "1.0.9",
-    "downloadUrl": "resources/newsystem-with-mysql-support.103213/download?version=461711",
-    "numberOfDownloads": 56,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1658419020,
-    "sourceUrl": "https://www.spigotmc.org/resources/newsystem-with-mysql-support.103213/history"
-  }
+  "downloadUrl": "resources/newsystem-with-mysql-support.103213/download?version=461711",
+  "numberOfDownloads": 56,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1658419020,
+  "sourceUrl": "https://www.spigotmc.org/resources/newsystem-with-mysql-support.103213/history"
 }

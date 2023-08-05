@@ -1,12 +1,9 @@
 {
   "name": "3.0.3",
-  "version": {
-    "name": "3.0.3",
-    "downloadUrl": "resources/elevator.67723/download?version=442349",
-    "numberOfDownloads": 10,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1645594140,
-    "sourceUrl": "https://www.spigotmc.org/resources/elevator.67723/history"
-  }
+  "downloadUrl": "resources/elevator.67723/download?version=442349",
+  "numberOfDownloads": 10,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1645594140,
+  "sourceUrl": "https://www.spigotmc.org/resources/elevator.67723/history"
 }

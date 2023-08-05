@@ -1,12 +1,9 @@
 {
-  "name": "0.8.6-2",
-  "version": {
-    "name": "0.8.6.2",
-    "downloadUrl": "resources/powernbt.9098/download?version=116479",
-    "numberOfDownloads": 1,
-    "rating": 9.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1475011620,
-    "sourceUrl": "https://www.spigotmc.org/resources/powernbt.9098/history"
-  }
+  "name": "0.8.6.2",
+  "downloadUrl": "resources/powernbt.9098/download?version=116479",
+  "numberOfDownloads": 1,
+  "rating": 9.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1475011620,
+  "sourceUrl": "https://www.spigotmc.org/resources/powernbt.9098/history"
 }

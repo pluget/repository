@@ -1,12 +1,9 @@
 {
   "name": "1.6.0-BETA",
-  "version": {
-    "name": "1.6.0-BETA",
-    "downloadUrl": "resources/tradeshop.32762/download?version=188173",
-    "numberOfDownloads": 117,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1507385940,
-    "sourceUrl": "https://www.spigotmc.org/resources/32762/history/"
-  }
+  "downloadUrl": "resources/tradeshop.32762/download?version=188173",
+  "numberOfDownloads": 117,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1507385940,
+  "sourceUrl": "https://www.spigotmc.org/resources/32762/history/"
 }

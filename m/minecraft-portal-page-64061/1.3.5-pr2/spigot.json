@@ -1,12 +1,9 @@
 {
   "name": "1.3.5-pr2",
-  "version": {
-    "name": "1.3.5-pr2",
-    "downloadUrl": "resources/minecraft-portal-page-html5-css4-javascript.64061/download?version=412430",
-    "numberOfDownloads": 264,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1627764000,
-    "sourceUrl": "https://www.spigotmc.org/resources/64061/history/"
-  }
+  "downloadUrl": "resources/minecraft-portal-page-html5-css4-javascript.64061/download?version=412430",
+  "numberOfDownloads": 264,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1627764000,
+  "sourceUrl": "https://www.spigotmc.org/resources/64061/history/"
 }

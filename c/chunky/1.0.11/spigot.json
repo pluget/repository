@@ -1,12 +1,9 @@
 {
   "name": "1.0.11",
-  "version": {
-    "name": "1.0.11",
-    "downloadUrl": "resources/chunky.81534/download?version=347128",
-    "numberOfDownloads": 133,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1595890200,
-    "sourceUrl": "https://www.spigotmc.org/resources/chunky.81534/history"
-  }
+  "downloadUrl": "resources/chunky.81534/download?version=347128",
+  "numberOfDownloads": 133,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1595890200,
+  "sourceUrl": "https://www.spigotmc.org/resources/chunky.81534/history"
 }

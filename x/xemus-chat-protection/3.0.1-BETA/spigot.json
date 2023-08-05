@@ -1,12 +1,9 @@
 {
   "name": "3.0.1-BETA",
-  "version": {
-    "name": "3.0.1-BETA",
-    "downloadUrl": "resources/xemus-chat-protection.108031/download?version=486123",
-    "numberOfDownloads": 9,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1676567880,
-    "sourceUrl": "https://www.spigotmc.org/resources/108031/history/"
-  }
+  "downloadUrl": "resources/xemus-chat-protection.108031/download?version=486123",
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1676567880,
+  "sourceUrl": "https://www.spigotmc.org/resources/108031/history/"
 }

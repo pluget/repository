@@ -1,12 +1,9 @@
 {
   "name": "3.12.1",
-  "version": {
-    "name": "3.12.1",
-    "downloadUrl": "resources/velocityvanish-1-8-1-19-4-no-database-required.105992/download?version=483198",
-    "numberOfDownloads": 91,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1674438180,
-    "sourceUrl": "https://www.spigotmc.org/resources/105992/history/"
-  }
+  "downloadUrl": "resources/velocityvanish-1-8-1-19-4-no-database-required.105992/download?version=483198",
+  "numberOfDownloads": 91,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1674438180,
+  "sourceUrl": "https://www.spigotmc.org/resources/105992/history/"
 }

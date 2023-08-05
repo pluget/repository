@@ -1,12 +1,9 @@
 {
   "name": "2.18.1",
-  "version": {
-    "name": "2.18.1",
-    "downloadUrl": "resources/fallenkingdom.38878/download?version=321472",
-    "numberOfDownloads": 5,
-    "rating": 10,
-    "numberOfVotes": 7,
-    "releaseDate": 1585686480,
-    "sourceUrl": "https://www.spigotmc.org/resources/fallenkingdom.38878/history"
-  }
+  "downloadUrl": "resources/fallenkingdom.38878/download?version=321472",
+  "numberOfDownloads": 5,
+  "rating": 10,
+  "numberOfVotes": 7,
+  "releaseDate": 1585686480,
+  "sourceUrl": "https://www.spigotmc.org/resources/fallenkingdom.38878/history"
 }

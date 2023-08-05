@@ -1,12 +1,9 @@
 {
   "name": "1.7.5",
-  "version": {
-    "name": "1.7.5",
-    "downloadUrl": "resources/commandwhitelist-spigot-waterfall-velocity.81326/download?version=399050",
-    "numberOfDownloads": 159,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1621182000,
-    "sourceUrl": "https://www.spigotmc.org/resources/commandwhitelist-spigot-waterfall-velocity.81326/history"
-  }
+  "downloadUrl": "resources/commandwhitelist-spigot-waterfall-velocity.81326/download?version=399050",
+  "numberOfDownloads": 159,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1621182000,
+  "sourceUrl": "https://www.spigotmc.org/resources/commandwhitelist-spigot-waterfall-velocity.81326/history"
 }

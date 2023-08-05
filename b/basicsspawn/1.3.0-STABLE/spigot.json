@@ -1,12 +1,9 @@
 {
   "name": "1.3.0-STABLE",
-  "version": {
-    "name": "1.3.0-STABLE",
-    "downloadUrl": "resources/basicsspawn.107590/download?version=485076",
-    "numberOfDownloads": 29,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1675726800,
-    "sourceUrl": "https://www.spigotmc.org/resources/basicsspawn.107590/history"
-  }
+  "downloadUrl": "resources/basicsspawn.107590/download?version=485076",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1675726800,
+  "sourceUrl": "https://www.spigotmc.org/resources/basicsspawn.107590/history"
 }

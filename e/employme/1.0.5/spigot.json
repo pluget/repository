@@ -1,12 +1,9 @@
 {
   "name": "1.0.5",
-  "version": {
-    "name": "1.0.5",
-    "downloadUrl": "resources/legacy-employme.96513/download?version=425108",
-    "numberOfDownloads": 150,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1635627480,
-    "sourceUrl": "https://www.spigotmc.org/resources/legacy-employme.96513/history"
-  }
+  "downloadUrl": "resources/legacy-employme.96513/download?version=425108",
+  "numberOfDownloads": 150,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1635627480,
+  "sourceUrl": "https://www.spigotmc.org/resources/legacy-employme.96513/history"
 }

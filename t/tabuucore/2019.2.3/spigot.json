@@ -1,12 +1,9 @@
 {
   "name": "2019.2.3",
-  "version": {
-    "name": "2019.2.3",
-    "downloadUrl": "resources/tabuucore.54173/download?version=285904",
-    "numberOfDownloads": 249,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1564162440,
-    "sourceUrl": "https://www.spigotmc.org/resources/tabuucore.54173/history"
-  }
+  "downloadUrl": "resources/tabuucore.54173/download?version=285904",
+  "numberOfDownloads": 249,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1564162440,
+  "sourceUrl": "https://www.spigotmc.org/resources/tabuucore.54173/history"
 }

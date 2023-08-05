@@ -1,12 +1,9 @@
 {
   "name": "1.18.01",
-  "version": {
-    "name": "1.18.01",
-    "downloadUrl": "resources/usurvivalgames.81702/download?version=429465",
-    "numberOfDownloads": 59,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1638494520,
-    "sourceUrl": "https://www.spigotmc.org/resources/usurvivalgames.81702/history"
-  }
+  "downloadUrl": "resources/usurvivalgames.81702/download?version=429465",
+  "numberOfDownloads": 59,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1638494520,
+  "sourceUrl": "https://www.spigotmc.org/resources/usurvivalgames.81702/history"
 }

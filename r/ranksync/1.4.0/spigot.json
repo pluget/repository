@@ -1,12 +1,9 @@
 {
   "name": "1.4.0",
-  "version": {
-    "name": "1.4.0",
-    "downloadUrl": "resources/ranksync.61393/download?version=307913",
-    "numberOfDownloads": 4,
-    "rating": 8.4761904761904,
-    "numberOfVotes": 21,
-    "releaseDate": 1577953980,
-    "sourceUrl": "https://www.spigotmc.org/resources/ranksync.61393/history"
-  }
+  "downloadUrl": "resources/ranksync.61393/download?version=307913",
+  "numberOfDownloads": 4,
+  "rating": 8.4761904761904,
+  "numberOfVotes": 21,
+  "releaseDate": 1577953980,
+  "sourceUrl": "https://www.spigotmc.org/resources/ranksync.61393/history"
 }

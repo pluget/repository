@@ -1,12 +1,9 @@
 {
-  "name": "1.10.5-R2",
-  "version": {
-    "name": "1.10.5R2",
-    "downloadUrl": "resources/powerranks.64696/download?version=446245",
-    "numberOfDownloads": 265,
-    "rating": 7.3333333333334,
-    "numberOfVotes": 15,
-    "releaseDate": 1648042500,
-    "sourceUrl": "https://www.spigotmc.org/resources/powerranks.64696/history"
-  }
+  "name": "1.10.5R2",
+  "downloadUrl": "resources/powerranks.64696/download?version=446245",
+  "numberOfDownloads": 265,
+  "rating": 7.3333333333334,
+  "numberOfVotes": 15,
+  "releaseDate": 1648042500,
+  "sourceUrl": "https://www.spigotmc.org/resources/powerranks.64696/history"
 }

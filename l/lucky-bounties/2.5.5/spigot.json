@@ -1,12 +1,9 @@
 {
-  "name": "2.5.5",
-  "version": {
-    "name": "Patch 2.5.5",
-    "downloadUrl": "resources/lucky-bounties.94149/download?version=477947",
-    "numberOfDownloads": 84,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1670754660,
-    "sourceUrl": "https://www.spigotmc.org/resources/lucky-bounties.94149/history"
-  }
+  "name": "Patch 2.5.5",
+  "downloadUrl": "resources/lucky-bounties.94149/download?version=477947",
+  "numberOfDownloads": 84,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1670754660,
+  "sourceUrl": "https://www.spigotmc.org/resources/lucky-bounties.94149/history"
 }

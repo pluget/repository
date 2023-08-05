@@ -1,12 +1,9 @@
 {
   "name": "1.7.2",
-  "version": {
-    "name": "1.7.2",
-    "downloadUrl": "resources/balloons.101083/download?version=470870",
-    "numberOfDownloads": 828,
-    "rating": 8,
-    "numberOfVotes": 5,
-    "releaseDate": 1664461140,
-    "sourceUrl": "https://www.spigotmc.org/resources/balloons.101083/history"
-  }
+  "downloadUrl": "resources/balloons.101083/download?version=470870",
+  "numberOfDownloads": 828,
+  "rating": 8,
+  "numberOfVotes": 5,
+  "releaseDate": 1664461140,
+  "sourceUrl": "https://www.spigotmc.org/resources/balloons.101083/history"
 }

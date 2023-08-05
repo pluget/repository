@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0-SNAPSHOT",
-  "version": {
-    "name": "1.1-SNAPSHOT",
-    "downloadUrl": "resources/butterfly.91453/download?version=394912",
-    "numberOfDownloads": 67,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1618856100,
-    "sourceUrl": "https://www.spigotmc.org/resources/butterfly.91453/history"
-  }
+  "name": "1.1-SNAPSHOT",
+  "downloadUrl": "resources/butterfly.91453/download?version=394912",
+  "numberOfDownloads": 67,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1618856100,
+  "sourceUrl": "https://www.spigotmc.org/resources/butterfly.91453/history"
 }

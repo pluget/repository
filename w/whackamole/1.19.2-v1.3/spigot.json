@@ -1,12 +1,9 @@
 {
   "name": "1.19.2-v1.3",
-  "version": {
-    "name": "1.19.2-v1.3",
-    "downloadUrl": "resources/whack-a-mole.106405/download?version=478275",
-    "numberOfDownloads": 32,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1671022860,
-    "sourceUrl": "https://www.spigotmc.org/resources/whack-a-mole.106405/history"
-  }
+  "downloadUrl": "resources/whack-a-mole.106405/download?version=478275",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1671022860,
+  "sourceUrl": "https://www.spigotmc.org/resources/whack-a-mole.106405/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "4.15.1",
-  "version": {
-    "name": "4.15.1",
-    "downloadUrl": "resources/invunload.60095/download?version=407918",
-    "numberOfDownloads": 71,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1625726340,
-    "sourceUrl": "https://www.spigotmc.org/resources/60095/history/"
-  }
+  "downloadUrl": "resources/invunload.60095/download?version=407918",
+  "numberOfDownloads": 71,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1625726340,
+  "sourceUrl": "https://www.spigotmc.org/resources/60095/history/"
 }

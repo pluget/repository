@@ -1,12 +1,9 @@
 {
   "name": "5.7.1",
-  "version": {
-    "name": "5.7.1",
-    "downloadUrl": "resources/slot-machine.22023/download?version=168779",
-    "numberOfDownloads": 314,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1498776960,
-    "sourceUrl": "https://www.spigotmc.org/resources/slot-machine.22023/history"
-  }
+  "downloadUrl": "resources/slot-machine.22023/download?version=168779",
+  "numberOfDownloads": 314,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1498776960,
+  "sourceUrl": "https://www.spigotmc.org/resources/slot-machine.22023/history"
 }

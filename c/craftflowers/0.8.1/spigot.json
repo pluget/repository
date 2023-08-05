@@ -1,12 +1,9 @@
 {
   "name": "0.8.1",
-  "version": {
-    "name": "0.8.1",
-    "downloadUrl": "resources/craftflowers-1-16-port.82407/download?version=413500",
-    "numberOfDownloads": 345,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1628291940,
-    "sourceUrl": "https://www.spigotmc.org/resources/82407/history/"
-  }
+  "downloadUrl": "resources/craftflowers-1-16-port.82407/download?version=413500",
+  "numberOfDownloads": 345,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1628291940,
+  "sourceUrl": "https://www.spigotmc.org/resources/82407/history/"
 }

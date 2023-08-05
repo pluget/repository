@@ -1,12 +1,9 @@
 {
   "name": "1.5.1",
-  "version": {
-    "name": "1.5.1",
-    "downloadUrl": "resources/titan-teleport-pads.99835/download?version=443359",
-    "numberOfDownloads": 18,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646235300,
-    "sourceUrl": "https://www.spigotmc.org/resources/99835/history/"
-  }
+  "downloadUrl": "resources/titan-teleport-pads.99835/download?version=443359",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646235300,
+  "sourceUrl": "https://www.spigotmc.org/resources/99835/history/"
 }

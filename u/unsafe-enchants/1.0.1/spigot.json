@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/unsafe-enchants.104708/download?version=466476",
-    "numberOfDownloads": 31,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1661079000,
-    "sourceUrl": "https://www.spigotmc.org/resources/unsafe-enchants.104708/history"
-  }
+  "downloadUrl": "resources/unsafe-enchants.104708/download?version=466476",
+  "numberOfDownloads": 31,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1661079000,
+  "sourceUrl": "https://www.spigotmc.org/resources/unsafe-enchants.104708/history"
 }

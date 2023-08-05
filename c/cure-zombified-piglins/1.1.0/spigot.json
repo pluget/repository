@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0",
-  "version": {
-    "name": "1.1",
-    "downloadUrl": "resources/cure-zombified-piglins.102680/download?version=456887",
-    "numberOfDownloads": 10,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1655543280,
-    "sourceUrl": "https://www.spigotmc.org/resources/cure-zombified-piglins.102680/history"
-  }
+  "name": "1.1",
+  "downloadUrl": "resources/cure-zombified-piglins.102680/download?version=456887",
+  "numberOfDownloads": 10,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1655543280,
+  "sourceUrl": "https://www.spigotmc.org/resources/cure-zombified-piglins.102680/history"
 }

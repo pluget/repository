@@ -1,12 +1,9 @@
 {
   "name": "1.7.1",
-  "version": {
-    "name": "1.7.1",
-    "downloadUrl": "resources/mobcoinsplus-virtual-currency-1-8-1-18.86394/download?version=453951",
-    "numberOfDownloads": 1,
-    "rating": 7.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1653849480,
-    "sourceUrl": "https://www.spigotmc.org/resources/mobcoinsplus-virtual-currency-1-8-1-18.86394/history"
-  }
+  "downloadUrl": "resources/mobcoinsplus-virtual-currency-1-8-1-18.86394/download?version=453951",
+  "numberOfDownloads": 1,
+  "rating": 7.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1653849480,
+  "sourceUrl": "https://www.spigotmc.org/resources/mobcoinsplus-virtual-currency-1-8-1-18.86394/history"
 }

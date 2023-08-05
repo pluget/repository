@@ -1,12 +1,9 @@
 {
   "name": "1.6.9",
-  "version": {
-    "name": "1.6.9",
-    "downloadUrl": "resources/inventory-rollback-plus-1-8-1-19-x.85811/download?version=489318",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1678919220,
-    "sourceUrl": "https://www.spigotmc.org/resources/85811/history/"
-  }
+  "downloadUrl": "resources/inventory-rollback-plus-1-8-1-19-x.85811/download?version=489318",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1678919220,
+  "sourceUrl": "https://www.spigotmc.org/resources/85811/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.4.1",
-  "version": {
-    "name": "2.4.1",
-    "downloadUrl": "resources/bounty-hunt-1-17-1-19.106524/download?version=477049",
-    "numberOfDownloads": 67,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1669924020,
-    "sourceUrl": "https://www.spigotmc.org/resources/106524/history/"
-  }
+  "downloadUrl": "resources/bounty-hunt-1-17-1-19.106524/download?version=477049",
+  "numberOfDownloads": 67,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1669924020,
+  "sourceUrl": "https://www.spigotmc.org/resources/106524/history/"
 }

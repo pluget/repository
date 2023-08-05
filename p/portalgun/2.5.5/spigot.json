@@ -1,12 +1,9 @@
 {
   "name": "2.5.5",
-  "version": {
-    "name": "2.5.5",
-    "downloadUrl": "resources/portalgun-1-8-1-19.44746/download?version=483751",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1674848700,
-    "sourceUrl": "https://www.spigotmc.org/resources/portalgun-1-8-1-19.44746/history"
-  }
+  "downloadUrl": "resources/portalgun-1-8-1-19.44746/download?version=483751",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1674848700,
+  "sourceUrl": "https://www.spigotmc.org/resources/portalgun-1-8-1-19.44746/history"
 }

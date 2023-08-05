@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/nbtrecipes.107230/download?version=481201",
-    "numberOfDownloads": 24,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672989780,
-    "sourceUrl": "https://www.spigotmc.org/resources/nbtrecipes.107230/history"
-  }
+  "downloadUrl": "resources/nbtrecipes.107230/download?version=481201",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672989780,
+  "sourceUrl": "https://www.spigotmc.org/resources/nbtrecipes.107230/history"
 }

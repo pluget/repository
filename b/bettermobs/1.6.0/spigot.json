@@ -1,12 +1,9 @@
 {
-  "name": "1.6.0",
-  "version": {
-    "name": "v1.6.0",
-    "downloadUrl": "resources/bettermobs.98792/download?version=439585",
-    "numberOfDownloads": 230,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1643892420,
-    "sourceUrl": "https://www.spigotmc.org/resources/bettermobs.98792/history"
-  }
+  "name": "v1.6.0",
+  "downloadUrl": "resources/bettermobs.98792/download?version=439585",
+  "numberOfDownloads": 230,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1643892420,
+  "sourceUrl": "https://www.spigotmc.org/resources/bettermobs.98792/history"
 }

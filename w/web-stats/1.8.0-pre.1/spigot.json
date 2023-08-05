@@ -1,12 +1,9 @@
 {
-  "name": "1.8.0-pre.1",
-  "version": {
-    "name": "1.8.0",
-    "downloadUrl": "resources/web-stats.89649/download?version=451462",
-    "numberOfDownloads": 204,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1651910160,
-    "sourceUrl": "https://www.spigotmc.org/resources/web-stats.89649/history"
-  }
+  "name": "1.8.0",
+  "downloadUrl": "resources/web-stats.89649/download?version=451462",
+  "numberOfDownloads": 204,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1651910160,
+  "sourceUrl": "https://www.spigotmc.org/resources/web-stats.89649/history"
 }

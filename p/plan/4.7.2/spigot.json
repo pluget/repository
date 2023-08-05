@@ -1,12 +1,9 @@
 {
   "name": "4.7.2",
-  "version": {
-    "name": "4.7.2",
-    "downloadUrl": "resources/plan-player-analytics.32536/download?version=264291",
-    "numberOfDownloads": 446,
-    "rating": 7,
-    "numberOfVotes": 2,
-    "releaseDate": 1552216140,
-    "sourceUrl": "https://www.spigotmc.org/resources/plan-player-analytics.32536/history"
-  }
+  "downloadUrl": "resources/plan-player-analytics.32536/download?version=264291",
+  "numberOfDownloads": 446,
+  "rating": 7,
+  "numberOfVotes": 2,
+  "releaseDate": 1552216140,
+  "sourceUrl": "https://www.spigotmc.org/resources/plan-player-analytics.32536/history"
 }

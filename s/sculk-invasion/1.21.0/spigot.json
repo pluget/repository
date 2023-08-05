@@ -1,12 +1,9 @@
 {
-  "name": "1.21.0",
-  "version": {
-    "name": "1.21",
-    "downloadUrl": "resources/sculk-invasion.107700/download?version=484327",
-    "numberOfDownloads": 21,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1675201860,
-    "sourceUrl": "https://www.spigotmc.org/resources/107700/history/"
-  }
+  "name": "1.21",
+  "downloadUrl": "resources/sculk-invasion.107700/download?version=484327",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1675201860,
+  "sourceUrl": "https://www.spigotmc.org/resources/107700/history/"
 }

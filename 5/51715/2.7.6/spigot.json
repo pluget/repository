@@ -1,12 +1,9 @@
 {
   "name": "2.7.6",
-  "version": {
-    "name": "2.7.6",
-    "downloadUrl": "resources/%E2%98%AF-divinedrop-%E2%98%AF-awesome-drop-management-1-8.51715/download?version=451901",
-    "numberOfDownloads": 325,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1652280600,
-    "sourceUrl": "https://www.spigotmc.org/resources/51715/history/"
-  }
+  "downloadUrl": "resources/%E2%98%AF-divinedrop-%E2%98%AF-awesome-drop-management-1-8.51715/download?version=451901",
+  "numberOfDownloads": 325,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1652280600,
+  "sourceUrl": "https://www.spigotmc.org/resources/51715/history/"
 }

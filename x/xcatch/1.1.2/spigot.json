@@ -1,12 +1,9 @@
 {
   "name": "1.1.2",
-  "version": {
-    "name": "1.1.2",
-    "downloadUrl": "resources/xcatch-anti-xray-1-13-1-19.101227/download?version=468021",
-    "numberOfDownloads": 9,
-    "rating": 8.4,
-    "numberOfVotes": 5,
-    "releaseDate": 1662041220,
-    "sourceUrl": "https://www.spigotmc.org/resources/xcatch-anti-xray-1-13-1-19.101227/history"
-  }
+  "downloadUrl": "resources/xcatch-anti-xray-1-13-1-19.101227/download?version=468021",
+  "numberOfDownloads": 9,
+  "rating": 8.4,
+  "numberOfVotes": 5,
+  "releaseDate": 1662041220,
+  "sourceUrl": "https://www.spigotmc.org/resources/xcatch-anti-xray-1-13-1-19.101227/history"
 }

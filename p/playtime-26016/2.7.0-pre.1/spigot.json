@@ -1,12 +1,9 @@
 {
-  "name": "2.7.0-pre.1",
-  "version": {
-    "name": "2.7",
-    "downloadUrl": "resources/playtime.26016/download?version=391292",
-    "numberOfDownloads": 486,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1617113580,
-    "sourceUrl": "https://www.spigotmc.org/resources/26016/history/"
-  }
+  "name": "2.7",
+  "downloadUrl": "resources/playtime.26016/download?version=391292",
+  "numberOfDownloads": 486,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1617113580,
+  "sourceUrl": "https://www.spigotmc.org/resources/26016/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "3.4.0",
-  "version": {
-    "name": "v3.4",
-    "downloadUrl": "resources/dynmap%C2%AE.274/download?version=465636",
-    "numberOfDownloads": 50,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1660505400,
-    "sourceUrl": "https://www.spigotmc.org/resources/dynmap%C2%AE.274/history"
-  }
+  "name": "v3.4",
+  "downloadUrl": "resources/dynmap%C2%AE.274/download?version=465636",
+  "numberOfDownloads": 50,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1660505400,
+  "sourceUrl": "https://www.spigotmc.org/resources/dynmap%C2%AE.274/history"
 }

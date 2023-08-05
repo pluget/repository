@@ -1,12 +1,9 @@
 {
   "name": "1.1.2",
-  "version": {
-    "name": "1.1.2",
-    "downloadUrl": "resources/hardcore-hearts-1-17-1-19-4.96819/download?version=443373",
-    "numberOfDownloads": 347,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1646244000,
-    "sourceUrl": "https://www.spigotmc.org/resources/hardcore-hearts-1-17-1-19-4.96819/history"
-  }
+  "downloadUrl": "resources/hardcore-hearts-1-17-1-19-4.96819/download?version=443373",
+  "numberOfDownloads": 347,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1646244000,
+  "sourceUrl": "https://www.spigotmc.org/resources/hardcore-hearts-1-17-1-19-4.96819/history"
 }

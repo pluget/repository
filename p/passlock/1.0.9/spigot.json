@@ -1,12 +1,9 @@
 {
   "name": "1.0.9",
-  "version": {
-    "name": "1.0.9",
-    "downloadUrl": "resources/passlock-the-new-security-lock-generation.21696/download?version=87407",
-    "numberOfDownloads": 210,
-    "rating": 8.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1462536960,
-    "sourceUrl": "https://www.spigotmc.org/resources/21696/history/"
-  }
+  "downloadUrl": "resources/passlock-the-new-security-lock-generation.21696/download?version=87407",
+  "numberOfDownloads": 210,
+  "rating": 8.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1462536960,
+  "sourceUrl": "https://www.spigotmc.org/resources/21696/history/"
 }

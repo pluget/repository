@@ -1,12 +1,9 @@
 {
   "name": "3.1.0",
-  "version": {
-    "name": "3.1.0",
-    "downloadUrl": "resources/randomizer-1-13-2-1-19-4.77069/download?version=447531",
-    "numberOfDownloads": 10,
-    "rating": 9,
-    "numberOfVotes": 4,
-    "releaseDate": 1648969200,
-    "sourceUrl": "https://www.spigotmc.org/resources/randomizer-1-13-2-1-19-4.77069/history"
-  }
+  "downloadUrl": "resources/randomizer-1-13-2-1-19-4.77069/download?version=447531",
+  "numberOfDownloads": 10,
+  "rating": 9,
+  "numberOfVotes": 4,
+  "releaseDate": 1648969200,
+  "sourceUrl": "https://www.spigotmc.org/resources/randomizer-1-13-2-1-19-4.77069/history"
 }

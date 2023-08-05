@@ -1,12 +1,9 @@
 {
   "name": "1.4.1",
-  "version": {
-    "name": "1.4.1",
-    "downloadUrl": "resources/itemedit-1-8-x-1-19-x.40993/download?version=209405",
-    "numberOfDownloads": 230,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1519233300,
-    "sourceUrl": "https://www.spigotmc.org/resources/40993/history/"
-  }
+  "downloadUrl": "resources/itemedit-1-8-x-1-19-x.40993/download?version=209405",
+  "numberOfDownloads": 230,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1519233300,
+  "sourceUrl": "https://www.spigotmc.org/resources/40993/history/"
 }

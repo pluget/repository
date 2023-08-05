@@ -1,12 +1,9 @@
 {
   "name": "2.2.1",
-  "version": {
-    "name": "2.2.1",
-    "downloadUrl": "resources/voting-weather-custom.27385/download?version=244059",
-    "numberOfDownloads": 158,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1539415320,
-    "sourceUrl": "https://www.spigotmc.org/resources/voting-weather-custom.27385/history"
-  }
+  "downloadUrl": "resources/voting-weather-custom.27385/download?version=244059",
+  "numberOfDownloads": 158,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1539415320,
+  "sourceUrl": "https://www.spigotmc.org/resources/voting-weather-custom.27385/history"
 }

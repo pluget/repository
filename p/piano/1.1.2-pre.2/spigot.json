@@ -1,12 +1,9 @@
 {
-  "name": "1.1.2-pre.2",
-  "version": {
-    "name": "1.1.2",
-    "downloadUrl": "resources/piano.103490/download?version=462346",
-    "numberOfDownloads": 67,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1658759700,
-    "sourceUrl": "https://www.spigotmc.org/resources/103490/history/"
-  }
+  "name": "1.1.2",
+  "downloadUrl": "resources/piano.103490/download?version=462346",
+  "numberOfDownloads": 67,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1658759700,
+  "sourceUrl": "https://www.spigotmc.org/resources/103490/history/"
 }

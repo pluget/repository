@@ -1,12 +1,9 @@
 {
   "name": "1.0.12-SNAPSHOT",
-  "version": {
-    "name": "1.0.12-SNAPSHOT",
-    "downloadUrl": "resources/silky-spawners-lite-silk-touch-your-spawners-silk-spawners-1-19-support.76103/download?version=351596",
-    "numberOfDownloads": 282,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1597733460,
-    "sourceUrl": "https://www.spigotmc.org/resources/silky-spawners-lite-silk-touch-your-spawners-silk-spawners-1-19-support.76103/history"
-  }
+  "downloadUrl": "resources/silky-spawners-lite-silk-touch-your-spawners-silk-spawners-1-19-support.76103/download?version=351596",
+  "numberOfDownloads": 282,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1597733460,
+  "sourceUrl": "https://www.spigotmc.org/resources/silky-spawners-lite-silk-touch-your-spawners-silk-spawners-1-19-support.76103/history"
 }

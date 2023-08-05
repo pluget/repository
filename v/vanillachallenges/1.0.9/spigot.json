@@ -1,12 +1,9 @@
 {
   "name": "1.0.9",
-  "version": {
-    "name": "1.0.9",
-    "downloadUrl": "resources/vanillachallenges.101426/download?version=458930",
-    "numberOfDownloads": 65,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1656755040,
-    "sourceUrl": "https://www.spigotmc.org/resources/vanillachallenges.101426/history"
-  }
+  "downloadUrl": "resources/vanillachallenges.101426/download?version=458930",
+  "numberOfDownloads": 65,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1656755040,
+  "sourceUrl": "https://www.spigotmc.org/resources/vanillachallenges.101426/history"
 }

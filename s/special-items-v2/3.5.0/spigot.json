@@ -1,12 +1,9 @@
 {
-  "name": "3.5.0",
-  "version": {
-    "name": "V3.5",
-    "downloadUrl": "resources/special-items-v2-1-8-1-16.103610/download?version=464670",
-    "numberOfDownloads": 129,
-    "rating": 4,
-    "numberOfVotes": 1,
-    "releaseDate": 1659948600,
-    "sourceUrl": "https://www.spigotmc.org/resources/special-items-v2-1-8-1-16.103610/history"
-  }
+  "name": "V3.5",
+  "downloadUrl": "resources/special-items-v2-1-8-1-16.103610/download?version=464670",
+  "numberOfDownloads": 129,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releaseDate": 1659948600,
+  "sourceUrl": "https://www.spigotmc.org/resources/special-items-v2-1-8-1-16.103610/history"
 }

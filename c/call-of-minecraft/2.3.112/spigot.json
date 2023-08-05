@@ -1,12 +1,9 @@
 {
   "name": "2.3.112",
-  "version": {
-    "name": "2.3.112",
-    "downloadUrl": "resources/call-of-minecraft-zombies.81309/download?version=420600",
-    "numberOfDownloads": 192,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1632408300,
-    "sourceUrl": "https://www.spigotmc.org/resources/call-of-minecraft-zombies.81309/history"
-  }
+  "downloadUrl": "resources/call-of-minecraft-zombies.81309/download?version=420600",
+  "numberOfDownloads": 192,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1632408300,
+  "sourceUrl": "https://www.spigotmc.org/resources/call-of-minecraft-zombies.81309/history"
 }

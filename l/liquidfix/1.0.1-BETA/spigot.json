@@ -1,12 +1,9 @@
 {
   "name": "1.0.1-BETA",
-  "version": {
-    "name": "1.0.1-BETA",
-    "downloadUrl": "resources/liquidfix.107240/download?version=485258",
-    "numberOfDownloads": 11,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1675884060,
-    "sourceUrl": "https://www.spigotmc.org/resources/liquidfix.107240/history"
-  }
+  "downloadUrl": "resources/liquidfix.107240/download?version=485258",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1675884060,
+  "sourceUrl": "https://www.spigotmc.org/resources/liquidfix.107240/history"
 }

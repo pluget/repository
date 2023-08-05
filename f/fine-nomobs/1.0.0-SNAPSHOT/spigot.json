@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-SNAPSHOT",
-  "version": {
-    "name": "1.0-SNAPSHOT",
-    "downloadUrl": "resources/fine-nomobs-1-16-5-1-19-2.104452/download?version=465085",
-    "numberOfDownloads": 27,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1660204080,
-    "sourceUrl": "https://www.spigotmc.org/resources/fine-nomobs-1-16-5-1-19-2.104452/history"
-  }
+  "name": "1.0-SNAPSHOT",
+  "downloadUrl": "resources/fine-nomobs-1-16-5-1-19-2.104452/download?version=465085",
+  "numberOfDownloads": 27,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1660204080,
+  "sourceUrl": "https://www.spigotmc.org/resources/fine-nomobs-1-16-5-1-19-2.104452/history"
 }

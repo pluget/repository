@@ -1,12 +1,9 @@
 {
   "name": "1.0.0-SNAPSHOT",
-  "version": {
-    "name": "1.0.0-SNAPSHOT",
-    "downloadUrl": "resources/skywars.107934/download?version=485462",
-    "numberOfDownloads": 35,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1676054280,
-    "sourceUrl": "https://www.spigotmc.org/resources/skywars.107934/history"
-  }
+  "downloadUrl": "resources/skywars.107934/download?version=485462",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1676054280,
+  "sourceUrl": "https://www.spigotmc.org/resources/skywars.107934/history"
 }

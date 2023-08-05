@@ -1,12 +1,9 @@
 {
   "name": "2.0.2",
-  "version": {
-    "name": "2.0.2",
-    "downloadUrl": "resources/securitylogin-pin-gui-1-8-1-18.93612/download?version=435656",
-    "numberOfDownloads": 171,
-    "rating": 9.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1641655980,
-    "sourceUrl": "https://www.spigotmc.org/resources/securitylogin-pin-gui-1-8-1-18.93612/history"
-  }
+  "downloadUrl": "resources/securitylogin-pin-gui-1-8-1-18.93612/download?version=435656",
+  "numberOfDownloads": 171,
+  "rating": 9.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1641655980,
+  "sourceUrl": "https://www.spigotmc.org/resources/securitylogin-pin-gui-1-8-1-18.93612/history"
 }

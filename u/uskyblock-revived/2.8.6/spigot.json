@@ -1,12 +1,9 @@
 {
   "name": "2.8.6",
-  "version": {
-    "name": "2.8.6",
-    "downloadUrl": "resources/uskyblock-revived.66795/download?version=305911",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1576840620,
-    "sourceUrl": "https://www.spigotmc.org/resources/uskyblock-revived.66795/history"
-  }
+  "downloadUrl": "resources/uskyblock-revived.66795/download?version=305911",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1576840620,
+  "sourceUrl": "https://www.spigotmc.org/resources/uskyblock-revived.66795/history"
 }

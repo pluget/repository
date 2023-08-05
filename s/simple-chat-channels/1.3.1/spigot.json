@@ -1,12 +1,9 @@
 {
   "name": "1.3.1",
-  "version": {
-    "name": "1.3.1",
-    "downloadUrl": "resources/simple-chat-channels.35220/download?version=141439",
-    "numberOfDownloads": 60,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1486582140,
-    "sourceUrl": "https://www.spigotmc.org/resources/simple-chat-channels.35220/history"
-  }
+  "downloadUrl": "resources/simple-chat-channels.35220/download?version=141439",
+  "numberOfDownloads": 60,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1486582140,
+  "sourceUrl": "https://www.spigotmc.org/resources/simple-chat-channels.35220/history"
 }

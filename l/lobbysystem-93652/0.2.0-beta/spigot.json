@@ -1,12 +1,9 @@
 {
-  "name": "0.2.0-beta",
-  "version": {
-    "name": "0.2-beta",
-    "downloadUrl": "resources/lobbysystem-1-16-free-all-changeable.93652/download?version=452400",
-    "numberOfDownloads": 17,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1652641380,
-    "sourceUrl": "https://www.spigotmc.org/resources/lobbysystem-1-16-free-all-changeable.93652/history"
-  }
+  "name": "0.2-beta",
+  "downloadUrl": "resources/lobbysystem-1-16-free-all-changeable.93652/download?version=452400",
+  "numberOfDownloads": 17,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1652641380,
+  "sourceUrl": "https://www.spigotmc.org/resources/lobbysystem-1-16-free-all-changeable.93652/history"
 }

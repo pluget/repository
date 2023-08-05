@@ -1,12 +1,9 @@
 {
   "name": "2.0.9",
-  "version": {
-    "name": "2.0.9",
-    "downloadUrl": "resources/advancedarmor-1-8-1-19.98394/download?version=464035",
-    "numberOfDownloads": 1,
-    "rating": 8,
-    "numberOfVotes": 3,
-    "releaseDate": 1659692400,
-    "sourceUrl": "https://www.spigotmc.org/resources/advancedarmor-1-8-1-19.98394/history"
-  }
+  "downloadUrl": "resources/advancedarmor-1-8-1-19.98394/download?version=464035",
+  "numberOfDownloads": 1,
+  "rating": 8,
+  "numberOfVotes": 3,
+  "releaseDate": 1659692400,
+  "sourceUrl": "https://www.spigotmc.org/resources/advancedarmor-1-8-1-19.98394/history"
 }

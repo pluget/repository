@@ -1,12 +1,9 @@
 {
   "name": "1.19.2",
-  "version": {
-    "name": "1.19.2",
-    "downloadUrl": "resources/farmer-1-17-1-19-3.103640/download?version=473494",
-    "numberOfDownloads": 327,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1666822380,
-    "sourceUrl": "https://www.spigotmc.org/resources/farmer-1-17-1-19-3.103640/history"
-  }
+  "downloadUrl": "resources/farmer-1-17-1-19-3.103640/download?version=473494",
+  "numberOfDownloads": 327,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1666822380,
+  "sourceUrl": "https://www.spigotmc.org/resources/farmer-1-17-1-19-3.103640/history"
 }

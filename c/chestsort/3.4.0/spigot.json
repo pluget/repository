@@ -1,12 +1,9 @@
 {
-  "name": "3.4.0",
-  "version": {
-    "name": "3.4",
-    "downloadUrl": "resources/chestsort-api.59773/download?version=258008",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1548172800,
-    "sourceUrl": "https://www.spigotmc.org/resources/59773/history/"
-  }
+  "name": "3.4",
+  "downloadUrl": "resources/chestsort-api.59773/download?version=258008",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1548172800,
+  "sourceUrl": "https://www.spigotmc.org/resources/59773/history/"
 }

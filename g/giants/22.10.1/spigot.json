@@ -1,12 +1,9 @@
 {
   "name": "22.10.1",
-  "version": {
-    "name": "22.10.1",
-    "downloadUrl": "resources/giants.99600/download?version=473173",
-    "numberOfDownloads": 144,
-    "rating": 8,
-    "numberOfVotes": 2,
-    "releaseDate": 1666512900,
-    "sourceUrl": "https://www.spigotmc.org/resources/giants.99600/history"
-  }
+  "downloadUrl": "resources/giants.99600/download?version=473173",
+  "numberOfDownloads": 144,
+  "rating": 8,
+  "numberOfVotes": 2,
+  "releaseDate": 1666512900,
+  "sourceUrl": "https://www.spigotmc.org/resources/giants.99600/history"
 }

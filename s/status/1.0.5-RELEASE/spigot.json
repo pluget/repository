@@ -1,12 +1,9 @@
 {
   "name": "1.0.5-RELEASE",
-  "version": {
-    "name": "1.0.5-RELEASE",
-    "downloadUrl": "resources/status-for-party-and-friends-for-bungeecord-extended-edition.34706/download?version=442097",
-    "numberOfDownloads": 161,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1645434300,
-    "sourceUrl": "https://www.spigotmc.org/resources/status-for-party-and-friends-for-bungeecord-extended-edition.34706/history"
-  }
+  "downloadUrl": "resources/status-for-party-and-friends-for-bungeecord-extended-edition.34706/download?version=442097",
+  "numberOfDownloads": 161,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1645434300,
+  "sourceUrl": "https://www.spigotmc.org/resources/status-for-party-and-friends-for-bungeecord-extended-edition.34706/history"
 }

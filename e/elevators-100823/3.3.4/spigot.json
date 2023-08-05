@@ -1,12 +1,9 @@
 {
-  "name": "3.3.4",
-  "version": {
-    "name": "v3.3.4",
-    "downloadUrl": "resources/elevators.100823/download?version=445785",
-    "numberOfDownloads": 323,
-    "rating": 4.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1647720000,
-    "sourceUrl": "https://www.spigotmc.org/resources/elevators.100823/history"
-  }
+  "name": "v3.3.4",
+  "downloadUrl": "resources/elevators.100823/download?version=445785",
+  "numberOfDownloads": 323,
+  "rating": 4.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1647720000,
+  "sourceUrl": "https://www.spigotmc.org/resources/elevators.100823/history"
 }

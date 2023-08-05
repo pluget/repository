@@ -1,12 +1,9 @@
 {
   "name": "1.18.3",
-  "version": {
-    "name": "1.18.3",
-    "downloadUrl": "resources/discordsrv.18494/download?version=304418",
-    "numberOfDownloads": 303,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1576037400,
-    "sourceUrl": "https://www.spigotmc.org/resources/discordsrv.18494/history"
-  }
+  "downloadUrl": "resources/discordsrv.18494/download?version=304418",
+  "numberOfDownloads": 303,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1576037400,
+  "sourceUrl": "https://www.spigotmc.org/resources/discordsrv.18494/history"
 }

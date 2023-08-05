@@ -1,12 +1,9 @@
 {
   "name": "0.1.1",
-  "version": {
-    "name": "0.1.1",
-    "downloadUrl": "resources/2ls-hamsterapi.78831/download?version=344610",
-    "numberOfDownloads": 1,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1594861860,
-    "sourceUrl": "https://www.spigotmc.org/resources/78831/history/"
-  }
+  "downloadUrl": "resources/2ls-hamsterapi.78831/download?version=344610",
+  "numberOfDownloads": 1,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1594861860,
+  "sourceUrl": "https://www.spigotmc.org/resources/78831/history/"
 }

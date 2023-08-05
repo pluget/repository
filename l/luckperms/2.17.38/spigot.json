@@ -1,12 +1,9 @@
 {
   "name": "2.17.38",
-  "version": {
-    "name": "2.17.38",
-    "downloadUrl": "resources/luckperms.28140/download?version=139435",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 11,
-    "releaseDate": 1485691560,
-    "sourceUrl": "https://www.spigotmc.org/resources/luckperms.28140/history"
-  }
+  "downloadUrl": "resources/luckperms.28140/download?version=139435",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 11,
+  "releaseDate": 1485691560,
+  "sourceUrl": "https://www.spigotmc.org/resources/luckperms.28140/history"
 }

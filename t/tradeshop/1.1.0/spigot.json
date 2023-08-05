@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/tradeshop.32762/download?version=128817",
-    "numberOfDownloads": 150,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1481226480,
-    "sourceUrl": "https://www.spigotmc.org/resources/32762/history/"
-  }
+  "downloadUrl": "resources/tradeshop.32762/download?version=128817",
+  "numberOfDownloads": 150,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1481226480,
+  "sourceUrl": "https://www.spigotmc.org/resources/32762/history/"
 }

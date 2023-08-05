@@ -1,12 +1,9 @@
 {
   "name": "2.1.0",
-  "version": {
-    "name": "2.1.0",
-    "downloadUrl": "resources/inventoryfull.31544/download?version=212389",
-    "numberOfDownloads": 272,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1520880420,
-    "sourceUrl": "https://www.spigotmc.org/resources/inventoryfull.31544/history"
-  }
+  "downloadUrl": "resources/inventoryfull.31544/download?version=212389",
+  "numberOfDownloads": 272,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1520880420,
+  "sourceUrl": "https://www.spigotmc.org/resources/inventoryfull.31544/history"
 }

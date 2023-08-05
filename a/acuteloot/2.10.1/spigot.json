@@ -1,12 +1,9 @@
 {
   "name": "2.10.1",
-  "version": {
-    "name": "2.10.1",
-    "downloadUrl": "resources/acuteloot.81899/download?version=448865",
-    "numberOfDownloads": 44,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1649957400,
-    "sourceUrl": "https://www.spigotmc.org/resources/acuteloot.81899/history"
-  }
+  "downloadUrl": "resources/acuteloot.81899/download?version=448865",
+  "numberOfDownloads": 44,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1649957400,
+  "sourceUrl": "https://www.spigotmc.org/resources/acuteloot.81899/history"
 }

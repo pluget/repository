@@ -1,12 +1,9 @@
 {
   "name": "1.5.2",
-  "version": {
-    "name": "1.5.2",
-    "downloadUrl": "resources/essentials-warp-gui-open-source.13571/download?version=103380",
-    "numberOfDownloads": 2,
-    "rating": 7.2,
-    "numberOfVotes": 5,
-    "releaseDate": 1468754340,
-    "sourceUrl": "https://www.spigotmc.org/resources/essentials-warp-gui-open-source.13571/history"
-  }
+  "downloadUrl": "resources/essentials-warp-gui-open-source.13571/download?version=103380",
+  "numberOfDownloads": 2,
+  "rating": 7.2,
+  "numberOfVotes": 5,
+  "releaseDate": 1468754340,
+  "sourceUrl": "https://www.spigotmc.org/resources/essentials-warp-gui-open-source.13571/history"
 }

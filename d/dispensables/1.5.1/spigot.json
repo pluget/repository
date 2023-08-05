@@ -1,12 +1,9 @@
 {
   "name": "1.5.1",
-  "version": {
-    "name": "1.5.1",
-    "downloadUrl": "resources/sortify-item-filter-for-redstone-components.61856/download?version=454336",
-    "numberOfDownloads": 31,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1654126800,
-    "sourceUrl": "https://www.spigotmc.org/resources/61856/history/"
-  }
+  "downloadUrl": "resources/sortify-item-filter-for-redstone-components.61856/download?version=454336",
+  "numberOfDownloads": 31,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1654126800,
+  "sourceUrl": "https://www.spigotmc.org/resources/61856/history/"
 }

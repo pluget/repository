@@ -1,12 +1,9 @@
 {
   "name": "1.2.37-fix",
-  "version": {
-    "name": "1.2.37-fix",
-    "downloadUrl": "resources/customoregen.9532/download?version=209565",
-    "numberOfDownloads": 1,
-    "rating": 8,
-    "numberOfVotes": 6,
-    "releaseDate": 1519331220,
-    "sourceUrl": "https://www.spigotmc.org/resources/customoregen.9532/history"
-  }
+  "downloadUrl": "resources/customoregen.9532/download?version=209565",
+  "numberOfDownloads": 1,
+  "rating": 8,
+  "numberOfVotes": 6,
+  "releaseDate": 1519331220,
+  "sourceUrl": "https://www.spigotmc.org/resources/customoregen.9532/history"
 }

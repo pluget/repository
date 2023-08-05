@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/sky-lantern-1-17-1-19.99615/download?version=439975",
-    "numberOfDownloads": 124,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1644084240,
-    "sourceUrl": "https://www.spigotmc.org/resources/sky-lantern-1-17-1-19.99615/history"
-  }
+  "downloadUrl": "resources/sky-lantern-1-17-1-19.99615/download?version=439975",
+  "numberOfDownloads": 124,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1644084240,
+  "sourceUrl": "https://www.spigotmc.org/resources/sky-lantern-1-17-1-19.99615/history"
 }

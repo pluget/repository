@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/playerwaterdamage.88845/download?version=383520",
-    "numberOfDownloads": 3,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1613315220,
-    "sourceUrl": "https://www.spigotmc.org/resources/playerwaterdamage.88845/history"
-  }
+  "downloadUrl": "resources/playerwaterdamage.88845/download?version=383520",
+  "numberOfDownloads": 3,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1613315220,
+  "sourceUrl": "https://www.spigotmc.org/resources/playerwaterdamage.88845/history"
 }

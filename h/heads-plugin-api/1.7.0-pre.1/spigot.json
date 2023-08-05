@@ -1,12 +1,9 @@
 {
-  "name": "1.7.0-pre.1",
-  "version": {
-    "name": "1.7.0",
-    "downloadUrl": "resources/heads-plugin-api-3-1-17-1-19.19672/download?version=210323",
-    "numberOfDownloads": 3,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1519772880,
-    "sourceUrl": "https://www.spigotmc.org/resources/heads-plugin-api-3-1-17-1-19.19672/history"
-  }
+  "name": "1.7.0",
+  "downloadUrl": "resources/heads-plugin-api-3-1-17-1-19.19672/download?version=210323",
+  "numberOfDownloads": 3,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1519772880,
+  "sourceUrl": "https://www.spigotmc.org/resources/heads-plugin-api-3-1-17-1-19.19672/history"
 }

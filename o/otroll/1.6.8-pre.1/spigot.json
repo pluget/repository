@@ -1,12 +1,9 @@
 {
-  "name": "1.6.8-pre.1",
-  "version": {
-    "name": "1.6.8",
-    "downloadUrl": "resources/otroll.88813/download?version=416289",
-    "numberOfDownloads": 208,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1629715080,
-    "sourceUrl": "https://www.spigotmc.org/resources/88813/history/"
-  }
+  "name": "1.6.8",
+  "downloadUrl": "resources/otroll.88813/download?version=416289",
+  "numberOfDownloads": 208,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1629715080,
+  "sourceUrl": "https://www.spigotmc.org/resources/88813/history/"
 }

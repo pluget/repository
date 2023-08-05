@@ -1,12 +1,9 @@
 {
   "name": "2.4.1",
-  "version": {
-    "name": "2.4.1",
-    "downloadUrl": "resources/liftreloaded.97551/download?version=443487",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1646321820,
-    "sourceUrl": "https://www.spigotmc.org/resources/liftreloaded.97551/history"
-  }
+  "downloadUrl": "resources/liftreloaded.97551/download?version=443487",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1646321820,
+  "sourceUrl": "https://www.spigotmc.org/resources/liftreloaded.97551/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/discord-spigot-update-bot.100614/download?version=444788",
-    "numberOfDownloads": 180,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1647050160,
-    "sourceUrl": "https://www.spigotmc.org/resources/discord-spigot-update-bot.100614/history"
-  }
+  "downloadUrl": "resources/discord-spigot-update-bot.100614/download?version=444788",
+  "numberOfDownloads": 180,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1647050160,
+  "sourceUrl": "https://www.spigotmc.org/resources/discord-spigot-update-bot.100614/history"
 }

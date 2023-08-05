@@ -1,12 +1,9 @@
 {
   "name": "1.5.1",
-  "version": {
-    "name": "1.5.1",
-    "downloadUrl": "resources/mythiclib.90306/download?version=490863",
-    "numberOfDownloads": 973,
-    "rating": 7.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1679867400,
-    "sourceUrl": "https://www.spigotmc.org/resources/mythiclib.90306/history"
-  }
+  "downloadUrl": "resources/mythiclib.90306/download?version=490863",
+  "numberOfDownloads": 973,
+  "rating": 7.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1679867400,
+  "sourceUrl": "https://www.spigotmc.org/resources/mythiclib.90306/history"
 }

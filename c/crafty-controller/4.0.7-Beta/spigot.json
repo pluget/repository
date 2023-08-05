@@ -1,12 +1,9 @@
 {
   "name": "4.0.7-Beta",
-  "version": {
-    "name": "4.0.7-Beta",
-    "downloadUrl": "resources/crafty-controller.80852/download?version=461351",
-    "numberOfDownloads": 203,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1658184780,
-    "sourceUrl": "https://www.spigotmc.org/resources/crafty-controller.80852/history"
-  }
+  "downloadUrl": "resources/crafty-controller.80852/download?version=461351",
+  "numberOfDownloads": 203,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1658184780,
+  "sourceUrl": "https://www.spigotmc.org/resources/crafty-controller.80852/history"
 }

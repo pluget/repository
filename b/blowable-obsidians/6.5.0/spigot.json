@@ -1,12 +1,9 @@
 {
-  "name": "6.5.0",
-  "version": {
-    "name": "6.5",
-    "downloadUrl": "resources/blowable-obsidians.24194/download?version=353660",
-    "numberOfDownloads": 2,
-    "rating": 9.75,
-    "numberOfVotes": 8,
-    "releaseDate": 1598633340,
-    "sourceUrl": "https://www.spigotmc.org/resources/24194/history/"
-  }
+  "name": "6.5",
+  "downloadUrl": "resources/blowable-obsidians.24194/download?version=353660",
+  "numberOfDownloads": 2,
+  "rating": 9.75,
+  "numberOfVotes": 8,
+  "releaseDate": 1598633340,
+  "sourceUrl": "https://www.spigotmc.org/resources/24194/history/"
 }

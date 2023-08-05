@@ -1,12 +1,9 @@
 {
   "name": "1.1.3",
-  "version": {
-    "name": "1.1.3",
-    "downloadUrl": "resources/ultra-bar.20113/download?version=95712",
-    "numberOfDownloads": 732,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1465673340,
-    "sourceUrl": "https://www.spigotmc.org/resources/ultra-bar.20113/history"
-  }
+  "downloadUrl": "resources/ultra-bar.20113/download?version=95712",
+  "numberOfDownloads": 732,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1465673340,
+  "sourceUrl": "https://www.spigotmc.org/resources/ultra-bar.20113/history"
 }

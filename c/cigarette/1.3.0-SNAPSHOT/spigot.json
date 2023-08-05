@@ -1,12 +1,9 @@
 {
-  "name": "1.3.0-SNAPSHOT",
-  "version": {
-    "name": "1.3-SNAPSHOT",
-    "downloadUrl": "resources/cigarette.95688/download?version=458566",
-    "numberOfDownloads": 81,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1656526560,
-    "sourceUrl": "https://www.spigotmc.org/resources/cigarette.95688/history"
-  }
+  "name": "1.3-SNAPSHOT",
+  "downloadUrl": "resources/cigarette.95688/download?version=458566",
+  "numberOfDownloads": 81,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1656526560,
+  "sourceUrl": "https://www.spigotmc.org/resources/cigarette.95688/history"
 }

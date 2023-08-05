@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/fastannounce.108394/download?version=488112",
-    "numberOfDownloads": 20,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1678046040,
-    "sourceUrl": "https://www.spigotmc.org/resources/fastannounce.108394/history"
-  }
+  "downloadUrl": "resources/fastannounce.108394/download?version=488112",
+  "numberOfDownloads": 20,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1678046040,
+  "sourceUrl": "https://www.spigotmc.org/resources/fastannounce.108394/history"
 }

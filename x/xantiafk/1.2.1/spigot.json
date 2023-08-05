@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/xantiafk-detect-all-afk-players-on-your-server-1-8-1-19.63466/download?version=270700",
-    "numberOfDownloads": 70,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1556367480,
-    "sourceUrl": "https://www.spigotmc.org/resources/xantiafk-detect-all-afk-players-on-your-server-1-8-1-19.63466/history"
-  }
+  "downloadUrl": "resources/xantiafk-detect-all-afk-players-on-your-server-1-8-1-19.63466/download?version=270700",
+  "numberOfDownloads": 70,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1556367480,
+  "sourceUrl": "https://www.spigotmc.org/resources/xantiafk-detect-all-afk-players-on-your-server-1-8-1-19.63466/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.9.0-BETA",
-  "version": {
-    "name": "1.9-BETA",
-    "downloadUrl": "resources/onearrowonekill.101620/download?version=450628",
-    "numberOfDownloads": 11,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1651242240,
-    "sourceUrl": "https://www.spigotmc.org/resources/onearrowonekill.101620/history"
-  }
+  "name": "1.9-BETA",
+  "downloadUrl": "resources/onearrowonekill.101620/download?version=450628",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1651242240,
+  "sourceUrl": "https://www.spigotmc.org/resources/onearrowonekill.101620/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.1.4",
-  "version": {
-    "name": "2.1.4",
-    "downloadUrl": "resources/blockcommands-1-7-1-18.14693/download?version=436548",
-    "numberOfDownloads": 4,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1642168740,
-    "sourceUrl": "https://www.spigotmc.org/resources/blockcommands-1-7-1-18.14693/history"
-  }
+  "downloadUrl": "resources/blockcommands-1-7-1-18.14693/download?version=436548",
+  "numberOfDownloads": 4,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1642168740,
+  "sourceUrl": "https://www.spigotmc.org/resources/blockcommands-1-7-1-18.14693/history"
 }

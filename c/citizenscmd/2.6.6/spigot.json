@@ -1,12 +1,9 @@
 {
   "name": "2.6.6",
-  "version": {
-    "name": "2.6.6",
-    "downloadUrl": "resources/citizenscmd.30224/download?version=457369",
-    "numberOfDownloads": 28,
-    "rating": 6.3333333333334,
-    "numberOfVotes": 6,
-    "releaseDate": 1655815800,
-    "sourceUrl": "https://www.spigotmc.org/resources/citizenscmd.30224/history"
-  }
+  "downloadUrl": "resources/citizenscmd.30224/download?version=457369",
+  "numberOfDownloads": 28,
+  "rating": 6.3333333333334,
+  "numberOfVotes": 6,
+  "releaseDate": 1655815800,
+  "sourceUrl": "https://www.spigotmc.org/resources/citizenscmd.30224/history"
 }

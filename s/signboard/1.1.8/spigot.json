@@ -1,12 +1,9 @@
 {
   "name": "1.1.8",
-  "version": {
-    "name": "1.1.8",
-    "downloadUrl": "resources/signboard.29024/download?version=128345",
-    "numberOfDownloads": 145,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1480977180,
-    "sourceUrl": "https://www.spigotmc.org/resources/signboard.29024/history"
-  }
+  "downloadUrl": "resources/signboard.29024/download?version=128345",
+  "numberOfDownloads": 145,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1480977180,
+  "sourceUrl": "https://www.spigotmc.org/resources/signboard.29024/history"
 }

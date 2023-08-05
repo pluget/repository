@@ -1,12 +1,9 @@
 {
   "name": "6.4.3",
-  "version": {
-    "name": "6.4.3",
-    "downloadUrl": "resources/guishop.2451/download?version=222553",
-    "numberOfDownloads": 604,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1526886840,
-    "sourceUrl": "https://www.spigotmc.org/resources/guishop.2451/history"
-  }
+  "downloadUrl": "resources/guishop.2451/download?version=222553",
+  "numberOfDownloads": 604,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1526886840,
+  "sourceUrl": "https://www.spigotmc.org/resources/guishop.2451/history"
 }

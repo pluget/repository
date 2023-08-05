@@ -1,12 +1,9 @@
 {
   "name": "1.18.3",
-  "version": {
-    "name": "1.18.3",
-    "downloadUrl": "resources/staff.83562/download?version=431922",
-    "numberOfDownloads": 363,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1639692840,
-    "sourceUrl": "https://www.spigotmc.org/resources/staff.83562/history"
-  }
+  "downloadUrl": "resources/staff.83562/download?version=431922",
+  "numberOfDownloads": 363,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1639692840,
+  "sourceUrl": "https://www.spigotmc.org/resources/staff.83562/history"
 }

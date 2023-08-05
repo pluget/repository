@@ -1,12 +1,9 @@
 {
   "name": "0.3.2",
-  "version": {
-    "name": "0.3.2",
-    "downloadUrl": "resources/if-inventory-framework.57216/download?version=255840",
-    "numberOfDownloads": 55,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1546797300,
-    "sourceUrl": "https://www.spigotmc.org/resources/if-inventory-framework.57216/history"
-  }
+  "downloadUrl": "resources/if-inventory-framework.57216/download?version=255840",
+  "numberOfDownloads": 55,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1546797300,
+  "sourceUrl": "https://www.spigotmc.org/resources/if-inventory-framework.57216/history"
 }

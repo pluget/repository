@@ -1,12 +1,9 @@
 {
-  "name": "2.2.0-c-BETA",
-  "version": {
-    "name": "[1.13+] 2.2c-BETA",
-    "downloadUrl": "",
-    "numberOfDownloads": 23,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1558155060,
-    "sourceUrl": "https://www.spigotmc.org/resources/restrictedcreative.42790/history"
-  }
+  "name": "[1.13+] 2.2c-BETA",
+  "downloadUrl": "",
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1558155060,
+  "sourceUrl": "https://www.spigotmc.org/resources/restrictedcreative.42790/history"
 }

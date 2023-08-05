@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/disports.99270/download?version=436935",
-    "numberOfDownloads": 108,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1642347180,
-    "sourceUrl": "https://www.spigotmc.org/resources/disports.99270/history"
-  }
+  "downloadUrl": "resources/disports.99270/download?version=436935",
+  "numberOfDownloads": 108,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1642347180,
+  "sourceUrl": "https://www.spigotmc.org/resources/disports.99270/history"
 }

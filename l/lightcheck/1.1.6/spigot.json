@@ -1,12 +1,9 @@
 {
   "name": "1.1.6",
-  "version": {
-    "name": "1.1.6",
-    "downloadUrl": "resources/lightcheck-1-12-x-1-19-x.106305/download?version=478152",
-    "numberOfDownloads": 86,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1670880420,
-    "sourceUrl": "https://www.spigotmc.org/resources/lightcheck-1-12-x-1-19-x.106305/history"
-  }
+  "downloadUrl": "resources/lightcheck-1-12-x-1-19-x.106305/download?version=478152",
+  "numberOfDownloads": 86,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1670880420,
+  "sourceUrl": "https://www.spigotmc.org/resources/lightcheck-1-12-x-1-19-x.106305/history"
 }

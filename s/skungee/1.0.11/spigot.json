@@ -1,12 +1,9 @@
 {
   "name": "1.0.11",
-  "version": {
-    "name": "1.0.11",
-    "downloadUrl": "resources/skungee-skript-proxy-addon-and-socket-api.35636/download?version=293730",
-    "numberOfDownloads": 820,
-    "rating": 6.3333333333334,
-    "numberOfVotes": 6,
-    "releaseDate": 1568341200,
-    "sourceUrl": "https://www.spigotmc.org/resources/skungee-skript-proxy-addon-and-socket-api.35636/history"
-  }
+  "downloadUrl": "resources/skungee-skript-proxy-addon-and-socket-api.35636/download?version=293730",
+  "numberOfDownloads": 820,
+  "rating": 6.3333333333334,
+  "numberOfVotes": 6,
+  "releaseDate": 1568341200,
+  "sourceUrl": "https://www.spigotmc.org/resources/skungee-skript-proxy-addon-and-socket-api.35636/history"
 }

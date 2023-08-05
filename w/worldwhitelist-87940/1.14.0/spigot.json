@@ -1,12 +1,9 @@
 {
-  "name": "1.14.0",
-  "version": {
-    "name": "1.14",
-    "downloadUrl": "resources/worldwhitelist.87940/download?version=379791",
-    "numberOfDownloads": 237,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1611671940,
-    "sourceUrl": "https://www.spigotmc.org/resources/worldwhitelist.87940/history"
-  }
+  "name": "1.14",
+  "downloadUrl": "resources/worldwhitelist.87940/download?version=379791",
+  "numberOfDownloads": 237,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1611671940,
+  "sourceUrl": "https://www.spigotmc.org/resources/worldwhitelist.87940/history"
 }

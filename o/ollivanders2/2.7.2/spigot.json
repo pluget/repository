@@ -1,12 +1,9 @@
 {
   "name": "2.7.2",
-  "version": {
-    "name": "2.7.2",
-    "downloadUrl": "resources/ollivanders2.38992/download?version=451523",
-    "numberOfDownloads": 723,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1651939980,
-    "sourceUrl": "https://www.spigotmc.org/resources/ollivanders2.38992/history"
-  }
+  "downloadUrl": "resources/ollivanders2.38992/download?version=451523",
+  "numberOfDownloads": 723,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1651939980,
+  "sourceUrl": "https://www.spigotmc.org/resources/ollivanders2.38992/history"
 }

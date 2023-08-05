@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "v1.0",
-    "downloadUrl": "resources/no-op-and-deop-command.99833/download?version=440134",
-    "numberOfDownloads": 31,
-    "rating": 3,
-    "numberOfVotes": 2,
-    "releaseDate": 1644161820,
-    "sourceUrl": "https://www.spigotmc.org/resources/99833/history/"
-  }
+  "name": "v1.0",
+  "downloadUrl": "resources/no-op-and-deop-command.99833/download?version=440134",
+  "numberOfDownloads": 31,
+  "rating": 3,
+  "numberOfVotes": 2,
+  "releaseDate": 1644161820,
+  "sourceUrl": "https://www.spigotmc.org/resources/99833/history/"
 }

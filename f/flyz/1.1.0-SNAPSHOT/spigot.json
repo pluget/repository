@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0-SNAPSHOT",
-  "version": {
-    "name": "1.1-SNAPSHOT",
-    "downloadUrl": "resources/flyz.68467/download?version=279569",
-    "numberOfDownloads": 35,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1560910380,
-    "sourceUrl": "https://www.spigotmc.org/resources/68467/history/"
-  }
+  "name": "1.1-SNAPSHOT",
+  "downloadUrl": "resources/flyz.68467/download?version=279569",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1560910380,
+  "sourceUrl": "https://www.spigotmc.org/resources/68467/history/"
 }

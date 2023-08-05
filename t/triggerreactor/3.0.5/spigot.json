@@ -1,12 +1,9 @@
 {
   "name": "3.0.5",
-  "version": {
-    "name": "3.0.5",
-    "downloadUrl": "resources/triggerreactor.40987/download?version=340756",
-    "numberOfDownloads": 780,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1593484200,
-    "sourceUrl": "https://www.spigotmc.org/resources/triggerreactor.40987/history"
-  }
+  "downloadUrl": "resources/triggerreactor.40987/download?version=340756",
+  "numberOfDownloads": 780,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1593484200,
+  "sourceUrl": "https://www.spigotmc.org/resources/triggerreactor.40987/history"
 }

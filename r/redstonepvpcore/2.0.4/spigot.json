@@ -1,12 +1,9 @@
 {
   "name": "2.0.4",
-  "version": {
-    "name": "2.0.4",
-    "downloadUrl": "resources/redstonepvpcore.59657/download?version=458177",
-    "numberOfDownloads": 91,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1656259440,
-    "sourceUrl": "https://www.spigotmc.org/resources/redstonepvpcore.59657/history"
-  }
+  "downloadUrl": "resources/redstonepvpcore.59657/download?version=458177",
+  "numberOfDownloads": 91,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1656259440,
+  "sourceUrl": "https://www.spigotmc.org/resources/redstonepvpcore.59657/history"
 }

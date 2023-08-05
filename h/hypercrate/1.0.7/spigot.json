@@ -1,12 +1,9 @@
 {
-  "name": "1.0.7",
-  "version": {
-    "name": "Patch-1.0.7",
-    "downloadUrl": "resources/hypercrate.87060/download?version=382131",
-    "numberOfDownloads": 37,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1612683180,
-    "sourceUrl": "https://www.spigotmc.org/resources/87060/history/"
-  }
+  "name": "Patch-1.0.7",
+  "downloadUrl": "resources/hypercrate.87060/download?version=382131",
+  "numberOfDownloads": 37,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1612683180,
+  "sourceUrl": "https://www.spigotmc.org/resources/87060/history/"
 }

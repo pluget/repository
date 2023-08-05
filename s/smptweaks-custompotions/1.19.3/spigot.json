@@ -1,12 +1,9 @@
 {
   "name": "1.19.3",
-  "version": {
-    "name": "1.19.3",
-    "downloadUrl": "resources/smptweaks-custompotions.103719/download?version=487749",
-    "numberOfDownloads": 53,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1677787140,
-    "sourceUrl": "https://www.spigotmc.org/resources/103719/history/"
-  }
+  "downloadUrl": "resources/smptweaks-custompotions.103719/download?version=487749",
+  "numberOfDownloads": 53,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1677787140,
+  "sourceUrl": "https://www.spigotmc.org/resources/103719/history/"
 }

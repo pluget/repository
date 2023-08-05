@@ -1,12 +1,9 @@
 {
   "name": "0.19.7",
-  "version": {
-    "name": "0.19.7",
-    "downloadUrl": "resources/beautyquests.39255/download?version=455345",
-    "numberOfDownloads": 12,
-    "rating": 8.4,
-    "numberOfVotes": 5,
-    "releaseDate": 1654750740,
-    "sourceUrl": "https://www.spigotmc.org/resources/beautyquests.39255/history"
-  }
+  "downloadUrl": "resources/beautyquests.39255/download?version=455345",
+  "numberOfDownloads": 12,
+  "rating": 8.4,
+  "numberOfVotes": 5,
+  "releaseDate": 1654750740,
+  "sourceUrl": "https://www.spigotmc.org/resources/beautyquests.39255/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.2.6",
-  "version": {
-    "name": "1.2.6",
-    "downloadUrl": "resources/worldchatter-discontinued.101226/download?version=456091",
-    "numberOfDownloads": 18,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655122740,
-    "sourceUrl": "https://www.spigotmc.org/resources/worldchatter-discontinued.101226/history"
-  }
+  "downloadUrl": "resources/worldchatter-discontinued.101226/download?version=456091",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655122740,
+  "sourceUrl": "https://www.spigotmc.org/resources/worldchatter-discontinued.101226/history"
 }

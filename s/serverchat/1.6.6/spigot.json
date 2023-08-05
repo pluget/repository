@@ -1,12 +1,9 @@
 {
   "name": "1.6.6",
-  "version": {
-    "name": "1.6.6",
-    "downloadUrl": "resources/serverchat.43494/download?version=237733",
-    "numberOfDownloads": 48,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1535530860,
-    "sourceUrl": "https://www.spigotmc.org/resources/serverchat.43494/history"
-  }
+  "downloadUrl": "resources/serverchat.43494/download?version=237733",
+  "numberOfDownloads": 48,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1535530860,
+  "sourceUrl": "https://www.spigotmc.org/resources/serverchat.43494/history"
 }

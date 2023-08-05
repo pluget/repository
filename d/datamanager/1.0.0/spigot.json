@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/datamanager-bungeecord-spigot.102622/download?version=456320",
-    "numberOfDownloads": 106,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1655228220,
-    "sourceUrl": "https://www.spigotmc.org/resources/102622/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/datamanager-bungeecord-spigot.102622/download?version=456320",
+  "numberOfDownloads": 106,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1655228220,
+  "sourceUrl": "https://www.spigotmc.org/resources/102622/history/"
 }

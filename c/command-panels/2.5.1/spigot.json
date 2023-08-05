@@ -1,12 +1,9 @@
 {
   "name": "2.5.1",
-  "version": {
-    "name": "2.5.1",
-    "downloadUrl": "resources/commandpanels.67788/download?version=300660",
-    "numberOfDownloads": 281,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1573105920,
-    "sourceUrl": "https://www.spigotmc.org/resources/67788/history/"
-  }
+  "downloadUrl": "resources/commandpanels.67788/download?version=300660",
+  "numberOfDownloads": 281,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1573105920,
+  "sourceUrl": "https://www.spigotmc.org/resources/67788/history/"
 }

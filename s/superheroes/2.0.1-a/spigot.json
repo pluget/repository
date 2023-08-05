@@ -1,12 +1,9 @@
 {
-  "name": "2.0.1-a",
-  "version": {
-    "name": "2.0.1a",
-    "downloadUrl": "resources/superheroes-classes-origins-heroes.79766/download?version=386199",
-    "numberOfDownloads": 45,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1614611340,
-    "sourceUrl": "https://www.spigotmc.org/resources/79766/history/"
-  }
+  "name": "2.0.1a",
+  "downloadUrl": "resources/superheroes-classes-origins-heroes.79766/download?version=386199",
+  "numberOfDownloads": 45,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1614611340,
+  "sourceUrl": "https://www.spigotmc.org/resources/79766/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.12.2",
-  "version": {
-    "name": "1.12.2",
-    "downloadUrl": "resources/asyncxraybypassfix.104679/download?version=466288",
-    "numberOfDownloads": 43,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1660939680,
-    "sourceUrl": "https://www.spigotmc.org/resources/asyncxraybypassfix.104679/history"
-  }
+  "downloadUrl": "resources/asyncxraybypassfix.104679/download?version=466288",
+  "numberOfDownloads": 43,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1660939680,
+  "sourceUrl": "https://www.spigotmc.org/resources/asyncxraybypassfix.104679/history"
 }

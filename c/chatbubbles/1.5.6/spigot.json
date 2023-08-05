@@ -1,12 +1,9 @@
 {
   "name": "1.5.6",
-  "version": {
-    "name": "1.5.6",
-    "downloadUrl": "resources/chatbubbles-1-19-factions-citizens-compatible-placeholderapi.49387/download?version=253080",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1545169380,
-    "sourceUrl": "https://www.spigotmc.org/resources/chatbubbles-1-19-factions-citizens-compatible-placeholderapi.49387/history"
-  }
+  "downloadUrl": "resources/chatbubbles-1-19-factions-citizens-compatible-placeholderapi.49387/download?version=253080",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1545169380,
+  "sourceUrl": "https://www.spigotmc.org/resources/chatbubbles-1-19-factions-citizens-compatible-placeholderapi.49387/history"
 }

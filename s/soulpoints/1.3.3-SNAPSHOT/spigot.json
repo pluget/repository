@@ -1,12 +1,9 @@
 {
   "name": "1.3.3-SNAPSHOT",
-  "version": {
-    "name": "1.3.3-SNAPSHOT",
-    "downloadUrl": "resources/soulpoints.96396/download?version=429929",
-    "numberOfDownloads": 24,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1638685380,
-    "sourceUrl": "https://www.spigotmc.org/resources/soulpoints.96396/history"
-  }
+  "downloadUrl": "resources/soulpoints.96396/download?version=429929",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1638685380,
+  "sourceUrl": "https://www.spigotmc.org/resources/soulpoints.96396/history"
 }

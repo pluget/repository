@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-STABLE",
-  "version": {
-    "name": "1.0 STABLE",
-    "downloadUrl": "resources/wg-piston-fixer.102591/download?version=456090",
-    "numberOfDownloads": 23,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1655122020,
-    "sourceUrl": "https://www.spigotmc.org/resources/wg-piston-fixer.102591/history"
-  }
+  "name": "1.0 STABLE",
+  "downloadUrl": "resources/wg-piston-fixer.102591/download?version=456090",
+  "numberOfDownloads": 23,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1655122020,
+  "sourceUrl": "https://www.spigotmc.org/resources/wg-piston-fixer.102591/history"
 }

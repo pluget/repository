@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/winstreak-bedwars1058-add-on.97509/download?version=456112",
-    "numberOfDownloads": 633,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1655130660,
-    "sourceUrl": "https://www.spigotmc.org/resources/winstreak-bedwars1058-add-on.97509/history"
-  }
+  "downloadUrl": "resources/winstreak-bedwars1058-add-on.97509/download?version=456112",
+  "numberOfDownloads": 633,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1655130660,
+  "sourceUrl": "https://www.spigotmc.org/resources/winstreak-bedwars1058-add-on.97509/history"
 }

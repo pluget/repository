@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-DEV11",
-  "version": {
-    "name": "1.0-DEV11",
-    "downloadUrl": "resources/basicqueue.101072/download?version=450374",
-    "numberOfDownloads": 18,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1651014000,
-    "sourceUrl": "https://www.spigotmc.org/resources/basicqueue.101072/history"
-  }
+  "name": "1.0-DEV11",
+  "downloadUrl": "resources/basicqueue.101072/download?version=450374",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1651014000,
+  "sourceUrl": "https://www.spigotmc.org/resources/basicqueue.101072/history"
 }

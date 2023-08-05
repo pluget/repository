@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/serverspecs.102631/download?version=456354",
-    "numberOfDownloads": 34,
-    "rating": 2,
-    "numberOfVotes": 1,
-    "releaseDate": 1655240700,
-    "sourceUrl": "https://www.spigotmc.org/resources/serverspecs.102631/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/serverspecs.102631/download?version=456354",
+  "numberOfDownloads": 34,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releaseDate": 1655240700,
+  "sourceUrl": "https://www.spigotmc.org/resources/serverspecs.102631/history"
 }

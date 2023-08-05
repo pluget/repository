@@ -1,12 +1,9 @@
 {
-  "name": "7.0.0",
-  "version": {
-    "name": "7.0",
-    "downloadUrl": "resources/bungeeonlinetime.795/download?version=255283",
-    "numberOfDownloads": 3,
-    "rating": 7.3636363636364,
-    "numberOfVotes": 22,
-    "releaseDate": 1546529760,
-    "sourceUrl": "https://www.spigotmc.org/resources/795/history/"
-  }
+  "name": "7.0",
+  "downloadUrl": "resources/bungeeonlinetime.795/download?version=255283",
+  "numberOfDownloads": 3,
+  "rating": 7.3636363636364,
+  "numberOfVotes": 22,
+  "releaseDate": 1546529760,
+  "sourceUrl": "https://www.spigotmc.org/resources/795/history/"
 }

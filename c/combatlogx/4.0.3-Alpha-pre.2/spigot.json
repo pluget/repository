@@ -1,12 +1,9 @@
 {
-  "name": "4.0.3-Alpha-pre.2",
-  "version": {
-    "name": "4.0.3 Alpha",
-    "downloadUrl": "resources/combatlogx.31689/download?version=174165",
-    "numberOfDownloads": 187,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1501006140,
-    "sourceUrl": "https://www.spigotmc.org/resources/combatlogx.31689/history"
-  }
+  "name": "4.0.3 Alpha",
+  "downloadUrl": "resources/combatlogx.31689/download?version=174165",
+  "numberOfDownloads": 187,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1501006140,
+  "sourceUrl": "https://www.spigotmc.org/resources/combatlogx.31689/history"
 }

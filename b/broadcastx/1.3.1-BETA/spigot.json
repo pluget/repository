@@ -1,12 +1,9 @@
 {
   "name": "1.3.1-BETA",
-  "version": {
-    "name": "1.3.1-BETA",
-    "downloadUrl": "resources/broadcastx.100268/download?version=443003",
-    "numberOfDownloads": 18,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646015640,
-    "sourceUrl": "https://www.spigotmc.org/resources/broadcastx.100268/history"
-  }
+  "downloadUrl": "resources/broadcastx.100268/download?version=443003",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646015640,
+  "sourceUrl": "https://www.spigotmc.org/resources/broadcastx.100268/history"
 }

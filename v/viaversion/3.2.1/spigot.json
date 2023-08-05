@@ -1,12 +1,9 @@
 {
   "name": "3.2.1",
-  "version": {
-    "name": "3.2.1",
-    "downloadUrl": "resources/viaversion.19254/download?version=371643",
-    "numberOfDownloads": 190,
-    "rating": 9.2777777777778,
-    "numberOfVotes": 36,
-    "releaseDate": 1607775300,
-    "sourceUrl": "https://www.spigotmc.org/resources/viaversion.19254/history"
-  }
+  "downloadUrl": "resources/viaversion.19254/download?version=371643",
+  "numberOfDownloads": 190,
+  "rating": 9.2777777777778,
+  "numberOfVotes": 36,
+  "releaseDate": 1607775300,
+  "sourceUrl": "https://www.spigotmc.org/resources/viaversion.19254/history"
 }

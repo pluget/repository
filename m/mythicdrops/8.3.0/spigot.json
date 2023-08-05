@@ -1,12 +1,9 @@
 {
   "name": "8.3.0",
-  "version": {
-    "name": "8.3.0",
-    "downloadUrl": "resources/mythicdrops.6114/download?version=449668",
-    "numberOfDownloads": 694,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1650499320,
-    "sourceUrl": "https://www.spigotmc.org/resources/mythicdrops.6114/history"
-  }
+  "downloadUrl": "resources/mythicdrops.6114/download?version=449668",
+  "numberOfDownloads": 694,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1650499320,
+  "sourceUrl": "https://www.spigotmc.org/resources/mythicdrops.6114/history"
 }

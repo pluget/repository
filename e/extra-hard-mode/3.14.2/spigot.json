@@ -1,12 +1,9 @@
 {
   "name": "3.14.2",
-  "version": {
-    "name": "3.14.2",
-    "downloadUrl": "resources/extra-hard-mode.19673/download?version=356942",
-    "numberOfDownloads": 2,
-    "rating": 9.6,
-    "numberOfVotes": 10,
-    "releaseDate": 1600092420,
-    "sourceUrl": "https://www.spigotmc.org/resources/extra-hard-mode.19673/history"
-  }
+  "downloadUrl": "resources/extra-hard-mode.19673/download?version=356942",
+  "numberOfDownloads": 2,
+  "rating": 9.6,
+  "numberOfVotes": 10,
+  "releaseDate": 1600092420,
+  "sourceUrl": "https://www.spigotmc.org/resources/extra-hard-mode.19673/history"
 }

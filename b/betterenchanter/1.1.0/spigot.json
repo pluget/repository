@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0",
-  "version": {
-    "name": "1.1",
-    "downloadUrl": "resources/betterenchanter.101321/download?version=448695",
-    "numberOfDownloads": 30,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1649839800,
-    "sourceUrl": "https://www.spigotmc.org/resources/101321/history/"
-  }
+  "name": "1.1",
+  "downloadUrl": "resources/betterenchanter.101321/download?version=448695",
+  "numberOfDownloads": 30,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1649839800,
+  "sourceUrl": "https://www.spigotmc.org/resources/101321/history/"
 }

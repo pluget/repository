@@ -1,12 +1,9 @@
 {
   "name": "0.9.8",
-  "version": {
-    "name": "0.9.8",
-    "downloadUrl": "resources/logoutlives.96562/download?version=481928",
-    "numberOfDownloads": 69,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1673532600,
-    "sourceUrl": "https://www.spigotmc.org/resources/96562/history/"
-  }
+  "downloadUrl": "resources/logoutlives.96562/download?version=481928",
+  "numberOfDownloads": 69,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1673532600,
+  "sourceUrl": "https://www.spigotmc.org/resources/96562/history/"
 }

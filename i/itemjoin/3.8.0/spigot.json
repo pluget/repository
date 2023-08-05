@@ -1,12 +1,9 @@
 {
-  "name": "3.8.0",
-  "version": {
-    "name": "v3.8",
-    "downloadUrl": "resources/itemjoin.12661/download?version=118664",
-    "numberOfDownloads": 1,
-    "rating": 8.8,
-    "numberOfVotes": 5,
-    "releaseDate": 1476315300,
-    "sourceUrl": "https://www.spigotmc.org/resources/itemjoin.12661/history"
-  }
+  "name": "v3.8",
+  "downloadUrl": "resources/itemjoin.12661/download?version=118664",
+  "numberOfDownloads": 1,
+  "rating": 8.8,
+  "numberOfVotes": 5,
+  "releaseDate": 1476315300,
+  "sourceUrl": "https://www.spigotmc.org/resources/itemjoin.12661/history"
 }

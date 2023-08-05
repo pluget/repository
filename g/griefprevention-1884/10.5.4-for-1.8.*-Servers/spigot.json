@@ -1,12 +1,9 @@
 {
-  "name": "10.5.4-for-1.8.*-Servers",
-  "version": {
-    "name": "10.5.4 for 1.8.* Servers",
-    "downloadUrl": "resources/griefprevention.1884/download?version=11214",
-    "numberOfDownloads": 404,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1421716920,
-    "sourceUrl": "https://www.spigotmc.org/resources/griefprevention.1884/history"
-  }
+  "name": "10.5.4 for 1.8.* Servers",
+  "downloadUrl": "resources/griefprevention.1884/download?version=11214",
+  "numberOfDownloads": 404,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1421716920,
+  "sourceUrl": "https://www.spigotmc.org/resources/griefprevention.1884/history"
 }

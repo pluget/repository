@@ -1,12 +1,9 @@
 {
   "name": "6.4.0",
-  "version": {
-    "name": "6.4.0",
-    "downloadUrl": "resources/building-game.10547/download?version=256111",
-    "numberOfDownloads": 162,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1546975080,
-    "sourceUrl": "https://www.spigotmc.org/resources/10547/history/"
-  }
+  "downloadUrl": "resources/building-game.10547/download?version=256111",
+  "numberOfDownloads": 162,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1546975080,
+  "sourceUrl": "https://www.spigotmc.org/resources/10547/history/"
 }

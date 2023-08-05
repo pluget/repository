@@ -1,12 +1,9 @@
 {
   "name": "2.2.2",
-  "version": {
-    "name": "2.2.2",
-    "downloadUrl": "resources/lifesteal-smp-plugin.94387/download?version=445512",
-    "numberOfDownloads": 206,
-    "rating": 7.2857142857142,
-    "numberOfVotes": 14,
-    "releaseDate": 1647531480,
-    "sourceUrl": "https://www.spigotmc.org/resources/94387/history/"
-  }
+  "downloadUrl": "resources/lifesteal-smp-plugin.94387/download?version=445512",
+  "numberOfDownloads": 206,
+  "rating": 7.2857142857142,
+  "numberOfVotes": 14,
+  "releaseDate": 1647531480,
+  "sourceUrl": "https://www.spigotmc.org/resources/94387/history/"
 }

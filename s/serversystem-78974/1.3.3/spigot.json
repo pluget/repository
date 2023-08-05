@@ -1,12 +1,9 @@
 {
   "name": "1.3.3",
-  "version": {
-    "name": "1.3.3",
-    "downloadUrl": "resources/serversystem.78974/download?version=358630",
-    "numberOfDownloads": 47,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1600961880,
-    "sourceUrl": "https://www.spigotmc.org/resources/serversystem.78974/history"
-  }
+  "downloadUrl": "resources/serversystem.78974/download?version=358630",
+  "numberOfDownloads": 47,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1600961880,
+  "sourceUrl": "https://www.spigotmc.org/resources/serversystem.78974/history"
 }

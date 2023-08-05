@@ -1,12 +1,9 @@
 {
-  "name": "1.1.2-(MINECRAFT-1_10_R1)",
-  "version": {
-    "name": "1.1.2 (MINECRAFT 1_10_R1)",
-    "downloadUrl": "resources/mcrealistic-1-17.21628/download?version=103069",
-    "numberOfDownloads": 400,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1468592280,
-    "sourceUrl": "https://www.spigotmc.org/resources/21628/history/"
-  }
+  "name": "1.1.2 (MINECRAFT 1_10_R1)",
+  "downloadUrl": "resources/mcrealistic-1-17.21628/download?version=103069",
+  "numberOfDownloads": 400,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1468592280,
+  "sourceUrl": "https://www.spigotmc.org/resources/21628/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "0.8.13",
-  "version": {
-    "name": "0.8.13",
-    "downloadUrl": "resources/nova-modding-framework-1-19-3.93648/download?version=453049",
-    "numberOfDownloads": 427,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1653161400,
-    "sourceUrl": "https://www.spigotmc.org/resources/93648/history/"
-  }
+  "downloadUrl": "resources/nova-modding-framework-1-19-3.93648/download?version=453049",
+  "numberOfDownloads": 427,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1653161400,
+  "sourceUrl": "https://www.spigotmc.org/resources/93648/history/"
 }

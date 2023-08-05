@@ -1,12 +1,9 @@
 {
-  "name": "1.2.15-pre.1",
-  "version": {
-    "name": "1.2.15",
-    "downloadUrl": "resources/smp-spectator-mode-1-19-support.77267/download?version=327384",
-    "numberOfDownloads": 125,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1587912480,
-    "sourceUrl": "https://www.spigotmc.org/resources/77267/history/"
-  }
+  "name": "1.2.15",
+  "downloadUrl": "resources/smp-spectator-mode-1-19-support.77267/download?version=327384",
+  "numberOfDownloads": 125,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1587912480,
+  "sourceUrl": "https://www.spigotmc.org/resources/77267/history/"
 }

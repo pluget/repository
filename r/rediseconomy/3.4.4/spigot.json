@@ -1,12 +1,9 @@
 {
   "name": "3.4.4",
-  "version": {
-    "name": "3.4.4",
-    "downloadUrl": "resources/rediseconomy%E2%9A%A1-unlimited-currencies-cross-server-open-source.105965/download?version=483450",
-    "numberOfDownloads": 64,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1674650940,
-    "sourceUrl": "https://www.spigotmc.org/resources/105965/history/"
-  }
+  "downloadUrl": "resources/rediseconomy%E2%9A%A1-unlimited-currencies-cross-server-open-source.105965/download?version=483450",
+  "numberOfDownloads": 64,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1674650940,
+  "sourceUrl": "https://www.spigotmc.org/resources/105965/history/"
 }

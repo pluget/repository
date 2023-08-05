@@ -1,12 +1,9 @@
 {
   "name": "1.7.0",
-  "version": {
-    "name": "1.7.0",
-    "downloadUrl": "resources/projectkorra-core.2734/download?version=37959",
-    "numberOfDownloads": 7,
-    "rating": 10,
-    "numberOfVotes": 7,
-    "releaseDate": 1438810680,
-    "sourceUrl": "https://www.spigotmc.org/resources/projectkorra-core.2734/history"
-  }
+  "downloadUrl": "resources/projectkorra-core.2734/download?version=37959",
+  "numberOfDownloads": 7,
+  "rating": 10,
+  "numberOfVotes": 7,
+  "releaseDate": 1438810680,
+  "sourceUrl": "https://www.spigotmc.org/resources/projectkorra-core.2734/history"
 }

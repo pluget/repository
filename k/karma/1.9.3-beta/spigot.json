@@ -1,12 +1,9 @@
 {
   "name": "1.9.3-beta",
-  "version": {
-    "name": "1.9.3-beta",
-    "downloadUrl": "resources/karma.76077/download?version=433678",
-    "numberOfDownloads": 87,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1640625180,
-    "sourceUrl": "https://www.spigotmc.org/resources/karma.76077/history"
-  }
+  "downloadUrl": "resources/karma.76077/download?version=433678",
+  "numberOfDownloads": 87,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1640625180,
+  "sourceUrl": "https://www.spigotmc.org/resources/karma.76077/history"
 }

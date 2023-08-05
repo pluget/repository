@@ -1,12 +1,9 @@
 {
   "name": "5.21.2",
-  "version": {
-    "name": "5.21.2",
-    "downloadUrl": "resources/votingplugin.15358/download?version=330607",
-    "numberOfDownloads": 657,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1589125380,
-    "sourceUrl": "https://www.spigotmc.org/resources/votingplugin.15358/history"
-  }
+  "downloadUrl": "resources/votingplugin.15358/download?version=330607",
+  "numberOfDownloads": 657,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1589125380,
+  "sourceUrl": "https://www.spigotmc.org/resources/votingplugin.15358/history"
 }

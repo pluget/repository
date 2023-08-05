@@ -1,12 +1,9 @@
 {
   "name": "5.0.0",
-  "version": {
-    "name": "5.0.0",
-    "downloadUrl": "resources/colored-signs.31676/download?version=403521",
-    "numberOfDownloads": 25,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1623731880,
-    "sourceUrl": "https://www.spigotmc.org/resources/colored-signs.31676/history"
-  }
+  "downloadUrl": "resources/colored-signs.31676/download?version=403521",
+  "numberOfDownloads": 25,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1623731880,
+  "sourceUrl": "https://www.spigotmc.org/resources/colored-signs.31676/history"
 }

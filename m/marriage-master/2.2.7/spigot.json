@@ -1,12 +1,9 @@
 {
   "name": "2.2.7",
-  "version": {
-    "name": "2.2.7",
-    "downloadUrl": "resources/marriage-master-mc-1-7-1-19.19273/download?version=351072",
-    "numberOfDownloads": 999,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1597501140,
-    "sourceUrl": "https://www.spigotmc.org/resources/marriage-master-mc-1-7-1-19.19273/history"
-  }
+  "downloadUrl": "resources/marriage-master-mc-1-7-1-19.19273/download?version=351072",
+  "numberOfDownloads": 999,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1597501140,
+  "sourceUrl": "https://www.spigotmc.org/resources/marriage-master-mc-1-7-1-19.19273/history"
 }

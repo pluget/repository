@@ -1,12 +1,9 @@
 {
-  "name": "2.6.3-beta",
-  "version": {
-    "name": "2.6.3 beta",
-    "downloadUrl": "resources/antiworlddownloader.99356/download?version=464589",
-    "numberOfDownloads": 528,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1659893580,
-    "sourceUrl": "https://www.spigotmc.org/resources/99356/history/"
-  }
+  "name": "2.6.3 beta",
+  "downloadUrl": "resources/antiworlddownloader.99356/download?version=464589",
+  "numberOfDownloads": 528,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1659893580,
+  "sourceUrl": "https://www.spigotmc.org/resources/99356/history/"
 }

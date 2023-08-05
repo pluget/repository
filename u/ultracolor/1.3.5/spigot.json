@@ -1,12 +1,9 @@
 {
   "name": "1.3.5",
-  "version": {
-    "name": "1.3.5",
-    "downloadUrl": "resources/ultracolor-end-of-life.85332/download?version=415983",
-    "numberOfDownloads": 115,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1629555180,
-    "sourceUrl": "https://www.spigotmc.org/resources/85332/history/"
-  }
+  "downloadUrl": "resources/ultracolor-end-of-life.85332/download?version=415983",
+  "numberOfDownloads": 115,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1629555180,
+  "sourceUrl": "https://www.spigotmc.org/resources/85332/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/staff-summoner.80936/download?version=341204",
-    "numberOfDownloads": 49,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1593637200,
-    "sourceUrl": "https://www.spigotmc.org/resources/staff-summoner.80936/history"
-  }
+  "downloadUrl": "resources/staff-summoner.80936/download?version=341204",
+  "numberOfDownloads": 49,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1593637200,
+  "sourceUrl": "https://www.spigotmc.org/resources/staff-summoner.80936/history"
 }

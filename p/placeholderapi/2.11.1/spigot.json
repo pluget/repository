@@ -1,12 +1,9 @@
 {
   "name": "2.11.1",
-  "version": {
-    "name": "2.11.1",
-    "downloadUrl": "resources/placeholderapi.6245/download?version=433600",
-    "numberOfDownloads": 343,
-    "rating": 8.3478260869566,
-    "numberOfVotes": 23,
-    "releaseDate": 1640594880,
-    "sourceUrl": "https://www.spigotmc.org/resources/placeholderapi.6245/history"
-  }
+  "downloadUrl": "resources/placeholderapi.6245/download?version=433600",
+  "numberOfDownloads": 343,
+  "rating": 8.3478260869566,
+  "numberOfVotes": 23,
+  "releaseDate": 1640594880,
+  "sourceUrl": "https://www.spigotmc.org/resources/placeholderapi.6245/history"
 }

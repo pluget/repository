@@ -1,12 +1,9 @@
 {
   "name": "1.0.2",
-  "version": {
-    "name": "1.0.2",
-    "downloadUrl": "resources/gworld.80373/download?version=360122",
-    "numberOfDownloads": 126,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1601755500,
-    "sourceUrl": "https://www.spigotmc.org/resources/gworld.80373/history"
-  }
+  "downloadUrl": "resources/gworld.80373/download?version=360122",
+  "numberOfDownloads": 126,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1601755500,
+  "sourceUrl": "https://www.spigotmc.org/resources/gworld.80373/history"
 }

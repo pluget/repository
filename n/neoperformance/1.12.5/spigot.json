@@ -1,12 +1,9 @@
 {
   "name": "1.12.5",
-  "version": {
-    "name": "1.12.5",
-    "downloadUrl": "resources/neoperformance.103183/download?version=465522",
-    "numberOfDownloads": 80,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660444320,
-    "sourceUrl": "https://www.spigotmc.org/resources/neoperformance.103183/history"
-  }
+  "downloadUrl": "resources/neoperformance.103183/download?version=465522",
+  "numberOfDownloads": 80,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660444320,
+  "sourceUrl": "https://www.spigotmc.org/resources/neoperformance.103183/history"
 }

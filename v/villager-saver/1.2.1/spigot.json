@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/villager-saver-1-19.84738/download?version=405555",
-    "numberOfDownloads": 121,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1624635240,
-    "sourceUrl": "https://www.spigotmc.org/resources/84738/history/"
-  }
+  "downloadUrl": "resources/villager-saver-1-19.84738/download?version=405555",
+  "numberOfDownloads": 121,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1624635240,
+  "sourceUrl": "https://www.spigotmc.org/resources/84738/history/"
 }

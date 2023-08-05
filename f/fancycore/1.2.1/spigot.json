@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/fancycore.94736/download?version=427076",
-    "numberOfDownloads": 16,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1637050500,
-    "sourceUrl": "https://www.spigotmc.org/resources/fancycore.94736/history"
-  }
+  "downloadUrl": "resources/fancycore.94736/download?version=427076",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1637050500,
+  "sourceUrl": "https://www.spigotmc.org/resources/fancycore.94736/history"
 }

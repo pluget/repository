@@ -1,12 +1,9 @@
 {
   "name": "4.5.9",
-  "version": {
-    "name": "4.5.9",
-    "downloadUrl": "resources/village-defense-1-8-8-1-17.41869/download?version=393860",
-    "numberOfDownloads": 1,
-    "rating": 9.7142857142858,
-    "numberOfVotes": 7,
-    "releaseDate": 1618335060,
-    "sourceUrl": "https://www.spigotmc.org/resources/village-defense-1-8-8-1-17.41869/history"
-  }
+  "downloadUrl": "resources/village-defense-1-8-8-1-17.41869/download?version=393860",
+  "numberOfDownloads": 1,
+  "rating": 9.7142857142858,
+  "numberOfVotes": 7,
+  "releaseDate": 1618335060,
+  "sourceUrl": "https://www.spigotmc.org/resources/village-defense-1-8-8-1-17.41869/history"
 }

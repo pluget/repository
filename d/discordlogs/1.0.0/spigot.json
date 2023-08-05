@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/discordlogs-lite.102306/download?version=454010",
-    "numberOfDownloads": 19,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1653912300,
-    "sourceUrl": "https://www.spigotmc.org/resources/102306/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/discordlogs-lite.102306/download?version=454010",
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1653912300,
+  "sourceUrl": "https://www.spigotmc.org/resources/102306/history/"
 }

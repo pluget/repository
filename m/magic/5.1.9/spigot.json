@@ -1,12 +1,9 @@
 {
   "name": "5.1.9",
-  "version": {
-    "name": "5.1.9",
-    "downloadUrl": "resources/magic.1056/download?version=38508",
-    "numberOfDownloads": 612,
-    "rating": 10,
-    "numberOfVotes": 5,
-    "releaseDate": 1439085480,
-    "sourceUrl": "https://www.spigotmc.org/resources/magic.1056/history"
-  }
+  "downloadUrl": "resources/magic.1056/download?version=38508",
+  "numberOfDownloads": 612,
+  "rating": 10,
+  "numberOfVotes": 5,
+  "releaseDate": 1439085480,
+  "sourceUrl": "https://www.spigotmc.org/resources/magic.1056/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "8.2.0",
-  "version": {
-    "name": "8.2.0",
-    "downloadUrl": "resources/voxelsniper.104989/download?version=471833",
-    "numberOfDownloads": 58,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1665238140,
-    "sourceUrl": "https://www.spigotmc.org/resources/voxelsniper.104989/history"
-  }
+  "downloadUrl": "resources/voxelsniper.104989/download?version=471833",
+  "numberOfDownloads": 58,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1665238140,
+  "sourceUrl": "https://www.spigotmc.org/resources/voxelsniper.104989/history"
 }

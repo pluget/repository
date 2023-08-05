@@ -1,12 +1,9 @@
 {
   "name": "0.1.0-hotfix",
-  "version": {
-    "name": "0.1.0-hotfix",
-    "downloadUrl": "resources/better-smp.105137/download?version=476455",
-    "numberOfDownloads": 55,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1669398720,
-    "sourceUrl": "https://www.spigotmc.org/resources/better-smp.105137/history"
-  }
+  "downloadUrl": "resources/better-smp.105137/download?version=476455",
+  "numberOfDownloads": 55,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1669398720,
+  "sourceUrl": "https://www.spigotmc.org/resources/better-smp.105137/history"
 }

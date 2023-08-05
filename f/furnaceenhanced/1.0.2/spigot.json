@@ -1,12 +1,9 @@
 {
   "name": "1.0.2",
-  "version": {
-    "name": "1.0.2",
-    "downloadUrl": "resources/furnaceenhanced-1-17-1-1-19.103489/download?version=482558",
-    "numberOfDownloads": 52,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1674006540,
-    "sourceUrl": "https://www.spigotmc.org/resources/103489/history/"
-  }
+  "downloadUrl": "resources/furnaceenhanced-1-17-1-1-19.103489/download?version=482558",
+  "numberOfDownloads": 52,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1674006540,
+  "sourceUrl": "https://www.spigotmc.org/resources/103489/history/"
 }

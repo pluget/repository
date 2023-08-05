@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/anti-message-reports.102863/download?version=457798",
-    "numberOfDownloads": 160,
-    "rating": 3.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1656059220,
-    "sourceUrl": "https://www.spigotmc.org/resources/anti-message-reports.102863/history"
-  }
+  "downloadUrl": "resources/anti-message-reports.102863/download?version=457798",
+  "numberOfDownloads": 160,
+  "rating": 3.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1656059220,
+  "sourceUrl": "https://www.spigotmc.org/resources/anti-message-reports.102863/history"
 }

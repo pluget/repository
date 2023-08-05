@@ -1,12 +1,9 @@
 {
-  "name": "6.0.0-0-R2-Beta-9.3",
-  "version": {
-    "name": "-B 6.0.0.0 R2 Beta 9.3",
-    "downloadUrl": "resources/ships.2072/download?version=372944",
-    "numberOfDownloads": 88,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1608461340,
-    "sourceUrl": "https://www.spigotmc.org/resources/ships.2072/history"
-  }
+  "name": "-B 6.0.0.0 R2 Beta 9.3",
+  "downloadUrl": "resources/ships.2072/download?version=372944",
+  "numberOfDownloads": 88,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1608461340,
+  "sourceUrl": "https://www.spigotmc.org/resources/ships.2072/history"
 }

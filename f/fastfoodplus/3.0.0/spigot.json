@@ -1,12 +1,9 @@
 {
   "name": "3.0.0",
-  "version": {
-    "name": "3.0.0",
-    "downloadUrl": "resources/fastfoodplus.51172/download?version=205095",
-    "numberOfDownloads": 133,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1516952340,
-    "sourceUrl": "https://www.spigotmc.org/resources/fastfoodplus.51172/history"
-  }
+  "downloadUrl": "resources/fastfoodplus.51172/download?version=205095",
+  "numberOfDownloads": 133,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1516952340,
+  "sourceUrl": "https://www.spigotmc.org/resources/fastfoodplus.51172/history"
 }

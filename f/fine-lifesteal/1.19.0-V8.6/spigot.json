@@ -1,12 +1,9 @@
 {
-  "name": "1.19.0-V8.6",
-  "version": {
-    "name": "1.19-V8.6",
-    "downloadUrl": "resources/fine-lifesteal-1-18-1-19-2.102599/download?version=465711",
-    "numberOfDownloads": 823,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660564080,
-    "sourceUrl": "https://www.spigotmc.org/resources/fine-lifesteal-1-18-1-19-2.102599/history"
-  }
+  "name": "1.19-V8.6",
+  "downloadUrl": "resources/fine-lifesteal-1-18-1-19-2.102599/download?version=465711",
+  "numberOfDownloads": 823,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660564080,
+  "sourceUrl": "https://www.spigotmc.org/resources/fine-lifesteal-1-18-1-19-2.102599/history"
 }

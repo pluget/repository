@@ -1,12 +1,9 @@
 {
-  "name": "1.7.0",
-  "version": {
-    "name": "v1.7",
-    "downloadUrl": "resources/fancycrafting-1-8-1-19.87300/download?version=395773",
-    "numberOfDownloads": 212,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1619339400,
-    "sourceUrl": "https://www.spigotmc.org/resources/fancycrafting-1-8-1-19.87300/history"
-  }
+  "name": "v1.7",
+  "downloadUrl": "resources/fancycrafting-1-8-1-19.87300/download?version=395773",
+  "numberOfDownloads": 212,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1619339400,
+  "sourceUrl": "https://www.spigotmc.org/resources/fancycrafting-1-8-1-19.87300/history"
 }

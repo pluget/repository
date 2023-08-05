@@ -1,12 +1,9 @@
 {
   "name": "3.1.2",
-  "version": {
-    "name": "3.1.2",
-    "downloadUrl": "resources/deluxertp.86407/download?version=472001",
-    "numberOfDownloads": 192,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1665338340,
-    "sourceUrl": "https://www.spigotmc.org/resources/deluxertp.86407/history"
-  }
+  "downloadUrl": "resources/deluxertp.86407/download?version=472001",
+  "numberOfDownloads": 192,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1665338340,
+  "sourceUrl": "https://www.spigotmc.org/resources/deluxertp.86407/history"
 }

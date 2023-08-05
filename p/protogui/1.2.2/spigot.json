@@ -1,12 +1,9 @@
 {
   "name": "1.2.2",
-  "version": {
-    "name": "1.2.2",
-    "downloadUrl": "resources/protogui.92209/download?version=399319",
-    "numberOfDownloads": 41,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1621360440,
-    "sourceUrl": "https://www.spigotmc.org/resources/protogui.92209/history"
-  }
+  "downloadUrl": "resources/protogui.92209/download?version=399319",
+  "numberOfDownloads": 41,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1621360440,
+  "sourceUrl": "https://www.spigotmc.org/resources/protogui.92209/history"
 }

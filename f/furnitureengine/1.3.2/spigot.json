@@ -1,12 +1,9 @@
 {
   "name": "1.3.2",
-  "version": {
-    "name": "1.3.2",
-    "downloadUrl": "resources/furnitureengine-1-16-1-19.97134/download?version=425468",
-    "numberOfDownloads": 149,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1635867600,
-    "sourceUrl": "https://www.spigotmc.org/resources/furnitureengine-1-16-1-19.97134/history"
-  }
+  "downloadUrl": "resources/furnitureengine-1-16-1-19.97134/download?version=425468",
+  "numberOfDownloads": 149,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1635867600,
+  "sourceUrl": "https://www.spigotmc.org/resources/furnitureengine-1-16-1-19.97134/history"
 }

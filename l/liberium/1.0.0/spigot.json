@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/liberium.87566/download?version=387266",
-    "numberOfDownloads": 36,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1615136100,
-    "sourceUrl": "https://www.spigotmc.org/resources/liberium.87566/history"
-  }
+  "downloadUrl": "resources/liberium.87566/download?version=387266",
+  "numberOfDownloads": 36,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1615136100,
+  "sourceUrl": "https://www.spigotmc.org/resources/liberium.87566/history"
 }

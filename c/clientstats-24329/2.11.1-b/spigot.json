@@ -1,12 +1,9 @@
 {
-  "name": "2.11.1-b",
-  "version": {
-    "name": "2.11.1b",
-    "downloadUrl": "resources/clientstats-bukkit-spigot.24329/download?version=366534",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1605112200,
-    "sourceUrl": "https://www.spigotmc.org/resources/clientstats-bukkit-spigot.24329/history"
-  }
+  "name": "2.11.1b",
+  "downloadUrl": "resources/clientstats-bukkit-spigot.24329/download?version=366534",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1605112200,
+  "sourceUrl": "https://www.spigotmc.org/resources/clientstats-bukkit-spigot.24329/history"
 }

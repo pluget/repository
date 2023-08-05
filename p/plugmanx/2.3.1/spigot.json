@@ -1,12 +1,9 @@
 {
   "name": "2.3.1",
-  "version": {
-    "name": "2.3.1",
-    "downloadUrl": "resources/plugmanx.88135/download?version=484010",
-    "numberOfDownloads": 9,
-    "rating": 6,
-    "numberOfVotes": 2,
-    "releaseDate": 1674997500,
-    "sourceUrl": "https://www.spigotmc.org/resources/plugmanx.88135/history"
-  }
+  "downloadUrl": "resources/plugmanx.88135/download?version=484010",
+  "numberOfDownloads": 9,
+  "rating": 6,
+  "numberOfVotes": 2,
+  "releaseDate": 1674997500,
+  "sourceUrl": "https://www.spigotmc.org/resources/plugmanx.88135/history"
 }

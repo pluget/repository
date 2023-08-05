@@ -1,12 +1,9 @@
 {
   "name": "1.6.7",
-  "version": {
-    "name": "1.6.7",
-    "downloadUrl": "resources/colorednames.4914/download?version=456812",
-    "numberOfDownloads": 3,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655483100,
-    "sourceUrl": "https://www.spigotmc.org/resources/colorednames.4914/history"
-  }
+  "downloadUrl": "resources/colorednames.4914/download?version=456812",
+  "numberOfDownloads": 3,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655483100,
+  "sourceUrl": "https://www.spigotmc.org/resources/colorednames.4914/history"
 }

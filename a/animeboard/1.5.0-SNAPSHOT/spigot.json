@@ -1,12 +1,9 @@
 {
-  "name": "1.5.0-SNAPSHOT",
-  "version": {
-    "name": "1.5 SNAPSHOT",
-    "downloadUrl": "resources/animeboard.87050/download?version=380321",
-    "numberOfDownloads": 46,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1611905760,
-    "sourceUrl": "https://www.spigotmc.org/resources/87050/history/"
-  }
+  "name": "1.5 SNAPSHOT",
+  "downloadUrl": "resources/animeboard.87050/download?version=380321",
+  "numberOfDownloads": 46,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1611905760,
+  "sourceUrl": "https://www.spigotmc.org/resources/87050/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.9.3",
-  "version": {
-    "name": "1.9.3",
-    "downloadUrl": "resources/advanced-armor-stands.38513/download?version=227972",
-    "numberOfDownloads": 2,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1530386520,
-    "sourceUrl": "https://www.spigotmc.org/resources/38513/history/"
-  }
+  "downloadUrl": "resources/advanced-armor-stands.38513/download?version=227972",
+  "numberOfDownloads": 2,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1530386520,
+  "sourceUrl": "https://www.spigotmc.org/resources/38513/history/"
 }

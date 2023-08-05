@@ -1,12 +1,9 @@
 {
   "name": "1.2.8",
-  "version": {
-    "name": "1.2.8",
-    "downloadUrl": "resources/adriansr-core-the-adriansr-plugins-api.64289/download?version=301495",
-    "numberOfDownloads": 169,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1573834680,
-    "sourceUrl": "https://www.spigotmc.org/resources/adriansr-core-the-adriansr-plugins-api.64289/history"
-  }
+  "downloadUrl": "resources/adriansr-core-the-adriansr-plugins-api.64289/download?version=301495",
+  "numberOfDownloads": 169,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1573834680,
+  "sourceUrl": "https://www.spigotmc.org/resources/adriansr-core-the-adriansr-plugins-api.64289/history"
 }

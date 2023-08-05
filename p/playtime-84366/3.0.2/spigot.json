@@ -1,12 +1,9 @@
 {
   "name": "3.0.2",
-  "version": {
-    "name": "3.0.2",
-    "downloadUrl": "resources/playtime.84366/download?version=451023",
-    "numberOfDownloads": 513,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1651535820,
-    "sourceUrl": "https://www.spigotmc.org/resources/playtime.84366/history"
-  }
+  "downloadUrl": "resources/playtime.84366/download?version=451023",
+  "numberOfDownloads": 513,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1651535820,
+  "sourceUrl": "https://www.spigotmc.org/resources/playtime.84366/history"
 }

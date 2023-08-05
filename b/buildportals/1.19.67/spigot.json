@@ -1,12 +1,9 @@
 {
   "name": "1.19.67",
-  "version": {
-    "name": "1.19.67",
-    "downloadUrl": "resources/buildportals.21922/download?version=286360",
-    "numberOfDownloads": 292,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1564371720,
-    "sourceUrl": "https://www.spigotmc.org/resources/21922/history/"
-  }
+  "downloadUrl": "resources/buildportals.21922/download?version=286360",
+  "numberOfDownloads": 292,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1564371720,
+  "sourceUrl": "https://www.spigotmc.org/resources/21922/history/"
 }

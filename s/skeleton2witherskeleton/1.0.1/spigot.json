@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/skeleton2witherskeleton.101524/download?version=450102",
-    "numberOfDownloads": 26,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1650816240,
-    "sourceUrl": "https://www.spigotmc.org/resources/skeleton2witherskeleton.101524/history"
-  }
+  "downloadUrl": "resources/skeleton2witherskeleton.101524/download?version=450102",
+  "numberOfDownloads": 26,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1650816240,
+  "sourceUrl": "https://www.spigotmc.org/resources/skeleton2witherskeleton.101524/history"
 }

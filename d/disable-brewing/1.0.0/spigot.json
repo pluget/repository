@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/disable-brewing.100916/download?version=446321",
-    "numberOfDownloads": 40,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1648094160,
-    "sourceUrl": "https://www.spigotmc.org/resources/disable-brewing.100916/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/disable-brewing.100916/download?version=446321",
+  "numberOfDownloads": 40,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1648094160,
+  "sourceUrl": "https://www.spigotmc.org/resources/disable-brewing.100916/history"
 }

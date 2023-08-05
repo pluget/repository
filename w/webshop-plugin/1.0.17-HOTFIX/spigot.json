@@ -1,12 +1,9 @@
 {
   "name": "1.0.17-HOTFIX",
-  "version": {
-    "name": "1.0.17-HOTFIX",
-    "downloadUrl": "resources/leaderos-net-webshop-plugin.105496/download?version=486846",
-    "numberOfDownloads": 83,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1677063300,
-    "sourceUrl": "https://www.spigotmc.org/resources/105496/history/"
-  }
+  "downloadUrl": "resources/leaderos-net-webshop-plugin.105496/download?version=486846",
+  "numberOfDownloads": 83,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1677063300,
+  "sourceUrl": "https://www.spigotmc.org/resources/105496/history/"
 }

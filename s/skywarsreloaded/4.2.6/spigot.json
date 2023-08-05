@@ -1,12 +1,9 @@
 {
   "name": "4.2.6",
-  "version": {
-    "name": "4.2.6",
-    "downloadUrl": "resources/skywarsreloaded-updated-recoded-1-19-support-new-features-1-8x-1-19x.69436/download?version=301525",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1573849320,
-    "sourceUrl": "https://www.spigotmc.org/resources/69436/history/"
-  }
+  "downloadUrl": "resources/skywarsreloaded-updated-recoded-1-19-support-new-features-1-8x-1-19x.69436/download?version=301525",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1573849320,
+  "sourceUrl": "https://www.spigotmc.org/resources/69436/history/"
 }

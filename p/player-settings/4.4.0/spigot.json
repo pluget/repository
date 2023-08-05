@@ -1,12 +1,9 @@
 {
-  "name": "4.4.0",
-  "version": {
-    "name": "4.4",
-    "downloadUrl": "resources/player-settings.14622/download?version=127300",
-    "numberOfDownloads": 115,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1480540200,
-    "sourceUrl": "https://www.spigotmc.org/resources/player-settings.14622/history"
-  }
+  "name": "4.4",
+  "downloadUrl": "resources/player-settings.14622/download?version=127300",
+  "numberOfDownloads": 115,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1480540200,
+  "sourceUrl": "https://www.spigotmc.org/resources/player-settings.14622/history"
 }

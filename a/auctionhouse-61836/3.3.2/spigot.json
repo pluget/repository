@@ -1,12 +1,9 @@
 {
   "name": "3.3.2",
-  "version": {
-    "name": "3.3.2",
-    "downloadUrl": "resources/auctionhouse.61836/download?version=477680",
-    "numberOfDownloads": 33,
-    "rating": 4.7777777777778,
-    "numberOfVotes": 18,
-    "releaseDate": 1670565720,
-    "sourceUrl": "https://www.spigotmc.org/resources/61836/history/"
-  }
+  "downloadUrl": "resources/auctionhouse.61836/download?version=477680",
+  "numberOfDownloads": 33,
+  "rating": 4.7777777777778,
+  "numberOfVotes": 18,
+  "releaseDate": 1670565720,
+  "sourceUrl": "https://www.spigotmc.org/resources/61836/history/"
 }

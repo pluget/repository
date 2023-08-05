@@ -1,12 +1,9 @@
 {
   "name": "1.18.0",
-  "version": {
-    "name": "1.18.0",
-    "downloadUrl": "resources/bentobox-bskyblock-acidisland-skygrid-caveblock-aoneblock-boxed.73261/download?version=426261",
-    "numberOfDownloads": 1,
-    "rating": 8,
-    "numberOfVotes": 2,
-    "releaseDate": 1636473120,
-    "sourceUrl": "https://www.spigotmc.org/resources/bentobox-bskyblock-acidisland-skygrid-caveblock-aoneblock-boxed.73261/history"
-  }
+  "downloadUrl": "resources/bentobox-bskyblock-acidisland-skygrid-caveblock-aoneblock-boxed.73261/download?version=426261",
+  "numberOfDownloads": 1,
+  "rating": 8,
+  "numberOfVotes": 2,
+  "releaseDate": 1636473120,
+  "sourceUrl": "https://www.spigotmc.org/resources/bentobox-bskyblock-acidisland-skygrid-caveblock-aoneblock-boxed.73261/history"
 }

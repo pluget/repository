@@ -1,12 +1,9 @@
 {
   "name": "3.2.2",
-  "version": {
-    "name": "3.2.2",
-    "downloadUrl": "resources/minetracker.93999/download?version=448419",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1649619000,
-    "sourceUrl": "https://www.spigotmc.org/resources/minetracker.93999/history"
-  }
+  "downloadUrl": "resources/minetracker.93999/download?version=448419",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1649619000,
+  "sourceUrl": "https://www.spigotmc.org/resources/minetracker.93999/history"
 }

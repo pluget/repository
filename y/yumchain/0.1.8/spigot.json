@@ -1,12 +1,9 @@
 {
   "name": "0.1.8",
-  "version": {
-    "name": "0.1.8",
-    "downloadUrl": "resources/yumchain.107050/download?version=484219",
-    "numberOfDownloads": 14,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1675135080,
-    "sourceUrl": "https://www.spigotmc.org/resources/107050/history/"
-  }
+  "downloadUrl": "resources/yumchain.107050/download?version=484219",
+  "numberOfDownloads": 14,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1675135080,
+  "sourceUrl": "https://www.spigotmc.org/resources/107050/history/"
 }

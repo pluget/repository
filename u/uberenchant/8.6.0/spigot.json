@@ -1,12 +1,9 @@
 {
-  "name": "8.6.0",
-  "version": {
-    "name": "8.6",
-    "downloadUrl": "resources/uberenchant.19448/download?version=292308",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1567453620,
-    "sourceUrl": "https://www.spigotmc.org/resources/19448/history/"
-  }
+  "name": "8.6",
+  "downloadUrl": "resources/uberenchant.19448/download?version=292308",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1567453620,
+  "sourceUrl": "https://www.spigotmc.org/resources/19448/history/"
 }

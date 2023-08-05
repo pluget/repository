@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-SNAPSHOT",
-  "version": {
-    "name": "1.0-SNAPSHOT",
-    "downloadUrl": "resources/aurora-ab-discontinued-project.100915/download?version=446311",
-    "numberOfDownloads": 40,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1648078500,
-    "sourceUrl": "https://www.spigotmc.org/resources/aurora-ab-discontinued-project.100915/history"
-  }
+  "name": "1.0-SNAPSHOT",
+  "downloadUrl": "resources/aurora-ab-discontinued-project.100915/download?version=446311",
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1648078500,
+  "sourceUrl": "https://www.spigotmc.org/resources/aurora-ab-discontinued-project.100915/history"
 }

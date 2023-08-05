@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-_beta-1",
-  "version": {
-    "name": "1.0.0_beta-1",
-    "downloadUrl": "resources/movecraft-repair.89812/download?version=480115",
-    "numberOfDownloads": 112,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672272720,
-    "sourceUrl": "https://www.spigotmc.org/resources/movecraft-repair.89812/history"
-  }
+  "name": "1.0.0_beta-1",
+  "downloadUrl": "resources/movecraft-repair.89812/download?version=480115",
+  "numberOfDownloads": 112,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672272720,
+  "sourceUrl": "https://www.spigotmc.org/resources/movecraft-repair.89812/history"
 }

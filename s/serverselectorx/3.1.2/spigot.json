@@ -1,12 +1,9 @@
 {
   "name": "3.1.2",
-  "version": {
-    "name": "3.1.2",
-    "downloadUrl": "resources/serverselectorx-free.32853/download?version=170284",
-    "numberOfDownloads": 383,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1499430480,
-    "sourceUrl": "https://www.spigotmc.org/resources/serverselectorx-free.32853/history"
-  }
+  "downloadUrl": "resources/serverselectorx-free.32853/download?version=170284",
+  "numberOfDownloads": 383,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1499430480,
+  "sourceUrl": "https://www.spigotmc.org/resources/serverselectorx-free.32853/history"
 }

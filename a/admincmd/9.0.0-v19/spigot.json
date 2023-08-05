@@ -1,12 +1,9 @@
 {
-  "name": "9.0.0-v19",
-  "version": {
-    "name": "9.0.0v19",
-    "downloadUrl": "resources/admincmd.75678/download?version=316688",
-    "numberOfDownloads": 707,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1583180640,
-    "sourceUrl": "https://www.spigotmc.org/resources/admincmd.75678/history"
-  }
+  "name": "9.0.0v19",
+  "downloadUrl": "resources/admincmd.75678/download?version=316688",
+  "numberOfDownloads": 707,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1583180640,
+  "sourceUrl": "https://www.spigotmc.org/resources/admincmd.75678/history"
 }

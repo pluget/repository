@@ -1,12 +1,9 @@
 {
-  "name": "1.6.0",
-  "version": {
-    "name": "1.6",
-    "downloadUrl": "resources/blockcommands-1-7-1-18.14693/download?version=196391",
-    "numberOfDownloads": 138,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1512146160,
-    "sourceUrl": "https://www.spigotmc.org/resources/blockcommands-1-7-1-18.14693/history"
-  }
+  "name": "1.6",
+  "downloadUrl": "resources/blockcommands-1-7-1-18.14693/download?version=196391",
+  "numberOfDownloads": 138,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1512146160,
+  "sourceUrl": "https://www.spigotmc.org/resources/blockcommands-1-7-1-18.14693/history"
 }

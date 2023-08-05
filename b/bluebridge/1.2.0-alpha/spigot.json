@@ -1,12 +1,9 @@
 {
-  "name": "1.2.0-alpha",
-  "version": {
-    "name": "v1.2-alpha",
-    "downloadUrl": "resources/bluebridge.82954/download?version=398860",
-    "numberOfDownloads": 29,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1621089240,
-    "sourceUrl": "https://www.spigotmc.org/resources/82954/history/"
-  }
+  "name": "v1.2-alpha",
+  "downloadUrl": "resources/bluebridge.82954/download?version=398860",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1621089240,
+  "sourceUrl": "https://www.spigotmc.org/resources/82954/history/"
 }

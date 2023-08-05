@@ -1,12 +1,9 @@
 {
   "name": "2.11.1",
-  "version": {
-    "name": "2.11.1",
-    "downloadUrl": "resources/minetopiafarms.57385/download?version=367030",
-    "numberOfDownloads": 1,
-    "rating": 8.2857142857142,
-    "numberOfVotes": 7,
-    "releaseDate": 1605350760,
-    "sourceUrl": "https://www.spigotmc.org/resources/minetopiafarms.57385/history"
-  }
+  "downloadUrl": "resources/minetopiafarms.57385/download?version=367030",
+  "numberOfDownloads": 1,
+  "rating": 8.2857142857142,
+  "numberOfVotes": 7,
+  "releaseDate": 1605350760,
+  "sourceUrl": "https://www.spigotmc.org/resources/minetopiafarms.57385/history"
 }

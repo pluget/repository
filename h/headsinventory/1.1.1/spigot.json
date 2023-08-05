@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/headsinventory-1-17-1-19.30167/download?version=117802",
-    "numberOfDownloads": 544,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1475858100,
-    "sourceUrl": "https://www.spigotmc.org/resources/headsinventory-1-17-1-19.30167/history"
-  }
+  "downloadUrl": "resources/headsinventory-1-17-1-19.30167/download?version=117802",
+  "numberOfDownloads": 544,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1475858100,
+  "sourceUrl": "https://www.spigotmc.org/resources/headsinventory-1-17-1-19.30167/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.2.2",
-  "version": {
-    "name": "2.2.2",
-    "downloadUrl": "resources/bed-fixer.94879/download?version=416182",
-    "numberOfDownloads": 102,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1629645000,
-    "sourceUrl": "https://www.spigotmc.org/resources/bed-fixer.94879/history"
-  }
+  "downloadUrl": "resources/bed-fixer.94879/download?version=416182",
+  "numberOfDownloads": 102,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1629645000,
+  "sourceUrl": "https://www.spigotmc.org/resources/bed-fixer.94879/history"
 }

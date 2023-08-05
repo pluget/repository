@@ -1,12 +1,9 @@
 {
   "name": "2.6.16",
-  "version": {
-    "name": "2.6.16",
-    "downloadUrl": "resources/npcdestinations-animations-addon.33238/download?version=475571",
-    "numberOfDownloads": 127,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1668627960,
-    "sourceUrl": "https://www.spigotmc.org/resources/npcdestinations-animations-addon.33238/history"
-  }
+  "downloadUrl": "resources/npcdestinations-animations-addon.33238/download?version=475571",
+  "numberOfDownloads": 127,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1668627960,
+  "sourceUrl": "https://www.spigotmc.org/resources/npcdestinations-animations-addon.33238/history"
 }

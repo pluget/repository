@@ -1,12 +1,9 @@
 {
   "name": "4.1.1",
-  "version": {
-    "name": "4.1.1",
-    "downloadUrl": "resources/tweakin-1-17-1-19.93444/download?version=460291",
-    "numberOfDownloads": 232,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1657541700,
-    "sourceUrl": "https://www.spigotmc.org/resources/tweakin-1-17-1-19.93444/history"
-  }
+  "downloadUrl": "resources/tweakin-1-17-1-19.93444/download?version=460291",
+  "numberOfDownloads": 232,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1657541700,
+  "sourceUrl": "https://www.spigotmc.org/resources/tweakin-1-17-1-19.93444/history"
 }

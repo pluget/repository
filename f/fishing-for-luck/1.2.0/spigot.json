@@ -1,12 +1,9 @@
 {
-  "name": "1.2.0",
-  "version": {
-    "name": "v1.2",
-    "downloadUrl": "resources/fishing-for-luck.97178/download?version=425350",
-    "numberOfDownloads": 31,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1635782340,
-    "sourceUrl": "https://www.spigotmc.org/resources/fishing-for-luck.97178/history"
-  }
+  "name": "v1.2",
+  "downloadUrl": "resources/fishing-for-luck.97178/download?version=425350",
+  "numberOfDownloads": 31,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1635782340,
+  "sourceUrl": "https://www.spigotmc.org/resources/fishing-for-luck.97178/history"
 }

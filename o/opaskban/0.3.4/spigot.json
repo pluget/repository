@@ -1,12 +1,9 @@
 {
   "name": "0.3.4",
-  "version": {
-    "name": "0.3.4",
-    "downloadUrl": "resources/opaskban.96976/download?version=424851",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1635468840,
-    "sourceUrl": "https://www.spigotmc.org/resources/96976/history/"
-  }
+  "downloadUrl": "resources/opaskban.96976/download?version=424851",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1635468840,
+  "sourceUrl": "https://www.spigotmc.org/resources/96976/history/"
 }

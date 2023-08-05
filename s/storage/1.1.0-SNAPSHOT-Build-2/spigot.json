@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0-SNAPSHOT-Build-2",
-  "version": {
-    "name": "1.1-SNAPSHOT Build 2",
-    "downloadUrl": "resources/storage.100516/download?version=443952",
-    "numberOfDownloads": 32,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646563140,
-    "sourceUrl": "https://www.spigotmc.org/resources/storage.100516/history"
-  }
+  "name": "1.1-SNAPSHOT Build 2",
+  "downloadUrl": "resources/storage.100516/download?version=443952",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646563140,
+  "sourceUrl": "https://www.spigotmc.org/resources/storage.100516/history"
 }

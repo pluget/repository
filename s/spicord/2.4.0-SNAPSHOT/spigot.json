@@ -1,12 +1,9 @@
 {
   "name": "2.4.0-SNAPSHOT",
-  "version": {
-    "name": "2.4.0-SNAPSHOT",
-    "downloadUrl": "resources/spicord.64918/download?version=299461",
-    "numberOfDownloads": 195,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1572257400,
-    "sourceUrl": "https://www.spigotmc.org/resources/64918/history/"
-  }
+  "downloadUrl": "resources/spicord.64918/download?version=299461",
+  "numberOfDownloads": 195,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1572257400,
+  "sourceUrl": "https://www.spigotmc.org/resources/64918/history/"
 }

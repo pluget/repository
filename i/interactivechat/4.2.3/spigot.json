@@ -1,12 +1,9 @@
 {
   "name": "4.2.3",
-  "version": {
-    "name": "4.2.3",
-    "downloadUrl": "resources/interactivechat-show-items-inventory-in-chat-custom-chat-keywords-bungee-velocity-support.75870/download?version=470132",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1663765200,
-    "sourceUrl": "https://www.spigotmc.org/resources/75870/history/"
-  }
+  "downloadUrl": "resources/interactivechat-show-items-inventory-in-chat-custom-chat-keywords-bungee-velocity-support.75870/download?version=470132",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1663765200,
+  "sourceUrl": "https://www.spigotmc.org/resources/75870/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0",
-  "version": {
-    "name": "1.1",
-    "downloadUrl": "resources/oxygen-system.104610/download?version=465972",
-    "numberOfDownloads": 26,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1660704780,
-    "sourceUrl": "https://www.spigotmc.org/resources/104610/history/"
-  }
+  "name": "1.1",
+  "downloadUrl": "resources/oxygen-system.104610/download?version=465972",
+  "numberOfDownloads": 26,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1660704780,
+  "sourceUrl": "https://www.spigotmc.org/resources/104610/history/"
 }

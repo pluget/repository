@@ -1,12 +1,9 @@
 {
-  "name": "1.9.0",
-  "version": {
-    "name": "1.9",
-    "downloadUrl": "resources/znpcs.80940/download?version=367366",
-    "numberOfDownloads": 1,
-    "rating": 6.6666666666666,
-    "numberOfVotes": 6,
-    "releaseDate": 1605527940,
-    "sourceUrl": "https://www.spigotmc.org/resources/znpcs.80940/history"
-  }
+  "name": "1.9",
+  "downloadUrl": "resources/znpcs.80940/download?version=367366",
+  "numberOfDownloads": 1,
+  "rating": 6.6666666666666,
+  "numberOfVotes": 6,
+  "releaseDate": 1605527940,
+  "sourceUrl": "https://www.spigotmc.org/resources/znpcs.80940/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/redport.101194/download?version=455192",
-    "numberOfDownloads": 11,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1654690080,
-    "sourceUrl": "https://www.spigotmc.org/resources/redport.101194/history"
-  }
+  "downloadUrl": "resources/redport.101194/download?version=455192",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1654690080,
+  "sourceUrl": "https://www.spigotmc.org/resources/redport.101194/history"
 }

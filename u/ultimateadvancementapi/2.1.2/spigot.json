@@ -1,12 +1,9 @@
 {
   "name": "2.1.2",
-  "version": {
-    "name": "2.1.2",
-    "downloadUrl": "resources/ultimateadvancementapi-1-15-1-19-4.95585/download?version=444602",
-    "numberOfDownloads": 112,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646935320,
-    "sourceUrl": "https://www.spigotmc.org/resources/95585/history/"
-  }
+  "downloadUrl": "resources/ultimateadvancementapi-1-15-1-19-4.95585/download?version=444602",
+  "numberOfDownloads": 112,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646935320,
+  "sourceUrl": "https://www.spigotmc.org/resources/95585/history/"
 }

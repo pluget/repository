@@ -1,12 +1,9 @@
 {
   "name": "1.6.5",
-  "version": {
-    "name": "1.6.5",
-    "downloadUrl": "resources/skrayfall.10012/download?version=40300",
-    "numberOfDownloads": 107,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1439950080,
-    "sourceUrl": "https://www.spigotmc.org/resources/10012/history/"
-  }
+  "downloadUrl": "resources/skrayfall.10012/download?version=40300",
+  "numberOfDownloads": 107,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1439950080,
+  "sourceUrl": "https://www.spigotmc.org/resources/10012/history/"
 }

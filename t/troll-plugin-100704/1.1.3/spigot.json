@@ -1,12 +1,9 @@
 {
   "name": "1.1.3",
-  "version": {
-    "name": "1.1.3",
-    "downloadUrl": "resources/troll-plugin.100704/download?version=445265",
-    "numberOfDownloads": 26,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1647351180,
-    "sourceUrl": "https://www.spigotmc.org/resources/100704/history/"
-  }
+  "downloadUrl": "resources/troll-plugin.100704/download?version=445265",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1647351180,
+  "sourceUrl": "https://www.spigotmc.org/resources/100704/history/"
 }

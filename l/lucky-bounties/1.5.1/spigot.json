@@ -1,12 +1,9 @@
 {
   "name": "1.5.1",
-  "version": {
-    "name": "1.5.1",
-    "downloadUrl": "resources/lucky-bounties.94149/download?version=434530",
-    "numberOfDownloads": 175,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1641069600,
-    "sourceUrl": "https://www.spigotmc.org/resources/lucky-bounties.94149/history"
-  }
+  "downloadUrl": "resources/lucky-bounties.94149/download?version=434530",
+  "numberOfDownloads": 175,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1641069600,
+  "sourceUrl": "https://www.spigotmc.org/resources/lucky-bounties.94149/history"
 }

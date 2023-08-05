@@ -1,12 +1,9 @@
 {
   "name": "1.4.1",
-  "version": {
-    "name": "1.4.1",
-    "downloadUrl": "resources/mmoitems-xbow2-rocket-launcher.82374/download?version=369872",
-    "numberOfDownloads": 38,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1606765560,
-    "sourceUrl": "https://www.spigotmc.org/resources/mmoitems-xbow2-rocket-launcher.82374/history"
-  }
+  "downloadUrl": "resources/mmoitems-xbow2-rocket-launcher.82374/download?version=369872",
+  "numberOfDownloads": 38,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1606765560,
+  "sourceUrl": "https://www.spigotmc.org/resources/mmoitems-xbow2-rocket-launcher.82374/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "13.0.1",
-  "version": {
-    "name": "13.0.1",
-    "downloadUrl": "resources/chestsort-api.59773/download?version=443149",
-    "numberOfDownloads": 1,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646096580,
-    "sourceUrl": "https://www.spigotmc.org/resources/59773/history/"
-  }
+  "downloadUrl": "resources/chestsort-api.59773/download?version=443149",
+  "numberOfDownloads": 1,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646096580,
+  "sourceUrl": "https://www.spigotmc.org/resources/59773/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.1-BETA",
-  "version": {
-    "name": "1.0.1-BETA",
-    "downloadUrl": "resources/bungeeauth.100549/download?version=444226",
-    "numberOfDownloads": 108,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646683260,
-    "sourceUrl": "https://www.spigotmc.org/resources/bungeeauth.100549/history"
-  }
+  "downloadUrl": "resources/bungeeauth.100549/download?version=444226",
+  "numberOfDownloads": 108,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646683260,
+  "sourceUrl": "https://www.spigotmc.org/resources/bungeeauth.100549/history"
 }

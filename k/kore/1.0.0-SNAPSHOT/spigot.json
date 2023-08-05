@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-SNAPSHOT",
-  "version": {
-    "name": "1.0-SNAPSHOT",
-    "downloadUrl": "resources/kore-1-8-x-1-19-x.107023/download?version=480101",
-    "numberOfDownloads": 29,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672262940,
-    "sourceUrl": "https://www.spigotmc.org/resources/kore-1-8-x-1-19-x.107023/history"
-  }
+  "name": "1.0-SNAPSHOT",
+  "downloadUrl": "resources/kore-1-8-x-1-19-x.107023/download?version=480101",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672262940,
+  "sourceUrl": "https://www.spigotmc.org/resources/kore-1-8-x-1-19-x.107023/history"
 }

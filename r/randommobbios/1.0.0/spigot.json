@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/randommobbios.102897/download?version=458006",
-    "numberOfDownloads": 7,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1656170580,
-    "sourceUrl": "https://www.spigotmc.org/resources/randommobbios.102897/history"
-  }
+  "downloadUrl": "resources/randommobbios.102897/download?version=458006",
+  "numberOfDownloads": 7,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1656170580,
+  "sourceUrl": "https://www.spigotmc.org/resources/randommobbios.102897/history"
 }

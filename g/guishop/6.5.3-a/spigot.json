@@ -1,12 +1,9 @@
 {
-  "name": "6.5.3-a",
-  "version": {
-    "name": "6.5.3a",
-    "downloadUrl": "resources/guishop.2451/download?version=229668",
-    "numberOfDownloads": 7,
-    "rating": 5.6,
-    "numberOfVotes": 10,
-    "releaseDate": 1531442400,
-    "sourceUrl": "https://www.spigotmc.org/resources/guishop.2451/history"
-  }
+  "name": "6.5.3a",
+  "downloadUrl": "resources/guishop.2451/download?version=229668",
+  "numberOfDownloads": 7,
+  "rating": 5.6,
+  "numberOfVotes": 10,
+  "releaseDate": 1531442400,
+  "sourceUrl": "https://www.spigotmc.org/resources/guishop.2451/history"
 }

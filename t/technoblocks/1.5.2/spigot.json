@@ -1,12 +1,9 @@
 {
   "name": "1.5.2",
-  "version": {
-    "name": "1.5.2",
-    "downloadUrl": "resources/technoblocks.102526/download?version=457241",
-    "numberOfDownloads": 80,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1655728560,
-    "sourceUrl": "https://www.spigotmc.org/resources/technoblocks.102526/history"
-  }
+  "downloadUrl": "resources/technoblocks.102526/download?version=457241",
+  "numberOfDownloads": 80,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1655728560,
+  "sourceUrl": "https://www.spigotmc.org/resources/technoblocks.102526/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "5.5.0-build-2144",
-  "version": {
-    "name": "5.5 build 2144",
-    "downloadUrl": "resources/plan-player-analytics.32536/download?version=479012",
-    "numberOfDownloads": 600,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1671554820,
-    "sourceUrl": "https://www.spigotmc.org/resources/plan-player-analytics.32536/history"
-  }
+  "name": "5.5 build 2144",
+  "downloadUrl": "resources/plan-player-analytics.32536/download?version=479012",
+  "numberOfDownloads": 600,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1671554820,
+  "sourceUrl": "https://www.spigotmc.org/resources/plan-player-analytics.32536/history"
 }

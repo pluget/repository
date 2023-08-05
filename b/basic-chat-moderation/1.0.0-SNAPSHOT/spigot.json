@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-SNAPSHOT",
-  "version": {
-    "name": "1.0-SNAPSHOT",
-    "downloadUrl": "resources/basic-chat-moderation.104769/download?version=466756",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1661250000,
-    "sourceUrl": "https://www.spigotmc.org/resources/basic-chat-moderation.104769/history"
-  }
+  "name": "1.0-SNAPSHOT",
+  "downloadUrl": "resources/basic-chat-moderation.104769/download?version=466756",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1661250000,
+  "sourceUrl": "https://www.spigotmc.org/resources/basic-chat-moderation.104769/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/koth.105722/download?version=472062",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1665411720,
-    "sourceUrl": "https://www.spigotmc.org/resources/koth.105722/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/koth.105722/download?version=472062",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1665411720,
+  "sourceUrl": "https://www.spigotmc.org/resources/koth.105722/history"
 }

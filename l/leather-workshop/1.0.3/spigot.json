@@ -1,12 +1,9 @@
 {
   "name": "1.0.3",
-  "version": {
-    "name": "1.0.3",
-    "downloadUrl": "resources/leather-workshop.101986/download?version=452220",
-    "numberOfDownloads": 210,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1652538180,
-    "sourceUrl": "https://www.spigotmc.org/resources/leather-workshop.101986/history"
-  }
+  "downloadUrl": "resources/leather-workshop.101986/download?version=452220",
+  "numberOfDownloads": 210,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1652538180,
+  "sourceUrl": "https://www.spigotmc.org/resources/leather-workshop.101986/history"
 }

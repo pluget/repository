@@ -1,12 +1,9 @@
 {
   "name": "1.3.1",
-  "version": {
-    "name": "1.3.1",
-    "downloadUrl": "resources/spawner-collectors-no-spawner-lag-mysql.85852/download?version=370544",
-    "numberOfDownloads": 84,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1607160840,
-    "sourceUrl": "https://www.spigotmc.org/resources/spawner-collectors-no-spawner-lag-mysql.85852/history"
-  }
+  "downloadUrl": "resources/spawner-collectors-no-spawner-lag-mysql.85852/download?version=370544",
+  "numberOfDownloads": 84,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1607160840,
+  "sourceUrl": "https://www.spigotmc.org/resources/spawner-collectors-no-spawner-lag-mysql.85852/history"
 }

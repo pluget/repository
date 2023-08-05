@@ -1,12 +1,9 @@
 {
-  "name": "1.13.0",
-  "version": {
-    "name": "1.13",
-    "downloadUrl": "resources/inventory-weight-1-12-0-1-18-2.70929/download?version=303895",
-    "numberOfDownloads": 100,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1575689280,
-    "sourceUrl": "https://www.spigotmc.org/resources/inventory-weight-1-12-0-1-18-2.70929/history"
-  }
+  "name": "1.13",
+  "downloadUrl": "resources/inventory-weight-1-12-0-1-18-2.70929/download?version=303895",
+  "numberOfDownloads": 100,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1575689280,
+  "sourceUrl": "https://www.spigotmc.org/resources/inventory-weight-1-12-0-1-18-2.70929/history"
 }

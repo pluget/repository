@@ -1,12 +1,9 @@
 {
   "name": "1.3.3",
-  "version": {
-    "name": "1.3.3",
-    "downloadUrl": "resources/controlplayer-1-8-8-1-19.102987/download?version=459175",
-    "numberOfDownloads": 89,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1656883980,
-    "sourceUrl": "https://www.spigotmc.org/resources/controlplayer-1-8-8-1-19.102987/history"
-  }
+  "downloadUrl": "resources/controlplayer-1-8-8-1-19.102987/download?version=459175",
+  "numberOfDownloads": 89,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1656883980,
+  "sourceUrl": "https://www.spigotmc.org/resources/controlplayer-1-8-8-1-19.102987/history"
 }

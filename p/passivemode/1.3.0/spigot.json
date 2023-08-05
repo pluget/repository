@@ -1,12 +1,9 @@
 {
   "name": "1.3.0",
-  "version": {
-    "name": "1.3.0",
-    "downloadUrl": "resources/passivemode.82829/download?version=369155",
-    "numberOfDownloads": 223,
-    "rating": 8.6666666666666,
-    "numberOfVotes": 3,
-    "releaseDate": 1606418040,
-    "sourceUrl": "https://www.spigotmc.org/resources/passivemode.82829/history"
-  }
+  "downloadUrl": "resources/passivemode.82829/download?version=369155",
+  "numberOfDownloads": 223,
+  "rating": 8.6666666666666,
+  "numberOfVotes": 3,
+  "releaseDate": 1606418040,
+  "sourceUrl": "https://www.spigotmc.org/resources/passivemode.82829/history"
 }

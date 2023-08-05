@@ -1,12 +1,9 @@
 {
-  "name": "3.5.0-pre.2",
-  "version": {
-    "name": "3.5",
-    "downloadUrl": "resources/kingdomcraft-starter.11937/download?version=128422",
-    "numberOfDownloads": 453,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1481035980,
-    "sourceUrl": "https://www.spigotmc.org/resources/11937/history/"
-  }
+  "name": "3.5",
+  "downloadUrl": "resources/kingdomcraft-starter.11937/download?version=128422",
+  "numberOfDownloads": 453,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1481035980,
+  "sourceUrl": "https://www.spigotmc.org/resources/11937/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.0.0",
-  "version": {
-    "name": "2.0.0",
-    "downloadUrl": "resources/warps.32549/download?version=398204",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1620695760,
-    "sourceUrl": "https://www.spigotmc.org/resources/warps.32549/history"
-  }
+  "downloadUrl": "resources/warps.32549/download?version=398204",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1620695760,
+  "sourceUrl": "https://www.spigotmc.org/resources/warps.32549/history"
 }

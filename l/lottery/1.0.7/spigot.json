@@ -1,12 +1,9 @@
 {
   "name": "1.0.7",
-  "version": {
-    "name": "1.0.7",
-    "downloadUrl": "resources/lottery.22137/download?version=172650",
-    "numberOfDownloads": 170,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1500384540,
-    "sourceUrl": "https://www.spigotmc.org/resources/22137/history/"
-  }
+  "downloadUrl": "resources/lottery.22137/download?version=172650",
+  "numberOfDownloads": 170,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1500384540,
+  "sourceUrl": "https://www.spigotmc.org/resources/22137/history/"
 }

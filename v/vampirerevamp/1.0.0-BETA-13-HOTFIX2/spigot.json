@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-BETA-13-HOTFIX2",
-  "version": {
-    "name": "1.0.BETA-13-HOTFIX2",
-    "downloadUrl": "resources/vampirerevamp.75479/download?version=432863",
-    "numberOfDownloads": 420,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1640181420,
-    "sourceUrl": "https://www.spigotmc.org/resources/vampirerevamp.75479/history"
-  }
+  "name": "1.0.BETA-13-HOTFIX2",
+  "downloadUrl": "resources/vampirerevamp.75479/download?version=432863",
+  "numberOfDownloads": 420,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1640181420,
+  "sourceUrl": "https://www.spigotmc.org/resources/vampirerevamp.75479/history"
 }

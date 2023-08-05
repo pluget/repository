@@ -1,12 +1,9 @@
 {
   "name": "0.0.1-Beta",
-  "version": {
-    "name": "0.0.1-Beta",
-    "downloadUrl": "resources/staffcore-bungee-1-8-1-18.93533/download?version=404934",
-    "numberOfDownloads": 81,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1624369080,
-    "sourceUrl": "https://www.spigotmc.org/resources/staffcore-bungee-1-8-1-18.93533/history"
-  }
+  "downloadUrl": "resources/staffcore-bungee-1-8-1-18.93533/download?version=404934",
+  "numberOfDownloads": 81,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1624369080,
+  "sourceUrl": "https://www.spigotmc.org/resources/staffcore-bungee-1-8-1-18.93533/history"
 }

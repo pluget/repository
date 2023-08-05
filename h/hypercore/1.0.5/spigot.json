@@ -1,12 +1,9 @@
 {
   "name": "1.0.5",
-  "version": {
-    "name": "1.0.5",
-    "downloadUrl": "resources/sternal-hypercore-very-necessary.96652/download?version=427472",
-    "numberOfDownloads": 24,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1637346780,
-    "sourceUrl": "https://www.spigotmc.org/resources/sternal-hypercore-very-necessary.96652/history"
-  }
+  "downloadUrl": "resources/sternal-hypercore-very-necessary.96652/download?version=427472",
+  "numberOfDownloads": 24,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1637346780,
+  "sourceUrl": "https://www.spigotmc.org/resources/sternal-hypercore-very-necessary.96652/history"
 }

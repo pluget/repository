@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/cavas-anti-cheat.102867/download?version=461634",
-    "numberOfDownloads": 480,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1658388540,
-    "sourceUrl": "https://www.spigotmc.org/resources/cavas-anti-cheat.102867/history"
-  }
+  "downloadUrl": "resources/cavas-anti-cheat.102867/download?version=461634",
+  "numberOfDownloads": 480,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1658388540,
+  "sourceUrl": "https://www.spigotmc.org/resources/cavas-anti-cheat.102867/history"
 }

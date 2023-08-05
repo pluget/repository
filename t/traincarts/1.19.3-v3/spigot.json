@@ -1,12 +1,9 @@
 {
   "name": "1.19.3-v3",
-  "version": {
-    "name": "1.19.3-v3",
-    "downloadUrl": "resources/traincarts.39592/download?version=489127",
-    "numberOfDownloads": 778,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1678821780,
-    "sourceUrl": "https://www.spigotmc.org/resources/39592/history/"
-  }
+  "downloadUrl": "resources/traincarts.39592/download?version=489127",
+  "numberOfDownloads": 778,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1678821780,
+  "sourceUrl": "https://www.spigotmc.org/resources/39592/history/"
 }

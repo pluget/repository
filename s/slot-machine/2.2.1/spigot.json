@@ -1,12 +1,9 @@
 {
   "name": "2.2.1",
-  "version": {
-    "name": "2.2.1",
-    "downloadUrl": "resources/slot-machine.22023/download?version=86203",
-    "numberOfDownloads": 196,
-    "rating": 6,
-    "numberOfVotes": 1,
-    "releaseDate": 1462022400,
-    "sourceUrl": "https://www.spigotmc.org/resources/slot-machine.22023/history"
-  }
+  "downloadUrl": "resources/slot-machine.22023/download?version=86203",
+  "numberOfDownloads": 196,
+  "rating": 6,
+  "numberOfVotes": 1,
+  "releaseDate": 1462022400,
+  "sourceUrl": "https://www.spigotmc.org/resources/slot-machine.22023/history"
 }

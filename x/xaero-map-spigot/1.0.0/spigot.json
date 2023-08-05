@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/xaero-map-spigot.105695/download?version=471905",
-    "numberOfDownloads": 897,
-    "rating": 8,
-    "numberOfVotes": 4,
-    "releaseDate": 1665268560,
-    "sourceUrl": "https://www.spigotmc.org/resources/105695/history/"
-  }
+  "downloadUrl": "resources/xaero-map-spigot.105695/download?version=471905",
+  "numberOfDownloads": 897,
+  "rating": 8,
+  "numberOfVotes": 4,
+  "releaseDate": 1665268560,
+  "sourceUrl": "https://www.spigotmc.org/resources/105695/history/"
 }

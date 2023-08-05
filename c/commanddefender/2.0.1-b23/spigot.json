@@ -1,12 +1,9 @@
 {
   "name": "2.0.1-b23",
-  "version": {
-    "name": "2.0.1-b23",
-    "downloadUrl": "resources/commanddefender.84167/download?version=384769",
-    "numberOfDownloads": 159,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1613880120,
-    "sourceUrl": "https://www.spigotmc.org/resources/commanddefender.84167/history"
-  }
+  "downloadUrl": "resources/commanddefender.84167/download?version=384769",
+  "numberOfDownloads": 159,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1613880120,
+  "sourceUrl": "https://www.spigotmc.org/resources/commanddefender.84167/history"
 }

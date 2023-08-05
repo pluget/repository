@@ -1,12 +1,9 @@
 {
-  "name": "2.1.0-rc6",
-  "version": {
-    "name": "2.1-rc6",
-    "downloadUrl": "resources/auctionhouse-retro.69278/download?version=348332",
-    "numberOfDownloads": 430,
-    "rating": 4,
-    "numberOfVotes": 1,
-    "releaseDate": 1596396060,
-    "sourceUrl": "https://www.spigotmc.org/resources/auctionhouse-retro.69278/history"
-  }
+  "name": "2.1-rc6",
+  "downloadUrl": "resources/auctionhouse-retro.69278/download?version=348332",
+  "numberOfDownloads": 430,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releaseDate": 1596396060,
+  "sourceUrl": "https://www.spigotmc.org/resources/auctionhouse-retro.69278/history"
 }

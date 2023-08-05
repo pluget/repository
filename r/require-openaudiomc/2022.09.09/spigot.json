@@ -1,12 +1,9 @@
 {
-  "name": "2022.09.09",
-  "version": {
-    "name": "2022-09-09",
-    "downloadUrl": "resources/require-openaudiomc.105168/download?version=468926",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1662750360,
-    "sourceUrl": "https://www.spigotmc.org/resources/105168/history/"
-  }
+  "name": "2022-09-09",
+  "downloadUrl": "resources/require-openaudiomc.105168/download?version=468926",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1662750360,
+  "sourceUrl": "https://www.spigotmc.org/resources/105168/history/"
 }

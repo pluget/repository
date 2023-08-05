@@ -1,12 +1,9 @@
 {
   "name": "4.0.4",
-  "version": {
-    "name": "4.0.4",
-    "downloadUrl": "resources/building-game.10547/download?version=146583",
-    "numberOfDownloads": 314,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1488709020,
-    "sourceUrl": "https://www.spigotmc.org/resources/10547/history/"
-  }
+  "downloadUrl": "resources/building-game.10547/download?version=146583",
+  "numberOfDownloads": 314,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1488709020,
+  "sourceUrl": "https://www.spigotmc.org/resources/10547/history/"
 }

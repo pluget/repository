@@ -1,12 +1,9 @@
 {
-  "name": "3.7.3-BETA",
-  "version": {
-    "name": "v3.7.3-BETA",
-    "downloadUrl": "resources/chatfeelings.12987/download?version=245542",
-    "numberOfDownloads": 1,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1540340760,
-    "sourceUrl": "https://www.spigotmc.org/resources/chatfeelings.12987/history"
-  }
+  "name": "v3.7.3-BETA",
+  "downloadUrl": "resources/chatfeelings.12987/download?version=245542",
+  "numberOfDownloads": 1,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1540340760,
+  "sourceUrl": "https://www.spigotmc.org/resources/chatfeelings.12987/history"
 }

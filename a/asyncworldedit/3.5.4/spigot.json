@@ -1,12 +1,9 @@
 {
   "name": "3.5.4",
-  "version": {
-    "name": "3.5.4",
-    "downloadUrl": "resources/asyncworldedit.327/download?version=226145",
-    "numberOfDownloads": 28,
-    "rating": 8,
-    "numberOfVotes": 8,
-    "releaseDate": 1529183820,
-    "sourceUrl": "https://www.spigotmc.org/resources/asyncworldedit.327/history"
-  }
+  "downloadUrl": "resources/asyncworldedit.327/download?version=226145",
+  "numberOfDownloads": 28,
+  "rating": 8,
+  "numberOfVotes": 8,
+  "releaseDate": 1529183820,
+  "sourceUrl": "https://www.spigotmc.org/resources/asyncworldedit.327/history"
 }

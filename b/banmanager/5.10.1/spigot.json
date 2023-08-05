@@ -1,12 +1,9 @@
 {
-  "name": "5.10.1",
-  "version": {
-    "name": "v5.10.1",
-    "downloadUrl": "resources/banmanager.21927/download?version=99004",
-    "numberOfDownloads": 170,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1466847540,
-    "sourceUrl": "https://www.spigotmc.org/resources/banmanager.21927/history"
-  }
+  "name": "v5.10.1",
+  "downloadUrl": "resources/banmanager.21927/download?version=99004",
+  "numberOfDownloads": 170,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1466847540,
+  "sourceUrl": "https://www.spigotmc.org/resources/banmanager.21927/history"
 }

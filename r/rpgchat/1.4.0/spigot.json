@@ -1,12 +1,9 @@
 {
   "name": "1.4.0",
-  "version": {
-    "name": "1.4.0",
-    "downloadUrl": "resources/rpgchat-1-8-1-19-x.87571/download?version=403947",
-    "numberOfDownloads": 235,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1623917340,
-    "sourceUrl": "https://www.spigotmc.org/resources/87571/history/"
-  }
+  "downloadUrl": "resources/rpgchat-1-8-1-19-x.87571/download?version=403947",
+  "numberOfDownloads": 235,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1623917340,
+  "sourceUrl": "https://www.spigotmc.org/resources/87571/history/"
 }

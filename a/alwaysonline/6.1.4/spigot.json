@@ -1,12 +1,9 @@
 {
   "name": "6.1.4",
-  "version": {
-    "name": "6.1.4",
-    "downloadUrl": "resources/alwaysonline.66591/download?version=405446",
-    "numberOfDownloads": 35,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1624585680,
-    "sourceUrl": "https://www.spigotmc.org/resources/alwaysonline.66591/history"
-  }
+  "downloadUrl": "resources/alwaysonline.66591/download?version=405446",
+  "numberOfDownloads": 35,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1624585680,
+  "sourceUrl": "https://www.spigotmc.org/resources/alwaysonline.66591/history"
 }

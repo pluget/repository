@@ -1,12 +1,9 @@
 {
   "name": "1.1.7",
-  "version": {
-    "name": "1.1.7",
-    "downloadUrl": "resources/customoregen.9532/download?version=123371",
-    "numberOfDownloads": 1,
-    "rating": 6,
-    "numberOfVotes": 3,
-    "releaseDate": 1478802840,
-    "sourceUrl": "https://www.spigotmc.org/resources/customoregen.9532/history"
-  }
+  "downloadUrl": "resources/customoregen.9532/download?version=123371",
+  "numberOfDownloads": 1,
+  "rating": 6,
+  "numberOfVotes": 3,
+  "releaseDate": 1478802840,
+  "sourceUrl": "https://www.spigotmc.org/resources/customoregen.9532/history"
 }

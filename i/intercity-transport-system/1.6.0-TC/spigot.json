@@ -1,12 +1,9 @@
 {
-  "name": "1.6.0-TC",
-  "version": {
-    "name": "1.6-TC",
-    "downloadUrl": "resources/intercity-transport-system.83531/download?version=465397",
-    "numberOfDownloads": 19,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660383960,
-    "sourceUrl": "https://www.spigotmc.org/resources/intercity-transport-system.83531/history"
-  }
+  "name": "1.6-TC",
+  "downloadUrl": "resources/intercity-transport-system.83531/download?version=465397",
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660383960,
+  "sourceUrl": "https://www.spigotmc.org/resources/intercity-transport-system.83531/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "9.7.2",
-  "version": {
-    "name": "9.7.2",
-    "downloadUrl": "resources/angelchest-free.60383/download?version=471016",
-    "numberOfDownloads": 2,
-    "rating": 6,
-    "numberOfVotes": 1,
-    "releaseDate": 1664618040,
-    "sourceUrl": "https://www.spigotmc.org/resources/angelchest-free.60383/history"
-  }
+  "downloadUrl": "resources/angelchest-free.60383/download?version=471016",
+  "numberOfDownloads": 2,
+  "rating": 6,
+  "numberOfVotes": 1,
+  "releaseDate": 1664618040,
+  "sourceUrl": "https://www.spigotmc.org/resources/angelchest-free.60383/history"
 }

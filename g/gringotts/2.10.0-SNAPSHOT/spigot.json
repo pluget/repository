@@ -1,12 +1,9 @@
 {
-  "name": "2.10.0-SNAPSHOT",
-  "version": {
-    "name": "2.10-SNAPSHOT",
-    "downloadUrl": "resources/gringotts.42071/download?version=167232",
-    "numberOfDownloads": 852,
-    "rating": 8.3333333333334,
-    "numberOfVotes": 6,
-    "releaseDate": 1498150440,
-    "sourceUrl": "https://www.spigotmc.org/resources/42071/history/"
-  }
+  "name": "2.10-SNAPSHOT",
+  "downloadUrl": "resources/gringotts.42071/download?version=167232",
+  "numberOfDownloads": 852,
+  "rating": 8.3333333333334,
+  "numberOfVotes": 6,
+  "releaseDate": 1498150440,
+  "sourceUrl": "https://www.spigotmc.org/resources/42071/history/"
 }

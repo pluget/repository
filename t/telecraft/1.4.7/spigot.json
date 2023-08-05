@@ -1,12 +1,9 @@
 {
   "name": "1.4.7",
-  "version": {
-    "name": "1.4.7",
-    "downloadUrl": "resources/telecraft.75751/download?version=340369",
-    "numberOfDownloads": 59,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1593357840,
-    "sourceUrl": "https://www.spigotmc.org/resources/75751/history/"
-  }
+  "downloadUrl": "resources/telecraft.75751/download?version=340369",
+  "numberOfDownloads": 59,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1593357840,
+  "sourceUrl": "https://www.spigotmc.org/resources/75751/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.0.0",
-  "version": {
-    "name": "2.0.0",
-    "downloadUrl": "resources/packetinjectorapi-1-8-1-19-2-manage-packets-easily.57931/download?version=355910",
-    "numberOfDownloads": 440,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1599601800,
-    "sourceUrl": "https://www.spigotmc.org/resources/packetinjectorapi-1-8-1-19-2-manage-packets-easily.57931/history"
-  }
+  "downloadUrl": "resources/packetinjectorapi-1-8-1-19-2-manage-packets-easily.57931/download?version=355910",
+  "numberOfDownloads": 440,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1599601800,
+  "sourceUrl": "https://www.spigotmc.org/resources/packetinjectorapi-1-8-1-19-2-manage-packets-easily.57931/history"
 }

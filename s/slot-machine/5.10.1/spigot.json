@@ -1,12 +1,9 @@
 {
   "name": "5.10.1",
-  "version": {
-    "name": "5.10.1",
-    "downloadUrl": "resources/slot-machine.22023/download?version=240393",
-    "numberOfDownloads": 88,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1537072260,
-    "sourceUrl": "https://www.spigotmc.org/resources/slot-machine.22023/history"
-  }
+  "downloadUrl": "resources/slot-machine.22023/download?version=240393",
+  "numberOfDownloads": 88,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1537072260,
+  "sourceUrl": "https://www.spigotmc.org/resources/slot-machine.22023/history"
 }

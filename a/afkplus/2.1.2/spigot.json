@@ -1,12 +1,9 @@
 {
   "name": "2.1.2",
-  "version": {
-    "name": "2.1.2",
-    "downloadUrl": "resources/afk.35065/download?version=235960",
-    "numberOfDownloads": 286,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1534653420,
-    "sourceUrl": "https://www.spigotmc.org/resources/35065/history/"
-  }
+  "downloadUrl": "resources/afk.35065/download?version=235960",
+  "numberOfDownloads": 286,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1534653420,
+  "sourceUrl": "https://www.spigotmc.org/resources/35065/history/"
 }

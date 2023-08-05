@@ -1,12 +1,9 @@
 {
   "name": "2.6.5-BETA",
-  "version": {
-    "name": "2.6.5-BETA",
-    "downloadUrl": "resources/saberfactions-1-8-1-19-x-discord-gg-saber-the-complete-factions-solution.69771/download?version=386335",
-    "numberOfDownloads": 2,
-    "rating": 7.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1614686520,
-    "sourceUrl": "https://www.spigotmc.org/resources/saberfactions-1-8-1-19-x-discord-gg-saber-the-complete-factions-solution.69771/history"
-  }
+  "downloadUrl": "resources/saberfactions-1-8-1-19-x-discord-gg-saber-the-complete-factions-solution.69771/download?version=386335",
+  "numberOfDownloads": 2,
+  "rating": 7.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1614686520,
+  "sourceUrl": "https://www.spigotmc.org/resources/saberfactions-1-8-1-19-x-discord-gg-saber-the-complete-factions-solution.69771/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.4.0",
-  "version": {
-    "name": "v1.4",
-    "downloadUrl": "resources/dans-essentials.80513/download?version=369580",
-    "numberOfDownloads": 111,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1606623780,
-    "sourceUrl": "https://www.spigotmc.org/resources/dans-essentials.80513/history"
-  }
+  "name": "v1.4",
+  "downloadUrl": "resources/dans-essentials.80513/download?version=369580",
+  "numberOfDownloads": 111,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1606623780,
+  "sourceUrl": "https://www.spigotmc.org/resources/dans-essentials.80513/history"
 }

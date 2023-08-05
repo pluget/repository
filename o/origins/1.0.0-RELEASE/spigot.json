@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-RELEASE",
-  "version": {
-    "name": "Build 1-RELEASE",
-    "downloadUrl": "resources/origins-bukkit-1-17-1-19-2.97926/download?version=429548",
-    "numberOfDownloads": 202,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1638536760,
-    "sourceUrl": "https://www.spigotmc.org/resources/origins-bukkit-1-17-1-19-2.97926/history"
-  }
+  "name": "Build 1-RELEASE",
+  "downloadUrl": "resources/origins-bukkit-1-17-1-19-2.97926/download?version=429548",
+  "numberOfDownloads": 202,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1638536760,
+  "sourceUrl": "https://www.spigotmc.org/resources/origins-bukkit-1-17-1-19-2.97926/history"
 }

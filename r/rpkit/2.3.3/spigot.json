@@ -1,12 +1,9 @@
 {
   "name": "2.3.3",
-  "version": {
-    "name": "2.3.3",
-    "downloadUrl": "resources/rpkit.70739/download?version=473819",
-    "numberOfDownloads": 55,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1667124840,
-    "sourceUrl": "https://www.spigotmc.org/resources/rpkit.70739/history"
-  }
+  "downloadUrl": "resources/rpkit.70739/download?version=473819",
+  "numberOfDownloads": 55,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1667124840,
+  "sourceUrl": "https://www.spigotmc.org/resources/rpkit.70739/history"
 }

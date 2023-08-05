@@ -1,12 +1,9 @@
 {
   "name": "1.5.2",
-  "version": {
-    "name": "1.5.2",
-    "downloadUrl": "resources/view-distance-tweaks-1-14-1-19.75164/download?version=464293",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1659777420,
-    "sourceUrl": "https://www.spigotmc.org/resources/view-distance-tweaks-1-14-1-19.75164/history"
-  }
+  "downloadUrl": "resources/view-distance-tweaks-1-14-1-19.75164/download?version=464293",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1659777420,
+  "sourceUrl": "https://www.spigotmc.org/resources/view-distance-tweaks-1-14-1-19.75164/history"
 }

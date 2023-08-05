@@ -1,12 +1,9 @@
 {
   "name": "1.2.4",
-  "version": {
-    "name": "1.2.4",
-    "downloadUrl": "resources/syncedweather.97574/download?version=432077",
-    "numberOfDownloads": 43,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1639792800,
-    "sourceUrl": "https://www.spigotmc.org/resources/syncedweather.97574/history"
-  }
+  "downloadUrl": "resources/syncedweather.97574/download?version=432077",
+  "numberOfDownloads": 43,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1639792800,
+  "sourceUrl": "https://www.spigotmc.org/resources/syncedweather.97574/history"
 }

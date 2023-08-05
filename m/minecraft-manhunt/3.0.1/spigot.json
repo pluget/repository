@@ -1,12 +1,9 @@
 {
   "name": "3.0.1",
-  "version": {
-    "name": "3.0.1",
-    "downloadUrl": "resources/minecraft-manhunt.97765/download?version=484395",
-    "numberOfDownloads": 24,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1675258380,
-    "sourceUrl": "https://www.spigotmc.org/resources/minecraft-manhunt.97765/history"
-  }
+  "downloadUrl": "resources/minecraft-manhunt.97765/download?version=484395",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1675258380,
+  "sourceUrl": "https://www.spigotmc.org/resources/minecraft-manhunt.97765/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/oneslot.104618/download?version=466002",
-    "numberOfDownloads": 9,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660733640,
-    "sourceUrl": "https://www.spigotmc.org/resources/104618/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/oneslot.104618/download?version=466002",
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660733640,
+  "sourceUrl": "https://www.spigotmc.org/resources/104618/history/"
 }

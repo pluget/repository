@@ -1,12 +1,9 @@
 {
   "name": "0.8.2-stable",
-  "version": {
-    "name": "0.8.2-stable",
-    "downloadUrl": "resources/voidwhitelist.101992/download?version=464706",
-    "numberOfDownloads": 207,
-    "rating": 7.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1659963780,
-    "sourceUrl": "https://www.spigotmc.org/resources/voidwhitelist.101992/history"
-  }
+  "downloadUrl": "resources/voidwhitelist.101992/download?version=464706",
+  "numberOfDownloads": 207,
+  "rating": 7.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1659963780,
+  "sourceUrl": "https://www.spigotmc.org/resources/voidwhitelist.101992/history"
 }

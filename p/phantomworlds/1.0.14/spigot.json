@@ -1,12 +1,9 @@
 {
   "name": "1.0.14",
-  "version": {
-    "name": "1.0.14",
-    "downloadUrl": "resources/phantomworlds.84099/download?version=359046",
-    "numberOfDownloads": 80,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1601165520,
-    "sourceUrl": "https://www.spigotmc.org/resources/phantomworlds.84099/history"
-  }
+  "downloadUrl": "resources/phantomworlds.84099/download?version=359046",
+  "numberOfDownloads": 80,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1601165520,
+  "sourceUrl": "https://www.spigotmc.org/resources/phantomworlds.84099/history"
 }

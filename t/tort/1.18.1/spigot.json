@@ -1,12 +1,9 @@
 {
   "name": "1.18.1",
-  "version": {
-    "name": "1.18.1",
-    "downloadUrl": "resources/tort.99256/download?version=436896",
-    "numberOfDownloads": 22,
-    "rating": 2,
-    "numberOfVotes": 1,
-    "releaseDate": 1642327560,
-    "sourceUrl": "https://www.spigotmc.org/resources/99256/history/"
-  }
+  "downloadUrl": "resources/tort.99256/download?version=436896",
+  "numberOfDownloads": 22,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releaseDate": 1642327560,
+  "sourceUrl": "https://www.spigotmc.org/resources/99256/history/"
 }

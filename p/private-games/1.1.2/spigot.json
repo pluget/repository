@@ -1,12 +1,9 @@
 {
   "name": "1.1.2",
-  "version": {
-    "name": "1.1.2",
-    "downloadUrl": "resources/private-games-addon.101706/download?version=451076",
-    "numberOfDownloads": 32,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1651595400,
-    "sourceUrl": "https://www.spigotmc.org/resources/101706/history/"
-  }
+  "downloadUrl": "resources/private-games-addon.101706/download?version=451076",
+  "numberOfDownloads": 32,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1651595400,
+  "sourceUrl": "https://www.spigotmc.org/resources/101706/history/"
 }

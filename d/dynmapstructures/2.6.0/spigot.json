@@ -1,12 +1,9 @@
 {
   "name": "2.6.0",
-  "version": {
-    "name": "2.6.0",
-    "downloadUrl": "resources/dynmap-structures.39534/download?version=457787",
-    "numberOfDownloads": 442,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1656041160,
-    "sourceUrl": "https://www.spigotmc.org/resources/dynmap-structures.39534/history"
-  }
+  "downloadUrl": "resources/dynmap-structures.39534/download?version=457787",
+  "numberOfDownloads": 442,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1656041160,
+  "sourceUrl": "https://www.spigotmc.org/resources/dynmap-structures.39534/history"
 }

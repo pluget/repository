@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/libertybans.81063/download?version=434920",
-    "numberOfDownloads": 309,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1641259200,
-    "sourceUrl": "https://www.spigotmc.org/resources/libertybans.81063/history"
-  }
+  "downloadUrl": "resources/libertybans.81063/download?version=434920",
+  "numberOfDownloads": 309,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1641259200,
+  "sourceUrl": "https://www.spigotmc.org/resources/libertybans.81063/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.4.10",
-  "version": {
-    "name": "1.4.10",
-    "downloadUrl": "resources/smp-spectator-mode-1-19-support.77267/download?version=394433",
-    "numberOfDownloads": 162,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1618624800,
-    "sourceUrl": "https://www.spigotmc.org/resources/77267/history/"
-  }
+  "downloadUrl": "resources/smp-spectator-mode-1-19-support.77267/download?version=394433",
+  "numberOfDownloads": 162,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1618624800,
+  "sourceUrl": "https://www.spigotmc.org/resources/77267/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.6.3",
-  "version": {
-    "name": "2.6.3",
-    "downloadUrl": "resources/npcdestinations-create-living-npcs.13863/download?version=412320",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1627716060,
-    "sourceUrl": "https://www.spigotmc.org/resources/13863/history/"
-  }
+  "downloadUrl": "resources/npcdestinations-create-living-npcs.13863/download?version=412320",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1627716060,
+  "sourceUrl": "https://www.spigotmc.org/resources/13863/history/"
 }

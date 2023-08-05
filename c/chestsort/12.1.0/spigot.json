@@ -1,12 +1,9 @@
 {
   "name": "12.1.0",
-  "version": {
-    "name": "12.1.0",
-    "downloadUrl": "resources/chestsort-api.59773/download?version=428608",
-    "numberOfDownloads": 2,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1638103680,
-    "sourceUrl": "https://www.spigotmc.org/resources/59773/history/"
-  }
+  "downloadUrl": "resources/chestsort-api.59773/download?version=428608",
+  "numberOfDownloads": 2,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1638103680,
+  "sourceUrl": "https://www.spigotmc.org/resources/59773/history/"
 }

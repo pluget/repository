@@ -1,12 +1,9 @@
 {
   "name": "1.6.1",
-  "version": {
-    "name": "1.6.1",
-    "downloadUrl": "resources/simple-sit-spigot-bukkit-1-8-8-through-1-19.14706/download?version=164955",
-    "numberOfDownloads": 1,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1497210180,
-    "sourceUrl": "https://www.spigotmc.org/resources/simple-sit-spigot-bukkit-1-8-8-through-1-19.14706/history"
-  }
+  "downloadUrl": "resources/simple-sit-spigot-bukkit-1-8-8-through-1-19.14706/download?version=164955",
+  "numberOfDownloads": 1,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1497210180,
+  "sourceUrl": "https://www.spigotmc.org/resources/simple-sit-spigot-bukkit-1-8-8-through-1-19.14706/history"
 }

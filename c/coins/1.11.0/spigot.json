@@ -1,12 +1,9 @@
 {
-  "name": "1.11.0",
-  "version": {
-    "name": "1.11",
-    "downloadUrl": "resources/coins.33382/download?version=439270",
-    "numberOfDownloads": 353,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1643657640,
-    "sourceUrl": "https://www.spigotmc.org/resources/coins.33382/history"
-  }
+  "name": "1.11",
+  "downloadUrl": "resources/coins.33382/download?version=439270",
+  "numberOfDownloads": 353,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1643657640,
+  "sourceUrl": "https://www.spigotmc.org/resources/coins.33382/history"
 }

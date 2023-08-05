@@ -1,12 +1,9 @@
 {
   "name": "1.0.3",
-  "version": {
-    "name": "1.0.3",
-    "downloadUrl": "resources/pocket-beacon.98852/download?version=434408",
-    "numberOfDownloads": 12,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1641007560,
-    "sourceUrl": "https://www.spigotmc.org/resources/98852/history/"
-  }
+  "downloadUrl": "resources/pocket-beacon.98852/download?version=434408",
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1641007560,
+  "sourceUrl": "https://www.spigotmc.org/resources/98852/history/"
 }

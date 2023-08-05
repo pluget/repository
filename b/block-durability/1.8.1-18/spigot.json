@@ -1,12 +1,9 @@
 {
-  "name": "1.8.1-18",
-  "version": {
-    "name": "1.8-1.18",
-    "downloadUrl": "resources/block-durability.106210/download?version=475046",
-    "numberOfDownloads": 29,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1668191640,
-    "sourceUrl": "https://www.spigotmc.org/resources/block-durability.106210/history"
-  }
+  "name": "1.8-1.18",
+  "downloadUrl": "resources/block-durability.106210/download?version=475046",
+  "numberOfDownloads": 29,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1668191640,
+  "sourceUrl": "https://www.spigotmc.org/resources/block-durability.106210/history"
 }

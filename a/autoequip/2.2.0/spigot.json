@@ -1,12 +1,9 @@
 {
-  "name": "2.2.0",
-  "version": {
-    "name": "v2.2",
-    "downloadUrl": "resources/autoequip.47904/download?version=462956",
-    "numberOfDownloads": 31,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1659104580,
-    "sourceUrl": "https://www.spigotmc.org/resources/autoequip.47904/history"
-  }
+  "name": "v2.2",
+  "downloadUrl": "resources/autoequip.47904/download?version=462956",
+  "numberOfDownloads": 31,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1659104580,
+  "sourceUrl": "https://www.spigotmc.org/resources/autoequip.47904/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.4.0-unstable-released",
-  "version": {
-    "name": "v1.4.0 unstable released",
-    "downloadUrl": "resources/spigot-webserver-for-minecraft.101435/download?version=450231",
-    "numberOfDownloads": 29,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1650898860,
-    "sourceUrl": "https://www.spigotmc.org/resources/spigot-webserver-for-minecraft.101435/history"
-  }
+  "name": "v1.4.0 unstable released",
+  "downloadUrl": "resources/spigot-webserver-for-minecraft.101435/download?version=450231",
+  "numberOfDownloads": 29,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1650898860,
+  "sourceUrl": "https://www.spigotmc.org/resources/spigot-webserver-for-minecraft.101435/history"
 }

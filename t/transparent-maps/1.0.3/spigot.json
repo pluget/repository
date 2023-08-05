@@ -1,12 +1,9 @@
 {
   "name": "1.0.3",
-  "version": {
-    "name": "1.0.3",
-    "downloadUrl": "resources/transparent-maps-1-16-5-1-19-2.95492/download?version=455045",
-    "numberOfDownloads": 47,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1654631520,
-    "sourceUrl": "https://www.spigotmc.org/resources/transparent-maps-1-16-5-1-19-2.95492/history"
-  }
+  "downloadUrl": "resources/transparent-maps-1-16-5-1-19-2.95492/download?version=455045",
+  "numberOfDownloads": 47,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1654631520,
+  "sourceUrl": "https://www.spigotmc.org/resources/transparent-maps-1-16-5-1-19-2.95492/history"
 }

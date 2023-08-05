@@ -1,12 +1,9 @@
 {
-  "name": "1.17.1-v2-pre.1",
-  "version": {
-    "name": "1.17.1-v2",
-    "downloadUrl": "resources/bkcommonlib.39590/download?version=417011",
-    "numberOfDownloads": 79,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1630091220,
-    "sourceUrl": "https://www.spigotmc.org/resources/bkcommonlib.39590/history"
-  }
+  "name": "1.17.1-v2",
+  "downloadUrl": "resources/bkcommonlib.39590/download?version=417011",
+  "numberOfDownloads": 79,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1630091220,
+  "sourceUrl": "https://www.spigotmc.org/resources/bkcommonlib.39590/history"
 }

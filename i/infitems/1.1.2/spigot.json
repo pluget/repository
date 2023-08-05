@@ -1,12 +1,9 @@
 {
   "name": "1.1.2",
-  "version": {
-    "name": "1.1.2",
-    "downloadUrl": "resources/infitems.101673/download?version=450481",
-    "numberOfDownloads": 33,
-    "rating": 6,
-    "numberOfVotes": 1,
-    "releaseDate": 1651099200,
-    "sourceUrl": "https://www.spigotmc.org/resources/101673/history/"
-  }
+  "downloadUrl": "resources/infitems.101673/download?version=450481",
+  "numberOfDownloads": 33,
+  "rating": 6,
+  "numberOfVotes": 1,
+  "releaseDate": 1651099200,
+  "sourceUrl": "https://www.spigotmc.org/resources/101673/history/"
 }

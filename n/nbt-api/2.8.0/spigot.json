@@ -1,12 +1,9 @@
 {
   "name": "2.8.0",
-  "version": {
-    "name": "2.8.0",
-    "downloadUrl": "resources/nbt-api.7939/download?version=403257",
-    "numberOfDownloads": 22,
-    "rating": 9.8181818181818,
-    "numberOfVotes": 11,
-    "releaseDate": 1623614160,
-    "sourceUrl": "https://www.spigotmc.org/resources/nbt-api.7939/history"
-  }
+  "downloadUrl": "resources/nbt-api.7939/download?version=403257",
+  "numberOfDownloads": 22,
+  "rating": 9.8181818181818,
+  "numberOfVotes": 11,
+  "releaseDate": 1623614160,
+  "sourceUrl": "https://www.spigotmc.org/resources/nbt-api.7939/history"
 }

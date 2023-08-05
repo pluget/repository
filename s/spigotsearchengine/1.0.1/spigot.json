@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/spigotsearchengine.54108/download?version=211297",
-    "numberOfDownloads": 90,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1520315820,
-    "sourceUrl": "https://www.spigotmc.org/resources/spigotsearchengine.54108/history"
-  }
+  "downloadUrl": "resources/spigotsearchengine.54108/download?version=211297",
+  "numberOfDownloads": 90,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1520315820,
+  "sourceUrl": "https://www.spigotmc.org/resources/spigotsearchengine.54108/history"
 }

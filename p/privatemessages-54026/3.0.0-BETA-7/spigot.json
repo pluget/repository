@@ -1,12 +1,9 @@
 {
-  "name": "3.0.0-BETA-7",
-  "version": {
-    "name": "3.0-BETA 7",
-    "downloadUrl": "resources/privatemessages-1-7-1-19.54026/download?version=457796",
-    "numberOfDownloads": 1,
-    "rating": 8.5714285714286,
-    "numberOfVotes": 7,
-    "releaseDate": 1656056760,
-    "sourceUrl": "https://www.spigotmc.org/resources/privatemessages-1-7-1-19.54026/history"
-  }
+  "name": "3.0-BETA 7",
+  "downloadUrl": "resources/privatemessages-1-7-1-19.54026/download?version=457796",
+  "numberOfDownloads": 1,
+  "rating": 8.5714285714286,
+  "numberOfVotes": 7,
+  "releaseDate": 1656056760,
+  "sourceUrl": "https://www.spigotmc.org/resources/privatemessages-1-7-1-19.54026/history"
 }

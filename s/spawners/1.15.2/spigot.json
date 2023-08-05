@@ -1,12 +1,9 @@
 {
   "name": "1.15.2",
-  "version": {
-    "name": "1.15.2",
-    "downloadUrl": "resources/spawners-1-17-1-19-3.103803/download?version=492393",
-    "numberOfDownloads": 4,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1680882.978,
-    "sourceUrl": "https://www.spigotmc.org/resources/spawners-1-17-1-19-3.103803/history"
-  }
+  "downloadUrl": "resources/spawners-1-17-1-19-3.103803/download?version=492393",
+  "numberOfDownloads": 4,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1680882.978,
+  "sourceUrl": "https://www.spigotmc.org/resources/spawners-1-17-1-19-3.103803/history"
 }

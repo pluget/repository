@@ -1,12 +1,9 @@
 {
   "name": "5.9.3",
-  "version": {
-    "name": "5.9.3",
-    "downloadUrl": "resources/slot-machine.22023/download?version=221002",
-    "numberOfDownloads": 200,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1525913820,
-    "sourceUrl": "https://www.spigotmc.org/resources/slot-machine.22023/history"
-  }
+  "downloadUrl": "resources/slot-machine.22023/download?version=221002",
+  "numberOfDownloads": 200,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1525913820,
+  "sourceUrl": "https://www.spigotmc.org/resources/slot-machine.22023/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.4.1",
-  "version": {
-    "name": "1.4.1",
-    "downloadUrl": "resources/artifex.101858/download?version=483034",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1674345060,
-    "sourceUrl": "https://www.spigotmc.org/resources/artifex.101858/history"
-  }
+  "downloadUrl": "resources/artifex.101858/download?version=483034",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1674345060,
+  "sourceUrl": "https://www.spigotmc.org/resources/artifex.101858/history"
 }

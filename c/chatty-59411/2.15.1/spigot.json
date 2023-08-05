@@ -1,12 +1,9 @@
 {
   "name": "2.15.1",
-  "version": {
-    "name": "2.15.1",
-    "downloadUrl": "resources/chatty-lightweight-universal-bukkit-chat-system-solution-1-7-10-1-19.59411/download?version=265816",
-    "numberOfDownloads": 6,
-    "rating": 7.6,
-    "numberOfVotes": 5,
-    "releaseDate": 1553335680,
-    "sourceUrl": "https://www.spigotmc.org/resources/chatty-lightweight-universal-bukkit-chat-system-solution-1-7-10-1-19.59411/history"
-  }
+  "downloadUrl": "resources/chatty-lightweight-universal-bukkit-chat-system-solution-1-7-10-1-19.59411/download?version=265816",
+  "numberOfDownloads": 6,
+  "rating": 7.6,
+  "numberOfVotes": 5,
+  "releaseDate": 1553335680,
+  "sourceUrl": "https://www.spigotmc.org/resources/chatty-lightweight-universal-bukkit-chat-system-solution-1-7-10-1-19.59411/history"
 }

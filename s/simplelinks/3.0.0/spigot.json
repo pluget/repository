@@ -1,12 +1,9 @@
 {
   "name": "3.0.0",
-  "version": {
-    "name": "3.0.0",
-    "downloadUrl": "resources/simplelinks.90283/download?version=459685",
-    "numberOfDownloads": 48,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657185720,
-    "sourceUrl": "https://www.spigotmc.org/resources/simplelinks.90283/history"
-  }
+  "downloadUrl": "resources/simplelinks.90283/download?version=459685",
+  "numberOfDownloads": 48,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657185720,
+  "sourceUrl": "https://www.spigotmc.org/resources/simplelinks.90283/history"
 }

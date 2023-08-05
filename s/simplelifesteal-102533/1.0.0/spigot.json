@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/simplelifesteal.102533/download?version=455662",
-    "numberOfDownloads": 12,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1654910940,
-    "sourceUrl": "https://www.spigotmc.org/resources/102533/history/"
-  }
+  "downloadUrl": "resources/simplelifesteal.102533/download?version=455662",
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1654910940,
+  "sourceUrl": "https://www.spigotmc.org/resources/102533/history/"
 }

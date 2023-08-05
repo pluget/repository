@@ -1,12 +1,9 @@
 {
-  "name": "2.2.0-HOTFIX",
-  "version": {
-    "name": "2.2-HOTFIX",
-    "downloadUrl": "resources/knockbacklite-custom-knockback-plugin-1-8-1-19.108115/download?version=486707",
-    "numberOfDownloads": 116,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1676944020,
-    "sourceUrl": "https://www.spigotmc.org/resources/knockbacklite-custom-knockback-plugin-1-8-1-19.108115/history"
-  }
+  "name": "2.2-HOTFIX",
+  "downloadUrl": "resources/knockbacklite-custom-knockback-plugin-1-8-1-19.108115/download?version=486707",
+  "numberOfDownloads": 116,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1676944020,
+  "sourceUrl": "https://www.spigotmc.org/resources/knockbacklite-custom-knockback-plugin-1-8-1-19.108115/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "58.0.0",
-  "version": {
-    "name": "58",
-    "downloadUrl": "resources/lift.4704/download?version=230957",
-    "numberOfDownloads": 1,
-    "rating": 9,
-    "numberOfVotes": 4,
-    "releaseDate": 1532197320,
-    "sourceUrl": "https://www.spigotmc.org/resources/lift.4704/history"
-  }
+  "name": "58",
+  "downloadUrl": "resources/lift.4704/download?version=230957",
+  "numberOfDownloads": 1,
+  "rating": 9,
+  "numberOfVotes": 4,
+  "releaseDate": 1532197320,
+  "sourceUrl": "https://www.spigotmc.org/resources/lift.4704/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.2-SNAPSHOT",
-  "version": {
-    "name": "1.0.2-SNAPSHOT",
-    "downloadUrl": "resources/translator.108311/download?version=488556",
-    "numberOfDownloads": 29,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1678402980,
-    "sourceUrl": "https://www.spigotmc.org/resources/108311/history/"
-  }
+  "downloadUrl": "resources/translator.108311/download?version=488556",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1678402980,
+  "sourceUrl": "https://www.spigotmc.org/resources/108311/history/"
 }

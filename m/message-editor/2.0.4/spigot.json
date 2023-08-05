@@ -1,12 +1,9 @@
 {
   "name": "2.0.4",
-  "version": {
-    "name": "2.0.4",
-    "downloadUrl": "resources/message-editor.82154/download?version=374659",
-    "numberOfDownloads": 69,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1609338240,
-    "sourceUrl": "https://www.spigotmc.org/resources/message-editor.82154/history"
-  }
+  "downloadUrl": "resources/message-editor.82154/download?version=374659",
+  "numberOfDownloads": 69,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1609338240,
+  "sourceUrl": "https://www.spigotmc.org/resources/message-editor.82154/history"
 }

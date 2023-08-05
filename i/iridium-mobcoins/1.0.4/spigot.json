@@ -1,12 +1,9 @@
 {
   "name": "1.0.4",
-  "version": {
-    "name": "1.0.4",
-    "downloadUrl": "resources/iridium-mobcoins.94915/download?version=440601",
-    "numberOfDownloads": 619,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1644480120,
-    "sourceUrl": "https://www.spigotmc.org/resources/iridium-mobcoins.94915/history"
-  }
+  "downloadUrl": "resources/iridium-mobcoins.94915/download?version=440601",
+  "numberOfDownloads": 619,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1644480120,
+  "sourceUrl": "https://www.spigotmc.org/resources/iridium-mobcoins.94915/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "0.1.0-BETA",
-  "version": {
-    "name": "0.1-BETA",
-    "downloadUrl": "resources/dont-waste-world.105413/download?version=470306",
-    "numberOfDownloads": 24,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1663947900,
-    "sourceUrl": "https://www.spigotmc.org/resources/105413/history/"
-  }
+  "name": "0.1-BETA",
+  "downloadUrl": "resources/dont-waste-world.105413/download?version=470306",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1663947900,
+  "sourceUrl": "https://www.spigotmc.org/resources/105413/history/"
 }

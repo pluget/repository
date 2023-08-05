@@ -1,12 +1,9 @@
 {
   "name": "3.0.3",
-  "version": {
-    "name": "3.0.3",
-    "downloadUrl": "resources/pvptoggle.80533/download?version=435551",
-    "numberOfDownloads": 1,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1641589080,
-    "sourceUrl": "https://www.spigotmc.org/resources/pvptoggle.80533/history"
-  }
+  "downloadUrl": "resources/pvptoggle.80533/download?version=435551",
+  "numberOfDownloads": 1,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1641589080,
+  "sourceUrl": "https://www.spigotmc.org/resources/pvptoggle.80533/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/gboard-1-8-1-18.100376/download?version=443144",
-    "numberOfDownloads": 32,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646094840,
-    "sourceUrl": "https://www.spigotmc.org/resources/gboard-1-8-1-18.100376/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/gboard-1-8-1-18.100376/download?version=443144",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646094840,
+  "sourceUrl": "https://www.spigotmc.org/resources/gboard-1-8-1-18.100376/history"
 }

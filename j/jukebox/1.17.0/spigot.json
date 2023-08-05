@@ -1,12 +1,9 @@
 {
-  "name": "1.17.0",
-  "version": {
-    "name": "1.17",
-    "downloadUrl": "resources/jukebox-music-plugin.40580/download?version=323640",
-    "numberOfDownloads": 6,
-    "rating": 9.1,
-    "numberOfVotes": 20,
-    "releaseDate": 1586518320,
-    "sourceUrl": "https://www.spigotmc.org/resources/jukebox-music-plugin.40580/history"
-  }
+  "name": "1.17",
+  "downloadUrl": "resources/jukebox-music-plugin.40580/download?version=323640",
+  "numberOfDownloads": 6,
+  "rating": 9.1,
+  "numberOfVotes": 20,
+  "releaseDate": 1586518320,
+  "sourceUrl": "https://www.spigotmc.org/resources/jukebox-music-plugin.40580/history"
 }

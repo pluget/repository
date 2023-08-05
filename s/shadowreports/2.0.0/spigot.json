@@ -1,12 +1,9 @@
 {
   "name": "2.0.0",
-  "version": {
-    "name": "2.0.0",
-    "downloadUrl": "resources/shadowreports.108112/download?version=486530",
-    "numberOfDownloads": 25,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1676830440,
-    "sourceUrl": "https://www.spigotmc.org/resources/shadowreports.108112/history"
-  }
+  "downloadUrl": "resources/shadowreports.108112/download?version=486530",
+  "numberOfDownloads": 25,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1676830440,
+  "sourceUrl": "https://www.spigotmc.org/resources/shadowreports.108112/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "0.0.2",
-  "version": {
-    "name": "0.0.2",
-    "downloadUrl": "resources/better-spawners.103145/download?version=459661",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657158000,
-    "sourceUrl": "https://www.spigotmc.org/resources/better-spawners.103145/history"
-  }
+  "downloadUrl": "resources/better-spawners.103145/download?version=459661",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657158000,
+  "sourceUrl": "https://www.spigotmc.org/resources/better-spawners.103145/history"
 }

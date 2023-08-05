@@ -1,12 +1,9 @@
 {
-  "name": "2.9.3-2",
-  "version": {
-    "name": "v2.9.3.2",
-    "downloadUrl": "resources/lib1711.35982/download?version=457748",
-    "numberOfDownloads": 105,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1656013140,
-    "sourceUrl": "https://www.spigotmc.org/resources/lib1711.35982/history"
-  }
+  "name": "v2.9.3.2",
+  "downloadUrl": "resources/lib1711.35982/download?version=457748",
+  "numberOfDownloads": 105,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1656013140,
+  "sourceUrl": "https://www.spigotmc.org/resources/lib1711.35982/history"
 }

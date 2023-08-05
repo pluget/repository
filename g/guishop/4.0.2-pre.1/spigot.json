@@ -1,12 +1,9 @@
 {
-  "name": "4.0.2-pre.1",
-  "version": {
-    "name": "4.0.2",
-    "downloadUrl": "resources/guishop.2451/download?version=37617",
-    "numberOfDownloads": 2,
-    "rating": 8.2222222222222,
-    "numberOfVotes": 9,
-    "releaseDate": 1438642680,
-    "sourceUrl": "https://www.spigotmc.org/resources/guishop.2451/history"
-  }
+  "name": "4.0.2",
+  "downloadUrl": "resources/guishop.2451/download?version=37617",
+  "numberOfDownloads": 2,
+  "rating": 8.2222222222222,
+  "numberOfVotes": 9,
+  "releaseDate": 1438642680,
+  "sourceUrl": "https://www.spigotmc.org/resources/guishop.2451/history"
 }

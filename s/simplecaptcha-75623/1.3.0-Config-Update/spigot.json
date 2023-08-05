@@ -1,12 +1,9 @@
 {
-  "name": "1.3.0-Config-Update",
-  "version": {
-    "name": "1.3 Config Update",
-    "downloadUrl": "resources/simplecaptcha-%C2%BB-a-simple-capatcha.75623/download?version=350157",
-    "numberOfDownloads": 77,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1597160820,
-    "sourceUrl": "https://www.spigotmc.org/resources/75623/history/"
-  }
+  "name": "1.3 Config Update",
+  "downloadUrl": "resources/simplecaptcha-%C2%BB-a-simple-capatcha.75623/download?version=350157",
+  "numberOfDownloads": 77,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1597160820,
+  "sourceUrl": "https://www.spigotmc.org/resources/75623/history/"
 }

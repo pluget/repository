@@ -1,12 +1,9 @@
 {
   "name": "3.1.1",
-  "version": {
-    "name": "3.1.1",
-    "downloadUrl": "resources/playerpoints.80745/download?version=434832",
-    "numberOfDownloads": 3,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1641227940,
-    "sourceUrl": "https://www.spigotmc.org/resources/playerpoints.80745/history"
-  }
+  "downloadUrl": "resources/playerpoints.80745/download?version=434832",
+  "numberOfDownloads": 3,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1641227940,
+  "sourceUrl": "https://www.spigotmc.org/resources/playerpoints.80745/history"
 }

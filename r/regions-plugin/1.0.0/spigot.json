@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/regions-plugin.100316/download?version=442818",
-    "numberOfDownloads": 77,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1645897620,
-    "sourceUrl": "https://www.spigotmc.org/resources/regions-plugin.100316/history"
-  }
+  "downloadUrl": "resources/regions-plugin.100316/download?version=442818",
+  "numberOfDownloads": 77,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1645897620,
+  "sourceUrl": "https://www.spigotmc.org/resources/regions-plugin.100316/history"
 }

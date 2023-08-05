@@ -1,12 +1,9 @@
 {
   "name": "1.4.9",
-  "version": {
-    "name": "1.4.9",
-    "downloadUrl": "resources/modispensermechanics.101228/download?version=486446",
-    "numberOfDownloads": 35,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1676782560,
-    "sourceUrl": "https://www.spigotmc.org/resources/101228/history/"
-  }
+  "downloadUrl": "resources/modispensermechanics.101228/download?version=486446",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1676782560,
+  "sourceUrl": "https://www.spigotmc.org/resources/101228/history/"
 }

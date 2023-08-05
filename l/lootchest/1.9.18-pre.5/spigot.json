@@ -1,12 +1,9 @@
 {
-  "name": "1.9.18-pre.5",
-  "version": {
-    "name": "1.9.18",
-    "downloadUrl": "resources/lootchest.61564/download?version=324805",
-    "numberOfDownloads": 96,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1586943060,
-    "sourceUrl": "https://www.spigotmc.org/resources/lootchest.61564/history"
-  }
+  "name": "1.9.18",
+  "downloadUrl": "resources/lootchest.61564/download?version=324805",
+  "numberOfDownloads": 96,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1586943060,
+  "sourceUrl": "https://www.spigotmc.org/resources/lootchest.61564/history"
 }

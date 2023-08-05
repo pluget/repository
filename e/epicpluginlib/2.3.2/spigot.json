@@ -1,12 +1,9 @@
 {
   "name": "2.3.2",
-  "version": {
-    "name": "2.3.2",
-    "downloadUrl": "resources/epicpluginlib.80448/download?version=468013",
-    "numberOfDownloads": 356,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1662038400,
-    "sourceUrl": "https://www.spigotmc.org/resources/epicpluginlib.80448/history"
-  }
+  "downloadUrl": "resources/epicpluginlib.80448/download?version=468013",
+  "numberOfDownloads": 356,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1662038400,
+  "sourceUrl": "https://www.spigotmc.org/resources/epicpluginlib.80448/history"
 }

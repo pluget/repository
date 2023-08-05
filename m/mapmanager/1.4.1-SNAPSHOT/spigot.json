@@ -1,12 +1,9 @@
 {
   "name": "1.4.1-SNAPSHOT",
-  "version": {
-    "name": "1.4.1-SNAPSHOT",
-    "downloadUrl": "resources/api-mapmanager.19198/download?version=213108",
-    "numberOfDownloads": 3,
-    "rating": 5,
-    "numberOfVotes": 2,
-    "releaseDate": 1521299460,
-    "sourceUrl": "https://www.spigotmc.org/resources/api-mapmanager.19198/history"
-  }
+  "downloadUrl": "resources/api-mapmanager.19198/download?version=213108",
+  "numberOfDownloads": 3,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releaseDate": 1521299460,
+  "sourceUrl": "https://www.spigotmc.org/resources/api-mapmanager.19198/history"
 }

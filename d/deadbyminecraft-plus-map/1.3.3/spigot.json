@@ -1,12 +1,9 @@
 {
-  "name": "1.3.3",
-  "version": {
-    "name": "Alpha-1.3.3",
-    "downloadUrl": "resources/deadbyminecraft-map.99043/download?version=436445",
-    "numberOfDownloads": 28,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1642105620,
-    "sourceUrl": "https://www.spigotmc.org/resources/deadbyminecraft-map.99043/history"
-  }
+  "name": "Alpha-1.3.3",
+  "downloadUrl": "resources/deadbyminecraft-map.99043/download?version=436445",
+  "numberOfDownloads": 28,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1642105620,
+  "sourceUrl": "https://www.spigotmc.org/resources/deadbyminecraft-map.99043/history"
 }

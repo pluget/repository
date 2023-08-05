@@ -1,12 +1,9 @@
 {
   "name": "1.3.4",
-  "version": {
-    "name": "1.3.4",
-    "downloadUrl": "resources/blocklocker.3268/download?version=205731",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1517303340,
-    "sourceUrl": "https://www.spigotmc.org/resources/blocklocker.3268/history"
-  }
+  "downloadUrl": "resources/blocklocker.3268/download?version=205731",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1517303340,
+  "sourceUrl": "https://www.spigotmc.org/resources/blocklocker.3268/history"
 }

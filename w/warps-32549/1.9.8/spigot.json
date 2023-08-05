@@ -1,12 +1,9 @@
 {
   "name": "1.9.8",
-  "version": {
-    "name": "1.9.8",
-    "downloadUrl": "resources/warps.32549/download?version=367518",
-    "numberOfDownloads": 6,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1605585600,
-    "sourceUrl": "https://www.spigotmc.org/resources/warps.32549/history"
-  }
+  "downloadUrl": "resources/warps.32549/download?version=367518",
+  "numberOfDownloads": 6,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1605585600,
+  "sourceUrl": "https://www.spigotmc.org/resources/warps.32549/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "4.2.0",
-  "version": {
-    "name": "4.2.0",
-    "downloadUrl": "resources/protocollib.1997/download?version=131115",
-    "numberOfDownloads": 50,
-    "rating": 9.7333333333334,
-    "numberOfVotes": 15,
-    "releaseDate": 1482345120,
-    "sourceUrl": "https://www.spigotmc.org/resources/protocollib.1997/history"
-  }
+  "downloadUrl": "resources/protocollib.1997/download?version=131115",
+  "numberOfDownloads": 50,
+  "rating": 9.7333333333334,
+  "numberOfVotes": 15,
+  "releaseDate": 1482345120,
+  "sourceUrl": "https://www.spigotmc.org/resources/protocollib.1997/history"
 }

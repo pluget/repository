@@ -1,12 +1,9 @@
 {
   "name": "2.4.1",
-  "version": {
-    "name": "2.4.1",
-    "downloadUrl": "resources/anti-world-fly.5357/download?version=406371",
-    "numberOfDownloads": 3,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1625018460,
-    "sourceUrl": "https://www.spigotmc.org/resources/anti-world-fly.5357/history"
-  }
+  "downloadUrl": "resources/anti-world-fly.5357/download?version=406371",
+  "numberOfDownloads": 3,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1625018460,
+  "sourceUrl": "https://www.spigotmc.org/resources/anti-world-fly.5357/history"
 }

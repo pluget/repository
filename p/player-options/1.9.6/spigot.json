@@ -1,12 +1,9 @@
 {
   "name": "1.9.6",
-  "version": {
-    "name": "1.9.6",
-    "downloadUrl": "resources/player-options-1-8-8-1-19-x.32636/download?version=484474",
-    "numberOfDownloads": 178,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1675302360,
-    "sourceUrl": "https://www.spigotmc.org/resources/player-options-1-8-8-1-19-x.32636/history"
-  }
+  "downloadUrl": "resources/player-options-1-8-8-1-19-x.32636/download?version=484474",
+  "numberOfDownloads": 178,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1675302360,
+  "sourceUrl": "https://www.spigotmc.org/resources/player-options-1-8-8-1-19-x.32636/history"
 }

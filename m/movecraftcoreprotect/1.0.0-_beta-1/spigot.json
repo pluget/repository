@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-_beta-1",
-  "version": {
-    "name": "1.0.0_beta-1",
-    "downloadUrl": "resources/movecraft-coreprotect.107026/download?version=480120",
-    "numberOfDownloads": 84,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672273620,
-    "sourceUrl": "https://www.spigotmc.org/resources/107026/history/"
-  }
+  "name": "1.0.0_beta-1",
+  "downloadUrl": "resources/movecraft-coreprotect.107026/download?version=480120",
+  "numberOfDownloads": 84,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672273620,
+  "sourceUrl": "https://www.spigotmc.org/resources/107026/history/"
 }

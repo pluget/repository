@@ -1,12 +1,9 @@
 {
   "name": "2.19.7",
-  "version": {
-    "name": "2.19.7",
-    "downloadUrl": "resources/essentialsx.9089/download?version=466639",
-    "numberOfDownloads": 177,
-    "rating": 6.8235294117648,
-    "numberOfVotes": 17,
-    "releaseDate": 1661174460,
-    "sourceUrl": "https://www.spigotmc.org/resources/essentialsx.9089/history"
-  }
+  "downloadUrl": "resources/essentialsx.9089/download?version=466639",
+  "numberOfDownloads": 177,
+  "rating": 6.8235294117648,
+  "numberOfVotes": 17,
+  "releaseDate": 1661174460,
+  "sourceUrl": "https://www.spigotmc.org/resources/essentialsx.9089/history"
 }

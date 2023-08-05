@@ -1,12 +1,9 @@
 {
   "name": "1.0.9",
-  "version": {
-    "name": "1.0.9",
-    "downloadUrl": "resources/playerbirthday.73424/download?version=305687",
-    "numberOfDownloads": 49,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1576689120,
-    "sourceUrl": "https://www.spigotmc.org/resources/73424/history/"
-  }
+  "downloadUrl": "resources/playerbirthday.73424/download?version=305687",
+  "numberOfDownloads": 49,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1576689120,
+  "sourceUrl": "https://www.spigotmc.org/resources/73424/history/"
 }

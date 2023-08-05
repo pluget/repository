@@ -1,12 +1,9 @@
 {
   "name": "0.8.2",
-  "version": {
-    "name": "0.8.2",
-    "downloadUrl": "resources/viaversion.19254/download?version=89976",
-    "numberOfDownloads": 2,
-    "rating": 9.7777777777778,
-    "numberOfVotes": 9,
-    "releaseDate": 1463519220,
-    "sourceUrl": "https://www.spigotmc.org/resources/viaversion.19254/history"
-  }
+  "downloadUrl": "resources/viaversion.19254/download?version=89976",
+  "numberOfDownloads": 2,
+  "rating": 9.7777777777778,
+  "numberOfVotes": 9,
+  "releaseDate": 1463519220,
+  "sourceUrl": "https://www.spigotmc.org/resources/viaversion.19254/history"
 }

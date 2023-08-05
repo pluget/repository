@@ -1,12 +1,9 @@
 {
   "name": "1.4.0",
-  "version": {
-    "name": "1.4.0",
-    "downloadUrl": "resources/launchme.87512/download?version=458465",
-    "numberOfDownloads": 14,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1656433440,
-    "sourceUrl": "https://www.spigotmc.org/resources/launchme.87512/history"
-  }
+  "downloadUrl": "resources/launchme.87512/download?version=458465",
+  "numberOfDownloads": 14,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1656433440,
+  "sourceUrl": "https://www.spigotmc.org/resources/launchme.87512/history"
 }

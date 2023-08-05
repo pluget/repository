@@ -1,12 +1,9 @@
 {
   "name": "0.0.1-mc1.19.3",
-  "version": {
-    "name": "0.0.1-mc1.19.3",
-    "downloadUrl": "resources/steves-series-fancy-drops.68373/download?version=482271",
-    "numberOfDownloads": 19,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1673797800,
-    "sourceUrl": "https://www.spigotmc.org/resources/steves-series-fancy-drops.68373/history"
-  }
+  "downloadUrl": "resources/steves-series-fancy-drops.68373/download?version=482271",
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1673797800,
+  "sourceUrl": "https://www.spigotmc.org/resources/steves-series-fancy-drops.68373/history"
 }

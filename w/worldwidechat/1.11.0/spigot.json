@@ -1,12 +1,9 @@
 {
   "name": "1.11.0",
-  "version": {
-    "name": "1.11.0",
-    "downloadUrl": "resources/worldwidechat.89910/download?version=454814",
-    "numberOfDownloads": 20,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1654507860,
-    "sourceUrl": "https://www.spigotmc.org/resources/worldwidechat.89910/history"
-  }
+  "downloadUrl": "resources/worldwidechat.89910/download?version=454814",
+  "numberOfDownloads": 20,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1654507860,
+  "sourceUrl": "https://www.spigotmc.org/resources/worldwidechat.89910/history"
 }

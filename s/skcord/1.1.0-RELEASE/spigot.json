@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0-RELEASE",
-  "version": {
-    "name": "1.1-RELEASE",
-    "downloadUrl": "resources/skcord-send-discord-webhooks.106832/download?version=478878",
-    "numberOfDownloads": 94,
-    "rating": 9,
-    "numberOfVotes": 4,
-    "releaseDate": 1671440940,
-    "sourceUrl": "https://www.spigotmc.org/resources/skcord-send-discord-webhooks.106832/history"
-  }
+  "name": "1.1-RELEASE",
+  "downloadUrl": "resources/skcord-send-discord-webhooks.106832/download?version=478878",
+  "numberOfDownloads": 94,
+  "rating": 9,
+  "numberOfVotes": 4,
+  "releaseDate": 1671440940,
+  "sourceUrl": "https://www.spigotmc.org/resources/skcord-send-discord-webhooks.106832/history"
 }

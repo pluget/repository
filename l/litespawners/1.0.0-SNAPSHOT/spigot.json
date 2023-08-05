@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-SNAPSHOT",
-  "version": {
-    "name": "1.0-SNAPSHOT",
-    "downloadUrl": "resources/litespawners.107576/download?version=483299",
-    "numberOfDownloads": 94,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1674532980,
-    "sourceUrl": "https://www.spigotmc.org/resources/107576/history/"
-  }
+  "name": "1.0-SNAPSHOT",
+  "downloadUrl": "resources/litespawners.107576/download?version=483299",
+  "numberOfDownloads": 94,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1674532980,
+  "sourceUrl": "https://www.spigotmc.org/resources/107576/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.8.0-pre.1",
-  "version": {
-    "name": "1.8",
-    "downloadUrl": "resources/unstripper.96901/download?version=428537",
-    "numberOfDownloads": 8,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1638048840,
-    "sourceUrl": "https://www.spigotmc.org/resources/96901/history/"
-  }
+  "name": "1.8",
+  "downloadUrl": "resources/unstripper.96901/download?version=428537",
+  "numberOfDownloads": 8,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1638048840,
+  "sourceUrl": "https://www.spigotmc.org/resources/96901/history/"
 }

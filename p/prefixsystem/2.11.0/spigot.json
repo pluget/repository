@@ -1,12 +1,9 @@
 {
-  "name": "2.11.0",
-  "version": {
-    "name": "2.11",
-    "downloadUrl": "resources/prefixsystem-1-8-3-1-18-2.60285/download?version=366208",
-    "numberOfDownloads": 1,
-    "rating": 9,
-    "numberOfVotes": 4,
-    "releaseDate": 1604924340,
-    "sourceUrl": "https://www.spigotmc.org/resources/60285/history/"
-  }
+  "name": "2.11",
+  "downloadUrl": "resources/prefixsystem-1-8-3-1-18-2.60285/download?version=366208",
+  "numberOfDownloads": 1,
+  "rating": 9,
+  "numberOfVotes": 4,
+  "releaseDate": 1604924340,
+  "sourceUrl": "https://www.spigotmc.org/resources/60285/history/"
 }

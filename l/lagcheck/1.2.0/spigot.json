@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/lagcheck.91529/download?version=437930",
-    "numberOfDownloads": 63,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1642891320,
-    "sourceUrl": "https://www.spigotmc.org/resources/lagcheck.91529/history"
-  }
+  "downloadUrl": "resources/lagcheck.91529/download?version=437930",
+  "numberOfDownloads": 63,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1642891320,
+  "sourceUrl": "https://www.spigotmc.org/resources/lagcheck.91529/history"
 }

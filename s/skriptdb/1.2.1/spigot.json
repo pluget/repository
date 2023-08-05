@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/skript-db-updated.89363/download?version=384958",
-    "numberOfDownloads": 90,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1613976480,
-    "sourceUrl": "https://www.spigotmc.org/resources/skript-db-updated.89363/history"
-  }
+  "downloadUrl": "resources/skript-db-updated.89363/download?version=384958",
+  "numberOfDownloads": 90,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1613976480,
+  "sourceUrl": "https://www.spigotmc.org/resources/skript-db-updated.89363/history"
 }

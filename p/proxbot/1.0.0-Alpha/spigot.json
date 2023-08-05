@@ -1,12 +1,9 @@
 {
   "name": "1.0.0-Alpha",
-  "version": {
-    "name": "1.0.0-Alpha",
-    "downloadUrl": "resources/proxbot.104295/download?version=464478",
-    "numberOfDownloads": 33,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1659855660,
-    "sourceUrl": "https://www.spigotmc.org/resources/proxbot.104295/history"
-  }
+  "downloadUrl": "resources/proxbot.104295/download?version=464478",
+  "numberOfDownloads": 33,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1659855660,
+  "sourceUrl": "https://www.spigotmc.org/resources/proxbot.104295/history"
 }

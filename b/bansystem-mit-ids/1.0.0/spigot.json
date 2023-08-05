@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/bansystem-mit-ids-spigot-bungeecord.65863/download?version=265854",
-    "numberOfDownloads": 78,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1553358780,
-    "sourceUrl": "https://www.spigotmc.org/resources/bansystem-mit-ids-spigot-bungeecord.65863/history"
-  }
+  "downloadUrl": "resources/bansystem-mit-ids-spigot-bungeecord.65863/download?version=265854",
+  "numberOfDownloads": 78,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1553358780,
+  "sourceUrl": "https://www.spigotmc.org/resources/bansystem-mit-ids-spigot-bungeecord.65863/history"
 }

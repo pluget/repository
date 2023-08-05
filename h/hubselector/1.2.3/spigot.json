@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/hubselector.64649/download?version=303525",
-    "numberOfDownloads": 60,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1575345240,
-    "sourceUrl": "https://www.spigotmc.org/resources/hubselector.64649/history"
-  }
+  "downloadUrl": "resources/hubselector.64649/download?version=303525",
+  "numberOfDownloads": 60,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1575345240,
+  "sourceUrl": "https://www.spigotmc.org/resources/hubselector.64649/history"
 }

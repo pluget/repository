@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/nobuildplus.101815/download?version=479111",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1671622980,
-    "sourceUrl": "https://www.spigotmc.org/resources/nobuildplus.101815/history"
-  }
+  "downloadUrl": "resources/nobuildplus.101815/download?version=479111",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1671622980,
+  "sourceUrl": "https://www.spigotmc.org/resources/nobuildplus.101815/history"
 }

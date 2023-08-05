@@ -1,12 +1,9 @@
 {
   "name": "2.4.13",
-  "version": {
-    "name": "2.4.13",
-    "downloadUrl": "resources/minepacks-backpack-plugin-mc-1-7-1-19.19286/download?version=487021",
-    "numberOfDownloads": 665,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1677175860,
-    "sourceUrl": "https://www.spigotmc.org/resources/minepacks-backpack-plugin-mc-1-7-1-19.19286/history"
-  }
+  "downloadUrl": "resources/minepacks-backpack-plugin-mc-1-7-1-19.19286/download?version=487021",
+  "numberOfDownloads": 665,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1677175860,
+  "sourceUrl": "https://www.spigotmc.org/resources/minepacks-backpack-plugin-mc-1-7-1-19.19286/history"
 }

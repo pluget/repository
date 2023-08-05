@@ -1,12 +1,9 @@
 {
   "name": "1.1.3",
-  "version": {
-    "name": "1.1.3",
-    "downloadUrl": "resources/realbells%E2%84%A2.102576/download?version=456163",
-    "numberOfDownloads": 50,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655149740,
-    "sourceUrl": "https://www.spigotmc.org/resources/102576/history/"
-  }
+  "downloadUrl": "resources/realbells%E2%84%A2.102576/download?version=456163",
+  "numberOfDownloads": 50,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655149740,
+  "sourceUrl": "https://www.spigotmc.org/resources/102576/history/"
 }

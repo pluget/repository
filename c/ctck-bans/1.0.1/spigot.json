@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/ctck-bans.96433/download?version=420737",
-    "numberOfDownloads": 67,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1632513540,
-    "sourceUrl": "https://www.spigotmc.org/resources/ctck-bans.96433/history"
-  }
+  "downloadUrl": "resources/ctck-bans.96433/download?version=420737",
+  "numberOfDownloads": 67,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1632513540,
+  "sourceUrl": "https://www.spigotmc.org/resources/ctck-bans.96433/history"
 }

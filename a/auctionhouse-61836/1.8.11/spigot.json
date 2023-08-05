@@ -1,12 +1,9 @@
 {
   "name": "1.8.11",
-  "version": {
-    "name": "1.8.11",
-    "downloadUrl": "resources/auctionhouse.61836/download?version=292826",
-    "numberOfDownloads": 763,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1567807260,
-    "sourceUrl": "https://www.spigotmc.org/resources/61836/history/"
-  }
+  "downloadUrl": "resources/auctionhouse.61836/download?version=292826",
+  "numberOfDownloads": 763,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1567807260,
+  "sourceUrl": "https://www.spigotmc.org/resources/61836/history/"
 }

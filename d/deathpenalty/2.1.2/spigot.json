@@ -1,12 +1,9 @@
 {
   "name": "2.1.2",
-  "version": {
-    "name": "2.1.2",
-    "downloadUrl": "resources/deathpenalty.83693/download?version=490305",
-    "numberOfDownloads": 46,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1679513700,
-    "sourceUrl": "https://www.spigotmc.org/resources/83693/history/"
-  }
+  "downloadUrl": "resources/deathpenalty.83693/download?version=490305",
+  "numberOfDownloads": 46,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1679513700,
+  "sourceUrl": "https://www.spigotmc.org/resources/83693/history/"
 }

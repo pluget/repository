@@ -1,12 +1,9 @@
 {
   "name": "1.0.0-BETA",
-  "version": {
-    "name": "1.0.0-BETA",
-    "downloadUrl": "resources/screenshare.107131/download?version=480883",
-    "numberOfDownloads": 34,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672780680,
-    "sourceUrl": "https://www.spigotmc.org/resources/107131/history/"
-  }
+  "downloadUrl": "resources/screenshare.107131/download?version=480883",
+  "numberOfDownloads": 34,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672780680,
+  "sourceUrl": "https://www.spigotmc.org/resources/107131/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "8.2.3-pre.1",
-  "version": {
-    "name": "8.2.3",
-    "downloadUrl": "resources/kojis-skyblock.91345/download?version=454615",
-    "numberOfDownloads": 38,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1654374060,
-    "sourceUrl": "https://www.spigotmc.org/resources/kojis-skyblock.91345/history"
-  }
+  "name": "8.2.3",
+  "downloadUrl": "resources/kojis-skyblock.91345/download?version=454615",
+  "numberOfDownloads": 38,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1654374060,
+  "sourceUrl": "https://www.spigotmc.org/resources/kojis-skyblock.91345/history"
 }

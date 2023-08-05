@@ -1,12 +1,9 @@
 {
   "name": "3.1.0",
-  "version": {
-    "name": "3.1.0",
-    "downloadUrl": "resources/loginplus.39601/download?version=437638",
-    "numberOfDownloads": 512,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1642761120,
-    "sourceUrl": "https://www.spigotmc.org/resources/39601/history/"
-  }
+  "downloadUrl": "resources/loginplus.39601/download?version=437638",
+  "numberOfDownloads": 512,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1642761120,
+  "sourceUrl": "https://www.spigotmc.org/resources/39601/history/"
 }

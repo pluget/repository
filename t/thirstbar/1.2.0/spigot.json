@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/thirstbar-java.82004/download?version=355821",
-    "numberOfDownloads": 85,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1599572880,
-    "sourceUrl": "https://www.spigotmc.org/resources/thirstbar-java.82004/history"
-  }
+  "downloadUrl": "resources/thirstbar-java.82004/download?version=355821",
+  "numberOfDownloads": 85,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1599572880,
+  "sourceUrl": "https://www.spigotmc.org/resources/thirstbar-java.82004/history"
 }

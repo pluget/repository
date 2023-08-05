@@ -1,12 +1,9 @@
 {
   "name": "1.11.0",
-  "version": {
-    "name": "1.11.0",
-    "downloadUrl": "resources/share-coordinates.80632/download?version=489272",
-    "numberOfDownloads": 96,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1678906020,
-    "sourceUrl": "https://www.spigotmc.org/resources/share-coordinates.80632/history"
-  }
+  "downloadUrl": "resources/share-coordinates.80632/download?version=489272",
+  "numberOfDownloads": 96,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1678906020,
+  "sourceUrl": "https://www.spigotmc.org/resources/share-coordinates.80632/history"
 }

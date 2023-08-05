@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-pre.2",
-  "version": {
-    "name": "spigot-1.0",
-    "downloadUrl": "resources/prevent-wither-destroy-blocks.102060/download?version=452639",
-    "numberOfDownloads": 11,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1652859840,
-    "sourceUrl": "https://www.spigotmc.org/resources/102060/history/"
-  }
+  "name": "spigot-1.0",
+  "downloadUrl": "resources/prevent-wither-destroy-blocks.102060/download?version=452639",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1652859840,
+  "sourceUrl": "https://www.spigotmc.org/resources/102060/history/"
 }

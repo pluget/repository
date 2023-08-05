@@ -1,12 +1,9 @@
 {
   "name": "1.0.2-beta2",
-  "version": {
-    "name": "1.0.2-beta2",
-    "downloadUrl": "resources/bedwars1058-color-changer-addon.104501/download?version=465437",
-    "numberOfDownloads": 16,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660397580,
-    "sourceUrl": "https://www.spigotmc.org/resources/bedwars1058-color-changer-addon.104501/history"
-  }
+  "downloadUrl": "resources/bedwars1058-color-changer-addon.104501/download?version=465437",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660397580,
+  "sourceUrl": "https://www.spigotmc.org/resources/bedwars1058-color-changer-addon.104501/history"
 }

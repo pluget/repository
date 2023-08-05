@@ -1,12 +1,9 @@
 {
   "name": "2.0.0",
-  "version": {
-    "name": "2.0.0",
-    "downloadUrl": "resources/odailyquests-daily-quests-plugin-1-16-1-19.100990/download?version=486119",
-    "numberOfDownloads": 425,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1676567340,
-    "sourceUrl": "https://www.spigotmc.org/resources/100990/history/"
-  }
+  "downloadUrl": "resources/odailyquests-daily-quests-plugin-1-16-1-19.100990/download?version=486119",
+  "numberOfDownloads": 425,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1676567340,
+  "sourceUrl": "https://www.spigotmc.org/resources/100990/history/"
 }

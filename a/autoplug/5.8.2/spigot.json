@@ -1,12 +1,9 @@
 {
   "name": "5.8.2",
-  "version": {
-    "name": "5.8.2",
-    "downloadUrl": "resources/autoplug-automatic-updater-for-plugins-mods-server-java-itself.78414/download?version=437553",
-    "numberOfDownloads": 499,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1642696560,
-    "sourceUrl": "https://www.spigotmc.org/resources/autoplug-automatic-updater-for-plugins-mods-server-java-itself.78414/history"
-  }
+  "downloadUrl": "resources/autoplug-automatic-updater-for-plugins-mods-server-java-itself.78414/download?version=437553",
+  "numberOfDownloads": 499,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1642696560,
+  "sourceUrl": "https://www.spigotmc.org/resources/autoplug-automatic-updater-for-plugins-mods-server-java-itself.78414/history"
 }

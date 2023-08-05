@@ -1,12 +1,9 @@
 {
   "name": "1.3.23",
-  "version": {
-    "name": "1.3.23",
-    "downloadUrl": "resources/rtp.94812/download?version=440192",
-    "numberOfDownloads": 76,
-    "rating": 9.6,
-    "numberOfVotes": 5,
-    "releaseDate": 1644185280,
-    "sourceUrl": "https://www.spigotmc.org/resources/rtp.94812/history"
-  }
+  "downloadUrl": "resources/rtp.94812/download?version=440192",
+  "numberOfDownloads": 76,
+  "rating": 9.6,
+  "numberOfVotes": 5,
+  "releaseDate": 1644185280,
+  "sourceUrl": "https://www.spigotmc.org/resources/rtp.94812/history"
 }

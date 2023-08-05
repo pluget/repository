@@ -1,12 +1,9 @@
 {
   "name": "1.5.4",
-  "version": {
-    "name": "1.5.4",
-    "downloadUrl": "resources/clearfog.98448/download?version=456148",
-    "numberOfDownloads": 67,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1655142420,
-    "sourceUrl": "https://www.spigotmc.org/resources/98448/history/"
-  }
+  "downloadUrl": "resources/clearfog.98448/download?version=456148",
+  "numberOfDownloads": 67,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1655142420,
+  "sourceUrl": "https://www.spigotmc.org/resources/98448/history/"
 }

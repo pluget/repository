@@ -1,12 +1,9 @@
 {
   "name": "2.7.4",
-  "version": {
-    "name": "2.7.4",
-    "downloadUrl": "resources/randombox.3217/download?version=318703",
-    "numberOfDownloads": 105,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1584419280,
-    "sourceUrl": "https://www.spigotmc.org/resources/randombox.3217/history"
-  }
+  "downloadUrl": "resources/randombox.3217/download?version=318703",
+  "numberOfDownloads": 105,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1584419280,
+  "sourceUrl": "https://www.spigotmc.org/resources/randombox.3217/history"
 }

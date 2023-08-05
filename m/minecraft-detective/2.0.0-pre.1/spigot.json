@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0-pre.1",
-  "version": {
-    "name": "2.0.0",
-    "downloadUrl": "resources/minecraft-detective-1-17-custom-minigame.92624/download?version=407756",
-    "numberOfDownloads": 56,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1625662260,
-    "sourceUrl": "https://www.spigotmc.org/resources/minecraft-detective-1-17-custom-minigame.92624/history"
-  }
+  "name": "2.0.0",
+  "downloadUrl": "resources/minecraft-detective-1-17-custom-minigame.92624/download?version=407756",
+  "numberOfDownloads": 56,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1625662260,
+  "sourceUrl": "https://www.spigotmc.org/resources/minecraft-detective-1-17-custom-minigame.92624/history"
 }

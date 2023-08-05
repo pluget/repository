@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0-SNAPSHOT",
-  "version": {
-    "name": "2.0-SNAPSHOT",
-    "downloadUrl": "resources/selfprove.105886/download?version=473182",
-    "numberOfDownloads": 12,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1666520880,
-    "sourceUrl": "https://www.spigotmc.org/resources/105886/history/"
-  }
+  "name": "2.0-SNAPSHOT",
+  "downloadUrl": "resources/selfprove.105886/download?version=473182",
+  "numberOfDownloads": 12,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1666520880,
+  "sourceUrl": "https://www.spigotmc.org/resources/105886/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "3.15.2",
-  "version": {
-    "name": "3.15.2",
-    "downloadUrl": "resources/wilderness-tp.18431/download?version=271451",
-    "numberOfDownloads": 8,
-    "rating": 7.9,
-    "numberOfVotes": 20,
-    "releaseDate": 1556741100,
-    "sourceUrl": "https://www.spigotmc.org/resources/wilderness-tp.18431/history"
-  }
+  "downloadUrl": "resources/wilderness-tp.18431/download?version=271451",
+  "numberOfDownloads": 8,
+  "rating": 7.9,
+  "numberOfVotes": 20,
+  "releaseDate": 1556741100,
+  "sourceUrl": "https://www.spigotmc.org/resources/wilderness-tp.18431/history"
 }

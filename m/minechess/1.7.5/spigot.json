@@ -1,12 +1,9 @@
 {
   "name": "1.7.5",
-  "version": {
-    "name": "1.7.5",
-    "downloadUrl": "resources/minechess-minigame-1-8-1-19.74178/download?version=322347",
-    "numberOfDownloads": 299,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1586030280,
-    "sourceUrl": "https://www.spigotmc.org/resources/minechess-minigame-1-8-1-19.74178/history"
-  }
+  "downloadUrl": "resources/minechess-minigame-1-8-1-19.74178/download?version=322347",
+  "numberOfDownloads": 299,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1586030280,
+  "sourceUrl": "https://www.spigotmc.org/resources/minechess-minigame-1-8-1-19.74178/history"
 }

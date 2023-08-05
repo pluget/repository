@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0-pre.1",
-  "version": {
-    "name": "v1.1",
-    "downloadUrl": "resources/universalvaults-1-17-1-1-19-2.106973/download?version=479713",
-    "numberOfDownloads": 23,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672026660,
-    "sourceUrl": "https://www.spigotmc.org/resources/106973/history/"
-  }
+  "name": "v1.1",
+  "downloadUrl": "resources/universalvaults-1-17-1-1-19-2.106973/download?version=479713",
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672026660,
+  "sourceUrl": "https://www.spigotmc.org/resources/106973/history/"
 }

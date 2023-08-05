@@ -1,12 +1,9 @@
 {
   "name": "1.0.4-SNAPSHOT",
-  "version": {
-    "name": "1.0.4-SNAPSHOT",
-    "downloadUrl": "resources/spicord.64918/download?version=263028",
-    "numberOfDownloads": 179,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1551376680,
-    "sourceUrl": "https://www.spigotmc.org/resources/64918/history/"
-  }
+  "downloadUrl": "resources/spicord.64918/download?version=263028",
+  "numberOfDownloads": 179,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1551376680,
+  "sourceUrl": "https://www.spigotmc.org/resources/64918/history/"
 }

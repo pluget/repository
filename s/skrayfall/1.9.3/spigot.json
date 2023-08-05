@@ -1,12 +1,9 @@
 {
   "name": "1.9.3",
-  "version": {
-    "name": "1.9.3",
-    "downloadUrl": "resources/skrayfall.10012/download?version=89988",
-    "numberOfDownloads": 261,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1463522760,
-    "sourceUrl": "https://www.spigotmc.org/resources/10012/history/"
-  }
+  "downloadUrl": "resources/skrayfall.10012/download?version=89988",
+  "numberOfDownloads": 261,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1463522760,
+  "sourceUrl": "https://www.spigotmc.org/resources/10012/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.6.0",
-  "version": {
-    "name": "1.6.0",
-    "downloadUrl": "resources/drivebackupv2.79519/download?version=444913",
-    "numberOfDownloads": 6,
-    "rating": 6.5714285714286,
-    "numberOfVotes": 7,
-    "releaseDate": 1647115980,
-    "sourceUrl": "https://www.spigotmc.org/resources/drivebackupv2.79519/history"
-  }
+  "downloadUrl": "resources/drivebackupv2.79519/download?version=444913",
+  "numberOfDownloads": 6,
+  "rating": 6.5714285714286,
+  "numberOfVotes": 7,
+  "releaseDate": 1647115980,
+  "sourceUrl": "https://www.spigotmc.org/resources/drivebackupv2.79519/history"
 }

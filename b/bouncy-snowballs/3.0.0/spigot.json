@@ -1,12 +1,9 @@
 {
-  "name": "3.0.0",
-  "version": {
-    "name": "3.0",
-    "downloadUrl": "resources/bouncy-snowballs-1-16.105235/download?version=469337",
-    "numberOfDownloads": 82,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1663035900,
-    "sourceUrl": "https://www.spigotmc.org/resources/105235/history/"
-  }
+  "name": "3.0",
+  "downloadUrl": "resources/bouncy-snowballs-1-16.105235/download?version=469337",
+  "numberOfDownloads": 82,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1663035900,
+  "sourceUrl": "https://www.spigotmc.org/resources/105235/history/"
 }

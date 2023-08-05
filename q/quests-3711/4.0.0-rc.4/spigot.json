@@ -1,12 +1,9 @@
 {
   "name": "4.0.0-rc.4",
-  "version": {
-    "name": "4.0.0-rc.4",
-    "downloadUrl": "resources/quests.3711/download?version=376102",
-    "numberOfDownloads": 5,
-    "rating": 7.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1610009820,
-    "sourceUrl": "https://www.spigotmc.org/resources/quests.3711/history"
-  }
+  "downloadUrl": "resources/quests.3711/download?version=376102",
+  "numberOfDownloads": 5,
+  "rating": 7.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1610009820,
+  "sourceUrl": "https://www.spigotmc.org/resources/quests.3711/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "12.5.1",
-  "version": {
-    "name": "12.5.1",
-    "downloadUrl": "resources/skinsrestorer.2124/download?version=106124",
-    "numberOfDownloads": 7,
-    "rating": 5.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1469962980,
-    "sourceUrl": "https://www.spigotmc.org/resources/skinsrestorer.2124/history"
-  }
+  "downloadUrl": "resources/skinsrestorer.2124/download?version=106124",
+  "numberOfDownloads": 7,
+  "rating": 5.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1469962980,
+  "sourceUrl": "https://www.spigotmc.org/resources/skinsrestorer.2124/history"
 }

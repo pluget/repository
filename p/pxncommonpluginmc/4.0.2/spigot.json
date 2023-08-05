@@ -1,12 +1,9 @@
 {
   "name": "4.0.2",
-  "version": {
-    "name": "4.0.2",
-    "downloadUrl": "resources/pxncommonpluginmc.107049/download?version=480263",
-    "numberOfDownloads": 16,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672368540,
-    "sourceUrl": "https://www.spigotmc.org/resources/107049/history/"
-  }
+  "downloadUrl": "resources/pxncommonpluginmc.107049/download?version=480263",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672368540,
+  "sourceUrl": "https://www.spigotmc.org/resources/107049/history/"
 }

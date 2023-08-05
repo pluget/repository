@@ -1,12 +1,9 @@
 {
   "name": "7.1.1",
-  "version": {
-    "name": "7.1.1",
-    "downloadUrl": "resources/command-timer.24141/download?version=475845",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1668884700,
-    "sourceUrl": "https://www.spigotmc.org/resources/24141/history/"
-  }
+  "downloadUrl": "resources/command-timer.24141/download?version=475845",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1668884700,
+  "sourceUrl": "https://www.spigotmc.org/resources/24141/history/"
 }

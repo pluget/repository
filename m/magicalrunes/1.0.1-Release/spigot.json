@@ -1,12 +1,9 @@
 {
   "name": "1.0.1-Release",
-  "version": {
-    "name": "1.0.1-Release",
-    "downloadUrl": "resources/magicalrunes-create-your-own-magical-items.101998/download?version=452510",
-    "numberOfDownloads": 45,
-    "rating": 2,
-    "numberOfVotes": 1,
-    "releaseDate": 1652730720,
-    "sourceUrl": "https://www.spigotmc.org/resources/101998/history/"
-  }
+  "downloadUrl": "resources/magicalrunes-create-your-own-magical-items.101998/download?version=452510",
+  "numberOfDownloads": 45,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releaseDate": 1652730720,
+  "sourceUrl": "https://www.spigotmc.org/resources/101998/history/"
 }

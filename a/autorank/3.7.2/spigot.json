@@ -1,12 +1,9 @@
 {
   "name": "3.7.2",
-  "version": {
-    "name": "3.7.2",
-    "downloadUrl": "resources/autorank.3239/download?version=64997",
-    "numberOfDownloads": 1,
-    "rating": 9,
-    "numberOfVotes": 10,
-    "releaseDate": 1453754400,
-    "sourceUrl": "https://www.spigotmc.org/resources/autorank.3239/history"
-  }
+  "downloadUrl": "resources/autorank.3239/download?version=64997",
+  "numberOfDownloads": 1,
+  "rating": 9,
+  "numberOfVotes": 10,
+  "releaseDate": 1453754400,
+  "sourceUrl": "https://www.spigotmc.org/resources/autorank.3239/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.4.0",
-  "version": {
-    "name": "1.4.0",
-    "downloadUrl": "resources/hubplus-1-13-x-1-18-x.92355/download?version=429334",
-    "numberOfDownloads": 127,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1638446220,
-    "sourceUrl": "https://www.spigotmc.org/resources/hubplus-1-13-x-1-18-x.92355/history"
-  }
+  "downloadUrl": "resources/hubplus-1-13-x-1-18-x.92355/download?version=429334",
+  "numberOfDownloads": 127,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1638446220,
+  "sourceUrl": "https://www.spigotmc.org/resources/hubplus-1-13-x-1-18-x.92355/history"
 }

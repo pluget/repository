@@ -1,12 +1,9 @@
 {
-  "name": "1.5.0-Citizens2Fix",
-  "version": {
-    "name": "1.5 Citizens2Fix",
-    "downloadUrl": "resources/dynamic-difficulty.92025/download?version=432052",
-    "numberOfDownloads": 660,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1639776720,
-    "sourceUrl": "https://www.spigotmc.org/resources/92025/history/"
-  }
+  "name": "1.5 Citizens2Fix",
+  "downloadUrl": "resources/dynamic-difficulty.92025/download?version=432052",
+  "numberOfDownloads": 660,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1639776720,
+  "sourceUrl": "https://www.spigotmc.org/resources/92025/history/"
 }

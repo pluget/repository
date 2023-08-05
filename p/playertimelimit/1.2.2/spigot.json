@@ -1,12 +1,9 @@
 {
   "name": "1.2.2",
-  "version": {
-    "name": "1.2.2",
-    "downloadUrl": "resources/playertimelimit-1-8-1-19.96577/download?version=422937",
-    "numberOfDownloads": 204,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1634142120,
-    "sourceUrl": "https://www.spigotmc.org/resources/playertimelimit-1-8-1-19.96577/history"
-  }
+  "downloadUrl": "resources/playertimelimit-1-8-1-19.96577/download?version=422937",
+  "numberOfDownloads": 204,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1634142120,
+  "sourceUrl": "https://www.spigotmc.org/resources/playertimelimit-1-8-1-19.96577/history"
 }

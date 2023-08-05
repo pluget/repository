@@ -1,12 +1,9 @@
 {
-  "name": "1.1.2-(CONFIG-UPDATE)",
-  "version": {
-    "name": "1.1.2 (CONFIG UPDATE)",
-    "downloadUrl": "resources/mcrealistic-1-17.21628/download?version=88758",
-    "numberOfDownloads": 428,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1463059800,
-    "sourceUrl": "https://www.spigotmc.org/resources/21628/history/"
-  }
+  "name": "1.1.2 (CONFIG UPDATE)",
+  "downloadUrl": "resources/mcrealistic-1-17.21628/download?version=88758",
+  "numberOfDownloads": 428,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1463059800,
+  "sourceUrl": "https://www.spigotmc.org/resources/21628/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.2.0-Beta",
-  "version": {
-    "name": "1.2 Beta",
-    "downloadUrl": "resources/doublejump-plugin.77223/download?version=324903",
-    "numberOfDownloads": 157,
-    "rating": 6,
-    "numberOfVotes": 3,
-    "releaseDate": 1586967960,
-    "sourceUrl": "https://www.spigotmc.org/resources/doublejump-plugin.77223/history"
-  }
+  "name": "1.2 Beta",
+  "downloadUrl": "resources/doublejump-plugin.77223/download?version=324903",
+  "numberOfDownloads": 157,
+  "rating": 6,
+  "numberOfVotes": 3,
+  "releaseDate": 1586967960,
+  "sourceUrl": "https://www.spigotmc.org/resources/doublejump-plugin.77223/history"
 }

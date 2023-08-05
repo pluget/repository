@@ -1,12 +1,9 @@
 {
-  "name": "1.8.0",
-  "version": {
-    "name": "1.8",
-    "downloadUrl": "resources/disease.3911/download?version=52942",
-    "numberOfDownloads": 195,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1447141080,
-    "sourceUrl": "https://www.spigotmc.org/resources/disease.3911/history"
-  }
+  "name": "1.8",
+  "downloadUrl": "resources/disease.3911/download?version=52942",
+  "numberOfDownloads": 195,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1447141080,
+  "sourceUrl": "https://www.spigotmc.org/resources/disease.3911/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/level-progression.99104/download?version=436036",
-    "numberOfDownloads": 55,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1641832920,
-    "sourceUrl": "https://www.spigotmc.org/resources/level-progression.99104/history"
-  }
+  "downloadUrl": "resources/level-progression.99104/download?version=436036",
+  "numberOfDownloads": 55,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1641832920,
+  "sourceUrl": "https://www.spigotmc.org/resources/level-progression.99104/history"
 }

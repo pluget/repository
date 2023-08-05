@@ -1,12 +1,9 @@
 {
-  "name": "2.12.0-pre.1",
-  "version": {
-    "name": "2.12.0",
-    "downloadUrl": "resources/venturechat.771/download?version=193797",
-    "numberOfDownloads": 186,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1510661160,
-    "sourceUrl": "https://www.spigotmc.org/resources/venturechat.771/history"
-  }
+  "name": "2.12.0",
+  "downloadUrl": "resources/venturechat.771/download?version=193797",
+  "numberOfDownloads": 186,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1510661160,
+  "sourceUrl": "https://www.spigotmc.org/resources/venturechat.771/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.19.2",
-  "version": {
-    "name": "1.19.2",
-    "downloadUrl": "resources/randomtp.106767/download?version=478499",
-    "numberOfDownloads": 78,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1671200220,
-    "sourceUrl": "https://www.spigotmc.org/resources/randomtp.106767/history"
-  }
+  "downloadUrl": "resources/randomtp.106767/download?version=478499",
+  "numberOfDownloads": 78,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1671200220,
+  "sourceUrl": "https://www.spigotmc.org/resources/randomtp.106767/history"
 }

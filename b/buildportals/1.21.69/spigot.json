@@ -1,12 +1,9 @@
 {
   "name": "1.21.69",
-  "version": {
-    "name": "1.21.69",
-    "downloadUrl": "resources/buildportals.21922/download?version=363414",
-    "numberOfDownloads": 387,
-    "rating": 9,
-    "numberOfVotes": 4,
-    "releaseDate": 1603571940,
-    "sourceUrl": "https://www.spigotmc.org/resources/21922/history/"
-  }
+  "downloadUrl": "resources/buildportals.21922/download?version=363414",
+  "numberOfDownloads": 387,
+  "rating": 9,
+  "numberOfVotes": 4,
+  "releaseDate": 1603571940,
+  "sourceUrl": "https://www.spigotmc.org/resources/21922/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-SNAPSHOT",
-  "version": {
-    "name": "1.0-SNAPSHOT",
-    "downloadUrl": "resources/wands.104562/download?version=465777",
-    "numberOfDownloads": 75,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660584660,
-    "sourceUrl": "https://www.spigotmc.org/resources/104562/history/"
-  }
+  "name": "1.0-SNAPSHOT",
+  "downloadUrl": "resources/wands.104562/download?version=465777",
+  "numberOfDownloads": 75,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660584660,
+  "sourceUrl": "https://www.spigotmc.org/resources/104562/history/"
 }

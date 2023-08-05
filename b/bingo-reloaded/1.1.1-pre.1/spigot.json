@@ -1,12 +1,9 @@
 {
-  "name": "1.1.1-pre.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/bingo-reloaded.100278/download?version=452707",
-    "numberOfDownloads": 35,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1652900160,
-    "sourceUrl": "https://www.spigotmc.org/resources/100278/history/"
-  }
+  "name": "1.1.1",
+  "downloadUrl": "resources/bingo-reloaded.100278/download?version=452707",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1652900160,
+  "sourceUrl": "https://www.spigotmc.org/resources/100278/history/"
 }

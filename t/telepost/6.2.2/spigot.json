@@ -1,12 +1,9 @@
 {
   "name": "6.2.2",
-  "version": {
-    "name": "6.2.2",
-    "downloadUrl": "resources/telepost.91988/download?version=415288",
-    "numberOfDownloads": 49,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1629207900,
-    "sourceUrl": "https://www.spigotmc.org/resources/telepost.91988/history"
-  }
+  "downloadUrl": "resources/telepost.91988/download?version=415288",
+  "numberOfDownloads": 49,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1629207900,
+  "sourceUrl": "https://www.spigotmc.org/resources/telepost.91988/history"
 }

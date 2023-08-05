@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0-RC4",
-  "version": {
-    "name": "1.1-RC4",
-    "downloadUrl": "resources/spigotadditions-1-13-1-19-3.105939/download?version=479689",
-    "numberOfDownloads": 18,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672007940,
-    "sourceUrl": "https://www.spigotmc.org/resources/spigotadditions-1-13-1-19-3.105939/history"
-  }
+  "name": "1.1-RC4",
+  "downloadUrl": "resources/spigotadditions-1-13-1-19-3.105939/download?version=479689",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672007940,
+  "sourceUrl": "https://www.spigotmc.org/resources/spigotadditions-1-13-1-19-3.105939/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "0.4.12",
-  "version": {
-    "name": "v0.4.12",
-    "downloadUrl": "resources/bomberman.77616/download?version=327708",
-    "numberOfDownloads": 414,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1588036620,
-    "sourceUrl": "https://www.spigotmc.org/resources/bomberman.77616/history"
-  }
+  "name": "v0.4.12",
+  "downloadUrl": "resources/bomberman.77616/download?version=327708",
+  "numberOfDownloads": 414,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1588036620,
+  "sourceUrl": "https://www.spigotmc.org/resources/bomberman.77616/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "5.0.0",
-  "version": {
-    "name": "5.0.0",
-    "downloadUrl": "resources/terraformgenerator-alpha-1-16-5-1-19-4.75132/download?version=421594",
-    "numberOfDownloads": 312,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1633146300,
-    "sourceUrl": "https://www.spigotmc.org/resources/75132/history/"
-  }
+  "downloadUrl": "resources/terraformgenerator-alpha-1-16-5-1-19-4.75132/download?version=421594",
+  "numberOfDownloads": 312,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1633146300,
+  "sourceUrl": "https://www.spigotmc.org/resources/75132/history/"
 }

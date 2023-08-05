@@ -1,12 +1,9 @@
 {
   "name": "1.15.2",
-  "version": {
-    "name": "1.15.2",
-    "downloadUrl": "resources/skbee-skript-addon.75839/download?version=446158",
-    "numberOfDownloads": 1,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1647964680,
-    "sourceUrl": "https://www.spigotmc.org/resources/skbee-skript-addon.75839/history"
-  }
+  "downloadUrl": "resources/skbee-skript-addon.75839/download?version=446158",
+  "numberOfDownloads": 1,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1647964680,
+  "sourceUrl": "https://www.spigotmc.org/resources/skbee-skript-addon.75839/history"
 }

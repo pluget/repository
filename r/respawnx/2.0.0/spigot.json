@@ -1,12 +1,9 @@
 {
   "name": "2.0.0",
-  "version": {
-    "name": "2.0.0",
-    "downloadUrl": "resources/respawnx.47058/download?version=353342",
-    "numberOfDownloads": 863,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1598508600,
-    "sourceUrl": "https://www.spigotmc.org/resources/respawnx.47058/history"
-  }
+  "downloadUrl": "resources/respawnx.47058/download?version=353342",
+  "numberOfDownloads": 863,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1598508600,
+  "sourceUrl": "https://www.spigotmc.org/resources/respawnx.47058/history"
 }

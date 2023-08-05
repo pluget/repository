@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/levelchat.101676/download?version=450393",
-    "numberOfDownloads": 63,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1651052820,
-    "sourceUrl": "https://www.spigotmc.org/resources/levelchat.101676/history"
-  }
+  "downloadUrl": "resources/levelchat.101676/download?version=450393",
+  "numberOfDownloads": 63,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1651052820,
+  "sourceUrl": "https://www.spigotmc.org/resources/levelchat.101676/history"
 }

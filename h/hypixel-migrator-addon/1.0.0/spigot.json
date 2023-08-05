@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/hypixel-migrator-addon-%E2%AD%90-bedwars1058-%E2%AD%95-1-8-1-19.105070/download?version=468362",
-    "numberOfDownloads": 185,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1662295440,
-    "sourceUrl": "https://www.spigotmc.org/resources/hypixel-migrator-addon-%E2%AD%90-bedwars1058-%E2%AD%95-1-8-1-19.105070/history"
-  }
+  "downloadUrl": "resources/hypixel-migrator-addon-%E2%AD%90-bedwars1058-%E2%AD%95-1-8-1-19.105070/download?version=468362",
+  "numberOfDownloads": 185,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1662295440,
+  "sourceUrl": "https://www.spigotmc.org/resources/hypixel-migrator-addon-%E2%AD%90-bedwars1058-%E2%AD%95-1-8-1-19.105070/history"
 }

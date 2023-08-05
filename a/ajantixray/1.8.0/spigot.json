@@ -1,12 +1,9 @@
 {
   "name": "1.8.0",
-  "version": {
-    "name": "1.8.0",
-    "downloadUrl": "resources/ajantixray.68409/download?version=315772",
-    "numberOfDownloads": 387,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1582648200,
-    "sourceUrl": "https://www.spigotmc.org/resources/ajantixray.68409/history"
-  }
+  "downloadUrl": "resources/ajantixray.68409/download?version=315772",
+  "numberOfDownloads": 387,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1582648200,
+  "sourceUrl": "https://www.spigotmc.org/resources/ajantixray.68409/history"
 }

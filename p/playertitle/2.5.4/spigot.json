@@ -1,12 +1,9 @@
 {
   "name": "2.5.4",
-  "version": {
-    "name": "2.5.4",
-    "downloadUrl": "resources/playertitle-free-version.78048/download?version=391072",
-    "numberOfDownloads": 73,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1617000480,
-    "sourceUrl": "https://www.spigotmc.org/resources/playertitle-free-version.78048/history"
-  }
+  "downloadUrl": "resources/playertitle-free-version.78048/download?version=391072",
+  "numberOfDownloads": 73,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1617000480,
+  "sourceUrl": "https://www.spigotmc.org/resources/playertitle-free-version.78048/history"
 }

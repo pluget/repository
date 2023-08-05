@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0-pre.1",
-  "version": {
-    "name": "v.1.1",
-    "downloadUrl": "resources/admingui.102710/download?version=457589",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655922240,
-    "sourceUrl": "https://www.spigotmc.org/resources/admingui.102710/history"
-  }
+  "name": "v.1.1",
+  "downloadUrl": "resources/admingui.102710/download?version=457589",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655922240,
+  "sourceUrl": "https://www.spigotmc.org/resources/admingui.102710/history"
 }

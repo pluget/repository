@@ -1,12 +1,9 @@
 {
-  "name": "3.1.0-final",
-  "version": {
-    "name": "3.1-final",
-    "downloadUrl": "resources/nickapi-advanced-nickapi-1-8-1-19.26013/download?version=296894",
-    "numberOfDownloads": 526,
-    "rating": 8,
-    "numberOfVotes": 4,
-    "releaseDate": 1570314720,
-    "sourceUrl": "https://www.spigotmc.org/resources/26013/history/"
-  }
+  "name": "3.1-final",
+  "downloadUrl": "resources/nickapi-advanced-nickapi-1-8-1-19.26013/download?version=296894",
+  "numberOfDownloads": 526,
+  "rating": 8,
+  "numberOfVotes": 4,
+  "releaseDate": 1570314720,
+  "sourceUrl": "https://www.spigotmc.org/resources/26013/history/"
 }

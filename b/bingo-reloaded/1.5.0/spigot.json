@@ -1,12 +1,9 @@
 {
   "name": "1.5.0",
-  "version": {
-    "name": "1.5.0",
-    "downloadUrl": "resources/bingo-reloaded.100278/download?version=481057",
-    "numberOfDownloads": 755,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672871580,
-    "sourceUrl": "https://www.spigotmc.org/resources/100278/history/"
-  }
+  "downloadUrl": "resources/bingo-reloaded.100278/download?version=481057",
+  "numberOfDownloads": 755,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672871580,
+  "sourceUrl": "https://www.spigotmc.org/resources/100278/history/"
 }

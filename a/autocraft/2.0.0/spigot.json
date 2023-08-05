@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0",
-  "version": {
-    "name": "BETA-2",
-    "downloadUrl": "resources/autocraft-1-13-x-1-19-x.103307/download?version=460412",
-    "numberOfDownloads": 24,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1657619340,
-    "sourceUrl": "https://www.spigotmc.org/resources/103307/history/"
-  }
+  "name": "BETA-2",
+  "downloadUrl": "resources/autocraft-1-13-x-1-19-x.103307/download?version=460412",
+  "numberOfDownloads": 24,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1657619340,
+  "sourceUrl": "https://www.spigotmc.org/resources/103307/history/"
 }

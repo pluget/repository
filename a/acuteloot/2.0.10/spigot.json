@@ -1,12 +1,9 @@
 {
   "name": "2.0.10",
-  "version": {
-    "name": "2.0.10",
-    "downloadUrl": "resources/acuteloot.81899/download?version=380465",
-    "numberOfDownloads": 425,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1611957180,
-    "sourceUrl": "https://www.spigotmc.org/resources/acuteloot.81899/history"
-  }
+  "downloadUrl": "resources/acuteloot.81899/download?version=380465",
+  "numberOfDownloads": 425,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1611957180,
+  "sourceUrl": "https://www.spigotmc.org/resources/acuteloot.81899/history"
 }

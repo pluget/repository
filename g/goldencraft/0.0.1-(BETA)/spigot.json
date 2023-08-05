@@ -1,12 +1,9 @@
 {
-  "name": "0.0.1-(BETA)",
-  "version": {
-    "name": "0.0.1 (BETA)",
-    "downloadUrl": "resources/goldencraft.100531/download?version=444087",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646600580,
-    "sourceUrl": "https://www.spigotmc.org/resources/goldencraft.100531/history"
-  }
+  "name": "0.0.1 (BETA)",
+  "downloadUrl": "resources/goldencraft.100531/download?version=444087",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646600580,
+  "sourceUrl": "https://www.spigotmc.org/resources/goldencraft.100531/history"
 }

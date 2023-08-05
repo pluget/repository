@@ -1,12 +1,9 @@
 {
   "name": "1.4.1",
-  "version": {
-    "name": "1.4.1",
-    "downloadUrl": "resources/charactercards.101760/download?version=453867",
-    "numberOfDownloads": 50,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1653778620,
-    "sourceUrl": "https://www.spigotmc.org/resources/charactercards.101760/history"
-  }
+  "downloadUrl": "resources/charactercards.101760/download?version=453867",
+  "numberOfDownloads": 50,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1653778620,
+  "sourceUrl": "https://www.spigotmc.org/resources/charactercards.101760/history"
 }

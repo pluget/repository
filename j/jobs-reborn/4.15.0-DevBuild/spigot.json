@@ -1,12 +1,9 @@
 {
   "name": "4.15.0-DevBuild",
-  "version": {
-    "name": "4.15.0-DevBuild",
-    "downloadUrl": "resources/jobs-reborn.4216/download?version=304688",
-    "numberOfDownloads": 5,
-    "rating": 7.6666666666666,
-    "numberOfVotes": 6,
-    "releaseDate": 1576169700,
-    "sourceUrl": "https://www.spigotmc.org/resources/jobs-reborn.4216/history"
-  }
+  "downloadUrl": "resources/jobs-reborn.4216/download?version=304688",
+  "numberOfDownloads": 5,
+  "rating": 7.6666666666666,
+  "numberOfVotes": 6,
+  "releaseDate": 1576169700,
+  "sourceUrl": "https://www.spigotmc.org/resources/jobs-reborn.4216/history"
 }

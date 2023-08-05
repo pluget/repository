@@ -1,12 +1,9 @@
 {
-  "name": "4.3.3",
-  "version": {
-    "name": "v4.3.3",
-    "downloadUrl": "resources/autorank.3239/download?version=311655",
-    "numberOfDownloads": 11,
-    "rating": 4.3333333333334,
-    "numberOfVotes": 6,
-    "releaseDate": 1580125740,
-    "sourceUrl": "https://www.spigotmc.org/resources/autorank.3239/history"
-  }
+  "name": "v4.3.3",
+  "downloadUrl": "resources/autorank.3239/download?version=311655",
+  "numberOfDownloads": 11,
+  "rating": 4.3333333333334,
+  "numberOfVotes": 6,
+  "releaseDate": 1580125740,
+  "sourceUrl": "https://www.spigotmc.org/resources/autorank.3239/history"
 }

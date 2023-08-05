@@ -1,12 +1,9 @@
 {
   "name": "1.0.3-SNAPSHOT",
-  "version": {
-    "name": "1.0.3-SNAPSHOT",
-    "downloadUrl": "resources/wsc-minecraft-linker.105307/download?version=489273",
-    "numberOfDownloads": 9,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1678906740,
-    "sourceUrl": "https://www.spigotmc.org/resources/wsc-minecraft-linker.105307/history"
-  }
+  "downloadUrl": "resources/wsc-minecraft-linker.105307/download?version=489273",
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1678906740,
+  "sourceUrl": "https://www.spigotmc.org/resources/wsc-minecraft-linker.105307/history"
 }

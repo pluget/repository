@@ -1,12 +1,9 @@
 {
   "name": "1.12.23",
-  "version": {
-    "name": "1.12.23",
-    "downloadUrl": "resources/staff.83562/download?version=380281",
-    "numberOfDownloads": 32,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1611876540,
-    "sourceUrl": "https://www.spigotmc.org/resources/staff.83562/history"
-  }
+  "downloadUrl": "resources/staff.83562/download?version=380281",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1611876540,
+  "sourceUrl": "https://www.spigotmc.org/resources/staff.83562/history"
 }

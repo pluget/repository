@@ -1,12 +1,9 @@
 {
-  "name": "2.4.0-RELEASE",
-  "version": {
-    "name": "2.4-RELEASE",
-    "downloadUrl": "resources/otter-antivpn-unlimited-ip-checks.100393/download?version=465365",
-    "numberOfDownloads": 38,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1660357800,
-    "sourceUrl": "https://www.spigotmc.org/resources/otter-antivpn-unlimited-ip-checks.100393/history"
-  }
+  "name": "2.4-RELEASE",
+  "downloadUrl": "resources/otter-antivpn-unlimited-ip-checks.100393/download?version=465365",
+  "numberOfDownloads": 38,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1660357800,
+  "sourceUrl": "https://www.spigotmc.org/resources/otter-antivpn-unlimited-ip-checks.100393/history"
 }

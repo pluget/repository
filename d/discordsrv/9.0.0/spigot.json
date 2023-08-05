@@ -1,12 +1,9 @@
 {
-  "name": "9.0.0",
-  "version": {
-    "name": "9.0",
-    "downloadUrl": "resources/discordsrv.18494/download?version=98167",
-    "numberOfDownloads": 240,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1466495940,
-    "sourceUrl": "https://www.spigotmc.org/resources/discordsrv.18494/history"
-  }
+  "name": "9.0",
+  "downloadUrl": "resources/discordsrv.18494/download?version=98167",
+  "numberOfDownloads": 240,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1466495940,
+  "sourceUrl": "https://www.spigotmc.org/resources/discordsrv.18494/history"
 }

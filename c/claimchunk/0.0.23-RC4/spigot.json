@@ -1,12 +1,9 @@
 {
   "name": "0.0.23-RC4",
-  "version": {
-    "name": "0.0.23-RC4",
-    "downloadUrl": "resources/claimchunk.44458/download?version=435404",
-    "numberOfDownloads": 562,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1641512820,
-    "sourceUrl": "https://www.spigotmc.org/resources/claimchunk.44458/history"
-  }
+  "downloadUrl": "resources/claimchunk.44458/download?version=435404",
+  "numberOfDownloads": 562,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1641512820,
+  "sourceUrl": "https://www.spigotmc.org/resources/claimchunk.44458/history"
 }

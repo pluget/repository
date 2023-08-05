@@ -1,12 +1,9 @@
 {
-  "name": "0.0.5-ALPHA",
-  "version": {
-    "name": "v0.0.5-ALPHA",
-    "downloadUrl": "resources/survivalgames.76276/download?version=319253",
-    "numberOfDownloads": 124,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1584713940,
-    "sourceUrl": "https://www.spigotmc.org/resources/survivalgames.76276/history"
-  }
+  "name": "v0.0.5-ALPHA",
+  "downloadUrl": "resources/survivalgames.76276/download?version=319253",
+  "numberOfDownloads": 124,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1584713940,
+  "sourceUrl": "https://www.spigotmc.org/resources/survivalgames.76276/history"
 }

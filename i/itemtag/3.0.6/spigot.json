@@ -1,12 +1,9 @@
 {
   "name": "3.0.6",
-  "version": {
-    "name": "3.0.6",
-    "downloadUrl": "resources/itemtag-1-8-x-1-19-x.89634/download?version=475884",
-    "numberOfDownloads": 15,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1668929880,
-    "sourceUrl": "https://www.spigotmc.org/resources/itemtag-1-8-x-1-19-x.89634/history"
-  }
+  "downloadUrl": "resources/itemtag-1-8-x-1-19-x.89634/download?version=475884",
+  "numberOfDownloads": 15,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1668929880,
+  "sourceUrl": "https://www.spigotmc.org/resources/itemtag-1-8-x-1-19-x.89634/history"
 }

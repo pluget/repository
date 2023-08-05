@@ -1,12 +1,9 @@
 {
   "name": "2.2.2",
-  "version": {
-    "name": "2.2.2",
-    "downloadUrl": "resources/enchantment-solution.59556/download?version=310716",
-    "numberOfDownloads": 185,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1579583640,
-    "sourceUrl": "https://www.spigotmc.org/resources/enchantment-solution.59556/history"
-  }
+  "downloadUrl": "resources/enchantment-solution.59556/download?version=310716",
+  "numberOfDownloads": 185,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1579583640,
+  "sourceUrl": "https://www.spigotmc.org/resources/enchantment-solution.59556/history"
 }

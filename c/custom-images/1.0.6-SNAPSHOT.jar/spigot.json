@@ -1,12 +1,9 @@
 {
   "name": "1.0.6-SNAPSHOT.jar",
-  "version": {
-    "name": "1.0.6-SNAPSHOT.jar",
-    "downloadUrl": "resources/custom-images.53036/download?version=276196",
-    "numberOfDownloads": 6,
-    "rating": 8.2666666666666,
-    "numberOfVotes": 15,
-    "releaseDate": 1559241780,
-    "sourceUrl": "https://www.spigotmc.org/resources/custom-images.53036/history"
-  }
+  "downloadUrl": "resources/custom-images.53036/download?version=276196",
+  "numberOfDownloads": 6,
+  "rating": 8.2666666666666,
+  "numberOfVotes": 15,
+  "releaseDate": 1559241780,
+  "sourceUrl": "https://www.spigotmc.org/resources/custom-images.53036/history"
 }

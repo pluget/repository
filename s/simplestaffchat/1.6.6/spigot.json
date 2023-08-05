@@ -1,12 +1,9 @@
 {
   "name": "1.6.6",
-  "version": {
-    "name": "1.6.6",
-    "downloadUrl": "resources/simplestaffchat2-1-16-1-19-4-papi-support.91883/download?version=413605",
-    "numberOfDownloads": 93,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1628351400,
-    "sourceUrl": "https://www.spigotmc.org/resources/91883/history/"
-  }
+  "downloadUrl": "resources/simplestaffchat2-1-16-1-19-4-papi-support.91883/download?version=413605",
+  "numberOfDownloads": 93,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1628351400,
+  "sourceUrl": "https://www.spigotmc.org/resources/91883/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/fishery.106091/download?version=474392",
-    "numberOfDownloads": 32,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1667590020,
-    "sourceUrl": "https://www.spigotmc.org/resources/fishery.106091/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/fishery.106091/download?version=474392",
+  "numberOfDownloads": 32,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1667590020,
+  "sourceUrl": "https://www.spigotmc.org/resources/fishery.106091/history"
 }

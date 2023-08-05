@@ -1,12 +1,9 @@
 {
-  "name": "1.12.0-v3",
-  "version": {
-    "name": "1.12-v3",
-    "downloadUrl": "resources/myworlds.39594/download?version=204671",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1516654080,
-    "sourceUrl": "https://www.spigotmc.org/resources/myworlds.39594/history"
-  }
+  "name": "1.12-v3",
+  "downloadUrl": "resources/myworlds.39594/download?version=204671",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1516654080,
+  "sourceUrl": "https://www.spigotmc.org/resources/myworlds.39594/history"
 }

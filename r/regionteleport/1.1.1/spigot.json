@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/regionteleport.84705/download?version=412276",
-    "numberOfDownloads": 79,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1627678740,
-    "sourceUrl": "https://www.spigotmc.org/resources/84705/history/"
-  }
+  "downloadUrl": "resources/regionteleport.84705/download?version=412276",
+  "numberOfDownloads": 79,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1627678740,
+  "sourceUrl": "https://www.spigotmc.org/resources/84705/history/"
 }

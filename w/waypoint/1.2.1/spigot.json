@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/waypoint.100868/download?version=461080",
-    "numberOfDownloads": 21,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1658038860,
-    "sourceUrl": "https://www.spigotmc.org/resources/waypoint.100868/history"
-  }
+  "downloadUrl": "resources/waypoint.100868/download?version=461080",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1658038860,
+  "sourceUrl": "https://www.spigotmc.org/resources/waypoint.100868/history"
 }

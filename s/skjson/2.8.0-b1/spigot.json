@@ -1,12 +1,9 @@
 {
   "name": "2.8.0-b1",
-  "version": {
-    "name": "2.8.0-b1",
-    "downloadUrl": "resources/skjson.106019/download?version=490739",
-    "numberOfDownloads": 35,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1679817900,
-    "sourceUrl": "https://www.spigotmc.org/resources/106019/history/"
-  }
+  "downloadUrl": "resources/skjson.106019/download?version=490739",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1679817900,
+  "sourceUrl": "https://www.spigotmc.org/resources/106019/history/"
 }

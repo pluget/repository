@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/teleportbow.89723/download?version=395485",
-    "numberOfDownloads": 35,
-    "rating": 6,
-    "numberOfVotes": 1,
-    "releaseDate": 1619177160,
-    "sourceUrl": "https://www.spigotmc.org/resources/89723/history/"
-  }
+  "downloadUrl": "resources/teleportbow.89723/download?version=395485",
+  "numberOfDownloads": 35,
+  "rating": 6,
+  "numberOfVotes": 1,
+  "releaseDate": 1619177160,
+  "sourceUrl": "https://www.spigotmc.org/resources/89723/history/"
 }

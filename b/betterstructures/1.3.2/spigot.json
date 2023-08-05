@@ -1,12 +1,9 @@
 {
   "name": "1.3.2",
-  "version": {
-    "name": "1.3.2",
-    "downloadUrl": "resources/betterstructures.103241/download?version=465883",
-    "numberOfDownloads": 450,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1660668120,
-    "sourceUrl": "https://www.spigotmc.org/resources/betterstructures.103241/history"
-  }
+  "downloadUrl": "resources/betterstructures.103241/download?version=465883",
+  "numberOfDownloads": 450,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1660668120,
+  "sourceUrl": "https://www.spigotmc.org/resources/betterstructures.103241/history"
 }

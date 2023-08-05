@@ -1,12 +1,9 @@
 {
   "name": "2.2.1",
-  "version": {
-    "name": "2.2.1",
-    "downloadUrl": "resources/building-game.10547/download?version=82192",
-    "numberOfDownloads": 163,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1460437140,
-    "sourceUrl": "https://www.spigotmc.org/resources/10547/history/"
-  }
+  "downloadUrl": "resources/building-game.10547/download?version=82192",
+  "numberOfDownloads": 163,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1460437140,
+  "sourceUrl": "https://www.spigotmc.org/resources/10547/history/"
 }

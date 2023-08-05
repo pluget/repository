@@ -1,12 +1,9 @@
 {
   "name": "1.2.2",
-  "version": {
-    "name": "1.2.2",
-    "downloadUrl": "resources/nxessentials.105063/download?version=468380",
-    "numberOfDownloads": 11,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1662303720,
-    "sourceUrl": "https://www.spigotmc.org/resources/nxessentials.105063/history"
-  }
+  "downloadUrl": "resources/nxessentials.105063/download?version=468380",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1662303720,
+  "sourceUrl": "https://www.spigotmc.org/resources/nxessentials.105063/history"
 }

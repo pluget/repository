@@ -1,12 +1,9 @@
 {
   "name": "1.5.0",
-  "version": {
-    "name": "1.5.0",
-    "downloadUrl": "resources/math-quiz.105027/download?version=468200",
-    "numberOfDownloads": 24,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1662188460,
-    "sourceUrl": "https://www.spigotmc.org/resources/math-quiz.105027/history"
-  }
+  "downloadUrl": "resources/math-quiz.105027/download?version=468200",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1662188460,
+  "sourceUrl": "https://www.spigotmc.org/resources/math-quiz.105027/history"
 }

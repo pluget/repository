@@ -1,12 +1,9 @@
 {
   "name": "1.0.1-SNAPSHOT",
-  "version": {
-    "name": "1.0.1-SNAPSHOT",
-    "downloadUrl": "resources/offlinecommands.93671/download?version=476554",
-    "numberOfDownloads": 26,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1669499520,
-    "sourceUrl": "https://www.spigotmc.org/resources/offlinecommands.93671/history"
-  }
+  "downloadUrl": "resources/offlinecommands.93671/download?version=476554",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1669499520,
+  "sourceUrl": "https://www.spigotmc.org/resources/offlinecommands.93671/history"
 }

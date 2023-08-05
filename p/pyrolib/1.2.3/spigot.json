@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/pyrolib.98255/download?version=467935",
-    "numberOfDownloads": 452,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1661967300,
-    "sourceUrl": "https://www.spigotmc.org/resources/pyrolib.98255/history"
-  }
+  "downloadUrl": "resources/pyrolib.98255/download?version=467935",
+  "numberOfDownloads": 452,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1661967300,
+  "sourceUrl": "https://www.spigotmc.org/resources/pyrolib.98255/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "2.7.6-RC4",
-  "version": {
-    "name": "v2.7.6-RC4",
-    "downloadUrl": "resources/uskyblock-revived.66795/download?version=270095",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1556022720,
-    "sourceUrl": "https://www.spigotmc.org/resources/uskyblock-revived.66795/history"
-  }
+  "name": "v2.7.6-RC4",
+  "downloadUrl": "resources/uskyblock-revived.66795/download?version=270095",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1556022720,
+  "sourceUrl": "https://www.spigotmc.org/resources/uskyblock-revived.66795/history"
 }

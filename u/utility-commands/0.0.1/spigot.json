@@ -1,12 +1,9 @@
 {
-  "name": "0.0.1",
-  "version": {
-    "name": "ALPHA 0.0.1",
-    "downloadUrl": "resources/utility-commands.103243/download?version=460095",
-    "numberOfDownloads": 9,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657427760,
-    "sourceUrl": "https://www.spigotmc.org/resources/103243/history/"
-  }
+  "name": "ALPHA 0.0.1",
+  "downloadUrl": "resources/utility-commands.103243/download?version=460095",
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657427760,
+  "sourceUrl": "https://www.spigotmc.org/resources/103243/history/"
 }

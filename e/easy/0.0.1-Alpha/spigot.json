@@ -1,12 +1,9 @@
 {
   "name": "0.0.1-Alpha",
-  "version": {
-    "name": "0.0.1-Alpha",
-    "downloadUrl": "resources/easy-fly-plugin.100152/download?version=441857",
-    "numberOfDownloads": 12,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1645289100,
-    "sourceUrl": "https://www.spigotmc.org/resources/easy-fly-plugin.100152/history"
-  }
+  "downloadUrl": "resources/easy-fly-plugin.100152/download?version=441857",
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1645289100,
+  "sourceUrl": "https://www.spigotmc.org/resources/easy-fly-plugin.100152/history"
 }

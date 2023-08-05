@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0-release",
-  "version": {
-    "name": "1.1-release",
-    "downloadUrl": "resources/tasklist.103488/download?version=461338",
-    "numberOfDownloads": 17,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1658178960,
-    "sourceUrl": "https://www.spigotmc.org/resources/103488/history/"
-  }
+  "name": "1.1-release",
+  "downloadUrl": "resources/tasklist.103488/download?version=461338",
+  "numberOfDownloads": 17,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1658178960,
+  "sourceUrl": "https://www.spigotmc.org/resources/103488/history/"
 }

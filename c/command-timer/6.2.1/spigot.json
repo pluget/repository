@@ -1,12 +1,9 @@
 {
   "name": "6.2.1",
-  "version": {
-    "name": "6.2.1",
-    "downloadUrl": "resources/command-timer.24141/download?version=445722",
-    "numberOfDownloads": 569,
-    "rating": 8,
-    "numberOfVotes": 2,
-    "releaseDate": 1647691440,
-    "sourceUrl": "https://www.spigotmc.org/resources/24141/history/"
-  }
+  "downloadUrl": "resources/command-timer.24141/download?version=445722",
+  "numberOfDownloads": 569,
+  "rating": 8,
+  "numberOfVotes": 2,
+  "releaseDate": 1647691440,
+  "sourceUrl": "https://www.spigotmc.org/resources/24141/history/"
 }

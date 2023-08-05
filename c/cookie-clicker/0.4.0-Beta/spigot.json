@@ -1,12 +1,9 @@
 {
-  "name": "0.4.0-Beta",
-  "version": {
-    "name": "0.4-Beta",
-    "downloadUrl": "resources/cookie-clicker.105878/download?version=475661",
-    "numberOfDownloads": 51,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1668715200,
-    "sourceUrl": "https://www.spigotmc.org/resources/cookie-clicker.105878/history"
-  }
+  "name": "0.4-Beta",
+  "downloadUrl": "resources/cookie-clicker.105878/download?version=475661",
+  "numberOfDownloads": 51,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1668715200,
+  "sourceUrl": "https://www.spigotmc.org/resources/cookie-clicker.105878/history"
 }

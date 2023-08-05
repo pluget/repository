@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/craftle.100876/download?version=446086",
-    "numberOfDownloads": 54,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1647903720,
-    "sourceUrl": "https://www.spigotmc.org/resources/craftle.100876/history"
-  }
+  "downloadUrl": "resources/craftle.100876/download?version=446086",
+  "numberOfDownloads": 54,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1647903720,
+  "sourceUrl": "https://www.spigotmc.org/resources/craftle.100876/history"
 }

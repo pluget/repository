@@ -1,12 +1,9 @@
 {
   "name": "1.9.3-SNAPSHOT",
-  "version": {
-    "name": "1.9.3-SNAPSHOT",
-    "downloadUrl": "resources/physicstogo-physics-environmental-regeneration.17181/download?version=303836",
-    "numberOfDownloads": 208,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1575638100,
-    "sourceUrl": "https://www.spigotmc.org/resources/physicstogo-physics-environmental-regeneration.17181/history"
-  }
+  "downloadUrl": "resources/physicstogo-physics-environmental-regeneration.17181/download?version=303836",
+  "numberOfDownloads": 208,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1575638100,
+  "sourceUrl": "https://www.spigotmc.org/resources/physicstogo-physics-environmental-regeneration.17181/history"
 }

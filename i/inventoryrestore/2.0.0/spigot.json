@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0",
-  "version": {
-    "name": "2.0",
-    "downloadUrl": "resources/inventory-restore-1-8-1-18-1.22436/download?version=411098",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1627144380,
-    "sourceUrl": "https://www.spigotmc.org/resources/22436/history/"
-  }
+  "name": "2.0",
+  "downloadUrl": "resources/inventory-restore-1-8-1-18-1.22436/download?version=411098",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1627144380,
+  "sourceUrl": "https://www.spigotmc.org/resources/22436/history/"
 }

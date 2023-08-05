@@ -1,12 +1,9 @@
 {
   "name": "5.5.0",
-  "version": {
-    "name": "5.5.0",
-    "downloadUrl": "resources/mycommand.22272/download?version=274370",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 5,
-    "releaseDate": 1558277340,
-    "sourceUrl": "https://www.spigotmc.org/resources/mycommand.22272/history"
-  }
+  "downloadUrl": "resources/mycommand.22272/download?version=274370",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 5,
+  "releaseDate": 1558277340,
+  "sourceUrl": "https://www.spigotmc.org/resources/mycommand.22272/history"
 }

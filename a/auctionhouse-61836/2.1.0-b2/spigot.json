@@ -1,12 +1,9 @@
 {
-  "name": "2.1.0-b2",
-  "version": {
-    "name": "2.1-b2",
-    "downloadUrl": "resources/auctionhouse.61836/download?version=340264",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1593323880,
-    "sourceUrl": "https://www.spigotmc.org/resources/61836/history/"
-  }
+  "name": "2.1-b2",
+  "downloadUrl": "resources/auctionhouse.61836/download?version=340264",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1593323880,
+  "sourceUrl": "https://www.spigotmc.org/resources/61836/history/"
 }

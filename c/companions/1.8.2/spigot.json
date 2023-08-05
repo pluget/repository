@@ -1,12 +1,9 @@
 {
   "name": "1.8.2",
-  "version": {
-    "name": "1.8.2",
-    "downloadUrl": "resources/companions-free-version.83795/download?version=365987",
-    "numberOfDownloads": 622,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1604820480,
-    "sourceUrl": "https://www.spigotmc.org/resources/companions-free-version.83795/history"
-  }
+  "downloadUrl": "resources/companions-free-version.83795/download?version=365987",
+  "numberOfDownloads": 622,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1604820480,
+  "sourceUrl": "https://www.spigotmc.org/resources/companions-free-version.83795/history"
 }

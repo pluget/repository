@@ -1,12 +1,9 @@
 {
-  "name": "1.0.6-pre.1",
-  "version": {
-    "name": "1.0.6",
-    "downloadUrl": "resources/pocket-beacon.98852/download?version=434737",
-    "numberOfDownloads": 66,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1641176340,
-    "sourceUrl": "https://www.spigotmc.org/resources/98852/history/"
-  }
+  "name": "1.0.6",
+  "downloadUrl": "resources/pocket-beacon.98852/download?version=434737",
+  "numberOfDownloads": 66,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1641176340,
+  "sourceUrl": "https://www.spigotmc.org/resources/98852/history/"
 }

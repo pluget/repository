@@ -1,12 +1,9 @@
 {
   "name": "1.0.1-BETA",
-  "version": {
-    "name": "1.0.1-BETA",
-    "downloadUrl": "resources/advanced-security-1-13-1-19-next-gen-server-security-plugin.102233/download?version=453564",
-    "numberOfDownloads": 147,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1653529260,
-    "sourceUrl": "https://www.spigotmc.org/resources/102233/history/"
-  }
+  "downloadUrl": "resources/advanced-security-1-13-1-19-next-gen-server-security-plugin.102233/download?version=453564",
+  "numberOfDownloads": 147,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1653529260,
+  "sourceUrl": "https://www.spigotmc.org/resources/102233/history/"
 }

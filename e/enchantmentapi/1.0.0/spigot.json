@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/enchantmentapi.101251/download?version=448239",
-    "numberOfDownloads": 13,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1649513040,
-    "sourceUrl": "https://www.spigotmc.org/resources/enchantmentapi.101251/history"
-  }
+  "downloadUrl": "resources/enchantmentapi.101251/download?version=448239",
+  "numberOfDownloads": 13,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1649513040,
+  "sourceUrl": "https://www.spigotmc.org/resources/enchantmentapi.101251/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "7.2.0",
-  "version": {
-    "name": "7.2.0",
-    "downloadUrl": "resources/%E2%9A%94elitemobs%E2%9A%94.40090/download?version=363285",
-    "numberOfDownloads": 7,
-    "rating": 9.5555555555556,
-    "numberOfVotes": 9,
-    "releaseDate": 1603511280,
-    "sourceUrl": "https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/history"
-  }
+  "downloadUrl": "resources/%E2%9A%94elitemobs%E2%9A%94.40090/download?version=363285",
+  "numberOfDownloads": 7,
+  "rating": 9.5555555555556,
+  "numberOfVotes": 9,
+  "releaseDate": 1603511280,
+  "sourceUrl": "https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/history"
 }

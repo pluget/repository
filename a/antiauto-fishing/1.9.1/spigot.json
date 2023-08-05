@@ -1,12 +1,9 @@
 {
   "name": "1.9.1",
-  "version": {
-    "name": "1.9.1",
-    "downloadUrl": "resources/anti-auto-fishing.58978/download?version=270375",
-    "numberOfDownloads": 429,
-    "rating": 10,
-    "numberOfVotes": 6,
-    "releaseDate": 1556185260,
-    "sourceUrl": "https://www.spigotmc.org/resources/anti-auto-fishing.58978/history"
-  }
+  "downloadUrl": "resources/anti-auto-fishing.58978/download?version=270375",
+  "numberOfDownloads": 429,
+  "rating": 10,
+  "numberOfVotes": 6,
+  "releaseDate": 1556185260,
+  "sourceUrl": "https://www.spigotmc.org/resources/anti-auto-fishing.58978/history"
 }

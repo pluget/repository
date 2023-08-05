@@ -1,12 +1,9 @@
 {
   "name": "1.5.7-R",
-  "version": {
-    "name": "1.5.7-R",
-    "downloadUrl": "resources/treasurehunt.65112/download?version=344242",
-    "numberOfDownloads": 101,
-    "rating": 7,
-    "numberOfVotes": 2,
-    "releaseDate": 1594741320,
-    "sourceUrl": "https://www.spigotmc.org/resources/65112/history/"
-  }
+  "downloadUrl": "resources/treasurehunt.65112/download?version=344242",
+  "numberOfDownloads": 101,
+  "rating": 7,
+  "numberOfVotes": 2,
+  "releaseDate": 1594741320,
+  "sourceUrl": "https://www.spigotmc.org/resources/65112/history/"
 }

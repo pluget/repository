@@ -1,12 +1,9 @@
 {
-  "name": "1.4.0-b1",
-  "version": {
-    "name": "1.4-b1",
-    "downloadUrl": "resources/lasso.54815/download?version=340321",
-    "numberOfDownloads": 105,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1593345480,
-    "sourceUrl": "https://www.spigotmc.org/resources/lasso.54815/history"
-  }
+  "name": "1.4-b1",
+  "downloadUrl": "resources/lasso.54815/download?version=340321",
+  "numberOfDownloads": 105,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1593345480,
+  "sourceUrl": "https://www.spigotmc.org/resources/lasso.54815/history"
 }

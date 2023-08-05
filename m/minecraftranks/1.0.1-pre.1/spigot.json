@@ -1,12 +1,9 @@
 {
-  "name": "1.0.1-pre.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/minecraftranks.108300/download?version=487903",
-    "numberOfDownloads": 11,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1677929160,
-    "sourceUrl": "https://www.spigotmc.org/resources/minecraftranks.108300/history"
-  }
+  "name": "1.0.1",
+  "downloadUrl": "resources/minecraftranks.108300/download?version=487903",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1677929160,
+  "sourceUrl": "https://www.spigotmc.org/resources/minecraftranks.108300/history"
 }

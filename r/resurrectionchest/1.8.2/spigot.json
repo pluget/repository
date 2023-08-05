@@ -1,12 +1,9 @@
 {
   "name": "1.8.2",
-  "version": {
-    "name": "1.8.2",
-    "downloadUrl": "resources/resurrectionchest.57541/download?version=462042",
-    "numberOfDownloads": 45,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1658607660,
-    "sourceUrl": "https://www.spigotmc.org/resources/resurrectionchest.57541/history"
-  }
+  "downloadUrl": "resources/resurrectionchest.57541/download?version=462042",
+  "numberOfDownloads": 45,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1658607660,
+  "sourceUrl": "https://www.spigotmc.org/resources/resurrectionchest.57541/history"
 }

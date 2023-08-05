@@ -1,12 +1,9 @@
 {
   "name": "1.2.6",
-  "version": {
-    "name": "1.2.6",
-    "downloadUrl": "resources/bedwars1058-mapselector-addon.105289/download?version=469514",
-    "numberOfDownloads": 168,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1663186020,
-    "sourceUrl": "https://www.spigotmc.org/resources/bedwars1058-mapselector-addon.105289/history"
-  }
+  "downloadUrl": "resources/bedwars1058-mapselector-addon.105289/download?version=469514",
+  "numberOfDownloads": 168,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1663186020,
+  "sourceUrl": "https://www.spigotmc.org/resources/bedwars1058-mapselector-addon.105289/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "2022.10.10",
-  "version": {
-    "name": "2022-10-10",
-    "downloadUrl": "resources/juul-1-0.105724/download?version=472068",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1665414300,
-    "sourceUrl": "https://www.spigotmc.org/resources/105724/history/"
-  }
+  "name": "2022-10-10",
+  "downloadUrl": "resources/juul-1-0.105724/download?version=472068",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1665414300,
+  "sourceUrl": "https://www.spigotmc.org/resources/105724/history/"
 }

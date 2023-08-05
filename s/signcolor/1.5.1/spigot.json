@@ -1,12 +1,9 @@
 {
   "name": "1.5.1",
-  "version": {
-    "name": "1.5.1",
-    "downloadUrl": "resources/signcolor.45638/download?version=404762",
-    "numberOfDownloads": 50,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1624288020,
-    "sourceUrl": "https://www.spigotmc.org/resources/signcolor.45638/history"
-  }
+  "downloadUrl": "resources/signcolor.45638/download?version=404762",
+  "numberOfDownloads": 50,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1624288020,
+  "sourceUrl": "https://www.spigotmc.org/resources/signcolor.45638/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/teacupspro.99766/download?version=441589",
-    "numberOfDownloads": 32,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1645119780,
-    "sourceUrl": "https://www.spigotmc.org/resources/99766/history/"
-  }
+  "downloadUrl": "resources/teacupspro.99766/download?version=441589",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1645119780,
+  "sourceUrl": "https://www.spigotmc.org/resources/99766/history/"
 }

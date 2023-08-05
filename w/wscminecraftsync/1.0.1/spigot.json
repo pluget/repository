@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/wsc-minecraft-sync.105308/download?version=489278",
-    "numberOfDownloads": 7,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1678907100,
-    "sourceUrl": "https://www.spigotmc.org/resources/wsc-minecraft-sync.105308/history"
-  }
+  "downloadUrl": "resources/wsc-minecraft-sync.105308/download?version=489278",
+  "numberOfDownloads": 7,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1678907100,
+  "sourceUrl": "https://www.spigotmc.org/resources/wsc-minecraft-sync.105308/history"
 }

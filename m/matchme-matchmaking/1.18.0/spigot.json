@@ -1,12 +1,9 @@
 {
-  "name": "1.18.0",
-  "version": {
-    "name": "1.18",
-    "downloadUrl": "resources/matchme-matchmaking-universal.76109/download?version=446496",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1648222920,
-    "sourceUrl": "https://www.spigotmc.org/resources/matchme-matchmaking-universal.76109/history"
-  }
+  "name": "1.18",
+  "downloadUrl": "resources/matchme-matchmaking-universal.76109/download?version=446496",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1648222920,
+  "sourceUrl": "https://www.spigotmc.org/resources/matchme-matchmaking-universal.76109/history"
 }

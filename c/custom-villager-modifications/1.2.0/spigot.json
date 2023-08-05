@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/custom-villager-modifications.78329/download?version=330365",
-    "numberOfDownloads": 42,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1589032620,
-    "sourceUrl": "https://www.spigotmc.org/resources/78329/history/"
-  }
+  "downloadUrl": "resources/custom-villager-modifications.78329/download?version=330365",
+  "numberOfDownloads": 42,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1589032620,
+  "sourceUrl": "https://www.spigotmc.org/resources/78329/history/"
 }

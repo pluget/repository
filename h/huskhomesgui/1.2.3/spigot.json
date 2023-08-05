@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/huskhomesgui.91059/download?version=417332",
-    "numberOfDownloads": 544,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1630258980,
-    "sourceUrl": "https://www.spigotmc.org/resources/huskhomesgui.91059/history"
-  }
+  "downloadUrl": "resources/huskhomesgui.91059/download?version=417332",
+  "numberOfDownloads": 544,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1630258980,
+  "sourceUrl": "https://www.spigotmc.org/resources/huskhomesgui.91059/history"
 }

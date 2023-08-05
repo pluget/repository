@@ -1,12 +1,9 @@
 {
   "name": "1.4.3",
-  "version": {
-    "name": "1.4.3",
-    "downloadUrl": "resources/ticketmanager-1-18-fully-custom-gui-interface-sql-support.50392/download?version=197405",
-    "numberOfDownloads": 131,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1512782100,
-    "sourceUrl": "https://www.spigotmc.org/resources/ticketmanager-1-18-fully-custom-gui-interface-sql-support.50392/history"
-  }
+  "downloadUrl": "resources/ticketmanager-1-18-fully-custom-gui-interface-sql-support.50392/download?version=197405",
+  "numberOfDownloads": 131,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1512782100,
+  "sourceUrl": "https://www.spigotmc.org/resources/ticketmanager-1-18-fully-custom-gui-interface-sql-support.50392/history"
 }

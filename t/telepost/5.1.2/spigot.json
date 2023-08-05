@@ -1,12 +1,9 @@
 {
   "name": "5.1.2",
-  "version": {
-    "name": "5.1.2",
-    "downloadUrl": "resources/telepost.91988/download?version=410812",
-    "numberOfDownloads": 48,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1627034820,
-    "sourceUrl": "https://www.spigotmc.org/resources/telepost.91988/history"
-  }
+  "downloadUrl": "resources/telepost.91988/download?version=410812",
+  "numberOfDownloads": 48,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1627034820,
+  "sourceUrl": "https://www.spigotmc.org/resources/telepost.91988/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "0.16.0-RC-04",
-  "version": {
-    "name": "0.16-RC-04",
-    "downloadUrl": "resources/dungeonsxl.9488/download?version=230343",
-    "numberOfDownloads": 330,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1531833000,
-    "sourceUrl": "https://www.spigotmc.org/resources/dungeonsxl.9488/history"
-  }
+  "name": "0.16-RC-04",
+  "downloadUrl": "resources/dungeonsxl.9488/download?version=230343",
+  "numberOfDownloads": 330,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1531833000,
+  "sourceUrl": "https://www.spigotmc.org/resources/dungeonsxl.9488/history"
 }

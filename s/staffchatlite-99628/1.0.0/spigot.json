@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/staffchatlite.99628/download?version=439070",
-    "numberOfDownloads": 24,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1643546280,
-    "sourceUrl": "https://www.spigotmc.org/resources/staffchatlite.99628/history"
-  }
+  "downloadUrl": "resources/staffchatlite.99628/download?version=439070",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1643546280,
+  "sourceUrl": "https://www.spigotmc.org/resources/staffchatlite.99628/history"
 }

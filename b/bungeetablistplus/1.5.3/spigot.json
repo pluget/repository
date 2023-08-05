@@ -1,12 +1,9 @@
 {
   "name": "1.5.3",
-  "version": {
-    "name": "1.5.3",
-    "downloadUrl": "resources/bungeetablistplus.313/download?version=2006",
-    "numberOfDownloads": 350,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1400003160,
-    "sourceUrl": "https://www.spigotmc.org/resources/bungeetablistplus.313/history"
-  }
+  "downloadUrl": "resources/bungeetablistplus.313/download?version=2006",
+  "numberOfDownloads": 350,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1400003160,
+  "sourceUrl": "https://www.spigotmc.org/resources/bungeetablistplus.313/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.11.3",
-  "version": {
-    "name": "2.11.3",
-    "downloadUrl": "resources/redirect-plus.51975/download?version=386158",
-    "numberOfDownloads": 3,
-    "rating": 9.6,
-    "numberOfVotes": 5,
-    "releaseDate": 1614596820,
-    "sourceUrl": "https://www.spigotmc.org/resources/redirect-plus.51975/history"
-  }
+  "downloadUrl": "resources/redirect-plus.51975/download?version=386158",
+  "numberOfDownloads": 3,
+  "rating": 9.6,
+  "numberOfVotes": 5,
+  "releaseDate": 1614596820,
+  "sourceUrl": "https://www.spigotmc.org/resources/redirect-plus.51975/history"
 }

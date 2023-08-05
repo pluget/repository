@@ -1,12 +1,9 @@
 {
   "name": "4.3.1",
-  "version": {
-    "name": "4.3.1",
-    "downloadUrl": "resources/headsplus-%C2%BB-1-15-2-1-19-x.40265/download?version=217781",
-    "numberOfDownloads": 266,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1523980620,
-    "sourceUrl": "https://www.spigotmc.org/resources/headsplus-%C2%BB-1-15-2-1-19-x.40265/history"
-  }
+  "downloadUrl": "resources/headsplus-%C2%BB-1-15-2-1-19-x.40265/download?version=217781",
+  "numberOfDownloads": 266,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1523980620,
+  "sourceUrl": "https://www.spigotmc.org/resources/headsplus-%C2%BB-1-15-2-1-19-x.40265/history"
 }

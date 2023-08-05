@@ -1,12 +1,9 @@
 {
   "name": "1.3.0",
-  "version": {
-    "name": "1.3.0",
-    "downloadUrl": "resources/random-death-messages.73034/download?version=371175",
-    "numberOfDownloads": 175,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1607486820,
-    "sourceUrl": "https://www.spigotmc.org/resources/random-death-messages.73034/history"
-  }
+  "downloadUrl": "resources/random-death-messages.73034/download?version=371175",
+  "numberOfDownloads": 175,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1607486820,
+  "sourceUrl": "https://www.spigotmc.org/resources/random-death-messages.73034/history"
 }

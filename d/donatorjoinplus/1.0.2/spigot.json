@@ -1,12 +1,9 @@
 {
   "name": "1.0.2",
-  "version": {
-    "name": "1.0.2",
-    "downloadUrl": "resources/donatorjoin.8690/download?version=32332",
-    "numberOfDownloads": 125,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1435996140,
-    "sourceUrl": "https://www.spigotmc.org/resources/8690/history/"
-  }
+  "downloadUrl": "resources/donatorjoin.8690/download?version=32332",
+  "numberOfDownloads": 125,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1435996140,
+  "sourceUrl": "https://www.spigotmc.org/resources/8690/history/"
 }

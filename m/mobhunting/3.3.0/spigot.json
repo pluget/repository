@@ -1,12 +1,9 @@
 {
-  "name": "3.3.0",
-  "version": {
-    "name": "V3.3.0",
-    "downloadUrl": "resources/mobhunting.3582/download?version=101833",
-    "numberOfDownloads": 129,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1468083780,
-    "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
-  }
+  "name": "V3.3.0",
+  "downloadUrl": "resources/mobhunting.3582/download?version=101833",
+  "numberOfDownloads": 129,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1468083780,
+  "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
 }

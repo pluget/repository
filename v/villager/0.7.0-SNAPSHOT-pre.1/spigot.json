@@ -1,12 +1,9 @@
 {
-  "name": "0.7.0-SNAPSHOT-pre.1",
-  "version": {
-    "name": "0.7-SNAPSHOT",
-    "downloadUrl": "resources/villager-1-15-2-1-19-3.107258/download?version=481326",
-    "numberOfDownloads": 21,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1673093280,
-    "sourceUrl": "https://www.spigotmc.org/resources/villager-1-15-2-1-19-3.107258/history"
-  }
+  "name": "0.7-SNAPSHOT",
+  "downloadUrl": "resources/villager-1-15-2-1-19-3.107258/download?version=481326",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1673093280,
+  "sourceUrl": "https://www.spigotmc.org/resources/villager-1-15-2-1-19-3.107258/history"
 }

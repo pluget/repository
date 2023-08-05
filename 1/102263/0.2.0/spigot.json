@@ -1,12 +1,9 @@
 {
   "name": "0.2.0",
-  "version": {
-    "name": "0.2.0",
-    "downloadUrl": "resources/a-very-simple-discord-plugin.102263/download?version=453773",
-    "numberOfDownloads": 11,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1653725280,
-    "sourceUrl": "https://www.spigotmc.org/resources/a-very-simple-discord-plugin.102263/history"
-  }
+  "downloadUrl": "resources/a-very-simple-discord-plugin.102263/download?version=453773",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1653725280,
+  "sourceUrl": "https://www.spigotmc.org/resources/a-very-simple-discord-plugin.102263/history"
 }

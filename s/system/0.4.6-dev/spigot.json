@@ -1,12 +1,9 @@
 {
   "name": "0.4.6-dev",
-  "version": {
-    "name": "0.4.6-dev",
-    "downloadUrl": "resources/system-dev-version.66136/download?version=391227",
-    "numberOfDownloads": 61,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1617060060,
-    "sourceUrl": "https://www.spigotmc.org/resources/system-dev-version.66136/history"
-  }
+  "downloadUrl": "resources/system-dev-version.66136/download?version=391227",
+  "numberOfDownloads": 61,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1617060060,
+  "sourceUrl": "https://www.spigotmc.org/resources/system-dev-version.66136/history"
 }

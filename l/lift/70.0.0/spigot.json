@@ -1,12 +1,9 @@
 {
-  "name": "70.0.0",
-  "version": {
-    "name": "70",
-    "downloadUrl": "resources/lift.4704/download?version=364043",
-    "numberOfDownloads": 1,
-    "rating": 9.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1603922040,
-    "sourceUrl": "https://www.spigotmc.org/resources/lift.4704/history"
-  }
+  "name": "70",
+  "downloadUrl": "resources/lift.4704/download?version=364043",
+  "numberOfDownloads": 1,
+  "rating": 9.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1603922040,
+  "sourceUrl": "https://www.spigotmc.org/resources/lift.4704/history"
 }

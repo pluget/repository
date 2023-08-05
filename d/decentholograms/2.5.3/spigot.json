@@ -1,12 +1,9 @@
 {
   "name": "2.5.3",
-  "version": {
-    "name": "2.5.3",
-    "downloadUrl": "resources/decentholograms-1-8-1-19-4-papi-support-no-dependencies.96927/download?version=465284",
-    "numberOfDownloads": 6,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1660314120,
-    "sourceUrl": "https://www.spigotmc.org/resources/decentholograms-1-8-1-19-4-papi-support-no-dependencies.96927/history"
-  }
+  "downloadUrl": "resources/decentholograms-1-8-1-19-4-papi-support-no-dependencies.96927/download?version=465284",
+  "numberOfDownloads": 6,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1660314120,
+  "sourceUrl": "https://www.spigotmc.org/resources/decentholograms-1-8-1-19-4-papi-support-no-dependencies.96927/history"
 }

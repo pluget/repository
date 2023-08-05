@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/player-tracker.81425/download?version=418081",
-    "numberOfDownloads": 81,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1630743900,
-    "sourceUrl": "https://www.spigotmc.org/resources/player-tracker.81425/history"
-  }
+  "downloadUrl": "resources/player-tracker.81425/download?version=418081",
+  "numberOfDownloads": 81,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1630743900,
+  "sourceUrl": "https://www.spigotmc.org/resources/player-tracker.81425/history"
 }

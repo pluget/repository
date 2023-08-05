@@ -1,12 +1,9 @@
 {
   "name": "2.0.1",
-  "version": {
-    "name": "2.0.1",
-    "downloadUrl": "resources/bedclutch.102543/download?version=473678",
-    "numberOfDownloads": 96,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1667005020,
-    "sourceUrl": "https://www.spigotmc.org/resources/bedclutch.102543/history"
-  }
+  "downloadUrl": "resources/bedclutch.102543/download?version=473678",
+  "numberOfDownloads": 96,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1667005020,
+  "sourceUrl": "https://www.spigotmc.org/resources/bedclutch.102543/history"
 }

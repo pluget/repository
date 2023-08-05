@@ -1,12 +1,9 @@
 {
   "name": "1.0.2",
-  "version": {
-    "name": "1.0.2",
-    "downloadUrl": "resources/ingotskywars.107416/download?version=489186",
-    "numberOfDownloads": 14,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1678845420,
-    "sourceUrl": "https://www.spigotmc.org/resources/ingotskywars.107416/history"
-  }
+  "downloadUrl": "resources/ingotskywars.107416/download?version=489186",
+  "numberOfDownloads": 14,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1678845420,
+  "sourceUrl": "https://www.spigotmc.org/resources/ingotskywars.107416/history"
 }

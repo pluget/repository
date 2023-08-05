@@ -1,12 +1,9 @@
 {
   "name": "1.0.2",
-  "version": {
-    "name": "1.0.2",
-    "downloadUrl": "resources/netherwater.90989/download?version=416264",
-    "numberOfDownloads": 79,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1629691140,
-    "sourceUrl": "https://www.spigotmc.org/resources/netherwater.90989/history"
-  }
+  "downloadUrl": "resources/netherwater.90989/download?version=416264",
+  "numberOfDownloads": 79,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1629691140,
+  "sourceUrl": "https://www.spigotmc.org/resources/netherwater.90989/history"
 }

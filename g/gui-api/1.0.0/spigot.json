@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/gui-api.95468/download?version=415575",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1629357000,
-    "sourceUrl": "https://www.spigotmc.org/resources/gui-api.95468/history"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/gui-api.95468/download?version=415575",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1629357000,
+  "sourceUrl": "https://www.spigotmc.org/resources/gui-api.95468/history"
 }

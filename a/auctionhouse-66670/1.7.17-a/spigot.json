@@ -1,12 +1,9 @@
 {
-  "name": "1.7.17-a",
-  "version": {
-    "name": "1.7.17a",
-    "downloadUrl": "resources/auctionhouse-legacy.66670/download?version=287815",
-    "numberOfDownloads": 166,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1565083200,
-    "sourceUrl": "https://www.spigotmc.org/resources/auctionhouse-legacy.66670/history"
-  }
+  "name": "1.7.17a",
+  "downloadUrl": "resources/auctionhouse-legacy.66670/download?version=287815",
+  "numberOfDownloads": 166,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1565083200,
+  "sourceUrl": "https://www.spigotmc.org/resources/auctionhouse-legacy.66670/history"
 }

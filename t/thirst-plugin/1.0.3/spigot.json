@@ -1,12 +1,9 @@
 {
   "name": "1.0.3",
-  "version": {
-    "name": "1.0.3",
-    "downloadUrl": "resources/thirst-plugin-free.92238/download?version=398135",
-    "numberOfDownloads": 64,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1620663420,
-    "sourceUrl": "https://www.spigotmc.org/resources/92238/history/"
-  }
+  "downloadUrl": "resources/thirst-plugin-free.92238/download?version=398135",
+  "numberOfDownloads": 64,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1620663420,
+  "sourceUrl": "https://www.spigotmc.org/resources/92238/history/"
 }

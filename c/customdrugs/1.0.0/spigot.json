@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/customdrugs.102482/download?version=454929",
-    "numberOfDownloads": 95,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1654573320,
-    "sourceUrl": "https://www.spigotmc.org/resources/customdrugs.102482/history"
-  }
+  "downloadUrl": "resources/customdrugs.102482/download?version=454929",
+  "numberOfDownloads": 95,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1654573320,
+  "sourceUrl": "https://www.spigotmc.org/resources/customdrugs.102482/history"
 }

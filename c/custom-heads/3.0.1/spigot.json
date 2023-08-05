@@ -1,12 +1,9 @@
 {
   "name": "3.0.1",
-  "version": {
-    "name": "3.0.1",
-    "downloadUrl": "resources/custom-heads-1-8-1-19-2.29057/download?version=322504",
-    "numberOfDownloads": 10,
-    "rating": 9.6666666666666,
-    "numberOfVotes": 6,
-    "releaseDate": 1586096280,
-    "sourceUrl": "https://www.spigotmc.org/resources/custom-heads-1-8-1-19-2.29057/history"
-  }
+  "downloadUrl": "resources/custom-heads-1-8-1-19-2.29057/download?version=322504",
+  "numberOfDownloads": 10,
+  "rating": 9.6666666666666,
+  "numberOfVotes": 6,
+  "releaseDate": 1586096280,
+  "sourceUrl": "https://www.spigotmc.org/resources/custom-heads-1-8-1-19-2.29057/history"
 }

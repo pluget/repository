@@ -1,12 +1,9 @@
 {
-  "name": "0.021.0",
-  "version": {
-    "name": "V0.021",
-    "downloadUrl": "resources/minetorio.96681/download?version=490440",
-    "numberOfDownloads": 18,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1679593260,
-    "sourceUrl": "https://www.spigotmc.org/resources/minetorio.96681/history"
-  }
+  "name": "V0.021",
+  "downloadUrl": "resources/minetorio.96681/download?version=490440",
+  "numberOfDownloads": 18,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1679593260,
+  "sourceUrl": "https://www.spigotmc.org/resources/minetorio.96681/history"
 }

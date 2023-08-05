@@ -1,12 +1,9 @@
 {
-  "name": "1.4.4-c",
-  "version": {
-    "name": "1.4.4c",
-    "downloadUrl": "resources/livekit.88742/download?version=451586",
-    "numberOfDownloads": 5,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1651998120,
-    "sourceUrl": "https://www.spigotmc.org/resources/livekit.88742/history"
-  }
+  "name": "1.4.4c",
+  "downloadUrl": "resources/livekit.88742/download?version=451586",
+  "numberOfDownloads": 5,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1651998120,
+  "sourceUrl": "https://www.spigotmc.org/resources/livekit.88742/history"
 }

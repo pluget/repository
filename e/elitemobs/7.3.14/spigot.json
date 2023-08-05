@@ -1,12 +1,9 @@
 {
   "name": "7.3.14",
-  "version": {
-    "name": "7.3.14",
-    "downloadUrl": "resources/%E2%9A%94elitemobs%E2%9A%94.40090/download?version=449919",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1650695760,
-    "sourceUrl": "https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/history"
-  }
+  "downloadUrl": "resources/%E2%9A%94elitemobs%E2%9A%94.40090/download?version=449919",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1650695760,
+  "sourceUrl": "https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/history"
 }

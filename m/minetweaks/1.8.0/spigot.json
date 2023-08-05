@@ -1,12 +1,9 @@
 {
   "name": "1.8.0",
-  "version": {
-    "name": "1.8.0",
-    "downloadUrl": "resources/minetweaks.96757/download?version=463169",
-    "numberOfDownloads": 426,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1659210960,
-    "sourceUrl": "https://www.spigotmc.org/resources/96757/history/"
-  }
+  "downloadUrl": "resources/minetweaks.96757/download?version=463169",
+  "numberOfDownloads": 426,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1659210960,
+  "sourceUrl": "https://www.spigotmc.org/resources/96757/history/"
 }

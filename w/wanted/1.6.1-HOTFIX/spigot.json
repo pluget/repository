@@ -1,12 +1,9 @@
 {
   "name": "1.6.1-HOTFIX",
-  "version": {
-    "name": "1.6.1-HOTFIX",
-    "downloadUrl": "resources/wanted-1-8-1-19-4-wanted-bounty-system.94926/download?version=413671",
-    "numberOfDownloads": 132,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1628392980,
-    "sourceUrl": "https://www.spigotmc.org/resources/wanted-1-8-1-19-4-wanted-bounty-system.94926/history"
-  }
+  "downloadUrl": "resources/wanted-1-8-1-19-4-wanted-bounty-system.94926/download?version=413671",
+  "numberOfDownloads": 132,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1628392980,
+  "sourceUrl": "https://www.spigotmc.org/resources/wanted-1-8-1-19-4-wanted-bounty-system.94926/history"
 }

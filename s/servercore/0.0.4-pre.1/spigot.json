@@ -1,12 +1,9 @@
 {
-  "name": "0.0.4-pre.1",
-  "version": {
-    "name": "beta-0.0.4",
-    "downloadUrl": "resources/%E2%9A%A1-server-core-%E2%9A%A1-1-8x-1-19x-%E2%9C%94%EF%B8%8F-20-features-%E2%8F%AB.101534/download?version=449689",
-    "numberOfDownloads": 106,
-    "rating": 8,
-    "numberOfVotes": 2,
-    "releaseDate": 1650522120,
-    "sourceUrl": "https://www.spigotmc.org/resources/%E2%9A%A1-server-core-%E2%9A%A1-1-8x-1-19x-%E2%9C%94%EF%B8%8F-20-features-%E2%8F%AB.101534/history"
-  }
+  "name": "beta-0.0.4",
+  "downloadUrl": "resources/%E2%9A%A1-server-core-%E2%9A%A1-1-8x-1-19x-%E2%9C%94%EF%B8%8F-20-features-%E2%8F%AB.101534/download?version=449689",
+  "numberOfDownloads": 106,
+  "rating": 8,
+  "numberOfVotes": 2,
+  "releaseDate": 1650522120,
+  "sourceUrl": "https://www.spigotmc.org/resources/%E2%9A%A1-server-core-%E2%9A%A1-1-8x-1-19x-%E2%9C%94%EF%B8%8F-20-features-%E2%8F%AB.101534/history"
 }

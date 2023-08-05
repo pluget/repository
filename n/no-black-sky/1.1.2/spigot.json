@@ -1,12 +1,9 @@
 {
   "name": "1.1.2",
-  "version": {
-    "name": "1.1.2",
-    "downloadUrl": "resources/no-black-sky-1-8-8-1-19-x-for-void-world.25337/download?version=171685",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1500015960,
-    "sourceUrl": "https://www.spigotmc.org/resources/no-black-sky-1-8-8-1-19-x-for-void-world.25337/history"
-  }
+  "downloadUrl": "resources/no-black-sky-1-8-8-1-19-x-for-void-world.25337/download?version=171685",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1500015960,
+  "sourceUrl": "https://www.spigotmc.org/resources/no-black-sky-1-8-8-1-19-x-for-void-world.25337/history"
 }

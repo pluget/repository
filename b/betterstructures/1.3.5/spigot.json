@@ -1,12 +1,9 @@
 {
   "name": "1.3.5",
-  "version": {
-    "name": "1.3.5",
-    "downloadUrl": "resources/betterstructures.103241/download?version=468845",
-    "numberOfDownloads": 5,
-    "rating": 9.6,
-    "numberOfVotes": 10,
-    "releaseDate": 1662664740,
-    "sourceUrl": "https://www.spigotmc.org/resources/betterstructures.103241/history"
-  }
+  "downloadUrl": "resources/betterstructures.103241/download?version=468845",
+  "numberOfDownloads": 5,
+  "rating": 9.6,
+  "numberOfVotes": 10,
+  "releaseDate": 1662664740,
+  "sourceUrl": "https://www.spigotmc.org/resources/betterstructures.103241/history"
 }

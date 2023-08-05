@@ -1,12 +1,9 @@
 {
-  "name": "1.0.6",
-  "version": {
-    "name": "v1.0.6",
-    "downloadUrl": "resources/visual-spigot.87912/download?version=379359",
-    "numberOfDownloads": 58,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1611496200,
-    "sourceUrl": "https://www.spigotmc.org/resources/87912/history/"
-  }
+  "name": "v1.0.6",
+  "downloadUrl": "resources/visual-spigot.87912/download?version=379359",
+  "numberOfDownloads": 58,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1611496200,
+  "sourceUrl": "https://www.spigotmc.org/resources/87912/history/"
 }

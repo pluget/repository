@@ -1,12 +1,9 @@
 {
   "name": "0.3.0",
-  "version": {
-    "name": "0.3.0",
-    "downloadUrl": "resources/mapmodcompanion.105128/download?version=468751",
-    "numberOfDownloads": 28,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1662579960,
-    "sourceUrl": "https://www.spigotmc.org/resources/mapmodcompanion.105128/history"
-  }
+  "downloadUrl": "resources/mapmodcompanion.105128/download?version=468751",
+  "numberOfDownloads": 28,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1662579960,
+  "sourceUrl": "https://www.spigotmc.org/resources/mapmodcompanion.105128/history"
 }

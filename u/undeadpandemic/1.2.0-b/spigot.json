@@ -1,12 +1,9 @@
 {
-  "name": "1.2.0-b",
-  "version": {
-    "name": "1.2.0b",
-    "downloadUrl": "resources/undeadpandemic.95385/download?version=415948",
-    "numberOfDownloads": 60,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1629544920,
-    "sourceUrl": "https://www.spigotmc.org/resources/undeadpandemic.95385/history"
-  }
+  "name": "1.2.0b",
+  "downloadUrl": "resources/undeadpandemic.95385/download?version=415948",
+  "numberOfDownloads": 60,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1629544920,
+  "sourceUrl": "https://www.spigotmc.org/resources/undeadpandemic.95385/history"
 }

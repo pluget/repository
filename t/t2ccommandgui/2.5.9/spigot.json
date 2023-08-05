@@ -1,12 +1,9 @@
 {
-  "name": "2.5.9",
-  "version": {
-    "name": "V2.5.9",
-    "downloadUrl": "resources/t2c-commandgui-functionsgui-spigot-bungee-1-8-x-1-19-x.90671/download?version=428455",
-    "numberOfDownloads": 51,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1638012540,
-    "sourceUrl": "https://www.spigotmc.org/resources/90671/history/"
-  }
+  "name": "V2.5.9",
+  "downloadUrl": "resources/t2c-commandgui-functionsgui-spigot-bungee-1-8-x-1-19-x.90671/download?version=428455",
+  "numberOfDownloads": 51,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1638012540,
+  "sourceUrl": "https://www.spigotmc.org/resources/90671/history/"
 }

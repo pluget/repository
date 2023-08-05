@@ -1,12 +1,9 @@
 {
   "name": "3.3.13",
-  "version": {
-    "name": "3.3.13",
-    "downloadUrl": "resources/afk.35065/download?version=432943",
-    "numberOfDownloads": 18,
-    "rating": 8.8,
-    "numberOfVotes": 5,
-    "releaseDate": 1640218800,
-    "sourceUrl": "https://www.spigotmc.org/resources/35065/history/"
-  }
+  "downloadUrl": "resources/afk.35065/download?version=432943",
+  "numberOfDownloads": 18,
+  "rating": 8.8,
+  "numberOfVotes": 5,
+  "releaseDate": 1640218800,
+  "sourceUrl": "https://www.spigotmc.org/resources/35065/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/cartographer2-addon-towny.83848/download?version=356795",
-    "numberOfDownloads": 29,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1600015440,
-    "sourceUrl": "https://www.spigotmc.org/resources/cartographer2-addon-towny.83848/history"
-  }
+  "downloadUrl": "resources/cartographer2-addon-towny.83848/download?version=356795",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1600015440,
+  "sourceUrl": "https://www.spigotmc.org/resources/cartographer2-addon-towny.83848/history"
 }

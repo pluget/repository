@@ -1,12 +1,9 @@
 {
   "name": "1.5.5",
-  "version": {
-    "name": "1.5.5",
-    "downloadUrl": "resources/vtl-villagertradelimiter-1-14-1-1-19-4.87210/download?version=450850",
-    "numberOfDownloads": 183,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1651406460,
-    "sourceUrl": "https://www.spigotmc.org/resources/vtl-villagertradelimiter-1-14-1-1-19-4.87210/history"
-  }
+  "downloadUrl": "resources/vtl-villagertradelimiter-1-14-1-1-19-4.87210/download?version=450850",
+  "numberOfDownloads": 183,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1651406460,
+  "sourceUrl": "https://www.spigotmc.org/resources/vtl-villagertradelimiter-1-14-1-1-19-4.87210/history"
 }

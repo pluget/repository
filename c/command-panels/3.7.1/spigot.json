@@ -1,12 +1,9 @@
 {
   "name": "3.7.1",
-  "version": {
-    "name": "3.7.1",
-    "downloadUrl": "resources/commandpanels.67788/download?version=347575",
-    "numberOfDownloads": 290,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1596079920,
-    "sourceUrl": "https://www.spigotmc.org/resources/67788/history/"
-  }
+  "downloadUrl": "resources/commandpanels.67788/download?version=347575",
+  "numberOfDownloads": 290,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1596079920,
+  "sourceUrl": "https://www.spigotmc.org/resources/67788/history/"
 }

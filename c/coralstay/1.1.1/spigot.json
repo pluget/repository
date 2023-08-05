@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/coralstay.60731/download?version=257784",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1548018840,
-    "sourceUrl": "https://www.spigotmc.org/resources/coralstay.60731/history"
-  }
+  "downloadUrl": "resources/coralstay.60731/download?version=257784",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1548018840,
+  "sourceUrl": "https://www.spigotmc.org/resources/coralstay.60731/history"
 }

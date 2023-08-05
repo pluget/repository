@@ -1,12 +1,9 @@
 {
   "name": "0.1.1",
-  "version": {
-    "name": "0.1.1",
-    "downloadUrl": "resources/lobbybasics.102881/download?version=458003",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1656169980,
-    "sourceUrl": "https://www.spigotmc.org/resources/lobbybasics.102881/history"
-  }
+  "downloadUrl": "resources/lobbybasics.102881/download?version=458003",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1656169980,
+  "sourceUrl": "https://www.spigotmc.org/resources/lobbybasics.102881/history"
 }

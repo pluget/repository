@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/simply-leash.100898/download?version=446242",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1648041840,
-    "sourceUrl": "https://www.spigotmc.org/resources/100898/history/"
-  }
+  "downloadUrl": "resources/simply-leash.100898/download?version=446242",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1648041840,
+  "sourceUrl": "https://www.spigotmc.org/resources/100898/history/"
 }

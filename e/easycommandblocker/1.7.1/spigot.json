@@ -1,12 +1,9 @@
 {
   "name": "1.7.1",
-  "version": {
-    "name": "1.7.1",
-    "downloadUrl": "resources/easycommandblocker-spigot-waterfall-velocity-1-8-1-19.101752/download?version=457712",
-    "numberOfDownloads": 129,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1656002460,
-    "sourceUrl": "https://www.spigotmc.org/resources/easycommandblocker-spigot-waterfall-velocity-1-8-1-19.101752/history"
-  }
+  "downloadUrl": "resources/easycommandblocker-spigot-waterfall-velocity-1-8-1-19.101752/download?version=457712",
+  "numberOfDownloads": 129,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1656002460,
+  "sourceUrl": "https://www.spigotmc.org/resources/easycommandblocker-spigot-waterfall-velocity-1-8-1-19.101752/history"
 }

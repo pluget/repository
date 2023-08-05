@@ -1,12 +1,9 @@
 {
-  "name": "5.0.0-_bukkit-1.8",
-  "version": {
-    "name": "v5_bukkit-1.8",
-    "downloadUrl": "resources/playerparticles.40261/download?version=216127",
-    "numberOfDownloads": 233,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1522980360,
-    "sourceUrl": "https://www.spigotmc.org/resources/40261/history/"
-  }
+  "name": "v5_bukkit-1.8",
+  "downloadUrl": "resources/playerparticles.40261/download?version=216127",
+  "numberOfDownloads": 233,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1522980360,
+  "sourceUrl": "https://www.spigotmc.org/resources/40261/history/"
 }

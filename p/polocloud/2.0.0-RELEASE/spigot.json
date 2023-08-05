@@ -1,12 +1,9 @@
 {
   "name": "2.0.0-RELEASE",
-  "version": {
-    "name": "2.0.0-RELEASE",
-    "downloadUrl": "resources/polocloud-a-modern-cloudsystem.96270/download?version=442805",
-    "numberOfDownloads": 95,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1645891860,
-    "sourceUrl": "https://www.spigotmc.org/resources/polocloud-a-modern-cloudsystem.96270/history"
-  }
+  "downloadUrl": "resources/polocloud-a-modern-cloudsystem.96270/download?version=442805",
+  "numberOfDownloads": 95,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1645891860,
+  "sourceUrl": "https://www.spigotmc.org/resources/polocloud-a-modern-cloudsystem.96270/history"
 }

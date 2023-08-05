@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/meapi.104081/download?version=463990",
-    "numberOfDownloads": 31,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1659647640,
-    "sourceUrl": "https://www.spigotmc.org/resources/meapi.104081/history"
-  }
+  "downloadUrl": "resources/meapi.104081/download?version=463990",
+  "numberOfDownloads": 31,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1659647640,
+  "sourceUrl": "https://www.spigotmc.org/resources/meapi.104081/history"
 }

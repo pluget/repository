@@ -1,12 +1,9 @@
 {
   "name": "7.0.4-1",
-  "version": {
-    "name": "7.0.4-1",
-    "downloadUrl": "resources/lifesteal.105373/download?version=472767",
-    "numberOfDownloads": 243,
-    "rating": 4,
-    "numberOfVotes": 1,
-    "releaseDate": 1666066020,
-    "sourceUrl": "https://www.spigotmc.org/resources/lifesteal.105373/history"
-  }
+  "downloadUrl": "resources/lifesteal.105373/download?version=472767",
+  "numberOfDownloads": 243,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releaseDate": 1666066020,
+  "sourceUrl": "https://www.spigotmc.org/resources/lifesteal.105373/history"
 }

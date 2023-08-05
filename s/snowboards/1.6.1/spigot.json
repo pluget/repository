@@ -1,12 +1,9 @@
 {
   "name": "1.6.1",
-  "version": {
-    "name": "1.6.1",
-    "downloadUrl": "resources/snowboards.83114/download?version=462885",
-    "numberOfDownloads": 35,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1659051360,
-    "sourceUrl": "https://www.spigotmc.org/resources/83114/history/"
-  }
+  "downloadUrl": "resources/snowboards.83114/download?version=462885",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1659051360,
+  "sourceUrl": "https://www.spigotmc.org/resources/83114/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.6.3",
-  "version": {
-    "name": "1.6.3",
-    "downloadUrl": "resources/tempfly-now-includes-factions-fly.54987/download?version=231999",
-    "numberOfDownloads": 64,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1532700060,
-    "sourceUrl": "https://www.spigotmc.org/resources/54987/history/"
-  }
+  "downloadUrl": "resources/tempfly-now-includes-factions-fly.54987/download?version=231999",
+  "numberOfDownloads": 64,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1532700060,
+  "sourceUrl": "https://www.spigotmc.org/resources/54987/history/"
 }

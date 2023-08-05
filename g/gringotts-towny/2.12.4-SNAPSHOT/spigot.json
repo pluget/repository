@@ -1,12 +1,9 @@
 {
   "name": "2.12.4-SNAPSHOT",
-  "version": {
-    "name": "2.12.4-SNAPSHOT",
-    "downloadUrl": "resources/gringotts-towny.105074/download?version=469371",
-    "numberOfDownloads": 256,
-    "rating": 5,
-    "numberOfVotes": 2,
-    "releaseDate": 1663085400,
-    "sourceUrl": "https://www.spigotmc.org/resources/gringotts-towny.105074/history"
-  }
+  "downloadUrl": "resources/gringotts-towny.105074/download?version=469371",
+  "numberOfDownloads": 256,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releaseDate": 1663085400,
+  "sourceUrl": "https://www.spigotmc.org/resources/gringotts-towny.105074/history"
 }

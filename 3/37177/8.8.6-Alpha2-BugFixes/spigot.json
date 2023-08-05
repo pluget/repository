@@ -1,12 +1,9 @@
 {
   "name": "8.8.6-Alpha2-BugFixes",
-  "version": {
-    "name": "8.8.6-Alpha2-BugFixes",
-    "downloadUrl": "resources/%E2%9E%A5-pixel-motd-1-8-1-19.37177/download?version=375299",
-    "numberOfDownloads": 239,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1609634460,
-    "sourceUrl": "https://www.spigotmc.org/resources/%E2%9E%A5-pixel-motd-1-8-1-19.37177/history"
-  }
+  "downloadUrl": "resources/%E2%9E%A5-pixel-motd-1-8-1-19.37177/download?version=375299",
+  "numberOfDownloads": 239,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1609634460,
+  "sourceUrl": "https://www.spigotmc.org/resources/%E2%9E%A5-pixel-motd-1-8-1-19.37177/history"
 }

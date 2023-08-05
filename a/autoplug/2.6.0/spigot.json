@@ -1,12 +1,9 @@
 {
-  "name": "2.6.0",
-  "version": {
-    "name": "2.6",
-    "downloadUrl": "resources/autoplug-automatic-updater-for-plugins-mods-server-java-itself.78414/download?version=404921",
-    "numberOfDownloads": 249,
-    "rating": 6,
-    "numberOfVotes": 2,
-    "releaseDate": 1624363020,
-    "sourceUrl": "https://www.spigotmc.org/resources/autoplug-automatic-updater-for-plugins-mods-server-java-itself.78414/history"
-  }
+  "name": "2.6",
+  "downloadUrl": "resources/autoplug-automatic-updater-for-plugins-mods-server-java-itself.78414/download?version=404921",
+  "numberOfDownloads": 249,
+  "rating": 6,
+  "numberOfVotes": 2,
+  "releaseDate": 1624363020,
+  "sourceUrl": "https://www.spigotmc.org/resources/autoplug-automatic-updater-for-plugins-mods-server-java-itself.78414/history"
 }

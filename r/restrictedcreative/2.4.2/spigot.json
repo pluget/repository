@@ -1,12 +1,9 @@
 {
-  "name": "2.4.2",
-  "version": {
-    "name": "[1.13-1.16] 2.4.2",
-    "downloadUrl": "",
-    "numberOfDownloads": 76,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1595261280,
-    "sourceUrl": "https://www.spigotmc.org/resources/restrictedcreative.42790/history"
-  }
+  "name": "[1.13-1.16] 2.4.2",
+  "downloadUrl": "",
+  "numberOfDownloads": 76,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1595261280,
+  "sourceUrl": "https://www.spigotmc.org/resources/restrictedcreative.42790/history"
 }

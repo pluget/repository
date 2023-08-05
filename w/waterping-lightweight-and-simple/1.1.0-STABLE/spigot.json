@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0-STABLE",
-  "version": {
-    "name": "1.1-STABLE",
-    "downloadUrl": "resources/waterping-lightweight-and-simple-ping-system.99861/download?version=443750",
-    "numberOfDownloads": 79,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1646466600,
-    "sourceUrl": "https://www.spigotmc.org/resources/99861/history/"
-  }
+  "name": "1.1-STABLE",
+  "downloadUrl": "resources/waterping-lightweight-and-simple-ping-system.99861/download?version=443750",
+  "numberOfDownloads": 79,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1646466600,
+  "sourceUrl": "https://www.spigotmc.org/resources/99861/history/"
 }

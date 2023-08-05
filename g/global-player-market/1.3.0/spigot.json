@@ -1,12 +1,9 @@
 {
   "name": "1.3.0",
-  "version": {
-    "name": "1.3.0",
-    "downloadUrl": "resources/global-player-market.99114/download?version=480958",
-    "numberOfDownloads": 57,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672832280,
-    "sourceUrl": "https://www.spigotmc.org/resources/global-player-market.99114/history"
-  }
+  "downloadUrl": "resources/global-player-market.99114/download?version=480958",
+  "numberOfDownloads": 57,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672832280,
+  "sourceUrl": "https://www.spigotmc.org/resources/global-player-market.99114/history"
 }

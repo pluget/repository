@@ -1,12 +1,9 @@
 {
-  "name": "2.4.0",
-  "version": {
-    "name": "2.4",
-    "downloadUrl": "resources/economyplus.92975/download?version=419240",
-    "numberOfDownloads": 189,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1631486760,
-    "sourceUrl": "https://www.spigotmc.org/resources/92975/history/"
-  }
+  "name": "2.4",
+  "downloadUrl": "resources/economyplus.92975/download?version=419240",
+  "numberOfDownloads": 189,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1631486760,
+  "sourceUrl": "https://www.spigotmc.org/resources/92975/history/"
 }

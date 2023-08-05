@@ -1,12 +1,9 @@
 {
-  "name": "1.5.0",
-  "version": {
-    "name": "1.5",
-    "downloadUrl": "resources/playtime.26016/download?version=105749",
-    "numberOfDownloads": 676,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1469801760,
-    "sourceUrl": "https://www.spigotmc.org/resources/26016/history/"
-  }
+  "name": "1.5",
+  "downloadUrl": "resources/playtime.26016/download?version=105749",
+  "numberOfDownloads": 676,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1469801760,
+  "sourceUrl": "https://www.spigotmc.org/resources/26016/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.4.0",
-  "version": {
-    "name": "BETA-1.4.0",
-    "downloadUrl": "resources/citybuild-system-1-16-4-1-19-x.88621/download?version=385514",
-    "numberOfDownloads": 138,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1614249120,
-    "sourceUrl": "https://www.spigotmc.org/resources/citybuild-system-1-16-4-1-19-x.88621/history"
-  }
+  "name": "BETA-1.4.0",
+  "downloadUrl": "resources/citybuild-system-1-16-4-1-19-x.88621/download?version=385514",
+  "numberOfDownloads": 138,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1614249120,
+  "sourceUrl": "https://www.spigotmc.org/resources/citybuild-system-1-16-4-1-19-x.88621/history"
 }

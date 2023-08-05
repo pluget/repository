@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/rpgteleporting.107218/download?version=481103",
-    "numberOfDownloads": 63,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1672917000,
-    "sourceUrl": "https://www.spigotmc.org/resources/rpgteleporting.107218/history"
-  }
+  "downloadUrl": "resources/rpgteleporting.107218/download?version=481103",
+  "numberOfDownloads": 63,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1672917000,
+  "sourceUrl": "https://www.spigotmc.org/resources/rpgteleporting.107218/history"
 }

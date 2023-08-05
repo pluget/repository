@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/expbottle-withdraw-your-xp-into-bottles-1-15-1-18.98763/download?version=434021",
-    "numberOfDownloads": 81,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1640797380,
-    "sourceUrl": "https://www.spigotmc.org/resources/98763/history/"
-  }
+  "downloadUrl": "resources/expbottle-withdraw-your-xp-into-bottles-1-15-1-18.98763/download?version=434021",
+  "numberOfDownloads": 81,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1640797380,
+  "sourceUrl": "https://www.spigotmc.org/resources/98763/history/"
 }

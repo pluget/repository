@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/simple-halloween.72085/download?version=472204",
-    "numberOfDownloads": 112,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1665559140,
-    "sourceUrl": "https://www.spigotmc.org/resources/simple-halloween.72085/history"
-  }
+  "downloadUrl": "resources/simple-halloween.72085/download?version=472204",
+  "numberOfDownloads": 112,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1665559140,
+  "sourceUrl": "https://www.spigotmc.org/resources/simple-halloween.72085/history"
 }

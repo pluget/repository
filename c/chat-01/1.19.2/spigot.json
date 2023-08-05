@@ -1,12 +1,9 @@
 {
   "name": "1.19.2",
-  "version": {
-    "name": "1.19.2",
-    "downloadUrl": "resources/chat-0-1.105630/download?version=473924",
-    "numberOfDownloads": 9,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1667212020,
-    "sourceUrl": "https://www.spigotmc.org/resources/chat-0-1.105630/history"
-  }
+  "downloadUrl": "resources/chat-0-1.105630/download?version=473924",
+  "numberOfDownloads": 9,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1667212020,
+  "sourceUrl": "https://www.spigotmc.org/resources/chat-0-1.105630/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.0.0",
-  "version": {
-    "name": "2.0.0",
-    "downloadUrl": "resources/worldeditglobalizer.51527/download?version=333262",
-    "numberOfDownloads": 339,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1590250020,
-    "sourceUrl": "https://www.spigotmc.org/resources/worldeditglobalizer.51527/history"
-  }
+  "downloadUrl": "resources/worldeditglobalizer.51527/download?version=333262",
+  "numberOfDownloads": 339,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1590250020,
+  "sourceUrl": "https://www.spigotmc.org/resources/worldeditglobalizer.51527/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "7.0.0-beta-3",
-  "version": {
-    "name": "7.0.0 beta 3",
-    "downloadUrl": "resources/movecraft.31321/download?version=327261",
-    "numberOfDownloads": 128,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1587873660,
-    "sourceUrl": "https://www.spigotmc.org/resources/movecraft.31321/history"
-  }
+  "name": "7.0.0 beta 3",
+  "downloadUrl": "resources/movecraft.31321/download?version=327261",
+  "numberOfDownloads": 128,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1587873660,
+  "sourceUrl": "https://www.spigotmc.org/resources/movecraft.31321/history"
 }

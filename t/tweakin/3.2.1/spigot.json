@@ -1,12 +1,9 @@
 {
   "name": "3.2.1",
-  "version": {
-    "name": "3.2.1",
-    "downloadUrl": "resources/tweakin-1-17-1-19.93444/download?version=418237",
-    "numberOfDownloads": 216,
-    "rating": 7,
-    "numberOfVotes": 2,
-    "releaseDate": 1630822140,
-    "sourceUrl": "https://www.spigotmc.org/resources/tweakin-1-17-1-19.93444/history"
-  }
+  "downloadUrl": "resources/tweakin-1-17-1-19.93444/download?version=418237",
+  "numberOfDownloads": 216,
+  "rating": 7,
+  "numberOfVotes": 2,
+  "releaseDate": 1630822140,
+  "sourceUrl": "https://www.spigotmc.org/resources/tweakin-1-17-1-19.93444/history"
 }

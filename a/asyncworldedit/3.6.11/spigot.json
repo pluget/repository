@@ -1,12 +1,9 @@
 {
   "name": "3.6.11",
-  "version": {
-    "name": "3.6.11",
-    "downloadUrl": "resources/asyncworldedit.327/download?version=299835",
-    "numberOfDownloads": 7,
-    "rating": 8.4,
-    "numberOfVotes": 5,
-    "releaseDate": 1572539220,
-    "sourceUrl": "https://www.spigotmc.org/resources/asyncworldedit.327/history"
-  }
+  "downloadUrl": "resources/asyncworldedit.327/download?version=299835",
+  "numberOfDownloads": 7,
+  "rating": 8.4,
+  "numberOfVotes": 5,
+  "releaseDate": 1572539220,
+  "sourceUrl": "https://www.spigotmc.org/resources/asyncworldedit.327/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "3.2.10",
-  "version": {
-    "name": "3.2.10",
-    "downloadUrl": "resources/prison.1223/download?version=416329",
-    "numberOfDownloads": 4,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1629731520,
-    "sourceUrl": "https://www.spigotmc.org/resources/prison.1223/history"
-  }
+  "downloadUrl": "resources/prison.1223/download?version=416329",
+  "numberOfDownloads": 4,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1629731520,
+  "sourceUrl": "https://www.spigotmc.org/resources/prison.1223/history"
 }

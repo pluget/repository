@@ -1,12 +1,9 @@
 {
   "name": "5.3.0",
-  "version": {
-    "name": "5.3.0",
-    "downloadUrl": "resources/lightapi.4510/download?version=461537",
-    "numberOfDownloads": 10,
-    "rating": 6.8,
-    "numberOfVotes": 15,
-    "releaseDate": 1658318460,
-    "sourceUrl": "https://www.spigotmc.org/resources/lightapi.4510/history"
-  }
+  "downloadUrl": "resources/lightapi.4510/download?version=461537",
+  "numberOfDownloads": 10,
+  "rating": 6.8,
+  "numberOfVotes": 15,
+  "releaseDate": 1658318460,
+  "sourceUrl": "https://www.spigotmc.org/resources/lightapi.4510/history"
 }

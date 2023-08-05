@@ -1,12 +1,9 @@
 {
   "name": "7.9.1",
-  "version": {
-    "name": "7.9.1",
-    "downloadUrl": "resources/magic.1056/download?version=331491",
-    "numberOfDownloads": 700,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1589474400,
-    "sourceUrl": "https://www.spigotmc.org/resources/magic.1056/history"
-  }
+  "downloadUrl": "resources/magic.1056/download?version=331491",
+  "numberOfDownloads": 700,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1589474400,
+  "sourceUrl": "https://www.spigotmc.org/resources/magic.1056/history"
 }

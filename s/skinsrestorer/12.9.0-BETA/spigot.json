@@ -1,12 +1,9 @@
 {
-  "name": "12.9.0-BETA",
-  "version": {
-    "name": "12.9-BETA",
-    "downloadUrl": "resources/skinsrestorer.2124/download?version=122778",
-    "numberOfDownloads": 5,
-    "rating": 8,
-    "numberOfVotes": 4,
-    "releaseDate": 1478468400,
-    "sourceUrl": "https://www.spigotmc.org/resources/skinsrestorer.2124/history"
-  }
+  "name": "12.9-BETA",
+  "downloadUrl": "resources/skinsrestorer.2124/download?version=122778",
+  "numberOfDownloads": 5,
+  "rating": 8,
+  "numberOfVotes": 4,
+  "releaseDate": 1478468400,
+  "sourceUrl": "https://www.spigotmc.org/resources/skinsrestorer.2124/history"
 }

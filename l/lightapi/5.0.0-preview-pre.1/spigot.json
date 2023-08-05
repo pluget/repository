@@ -1,12 +1,9 @@
 {
-  "name": "5.0.0-preview-pre.1",
-  "version": {
-    "name": "5.0.0-preview",
-    "downloadUrl": "resources/lightapi.4510/download?version=312946",
-    "numberOfDownloads": 8,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1580903280,
-    "sourceUrl": "https://www.spigotmc.org/resources/lightapi.4510/history"
-  }
+  "name": "5.0.0-preview",
+  "downloadUrl": "resources/lightapi.4510/download?version=312946",
+  "numberOfDownloads": 8,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1580903280,
+  "sourceUrl": "https://www.spigotmc.org/resources/lightapi.4510/history"
 }

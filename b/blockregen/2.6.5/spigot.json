@@ -1,12 +1,9 @@
 {
   "name": "2.6.5",
-  "version": {
-    "name": "2.6.5",
-    "downloadUrl": "resources/blockregen.9885/download?version=202744",
-    "numberOfDownloads": 268,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1515613800,
-    "sourceUrl": "https://www.spigotmc.org/resources/blockregen.9885/history"
-  }
+  "downloadUrl": "resources/blockregen.9885/download?version=202744",
+  "numberOfDownloads": 268,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1515613800,
+  "sourceUrl": "https://www.spigotmc.org/resources/blockregen.9885/history"
 }

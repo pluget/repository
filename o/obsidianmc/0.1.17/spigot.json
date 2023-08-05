@@ -1,12 +1,9 @@
 {
   "name": "0.1.17",
-  "version": {
-    "name": "0.1.17",
-    "downloadUrl": "resources/obsidianmc.108152/download?version=486782",
-    "numberOfDownloads": 27,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1677000060,
-    "sourceUrl": "https://www.spigotmc.org/resources/obsidianmc.108152/history"
-  }
+  "downloadUrl": "resources/obsidianmc.108152/download?version=486782",
+  "numberOfDownloads": 27,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1677000060,
+  "sourceUrl": "https://www.spigotmc.org/resources/obsidianmc.108152/history"
 }

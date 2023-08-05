@@ -1,12 +1,9 @@
 {
-  "name": "1.2.1-stable-released",
-  "version": {
-    "name": "v1.2.1 stable released",
-    "downloadUrl": "resources/%E2%99%BB%EF%B8%8F-%E2%9C%95-advanced-wings.103308/download?version=460905",
-    "numberOfDownloads": 99,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1657903560,
-    "sourceUrl": "https://www.spigotmc.org/resources/103308/history/"
-  }
+  "name": "v1.2.1 stable released",
+  "downloadUrl": "resources/%E2%99%BB%EF%B8%8F-%E2%9C%95-advanced-wings.103308/download?version=460905",
+  "numberOfDownloads": 99,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1657903560,
+  "sourceUrl": "https://www.spigotmc.org/resources/103308/history/"
 }

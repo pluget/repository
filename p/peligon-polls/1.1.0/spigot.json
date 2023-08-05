@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0",
-  "version": {
-    "name": "1.1",
-    "downloadUrl": "resources/peligon-polls.100200/download?version=472828",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1666120740,
-    "sourceUrl": "https://www.spigotmc.org/resources/100200/history/"
-  }
+  "name": "1.1",
+  "downloadUrl": "resources/peligon-polls.100200/download?version=472828",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1666120740,
+  "sourceUrl": "https://www.spigotmc.org/resources/100200/history/"
 }

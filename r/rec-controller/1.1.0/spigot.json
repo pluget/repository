@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0",
-  "version": {
-    "name": "1.1",
-    "downloadUrl": "resources/rec-controller.101014/download?version=446775",
-    "numberOfDownloads": 123,
-    "rating": 10,
-    "numberOfVotes": 6,
-    "releaseDate": 1648411860,
-    "sourceUrl": "https://www.spigotmc.org/resources/rec-controller.101014/history"
-  }
+  "name": "1.1",
+  "downloadUrl": "resources/rec-controller.101014/download?version=446775",
+  "numberOfDownloads": 123,
+  "rating": 10,
+  "numberOfVotes": 6,
+  "releaseDate": 1648411860,
+  "sourceUrl": "https://www.spigotmc.org/resources/rec-controller.101014/history"
 }

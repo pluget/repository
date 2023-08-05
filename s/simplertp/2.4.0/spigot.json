@@ -1,12 +1,9 @@
 {
-  "name": "2.4.0",
-  "version": {
-    "name": "2.4",
-    "downloadUrl": "resources/simplertp-1-19x.61988/download?version=410910",
-    "numberOfDownloads": 9,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1627070520,
-    "sourceUrl": "https://www.spigotmc.org/resources/simplertp-1-19x.61988/history"
-  }
+  "name": "2.4",
+  "downloadUrl": "resources/simplertp-1-19x.61988/download?version=410910",
+  "numberOfDownloads": 9,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1627070520,
+  "sourceUrl": "https://www.spigotmc.org/resources/simplertp-1-19x.61988/history"
 }

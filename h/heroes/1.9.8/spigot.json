@@ -1,12 +1,9 @@
 {
   "name": "1.9.8",
-  "version": {
-    "name": "1.9.8",
-    "downloadUrl": "resources/heroes-free-for-1-16-and-below.305/download?version=396349",
-    "numberOfDownloads": 932,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1619628600,
-    "sourceUrl": "https://www.spigotmc.org/resources/heroes-free-for-1-16-and-below.305/history"
-  }
+  "downloadUrl": "resources/heroes-free-for-1-16-and-below.305/download?version=396349",
+  "numberOfDownloads": 932,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1619628600,
+  "sourceUrl": "https://www.spigotmc.org/resources/heroes-free-for-1-16-and-below.305/history"
 }

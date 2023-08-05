@@ -1,12 +1,9 @@
 {
-  "name": "3.0.7-a",
-  "version": {
-    "name": "3.0.7a",
-    "downloadUrl": "resources/better-teams.17129/download?version=337490",
-    "numberOfDownloads": 75,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1592238600,
-    "sourceUrl": "https://www.spigotmc.org/resources/better-teams.17129/history"
-  }
+  "name": "3.0.7a",
+  "downloadUrl": "resources/better-teams.17129/download?version=337490",
+  "numberOfDownloads": 75,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1592238600,
+  "sourceUrl": "https://www.spigotmc.org/resources/better-teams.17129/history"
 }

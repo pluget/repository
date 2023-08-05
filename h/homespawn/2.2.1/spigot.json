@@ -1,12 +1,9 @@
 {
   "name": "2.2.1",
-  "version": {
-    "name": "2.2.1",
-    "downloadUrl": "resources/homespawn.14108/download?version=156213",
-    "numberOfDownloads": 893,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1493015520,
-    "sourceUrl": "https://www.spigotmc.org/resources/homespawn.14108/history"
-  }
+  "downloadUrl": "resources/homespawn.14108/download?version=156213",
+  "numberOfDownloads": 893,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1493015520,
+  "sourceUrl": "https://www.spigotmc.org/resources/homespawn.14108/history"
 }

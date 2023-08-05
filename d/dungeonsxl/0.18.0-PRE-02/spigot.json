@@ -1,12 +1,9 @@
 {
-  "name": "0.18.0-PRE-02",
-  "version": {
-    "name": "0.18-PRE-02",
-    "downloadUrl": "resources/dungeonsxl.9488/download?version=424295",
-    "numberOfDownloads": 16,
-    "rating": 8.4,
-    "numberOfVotes": 5,
-    "releaseDate": 1635085020,
-    "sourceUrl": "https://www.spigotmc.org/resources/dungeonsxl.9488/history"
-  }
+  "name": "0.18-PRE-02",
+  "downloadUrl": "resources/dungeonsxl.9488/download?version=424295",
+  "numberOfDownloads": 16,
+  "rating": 8.4,
+  "numberOfVotes": 5,
+  "releaseDate": 1635085020,
+  "sourceUrl": "https://www.spigotmc.org/resources/dungeonsxl.9488/history"
 }

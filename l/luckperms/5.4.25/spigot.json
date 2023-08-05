@@ -1,12 +1,9 @@
 {
   "name": "5.4.25",
-  "version": {
-    "name": "5.4.25",
-    "downloadUrl": "resources/luckperms.28140/download?version=453085",
-    "numberOfDownloads": 82,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1653205860,
-    "sourceUrl": "https://www.spigotmc.org/resources/luckperms.28140/history"
-  }
+  "downloadUrl": "resources/luckperms.28140/download?version=453085",
+  "numberOfDownloads": 82,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1653205860,
+  "sourceUrl": "https://www.spigotmc.org/resources/luckperms.28140/history"
 }

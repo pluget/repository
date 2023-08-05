@@ -1,12 +1,9 @@
 {
   "name": "0.0.5",
-  "version": {
-    "name": "0.0.5",
-    "downloadUrl": "resources/simpleguiapi.53497/download?version=231470",
-    "numberOfDownloads": 77,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1532435040,
-    "sourceUrl": "https://www.spigotmc.org/resources/simpleguiapi.53497/history"
-  }
+  "downloadUrl": "resources/simpleguiapi.53497/download?version=231470",
+  "numberOfDownloads": 77,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1532435040,
+  "sourceUrl": "https://www.spigotmc.org/resources/simpleguiapi.53497/history"
 }

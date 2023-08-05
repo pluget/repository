@@ -1,12 +1,9 @@
 {
   "name": "0.0.7",
-  "version": {
-    "name": "0.0.7",
-    "downloadUrl": "resources/claimchunk.44458/download?version=269130",
-    "numberOfDownloads": 100,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1555430640,
-    "sourceUrl": "https://www.spigotmc.org/resources/claimchunk.44458/history"
-  }
+  "downloadUrl": "resources/claimchunk.44458/download?version=269130",
+  "numberOfDownloads": 100,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1555430640,
+  "sourceUrl": "https://www.spigotmc.org/resources/claimchunk.44458/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/velocity-auth.106818/download?version=478814",
-    "numberOfDownloads": 78,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1671388080,
-    "sourceUrl": "https://www.spigotmc.org/resources/velocity-auth.106818/history"
-  }
+  "downloadUrl": "resources/velocity-auth.106818/download?version=478814",
+  "numberOfDownloads": 78,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1671388080,
+  "sourceUrl": "https://www.spigotmc.org/resources/velocity-auth.106818/history"
 }

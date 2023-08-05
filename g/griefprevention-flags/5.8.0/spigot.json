@@ -1,12 +1,9 @@
 {
   "name": "5.8.0",
-  "version": {
-    "name": "5.8.0",
-    "downloadUrl": "resources/gpflags.55773/download?version=309812",
-    "numberOfDownloads": 289,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1579044840,
-    "sourceUrl": "https://www.spigotmc.org/resources/gpflags.55773/history"
-  }
+  "downloadUrl": "resources/gpflags.55773/download?version=309812",
+  "numberOfDownloads": 289,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1579044840,
+  "sourceUrl": "https://www.spigotmc.org/resources/gpflags.55773/history"
 }

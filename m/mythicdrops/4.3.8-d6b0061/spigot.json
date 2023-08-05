@@ -1,12 +1,9 @@
 {
   "name": "4.3.8-d6b0061",
-  "version": {
-    "name": "4.3.8-d6b0061",
-    "downloadUrl": "resources/mythicdrops.6114/download?version=270204",
-    "numberOfDownloads": 242,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1556104800,
-    "sourceUrl": "https://www.spigotmc.org/resources/mythicdrops.6114/history"
-  }
+  "downloadUrl": "resources/mythicdrops.6114/download?version=270204",
+  "numberOfDownloads": 242,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1556104800,
+  "sourceUrl": "https://www.spigotmc.org/resources/mythicdrops.6114/history"
 }

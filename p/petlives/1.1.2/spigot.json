@@ -1,12 +1,9 @@
 {
   "name": "1.1.2",
-  "version": {
-    "name": "1.1.2",
-    "downloadUrl": "resources/petlives.91822/download?version=429400",
-    "numberOfDownloads": 64,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1638467460,
-    "sourceUrl": "https://www.spigotmc.org/resources/petlives.91822/history"
-  }
+  "downloadUrl": "resources/petlives.91822/download?version=429400",
+  "numberOfDownloads": 64,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1638467460,
+  "sourceUrl": "https://www.spigotmc.org/resources/petlives.91822/history"
 }

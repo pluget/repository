@@ -1,12 +1,9 @@
 {
   "name": "1.19.2-v2",
-  "version": {
-    "name": "1.19.2-v2",
-    "downloadUrl": "resources/bkcommonlib.39590/download?version=471456",
-    "numberOfDownloads": 3,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1664909760,
-    "sourceUrl": "https://www.spigotmc.org/resources/bkcommonlib.39590/history"
-  }
+  "downloadUrl": "resources/bkcommonlib.39590/download?version=471456",
+  "numberOfDownloads": 3,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1664909760,
+  "sourceUrl": "https://www.spigotmc.org/resources/bkcommonlib.39590/history"
 }

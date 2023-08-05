@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-a",
-  "version": {
-    "name": "1.0.0a",
-    "downloadUrl": "resources/itembound-1-8-latest.102023/download?version=452386",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1652635800,
-    "sourceUrl": "https://www.spigotmc.org/resources/itembound-1-8-latest.102023/history"
-  }
+  "name": "1.0.0a",
+  "downloadUrl": "resources/itembound-1-8-latest.102023/download?version=452386",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1652635800,
+  "sourceUrl": "https://www.spigotmc.org/resources/itembound-1-8-latest.102023/history"
 }

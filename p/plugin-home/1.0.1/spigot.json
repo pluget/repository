@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/plugin-home-1-16-x.102497/download?version=455165",
-    "numberOfDownloads": 44,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1654677000,
-    "sourceUrl": "https://www.spigotmc.org/resources/plugin-home-1-16-x.102497/history"
-  }
+  "downloadUrl": "resources/plugin-home-1-16-x.102497/download?version=455165",
+  "numberOfDownloads": 44,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1654677000,
+  "sourceUrl": "https://www.spigotmc.org/resources/plugin-home-1-16-x.102497/history"
 }

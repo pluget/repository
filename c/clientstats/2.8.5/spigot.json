@@ -1,12 +1,9 @@
 {
   "name": "2.8.5",
-  "version": {
-    "name": "2.8.5",
-    "downloadUrl": "resources/clientstats-bungee.27919/download?version=185359",
-    "numberOfDownloads": 782,
-    "rating": 8,
-    "numberOfVotes": 2,
-    "releaseDate": 1505741940,
-    "sourceUrl": "https://www.spigotmc.org/resources/clientstats-bungee.27919/history"
-  }
+  "downloadUrl": "resources/clientstats-bungee.27919/download?version=185359",
+  "numberOfDownloads": 782,
+  "rating": 8,
+  "numberOfVotes": 2,
+  "releaseDate": 1505741940,
+  "sourceUrl": "https://www.spigotmc.org/resources/clientstats-bungee.27919/history"
 }

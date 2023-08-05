@@ -1,12 +1,9 @@
 {
   "name": "2.7.22",
-  "version": {
-    "name": "2.7.22",
-    "downloadUrl": "resources/xconomy.75669/download?version=358405",
-    "numberOfDownloads": 245,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1600836660,
-    "sourceUrl": "https://www.spigotmc.org/resources/xconomy.75669/history"
-  }
+  "downloadUrl": "resources/xconomy.75669/download?version=358405",
+  "numberOfDownloads": 245,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1600836660,
+  "sourceUrl": "https://www.spigotmc.org/resources/xconomy.75669/history"
 }

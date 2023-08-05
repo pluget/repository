@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/oneplayersleep.76534/download?version=320821",
-    "numberOfDownloads": 49,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1585423380,
-    "sourceUrl": "https://www.spigotmc.org/resources/oneplayersleep.76534/history"
-  }
+  "downloadUrl": "resources/oneplayersleep.76534/download?version=320821",
+  "numberOfDownloads": 49,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1585423380,
+  "sourceUrl": "https://www.spigotmc.org/resources/oneplayersleep.76534/history"
 }

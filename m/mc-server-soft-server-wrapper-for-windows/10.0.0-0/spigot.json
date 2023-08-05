@@ -1,12 +1,9 @@
 {
-  "name": "10.0.0-0",
-  "version": {
-    "name": "10.0.0.0",
-    "downloadUrl": "resources/mc-server-soft-server-wrapper-for-windows.19261/download?version=168546",
-    "numberOfDownloads": 211,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1498677000,
-    "sourceUrl": "https://www.spigotmc.org/resources/mc-server-soft-server-wrapper-for-windows.19261/history"
-  }
+  "name": "10.0.0.0",
+  "downloadUrl": "resources/mc-server-soft-server-wrapper-for-windows.19261/download?version=168546",
+  "numberOfDownloads": 211,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1498677000,
+  "sourceUrl": "https://www.spigotmc.org/resources/mc-server-soft-server-wrapper-for-windows.19261/history"
 }

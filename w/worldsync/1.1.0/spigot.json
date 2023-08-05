@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0",
-  "version": {
-    "name": "1.1",
-    "downloadUrl": "resources/worldsync.98071/download?version=437261",
-    "numberOfDownloads": 34,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1642520580,
-    "sourceUrl": "https://www.spigotmc.org/resources/98071/history/"
-  }
+  "name": "1.1",
+  "downloadUrl": "resources/worldsync.98071/download?version=437261",
+  "numberOfDownloads": 34,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1642520580,
+  "sourceUrl": "https://www.spigotmc.org/resources/98071/history/"
 }

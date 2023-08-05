@@ -1,12 +1,9 @@
 {
   "name": "1.12.2",
-  "version": {
-    "name": "1.12.2",
-    "downloadUrl": "resources/nether-water-enable-water-in-nether-worlds.79256/download?version=412079",
-    "numberOfDownloads": 194,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1627579260,
-    "sourceUrl": "https://www.spigotmc.org/resources/79256/history/"
-  }
+  "downloadUrl": "resources/nether-water-enable-water-in-nether-worlds.79256/download?version=412079",
+  "numberOfDownloads": 194,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1627579260,
+  "sourceUrl": "https://www.spigotmc.org/resources/79256/history/"
 }

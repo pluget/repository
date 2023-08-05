@@ -1,12 +1,9 @@
 {
   "name": "1.3.3",
-  "version": {
-    "name": "1.3.3",
-    "downloadUrl": "resources/bungeeblockversion.84685/download?version=429374",
-    "numberOfDownloads": 81,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1638462120,
-    "sourceUrl": "https://www.spigotmc.org/resources/bungeeblockversion.84685/history"
-  }
+  "downloadUrl": "resources/bungeeblockversion.84685/download?version=429374",
+  "numberOfDownloads": 81,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1638462120,
+  "sourceUrl": "https://www.spigotmc.org/resources/bungeeblockversion.84685/history"
 }

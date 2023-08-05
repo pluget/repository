@@ -1,12 +1,9 @@
 {
   "name": "1.3.0",
-  "version": {
-    "name": "1.3.0",
-    "downloadUrl": "resources/heads-plugin-api-3-1-17-1-19.19672/download?version=117796",
-    "numberOfDownloads": 446,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1475855820,
-    "sourceUrl": "https://www.spigotmc.org/resources/heads-plugin-api-3-1-17-1-19.19672/history"
-  }
+  "downloadUrl": "resources/heads-plugin-api-3-1-17-1-19.19672/download?version=117796",
+  "numberOfDownloads": 446,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1475855820,
+  "sourceUrl": "https://www.spigotmc.org/resources/heads-plugin-api-3-1-17-1-19.19672/history"
 }

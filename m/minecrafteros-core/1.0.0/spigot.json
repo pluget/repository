@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/minecrafteros-core.104683/download?version=466301",
-    "numberOfDownloads": 14,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660945800,
-    "sourceUrl": "https://www.spigotmc.org/resources/minecrafteros-core.104683/history"
-  }
+  "downloadUrl": "resources/minecrafteros-core.104683/download?version=466301",
+  "numberOfDownloads": 14,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660945800,
+  "sourceUrl": "https://www.spigotmc.org/resources/minecrafteros-core.104683/history"
 }

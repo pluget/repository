@@ -1,12 +1,9 @@
 {
   "name": "1.0.3",
-  "version": {
-    "name": "1.0.3",
-    "downloadUrl": "resources/cheatguard-anticheat.75147/download?version=315457",
-    "numberOfDownloads": 100,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1582471020,
-    "sourceUrl": "https://www.spigotmc.org/resources/cheatguard-anticheat.75147/history"
-  }
+  "downloadUrl": "resources/cheatguard-anticheat.75147/download?version=315457",
+  "numberOfDownloads": 100,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1582471020,
+  "sourceUrl": "https://www.spigotmc.org/resources/cheatguard-anticheat.75147/history"
 }

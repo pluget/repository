@@ -1,12 +1,9 @@
 {
   "name": "2.8.2",
-  "version": {
-    "name": "2.8.2",
-    "downloadUrl": "resources/advancedcore.28295/download?version=171347",
-    "numberOfDownloads": 114,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1499862960,
-    "sourceUrl": "https://www.spigotmc.org/resources/advancedcore.28295/history"
-  }
+  "downloadUrl": "resources/advancedcore.28295/download?version=171347",
+  "numberOfDownloads": 114,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1499862960,
+  "sourceUrl": "https://www.spigotmc.org/resources/advancedcore.28295/history"
 }

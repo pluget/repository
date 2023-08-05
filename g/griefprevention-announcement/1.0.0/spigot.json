@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/griefprevention-announcement.107609/download?version=483516",
-    "numberOfDownloads": 21,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1674687960,
-    "sourceUrl": "https://www.spigotmc.org/resources/107609/history/"
-  }
+  "downloadUrl": "resources/griefprevention-announcement.107609/download?version=483516",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1674687960,
+  "sourceUrl": "https://www.spigotmc.org/resources/107609/history/"
 }

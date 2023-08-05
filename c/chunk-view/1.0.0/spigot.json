@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/chunk-view.104340/download?version=464596",
-    "numberOfDownloads": 35,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1659895920,
-    "sourceUrl": "https://www.spigotmc.org/resources/chunk-view.104340/history"
-  }
+  "downloadUrl": "resources/chunk-view.104340/download?version=464596",
+  "numberOfDownloads": 35,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1659895920,
+  "sourceUrl": "https://www.spigotmc.org/resources/chunk-view.104340/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.17.1",
-  "version": {
-    "name": "1.17.1",
-    "downloadUrl": "resources/xgauth-remastered.106108/download?version=476813",
-    "numberOfDownloads": 4,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1669720200,
-    "sourceUrl": "https://www.spigotmc.org/resources/106108/history/"
-  }
+  "downloadUrl": "resources/xgauth-remastered.106108/download?version=476813",
+  "numberOfDownloads": 4,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1669720200,
+  "sourceUrl": "https://www.spigotmc.org/resources/106108/history/"
 }

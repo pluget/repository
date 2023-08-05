@@ -1,12 +1,9 @@
 {
   "name": "2.5.0",
-  "version": {
-    "name": "2.5.0",
-    "downloadUrl": "resources/nbt-api.7939/download?version=350762",
-    "numberOfDownloads": 4,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1597389660,
-    "sourceUrl": "https://www.spigotmc.org/resources/nbt-api.7939/history"
-  }
+  "downloadUrl": "resources/nbt-api.7939/download?version=350762",
+  "numberOfDownloads": 4,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1597389660,
+  "sourceUrl": "https://www.spigotmc.org/resources/nbt-api.7939/history"
 }

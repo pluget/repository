@@ -1,12 +1,9 @@
 {
   "name": "3.6.0",
-  "version": {
-    "name": "3.6.0",
-    "downloadUrl": "resources/commandpanels.67788/download?version=346342",
-    "numberOfDownloads": 425,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1595580540,
-    "sourceUrl": "https://www.spigotmc.org/resources/67788/history/"
-  }
+  "downloadUrl": "resources/commandpanels.67788/download?version=346342",
+  "numberOfDownloads": 425,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1595580540,
+  "sourceUrl": "https://www.spigotmc.org/resources/67788/history/"
 }

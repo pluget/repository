@@ -1,12 +1,9 @@
 {
   "name": "1.2.153",
-  "version": {
-    "name": "1.2.153",
-    "downloadUrl": "resources/chunky.81534/download?version=429008",
-    "numberOfDownloads": 13,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1638308220,
-    "sourceUrl": "https://www.spigotmc.org/resources/chunky.81534/history"
-  }
+  "downloadUrl": "resources/chunky.81534/download?version=429008",
+  "numberOfDownloads": 13,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1638308220,
+  "sourceUrl": "https://www.spigotmc.org/resources/chunky.81534/history"
 }

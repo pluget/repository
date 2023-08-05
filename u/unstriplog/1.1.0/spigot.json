@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/unstriplog-1-13-x-1-19-x.62738/download?version=270028",
-    "numberOfDownloads": 93,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1555964820,
-    "sourceUrl": "https://www.spigotmc.org/resources/unstriplog-1-13-x-1-19-x.62738/history"
-  }
+  "downloadUrl": "resources/unstriplog-1-13-x-1-19-x.62738/download?version=270028",
+  "numberOfDownloads": 93,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1555964820,
+  "sourceUrl": "https://www.spigotmc.org/resources/unstriplog-1-13-x-1-19-x.62738/history"
 }

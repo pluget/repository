@@ -1,12 +1,9 @@
 {
   "name": "3.2.4",
-  "version": {
-    "name": "3.2.4",
-    "downloadUrl": "resources/syncstaticmapview.96333/download?version=425148",
-    "numberOfDownloads": 82,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1635669600,
-    "sourceUrl": "https://www.spigotmc.org/resources/syncstaticmapview.96333/history"
-  }
+  "downloadUrl": "resources/syncstaticmapview.96333/download?version=425148",
+  "numberOfDownloads": 82,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1635669600,
+  "sourceUrl": "https://www.spigotmc.org/resources/syncstaticmapview.96333/history"
 }

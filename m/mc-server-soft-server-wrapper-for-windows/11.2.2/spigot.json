@@ -1,12 +1,9 @@
 {
   "name": "11.2.2",
-  "version": {
-    "name": "11.2.2",
-    "downloadUrl": "resources/mc-server-soft-server-wrapper-for-windows.19261/download?version=301877",
-    "numberOfDownloads": 121,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1574082660,
-    "sourceUrl": "https://www.spigotmc.org/resources/mc-server-soft-server-wrapper-for-windows.19261/history"
-  }
+  "downloadUrl": "resources/mc-server-soft-server-wrapper-for-windows.19261/download?version=301877",
+  "numberOfDownloads": 121,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1574082660,
+  "sourceUrl": "https://www.spigotmc.org/resources/mc-server-soft-server-wrapper-for-windows.19261/history"
 }

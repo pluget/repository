@@ -1,12 +1,9 @@
 {
   "name": "2.0.1",
-  "version": {
-    "name": "2.0.1",
-    "downloadUrl": "resources/mongosk.89844/download?version=387797",
-    "numberOfDownloads": 29,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1615408140,
-    "sourceUrl": "https://www.spigotmc.org/resources/mongosk.89844/history"
-  }
+  "downloadUrl": "resources/mongosk.89844/download?version=387797",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1615408140,
+  "sourceUrl": "https://www.spigotmc.org/resources/mongosk.89844/history"
 }

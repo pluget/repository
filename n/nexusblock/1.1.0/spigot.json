@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/nexusblock.97041/download?version=456500",
-    "numberOfDownloads": 394,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1655318640,
-    "sourceUrl": "https://www.spigotmc.org/resources/nexusblock.97041/history"
-  }
+  "downloadUrl": "resources/nexusblock.97041/download?version=456500",
+  "numberOfDownloads": 394,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1655318640,
+  "sourceUrl": "https://www.spigotmc.org/resources/nexusblock.97041/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.5.0-SNAPSHOT",
-  "version": {
-    "name": "1.5.0-SNAPSHOT",
-    "downloadUrl": "resources/lightswitcher.107059/download?version=480393",
-    "numberOfDownloads": 21,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672452780,
-    "sourceUrl": "https://www.spigotmc.org/resources/lightswitcher.107059/history"
-  }
+  "downloadUrl": "resources/lightswitcher.107059/download?version=480393",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672452780,
+  "sourceUrl": "https://www.spigotmc.org/resources/lightswitcher.107059/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.7.3",
-  "version": {
-    "name": "2.7.3",
-    "downloadUrl": "resources/luckyblock-ntd-%EA%9C%B0%CA%80%E1%B4%87%E1%B4%87-1-8-1-19-4-16-colors-%E2%9A%A1-special-drops.92026/download?version=455163",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1654676880,
-    "sourceUrl": "https://www.spigotmc.org/resources/92026/history/"
-  }
+  "downloadUrl": "resources/luckyblock-ntd-%EA%9C%B0%CA%80%E1%B4%87%E1%B4%87-1-8-1-19-4-16-colors-%E2%9A%A1-special-drops.92026/download?version=455163",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1654676880,
+  "sourceUrl": "https://www.spigotmc.org/resources/92026/history/"
 }

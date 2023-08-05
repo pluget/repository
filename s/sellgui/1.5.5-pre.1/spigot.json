@@ -1,12 +1,9 @@
 {
-  "name": "1.5.5-pre.1",
-  "version": {
-    "name": "1.5.5",
-    "downloadUrl": "resources/sellgui.55201/download?version=229385",
-    "numberOfDownloads": 159,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1531257120,
-    "sourceUrl": "https://www.spigotmc.org/resources/sellgui.55201/history"
-  }
+  "name": "1.5.5",
+  "downloadUrl": "resources/sellgui.55201/download?version=229385",
+  "numberOfDownloads": 159,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1531257120,
+  "sourceUrl": "https://www.spigotmc.org/resources/sellgui.55201/history"
 }

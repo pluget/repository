@@ -1,12 +1,9 @@
 {
   "name": "1.16.1-v1",
-  "version": {
-    "name": "1.16.1-v1",
-    "downloadUrl": "resources/myworlds.39594/download?version=346869",
-    "numberOfDownloads": 895,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1595795820,
-    "sourceUrl": "https://www.spigotmc.org/resources/myworlds.39594/history"
-  }
+  "downloadUrl": "resources/myworlds.39594/download?version=346869",
+  "numberOfDownloads": 895,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1595795820,
+  "sourceUrl": "https://www.spigotmc.org/resources/myworlds.39594/history"
 }

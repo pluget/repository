@@ -1,12 +1,9 @@
 {
-  "name": "7.23.0",
-  "version": {
-    "name": "7.23",
-    "downloadUrl": "resources/playerparticles.40261/download?version=428945",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1638296580,
-    "sourceUrl": "https://www.spigotmc.org/resources/40261/history/"
-  }
+  "name": "7.23",
+  "downloadUrl": "resources/playerparticles.40261/download?version=428945",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1638296580,
+  "sourceUrl": "https://www.spigotmc.org/resources/40261/history/"
 }

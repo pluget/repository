@@ -1,12 +1,9 @@
 {
-  "name": "1.19.01",
-  "version": {
-    "name": "1.19-01",
-    "downloadUrl": "resources/bookshelfdisplayreborn.103712/download?version=462526",
-    "numberOfDownloads": 20,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1658855040,
-    "sourceUrl": "https://www.spigotmc.org/resources/bookshelfdisplayreborn.103712/history"
-  }
+  "name": "1.19-01",
+  "downloadUrl": "resources/bookshelfdisplayreborn.103712/download?version=462526",
+  "numberOfDownloads": 20,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1658855040,
+  "sourceUrl": "https://www.spigotmc.org/resources/bookshelfdisplayreborn.103712/history"
 }

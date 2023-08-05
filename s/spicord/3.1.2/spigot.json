@@ -1,12 +1,9 @@
 {
   "name": "3.1.2",
-  "version": {
-    "name": "3.1.2",
-    "downloadUrl": "resources/spicord.64918/download?version=364257",
-    "numberOfDownloads": 735,
-    "rating": 10,
-    "numberOfVotes": 4,
-    "releaseDate": 1604069880,
-    "sourceUrl": "https://www.spigotmc.org/resources/64918/history/"
-  }
+  "downloadUrl": "resources/spicord.64918/download?version=364257",
+  "numberOfDownloads": 735,
+  "rating": 10,
+  "numberOfVotes": 4,
+  "releaseDate": 1604069880,
+  "sourceUrl": "https://www.spigotmc.org/resources/64918/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "7.5.2",
-  "version": {
-    "name": "7.5.2",
-    "downloadUrl": "resources/mobhunting.3582/download?version=345268",
-    "numberOfDownloads": 667,
-    "rating": 3,
-    "numberOfVotes": 2,
-    "releaseDate": 1595153520,
-    "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
-  }
+  "downloadUrl": "resources/mobhunting.3582/download?version=345268",
+  "numberOfDownloads": 667,
+  "rating": 3,
+  "numberOfVotes": 2,
+  "releaseDate": 1595153520,
+  "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
 }

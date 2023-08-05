@@ -1,12 +1,9 @@
 {
   "name": "1.1.2",
-  "version": {
-    "name": "1.1.2",
-    "downloadUrl": "resources/lotteryplus.107528/download?version=484944",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1675632840,
-    "sourceUrl": "https://www.spigotmc.org/resources/lotteryplus.107528/history"
-  }
+  "downloadUrl": "resources/lotteryplus.107528/download?version=484944",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1675632840,
+  "sourceUrl": "https://www.spigotmc.org/resources/lotteryplus.107528/history"
 }

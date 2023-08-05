@@ -1,12 +1,9 @@
 {
-  "name": "1.8.1-c",
-  "version": {
-    "name": "1.8.1c",
-    "downloadUrl": "resources/bustamine-1-8-1-18.66139/download?version=268274",
-    "numberOfDownloads": 80,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1554899280,
-    "sourceUrl": "https://www.spigotmc.org/resources/bustamine-1-8-1-18.66139/history"
-  }
+  "name": "1.8.1c",
+  "downloadUrl": "resources/bustamine-1-8-1-18.66139/download?version=268274",
+  "numberOfDownloads": 80,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1554899280,
+  "sourceUrl": "https://www.spigotmc.org/resources/bustamine-1-8-1-18.66139/history"
 }

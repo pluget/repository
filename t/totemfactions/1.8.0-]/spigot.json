@@ -1,12 +1,9 @@
 {
-  "name": "1.8.0-]",
-  "version": {
-    "name": "[1.8]",
-    "downloadUrl": "resources/totemfactions.45986/download?version=212957",
-    "numberOfDownloads": 782,
-    "rating": 9,
-    "numberOfVotes": 6,
-    "releaseDate": 1521234120,
-    "sourceUrl": "https://www.spigotmc.org/resources/totemfactions.45986/history"
-  }
+  "name": "[1.8]",
+  "downloadUrl": "resources/totemfactions.45986/download?version=212957",
+  "numberOfDownloads": 782,
+  "rating": 9,
+  "numberOfVotes": 6,
+  "releaseDate": 1521234120,
+  "sourceUrl": "https://www.spigotmc.org/resources/totemfactions.45986/history"
 }

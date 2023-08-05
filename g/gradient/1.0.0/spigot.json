@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "SNAPSHOT 1.0",
-    "downloadUrl": "resources/gradient.105058/download?version=468309",
-    "numberOfDownloads": 19,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1662241800,
-    "sourceUrl": "https://www.spigotmc.org/resources/gradient.105058/history"
-  }
+  "name": "SNAPSHOT 1.0",
+  "downloadUrl": "resources/gradient.105058/download?version=468309",
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1662241800,
+  "sourceUrl": "https://www.spigotmc.org/resources/gradient.105058/history"
 }

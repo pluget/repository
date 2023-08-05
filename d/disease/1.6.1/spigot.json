@@ -1,12 +1,9 @@
 {
   "name": "1.6.1",
-  "version": {
-    "name": "1.6.1",
-    "downloadUrl": "resources/disease.3911/download?version=23863",
-    "numberOfDownloads": 166,
-    "rating": 8,
-    "numberOfVotes": 2,
-    "releaseDate": 1430897340,
-    "sourceUrl": "https://www.spigotmc.org/resources/disease.3911/history"
-  }
+  "downloadUrl": "resources/disease.3911/download?version=23863",
+  "numberOfDownloads": 166,
+  "rating": 8,
+  "numberOfVotes": 2,
+  "releaseDate": 1430897340,
+  "sourceUrl": "https://www.spigotmc.org/resources/disease.3911/history"
 }

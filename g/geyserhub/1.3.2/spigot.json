@@ -1,12 +1,9 @@
 {
   "name": "1.3.2",
-  "version": {
-    "name": "1.3.2",
-    "downloadUrl": "resources/geyserhub.95455/download?version=454410",
-    "numberOfDownloads": 81,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1654211700,
-    "sourceUrl": "https://www.spigotmc.org/resources/geyserhub.95455/history"
-  }
+  "downloadUrl": "resources/geyserhub.95455/download?version=454410",
+  "numberOfDownloads": 81,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1654211700,
+  "sourceUrl": "https://www.spigotmc.org/resources/geyserhub.95455/history"
 }

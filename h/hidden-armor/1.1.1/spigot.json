@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/hidden-armor.100374/download?version=489336",
-    "numberOfDownloads": 575,
-    "rating": 8.6666666666666,
-    "numberOfVotes": 3,
-    "releaseDate": 1678928340,
-    "sourceUrl": "https://www.spigotmc.org/resources/100374/history/"
-  }
+  "downloadUrl": "resources/hidden-armor.100374/download?version=489336",
+  "numberOfDownloads": 575,
+  "rating": 8.6666666666666,
+  "numberOfVotes": 3,
+  "releaseDate": 1678928340,
+  "sourceUrl": "https://www.spigotmc.org/resources/100374/history/"
 }

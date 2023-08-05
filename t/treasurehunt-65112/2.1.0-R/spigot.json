@@ -1,12 +1,9 @@
 {
-  "name": "2.1.0-R",
-  "version": {
-    "name": "2.1-R",
-    "downloadUrl": "resources/treasurehunt.65112/download?version=447381",
-    "numberOfDownloads": 483,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1648851960,
-    "sourceUrl": "https://www.spigotmc.org/resources/65112/history/"
-  }
+  "name": "2.1-R",
+  "downloadUrl": "resources/treasurehunt.65112/download?version=447381",
+  "numberOfDownloads": 483,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1648851960,
+  "sourceUrl": "https://www.spigotmc.org/resources/65112/history/"
 }

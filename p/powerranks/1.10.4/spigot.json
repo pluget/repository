@@ -1,12 +1,9 @@
 {
   "name": "1.10.4",
-  "version": {
-    "name": "1.10.4",
-    "downloadUrl": "resources/powerranks.64696/download?version=434134",
-    "numberOfDownloads": 54,
-    "rating": 7.2,
-    "numberOfVotes": 5,
-    "releaseDate": 1640865240,
-    "sourceUrl": "https://www.spigotmc.org/resources/powerranks.64696/history"
-  }
+  "downloadUrl": "resources/powerranks.64696/download?version=434134",
+  "numberOfDownloads": 54,
+  "rating": 7.2,
+  "numberOfVotes": 5,
+  "releaseDate": 1640865240,
+  "sourceUrl": "https://www.spigotmc.org/resources/powerranks.64696/history"
 }

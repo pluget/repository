@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "1.0",
-    "downloadUrl": "resources/infiniteliquids.100104/download?version=441612",
-    "numberOfDownloads": 24,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1645130880,
-    "sourceUrl": "https://www.spigotmc.org/resources/100104/history/"
-  }
+  "name": "1.0",
+  "downloadUrl": "resources/infiniteliquids.100104/download?version=441612",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1645130880,
+  "sourceUrl": "https://www.spigotmc.org/resources/100104/history/"
 }

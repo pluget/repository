@@ -1,12 +1,9 @@
 {
   "name": "1.6.6",
-  "version": {
-    "name": "1.6.6",
-    "downloadUrl": "resources/townyflight.50360/download?version=381275",
-    "numberOfDownloads": 201,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1612297380,
-    "sourceUrl": "https://www.spigotmc.org/resources/townyflight.50360/history"
-  }
+  "downloadUrl": "resources/townyflight.50360/download?version=381275",
+  "numberOfDownloads": 201,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1612297380,
+  "sourceUrl": "https://www.spigotmc.org/resources/townyflight.50360/history"
 }

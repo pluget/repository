@@ -1,12 +1,9 @@
 {
   "name": "2.0.0",
-  "version": {
-    "name": "2.0.0",
-    "downloadUrl": "resources/nobedexplosions.65808/download?version=420822",
-    "numberOfDownloads": 127,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1632580500,
-    "sourceUrl": "https://www.spigotmc.org/resources/nobedexplosions.65808/history"
-  }
+  "downloadUrl": "resources/nobedexplosions.65808/download?version=420822",
+  "numberOfDownloads": 127,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1632580500,
+  "sourceUrl": "https://www.spigotmc.org/resources/nobedexplosions.65808/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "3.22.0",
-  "version": {
-    "name": "3.22",
-    "downloadUrl": "resources/xray.42228/download?version=378300",
-    "numberOfDownloads": 212,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1610998500,
-    "sourceUrl": "https://www.spigotmc.org/resources/42228/history/"
-  }
+  "name": "3.22",
+  "downloadUrl": "resources/xray.42228/download?version=378300",
+  "numberOfDownloads": 212,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1610998500,
+  "sourceUrl": "https://www.spigotmc.org/resources/42228/history/"
 }

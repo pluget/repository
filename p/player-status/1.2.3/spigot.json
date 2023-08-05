@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/player-status-like-craftattack.99446/download?version=475462",
-    "numberOfDownloads": 276,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1668534060,
-    "sourceUrl": "https://www.spigotmc.org/resources/player-status-like-craftattack.99446/history"
-  }
+  "downloadUrl": "resources/player-status-like-craftattack.99446/download?version=475462",
+  "numberOfDownloads": 276,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1668534060,
+  "sourceUrl": "https://www.spigotmc.org/resources/player-status-like-craftattack.99446/history"
 }

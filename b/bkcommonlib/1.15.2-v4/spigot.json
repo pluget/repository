@@ -1,12 +1,9 @@
 {
   "name": "1.15.2-v4",
-  "version": {
-    "name": "1.15.2-v4",
-    "downloadUrl": "resources/bkcommonlib.39590/download?version=334760",
-    "numberOfDownloads": 4,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1590952680,
-    "sourceUrl": "https://www.spigotmc.org/resources/bkcommonlib.39590/history"
-  }
+  "downloadUrl": "resources/bkcommonlib.39590/download?version=334760",
+  "numberOfDownloads": 4,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1590952680,
+  "sourceUrl": "https://www.spigotmc.org/resources/bkcommonlib.39590/history"
 }

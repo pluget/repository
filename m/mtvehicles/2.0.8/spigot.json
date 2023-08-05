@@ -1,12 +1,9 @@
 {
   "name": "2.0.8",
-  "version": {
-    "name": "2.0.8",
-    "downloadUrl": "resources/mtvehicles-vehicle-plugin-free-downloadable.80910/download?version=401715",
-    "numberOfDownloads": 3,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1622828340,
-    "sourceUrl": "https://www.spigotmc.org/resources/mtvehicles-vehicle-plugin-free-downloadable.80910/history"
-  }
+  "downloadUrl": "resources/mtvehicles-vehicle-plugin-free-downloadable.80910/download?version=401715",
+  "numberOfDownloads": 3,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1622828340,
+  "sourceUrl": "https://www.spigotmc.org/resources/mtvehicles-vehicle-plugin-free-downloadable.80910/history"
 }

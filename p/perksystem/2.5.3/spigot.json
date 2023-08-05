@@ -1,12 +1,9 @@
 {
   "name": "2.5.3",
-  "version": {
-    "name": "2.5.3",
-    "downloadUrl": "resources/%E2%98%85-bs-perks-bs-perksystem-%E2%98%85-1-8-1-16-%E2%98%85-mysql-support-%E2%98%85.67494/download?version=367824",
-    "numberOfDownloads": 59,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1605717540,
-    "sourceUrl": "https://www.spigotmc.org/resources/67494/history/"
-  }
+  "downloadUrl": "resources/%E2%98%85-bs-perks-bs-perksystem-%E2%98%85-1-8-1-16-%E2%98%85-mysql-support-%E2%98%85.67494/download?version=367824",
+  "numberOfDownloads": 59,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1605717540,
+  "sourceUrl": "https://www.spigotmc.org/resources/67494/history/"
 }

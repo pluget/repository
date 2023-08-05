@@ -1,12 +1,9 @@
 {
   "name": "1.3.1",
-  "version": {
-    "name": "1.3.1",
-    "downloadUrl": "resources/guestmode.74051/download?version=308969",
-    "numberOfDownloads": 40,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1578541860,
-    "sourceUrl": "https://www.spigotmc.org/resources/guestmode.74051/history"
-  }
+  "downloadUrl": "resources/guestmode.74051/download?version=308969",
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1578541860,
+  "sourceUrl": "https://www.spigotmc.org/resources/guestmode.74051/history"
 }

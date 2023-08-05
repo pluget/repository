@@ -1,12 +1,9 @@
 {
   "name": "1.9.4",
-  "version": {
-    "name": "1.9.4",
-    "downloadUrl": "resources/deathmessages.3789/download?version=113056",
-    "numberOfDownloads": 473,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1473015480,
-    "sourceUrl": "https://www.spigotmc.org/resources/deathmessages.3789/history"
-  }
+  "downloadUrl": "resources/deathmessages.3789/download?version=113056",
+  "numberOfDownloads": 473,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1473015480,
+  "sourceUrl": "https://www.spigotmc.org/resources/deathmessages.3789/history"
 }

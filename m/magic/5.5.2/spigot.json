@@ -1,12 +1,9 @@
 {
   "name": "5.5.2",
-  "version": {
-    "name": "5.5.2",
-    "downloadUrl": "resources/magic.1056/download?version=72708",
-    "numberOfDownloads": 315,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1457026920,
-    "sourceUrl": "https://www.spigotmc.org/resources/magic.1056/history"
-  }
+  "downloadUrl": "resources/magic.1056/download?version=72708",
+  "numberOfDownloads": 315,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1457026920,
+  "sourceUrl": "https://www.spigotmc.org/resources/magic.1056/history"
 }

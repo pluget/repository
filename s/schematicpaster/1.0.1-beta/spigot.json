@@ -1,12 +1,9 @@
 {
   "name": "1.0.1-beta",
-  "version": {
-    "name": "1.0.1-beta",
-    "downloadUrl": "resources/schematicpaster.106365/download?version=475974",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1669004340,
-    "sourceUrl": "https://www.spigotmc.org/resources/schematicpaster.106365/history"
-  }
+  "downloadUrl": "resources/schematicpaster.106365/download?version=475974",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1669004340,
+  "sourceUrl": "https://www.spigotmc.org/resources/schematicpaster.106365/history"
 }

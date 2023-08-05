@@ -1,12 +1,9 @@
 {
   "name": "1.3.0",
-  "version": {
-    "name": "1.3.0",
-    "downloadUrl": "resources/mcserverupdater.98003/download?version=430934",
-    "numberOfDownloads": 27,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1639187220,
-    "sourceUrl": "https://www.spigotmc.org/resources/mcserverupdater.98003/history"
-  }
+  "downloadUrl": "resources/mcserverupdater.98003/download?version=430934",
+  "numberOfDownloads": 27,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1639187220,
+  "sourceUrl": "https://www.spigotmc.org/resources/mcserverupdater.98003/history"
 }

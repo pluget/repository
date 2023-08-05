@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-BETA",
-  "version": {
-    "name": "1.0-BETA",
-    "downloadUrl": "resources/friendsx.100432/download?version=443432",
-    "numberOfDownloads": 59,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1646275560,
-    "sourceUrl": "https://www.spigotmc.org/resources/friendsx.100432/history"
-  }
+  "name": "1.0-BETA",
+  "downloadUrl": "resources/friendsx.100432/download?version=443432",
+  "numberOfDownloads": 59,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1646275560,
+  "sourceUrl": "https://www.spigotmc.org/resources/friendsx.100432/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.4.1",
-  "version": {
-    "name": "1.4.1",
-    "downloadUrl": "resources/advancedworldcreatorapi.89100/download?version=406454",
-    "numberOfDownloads": 230,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1625066700,
-    "sourceUrl": "https://www.spigotmc.org/resources/89100/history/"
-  }
+  "downloadUrl": "resources/advancedworldcreatorapi.89100/download?version=406454",
+  "numberOfDownloads": 230,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1625066700,
+  "sourceUrl": "https://www.spigotmc.org/resources/89100/history/"
 }

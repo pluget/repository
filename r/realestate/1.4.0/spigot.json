@@ -1,12 +1,9 @@
 {
   "name": "1.4.0",
-  "version": {
-    "name": "1.4.0",
-    "downloadUrl": "resources/realestate.66966/download?version=444144",
-    "numberOfDownloads": 94,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1646647440,
-    "sourceUrl": "https://www.spigotmc.org/resources/realestate.66966/history"
-  }
+  "downloadUrl": "resources/realestate.66966/download?version=444144",
+  "numberOfDownloads": 94,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1646647440,
+  "sourceUrl": "https://www.spigotmc.org/resources/realestate.66966/history"
 }

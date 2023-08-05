@@ -1,12 +1,9 @@
 {
   "name": "1.1.3",
-  "version": {
-    "name": "1.1.3",
-    "downloadUrl": "resources/smartharvest.90768/download?version=420221",
-    "numberOfDownloads": 134,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1632140160,
-    "sourceUrl": "https://www.spigotmc.org/resources/smartharvest.90768/history"
-  }
+  "downloadUrl": "resources/smartharvest.90768/download?version=420221",
+  "numberOfDownloads": 134,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1632140160,
+  "sourceUrl": "https://www.spigotmc.org/resources/smartharvest.90768/history"
 }

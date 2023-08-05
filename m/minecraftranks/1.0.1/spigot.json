@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/minecraftranks.108300/download?version=487919",
-    "numberOfDownloads": 24,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1677938640,
-    "sourceUrl": "https://www.spigotmc.org/resources/minecraftranks.108300/history"
-  }
+  "downloadUrl": "resources/minecraftranks.108300/download?version=487919",
+  "numberOfDownloads": 24,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1677938640,
+  "sourceUrl": "https://www.spigotmc.org/resources/minecraftranks.108300/history"
 }

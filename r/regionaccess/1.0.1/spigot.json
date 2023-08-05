@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/regionaccess-1-13-1-19-permission-based-regions.101638/download?version=459094",
-    "numberOfDownloads": 80,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1656847920,
-    "sourceUrl": "https://www.spigotmc.org/resources/101638/history/"
-  }
+  "downloadUrl": "resources/regionaccess-1-13-1-19-permission-based-regions.101638/download?version=459094",
+  "numberOfDownloads": 80,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1656847920,
+  "sourceUrl": "https://www.spigotmc.org/resources/101638/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.0-rc.6",
-  "version": {
-    "name": "1.0.0-rc.6",
-    "downloadUrl": "resources/epic-punishments.98340/download?version=482609",
-    "numberOfDownloads": 65,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1674058800,
-    "sourceUrl": "https://www.spigotmc.org/resources/epic-punishments.98340/history"
-  }
+  "downloadUrl": "resources/epic-punishments.98340/download?version=482609",
+  "numberOfDownloads": 65,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1674058800,
+  "sourceUrl": "https://www.spigotmc.org/resources/epic-punishments.98340/history"
 }

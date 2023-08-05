@@ -1,12 +1,9 @@
 {
   "name": "1.6.5",
-  "version": {
-    "name": "1.6.5",
-    "downloadUrl": "resources/holographic-placeholders-holoextension.64535/download?version=275951",
-    "numberOfDownloads": 252,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1559133660,
-    "sourceUrl": "https://www.spigotmc.org/resources/64535/history/"
-  }
+  "downloadUrl": "resources/holographic-placeholders-holoextension.64535/download?version=275951",
+  "numberOfDownloads": 252,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1559133660,
+  "sourceUrl": "https://www.spigotmc.org/resources/64535/history/"
 }

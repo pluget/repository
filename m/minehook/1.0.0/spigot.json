@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0",
-  "version": {
-    "name": "SNAPSHOT-1.0",
-    "downloadUrl": "resources/minehook.107722/download?version=484203",
-    "numberOfDownloads": 11,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1675119900,
-    "sourceUrl": "https://www.spigotmc.org/resources/107722/history/"
-  }
+  "name": "SNAPSHOT-1.0",
+  "downloadUrl": "resources/minehook.107722/download?version=484203",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1675119900,
+  "sourceUrl": "https://www.spigotmc.org/resources/107722/history/"
 }

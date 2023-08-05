@@ -1,12 +1,9 @@
 {
-  "name": "2.1.0-rc6",
-  "version": {
-    "name": "2.1-rc6",
-    "downloadUrl": "resources/auctionhouse-legacy.66670/download?version=348331",
-    "numberOfDownloads": 534,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1596396060,
-    "sourceUrl": "https://www.spigotmc.org/resources/auctionhouse-legacy.66670/history"
-  }
+  "name": "2.1-rc6",
+  "downloadUrl": "resources/auctionhouse-legacy.66670/download?version=348331",
+  "numberOfDownloads": 534,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1596396060,
+  "sourceUrl": "https://www.spigotmc.org/resources/auctionhouse-legacy.66670/history"
 }

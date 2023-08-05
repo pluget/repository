@@ -1,12 +1,9 @@
 {
   "name": "3.5.0",
-  "version": {
-    "name": "3.5.0",
-    "downloadUrl": "resources/blockregen.9885/download?version=272754",
-    "numberOfDownloads": 2,
-    "rating": 8,
-    "numberOfVotes": 7,
-    "releaseDate": 1557429300,
-    "sourceUrl": "https://www.spigotmc.org/resources/blockregen.9885/history"
-  }
+  "downloadUrl": "resources/blockregen.9885/download?version=272754",
+  "numberOfDownloads": 2,
+  "rating": 8,
+  "numberOfVotes": 7,
+  "releaseDate": 1557429300,
+  "sourceUrl": "https://www.spigotmc.org/resources/blockregen.9885/history"
 }

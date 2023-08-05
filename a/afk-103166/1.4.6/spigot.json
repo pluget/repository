@@ -1,12 +1,9 @@
 {
   "name": "1.4.6",
-  "version": {
-    "name": "1.4.6",
-    "downloadUrl": "resources/afk.103166/download?version=465219",
-    "numberOfDownloads": 6,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660283160,
-    "sourceUrl": "https://www.spigotmc.org/resources/afk.103166/history"
-  }
+  "downloadUrl": "resources/afk.103166/download?version=465219",
+  "numberOfDownloads": 6,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660283160,
+  "sourceUrl": "https://www.spigotmc.org/resources/afk.103166/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "0.1.2",
-  "version": {
-    "name": "0.1.2",
-    "downloadUrl": "resources/spigotadditions-1-13-1-19-3.105939/download?version=473472",
-    "numberOfDownloads": 26,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1666809300,
-    "sourceUrl": "https://www.spigotmc.org/resources/spigotadditions-1-13-1-19-3.105939/history"
-  }
+  "downloadUrl": "resources/spigotadditions-1-13-1-19-3.105939/download?version=473472",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1666809300,
+  "sourceUrl": "https://www.spigotmc.org/resources/spigotadditions-1-13-1-19-3.105939/history"
 }

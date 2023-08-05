@@ -1,12 +1,9 @@
 {
   "name": "1.1.10",
-  "version": {
-    "name": "1.1.10",
-    "downloadUrl": "resources/timed-rewards.34008/download?version=348223",
-    "numberOfDownloads": 826,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1596367140,
-    "sourceUrl": "https://www.spigotmc.org/resources/timed-rewards.34008/history"
-  }
+  "downloadUrl": "resources/timed-rewards.34008/download?version=348223",
+  "numberOfDownloads": 826,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1596367140,
+  "sourceUrl": "https://www.spigotmc.org/resources/timed-rewards.34008/history"
 }

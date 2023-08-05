@@ -1,12 +1,9 @@
 {
   "name": "1.5.7",
-  "version": {
-    "name": "1.5.7",
-    "downloadUrl": "resources/chestsort-api.59773/download?version=235315",
-    "numberOfDownloads": 145,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1534333860,
-    "sourceUrl": "https://www.spigotmc.org/resources/59773/history/"
-  }
+  "downloadUrl": "resources/chestsort-api.59773/download?version=235315",
+  "numberOfDownloads": 145,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1534333860,
+  "sourceUrl": "https://www.spigotmc.org/resources/59773/history/"
 }

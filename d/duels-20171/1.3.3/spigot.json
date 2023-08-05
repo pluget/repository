@@ -1,12 +1,9 @@
 {
   "name": "1.3.3",
-  "version": {
-    "name": "1.3.3",
-    "downloadUrl": "resources/duels.20171/download?version=105297",
-    "numberOfDownloads": 300,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1469628360,
-    "sourceUrl": "https://www.spigotmc.org/resources/duels.20171/history"
-  }
+  "downloadUrl": "resources/duels.20171/download?version=105297",
+  "numberOfDownloads": 300,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1469628360,
+  "sourceUrl": "https://www.spigotmc.org/resources/duels.20171/history"
 }

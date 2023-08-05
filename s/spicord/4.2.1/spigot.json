@@ -1,12 +1,9 @@
 {
   "name": "4.2.1",
-  "version": {
-    "name": "4.2.1",
-    "downloadUrl": "resources/spicord.64918/download?version=443157",
-    "numberOfDownloads": 878,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646099580,
-    "sourceUrl": "https://www.spigotmc.org/resources/64918/history/"
-  }
+  "downloadUrl": "resources/spicord.64918/download?version=443157",
+  "numberOfDownloads": 878,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646099580,
+  "sourceUrl": "https://www.spigotmc.org/resources/64918/history/"
 }

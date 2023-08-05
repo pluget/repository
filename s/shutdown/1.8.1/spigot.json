@@ -1,12 +1,9 @@
 {
   "name": "1.8.1",
-  "version": {
-    "name": "1.8.1",
-    "downloadUrl": "resources/%E2%8F%B3-shutdown-spigot-bungeecord.65805/download?version=356773",
-    "numberOfDownloads": 42,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1600008720,
-    "sourceUrl": "https://www.spigotmc.org/resources/%E2%8F%B3-shutdown-spigot-bungeecord.65805/history"
-  }
+  "downloadUrl": "resources/%E2%8F%B3-shutdown-spigot-bungeecord.65805/download?version=356773",
+  "numberOfDownloads": 42,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1600008720,
+  "sourceUrl": "https://www.spigotmc.org/resources/%E2%8F%B3-shutdown-spigot-bungeecord.65805/history"
 }

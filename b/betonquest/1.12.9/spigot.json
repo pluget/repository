@@ -1,12 +1,9 @@
 {
   "name": "1.12.9",
-  "version": {
-    "name": "1.12.9",
-    "downloadUrl": "resources/betonquest-all-your-adventure-supplies-versatile-quests-in-depth-conversations.2117/download?version=457510",
-    "numberOfDownloads": 4,
-    "rating": 9.8,
-    "numberOfVotes": 10,
-    "releaseDate": 1655889300,
-    "sourceUrl": "https://www.spigotmc.org/resources/2117/history/"
-  }
+  "downloadUrl": "resources/betonquest-all-your-adventure-supplies-versatile-quests-in-depth-conversations.2117/download?version=457510",
+  "numberOfDownloads": 4,
+  "rating": 9.8,
+  "numberOfVotes": 10,
+  "releaseDate": 1655889300,
+  "sourceUrl": "https://www.spigotmc.org/resources/2117/history/"
 }

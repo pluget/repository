@@ -1,12 +1,9 @@
 {
   "name": "2.0.2",
-  "version": {
-    "name": "2.0.2",
-    "downloadUrl": "resources/playerkits-fully-configurable-kits-1-8-1-19-4.75185/download?version=319255",
-    "numberOfDownloads": 286,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1584715680,
-    "sourceUrl": "https://www.spigotmc.org/resources/playerkits-fully-configurable-kits-1-8-1-19-4.75185/history"
-  }
+  "downloadUrl": "resources/playerkits-fully-configurable-kits-1-8-1-19-4.75185/download?version=319255",
+  "numberOfDownloads": 286,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1584715680,
+  "sourceUrl": "https://www.spigotmc.org/resources/playerkits-fully-configurable-kits-1-8-1-19-4.75185/history"
 }

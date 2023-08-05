@@ -1,12 +1,9 @@
 {
   "name": "2.11.0",
-  "version": {
-    "name": "2.11.0",
-    "downloadUrl": "resources/plot2dynmap.1292/download?version=25111",
-    "numberOfDownloads": 200,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1431653400,
-    "sourceUrl": "https://www.spigotmc.org/resources/plot2dynmap.1292/history"
-  }
+  "downloadUrl": "resources/plot2dynmap.1292/download?version=25111",
+  "numberOfDownloads": 200,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1431653400,
+  "sourceUrl": "https://www.spigotmc.org/resources/plot2dynmap.1292/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.1.2",
-  "version": {
-    "name": "2.1.2",
-    "downloadUrl": "resources/origins-bukkit-1-17-1-19-2.97926/download?version=459362",
-    "numberOfDownloads": 682,
-    "rating": 6,
-    "numberOfVotes": 1,
-    "releaseDate": 1656978720,
-    "sourceUrl": "https://www.spigotmc.org/resources/origins-bukkit-1-17-1-19-2.97926/history"
-  }
+  "downloadUrl": "resources/origins-bukkit-1-17-1-19-2.97926/download?version=459362",
+  "numberOfDownloads": 682,
+  "rating": 6,
+  "numberOfVotes": 1,
+  "releaseDate": 1656978720,
+  "sourceUrl": "https://www.spigotmc.org/resources/origins-bukkit-1-17-1-19-2.97926/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "4.4.2",
-  "version": {
-    "name": "4.4.2",
-    "downloadUrl": "resources/redlib.78713/download?version=367584",
-    "numberOfDownloads": 52,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1605621960,
-    "sourceUrl": "https://www.spigotmc.org/resources/redlib.78713/history"
-  }
+  "downloadUrl": "resources/redlib.78713/download?version=367584",
+  "numberOfDownloads": 52,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1605621960,
+  "sourceUrl": "https://www.spigotmc.org/resources/redlib.78713/history"
 }

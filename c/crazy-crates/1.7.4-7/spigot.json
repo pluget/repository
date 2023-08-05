@@ -1,12 +1,9 @@
 {
-  "name": "1.7.4-7",
-  "version": {
-    "name": "v1.7.4.7",
-    "downloadUrl": "resources/crazy-crates.17599/download?version=223375",
-    "numberOfDownloads": 343,
-    "rating": 6,
-    "numberOfVotes": 2,
-    "releaseDate": 1527398760,
-    "sourceUrl": "https://www.spigotmc.org/resources/17599/history/"
-  }
+  "name": "v1.7.4.7",
+  "downloadUrl": "resources/crazy-crates.17599/download?version=223375",
+  "numberOfDownloads": 343,
+  "rating": 6,
+  "numberOfVotes": 2,
+  "releaseDate": 1527398760,
+  "sourceUrl": "https://www.spigotmc.org/resources/17599/history/"
 }

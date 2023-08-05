@@ -1,12 +1,9 @@
 {
   "name": "8.5.0",
-  "version": {
-    "name": "8.5.0",
-    "downloadUrl": "resources/ticketmanager-advanced-ticket-plugin.91178/download?version=484826",
-    "numberOfDownloads": 69,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1675565400,
-    "sourceUrl": "https://www.spigotmc.org/resources/ticketmanager-advanced-ticket-plugin.91178/history"
-  }
+  "downloadUrl": "resources/ticketmanager-advanced-ticket-plugin.91178/download?version=484826",
+  "numberOfDownloads": 69,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1675565400,
+  "sourceUrl": "https://www.spigotmc.org/resources/ticketmanager-advanced-ticket-plugin.91178/history"
 }

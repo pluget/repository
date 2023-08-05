@@ -1,12 +1,9 @@
 {
   "name": "0.2.25",
-  "version": {
-    "name": "0.2.25",
-    "downloadUrl": "resources/screaming-bedwars-1-8-8-1-19-4.63714/download?version=462839",
-    "numberOfDownloads": 9,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1659028080,
-    "sourceUrl": "https://www.spigotmc.org/resources/screaming-bedwars-1-8-8-1-19-4.63714/history"
-  }
+  "downloadUrl": "resources/screaming-bedwars-1-8-8-1-19-4.63714/download?version=462839",
+  "numberOfDownloads": 9,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1659028080,
+  "sourceUrl": "https://www.spigotmc.org/resources/screaming-bedwars-1-8-8-1-19-4.63714/history"
 }

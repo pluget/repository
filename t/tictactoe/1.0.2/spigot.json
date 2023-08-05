@@ -1,12 +1,9 @@
 {
   "name": "1.0.2",
-  "version": {
-    "name": "1.0.2",
-    "downloadUrl": "resources/tictactoe.102743/download?version=463772",
-    "numberOfDownloads": 31,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1659527100,
-    "sourceUrl": "https://www.spigotmc.org/resources/102743/history/"
-  }
+  "downloadUrl": "resources/tictactoe.102743/download?version=463772",
+  "numberOfDownloads": 31,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1659527100,
+  "sourceUrl": "https://www.spigotmc.org/resources/102743/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.0-SNAPSHOT",
-  "version": {
-    "name": "1.0.0-SNAPSHOT",
-    "downloadUrl": "resources/%E2%9E%A5-redder-hub-1-8-1-19.102719/download?version=456970",
-    "numberOfDownloads": 302,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655571480,
-    "sourceUrl": "https://www.spigotmc.org/resources/%E2%9E%A5-redder-hub-1-8-1-19.102719/history"
-  }
+  "downloadUrl": "resources/%E2%9E%A5-redder-hub-1-8-1-19.102719/download?version=456970",
+  "numberOfDownloads": 302,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655571480,
+  "sourceUrl": "https://www.spigotmc.org/resources/%E2%9E%A5-redder-hub-1-8-1-19.102719/history"
 }

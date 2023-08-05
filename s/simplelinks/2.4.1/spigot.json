@@ -1,12 +1,9 @@
 {
   "name": "2.4.1",
-  "version": {
-    "name": "2.4.1",
-    "downloadUrl": "resources/simplelinks.90283/download?version=406509",
-    "numberOfDownloads": 79,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1625084640,
-    "sourceUrl": "https://www.spigotmc.org/resources/simplelinks.90283/history"
-  }
+  "downloadUrl": "resources/simplelinks.90283/download?version=406509",
+  "numberOfDownloads": 79,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1625084640,
+  "sourceUrl": "https://www.spigotmc.org/resources/simplelinks.90283/history"
 }

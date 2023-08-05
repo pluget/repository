@@ -1,12 +1,9 @@
 {
   "name": "2.0.0",
-  "version": {
-    "name": "2.0.0",
-    "downloadUrl": "resources/enchantment-manager.93522/download?version=442868",
-    "numberOfDownloads": 51,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1645922400,
-    "sourceUrl": "https://www.spigotmc.org/resources/enchantment-manager.93522/history"
-  }
+  "downloadUrl": "resources/enchantment-manager.93522/download?version=442868",
+  "numberOfDownloads": 51,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1645922400,
+  "sourceUrl": "https://www.spigotmc.org/resources/enchantment-manager.93522/history"
 }

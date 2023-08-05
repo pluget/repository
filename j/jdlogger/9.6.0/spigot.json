@@ -1,12 +1,9 @@
 {
-  "name": "9.6.0",
-  "version": {
-    "name": "9.6",
-    "downloadUrl": "resources/jdlogger-death-logger.99623/download?version=481926",
-    "numberOfDownloads": 28,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1673532240,
-    "sourceUrl": "https://www.spigotmc.org/resources/jdlogger-death-logger.99623/history"
-  }
+  "name": "9.6",
+  "downloadUrl": "resources/jdlogger-death-logger.99623/download?version=481926",
+  "numberOfDownloads": 28,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1673532240,
+  "sourceUrl": "https://www.spigotmc.org/resources/jdlogger-death-logger.99623/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "3.2.2",
-  "version": {
-    "name": "3.2.2",
-    "downloadUrl": "resources/anticooldown-old-pvp-1-9-1-19-2.51321/download?version=305433",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1576538340,
-    "sourceUrl": "https://www.spigotmc.org/resources/anticooldown-old-pvp-1-9-1-19-2.51321/history"
-  }
+  "downloadUrl": "resources/anticooldown-old-pvp-1-9-1-19-2.51321/download?version=305433",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1576538340,
+  "sourceUrl": "https://www.spigotmc.org/resources/anticooldown-old-pvp-1-9-1-19-2.51321/history"
 }

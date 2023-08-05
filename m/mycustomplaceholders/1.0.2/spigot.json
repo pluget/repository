@@ -1,12 +1,9 @@
 {
   "name": "1.0.2",
-  "version": {
-    "name": "1.0.2",
-    "downloadUrl": "resources/mycustomplaceholders.97282/download?version=435885",
-    "numberOfDownloads": 10,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1641757440,
-    "sourceUrl": "https://www.spigotmc.org/resources/97282/history/"
-  }
+  "downloadUrl": "resources/mycustomplaceholders.97282/download?version=435885",
+  "numberOfDownloads": 10,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1641757440,
+  "sourceUrl": "https://www.spigotmc.org/resources/97282/history/"
 }

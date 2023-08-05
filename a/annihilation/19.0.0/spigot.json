@@ -1,12 +1,9 @@
 {
   "name": "19.0.0",
-  "version": {
-    "name": "19.0.0",
-    "downloadUrl": "resources/annihilation-1-6-x-1-19-2.66571/download?version=459003",
-    "numberOfDownloads": 565,
-    "rating": 6.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1656785100,
-    "sourceUrl": "https://www.spigotmc.org/resources/annihilation-1-6-x-1-19-2.66571/history"
-  }
+  "downloadUrl": "resources/annihilation-1-6-x-1-19-2.66571/download?version=459003",
+  "numberOfDownloads": 565,
+  "rating": 6.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1656785100,
+  "sourceUrl": "https://www.spigotmc.org/resources/annihilation-1-6-x-1-19-2.66571/history"
 }

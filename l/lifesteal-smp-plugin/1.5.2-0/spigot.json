@@ -1,12 +1,9 @@
 {
-  "name": "1.5.2-0",
-  "version": {
-    "name": "Alpha 1.5.2.0",
-    "downloadUrl": "resources/lifesteal-smp-plugin.94387/download?version=412629",
-    "numberOfDownloads": 5,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1627840080,
-    "sourceUrl": "https://www.spigotmc.org/resources/94387/history/"
-  }
+  "name": "Alpha 1.5.2.0",
+  "downloadUrl": "resources/lifesteal-smp-plugin.94387/download?version=412629",
+  "numberOfDownloads": 5,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1627840080,
+  "sourceUrl": "https://www.spigotmc.org/resources/94387/history/"
 }

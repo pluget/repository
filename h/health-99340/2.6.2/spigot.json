@@ -1,12 +1,9 @@
 {
   "name": "2.6.2",
-  "version": {
-    "name": "2.6.2",
-    "downloadUrl": "resources/health.99340/download?version=464591",
-    "numberOfDownloads": 111,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1659894000,
-    "sourceUrl": "https://www.spigotmc.org/resources/health.99340/history"
-  }
+  "downloadUrl": "resources/health.99340/download?version=464591",
+  "numberOfDownloads": 111,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1659894000,
+  "sourceUrl": "https://www.spigotmc.org/resources/health.99340/history"
 }

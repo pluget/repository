@@ -1,12 +1,9 @@
 {
   "name": "7.9.5",
-  "version": {
-    "name": "7.9.5",
-    "downloadUrl": "resources/magic.1056/download?version=334960",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1591046580,
-    "sourceUrl": "https://www.spigotmc.org/resources/magic.1056/history"
-  }
+  "downloadUrl": "resources/magic.1056/download?version=334960",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1591046580,
+  "sourceUrl": "https://www.spigotmc.org/resources/magic.1056/history"
 }

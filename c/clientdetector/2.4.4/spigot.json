@@ -1,12 +1,9 @@
 {
   "name": "2.4.4",
-  "version": {
-    "name": "2.4.4",
-    "downloadUrl": "resources/clientdetector-client-mod-detection-forge-mod-detection-clientcontrol.90375/download?version=435506",
-    "numberOfDownloads": 360,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1641569700,
-    "sourceUrl": "https://www.spigotmc.org/resources/clientdetector-client-mod-detection-forge-mod-detection-clientcontrol.90375/history"
-  }
+  "downloadUrl": "resources/clientdetector-client-mod-detection-forge-mod-detection-clientcontrol.90375/download?version=435506",
+  "numberOfDownloads": 360,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1641569700,
+  "sourceUrl": "https://www.spigotmc.org/resources/clientdetector-client-mod-detection-forge-mod-detection-clientcontrol.90375/history"
 }

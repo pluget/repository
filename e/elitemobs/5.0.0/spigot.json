@@ -1,12 +1,9 @@
 {
   "name": "5.0.0",
-  "version": {
-    "name": "5.0.0",
-    "downloadUrl": "resources/%E2%9A%94elitemobs%E2%9A%94.40090/download?version=208784",
-    "numberOfDownloads": 310,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1518890640,
-    "sourceUrl": "https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/history"
-  }
+  "downloadUrl": "resources/%E2%9A%94elitemobs%E2%9A%94.40090/download?version=208784",
+  "numberOfDownloads": 310,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1518890640,
+  "sourceUrl": "https://www.spigotmc.org/resources/%E2%9A%94elitemobs%E2%9A%94.40090/history"
 }

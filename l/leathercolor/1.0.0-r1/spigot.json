@@ -1,12 +1,9 @@
 {
   "name": "1.0.0-r1",
-  "version": {
-    "name": "1.0.0-r1",
-    "downloadUrl": "resources/leathercolor.101158/download?version=447641",
-    "numberOfDownloads": 14,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1649024760,
-    "sourceUrl": "https://www.spigotmc.org/resources/leathercolor.101158/history"
-  }
+  "downloadUrl": "resources/leathercolor.101158/download?version=447641",
+  "numberOfDownloads": 14,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1649024760,
+  "sourceUrl": "https://www.spigotmc.org/resources/leathercolor.101158/history"
 }

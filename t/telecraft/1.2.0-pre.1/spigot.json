@@ -1,12 +1,9 @@
 {
-  "name": "1.2.0-pre.1",
-  "version": {
-    "name": "1.2",
-    "downloadUrl": "resources/telecraft.75751/download?version=317479",
-    "numberOfDownloads": 47,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1583665200,
-    "sourceUrl": "https://www.spigotmc.org/resources/75751/history/"
-  }
+  "name": "1.2",
+  "downloadUrl": "resources/telecraft.75751/download?version=317479",
+  "numberOfDownloads": 47,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1583665200,
+  "sourceUrl": "https://www.spigotmc.org/resources/75751/history/"
 }

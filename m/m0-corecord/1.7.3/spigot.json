@@ -1,12 +1,9 @@
 {
   "name": "1.7.3",
-  "version": {
-    "name": "1.7.3",
-    "downloadUrl": "resources/m0-corecord-1-13-1-18.91863/download?version=439400",
-    "numberOfDownloads": 32,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1643750160,
-    "sourceUrl": "https://www.spigotmc.org/resources/m0-corecord-1-13-1-18.91863/history"
-  }
+  "downloadUrl": "resources/m0-corecord-1-13-1-18.91863/download?version=439400",
+  "numberOfDownloads": 32,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1643750160,
+  "sourceUrl": "https://www.spigotmc.org/resources/m0-corecord-1-13-1-18.91863/history"
 }

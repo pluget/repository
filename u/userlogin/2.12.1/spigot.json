@@ -1,12 +1,9 @@
 {
-  "name": "2.12.1",
-  "version": {
-    "name": "v2.12.1",
-    "downloadUrl": "resources/userlogin.80669/download?version=426930",
-    "numberOfDownloads": 10,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1636934520,
-    "sourceUrl": "https://www.spigotmc.org/resources/userlogin.80669/history"
-  }
+  "name": "v2.12.1",
+  "downloadUrl": "resources/userlogin.80669/download?version=426930",
+  "numberOfDownloads": 10,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1636934520,
+  "sourceUrl": "https://www.spigotmc.org/resources/userlogin.80669/history"
 }

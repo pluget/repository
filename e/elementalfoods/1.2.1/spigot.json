@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/elementalfoods.104086/download?version=473687",
-    "numberOfDownloads": 33,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1667012820,
-    "sourceUrl": "https://www.spigotmc.org/resources/elementalfoods.104086/history"
-  }
+  "downloadUrl": "resources/elementalfoods.104086/download?version=473687",
+  "numberOfDownloads": 33,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1667012820,
+  "sourceUrl": "https://www.spigotmc.org/resources/elementalfoods.104086/history"
 }

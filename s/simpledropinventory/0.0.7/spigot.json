@@ -1,12 +1,9 @@
 {
   "name": "0.0.7",
-  "version": {
-    "name": "0.0.7",
-    "downloadUrl": "resources/simpledropinventory.101522/download?version=459157",
-    "numberOfDownloads": 62,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1656875880,
-    "sourceUrl": "https://www.spigotmc.org/resources/simpledropinventory.101522/history"
-  }
+  "downloadUrl": "resources/simpledropinventory.101522/download?version=459157",
+  "numberOfDownloads": 62,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1656875880,
+  "sourceUrl": "https://www.spigotmc.org/resources/simpledropinventory.101522/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.2.5",
-  "version": {
-    "name": "1.2.5",
-    "downloadUrl": "resources/dragonride-1-7-1-19-x.87299/download?version=376183",
-    "numberOfDownloads": 150,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1610040060,
-    "sourceUrl": "https://www.spigotmc.org/resources/dragonride-1-7-1-19-x.87299/history"
-  }
+  "downloadUrl": "resources/dragonride-1-7-1-19-x.87299/download?version=376183",
+  "numberOfDownloads": 150,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1610040060,
+  "sourceUrl": "https://www.spigotmc.org/resources/dragonride-1-7-1-19-x.87299/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "2.6.0-pre.1",
-  "version": {
-    "name": "2.6",
-    "downloadUrl": "resources/prefixsystem-1-8-3-1-18-2.60285/download?version=321378",
-    "numberOfDownloads": 76,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1585665180,
-    "sourceUrl": "https://www.spigotmc.org/resources/60285/history/"
-  }
+  "name": "2.6",
+  "downloadUrl": "resources/prefixsystem-1-8-3-1-18-2.60285/download?version=321378",
+  "numberOfDownloads": 76,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1585665180,
+  "sourceUrl": "https://www.spigotmc.org/resources/60285/history/"
 }

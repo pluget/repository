@@ -1,12 +1,9 @@
 {
-  "name": "3.4.0",
-  "version": {
-    "name": "3.4",
-    "downloadUrl": "resources/banitem-1-7-1-19.67701/download?version=460610",
-    "numberOfDownloads": 10,
-    "rating": 9.6,
-    "numberOfVotes": 5,
-    "releaseDate": 1657735740,
-    "sourceUrl": "https://www.spigotmc.org/resources/67701/history/"
-  }
+  "name": "3.4",
+  "downloadUrl": "resources/banitem-1-7-1-19.67701/download?version=460610",
+  "numberOfDownloads": 10,
+  "rating": 9.6,
+  "numberOfVotes": 5,
+  "releaseDate": 1657735740,
+  "sourceUrl": "https://www.spigotmc.org/resources/67701/history/"
 }

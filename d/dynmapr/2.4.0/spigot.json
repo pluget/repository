@@ -1,12 +1,9 @@
 {
-  "name": "2.4.0",
-  "version": {
-    "name": "Dynmap v2.4",
-    "downloadUrl": "resources/dynmap%C2%AE.274/download?version=142093",
-    "numberOfDownloads": 13,
-    "rating": 8.5454545454546,
-    "numberOfVotes": 11,
-    "releaseDate": 1486865940,
-    "sourceUrl": "https://www.spigotmc.org/resources/dynmap%C2%AE.274/history"
-  }
+  "name": "Dynmap v2.4",
+  "downloadUrl": "resources/dynmap%C2%AE.274/download?version=142093",
+  "numberOfDownloads": 13,
+  "rating": 8.5454545454546,
+  "numberOfVotes": 11,
+  "releaseDate": 1486865940,
+  "sourceUrl": "https://www.spigotmc.org/resources/dynmap%C2%AE.274/history"
 }

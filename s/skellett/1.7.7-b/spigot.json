@@ -1,12 +1,9 @@
 {
-  "name": "1.7.7-b",
-  "version": {
-    "name": "1.7.7b",
-    "downloadUrl": "resources/skript-java-addon-skellett.34361/download?version=138745",
-    "numberOfDownloads": 213,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1485417840,
-    "sourceUrl": "https://www.spigotmc.org/resources/skript-java-addon-skellett.34361/history"
-  }
+  "name": "1.7.7b",
+  "downloadUrl": "resources/skript-java-addon-skellett.34361/download?version=138745",
+  "numberOfDownloads": 213,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1485417840,
+  "sourceUrl": "https://www.spigotmc.org/resources/skript-java-addon-skellett.34361/history"
 }

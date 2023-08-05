@@ -1,12 +1,9 @@
 {
   "name": "5.3.4-pre",
-  "version": {
-    "name": "5.3.4-pre",
-    "downloadUrl": "resources/free-eggwars-mini-game-remastered.97569/download?version=427956",
-    "numberOfDownloads": 25,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1637688360,
-    "sourceUrl": "https://www.spigotmc.org/resources/free-eggwars-mini-game-remastered.97569/history"
-  }
+  "downloadUrl": "resources/free-eggwars-mini-game-remastered.97569/download?version=427956",
+  "numberOfDownloads": 25,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1637688360,
+  "sourceUrl": "https://www.spigotmc.org/resources/free-eggwars-mini-game-remastered.97569/history"
 }

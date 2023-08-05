@@ -1,12 +1,9 @@
 {
   "name": "1.9.2",
-  "version": {
-    "name": "1.9.2",
-    "downloadUrl": "resources/portablebeacons.74566/download?version=387439",
-    "numberOfDownloads": 51,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1615220880,
-    "sourceUrl": "https://www.spigotmc.org/resources/portablebeacons.74566/history"
-  }
+  "downloadUrl": "resources/portablebeacons.74566/download?version=387439",
+  "numberOfDownloads": 51,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1615220880,
+  "sourceUrl": "https://www.spigotmc.org/resources/portablebeacons.74566/history"
 }

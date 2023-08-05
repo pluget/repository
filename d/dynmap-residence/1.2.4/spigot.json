@@ -1,12 +1,9 @@
 {
   "name": "1.2.4",
-  "version": {
-    "name": "1.2.4",
-    "downloadUrl": "resources/dynmap-residence.90206/download?version=388974",
-    "numberOfDownloads": 27,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1615974480,
-    "sourceUrl": "https://www.spigotmc.org/resources/dynmap-residence.90206/history"
-  }
+  "downloadUrl": "resources/dynmap-residence.90206/download?version=388974",
+  "numberOfDownloads": 27,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1615974480,
+  "sourceUrl": "https://www.spigotmc.org/resources/dynmap-residence.90206/history"
 }

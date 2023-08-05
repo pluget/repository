@@ -1,12 +1,9 @@
 {
-  "name": "1.5.0",
-  "version": {
-    "name": "v1.5",
-    "downloadUrl": "resources/crazy-crates.17599/download?version=66254",
-    "numberOfDownloads": 1,
-    "rating": 9.6,
-    "numberOfVotes": 15,
-    "releaseDate": 1454343840,
-    "sourceUrl": "https://www.spigotmc.org/resources/17599/history/"
-  }
+  "name": "v1.5",
+  "downloadUrl": "resources/crazy-crates.17599/download?version=66254",
+  "numberOfDownloads": 1,
+  "rating": 9.6,
+  "numberOfVotes": 15,
+  "releaseDate": 1454343840,
+  "sourceUrl": "https://www.spigotmc.org/resources/17599/history/"
 }

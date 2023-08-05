@@ -1,12 +1,9 @@
 {
-  "name": "1.12.2-pre.1",
-  "version": {
-    "name": "1.12.2",
-    "downloadUrl": "resources/tblacknick.99735/download?version=439626",
-    "numberOfDownloads": 22,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1643910180,
-    "sourceUrl": "https://www.spigotmc.org/resources/tblacknick.99735/history"
-  }
+  "name": "1.12.2",
+  "downloadUrl": "resources/tblacknick.99735/download?version=439626",
+  "numberOfDownloads": 22,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1643910180,
+  "sourceUrl": "https://www.spigotmc.org/resources/tblacknick.99735/history"
 }

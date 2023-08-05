@@ -1,12 +1,9 @@
 {
   "name": "1.7.6",
-  "version": {
-    "name": "1.7.6",
-    "downloadUrl": "resources/anti-farm.99472/download?version=457247",
-    "numberOfDownloads": 42,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1655731140,
-    "sourceUrl": "https://www.spigotmc.org/resources/anti-farm.99472/history"
-  }
+  "downloadUrl": "resources/anti-farm.99472/download?version=457247",
+  "numberOfDownloads": 42,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1655731140,
+  "sourceUrl": "https://www.spigotmc.org/resources/anti-farm.99472/history"
 }

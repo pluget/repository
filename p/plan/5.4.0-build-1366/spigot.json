@@ -1,12 +1,9 @@
 {
-  "name": "5.4.0-build-1366",
-  "version": {
-    "name": "5.4 build 1366",
-    "downloadUrl": "resources/plan-player-analytics.32536/download?version=408309",
-    "numberOfDownloads": 3,
-    "rating": 9.1428571428572,
-    "numberOfVotes": 7,
-    "releaseDate": 1625897700,
-    "sourceUrl": "https://www.spigotmc.org/resources/plan-player-analytics.32536/history"
-  }
+  "name": "5.4 build 1366",
+  "downloadUrl": "resources/plan-player-analytics.32536/download?version=408309",
+  "numberOfDownloads": 3,
+  "rating": 9.1428571428572,
+  "numberOfVotes": 7,
+  "releaseDate": 1625897700,
+  "sourceUrl": "https://www.spigotmc.org/resources/plan-player-analytics.32536/history"
 }

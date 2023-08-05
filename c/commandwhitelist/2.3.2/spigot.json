@@ -1,12 +1,9 @@
 {
-  "name": "2.3.2",
-  "version": {
-    "name": "v2.3.2",
-    "downloadUrl": "resources/commandwhitelist-spigot-waterfall-velocity.81326/download?version=447348",
-    "numberOfDownloads": 297,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1648835520,
-    "sourceUrl": "https://www.spigotmc.org/resources/commandwhitelist-spigot-waterfall-velocity.81326/history"
-  }
+  "name": "v2.3.2",
+  "downloadUrl": "resources/commandwhitelist-spigot-waterfall-velocity.81326/download?version=447348",
+  "numberOfDownloads": 297,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1648835520,
+  "sourceUrl": "https://www.spigotmc.org/resources/commandwhitelist-spigot-waterfall-velocity.81326/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.5.5",
-  "version": {
-    "name": "2.5.5",
-    "downloadUrl": "resources/challenge-plugin.82074/download?version=381193",
-    "numberOfDownloads": 1,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1612264860,
-    "sourceUrl": "https://www.spigotmc.org/resources/challenge-plugin.82074/history"
-  }
+  "downloadUrl": "resources/challenge-plugin.82074/download?version=381193",
+  "numberOfDownloads": 1,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1612264860,
+  "sourceUrl": "https://www.spigotmc.org/resources/challenge-plugin.82074/history"
 }

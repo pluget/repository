@@ -1,12 +1,9 @@
 {
   "name": "2.0.10",
-  "version": {
-    "name": "2.0.10",
-    "downloadUrl": "resources/minimotd-server-list-motd-plugin-with-rgb-gradients.81254/download?version=477726",
-    "numberOfDownloads": 6,
-    "rating": 8,
-    "numberOfVotes": 4,
-    "releaseDate": 1670602440,
-    "sourceUrl": "https://www.spigotmc.org/resources/minimotd-server-list-motd-plugin-with-rgb-gradients.81254/history"
-  }
+  "downloadUrl": "resources/minimotd-server-list-motd-plugin-with-rgb-gradients.81254/download?version=477726",
+  "numberOfDownloads": 6,
+  "rating": 8,
+  "numberOfVotes": 4,
+  "releaseDate": 1670602440,
+  "sourceUrl": "https://www.spigotmc.org/resources/minimotd-server-list-motd-plugin-with-rgb-gradients.81254/history"
 }

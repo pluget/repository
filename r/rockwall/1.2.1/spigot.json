@@ -1,12 +1,9 @@
 {
   "name": "1.2.1",
-  "version": {
-    "name": "1.2.1",
-    "downloadUrl": "resources/rockwall.103709/download?version=467777",
-    "numberOfDownloads": 12,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1661887200,
-    "sourceUrl": "https://www.spigotmc.org/resources/103709/history/"
-  }
+  "downloadUrl": "resources/rockwall.103709/download?version=467777",
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1661887200,
+  "sourceUrl": "https://www.spigotmc.org/resources/103709/history/"
 }

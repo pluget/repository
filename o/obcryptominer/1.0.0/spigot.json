@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/obcryptominer.101681/download?version=450399",
-    "numberOfDownloads": 69,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1651059960,
-    "sourceUrl": "https://www.spigotmc.org/resources/obcryptominer.101681/history"
-  }
+  "downloadUrl": "resources/obcryptominer.101681/download?version=450399",
+  "numberOfDownloads": 69,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1651059960,
+  "sourceUrl": "https://www.spigotmc.org/resources/obcryptominer.101681/history"
 }

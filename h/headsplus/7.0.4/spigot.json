@@ -1,12 +1,9 @@
 {
   "name": "7.0.4",
-  "version": {
-    "name": "7.0.4",
-    "downloadUrl": "resources/headsplus-%C2%BB-1-15-2-1-19-x.40265/download?version=436534",
-    "numberOfDownloads": 3,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1642159440,
-    "sourceUrl": "https://www.spigotmc.org/resources/headsplus-%C2%BB-1-15-2-1-19-x.40265/history"
-  }
+  "downloadUrl": "resources/headsplus-%C2%BB-1-15-2-1-19-x.40265/download?version=436534",
+  "numberOfDownloads": 3,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1642159440,
+  "sourceUrl": "https://www.spigotmc.org/resources/headsplus-%C2%BB-1-15-2-1-19-x.40265/history"
 }

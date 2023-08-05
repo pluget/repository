@@ -1,12 +1,9 @@
 {
-  "name": "1.7.0",
-  "version": {
-    "name": "1.7",
-    "downloadUrl": "resources/hubpvp-a-fun-hub-pvp-game-1-8-1-19.101924/download?version=456379",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655256240,
-    "sourceUrl": "https://www.spigotmc.org/resources/101924/history/"
-  }
+  "name": "1.7",
+  "downloadUrl": "resources/hubpvp-a-fun-hub-pvp-game-1-8-1-19.101924/download?version=456379",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655256240,
+  "sourceUrl": "https://www.spigotmc.org/resources/101924/history/"
 }

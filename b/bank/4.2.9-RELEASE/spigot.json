@@ -1,12 +1,9 @@
 {
   "name": "4.2.9-RELEASE",
-  "version": {
-    "name": "4.2.9-RELEASE",
-    "downloadUrl": "resources/bank-24k-downloads-updated-for-1-19.18968/download?version=374973",
-    "numberOfDownloads": 269,
-    "rating": 6,
-    "numberOfVotes": 1,
-    "releaseDate": 1609491900,
-    "sourceUrl": "https://www.spigotmc.org/resources/bank-24k-downloads-updated-for-1-19.18968/history"
-  }
+  "downloadUrl": "resources/bank-24k-downloads-updated-for-1-19.18968/download?version=374973",
+  "numberOfDownloads": 269,
+  "rating": 6,
+  "numberOfVotes": 1,
+  "releaseDate": 1609491900,
+  "sourceUrl": "https://www.spigotmc.org/resources/bank-24k-downloads-updated-for-1-19.18968/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "2.6.0",
-  "version": {
-    "name": "2.6",
-    "downloadUrl": "resources/itemedit-1-8-x-1-19-x.40993/download?version=385729",
-    "numberOfDownloads": 584,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1614364560,
-    "sourceUrl": "https://www.spigotmc.org/resources/40993/history/"
-  }
+  "name": "2.6",
+  "downloadUrl": "resources/itemedit-1-8-x-1-19-x.40993/download?version=385729",
+  "numberOfDownloads": 584,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1614364560,
+  "sourceUrl": "https://www.spigotmc.org/resources/40993/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.8-BETA",
-  "version": {
-    "name": "1.0.8-BETA",
-    "downloadUrl": "resources/bosterparticles.100933/download?version=450487",
-    "numberOfDownloads": 16,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1651104060,
-    "sourceUrl": "https://www.spigotmc.org/resources/bosterparticles.100933/history"
-  }
+  "downloadUrl": "resources/bosterparticles.100933/download?version=450487",
+  "numberOfDownloads": 16,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1651104060,
+  "sourceUrl": "https://www.spigotmc.org/resources/bosterparticles.100933/history"
 }

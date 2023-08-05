@@ -1,12 +1,9 @@
 {
-  "name": "0.98.2-0",
-  "version": {
-    "name": "0.98.2.0",
-    "downloadUrl": "resources/towny-advanced.72694/download?version=453383",
-    "numberOfDownloads": 3,
-    "rating": 9.1111111111112,
-    "numberOfVotes": 9,
-    "releaseDate": 1653404700,
-    "sourceUrl": "https://www.spigotmc.org/resources/towny-advanced.72694/history"
-  }
+  "name": "0.98.2.0",
+  "downloadUrl": "resources/towny-advanced.72694/download?version=453383",
+  "numberOfDownloads": 3,
+  "rating": 9.1111111111112,
+  "numberOfVotes": 9,
+  "releaseDate": 1653404700,
+  "sourceUrl": "https://www.spigotmc.org/resources/towny-advanced.72694/history"
 }

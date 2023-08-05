@@ -1,12 +1,9 @@
 {
   "name": "1.4.1",
-  "version": {
-    "name": "1.4.1",
-    "downloadUrl": "resources/mythiclib.90306/download?version=466497",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1661086800,
-    "sourceUrl": "https://www.spigotmc.org/resources/mythiclib.90306/history"
-  }
+  "downloadUrl": "resources/mythiclib.90306/download?version=466497",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1661086800,
+  "sourceUrl": "https://www.spigotmc.org/resources/mythiclib.90306/history"
 }

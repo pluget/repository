@@ -1,12 +1,9 @@
 {
-  "name": "10.2.2-0",
-  "version": {
-    "name": "10.2.2.0",
-    "downloadUrl": "resources/combatlogx.31689/download?version=359963",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1601674860,
-    "sourceUrl": "https://www.spigotmc.org/resources/combatlogx.31689/history"
-  }
+  "name": "10.2.2.0",
+  "downloadUrl": "resources/combatlogx.31689/download?version=359963",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1601674860,
+  "sourceUrl": "https://www.spigotmc.org/resources/combatlogx.31689/history"
 }

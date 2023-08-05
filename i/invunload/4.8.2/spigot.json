@@ -1,12 +1,9 @@
 {
   "name": "4.8.2",
-  "version": {
-    "name": "4.8.2",
-    "downloadUrl": "resources/invunload.60095/download?version=345573",
-    "numberOfDownloads": 116,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1595250360,
-    "sourceUrl": "https://www.spigotmc.org/resources/60095/history/"
-  }
+  "downloadUrl": "resources/invunload.60095/download?version=345573",
+  "numberOfDownloads": 116,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1595250360,
+  "sourceUrl": "https://www.spigotmc.org/resources/60095/history/"
 }

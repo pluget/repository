@@ -1,12 +1,9 @@
 {
   "name": "1.6.6",
-  "version": {
-    "name": "1.6.6",
-    "downloadUrl": "resources/ultra-sethome-with-bungeecord-support.96934/download?version=453289",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1653324780,
-    "sourceUrl": "https://www.spigotmc.org/resources/96934/history/"
-  }
+  "downloadUrl": "resources/ultra-sethome-with-bungeecord-support.96934/download?version=453289",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1653324780,
+  "sourceUrl": "https://www.spigotmc.org/resources/96934/history/"
 }

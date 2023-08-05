@@ -1,12 +1,9 @@
 {
   "name": "1.7.8-release",
-  "version": {
-    "name": "1.7.8-release",
-    "downloadUrl": "resources/custom-join-and-quit-message-1-8-x-1-19-x.57006/download?version=486275",
-    "numberOfDownloads": 86,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1676658900,
-    "sourceUrl": "https://www.spigotmc.org/resources/custom-join-and-quit-message-1-8-x-1-19-x.57006/history"
-  }
+  "downloadUrl": "resources/custom-join-and-quit-message-1-8-x-1-19-x.57006/download?version=486275",
+  "numberOfDownloads": 86,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1676658900,
+  "sourceUrl": "https://www.spigotmc.org/resources/custom-join-and-quit-message-1-8-x-1-19-x.57006/history"
 }

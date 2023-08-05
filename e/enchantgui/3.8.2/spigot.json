@@ -1,12 +1,9 @@
 {
   "name": "3.8.2",
-  "version": {
-    "name": "3.8.2",
-    "downloadUrl": "resources/enchantgui-1-8-1-19-x-editable-maxlevel-prices-support-custom-enchantment-economy.63088/download?version=485973",
-    "numberOfDownloads": 1,
-    "rating": 9.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1676461260,
-    "sourceUrl": "https://www.spigotmc.org/resources/enchantgui-1-8-1-19-x-editable-maxlevel-prices-support-custom-enchantment-economy.63088/history"
-  }
+  "downloadUrl": "resources/enchantgui-1-8-1-19-x-editable-maxlevel-prices-support-custom-enchantment-economy.63088/download?version=485973",
+  "numberOfDownloads": 1,
+  "rating": 9.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1676461260,
+  "sourceUrl": "https://www.spigotmc.org/resources/enchantgui-1-8-1-19-x-editable-maxlevel-prices-support-custom-enchantment-economy.63088/history"
 }

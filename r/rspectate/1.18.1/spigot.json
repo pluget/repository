@@ -1,12 +1,9 @@
 {
   "name": "1.18.1",
-  "version": {
-    "name": "1.18.1",
-    "downloadUrl": "resources/rspectate.99375/download?version=437646",
-    "numberOfDownloads": 39,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1642767120,
-    "sourceUrl": "https://www.spigotmc.org/resources/99375/history/"
-  }
+  "downloadUrl": "resources/rspectate.99375/download?version=437646",
+  "numberOfDownloads": 39,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1642767120,
+  "sourceUrl": "https://www.spigotmc.org/resources/99375/history/"
 }

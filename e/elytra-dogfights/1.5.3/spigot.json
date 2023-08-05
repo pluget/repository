@@ -1,12 +1,9 @@
 {
   "name": "1.5.3",
-  "version": {
-    "name": "1.5.3",
-    "downloadUrl": "resources/elytra-dogfights.60491/download?version=437296",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1642534740,
-    "sourceUrl": "https://www.spigotmc.org/resources/elytra-dogfights.60491/history"
-  }
+  "downloadUrl": "resources/elytra-dogfights.60491/download?version=437296",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1642534740,
+  "sourceUrl": "https://www.spigotmc.org/resources/elytra-dogfights.60491/history"
 }

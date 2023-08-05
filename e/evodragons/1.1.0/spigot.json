@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/evodragons.94880/download?version=443755",
-    "numberOfDownloads": 623,
-    "rating": 8,
-    "numberOfVotes": 3,
-    "releaseDate": 1646467800,
-    "sourceUrl": "https://www.spigotmc.org/resources/94880/history/"
-  }
+  "downloadUrl": "resources/evodragons.94880/download?version=443755",
+  "numberOfDownloads": 623,
+  "rating": 8,
+  "numberOfVotes": 3,
+  "releaseDate": 1646467800,
+  "sourceUrl": "https://www.spigotmc.org/resources/94880/history/"
 }

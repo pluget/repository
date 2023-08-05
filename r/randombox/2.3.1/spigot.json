@@ -1,12 +1,9 @@
 {
   "name": "2.3.1",
-  "version": {
-    "name": "2.3.1",
-    "downloadUrl": "resources/randombox.3217/download?version=23983",
-    "numberOfDownloads": 111,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1430960400,
-    "sourceUrl": "https://www.spigotmc.org/resources/randombox.3217/history"
-  }
+  "downloadUrl": "resources/randombox.3217/download?version=23983",
+  "numberOfDownloads": 111,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1430960400,
+  "sourceUrl": "https://www.spigotmc.org/resources/randombox.3217/history"
 }

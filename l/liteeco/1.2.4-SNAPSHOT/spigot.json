@@ -1,12 +1,9 @@
 {
   "name": "1.2.4-SNAPSHOT",
-  "version": {
-    "name": "1.2.4-SNAPSHOT",
-    "downloadUrl": "resources/liteeco-simple-economy-plugin-1-18-x-1-19.101934/download?version=483539",
-    "numberOfDownloads": 535,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1674712620,
-    "sourceUrl": "https://www.spigotmc.org/resources/liteeco-simple-economy-plugin-1-18-x-1-19.101934/history"
-  }
+  "downloadUrl": "resources/liteeco-simple-economy-plugin-1-18-x-1-19.101934/download?version=483539",
+  "numberOfDownloads": 535,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1674712620,
+  "sourceUrl": "https://www.spigotmc.org/resources/liteeco-simple-economy-plugin-1-18-x-1-19.101934/history"
 }

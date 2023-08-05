@@ -1,12 +1,9 @@
 {
   "name": "2.0.7-BETA",
-  "version": {
-    "name": "2.0.7-BETA",
-    "downloadUrl": "resources/craftingstore-net-free-minecraft-donation-system-1-19-compatible.31331/download?version=259944",
-    "numberOfDownloads": 520,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1549393140,
-    "sourceUrl": "https://www.spigotmc.org/resources/craftingstore-net-free-minecraft-donation-system-1-19-compatible.31331/history"
-  }
+  "downloadUrl": "resources/craftingstore-net-free-minecraft-donation-system-1-19-compatible.31331/download?version=259944",
+  "numberOfDownloads": 520,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1549393140,
+  "sourceUrl": "https://www.spigotmc.org/resources/craftingstore-net-free-minecraft-donation-system-1-19-compatible.31331/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "16.0.0",
-  "version": {
-    "name": "16.0.0",
-    "downloadUrl": "resources/pluginapi.71657/download?version=349487",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1596866220,
-    "sourceUrl": "https://www.spigotmc.org/resources/pluginapi.71657/history"
-  }
+  "downloadUrl": "resources/pluginapi.71657/download?version=349487",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1596866220,
+  "sourceUrl": "https://www.spigotmc.org/resources/pluginapi.71657/history"
 }

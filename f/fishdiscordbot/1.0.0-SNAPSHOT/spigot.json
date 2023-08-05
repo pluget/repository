@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-SNAPSHOT",
-  "version": {
-    "name": "1.0 SNAPSHOT",
-    "downloadUrl": "resources/fishdiscordbot.99874/download?version=440392",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1644330240,
-    "sourceUrl": "https://www.spigotmc.org/resources/99874/history/"
-  }
+  "name": "1.0 SNAPSHOT",
+  "downloadUrl": "resources/fishdiscordbot.99874/download?version=440392",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1644330240,
+  "sourceUrl": "https://www.spigotmc.org/resources/99874/history/"
 }

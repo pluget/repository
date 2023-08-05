@@ -1,12 +1,9 @@
 {
   "name": "1.3.1",
-  "version": {
-    "name": "1.3.1",
-    "downloadUrl": "resources/enchbook.62545/download?version=296413",
-    "numberOfDownloads": 117,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1570042680,
-    "sourceUrl": "https://www.spigotmc.org/resources/enchbook.62545/history"
-  }
+  "downloadUrl": "resources/enchbook.62545/download?version=296413",
+  "numberOfDownloads": 117,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1570042680,
+  "sourceUrl": "https://www.spigotmc.org/resources/enchbook.62545/history"
 }

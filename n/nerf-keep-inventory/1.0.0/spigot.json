@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/nerf-keep-inventory.107619/download?version=483561",
-    "numberOfDownloads": 60,
-    "rating": 2,
-    "numberOfVotes": 1,
-    "releaseDate": 1674737880,
-    "sourceUrl": "https://www.spigotmc.org/resources/107619/history/"
-  }
+  "downloadUrl": "resources/nerf-keep-inventory.107619/download?version=483561",
+  "numberOfDownloads": 60,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releaseDate": 1674737880,
+  "sourceUrl": "https://www.spigotmc.org/resources/107619/history/"
 }

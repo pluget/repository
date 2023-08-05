@@ -1,12 +1,9 @@
 {
   "name": "1.7.5",
-  "version": {
-    "name": "1.7.5",
-    "downloadUrl": "resources/serverchat.43494/download?version=289121",
-    "numberOfDownloads": 63,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1565748360,
-    "sourceUrl": "https://www.spigotmc.org/resources/serverchat.43494/history"
-  }
+  "downloadUrl": "resources/serverchat.43494/download?version=289121",
+  "numberOfDownloads": 63,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1565748360,
+  "sourceUrl": "https://www.spigotmc.org/resources/serverchat.43494/history"
 }

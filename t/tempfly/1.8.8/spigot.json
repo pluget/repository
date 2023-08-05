@@ -1,12 +1,9 @@
 {
   "name": "1.8.8",
-  "version": {
-    "name": "1.8.8",
-    "downloadUrl": "resources/tempfly-now-includes-factions-fly.54987/download?version=279299",
-    "numberOfDownloads": 143,
-    "rating": 9,
-    "numberOfVotes": 2,
-    "releaseDate": 1560781800,
-    "sourceUrl": "https://www.spigotmc.org/resources/54987/history/"
-  }
+  "downloadUrl": "resources/tempfly-now-includes-factions-fly.54987/download?version=279299",
+  "numberOfDownloads": 143,
+  "rating": 9,
+  "numberOfVotes": 2,
+  "releaseDate": 1560781800,
+  "sourceUrl": "https://www.spigotmc.org/resources/54987/history/"
 }

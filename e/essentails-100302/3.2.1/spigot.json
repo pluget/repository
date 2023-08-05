@@ -1,12 +1,9 @@
 {
   "name": "3.2.1",
-  "version": {
-    "name": "3.2.1",
-    "downloadUrl": "resources/essentails.100302/download?version=443203",
-    "numberOfDownloads": 66,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1646139000,
-    "sourceUrl": "https://www.spigotmc.org/resources/essentails.100302/history"
-  }
+  "downloadUrl": "resources/essentails.100302/download?version=443203",
+  "numberOfDownloads": 66,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1646139000,
+  "sourceUrl": "https://www.spigotmc.org/resources/essentails.100302/history"
 }

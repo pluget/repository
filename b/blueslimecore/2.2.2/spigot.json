@@ -1,12 +1,9 @@
 {
   "name": "2.2.2",
-  "version": {
-    "name": "2.2.2",
-    "downloadUrl": "resources/blueslimecore.83189/download?version=404894",
-    "numberOfDownloads": 115,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1624345680,
-    "sourceUrl": "https://www.spigotmc.org/resources/blueslimecore.83189/history"
-  }
+  "downloadUrl": "resources/blueslimecore.83189/download?version=404894",
+  "numberOfDownloads": 115,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1624345680,
+  "sourceUrl": "https://www.spigotmc.org/resources/blueslimecore.83189/history"
 }

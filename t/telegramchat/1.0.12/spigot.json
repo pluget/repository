@@ -1,12 +1,9 @@
 {
   "name": "1.0.12",
-  "version": {
-    "name": "1.0.12",
-    "downloadUrl": "resources/telegramchat.16576/download?version=211155",
-    "numberOfDownloads": 168,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1520232240,
-    "sourceUrl": "https://www.spigotmc.org/resources/telegramchat.16576/history"
-  }
+  "downloadUrl": "resources/telegramchat.16576/download?version=211155",
+  "numberOfDownloads": 168,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1520232240,
+  "sourceUrl": "https://www.spigotmc.org/resources/telegramchat.16576/history"
 }

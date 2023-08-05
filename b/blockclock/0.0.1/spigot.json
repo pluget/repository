@@ -1,12 +1,9 @@
 {
   "name": "0.0.1",
-  "version": {
-    "name": "0.0.1",
-    "downloadUrl": "resources/blockclock-1-13-1-19-2.68651/download?version=280343",
-    "numberOfDownloads": 40,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1561288800,
-    "sourceUrl": "https://www.spigotmc.org/resources/blockclock-1-13-1-19-2.68651/history"
-  }
+  "downloadUrl": "resources/blockclock-1-13-1-19-2.68651/download?version=280343",
+  "numberOfDownloads": 40,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1561288800,
+  "sourceUrl": "https://www.spigotmc.org/resources/blockclock-1-13-1-19-2.68651/history"
 }

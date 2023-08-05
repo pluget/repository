@@ -1,12 +1,9 @@
 {
   "name": "4.12.1",
-  "version": {
-    "name": "4.12.1",
-    "downloadUrl": "resources/angelchest-free.60383/download?version=419410",
-    "numberOfDownloads": 26,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1631597400,
-    "sourceUrl": "https://www.spigotmc.org/resources/angelchest-free.60383/history"
-  }
+  "downloadUrl": "resources/angelchest-free.60383/download?version=419410",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1631597400,
+  "sourceUrl": "https://www.spigotmc.org/resources/angelchest-free.60383/history"
 }

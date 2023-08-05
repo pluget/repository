@@ -1,12 +1,9 @@
 {
   "name": "1.7.1",
-  "version": {
-    "name": "1.7.1",
-    "downloadUrl": "resources/bungeeadmintools-revived-mc-1-18.99169/download?version=471613",
-    "numberOfDownloads": 42,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1665070620,
-    "sourceUrl": "https://www.spigotmc.org/resources/bungeeadmintools-revived-mc-1-18.99169/history"
-  }
+  "downloadUrl": "resources/bungeeadmintools-revived-mc-1-18.99169/download?version=471613",
+  "numberOfDownloads": 42,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1665070620,
+  "sourceUrl": "https://www.spigotmc.org/resources/bungeeadmintools-revived-mc-1-18.99169/history"
 }

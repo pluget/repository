@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/erratic-explosions.107234/download?version=481192",
-    "numberOfDownloads": 29,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1672978860,
-    "sourceUrl": "https://www.spigotmc.org/resources/erratic-explosions.107234/history"
-  }
+  "downloadUrl": "resources/erratic-explosions.107234/download?version=481192",
+  "numberOfDownloads": 29,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1672978860,
+  "sourceUrl": "https://www.spigotmc.org/resources/erratic-explosions.107234/history"
 }

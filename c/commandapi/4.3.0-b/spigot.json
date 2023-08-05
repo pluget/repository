@@ -1,12 +1,9 @@
 {
-  "name": "4.3.0-b",
-  "version": {
-    "name": "v4.3b",
-    "downloadUrl": "resources/api-commandapi-1-13-1-19-4.62353/download?version=359377",
-    "numberOfDownloads": 159,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1601329680,
-    "sourceUrl": "https://www.spigotmc.org/resources/api-commandapi-1-13-1-19-4.62353/history"
-  }
+  "name": "v4.3b",
+  "downloadUrl": "resources/api-commandapi-1-13-1-19-4.62353/download?version=359377",
+  "numberOfDownloads": 159,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1601329680,
+  "sourceUrl": "https://www.spigotmc.org/resources/api-commandapi-1-13-1-19-4.62353/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.9.2",
-  "version": {
-    "name": "1.9.2",
-    "downloadUrl": "resources/deepstorageplus-1-13-1-19.74145/download?version=380595",
-    "numberOfDownloads": 544,
-    "rating": 7.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1612021920,
-    "sourceUrl": "https://www.spigotmc.org/resources/deepstorageplus-1-13-1-19.74145/history"
-  }
+  "downloadUrl": "resources/deepstorageplus-1-13-1-19.74145/download?version=380595",
+  "numberOfDownloads": 544,
+  "rating": 7.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1612021920,
+  "sourceUrl": "https://www.spigotmc.org/resources/deepstorageplus-1-13-1-19.74145/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.06.0",
-  "version": {
-    "name": "1.06",
-    "downloadUrl": "resources/tags.93412/download?version=421556",
-    "numberOfDownloads": 410,
-    "rating": 4.6666666666666,
-    "numberOfVotes": 3,
-    "releaseDate": 1633112760,
-    "sourceUrl": "https://www.spigotmc.org/resources/tags.93412/history"
-  }
+  "name": "1.06",
+  "downloadUrl": "resources/tags.93412/download?version=421556",
+  "numberOfDownloads": 410,
+  "rating": 4.6666666666666,
+  "numberOfVotes": 3,
+  "releaseDate": 1633112760,
+  "sourceUrl": "https://www.spigotmc.org/resources/tags.93412/history"
 }

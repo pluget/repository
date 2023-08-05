@@ -1,12 +1,9 @@
 {
   "name": "0.0.1",
-  "version": {
-    "name": "0.0.1",
-    "downloadUrl": "resources/simplespawn-1-8-x-1-19-x.106332/download?version=475821",
-    "numberOfDownloads": 43,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1668870600,
-    "sourceUrl": "https://www.spigotmc.org/resources/simplespawn-1-8-x-1-19-x.106332/history"
-  }
+  "downloadUrl": "resources/simplespawn-1-8-x-1-19-x.106332/download?version=475821",
+  "numberOfDownloads": 43,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1668870600,
+  "sourceUrl": "https://www.spigotmc.org/resources/simplespawn-1-8-x-1-19-x.106332/history"
 }

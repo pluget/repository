@@ -1,12 +1,9 @@
 {
   "name": "3.6.2",
-  "version": {
-    "name": "3.6.2",
-    "downloadUrl": "resources/epicrename.4341/download?version=285951",
-    "numberOfDownloads": 8,
-    "rating": 9.75,
-    "numberOfVotes": 8,
-    "releaseDate": 1564185060,
-    "sourceUrl": "https://www.spigotmc.org/resources/epicrename.4341/history"
-  }
+  "downloadUrl": "resources/epicrename.4341/download?version=285951",
+  "numberOfDownloads": 8,
+  "rating": 9.75,
+  "numberOfVotes": 8,
+  "releaseDate": 1564185060,
+  "sourceUrl": "https://www.spigotmc.org/resources/epicrename.4341/history"
 }

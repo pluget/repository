@@ -1,12 +1,9 @@
 {
   "name": "1.8.4",
-  "version": {
-    "name": "1.8.4",
-    "downloadUrl": "resources/enderdragon-1-12-1-19.101583/download?version=465967",
-    "numberOfDownloads": 918,
-    "rating": 7.6,
-    "numberOfVotes": 5,
-    "releaseDate": 1660700520,
-    "sourceUrl": "https://www.spigotmc.org/resources/enderdragon-1-12-1-19.101583/history"
-  }
+  "downloadUrl": "resources/enderdragon-1-12-1-19.101583/download?version=465967",
+  "numberOfDownloads": 918,
+  "rating": 7.6,
+  "numberOfVotes": 5,
+  "releaseDate": 1660700520,
+  "sourceUrl": "https://www.spigotmc.org/resources/enderdragon-1-12-1-19.101583/history"
 }

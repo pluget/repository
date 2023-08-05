@@ -1,12 +1,9 @@
 {
   "name": "3.8.0",
-  "version": {
-    "name": "3.8.0",
-    "downloadUrl": "resources/asyncworldedit.327/download?version=354354",
-    "numberOfDownloads": 17,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1598933820,
-    "sourceUrl": "https://www.spigotmc.org/resources/asyncworldedit.327/history"
-  }
+  "downloadUrl": "resources/asyncworldedit.327/download?version=354354",
+  "numberOfDownloads": 17,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1598933820,
+  "sourceUrl": "https://www.spigotmc.org/resources/asyncworldedit.327/history"
 }

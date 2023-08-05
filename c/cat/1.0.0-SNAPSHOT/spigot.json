@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-SNAPSHOT",
-  "version": {
-    "name": "1.0-SNAPSHOT",
-    "downloadUrl": "resources/cat.107143/download?version=480758",
-    "numberOfDownloads": 16,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672691100,
-    "sourceUrl": "https://www.spigotmc.org/resources/cat.107143/history"
-  }
+  "name": "1.0-SNAPSHOT",
+  "downloadUrl": "resources/cat.107143/download?version=480758",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672691100,
+  "sourceUrl": "https://www.spigotmc.org/resources/cat.107143/history"
 }

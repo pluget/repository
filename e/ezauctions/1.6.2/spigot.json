@@ -1,12 +1,9 @@
 {
   "name": "1.6.2",
-  "version": {
-    "name": "1.6.2",
-    "downloadUrl": "resources/ezauctions.42574/download?version=408368",
-    "numberOfDownloads": 908,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1625922900,
-    "sourceUrl": "https://www.spigotmc.org/resources/ezauctions.42574/history"
-  }
+  "downloadUrl": "resources/ezauctions.42574/download?version=408368",
+  "numberOfDownloads": 908,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1625922900,
+  "sourceUrl": "https://www.spigotmc.org/resources/ezauctions.42574/history"
 }

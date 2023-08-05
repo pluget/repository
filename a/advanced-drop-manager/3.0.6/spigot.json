@@ -1,12 +1,9 @@
 {
   "name": "3.0.6",
-  "version": {
-    "name": "3.0.6",
-    "downloadUrl": "resources/advanced-drop-manager.65396/download?version=442521",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1645706340,
-    "sourceUrl": "https://www.spigotmc.org/resources/advanced-drop-manager.65396/history"
-  }
+  "downloadUrl": "resources/advanced-drop-manager.65396/download?version=442521",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1645706340,
+  "sourceUrl": "https://www.spigotmc.org/resources/advanced-drop-manager.65396/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.3.2",
-  "version": {
-    "name": "1.3.2",
-    "downloadUrl": "resources/currencies.96381/download?version=443551",
-    "numberOfDownloads": 263,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1646365620,
-    "sourceUrl": "https://www.spigotmc.org/resources/96381/history/"
-  }
+  "downloadUrl": "resources/currencies.96381/download?version=443551",
+  "numberOfDownloads": 263,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1646365620,
+  "sourceUrl": "https://www.spigotmc.org/resources/96381/history/"
 }

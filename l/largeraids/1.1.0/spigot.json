@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0",
-  "version": {
-    "name": "1.1",
-    "downloadUrl": "resources/largeraids-1-14-x-1-18-x.95422/download?version=417255",
-    "numberOfDownloads": 52,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1630238040,
-    "sourceUrl": "https://www.spigotmc.org/resources/95422/history/"
-  }
+  "name": "1.1",
+  "downloadUrl": "resources/largeraids-1-14-x-1-18-x.95422/download?version=417255",
+  "numberOfDownloads": 52,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1630238040,
+  "sourceUrl": "https://www.spigotmc.org/resources/95422/history/"
 }

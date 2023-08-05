@@ -1,12 +1,9 @@
 {
   "name": "2.1.0",
-  "version": {
-    "name": "2.1.0",
-    "downloadUrl": "resources/skjson.106019/download?version=480828",
-    "numberOfDownloads": 49,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1672755420,
-    "sourceUrl": "https://www.spigotmc.org/resources/106019/history/"
-  }
+  "downloadUrl": "resources/skjson.106019/download?version=480828",
+  "numberOfDownloads": 49,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1672755420,
+  "sourceUrl": "https://www.spigotmc.org/resources/106019/history/"
 }

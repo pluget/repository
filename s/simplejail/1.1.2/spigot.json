@@ -1,12 +1,9 @@
 {
   "name": "1.1.2",
-  "version": {
-    "name": "1.1.2",
-    "downloadUrl": "resources/simplejail.10079/download?version=136012",
-    "numberOfDownloads": 501,
-    "rating": 4,
-    "numberOfVotes": 1,
-    "releaseDate": 1484237220,
-    "sourceUrl": "https://www.spigotmc.org/resources/simplejail.10079/history"
-  }
+  "downloadUrl": "resources/simplejail.10079/download?version=136012",
+  "numberOfDownloads": 501,
+  "rating": 4,
+  "numberOfVotes": 1,
+  "releaseDate": 1484237220,
+  "sourceUrl": "https://www.spigotmc.org/resources/simplejail.10079/history"
 }

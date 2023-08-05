@@ -1,12 +1,9 @@
 {
   "name": "3.29.1-HOTFIX1",
-  "version": {
-    "name": "3.29.1-HOTFIX1",
-    "downloadUrl": "resources/angelchest-free.60383/download?version=406821",
-    "numberOfDownloads": 436,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1625239680,
-    "sourceUrl": "https://www.spigotmc.org/resources/angelchest-free.60383/history"
-  }
+  "downloadUrl": "resources/angelchest-free.60383/download?version=406821",
+  "numberOfDownloads": 436,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1625239680,
+  "sourceUrl": "https://www.spigotmc.org/resources/angelchest-free.60383/history"
 }

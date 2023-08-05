@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/tiltify-commands.105640/download?version=471567",
-    "numberOfDownloads": 17,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1665029460,
-    "sourceUrl": "https://www.spigotmc.org/resources/tiltify-commands.105640/history"
-  }
+  "downloadUrl": "resources/tiltify-commands.105640/download?version=471567",
+  "numberOfDownloads": 17,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1665029460,
+  "sourceUrl": "https://www.spigotmc.org/resources/tiltify-commands.105640/history"
 }

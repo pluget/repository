@@ -1,12 +1,9 @@
 {
   "name": "0.1.9-1mc1.16.2",
-  "version": {
-    "name": "0.1.9-1mc1.16.2",
-    "downloadUrl": "resources/the-gate.70247/download?version=355622",
-    "numberOfDownloads": 189,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1599482520,
-    "sourceUrl": "https://www.spigotmc.org/resources/the-gate.70247/history"
-  }
+  "downloadUrl": "resources/the-gate.70247/download?version=355622",
+  "numberOfDownloads": 189,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1599482520,
+  "sourceUrl": "https://www.spigotmc.org/resources/the-gate.70247/history"
 }

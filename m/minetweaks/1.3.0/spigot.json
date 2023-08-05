@@ -1,12 +1,9 @@
 {
   "name": "1.3.0",
-  "version": {
-    "name": "1.3.0",
-    "downloadUrl": "resources/minetweaks.96757/download?version=425241",
-    "numberOfDownloads": 78,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1635704880,
-    "sourceUrl": "https://www.spigotmc.org/resources/96757/history/"
-  }
+  "downloadUrl": "resources/minetweaks.96757/download?version=425241",
+  "numberOfDownloads": 78,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1635704880,
+  "sourceUrl": "https://www.spigotmc.org/resources/96757/history/"
 }

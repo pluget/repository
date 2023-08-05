@@ -1,12 +1,9 @@
 {
   "name": "1.7.12",
-  "version": {
-    "name": "1.7.12",
-    "downloadUrl": "resources/companions-free-version.83795/download?version=356411",
-    "numberOfDownloads": 70,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1599850560,
-    "sourceUrl": "https://www.spigotmc.org/resources/companions-free-version.83795/history"
-  }
+  "downloadUrl": "resources/companions-free-version.83795/download?version=356411",
+  "numberOfDownloads": 70,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1599850560,
+  "sourceUrl": "https://www.spigotmc.org/resources/companions-free-version.83795/history"
 }

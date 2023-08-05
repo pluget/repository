@@ -1,12 +1,9 @@
 {
   "name": "1.5.4",
-  "version": {
-    "name": "1.5.4",
-    "downloadUrl": "resources/plexcore.100324/download?version=445421",
-    "numberOfDownloads": 19,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1647463380,
-    "sourceUrl": "https://www.spigotmc.org/resources/plexcore.100324/history"
-  }
+  "downloadUrl": "resources/plexcore.100324/download?version=445421",
+  "numberOfDownloads": 19,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1647463380,
+  "sourceUrl": "https://www.spigotmc.org/resources/plexcore.100324/history"
 }

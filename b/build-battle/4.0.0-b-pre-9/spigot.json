@@ -1,12 +1,9 @@
 {
-  "name": "4.0.0-b-pre-9",
-  "version": {
-    "name": "4.0.0b-pre-9",
-    "downloadUrl": "resources/build-battle-guessthebuild-1-8-8-1-17.44703/download?version=247088",
-    "numberOfDownloads": 3,
-    "rating": 9.2727272727272,
-    "numberOfVotes": 11,
-    "releaseDate": 1541331960,
-    "sourceUrl": "https://www.spigotmc.org/resources/build-battle-guessthebuild-1-8-8-1-17.44703/history"
-  }
+  "name": "4.0.0b-pre-9",
+  "downloadUrl": "resources/build-battle-guessthebuild-1-8-8-1-17.44703/download?version=247088",
+  "numberOfDownloads": 3,
+  "rating": 9.2727272727272,
+  "numberOfVotes": 11,
+  "releaseDate": 1541331960,
+  "sourceUrl": "https://www.spigotmc.org/resources/build-battle-guessthebuild-1-8-8-1-17.44703/history"
 }

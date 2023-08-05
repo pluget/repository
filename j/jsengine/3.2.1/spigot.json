@@ -1,12 +1,9 @@
 {
   "name": "3.2.1",
-  "version": {
-    "name": "3.2.1",
-    "downloadUrl": "resources/jsengine.92709/download?version=487402",
-    "numberOfDownloads": 248,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1677502440,
-    "sourceUrl": "https://www.spigotmc.org/resources/jsengine.92709/history"
-  }
+  "downloadUrl": "resources/jsengine.92709/download?version=487402",
+  "numberOfDownloads": 248,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1677502440,
+  "sourceUrl": "https://www.spigotmc.org/resources/jsengine.92709/history"
 }

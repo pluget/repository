@@ -1,12 +1,9 @@
 {
   "name": "1.1.2",
-  "version": {
-    "name": "1.1.2",
-    "downloadUrl": "resources/signboard.29024/download?version=122674",
-    "numberOfDownloads": 80,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1478442780,
-    "sourceUrl": "https://www.spigotmc.org/resources/signboard.29024/history"
-  }
+  "downloadUrl": "resources/signboard.29024/download?version=122674",
+  "numberOfDownloads": 80,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1478442780,
+  "sourceUrl": "https://www.spigotmc.org/resources/signboard.29024/history"
 }

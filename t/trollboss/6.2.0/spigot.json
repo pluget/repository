@@ -1,12 +1,9 @@
 {
-  "name": "6.2.0",
-  "version": {
-    "name": "v6.2",
-    "downloadUrl": "resources/trollboss.47423/download?version=311008",
-    "numberOfDownloads": 3,
-    "rating": 8,
-    "numberOfVotes": 7,
-    "releaseDate": 1579732140,
-    "sourceUrl": "https://www.spigotmc.org/resources/trollboss.47423/history"
-  }
+  "name": "v6.2",
+  "downloadUrl": "resources/trollboss.47423/download?version=311008",
+  "numberOfDownloads": 3,
+  "rating": 8,
+  "numberOfVotes": 7,
+  "releaseDate": 1579732140,
+  "sourceUrl": "https://www.spigotmc.org/resources/trollboss.47423/history"
 }

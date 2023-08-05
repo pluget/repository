@@ -1,12 +1,9 @@
 {
   "name": "1.1.1",
-  "version": {
-    "name": "1.1.1",
-    "downloadUrl": "resources/lighttubers-alerts-for-youtubers.106003/download?version=474282",
-    "numberOfDownloads": 8,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1667487240,
-    "sourceUrl": "https://www.spigotmc.org/resources/106003/history/"
-  }
+  "downloadUrl": "resources/lighttubers-alerts-for-youtubers.106003/download?version=474282",
+  "numberOfDownloads": 8,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1667487240,
+  "sourceUrl": "https://www.spigotmc.org/resources/106003/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.6.1",
-  "version": {
-    "name": "1.6.1",
-    "downloadUrl": "resources/automatic-server-reconnect-bungee-reconnect.84395/download?version=456845",
-    "numberOfDownloads": 322,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1655502480,
-    "sourceUrl": "https://www.spigotmc.org/resources/automatic-server-reconnect-bungee-reconnect.84395/history"
-  }
+  "downloadUrl": "resources/automatic-server-reconnect-bungee-reconnect.84395/download?version=456845",
+  "numberOfDownloads": 322,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1655502480,
+  "sourceUrl": "https://www.spigotmc.org/resources/automatic-server-reconnect-bungee-reconnect.84395/history"
 }

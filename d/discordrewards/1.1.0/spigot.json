@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/discordrewards.72399/download?version=404014",
-    "numberOfDownloads": 169,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1623955620,
-    "sourceUrl": "https://www.spigotmc.org/resources/72399/history/"
-  }
+  "downloadUrl": "resources/discordrewards.72399/download?version=404014",
+  "numberOfDownloads": 169,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1623955620,
+  "sourceUrl": "https://www.spigotmc.org/resources/72399/history/"
 }

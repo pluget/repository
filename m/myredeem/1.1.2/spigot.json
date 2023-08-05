@@ -1,12 +1,9 @@
 {
   "name": "1.1.2",
-  "version": {
-    "name": "1.1.2",
-    "downloadUrl": "resources/myredeem-1-7-1-19-4.107027/download?version=480593",
-    "numberOfDownloads": 41,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1672602120,
-    "sourceUrl": "https://www.spigotmc.org/resources/107027/history/"
-  }
+  "downloadUrl": "resources/myredeem-1-7-1-19-4.107027/download?version=480593",
+  "numberOfDownloads": 41,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1672602120,
+  "sourceUrl": "https://www.spigotmc.org/resources/107027/history/"
 }

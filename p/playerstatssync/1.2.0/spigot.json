@@ -1,12 +1,9 @@
 {
-  "name": "1.2.0",
-  "version": {
-    "name": "1.2",
-    "downloadUrl": "resources/playerstatssync-1-9-x-1-19-x.106882/download?version=479225",
-    "numberOfDownloads": 6,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1671699900,
-    "sourceUrl": "https://www.spigotmc.org/resources/106882/history/"
-  }
+  "name": "1.2",
+  "downloadUrl": "resources/playerstatssync-1-9-x-1-19-x.106882/download?version=479225",
+  "numberOfDownloads": 6,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1671699900,
+  "sourceUrl": "https://www.spigotmc.org/resources/106882/history/"
 }

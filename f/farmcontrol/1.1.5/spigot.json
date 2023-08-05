@@ -1,12 +1,9 @@
 {
   "name": "1.1.5",
-  "version": {
-    "name": "1.1.5",
-    "downloadUrl": "resources/farmcontrol-1-15-1-19.86923/download?version=399541",
-    "numberOfDownloads": 522,
-    "rating": 10,
-    "numberOfVotes": 5,
-    "releaseDate": 1621501320,
-    "sourceUrl": "https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/history"
-  }
+  "downloadUrl": "resources/farmcontrol-1-15-1-19.86923/download?version=399541",
+  "numberOfDownloads": 522,
+  "rating": 10,
+  "numberOfVotes": 5,
+  "releaseDate": 1621501320,
+  "sourceUrl": "https://www.spigotmc.org/resources/farmcontrol-1-15-1-19.86923/history"
 }

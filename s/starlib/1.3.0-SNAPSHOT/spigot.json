@@ -1,12 +1,9 @@
 {
-  "name": "1.3.0-SNAPSHOT",
-  "version": {
-    "name": "1.3-SNAPSHOT",
-    "downloadUrl": "resources/starlib.106562/download?version=481032",
-    "numberOfDownloads": 11,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672861020,
-    "sourceUrl": "https://www.spigotmc.org/resources/starlib.106562/history"
-  }
+  "name": "1.3-SNAPSHOT",
+  "downloadUrl": "resources/starlib.106562/download?version=481032",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672861020,
+  "sourceUrl": "https://www.spigotmc.org/resources/starlib.106562/history"
 }

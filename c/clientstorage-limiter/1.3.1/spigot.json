@@ -1,12 +1,9 @@
 {
   "name": "1.3.1",
-  "version": {
-    "name": "1.3.1",
-    "downloadUrl": "resources/clientstorage-limiter.106883/download?version=479228",
-    "numberOfDownloads": 22,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1671700440,
-    "sourceUrl": "https://www.spigotmc.org/resources/106883/history/"
-  }
+  "downloadUrl": "resources/clientstorage-limiter.106883/download?version=479228",
+  "numberOfDownloads": 22,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1671700440,
+  "sourceUrl": "https://www.spigotmc.org/resources/106883/history/"
 }

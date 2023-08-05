@@ -1,12 +1,9 @@
 {
-  "name": "1.5.0",
-  "version": {
-    "name": "1.5",
-    "downloadUrl": "resources/sudo.90909/download?version=410729",
-    "numberOfDownloads": 292,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1626981120,
-    "sourceUrl": "https://www.spigotmc.org/resources/90909/history/"
-  }
+  "name": "1.5",
+  "downloadUrl": "resources/sudo.90909/download?version=410729",
+  "numberOfDownloads": 292,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1626981120,
+  "sourceUrl": "https://www.spigotmc.org/resources/90909/history/"
 }

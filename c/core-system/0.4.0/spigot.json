@@ -1,12 +1,9 @@
 {
   "name": "0.4.0",
-  "version": {
-    "name": "0.4.0",
-    "downloadUrl": "resources/core.56780/download?version=409867",
-    "numberOfDownloads": 241,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1626595920,
-    "sourceUrl": "https://www.spigotmc.org/resources/56780/history/"
-  }
+  "downloadUrl": "resources/core.56780/download?version=409867",
+  "numberOfDownloads": 241,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1626595920,
+  "sourceUrl": "https://www.spigotmc.org/resources/56780/history/"
 }

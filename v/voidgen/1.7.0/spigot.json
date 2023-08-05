@@ -1,12 +1,9 @@
 {
   "name": "1.7.0",
-  "version": {
-    "name": "1.7.0",
-    "downloadUrl": "resources/voidgen.25391/download?version=370926",
-    "numberOfDownloads": 36,
-    "rating": 8,
-    "numberOfVotes": 19,
-    "releaseDate": 1607360460,
-    "sourceUrl": "https://www.spigotmc.org/resources/voidgen.25391/history"
-  }
+  "downloadUrl": "resources/voidgen.25391/download?version=370926",
+  "numberOfDownloads": 36,
+  "rating": 8,
+  "numberOfVotes": 19,
+  "releaseDate": 1607360460,
+  "sourceUrl": "https://www.spigotmc.org/resources/voidgen.25391/history"
 }

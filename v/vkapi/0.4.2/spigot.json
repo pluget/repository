@@ -1,12 +1,9 @@
 {
   "name": "0.4.2",
-  "version": {
-    "name": "0.4.2",
-    "downloadUrl": "resources/vk-api.93093/download?version=481107",
-    "numberOfDownloads": 1,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672919820,
-    "sourceUrl": "https://www.spigotmc.org/resources/vk-api.93093/history"
-  }
+  "downloadUrl": "resources/vk-api.93093/download?version=481107",
+  "numberOfDownloads": 1,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672919820,
+  "sourceUrl": "https://www.spigotmc.org/resources/vk-api.93093/history"
 }

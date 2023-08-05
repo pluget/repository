@@ -1,12 +1,9 @@
 {
-  "name": "2.0.1-Beta",
-  "version": {
-    "name": "2.0.1 Beta",
-    "downloadUrl": "resources/holographic-placeholders-holoextension.64535/download?version=299345",
-    "numberOfDownloads": 1,
-    "rating": 7,
-    "numberOfVotes": 4,
-    "releaseDate": 1572173040,
-    "sourceUrl": "https://www.spigotmc.org/resources/64535/history/"
-  }
+  "name": "2.0.1 Beta",
+  "downloadUrl": "resources/holographic-placeholders-holoextension.64535/download?version=299345",
+  "numberOfDownloads": 1,
+  "rating": 7,
+  "numberOfVotes": 4,
+  "releaseDate": 1572173040,
+  "sourceUrl": "https://www.spigotmc.org/resources/64535/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0",
-  "version": {
-    "name": "v2.0",
-    "downloadUrl": "resources/tonicfoods.72274/download?version=484526",
-    "numberOfDownloads": 27,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1675351680,
-    "sourceUrl": "https://www.spigotmc.org/resources/72274/history/"
-  }
+  "name": "v2.0",
+  "downloadUrl": "resources/tonicfoods.72274/download?version=484526",
+  "numberOfDownloads": 27,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1675351680,
+  "sourceUrl": "https://www.spigotmc.org/resources/72274/history/"
 }

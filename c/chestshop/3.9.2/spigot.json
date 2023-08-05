@@ -1,12 +1,9 @@
 {
   "name": "3.9.2",
-  "version": {
-    "name": "3.9.2",
-    "downloadUrl": "resources/chestshop.51856/download?version=230115",
-    "numberOfDownloads": 10,
-    "rating": 9.2941176470588,
-    "numberOfVotes": 17,
-    "releaseDate": 1531684800,
-    "sourceUrl": "https://www.spigotmc.org/resources/chestshop.51856/history"
-  }
+  "downloadUrl": "resources/chestshop.51856/download?version=230115",
+  "numberOfDownloads": 10,
+  "rating": 9.2941176470588,
+  "numberOfVotes": 17,
+  "releaseDate": 1531684800,
+  "sourceUrl": "https://www.spigotmc.org/resources/chestshop.51856/history"
 }

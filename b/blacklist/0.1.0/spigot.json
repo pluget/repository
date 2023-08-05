@@ -1,12 +1,9 @@
 {
-  "name": "0.1.0",
-  "version": {
-    "name": "Beta-0.1",
-    "downloadUrl": "resources/blacklist-names-1-18.105900/download?version=473260",
-    "numberOfDownloads": 41,
-    "rating": 7.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1666594740,
-    "sourceUrl": "https://www.spigotmc.org/resources/105900/history/"
-  }
+  "name": "Beta-0.1",
+  "downloadUrl": "resources/blacklist-names-1-18.105900/download?version=473260",
+  "numberOfDownloads": 41,
+  "rating": 7.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1666594740,
+  "sourceUrl": "https://www.spigotmc.org/resources/105900/history/"
 }

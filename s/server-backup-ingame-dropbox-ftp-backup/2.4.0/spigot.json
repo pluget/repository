@@ -1,12 +1,9 @@
 {
   "name": "2.4.0",
-  "version": {
-    "name": "2.4.0",
-    "downloadUrl": "resources/server-backup-ingame-dropbox-ftp-backup-1-8-1-19-multithreaded.79320/download?version=412792",
-    "numberOfDownloads": 2,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1627917600,
-    "sourceUrl": "https://www.spigotmc.org/resources/79320/history/"
-  }
+  "downloadUrl": "resources/server-backup-ingame-dropbox-ftp-backup-1-8-1-19-multithreaded.79320/download?version=412792",
+  "numberOfDownloads": 2,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1627917600,
+  "sourceUrl": "https://www.spigotmc.org/resources/79320/history/"
 }

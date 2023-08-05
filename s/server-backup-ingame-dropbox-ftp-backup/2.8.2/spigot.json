@@ -1,12 +1,9 @@
 {
   "name": "2.8.2",
-  "version": {
-    "name": "2.8.2",
-    "downloadUrl": "resources/server-backup-ingame-dropbox-ftp-backup-1-8-1-19-multithreaded.79320/download?version=471286",
-    "numberOfDownloads": 750,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1664804520,
-    "sourceUrl": "https://www.spigotmc.org/resources/79320/history/"
-  }
+  "downloadUrl": "resources/server-backup-ingame-dropbox-ftp-backup-1-8-1-19-multithreaded.79320/download?version=471286",
+  "numberOfDownloads": 750,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1664804520,
+  "sourceUrl": "https://www.spigotmc.org/resources/79320/history/"
 }

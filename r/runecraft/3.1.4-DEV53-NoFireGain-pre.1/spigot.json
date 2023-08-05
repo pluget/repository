@@ -1,12 +1,9 @@
 {
-  "name": "3.1.4-DEV53-NoFireGain-pre.1",
-  "version": {
-    "name": "RC-3.1.4-DEV53-NoFireGain",
-    "downloadUrl": "resources/runecraft.39771/download?version=341845",
-    "numberOfDownloads": 75,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1593875880,
-    "sourceUrl": "https://www.spigotmc.org/resources/runecraft.39771/history"
-  }
+  "name": "RC-3.1.4-DEV53-NoFireGain",
+  "downloadUrl": "resources/runecraft.39771/download?version=341845",
+  "numberOfDownloads": 75,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1593875880,
+  "sourceUrl": "https://www.spigotmc.org/resources/runecraft.39771/history"
 }

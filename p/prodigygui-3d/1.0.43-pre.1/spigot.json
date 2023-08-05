@@ -1,12 +1,9 @@
 {
-  "name": "1.0.43-pre.1",
-  "version": {
-    "name": "1.0.43",
-    "downloadUrl": "resources/prodigygui-3d-official-version-1-8-1-16-5.67861/download?version=348310",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1596390720,
-    "sourceUrl": "https://www.spigotmc.org/resources/prodigygui-3d-official-version-1-8-1-16-5.67861/history"
-  }
+  "name": "1.0.43",
+  "downloadUrl": "resources/prodigygui-3d-official-version-1-8-1-16-5.67861/download?version=348310",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1596390720,
+  "sourceUrl": "https://www.spigotmc.org/resources/prodigygui-3d-official-version-1-8-1-16-5.67861/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.0.5-RELEASE",
-  "version": {
-    "name": "1.0.5-RELEASE",
-    "downloadUrl": "resources/spigot-party-api-for-party-and-friends.39751/download?version=490955",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1679930640,
-    "sourceUrl": "https://www.spigotmc.org/resources/spigot-party-api-for-party-and-friends.39751/history"
-  }
+  "downloadUrl": "resources/spigot-party-api-for-party-and-friends.39751/download?version=490955",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1679930640,
+  "sourceUrl": "https://www.spigotmc.org/resources/spigot-party-api-for-party-and-friends.39751/history"
 }

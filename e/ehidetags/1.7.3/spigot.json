@@ -1,12 +1,9 @@
 {
   "name": "1.7.3",
-  "version": {
-    "name": "1.7.3",
-    "downloadUrl": "resources/ehidetags.97904/download?version=473145",
-    "numberOfDownloads": 260,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1666473900,
-    "sourceUrl": "https://www.spigotmc.org/resources/ehidetags.97904/history"
-  }
+  "downloadUrl": "resources/ehidetags.97904/download?version=473145",
+  "numberOfDownloads": 260,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1666473900,
+  "sourceUrl": "https://www.spigotmc.org/resources/ehidetags.97904/history"
 }

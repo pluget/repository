@@ -1,12 +1,9 @@
 {
-  "name": "46.0.0",
-  "version": {
-    "name": "b46",
-    "downloadUrl": "resources/landlord-4.44398/download?version=241680",
-    "numberOfDownloads": 345,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1537905300,
-    "sourceUrl": "https://www.spigotmc.org/resources/44398/history/"
-  }
+  "name": "b46",
+  "downloadUrl": "resources/landlord-4.44398/download?version=241680",
+  "numberOfDownloads": 345,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1537905300,
+  "sourceUrl": "https://www.spigotmc.org/resources/44398/history/"
 }

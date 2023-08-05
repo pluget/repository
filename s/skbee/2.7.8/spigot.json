@@ -1,12 +1,9 @@
 {
   "name": "2.7.8",
-  "version": {
-    "name": "2.7.8",
-    "downloadUrl": "resources/skbee-skript-addon.75839/download?version=489295",
-    "numberOfDownloads": 555,
-    "rating": 8,
-    "numberOfVotes": 1,
-    "releaseDate": 1678910340,
-    "sourceUrl": "https://www.spigotmc.org/resources/skbee-skript-addon.75839/history"
-  }
+  "downloadUrl": "resources/skbee-skript-addon.75839/download?version=489295",
+  "numberOfDownloads": 555,
+  "rating": 8,
+  "numberOfVotes": 1,
+  "releaseDate": 1678910340,
+  "sourceUrl": "https://www.spigotmc.org/resources/skbee-skript-addon.75839/history"
 }

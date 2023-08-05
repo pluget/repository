@@ -1,12 +1,9 @@
 {
   "name": "2.3.1",
-  "version": {
-    "name": "2.3.1",
-    "downloadUrl": "resources/pistonqueue.83541/download?version=436609",
-    "numberOfDownloads": 1,
-    "rating": 7.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1642186500,
-    "sourceUrl": "https://www.spigotmc.org/resources/pistonqueue.83541/history"
-  }
+  "downloadUrl": "resources/pistonqueue.83541/download?version=436609",
+  "numberOfDownloads": 1,
+  "rating": 7.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1642186500,
+  "sourceUrl": "https://www.spigotmc.org/resources/pistonqueue.83541/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "6.1.0",
-  "version": {
-    "name": "6.1",
-    "downloadUrl": "resources/bungeeonlinetime.795/download?version=242657",
-    "numberOfDownloads": 549,
-    "rating": 4.6666666666666,
-    "numberOfVotes": 6,
-    "releaseDate": 1538574300,
-    "sourceUrl": "https://www.spigotmc.org/resources/795/history/"
-  }
+  "name": "6.1",
+  "downloadUrl": "resources/bungeeonlinetime.795/download?version=242657",
+  "numberOfDownloads": 549,
+  "rating": 4.6666666666666,
+  "numberOfVotes": 6,
+  "releaseDate": 1538574300,
+  "sourceUrl": "https://www.spigotmc.org/resources/795/history/"
 }

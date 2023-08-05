@@ -1,12 +1,9 @@
 {
-  "name": "16.1.2022-Build-1",
-  "version": {
-    "name": "16-1-2022 Build 1",
-    "downloadUrl": "resources/realscoreboard-1-13-to-1-19-3.22928/download?version=436967",
-    "numberOfDownloads": 1,
-    "rating": 8,
-    "numberOfVotes": 2,
-    "releaseDate": 1642357860,
-    "sourceUrl": "https://www.spigotmc.org/resources/realscoreboard-1-13-to-1-19-3.22928/history"
-  }
+  "name": "16-1-2022 Build 1",
+  "downloadUrl": "resources/realscoreboard-1-13-to-1-19-3.22928/download?version=436967",
+  "numberOfDownloads": 1,
+  "rating": 8,
+  "numberOfVotes": 2,
+  "releaseDate": 1642357860,
+  "sourceUrl": "https://www.spigotmc.org/resources/realscoreboard-1-13-to-1-19-3.22928/history"
 }

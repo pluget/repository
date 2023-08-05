@@ -1,12 +1,9 @@
 {
   "name": "11.5.4",
-  "version": {
-    "name": "11.5.4",
-    "downloadUrl": "resources/chestsort-api.59773/download?version=421394",
-    "numberOfDownloads": 392,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1632975120,
-    "sourceUrl": "https://www.spigotmc.org/resources/59773/history/"
-  }
+  "downloadUrl": "resources/chestsort-api.59773/download?version=421394",
+  "numberOfDownloads": 392,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1632975120,
+  "sourceUrl": "https://www.spigotmc.org/resources/59773/history/"
 }

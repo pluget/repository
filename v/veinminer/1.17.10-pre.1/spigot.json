@@ -1,12 +1,9 @@
 {
-  "name": "1.17.10-pre.1",
-  "version": {
-    "name": "1.17.10",
-    "downloadUrl": "resources/veinminer.12038/download?version=431125",
-    "numberOfDownloads": 28,
-    "rating": 10,
-    "numberOfVotes": 7,
-    "releaseDate": 1639264740,
-    "sourceUrl": "https://www.spigotmc.org/resources/veinminer.12038/history"
-  }
+  "name": "1.17.10",
+  "downloadUrl": "resources/veinminer.12038/download?version=431125",
+  "numberOfDownloads": 28,
+  "rating": 10,
+  "numberOfVotes": 7,
+  "releaseDate": 1639264740,
+  "sourceUrl": "https://www.spigotmc.org/resources/veinminer.12038/history"
 }

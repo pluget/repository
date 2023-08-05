@@ -1,12 +1,9 @@
 {
   "name": "2.5.5",
-  "version": {
-    "name": "2.5.5",
-    "downloadUrl": "resources/betterenderchest.2073/download?version=304526",
-    "numberOfDownloads": 486,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1576087020,
-    "sourceUrl": "https://www.spigotmc.org/resources/betterenderchest.2073/history"
-  }
+  "downloadUrl": "resources/betterenderchest.2073/download?version=304526",
+  "numberOfDownloads": 486,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1576087020,
+  "sourceUrl": "https://www.spigotmc.org/resources/betterenderchest.2073/history"
 }

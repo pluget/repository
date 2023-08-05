@@ -1,12 +1,9 @@
 {
   "name": "1.14.1",
-  "version": {
-    "name": "1.14.1",
-    "downloadUrl": "resources/item-chest-sorter.75964/download?version=491121",
-    "numberOfDownloads": 42,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1680079320,
-    "sourceUrl": "https://www.spigotmc.org/resources/item-chest-sorter.75964/history"
-  }
+  "downloadUrl": "resources/item-chest-sorter.75964/download?version=491121",
+  "numberOfDownloads": 42,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1680079320,
+  "sourceUrl": "https://www.spigotmc.org/resources/item-chest-sorter.75964/history"
 }

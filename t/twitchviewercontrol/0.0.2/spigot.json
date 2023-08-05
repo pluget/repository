@@ -1,12 +1,9 @@
 {
   "name": "0.0.2",
-  "version": {
-    "name": "0.0.2",
-    "downloadUrl": "resources/twitchviewercontrol.100882/download?version=465563",
-    "numberOfDownloads": 119,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1660476540,
-    "sourceUrl": "https://www.spigotmc.org/resources/twitchviewercontrol.100882/history"
-  }
+  "downloadUrl": "resources/twitchviewercontrol.100882/download?version=465563",
+  "numberOfDownloads": 119,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1660476540,
+  "sourceUrl": "https://www.spigotmc.org/resources/twitchviewercontrol.100882/history"
 }

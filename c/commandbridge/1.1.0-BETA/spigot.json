@@ -1,12 +1,9 @@
 {
-  "name": "1.1.0-BETA",
-  "version": {
-    "name": "1.1-BETA",
-    "downloadUrl": "resources/commandbridge-bungeecord-1-8-1-17-x.87335/download?version=375125",
-    "numberOfDownloads": 127,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1609556520,
-    "sourceUrl": "https://www.spigotmc.org/resources/87335/history/"
-  }
+  "name": "1.1-BETA",
+  "downloadUrl": "resources/commandbridge-bungeecord-1-8-1-17-x.87335/download?version=375125",
+  "numberOfDownloads": 127,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1609556520,
+  "sourceUrl": "https://www.spigotmc.org/resources/87335/history/"
 }

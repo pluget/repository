@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/extra-damageindicator.101443/download?version=449519",
-    "numberOfDownloads": 35,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1650390840,
-    "sourceUrl": "https://www.spigotmc.org/resources/extra-damageindicator.101443/history"
-  }
+  "downloadUrl": "resources/extra-damageindicator.101443/download?version=449519",
+  "numberOfDownloads": 35,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1650390840,
+  "sourceUrl": "https://www.spigotmc.org/resources/extra-damageindicator.101443/history"
 }

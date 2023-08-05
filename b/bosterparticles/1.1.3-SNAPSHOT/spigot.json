@@ -1,12 +1,9 @@
 {
   "name": "1.1.3-SNAPSHOT",
-  "version": {
-    "name": "1.1.3-SNAPSHOT",
-    "downloadUrl": "resources/bosterparticles.100933/download?version=453320",
-    "numberOfDownloads": 26,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1653340500,
-    "sourceUrl": "https://www.spigotmc.org/resources/bosterparticles.100933/history"
-  }
+  "downloadUrl": "resources/bosterparticles.100933/download?version=453320",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1653340500,
+  "sourceUrl": "https://www.spigotmc.org/resources/bosterparticles.100933/history"
 }

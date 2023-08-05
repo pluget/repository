@@ -1,12 +1,9 @@
 {
   "name": "7.0.4",
-  "version": {
-    "name": "7.0.4",
-    "downloadUrl": "resources/command-timer.24141/download?version=471852",
-    "numberOfDownloads": 46,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1665243600,
-    "sourceUrl": "https://www.spigotmc.org/resources/24141/history/"
-  }
+  "downloadUrl": "resources/command-timer.24141/download?version=471852",
+  "numberOfDownloads": 46,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1665243600,
+  "sourceUrl": "https://www.spigotmc.org/resources/24141/history/"
 }

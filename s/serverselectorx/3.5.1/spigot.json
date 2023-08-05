@@ -1,12 +1,9 @@
 {
   "name": "3.5.1",
-  "version": {
-    "name": "3.5.1",
-    "downloadUrl": "resources/serverselectorx-free.32853/download?version=305152",
-    "numberOfDownloads": 855,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1576406760,
-    "sourceUrl": "https://www.spigotmc.org/resources/serverselectorx-free.32853/history"
-  }
+  "downloadUrl": "resources/serverselectorx-free.32853/download?version=305152",
+  "numberOfDownloads": 855,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1576406760,
+  "sourceUrl": "https://www.spigotmc.org/resources/serverselectorx-free.32853/history"
 }

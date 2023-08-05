@@ -1,12 +1,9 @@
 {
   "name": "5.4.1-BETA",
-  "version": {
-    "name": "5.4.1-BETA",
-    "downloadUrl": "resources/terra.85151/download?version=404442",
-    "numberOfDownloads": 28,
-    "rating": 8.1142857142858,
-    "numberOfVotes": 35,
-    "releaseDate": 1624133760,
-    "sourceUrl": "https://www.spigotmc.org/resources/terra.85151/history"
-  }
+  "downloadUrl": "resources/terra.85151/download?version=404442",
+  "numberOfDownloads": 28,
+  "rating": 8.1142857142858,
+  "numberOfVotes": 35,
+  "releaseDate": 1624133760,
+  "sourceUrl": "https://www.spigotmc.org/resources/terra.85151/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.5.2",
-  "version": {
-    "name": "1.5.2",
-    "downloadUrl": "resources/easytalk.104101/download?version=465750",
-    "numberOfDownloads": 41,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660575300,
-    "sourceUrl": "https://www.spigotmc.org/resources/easytalk.104101/history"
-  }
+  "downloadUrl": "resources/easytalk.104101/download?version=465750",
+  "numberOfDownloads": 41,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660575300,
+  "sourceUrl": "https://www.spigotmc.org/resources/easytalk.104101/history"
 }

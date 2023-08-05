@@ -1,12 +1,9 @@
 {
   "name": "1.0.0-e822ba4-RELEASE",
-  "version": {
-    "name": "1.0.0-e822ba4-RELEASE",
-    "downloadUrl": "resources/treasury.99531/download?version=438492",
-    "numberOfDownloads": 91,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1643207940,
-    "sourceUrl": "https://www.spigotmc.org/resources/treasury.99531/history"
-  }
+  "downloadUrl": "resources/treasury.99531/download?version=438492",
+  "numberOfDownloads": 91,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1643207940,
+  "sourceUrl": "https://www.spigotmc.org/resources/treasury.99531/history"
 }

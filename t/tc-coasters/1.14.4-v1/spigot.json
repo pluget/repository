@@ -1,12 +1,9 @@
 {
   "name": "1.14.4-v1",
-  "version": {
-    "name": "1.14.4-v1",
-    "downloadUrl": "resources/tc-coasters.59583/download?version=287574",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1564950120,
-    "sourceUrl": "https://www.spigotmc.org/resources/59583/history/"
-  }
+  "downloadUrl": "resources/tc-coasters.59583/download?version=287574",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1564950120,
+  "sourceUrl": "https://www.spigotmc.org/resources/59583/history/"
 }

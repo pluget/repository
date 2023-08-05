@@ -1,12 +1,9 @@
 {
-  "name": "1.7.3",
-  "version": {
-    "name": "v1.7.3",
-    "downloadUrl": "resources/1-18-lobbyspeed.3604/download?version=32210",
-    "numberOfDownloads": 224,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1435911540,
-    "sourceUrl": "https://www.spigotmc.org/resources/3604/history/"
-  }
+  "name": "v1.7.3",
+  "downloadUrl": "resources/1-18-lobbyspeed.3604/download?version=32210",
+  "numberOfDownloads": 224,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1435911540,
+  "sourceUrl": "https://www.spigotmc.org/resources/3604/history/"
 }

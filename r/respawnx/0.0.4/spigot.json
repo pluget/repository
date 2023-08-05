@@ -1,12 +1,9 @@
 {
   "name": "0.0.4",
-  "version": {
-    "name": "0.0.4",
-    "downloadUrl": "resources/respawnx.47058/download?version=185209",
-    "numberOfDownloads": 50,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1505657400,
-    "sourceUrl": "https://www.spigotmc.org/resources/respawnx.47058/history"
-  }
+  "downloadUrl": "resources/respawnx.47058/download?version=185209",
+  "numberOfDownloads": 50,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1505657400,
+  "sourceUrl": "https://www.spigotmc.org/resources/respawnx.47058/history"
 }

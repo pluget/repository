@@ -1,12 +1,9 @@
 {
-  "name": "2.2.0-alpha-1",
-  "version": {
-    "name": "Dynmap v2.2-alpha-1",
-    "downloadUrl": "resources/dynmap%C2%AE.274/download?version=19708",
-    "numberOfDownloads": 15,
-    "rating": 9.6666666666666,
-    "numberOfVotes": 6,
-    "releaseDate": 1428212760,
-    "sourceUrl": "https://www.spigotmc.org/resources/dynmap%C2%AE.274/history"
-  }
+  "name": "Dynmap v2.2-alpha-1",
+  "downloadUrl": "resources/dynmap%C2%AE.274/download?version=19708",
+  "numberOfDownloads": 15,
+  "rating": 9.6666666666666,
+  "numberOfVotes": 6,
+  "releaseDate": 1428212760,
+  "sourceUrl": "https://www.spigotmc.org/resources/dynmap%C2%AE.274/history"
 }

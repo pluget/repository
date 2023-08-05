@@ -1,12 +1,9 @@
 {
   "name": "4.2.3",
-  "version": {
-    "name": "4.2.3",
-    "downloadUrl": "resources/guishop.2451/download?version=57841",
-    "numberOfDownloads": 11,
-    "rating": 3.875,
-    "numberOfVotes": 16,
-    "releaseDate": 1450096680,
-    "sourceUrl": "https://www.spigotmc.org/resources/guishop.2451/history"
-  }
+  "downloadUrl": "resources/guishop.2451/download?version=57841",
+  "numberOfDownloads": 11,
+  "rating": 3.875,
+  "numberOfVotes": 16,
+  "releaseDate": 1450096680,
+  "sourceUrl": "https://www.spigotmc.org/resources/guishop.2451/history"
 }

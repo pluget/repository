@@ -1,12 +1,9 @@
 {
   "name": "4.0.4",
-  "version": {
-    "name": "4.0.4",
-    "downloadUrl": "resources/hscore.98783/download?version=448518",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1649691960,
-    "sourceUrl": "https://www.spigotmc.org/resources/hscore.98783/history"
-  }
+  "downloadUrl": "resources/hscore.98783/download?version=448518",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1649691960,
+  "sourceUrl": "https://www.spigotmc.org/resources/hscore.98783/history"
 }

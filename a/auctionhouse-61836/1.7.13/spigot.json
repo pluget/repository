@@ -1,12 +1,9 @@
 {
   "name": "1.7.13",
-  "version": {
-    "name": "1.7.13",
-    "downloadUrl": "resources/auctionhouse.61836/download?version=284386",
-    "numberOfDownloads": 601,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1563412440,
-    "sourceUrl": "https://www.spigotmc.org/resources/61836/history/"
-  }
+  "downloadUrl": "resources/auctionhouse.61836/download?version=284386",
+  "numberOfDownloads": 601,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1563412440,
+  "sourceUrl": "https://www.spigotmc.org/resources/61836/history/"
 }

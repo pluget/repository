@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-pre.1",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/shoutcast-plugin.104300/download?version=464500",
-    "numberOfDownloads": 11,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1659867780,
-    "sourceUrl": "https://www.spigotmc.org/resources/shoutcast-plugin.104300/history"
-  }
+  "name": "1.0.0",
+  "downloadUrl": "resources/shoutcast-plugin.104300/download?version=464500",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1659867780,
+  "sourceUrl": "https://www.spigotmc.org/resources/shoutcast-plugin.104300/history"
 }

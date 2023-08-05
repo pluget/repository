@@ -1,12 +1,9 @@
 {
   "name": "0.9.0",
-  "version": {
-    "name": "0.9.0",
-    "downloadUrl": "resources/craftory-tech.81151/download?version=472835",
-    "numberOfDownloads": 1,
-    "rating": 7,
-    "numberOfVotes": 2,
-    "releaseDate": 1666123800,
-    "sourceUrl": "https://www.spigotmc.org/resources/craftory-tech.81151/history"
-  }
+  "downloadUrl": "resources/craftory-tech.81151/download?version=472835",
+  "numberOfDownloads": 1,
+  "rating": 7,
+  "numberOfVotes": 2,
+  "releaseDate": 1666123800,
+  "sourceUrl": "https://www.spigotmc.org/resources/craftory-tech.81151/history"
 }

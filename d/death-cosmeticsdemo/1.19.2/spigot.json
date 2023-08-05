@@ -1,12 +1,9 @@
 {
   "name": "1.19.2",
-  "version": {
-    "name": "1.19.2",
-    "downloadUrl": "resources/death-cosmetics-demo.107386/download?version=482193",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1673719380,
-    "sourceUrl": "https://www.spigotmc.org/resources/death-cosmetics-demo.107386/history"
-  }
+  "downloadUrl": "resources/death-cosmetics-demo.107386/download?version=482193",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1673719380,
+  "sourceUrl": "https://www.spigotmc.org/resources/death-cosmetics-demo.107386/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.4.20-4",
-  "version": {
-    "name": "v1.4.20.4",
-    "downloadUrl": "resources/crazy-envoys.32870/download?version=490219",
-    "numberOfDownloads": 294,
-    "rating": 2,
-    "numberOfVotes": 1,
-    "releaseDate": 1679453280,
-    "sourceUrl": "https://www.spigotmc.org/resources/32870/history/"
-  }
+  "name": "v1.4.20.4",
+  "downloadUrl": "resources/crazy-envoys.32870/download?version=490219",
+  "numberOfDownloads": 294,
+  "rating": 2,
+  "numberOfVotes": 1,
+  "releaseDate": 1679453280,
+  "sourceUrl": "https://www.spigotmc.org/resources/32870/history/"
 }

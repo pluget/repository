@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0",
-  "version": {
-    "name": "v2",
-    "downloadUrl": "resources/lunar-community-artist-discs-vol-1-new-discs.101982/download?version=485766",
-    "numberOfDownloads": 125,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1676282880,
-    "sourceUrl": "https://www.spigotmc.org/resources/101982/history/"
-  }
+  "name": "v2",
+  "downloadUrl": "resources/lunar-community-artist-discs-vol-1-new-discs.101982/download?version=485766",
+  "numberOfDownloads": 125,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1676282880,
+  "sourceUrl": "https://www.spigotmc.org/resources/101982/history/"
 }

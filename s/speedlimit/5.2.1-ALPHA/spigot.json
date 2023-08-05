@@ -1,12 +1,9 @@
 {
   "name": "5.2.1-ALPHA",
-  "version": {
-    "name": "5.2.1-ALPHA",
-    "downloadUrl": "resources/speedlimit-1-19-3-support.75269/download?version=431927",
-    "numberOfDownloads": 26,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1639694880,
-    "sourceUrl": "https://www.spigotmc.org/resources/75269/history/"
-  }
+  "downloadUrl": "resources/speedlimit-1-19-3-support.75269/download?version=431927",
+  "numberOfDownloads": 26,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1639694880,
+  "sourceUrl": "https://www.spigotmc.org/resources/75269/history/"
 }

@@ -1,12 +1,9 @@
 {
   "name": "5.1.6",
-  "version": {
-    "name": "5.1.6",
-    "downloadUrl": "resources/s86-powers.68637/download?version=288573",
-    "numberOfDownloads": 128,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1565465280,
-    "sourceUrl": "https://www.spigotmc.org/resources/s86-powers.68637/history"
-  }
+  "downloadUrl": "resources/s86-powers.68637/download?version=288573",
+  "numberOfDownloads": 128,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1565465280,
+  "sourceUrl": "https://www.spigotmc.org/resources/s86-powers.68637/history"
 }

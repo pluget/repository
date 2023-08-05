@@ -1,12 +1,9 @@
 {
   "name": "4.0.4",
-  "version": {
-    "name": "4.0.4",
-    "downloadUrl": "resources/wilderness-tp.18431/download?version=371296",
-    "numberOfDownloads": 3,
-    "rating": 4.3333333333334,
-    "numberOfVotes": 6,
-    "releaseDate": 1607556900,
-    "sourceUrl": "https://www.spigotmc.org/resources/wilderness-tp.18431/history"
-  }
+  "downloadUrl": "resources/wilderness-tp.18431/download?version=371296",
+  "numberOfDownloads": 3,
+  "rating": 4.3333333333334,
+  "numberOfVotes": 6,
+  "releaseDate": 1607556900,
+  "sourceUrl": "https://www.spigotmc.org/resources/wilderness-tp.18431/history"
 }

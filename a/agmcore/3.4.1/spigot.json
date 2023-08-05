@@ -1,12 +1,9 @@
 {
   "name": "3.4.1",
-  "version": {
-    "name": "3.4.1",
-    "downloadUrl": "resources/agmcore.83245/download?version=446689",
-    "numberOfDownloads": 86,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1648364460,
-    "sourceUrl": "https://www.spigotmc.org/resources/agmcore.83245/history"
-  }
+  "downloadUrl": "resources/agmcore.83245/download?version=446689",
+  "numberOfDownloads": 86,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1648364460,
+  "sourceUrl": "https://www.spigotmc.org/resources/agmcore.83245/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "7.2.2",
-  "version": {
-    "name": "7.2.2",
-    "downloadUrl": "resources/guishop.2451/download?version=299565",
-    "numberOfDownloads": 1,
-    "rating": 2,
-    "numberOfVotes": 2,
-    "releaseDate": 1572314700,
-    "sourceUrl": "https://www.spigotmc.org/resources/guishop.2451/history"
-  }
+  "downloadUrl": "resources/guishop.2451/download?version=299565",
+  "numberOfDownloads": 1,
+  "rating": 2,
+  "numberOfVotes": 2,
+  "releaseDate": 1572314700,
+  "sourceUrl": "https://www.spigotmc.org/resources/guishop.2451/history"
 }

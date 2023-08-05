@@ -1,12 +1,9 @@
 {
   "name": "1.19.1",
-  "version": {
-    "name": "1.19.1",
-    "downloadUrl": "resources/homestar.100046/download?version=468573",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1662427980,
-    "sourceUrl": "https://www.spigotmc.org/resources/100046/history/"
-  }
+  "downloadUrl": "resources/homestar.100046/download?version=468573",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1662427980,
+  "sourceUrl": "https://www.spigotmc.org/resources/100046/history/"
 }

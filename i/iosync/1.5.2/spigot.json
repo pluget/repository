@@ -1,12 +1,9 @@
 {
   "name": "1.5.2",
-  "version": {
-    "name": "1.5.2",
-    "downloadUrl": "resources/iosync.94399/download?version=480795",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1672714800,
-    "sourceUrl": "https://www.spigotmc.org/resources/iosync.94399/history"
-  }
+  "downloadUrl": "resources/iosync.94399/download?version=480795",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1672714800,
+  "sourceUrl": "https://www.spigotmc.org/resources/iosync.94399/history"
 }

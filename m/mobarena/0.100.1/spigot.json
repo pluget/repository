@@ -1,12 +1,9 @@
 {
   "name": "0.100.1",
-  "version": {
-    "name": "0.100.1",
-    "downloadUrl": "resources/mobarena.34110/download?version=220258",
-    "numberOfDownloads": 391,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1525458060,
-    "sourceUrl": "https://www.spigotmc.org/resources/mobarena.34110/history"
-  }
+  "downloadUrl": "resources/mobarena.34110/download?version=220258",
+  "numberOfDownloads": 391,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1525458060,
+  "sourceUrl": "https://www.spigotmc.org/resources/mobarena.34110/history"
 }

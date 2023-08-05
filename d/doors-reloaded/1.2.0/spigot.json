@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/doors-reloaded.91722/download?version=428738",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1638185460,
-    "sourceUrl": "https://www.spigotmc.org/resources/doors-reloaded.91722/history"
-  }
+  "downloadUrl": "resources/doors-reloaded.91722/download?version=428738",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1638185460,
+  "sourceUrl": "https://www.spigotmc.org/resources/doors-reloaded.91722/history"
 }

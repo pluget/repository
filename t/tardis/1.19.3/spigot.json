@@ -1,12 +1,9 @@
 {
   "name": "1.19.3",
-  "version": {
-    "name": "1.19.3",
-    "downloadUrl": "resources/tardis-dev.107482/download?version=482709",
-    "numberOfDownloads": 11,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1674141060,
-    "sourceUrl": "https://www.spigotmc.org/resources/tardis-dev.107482/history"
-  }
+  "downloadUrl": "resources/tardis-dev.107482/download?version=482709",
+  "numberOfDownloads": 11,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1674141060,
+  "sourceUrl": "https://www.spigotmc.org/resources/tardis-dev.107482/history"
 }

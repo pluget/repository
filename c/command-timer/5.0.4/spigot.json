@@ -1,12 +1,9 @@
 {
   "name": "5.0.4",
-  "version": {
-    "name": "5.0.4",
-    "downloadUrl": "resources/command-timer.24141/download?version=358024",
-    "numberOfDownloads": 416,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1600625880,
-    "sourceUrl": "https://www.spigotmc.org/resources/24141/history/"
-  }
+  "downloadUrl": "resources/command-timer.24141/download?version=358024",
+  "numberOfDownloads": 416,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1600625880,
+  "sourceUrl": "https://www.spigotmc.org/resources/24141/history/"
 }

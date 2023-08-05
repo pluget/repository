@@ -1,12 +1,9 @@
 {
   "name": "2.19.0",
-  "version": {
-    "name": "2.19.0",
-    "downloadUrl": "resources/essentialsx.9089/download?version=417660",
-    "numberOfDownloads": 270,
-    "rating": 8,
-    "numberOfVotes": 12,
-    "releaseDate": 1630441980,
-    "sourceUrl": "https://www.spigotmc.org/resources/essentialsx.9089/history"
-  }
+  "downloadUrl": "resources/essentialsx.9089/download?version=417660",
+  "numberOfDownloads": 270,
+  "rating": 8,
+  "numberOfVotes": 12,
+  "releaseDate": 1630441980,
+  "sourceUrl": "https://www.spigotmc.org/resources/essentialsx.9089/history"
 }

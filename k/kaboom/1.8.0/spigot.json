@@ -1,12 +1,9 @@
 {
   "name": "1.8.0",
-  "version": {
-    "name": "1.8.0",
-    "downloadUrl": "resources/kaboom-realistic-explosion-debris-1-19.102282/download?version=471112",
-    "numberOfDownloads": 96,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1664668440,
-    "sourceUrl": "https://www.spigotmc.org/resources/kaboom-realistic-explosion-debris-1-19.102282/history"
-  }
+  "downloadUrl": "resources/kaboom-realistic-explosion-debris-1-19.102282/download?version=471112",
+  "numberOfDownloads": 96,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1664668440,
+  "sourceUrl": "https://www.spigotmc.org/resources/kaboom-realistic-explosion-debris-1-19.102282/history"
 }

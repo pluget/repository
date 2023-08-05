@@ -1,12 +1,9 @@
 {
   "name": "2.8.8",
-  "version": {
-    "name": "2.8.8",
-    "downloadUrl": "resources/bagofgold.49332/download?version=306444",
-    "numberOfDownloads": 151,
-    "rating": 8.6666666666666,
-    "numberOfVotes": 3,
-    "releaseDate": 1577125860,
-    "sourceUrl": "https://www.spigotmc.org/resources/bagofgold.49332/history"
-  }
+  "downloadUrl": "resources/bagofgold.49332/download?version=306444",
+  "numberOfDownloads": 151,
+  "rating": 8.6666666666666,
+  "numberOfVotes": 3,
+  "releaseDate": 1577125860,
+  "sourceUrl": "https://www.spigotmc.org/resources/bagofgold.49332/history"
 }

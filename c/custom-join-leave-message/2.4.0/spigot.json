@@ -1,12 +1,9 @@
 {
-  "name": "2.4.0",
-  "version": {
-    "name": "2.4",
-    "downloadUrl": "resources/custom-join-leave-message.59300/download?version=490330",
-    "numberOfDownloads": 103,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1679517900,
-    "sourceUrl": "https://www.spigotmc.org/resources/59300/history/"
-  }
+  "name": "2.4",
+  "downloadUrl": "resources/custom-join-leave-message.59300/download?version=490330",
+  "numberOfDownloads": 103,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1679517900,
+  "sourceUrl": "https://www.spigotmc.org/resources/59300/history/"
 }

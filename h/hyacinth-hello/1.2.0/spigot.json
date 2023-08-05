@@ -1,12 +1,9 @@
 {
   "name": "1.2.0",
-  "version": {
-    "name": "1.2.0",
-    "downloadUrl": "resources/hyacinth-hello.104434/download?version=465788",
-    "numberOfDownloads": 17,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1660591800,
-    "sourceUrl": "https://www.spigotmc.org/resources/hyacinth-hello.104434/history"
-  }
+  "downloadUrl": "resources/hyacinth-hello.104434/download?version=465788",
+  "numberOfDownloads": 17,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1660591800,
+  "sourceUrl": "https://www.spigotmc.org/resources/hyacinth-hello.104434/history"
 }

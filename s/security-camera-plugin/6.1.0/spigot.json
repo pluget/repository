@@ -1,12 +1,9 @@
 {
-  "name": "6.1.0",
-  "version": {
-    "name": "CCTV V6.1",
-    "downloadUrl": "resources/security-camera-plugin-cctv-1-12-2-1-19.60310/download?version=343111",
-    "numberOfDownloads": 179,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1594318380,
-    "sourceUrl": "https://www.spigotmc.org/resources/security-camera-plugin-cctv-1-12-2-1-19.60310/history"
-  }
+  "name": "CCTV V6.1",
+  "downloadUrl": "resources/security-camera-plugin-cctv-1-12-2-1-19.60310/download?version=343111",
+  "numberOfDownloads": 179,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1594318380,
+  "sourceUrl": "https://www.spigotmc.org/resources/security-camera-plugin-cctv-1-12-2-1-19.60310/history"
 }

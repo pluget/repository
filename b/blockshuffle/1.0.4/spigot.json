@@ -1,12 +1,9 @@
 {
   "name": "1.0.4",
-  "version": {
-    "name": "1.0.4",
-    "downloadUrl": "resources/blockshuffle-1-13-x-1-18-x-minigame.81598/download?version=397235",
-    "numberOfDownloads": 1,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1620134880,
-    "sourceUrl": "https://www.spigotmc.org/resources/81598/history/"
-  }
+  "downloadUrl": "resources/blockshuffle-1-13-x-1-18-x-minigame.81598/download?version=397235",
+  "numberOfDownloads": 1,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1620134880,
+  "sourceUrl": "https://www.spigotmc.org/resources/81598/history/"
 }

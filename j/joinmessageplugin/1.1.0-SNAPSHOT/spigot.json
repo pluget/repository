@@ -1,12 +1,9 @@
 {
   "name": "1.1.0-SNAPSHOT",
-  "version": {
-    "name": "1.1.0-SNAPSHOT",
-    "downloadUrl": "resources/joinmessageplugin.101439/download?version=450831",
-    "numberOfDownloads": 22,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1651392360,
-    "sourceUrl": "https://www.spigotmc.org/resources/101439/history/"
-  }
+  "downloadUrl": "resources/joinmessageplugin.101439/download?version=450831",
+  "numberOfDownloads": 22,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1651392360,
+  "sourceUrl": "https://www.spigotmc.org/resources/101439/history/"
 }

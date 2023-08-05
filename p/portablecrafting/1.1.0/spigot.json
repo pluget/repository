@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/portablecrafting.81820/download?version=346441",
-    "numberOfDownloads": 27,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1595611440,
-    "sourceUrl": "https://www.spigotmc.org/resources/portablecrafting.81820/history"
-  }
+  "downloadUrl": "resources/portablecrafting.81820/download?version=346441",
+  "numberOfDownloads": 27,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1595611440,
+  "sourceUrl": "https://www.spigotmc.org/resources/portablecrafting.81820/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.13.0",
-  "version": {
-    "name": "1.13.0",
-    "downloadUrl": "resources/deluxemenus.11734/download?version=319324",
-    "numberOfDownloads": 4,
-    "rating": 10,
-    "numberOfVotes": 5,
-    "releaseDate": 1584744960,
-    "sourceUrl": "https://www.spigotmc.org/resources/deluxemenus.11734/history"
-  }
+  "downloadUrl": "resources/deluxemenus.11734/download?version=319324",
+  "numberOfDownloads": 4,
+  "rating": 10,
+  "numberOfVotes": 5,
+  "releaseDate": 1584744960,
+  "sourceUrl": "https://www.spigotmc.org/resources/deluxemenus.11734/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "3.1.2-Beta",
-  "version": {
-    "name": "3.1.2 Beta",
-    "downloadUrl": "resources/combatlogx.31689/download?version=172765",
-    "numberOfDownloads": 157,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1500417420,
-    "sourceUrl": "https://www.spigotmc.org/resources/combatlogx.31689/history"
-  }
+  "name": "3.1.2 Beta",
+  "downloadUrl": "resources/combatlogx.31689/download?version=172765",
+  "numberOfDownloads": 157,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1500417420,
+  "sourceUrl": "https://www.spigotmc.org/resources/combatlogx.31689/history"
 }

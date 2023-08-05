@@ -1,12 +1,9 @@
 {
-  "name": "0.0.1-b",
-  "version": {
-    "name": "0.0.1b",
-    "downloadUrl": "resources/ultracore-core-api.65746/download?version=265338",
-    "numberOfDownloads": 23,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1552934940,
-    "sourceUrl": "https://www.spigotmc.org/resources/ultracore-core-api.65746/history"
-  }
+  "name": "0.0.1b",
+  "downloadUrl": "resources/ultracore-core-api.65746/download?version=265338",
+  "numberOfDownloads": 23,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1552934940,
+  "sourceUrl": "https://www.spigotmc.org/resources/ultracore-core-api.65746/history"
 }

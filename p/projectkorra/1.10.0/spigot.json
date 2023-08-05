@@ -1,12 +1,9 @@
 {
   "name": "1.10.0",
-  "version": {
-    "name": "1.10.0",
-    "downloadUrl": "resources/projectkorra-core.2734/download?version=467958",
-    "numberOfDownloads": 1,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1661981040,
-    "sourceUrl": "https://www.spigotmc.org/resources/projectkorra-core.2734/history"
-  }
+  "downloadUrl": "resources/projectkorra-core.2734/download?version=467958",
+  "numberOfDownloads": 1,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1661981040,
+  "sourceUrl": "https://www.spigotmc.org/resources/projectkorra-core.2734/history"
 }

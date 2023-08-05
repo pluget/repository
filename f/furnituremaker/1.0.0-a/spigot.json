@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-a",
-  "version": {
-    "name": "1.0a",
-    "downloadUrl": "resources/furnituremaker.20667/download?version=89593",
-    "numberOfDownloads": 160,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1463396940,
-    "sourceUrl": "https://www.spigotmc.org/resources/furnituremaker.20667/history"
-  }
+  "name": "1.0a",
+  "downloadUrl": "resources/furnituremaker.20667/download?version=89593",
+  "numberOfDownloads": 160,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1463396940,
+  "sourceUrl": "https://www.spigotmc.org/resources/furnituremaker.20667/history"
 }

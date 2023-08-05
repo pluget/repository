@@ -1,12 +1,9 @@
 {
   "name": "1.8.2",
-  "version": {
-    "name": "1.8.2",
-    "downloadUrl": "resources/3ditems.88479/download?version=466579",
-    "numberOfDownloads": 1,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 3,
-    "releaseDate": 1661126160,
-    "sourceUrl": "https://www.spigotmc.org/resources/3ditems.88479/history"
-  }
+  "downloadUrl": "resources/3ditems.88479/download?version=466579",
+  "numberOfDownloads": 1,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 3,
+  "releaseDate": 1661126160,
+  "sourceUrl": "https://www.spigotmc.org/resources/3ditems.88479/history"
 }

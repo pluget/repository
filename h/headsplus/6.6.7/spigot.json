@@ -1,12 +1,9 @@
 {
   "name": "6.6.7",
-  "version": {
-    "name": "6.6.7",
-    "downloadUrl": "resources/headsplus-%C2%BB-1-15-2-1-19-x.40265/download?version=300945",
-    "numberOfDownloads": 576,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1573371060,
-    "sourceUrl": "https://www.spigotmc.org/resources/headsplus-%C2%BB-1-15-2-1-19-x.40265/history"
-  }
+  "downloadUrl": "resources/headsplus-%C2%BB-1-15-2-1-19-x.40265/download?version=300945",
+  "numberOfDownloads": 576,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1573371060,
+  "sourceUrl": "https://www.spigotmc.org/resources/headsplus-%C2%BB-1-15-2-1-19-x.40265/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "1.7.1",
-  "version": {
-    "name": "1.7.1",
-    "downloadUrl": "resources/debug-stick-in-survival.102837/download?version=458822",
-    "numberOfDownloads": 12,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1656688320,
-    "sourceUrl": "https://www.spigotmc.org/resources/102837/history/"
-  }
+  "downloadUrl": "resources/debug-stick-in-survival.102837/download?version=458822",
+  "numberOfDownloads": 12,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1656688320,
+  "sourceUrl": "https://www.spigotmc.org/resources/102837/history/"
 }

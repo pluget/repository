@@ -1,12 +1,9 @@
 {
-  "name": "2.4.7-c",
-  "version": {
-    "name": "2.4.7c",
-    "downloadUrl": "resources/prisonranksx-1-5-1-19.55899/download?version=284639",
-    "numberOfDownloads": 200,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1563542700,
-    "sourceUrl": "https://www.spigotmc.org/resources/55899/history/"
-  }
+  "name": "2.4.7c",
+  "downloadUrl": "resources/prisonranksx-1-5-1-19.55899/download?version=284639",
+  "numberOfDownloads": 200,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1563542700,
+  "sourceUrl": "https://www.spigotmc.org/resources/55899/history/"
 }

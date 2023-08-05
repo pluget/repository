@@ -1,12 +1,9 @@
 {
   "name": "1.8.6",
-  "version": {
-    "name": "1.8.6",
-    "downloadUrl": "resources/advancedcore.28295/download?version=122510",
-    "numberOfDownloads": 118,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1478376240,
-    "sourceUrl": "https://www.spigotmc.org/resources/advancedcore.28295/history"
-  }
+  "downloadUrl": "resources/advancedcore.28295/download?version=122510",
+  "numberOfDownloads": 118,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1478376240,
+  "sourceUrl": "https://www.spigotmc.org/resources/advancedcore.28295/history"
 }

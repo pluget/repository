@@ -1,12 +1,9 @@
 {
   "name": "2.9.0",
-  "version": {
-    "name": "2.9.0",
-    "downloadUrl": "resources/superelytra.78712/download?version=457485",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1655863380,
-    "sourceUrl": "https://www.spigotmc.org/resources/superelytra.78712/history"
-  }
+  "downloadUrl": "resources/superelytra.78712/download?version=457485",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1655863380,
+  "sourceUrl": "https://www.spigotmc.org/resources/superelytra.78712/history"
 }

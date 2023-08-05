@@ -1,12 +1,9 @@
 {
   "name": "1.7.1",
-  "version": {
-    "name": "1.7.1",
-    "downloadUrl": "resources/towny-menu-update.103260/download?version=488763",
-    "numberOfDownloads": 130,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1678563840,
-    "sourceUrl": "https://www.spigotmc.org/resources/103260/history/"
-  }
+  "downloadUrl": "resources/towny-menu-update.103260/download?version=488763",
+  "numberOfDownloads": 130,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1678563840,
+  "sourceUrl": "https://www.spigotmc.org/resources/103260/history/"
 }

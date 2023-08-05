@@ -1,12 +1,9 @@
 {
   "name": "1.0.1",
-  "version": {
-    "name": "1.0.1",
-    "downloadUrl": "resources/localchats-1-18-1-19.103938/download?version=463662",
-    "numberOfDownloads": 40,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1659458940,
-    "sourceUrl": "https://www.spigotmc.org/resources/localchats-1-18-1-19.103938/history"
-  }
+  "downloadUrl": "resources/localchats-1-18-1-19.103938/download?version=463662",
+  "numberOfDownloads": 40,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1659458940,
+  "sourceUrl": "https://www.spigotmc.org/resources/localchats-1-18-1-19.103938/history"
 }

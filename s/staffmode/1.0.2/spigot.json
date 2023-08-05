@@ -1,12 +1,9 @@
 {
   "name": "1.0.2",
-  "version": {
-    "name": "1.0.2",
-    "downloadUrl": "resources/staffmode.108048/download?version=486300",
-    "numberOfDownloads": 15,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1676670480,
-    "sourceUrl": "https://www.spigotmc.org/resources/staffmode.108048/history"
-  }
+  "downloadUrl": "resources/staffmode.108048/download?version=486300",
+  "numberOfDownloads": 15,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1676670480,
+  "sourceUrl": "https://www.spigotmc.org/resources/staffmode.108048/history"
 }

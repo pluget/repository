@@ -1,12 +1,9 @@
 {
-  "name": "9.9.3-5",
-  "version": {
-    "name": "9.9.3.5",
-    "downloadUrl": "resources/combatlogx.31689/download?version=335901",
-    "numberOfDownloads": 1,
-    "rating": 6,
-    "numberOfVotes": 2,
-    "releaseDate": 1591488480,
-    "sourceUrl": "https://www.spigotmc.org/resources/combatlogx.31689/history"
-  }
+  "name": "9.9.3.5",
+  "downloadUrl": "resources/combatlogx.31689/download?version=335901",
+  "numberOfDownloads": 1,
+  "rating": 6,
+  "numberOfVotes": 2,
+  "releaseDate": 1591488480,
+  "sourceUrl": "https://www.spigotmc.org/resources/combatlogx.31689/history"
 }

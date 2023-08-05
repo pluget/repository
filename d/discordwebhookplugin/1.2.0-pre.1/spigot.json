@@ -1,12 +1,9 @@
 {
-  "name": "1.2.0-pre.1",
-  "version": {
-    "name": "1.2",
-    "downloadUrl": "resources/discordwebhookplugin.103502/download?version=461446",
-    "numberOfDownloads": 30,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1658255280,
-    "sourceUrl": "https://www.spigotmc.org/resources/103502/history/"
-  }
+  "name": "1.2",
+  "downloadUrl": "resources/discordwebhookplugin.103502/download?version=461446",
+  "numberOfDownloads": 30,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1658255280,
+  "sourceUrl": "https://www.spigotmc.org/resources/103502/history/"
 }

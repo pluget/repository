@@ -1,12 +1,9 @@
 {
   "name": "1.2.3",
-  "version": {
-    "name": "1.2.3",
-    "downloadUrl": "resources/soulpoints.96396/download?version=421051",
-    "numberOfDownloads": 21,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1632746160,
-    "sourceUrl": "https://www.spigotmc.org/resources/soulpoints.96396/history"
-  }
+  "downloadUrl": "resources/soulpoints.96396/download?version=421051",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1632746160,
+  "sourceUrl": "https://www.spigotmc.org/resources/soulpoints.96396/history"
 }

@@ -1,12 +1,9 @@
 {
   "name": "2.9.1",
-  "version": {
-    "name": "2.9.1",
-    "downloadUrl": "resources/bagofgold.49332/download?version=321177",
-    "numberOfDownloads": 60,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1585582980,
-    "sourceUrl": "https://www.spigotmc.org/resources/bagofgold.49332/history"
-  }
+  "downloadUrl": "resources/bagofgold.49332/download?version=321177",
+  "numberOfDownloads": 60,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1585582980,
+  "sourceUrl": "https://www.spigotmc.org/resources/bagofgold.49332/history"
 }

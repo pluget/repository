@@ -1,12 +1,9 @@
 {
   "name": "1.10.6",
-  "version": {
-    "name": "1.10.6",
-    "downloadUrl": "resources/entityclearer.90802/download?version=431703",
-    "numberOfDownloads": 105,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1639544040,
-    "sourceUrl": "https://www.spigotmc.org/resources/entityclearer.90802/history"
-  }
+  "downloadUrl": "resources/entityclearer.90802/download?version=431703",
+  "numberOfDownloads": 105,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1639544040,
+  "sourceUrl": "https://www.spigotmc.org/resources/entityclearer.90802/history"
 }

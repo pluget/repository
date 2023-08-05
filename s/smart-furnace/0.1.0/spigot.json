@@ -1,12 +1,9 @@
 {
-  "name": "0.1.0",
-  "version": {
-    "name": "Snapshot 0.1",
-    "downloadUrl": "resources/smart-furnace.99642/download?version=439120",
-    "numberOfDownloads": 261,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1643556180,
-    "sourceUrl": "https://www.spigotmc.org/resources/smart-furnace.99642/history"
-  }
+  "name": "Snapshot 0.1",
+  "downloadUrl": "resources/smart-furnace.99642/download?version=439120",
+  "numberOfDownloads": 261,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1643556180,
+  "sourceUrl": "https://www.spigotmc.org/resources/smart-furnace.99642/history"
 }

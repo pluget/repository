@@ -1,12 +1,9 @@
 {
   "name": "1.5.2",
-  "version": {
-    "name": "1.5.2",
-    "downloadUrl": "resources/clicksort.27021/download?version=432312",
-    "numberOfDownloads": 1,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1639921320,
-    "sourceUrl": "https://www.spigotmc.org/resources/clicksort.27021/history"
-  }
+  "downloadUrl": "resources/clicksort.27021/download?version=432312",
+  "numberOfDownloads": 1,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1639921320,
+  "sourceUrl": "https://www.spigotmc.org/resources/clicksort.27021/history"
 }

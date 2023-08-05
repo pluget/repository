@@ -1,12 +1,9 @@
 {
   "name": "2.5.1-77",
-  "version": {
-    "name": "2.5.1-77",
-    "downloadUrl": "resources/undeadpandemic.95385/download?version=477007",
-    "numberOfDownloads": 1,
-    "rating": 7,
-    "numberOfVotes": 2,
-    "releaseDate": 1669902540,
-    "sourceUrl": "https://www.spigotmc.org/resources/undeadpandemic.95385/history"
-  }
+  "downloadUrl": "resources/undeadpandemic.95385/download?version=477007",
+  "numberOfDownloads": 1,
+  "rating": 7,
+  "numberOfVotes": 2,
+  "releaseDate": 1669902540,
+  "sourceUrl": "https://www.spigotmc.org/resources/undeadpandemic.95385/history"
 }

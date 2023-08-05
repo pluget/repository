@@ -1,12 +1,9 @@
 {
   "name": "3.1.1-BETA",
-  "version": {
-    "name": "3.1.1-BETA",
-    "downloadUrl": "resources/terra.85151/download?version=378329",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 7,
-    "releaseDate": 1611004260,
-    "sourceUrl": "https://www.spigotmc.org/resources/terra.85151/history"
-  }
+  "downloadUrl": "resources/terra.85151/download?version=378329",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 7,
+  "releaseDate": 1611004260,
+  "sourceUrl": "https://www.spigotmc.org/resources/terra.85151/history"
 }

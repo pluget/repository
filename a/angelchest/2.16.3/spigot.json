@@ -1,12 +1,9 @@
 {
   "name": "2.16.3",
-  "version": {
-    "name": "2.16.3",
-    "downloadUrl": "resources/angelchest-free.60383/download?version=350481",
-    "numberOfDownloads": 2,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1597272120,
-    "sourceUrl": "https://www.spigotmc.org/resources/angelchest-free.60383/history"
-  }
+  "downloadUrl": "resources/angelchest-free.60383/download?version=350481",
+  "numberOfDownloads": 2,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1597272120,
+  "sourceUrl": "https://www.spigotmc.org/resources/angelchest-free.60383/history"
 }

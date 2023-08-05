@@ -1,12 +1,9 @@
 {
   "name": "6.3.8",
-  "version": {
-    "name": "6.3.8",
-    "downloadUrl": "resources/guishop.2451/download?version=220309",
-    "numberOfDownloads": 394,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1525496700,
-    "sourceUrl": "https://www.spigotmc.org/resources/guishop.2451/history"
-  }
+  "downloadUrl": "resources/guishop.2451/download?version=220309",
+  "numberOfDownloads": 394,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1525496700,
+  "sourceUrl": "https://www.spigotmc.org/resources/guishop.2451/history"
 }

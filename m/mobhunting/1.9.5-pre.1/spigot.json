@@ -1,12 +1,9 @@
 {
-  "name": "1.9.5-pre.1",
-  "version": {
-    "name": "MobHunting V1.9.5",
-    "downloadUrl": "resources/mobhunting.3582/download?version=23222",
-    "numberOfDownloads": 115,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1430485500,
-    "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
-  }
+  "name": "MobHunting V1.9.5",
+  "downloadUrl": "resources/mobhunting.3582/download?version=23222",
+  "numberOfDownloads": 115,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1430485500,
+  "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
 }

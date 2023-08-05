@@ -1,12 +1,9 @@
 {
   "name": "1.13.5",
-  "version": {
-    "name": "1.13.5",
-    "downloadUrl": "resources/stickprotections.107415/download?version=485364",
-    "numberOfDownloads": 8,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1675983420,
-    "sourceUrl": "https://www.spigotmc.org/resources/stickprotections.107415/history"
-  }
+  "downloadUrl": "resources/stickprotections.107415/download?version=485364",
+  "numberOfDownloads": 8,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1675983420,
+  "sourceUrl": "https://www.spigotmc.org/resources/stickprotections.107415/history"
 }

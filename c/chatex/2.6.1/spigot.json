@@ -1,12 +1,9 @@
 {
   "name": "2.6.1",
-  "version": {
-    "name": "2.6.1",
-    "downloadUrl": "resources/chatex-continued.71041/download?version=353232",
-    "numberOfDownloads": 30,
-    "rating": 9.3333333333334,
-    "numberOfVotes": 6,
-    "releaseDate": 1598462640,
-    "sourceUrl": "https://www.spigotmc.org/resources/chatex-continued.71041/history"
-  }
+  "downloadUrl": "resources/chatex-continued.71041/download?version=353232",
+  "numberOfDownloads": 30,
+  "rating": 9.3333333333334,
+  "numberOfVotes": 6,
+  "releaseDate": 1598462640,
+  "sourceUrl": "https://www.spigotmc.org/resources/chatex-continued.71041/history"
 }

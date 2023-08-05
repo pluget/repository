@@ -1,12 +1,9 @@
 {
   "name": "1.0.3",
-  "version": {
-    "name": "1.0.3",
-    "downloadUrl": "resources/ccore-all-in-one-server-core.105569/download?version=472191",
-    "numberOfDownloads": 61,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1665536100,
-    "sourceUrl": "https://www.spigotmc.org/resources/ccore-all-in-one-server-core.105569/history"
-  }
+  "downloadUrl": "resources/ccore-all-in-one-server-core.105569/download?version=472191",
+  "numberOfDownloads": 61,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1665536100,
+  "sourceUrl": "https://www.spigotmc.org/resources/ccore-all-in-one-server-core.105569/history"
 }

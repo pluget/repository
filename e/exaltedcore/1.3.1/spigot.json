@@ -1,12 +1,9 @@
 {
   "name": "1.3.1",
-  "version": {
-    "name": "1.3.1",
-    "downloadUrl": "resources/exaltedcore.96535/download?version=453985",
-    "numberOfDownloads": 93,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1653895020,
-    "sourceUrl": "https://www.spigotmc.org/resources/exaltedcore.96535/history"
-  }
+  "downloadUrl": "resources/exaltedcore.96535/download?version=453985",
+  "numberOfDownloads": 93,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1653895020,
+  "sourceUrl": "https://www.spigotmc.org/resources/exaltedcore.96535/history"
 }

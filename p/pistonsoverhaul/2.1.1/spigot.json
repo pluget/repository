@@ -1,12 +1,9 @@
 {
   "name": "2.1.1",
-  "version": {
-    "name": "2.1.1",
-    "downloadUrl": "resources/pistonsoverhaul.51319/download?version=439581",
-    "numberOfDownloads": 123,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1643889480,
-    "sourceUrl": "https://www.spigotmc.org/resources/pistonsoverhaul.51319/history"
-  }
+  "downloadUrl": "resources/pistonsoverhaul.51319/download?version=439581",
+  "numberOfDownloads": 123,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1643889480,
+  "sourceUrl": "https://www.spigotmc.org/resources/pistonsoverhaul.51319/history"
 }

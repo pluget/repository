@@ -1,12 +1,9 @@
 {
   "name": "1.4.1",
-  "version": {
-    "name": "1.4.1",
-    "downloadUrl": "resources/trashcan.89157/download?version=385292",
-    "numberOfDownloads": 165,
-    "rating": 8.8,
-    "numberOfVotes": 5,
-    "releaseDate": 1614128220,
-    "sourceUrl": "https://www.spigotmc.org/resources/trashcan.89157/history"
-  }
+  "downloadUrl": "resources/trashcan.89157/download?version=385292",
+  "numberOfDownloads": 165,
+  "rating": 8.8,
+  "numberOfVotes": 5,
+  "releaseDate": 1614128220,
+  "sourceUrl": "https://www.spigotmc.org/resources/trashcan.89157/history"
 }

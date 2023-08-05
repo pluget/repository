@@ -1,12 +1,9 @@
 {
-  "name": "0.3.0-pre.1",
-  "version": {
-    "name": "0.3",
-    "downloadUrl": "resources/low-tps-high-ram-automatic-restart.106372/download?version=483584",
-    "numberOfDownloads": 16,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1674749220,
-    "sourceUrl": "https://www.spigotmc.org/resources/106372/history/"
-  }
+  "name": "0.3",
+  "downloadUrl": "resources/low-tps-high-ram-automatic-restart.106372/download?version=483584",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1674749220,
+  "sourceUrl": "https://www.spigotmc.org/resources/106372/history/"
 }

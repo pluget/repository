@@ -1,12 +1,9 @@
 {
   "name": "1.9.2",
-  "version": {
-    "name": "1.9.2",
-    "downloadUrl": "resources/rocketplaceholders-custom-placeholders.82678/download?version=403549",
-    "numberOfDownloads": 507,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1623752040,
-    "sourceUrl": "https://www.spigotmc.org/resources/82678/history/"
-  }
+  "downloadUrl": "resources/rocketplaceholders-custom-placeholders.82678/download?version=403549",
+  "numberOfDownloads": 507,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1623752040,
+  "sourceUrl": "https://www.spigotmc.org/resources/82678/history/"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "1.4.3-pre.1",
-  "version": {
-    "name": "1.4.3",
-    "downloadUrl": "resources/deathmessages.3789/download?version=81020",
-    "numberOfDownloads": 367,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1460018400,
-    "sourceUrl": "https://www.spigotmc.org/resources/deathmessages.3789/history"
-  }
+  "name": "1.4.3",
+  "downloadUrl": "resources/deathmessages.3789/download?version=81020",
+  "numberOfDownloads": 367,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1460018400,
+  "sourceUrl": "https://www.spigotmc.org/resources/deathmessages.3789/history"
 }

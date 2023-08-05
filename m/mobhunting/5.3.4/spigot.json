@@ -1,12 +1,9 @@
 {
   "name": "5.3.4",
-  "version": {
-    "name": "5.3.4",
-    "downloadUrl": "resources/mobhunting.3582/download?version=201925",
-    "numberOfDownloads": 162,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1515149520,
-    "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
-  }
+  "downloadUrl": "resources/mobhunting.3582/download?version=201925",
+  "numberOfDownloads": 162,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1515149520,
+  "sourceUrl": "https://www.spigotmc.org/resources/3582/history/"
 }

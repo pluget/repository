@@ -1,12 +1,9 @@
 {
   "name": "1.3.3",
-  "version": {
-    "name": "1.3.3",
-    "downloadUrl": "resources/kit-preview-essentialsx-addon-1-12-1-17.67791/download?version=290727",
-    "numberOfDownloads": 213,
-    "rating": 5,
-    "numberOfVotes": 2,
-    "releaseDate": 1566588900,
-    "sourceUrl": "https://www.spigotmc.org/resources/67791/history/"
-  }
+  "downloadUrl": "resources/kit-preview-essentialsx-addon-1-12-1-17.67791/download?version=290727",
+  "numberOfDownloads": 213,
+  "rating": 5,
+  "numberOfVotes": 2,
+  "releaseDate": 1566588900,
+  "sourceUrl": "https://www.spigotmc.org/resources/67791/history/"
 }

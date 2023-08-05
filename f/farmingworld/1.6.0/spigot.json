@@ -1,12 +1,9 @@
 {
-  "name": "1.6.0",
-  "version": {
-    "name": "1.6",
-    "downloadUrl": "resources/farmingworld.100640/download?version=452132",
-    "numberOfDownloads": 50,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1652466540,
-    "sourceUrl": "https://www.spigotmc.org/resources/farmingworld.100640/history"
-  }
+  "name": "1.6",
+  "downloadUrl": "resources/farmingworld.100640/download?version=452132",
+  "numberOfDownloads": 50,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1652466540,
+  "sourceUrl": "https://www.spigotmc.org/resources/farmingworld.100640/history"
 }

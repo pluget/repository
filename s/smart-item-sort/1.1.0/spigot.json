@@ -1,12 +1,9 @@
 {
   "name": "1.1.0",
-  "version": {
-    "name": "1.1.0",
-    "downloadUrl": "resources/smart-item-sort.100831/download?version=451020",
-    "numberOfDownloads": 25,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1651533360,
-    "sourceUrl": "https://www.spigotmc.org/resources/smart-item-sort.100831/history"
-  }
+  "downloadUrl": "resources/smart-item-sort.100831/download?version=451020",
+  "numberOfDownloads": 25,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1651533360,
+  "sourceUrl": "https://www.spigotmc.org/resources/smart-item-sort.100831/history"
 }

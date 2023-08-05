@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0-pre.1",
-  "version": {
-    "name": "r2.0",
-    "downloadUrl": "resources/simple-auto-exec.105425/download?version=470384",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1664021640,
-    "sourceUrl": "https://www.spigotmc.org/resources/simple-auto-exec.105425/history"
-  }
+  "name": "r2.0",
+  "downloadUrl": "resources/simple-auto-exec.105425/download?version=470384",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1664021640,
+  "sourceUrl": "https://www.spigotmc.org/resources/simple-auto-exec.105425/history"
 }

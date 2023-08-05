@@ -1,12 +1,9 @@
 {
   "name": "1.4.8",
-  "version": {
-    "name": "1.4.8",
-    "downloadUrl": "resources/ultimatechairs-1-8-1-19.80434/download?version=455668",
-    "numberOfDownloads": 1,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1654916760,
-    "sourceUrl": "https://www.spigotmc.org/resources/ultimatechairs-1-8-1-19.80434/history"
-  }
+  "downloadUrl": "resources/ultimatechairs-1-8-1-19.80434/download?version=455668",
+  "numberOfDownloads": 1,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1654916760,
+  "sourceUrl": "https://www.spigotmc.org/resources/ultimatechairs-1-8-1-19.80434/history"
 }

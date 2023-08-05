@@ -1,12 +1,9 @@
 {
   "name": "1.16.5",
-  "version": {
-    "name": "1.16.5",
-    "downloadUrl": "resources/griefprevention-claim-unclaim-blocker.108109/download?version=486500",
-    "numberOfDownloads": 29,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1676816940,
-    "sourceUrl": "https://www.spigotmc.org/resources/griefprevention-claim-unclaim-blocker.108109/history"
-  }
+  "downloadUrl": "resources/griefprevention-claim-unclaim-blocker.108109/download?version=486500",
+  "numberOfDownloads": 29,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1676816940,
+  "sourceUrl": "https://www.spigotmc.org/resources/griefprevention-claim-unclaim-blocker.108109/history"
 }

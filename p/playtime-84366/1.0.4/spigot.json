@@ -1,12 +1,9 @@
 {
   "name": "1.0.4",
-  "version": {
-    "name": "1.0.4",
-    "downloadUrl": "resources/playtime.84366/download?version=372170",
-    "numberOfDownloads": 50,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1608060660,
-    "sourceUrl": "https://www.spigotmc.org/resources/playtime.84366/history"
-  }
+  "downloadUrl": "resources/playtime.84366/download?version=372170",
+  "numberOfDownloads": 50,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1608060660,
+  "sourceUrl": "https://www.spigotmc.org/resources/playtime.84366/history"
 }

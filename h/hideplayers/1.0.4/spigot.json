@@ -1,12 +1,9 @@
 {
   "name": "1.0.4",
-  "version": {
-    "name": "1.0.4",
-    "downloadUrl": "resources/hideplayers.99883/download?version=440459",
-    "numberOfDownloads": 13,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1644362400,
-    "sourceUrl": "https://www.spigotmc.org/resources/99883/history/"
-  }
+  "downloadUrl": "resources/hideplayers.99883/download?version=440459",
+  "numberOfDownloads": 13,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1644362400,
+  "sourceUrl": "https://www.spigotmc.org/resources/99883/history/"
 }

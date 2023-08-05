@@ -1,12 +1,9 @@
 {
   "name": "3.4.1",
-  "version": {
-    "name": "3.4.1",
-    "downloadUrl": "resources/kingdomcraft-starter.11937/download?version=123524",
-    "numberOfDownloads": 159,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1478875980,
-    "sourceUrl": "https://www.spigotmc.org/resources/11937/history/"
-  }
+  "downloadUrl": "resources/kingdomcraft-starter.11937/download?version=123524",
+  "numberOfDownloads": 159,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1478875980,
+  "sourceUrl": "https://www.spigotmc.org/resources/11937/history/"
 }

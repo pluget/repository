@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/thors-axe.102695/download?version=456855",
-    "numberOfDownloads": 75,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655508240,
-    "sourceUrl": "https://www.spigotmc.org/resources/thors-axe.102695/history"
-  }
+  "downloadUrl": "resources/thors-axe.102695/download?version=456855",
+  "numberOfDownloads": 75,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655508240,
+  "sourceUrl": "https://www.spigotmc.org/resources/thors-axe.102695/history"
 }

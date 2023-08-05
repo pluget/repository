@@ -1,12 +1,9 @@
 {
   "name": "1.18.1",
-  "version": {
-    "name": "1.18.1",
-    "downloadUrl": "resources/dreileben-7-0-beta-smp-plugin.103335/download?version=462858",
-    "numberOfDownloads": 38,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1659037500,
-    "sourceUrl": "https://www.spigotmc.org/resources/dreileben-7-0-beta-smp-plugin.103335/history"
-  }
+  "downloadUrl": "resources/dreileben-7-0-beta-smp-plugin.103335/download?version=462858",
+  "numberOfDownloads": 38,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1659037500,
+  "sourceUrl": "https://www.spigotmc.org/resources/dreileben-7-0-beta-smp-plugin.103335/history"
 }

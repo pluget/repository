@@ -1,12 +1,9 @@
 {
   "name": "1.0.19",
-  "version": {
-    "name": "1.0.19",
-    "downloadUrl": "resources/namelessmc.11434/download?version=195095",
-    "numberOfDownloads": 1,
-    "rating": 9,
-    "numberOfVotes": 14,
-    "releaseDate": 1511390760,
-    "sourceUrl": "https://www.spigotmc.org/resources/namelessmc.11434/history"
-  }
+  "downloadUrl": "resources/namelessmc.11434/download?version=195095",
+  "numberOfDownloads": 1,
+  "rating": 9,
+  "numberOfVotes": 14,
+  "releaseDate": 1511390760,
+  "sourceUrl": "https://www.spigotmc.org/resources/namelessmc.11434/history"
 }

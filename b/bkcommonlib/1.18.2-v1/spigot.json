@@ -1,12 +1,9 @@
 {
   "name": "1.18.2-v1",
-  "version": {
-    "name": "1.18.2-v1",
-    "downloadUrl": "resources/bkcommonlib.39590/download?version=443828",
-    "numberOfDownloads": 8,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1646498400,
-    "sourceUrl": "https://www.spigotmc.org/resources/bkcommonlib.39590/history"
-  }
+  "downloadUrl": "resources/bkcommonlib.39590/download?version=443828",
+  "numberOfDownloads": 8,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1646498400,
+  "sourceUrl": "https://www.spigotmc.org/resources/bkcommonlib.39590/history"
 }

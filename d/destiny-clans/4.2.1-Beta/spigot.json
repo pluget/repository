@@ -1,12 +1,9 @@
 {
-  "name": "4.2.1-Beta",
-  "version": {
-    "name": "4.2.1 Beta",
-    "downloadUrl": "resources/destiny-clans.69248/download?version=284397",
-    "numberOfDownloads": 151,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1563421260,
-    "sourceUrl": "https://www.spigotmc.org/resources/69248/history/"
-  }
+  "name": "4.2.1 Beta",
+  "downloadUrl": "resources/destiny-clans.69248/download?version=284397",
+  "numberOfDownloads": 151,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1563421260,
+  "sourceUrl": "https://www.spigotmc.org/resources/69248/history/"
 }

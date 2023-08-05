@@ -1,12 +1,9 @@
 {
   "name": "2.2.1",
-  "version": {
-    "name": "2.2.1",
-    "downloadUrl": "resources/thirstforwater.105680/download?version=473203",
-    "numberOfDownloads": 89,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1666537500,
-    "sourceUrl": "https://www.spigotmc.org/resources/thirstforwater.105680/history"
-  }
+  "downloadUrl": "resources/thirstforwater.105680/download?version=473203",
+  "numberOfDownloads": 89,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1666537500,
+  "sourceUrl": "https://www.spigotmc.org/resources/thirstforwater.105680/history"
 }

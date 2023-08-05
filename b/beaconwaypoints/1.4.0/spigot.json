@@ -1,12 +1,9 @@
 {
   "name": "1.4.0",
-  "version": {
-    "name": "1.4.0",
-    "downloadUrl": "resources/beaconwaypoints.99866/download?version=447603",
-    "numberOfDownloads": 1,
-    "rating": 9.5,
-    "numberOfVotes": 4,
-    "releaseDate": 1649006220,
-    "sourceUrl": "https://www.spigotmc.org/resources/beaconwaypoints.99866/history"
-  }
+  "downloadUrl": "resources/beaconwaypoints.99866/download?version=447603",
+  "numberOfDownloads": 1,
+  "rating": 9.5,
+  "numberOfVotes": 4,
+  "releaseDate": 1649006220,
+  "sourceUrl": "https://www.spigotmc.org/resources/beaconwaypoints.99866/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "2.1.0",
-  "version": {
-    "name": "V2.1",
-    "downloadUrl": "resources/litebans-discordbanannouncer.107595/download?version=487224",
-    "numberOfDownloads": 26,
-    "rating": 10,
-    "numberOfVotes": 1,
-    "releaseDate": 1677346320,
-    "sourceUrl": "https://www.spigotmc.org/resources/107595/history/"
-  }
+  "name": "V2.1",
+  "downloadUrl": "resources/litebans-discordbanannouncer.107595/download?version=487224",
+  "numberOfDownloads": 26,
+  "rating": 10,
+  "numberOfVotes": 1,
+  "releaseDate": 1677346320,
+  "sourceUrl": "https://www.spigotmc.org/resources/107595/history/"
 }

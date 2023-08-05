@@ -1,12 +1,9 @@
 {
-  "name": "2.0.0-pre.1",
-  "version": {
-    "name": "2.0.0",
-    "downloadUrl": "resources/geyserhub.95455/download?version=456548",
-    "numberOfDownloads": 8,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1655328660,
-    "sourceUrl": "https://www.spigotmc.org/resources/geyserhub.95455/history"
-  }
+  "name": "2.0.0",
+  "downloadUrl": "resources/geyserhub.95455/download?version=456548",
+  "numberOfDownloads": 8,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1655328660,
+  "sourceUrl": "https://www.spigotmc.org/resources/geyserhub.95455/history"
 }

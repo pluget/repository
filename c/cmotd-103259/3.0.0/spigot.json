@@ -1,12 +1,9 @@
 {
-  "name": "3.0.0",
-  "version": {
-    "name": "3.0",
-    "downloadUrl": "resources/cmotd.103259/download?version=460176",
-    "numberOfDownloads": 21,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1657470300,
-    "sourceUrl": "https://www.spigotmc.org/resources/cmotd.103259/history"
-  }
+  "name": "3.0",
+  "downloadUrl": "resources/cmotd.103259/download?version=460176",
+  "numberOfDownloads": 21,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1657470300,
+  "sourceUrl": "https://www.spigotmc.org/resources/cmotd.103259/history"
 }

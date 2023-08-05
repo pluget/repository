@@ -1,12 +1,9 @@
 {
-  "name": "1.0.0-SNAPSHOT",
-  "version": {
-    "name": "1.0-SNAPSHOT",
-    "downloadUrl": "resources/betterautototem.101900/download?version=451655",
-    "numberOfDownloads": 30,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1652031480,
-    "sourceUrl": "https://www.spigotmc.org/resources/betterautototem.101900/history"
-  }
+  "name": "1.0-SNAPSHOT",
+  "downloadUrl": "resources/betterautototem.101900/download?version=451655",
+  "numberOfDownloads": 30,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1652031480,
+  "sourceUrl": "https://www.spigotmc.org/resources/betterautototem.101900/history"
 }

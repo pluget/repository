@@ -1,12 +1,9 @@
 {
   "name": "1.10.17",
-  "version": {
-    "name": "1.10.17",
-    "downloadUrl": "resources/spark.57242/download?version=477818",
-    "numberOfDownloads": 8,
-    "rating": 10,
-    "numberOfVotes": 3,
-    "releaseDate": 1670663820,
-    "sourceUrl": "https://www.spigotmc.org/resources/spark.57242/history"
-  }
+  "downloadUrl": "resources/spark.57242/download?version=477818",
+  "numberOfDownloads": 8,
+  "rating": 10,
+  "numberOfVotes": 3,
+  "releaseDate": 1670663820,
+  "sourceUrl": "https://www.spigotmc.org/resources/spark.57242/history"
 }

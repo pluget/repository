@@ -1,12 +1,9 @@
 {
   "name": "1.8.0",
-  "version": {
-    "name": "1.8.0",
-    "downloadUrl": "resources/dynmap-residence.90206/download?version=478210",
-    "numberOfDownloads": 7,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1670947920,
-    "sourceUrl": "https://www.spigotmc.org/resources/dynmap-residence.90206/history"
-  }
+  "downloadUrl": "resources/dynmap-residence.90206/download?version=478210",
+  "numberOfDownloads": 7,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1670947920,
+  "sourceUrl": "https://www.spigotmc.org/resources/dynmap-residence.90206/history"
 }

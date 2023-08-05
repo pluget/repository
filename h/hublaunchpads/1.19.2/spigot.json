@@ -1,12 +1,9 @@
 {
   "name": "1.19.2",
-  "version": {
-    "name": "1.19.2",
-    "downloadUrl": "resources/hublaunchpads.106794/download?version=478678",
-    "numberOfDownloads": 16,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1671306420,
-    "sourceUrl": "https://www.spigotmc.org/resources/hublaunchpads.106794/history"
-  }
+  "downloadUrl": "resources/hublaunchpads.106794/download?version=478678",
+  "numberOfDownloads": 16,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1671306420,
+  "sourceUrl": "https://www.spigotmc.org/resources/hublaunchpads.106794/history"
 }

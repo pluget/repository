@@ -1,12 +1,9 @@
 {
   "name": "1.18.4",
-  "version": {
-    "name": "1.18.4",
-    "downloadUrl": "resources/roadblock.81898/download?version=438886",
-    "numberOfDownloads": 60,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1643451060,
-    "sourceUrl": "https://www.spigotmc.org/resources/roadblock.81898/history"
-  }
+  "downloadUrl": "resources/roadblock.81898/download?version=438886",
+  "numberOfDownloads": 60,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1643451060,
+  "sourceUrl": "https://www.spigotmc.org/resources/roadblock.81898/history"
 }

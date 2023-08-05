@@ -1,12 +1,9 @@
 {
   "name": "4.1.4",
-  "version": {
-    "name": "4.1.4",
-    "downloadUrl": "resources/skquery-1-13-1-19.36631/download?version=362189",
-    "numberOfDownloads": 26,
-    "rating": 10,
-    "numberOfVotes": 2,
-    "releaseDate": 1602899940,
-    "sourceUrl": "https://www.spigotmc.org/resources/skquery-1-13-1-19.36631/history"
-  }
+  "downloadUrl": "resources/skquery-1-13-1-19.36631/download?version=362189",
+  "numberOfDownloads": 26,
+  "rating": 10,
+  "numberOfVotes": 2,
+  "releaseDate": 1602899940,
+  "sourceUrl": "https://www.spigotmc.org/resources/skquery-1-13-1-19.36631/history"
 }

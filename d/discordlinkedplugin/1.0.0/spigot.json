@@ -1,12 +1,9 @@
 {
   "name": "1.0.0",
-  "version": {
-    "name": "1.0.0",
-    "downloadUrl": "resources/discordlinkedplugin.99630/download?version=439074",
-    "numberOfDownloads": 25,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1643547360,
-    "sourceUrl": "https://www.spigotmc.org/resources/discordlinkedplugin.99630/history"
-  }
+  "downloadUrl": "resources/discordlinkedplugin.99630/download?version=439074",
+  "numberOfDownloads": 25,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1643547360,
+  "sourceUrl": "https://www.spigotmc.org/resources/discordlinkedplugin.99630/history"
 }

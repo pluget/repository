@@ -1,12 +1,9 @@
 {
   "name": "4.0.1",
-  "version": {
-    "name": "4.0.1",
-    "downloadUrl": "resources/maintenance-bungee-and-spigot-support.40699/download?version=449190",
-    "numberOfDownloads": 13,
-    "rating": 7.6666666666666,
-    "numberOfVotes": 6,
-    "releaseDate": 1650179580,
-    "sourceUrl": "https://www.spigotmc.org/resources/maintenance-bungee-and-spigot-support.40699/history"
-  }
+  "downloadUrl": "resources/maintenance-bungee-and-spigot-support.40699/download?version=449190",
+  "numberOfDownloads": 13,
+  "rating": 7.6666666666666,
+  "numberOfVotes": 6,
+  "releaseDate": 1650179580,
+  "sourceUrl": "https://www.spigotmc.org/resources/maintenance-bungee-and-spigot-support.40699/history"
 }

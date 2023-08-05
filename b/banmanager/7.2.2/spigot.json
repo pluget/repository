@@ -1,12 +1,9 @@
 {
-  "name": "7.2.2",
-  "version": {
-    "name": "v7.2.2",
-    "downloadUrl": "resources/banmanager.21927/download?version=337711",
-    "numberOfDownloads": 5,
-    "rating": 4,
-    "numberOfVotes": 4,
-    "releaseDate": 1592335200,
-    "sourceUrl": "https://www.spigotmc.org/resources/banmanager.21927/history"
-  }
+  "name": "v7.2.2",
+  "downloadUrl": "resources/banmanager.21927/download?version=337711",
+  "numberOfDownloads": 5,
+  "rating": 4,
+  "numberOfVotes": 4,
+  "releaseDate": 1592335200,
+  "sourceUrl": "https://www.spigotmc.org/resources/banmanager.21927/history"
 }

@@ -1,12 +1,9 @@
 {
-  "name": "0.1.0-PATCHED",
-  "version": {
-    "name": "0.1-PATCHED",
-    "downloadUrl": "resources/thirst.102503/download?version=455401",
-    "numberOfDownloads": 10,
-    "rating": 0,
-    "numberOfVotes": 0,
-    "releaseDate": 1654785120,
-    "sourceUrl": "https://www.spigotmc.org/resources/thirst.102503/history"
-  }
+  "name": "0.1-PATCHED",
+  "downloadUrl": "resources/thirst.102503/download?version=455401",
+  "numberOfDownloads": 10,
+  "rating": 0,
+  "numberOfVotes": 0,
+  "releaseDate": 1654785120,
+  "sourceUrl": "https://www.spigotmc.org/resources/thirst.102503/history"
 }
