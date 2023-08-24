@@ -80,7 +80,7 @@ During the development process, folders can change names without any backward co
 ```jsonc
   {
     "name": "BETA v2.0.1", // original name, based on source of truth
-    "cid": "777AAA", // optional if meta-package (like EssentialsX)
+    "download": "777AAA", // optional if meta-package (like EssentialsX)
     "supportedApis": ["spigot", "paper", "glowkit"], // optional
     "dependencies": ["essentialsx-core"], // optional
     "optionalDependencies": [], // optional, dependencies that are recommended for use with certain package
