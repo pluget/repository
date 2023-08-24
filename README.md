@@ -85,7 +85,7 @@ During the development process, folders can change names without any backward co
     "dependencies": ["essentialsx-core"], // optional
     "optionalDependencies": [], // optional, dependencies that are recommended for use with certain package
     "releaseDate": 1364392800, // earliest date of release
-    "supportedVersions": ["1.19"] // optional, supported Minecraft versions
+    "versions": ["1.19"] // optional, supported Minecraft versions
   }
 ```
 
